@@ -47,7 +47,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCukwkNiggjGhIEtQp_RaZ9tZ2HFy845cM',
+    apiKey: 'AIzaSyAHWc5OwiUrOXw_qZSL3mSv0TtagRTw988',
     appId: '1:968578397566:web:b035e517e88398b5e3ef2f',
     messagingSenderId: '968578397566',
     projectId: 'my-gift-pool',
