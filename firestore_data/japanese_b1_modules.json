@@ -1,0 +1,209 @@
+{
+    "japanese_b1_modules": [
+        {
+            "theme": "Expressing Opinions & Thoughts",
+            "order": 1,
+            "lessons": [
+                {
+                    "targetText": "と思います",
+                    "phoneticTranscription": "to omoimasu",
+                    "english": "I think that...",
+                    "radicalBreakdown": "と (quotation particle) + 思います (to think - polite)"
+                },
+                {
+                    "targetText": "と言いました",
+                    "phoneticTranscription": "to iimashita",
+                    "english": "said that...",
+                    "radicalBreakdown": "と (quotation) + 言いました (said - past polite)"
+                },
+                {
+                    "targetText": "かもしれません",
+                    "phoneticTranscription": "kamoshiremasen",
+                    "english": "might be / maybe",
+                    "radicalBreakdown": "かも (possibility) + しれません (don't know - polite negative)"
+                },
+                {
+                    "targetText": "はずです",
+                    "phoneticTranscription": "hazu desu",
+                    "english": "should be / is expected to",
+                    "radicalBreakdown": "はず (expectation) + です (is - polite)"
+                },
+                {
+                    "targetText": "そうです",
+                    "phoneticTranscription": "sou desu",
+                    "english": "I heard that / it seems",
+                    "radicalBreakdown": "そう (hearsay/appearance) + です (is)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "雨が降ると思う (using casual form in formal context)",
+                "correctVersion": "雨が降ると思います (use polite form)",
+                "explanation": "When expressing opinions with と思う, match the formality level. In formal situations, use と思います, not と思う."
+            }
+        },
+        {
+            "theme": "Conditional Forms",
+            "order": 2,
+            "lessons": [
+                {
+                    "targetText": "たら",
+                    "phoneticTranscription": "tara",
+                    "english": "if / when (conditional)",
+                    "radicalBreakdown": "Past tense + ら = conditional form"
+                },
+                {
+                    "targetText": "ば",
+                    "phoneticTranscription": "ba",
+                    "english": "if (conditional)",
+                    "radicalBreakdown": "Verb stem + ば = conditional"
+                },
+                {
+                    "targetText": "なら",
+                    "phoneticTranscription": "nara",
+                    "english": "if (contextual conditional)",
+                    "radicalBreakdown": "Noun/な-adjective + なら"
+                },
+                {
+                    "targetText": "と",
+                    "phoneticTranscription": "to",
+                    "english": "whenever / if (natural consequence)",
+                    "radicalBreakdown": "Dictionary form + と"
+                },
+                {
+                    "targetText": "のに",
+                    "phoneticTranscription": "noni",
+                    "english": "although / despite",
+                    "radicalBreakdown": "の (nominalizer) + に (particle)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "雨が降るなら、傘を持って行きます (using なら for weather)",
+                "correctVersion": "雨が降ったら、傘を持って行きます (use たら for uncertain events)",
+                "explanation": "Use たら for uncertain future events like weather. なら is for contextual conditions based on what someone said."
+            }
+        },
+        {
+            "theme": "Giving & Receiving",
+            "order": 3,
+            "lessons": [
+                {
+                    "targetText": "あげます",
+                    "phoneticTranscription": "agemasu",
+                    "english": "to give (to someone else)",
+                    "radicalBreakdown": "上げます (to raise/give upward)"
+                },
+                {
+                    "targetText": "くれます",
+                    "phoneticTranscription": "kuremasu",
+                    "english": "to give (to me/us)",
+                    "radicalBreakdown": "呉れます (to give - toward speaker)"
+                },
+                {
+                    "targetText": "もらいます",
+                    "phoneticTranscription": "moraimasu",
+                    "english": "to receive",
+                    "radicalBreakdown": "貰います (to receive)"
+                },
+                {
+                    "targetText": "てあげます",
+                    "phoneticTranscription": "te agemasu",
+                    "english": "to do (something) for someone",
+                    "radicalBreakdown": "て-form + あげます (give favor)"
+                },
+                {
+                    "targetText": "てくれます",
+                    "phoneticTranscription": "te kuremasu",
+                    "english": "to do (something) for me",
+                    "radicalBreakdown": "て-form + くれます (receive favor)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "友達が私にプレゼントをあげました (using あげる from friend to me)",
+                "correctVersion": "友達が私にプレゼントをくれました (use くれる when receiving)",
+                "explanation": "Use くれる when someone gives TO you or your in-group. Use あげる when you or your in-group gives TO others."
+            }
+        },
+        {
+            "theme": "Passive & Causative",
+            "order": 4,
+            "lessons": [
+                {
+                    "targetText": "られます",
+                    "phoneticTranscription": "raremasu",
+                    "english": "passive form (is done)",
+                    "radicalBreakdown": "Verb stem + られます (passive)"
+                },
+                {
+                    "targetText": "させます",
+                    "phoneticTranscription": "sasemasu",
+                    "english": "causative form (make/let someone do)",
+                    "radicalBreakdown": "Verb stem + させます (causative)"
+                },
+                {
+                    "targetText": "られました",
+                    "phoneticTranscription": "raremashita",
+                    "english": "was done (passive past)",
+                    "radicalBreakdown": "られます + past tense"
+                },
+                {
+                    "targetText": "させられます",
+                    "phoneticTranscription": "saseraremasu",
+                    "english": "causative-passive (be made to do)",
+                    "radicalBreakdown": "させる + られる (forced to do)"
+                },
+                {
+                    "targetText": "によって",
+                    "phoneticTranscription": "ni yotte",
+                    "english": "by (agent in passive)",
+                    "radicalBreakdown": "に (by) + よって (depending on)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "先生は学生を勉強させました (correct causative)",
+                "correctVersion": "先生は学生に勉強させました (use に particle with causative)",
+                "explanation": "With causative forms, use に particle (not を) to mark the person being made to do something."
+            }
+        },
+        {
+            "theme": "Honorific & Humble Forms",
+            "order": 5,
+            "lessons": [
+                {
+                    "targetText": "いらっしゃいます",
+                    "phoneticTranscription": "irasshaimasu",
+                    "english": "to be / to go / to come (honorific)",
+                    "radicalBreakdown": "Honorific form of いる/行く/来る"
+                },
+                {
+                    "targetText": "おっしゃいます",
+                    "phoneticTranscription": "osshaimasu",
+                    "english": "to say (honorific)",
+                    "radicalBreakdown": "Honorific form of 言う"
+                },
+                {
+                    "targetText": "召し上がります",
+                    "phoneticTranscription": "meshiagarimasu",
+                    "english": "to eat / drink (honorific)",
+                    "radicalBreakdown": "Honorific form of 食べる/飲む"
+                },
+                {
+                    "targetText": "いたします",
+                    "phoneticTranscription": "itashimasu",
+                    "english": "to do (humble)",
+                    "radicalBreakdown": "Humble form of する"
+                },
+                {
+                    "targetText": "申します",
+                    "phoneticTranscription": "moushimasu",
+                    "english": "to say / be called (humble)",
+                    "radicalBreakdown": "Humble form of 言う"
+                }
+            ],
+            "liarGameData": {
+                "trap": "社長が会議室にいらっしゃいました (correct honorific)",
+                "correctVersion": "私が会議室におります (use humble form for yourself)",
+                "explanation": "Use honorific forms (いらっしゃる) for others of higher status. Use humble forms (おる) when talking about yourself to show respect."
+            }
+        }
+    ]
+}

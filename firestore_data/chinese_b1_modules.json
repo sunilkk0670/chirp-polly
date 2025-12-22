@@ -1,0 +1,209 @@
+{
+    "chinese_b1_modules": [
+        {
+            "theme": "把 (bǎ) Structure",
+            "order": 1,
+            "lessons": [
+                {
+                    "targetText": "把",
+                    "phoneticTranscription": "bǎ",
+                    "english": "disposal marker (把 structure)",
+                    "radicalBreakdown": "扌(hand) + 巴 - marks direct object being acted upon"
+                },
+                {
+                    "targetText": "把书放在桌子上",
+                    "phoneticTranscription": "bǎ shū fàng zài zhuōzi shàng",
+                    "english": "Put the book on the table",
+                    "radicalBreakdown": "把 + book + put + on + table + on"
+                },
+                {
+                    "targetText": "把门关上",
+                    "phoneticTranscription": "bǎ mén guān shàng",
+                    "english": "Close the door",
+                    "radicalBreakdown": "把 + door + close + up"
+                },
+                {
+                    "targetText": "把作业做完",
+                    "phoneticTranscription": "bǎ zuòyè zuò wán",
+                    "english": "Finish the homework",
+                    "radicalBreakdown": "把 + homework + do + finish"
+                },
+                {
+                    "targetText": "把衣服洗干净",
+                    "phoneticTranscription": "bǎ yīfu xǐ gānjìng",
+                    "english": "Wash the clothes clean",
+                    "radicalBreakdown": "把 + clothes + wash + clean"
+                }
+            ],
+            "liarGameData": {
+                "trap": "我把关门了 (wrong word order - verb before object)",
+                "correctVersion": "我把门关了 (correct: 把 + object + verb + complement)",
+                "explanation": "把 structure word order: Subject + 把 + OBJECT + VERB + complement. Never 把 + verb + object!"
+            }
+        },
+        {
+            "theme": "Resultative Complements",
+            "order": 2,
+            "lessons": [
+                {
+                    "targetText": "完",
+                    "phoneticTranscription": "wán",
+                    "english": "finished (complement)",
+                    "radicalBreakdown": "Result: action completed"
+                },
+                {
+                    "targetText": "好",
+                    "phoneticTranscription": "hǎo",
+                    "english": "well / properly (complement)",
+                    "radicalBreakdown": "Result: action done well"
+                },
+                {
+                    "targetText": "到",
+                    "phoneticTranscription": "dào",
+                    "english": "successfully reached (complement)",
+                    "radicalBreakdown": "Result: goal achieved"
+                },
+                {
+                    "targetText": "见",
+                    "phoneticTranscription": "jiàn",
+                    "english": "perceived (complement)",
+                    "radicalBreakdown": "Result: successfully perceived"
+                },
+                {
+                    "targetText": "懂",
+                    "phoneticTranscription": "dǒng",
+                    "english": "understood (complement)",
+                    "radicalBreakdown": "Result: comprehension achieved"
+                }
+            ],
+            "liarGameData": {
+                "trap": "我吃饭完了 (separating verb and complement)",
+                "correctVersion": "我吃完饭了 (complement goes directly after verb: 吃完)",
+                "explanation": "Resultative complements attach directly to verbs: 吃完, 做好, 看见. Don't separate them with objects!"
+            }
+        },
+        {
+            "theme": "Directional Complements",
+            "order": 3,
+            "lessons": [
+                {
+                    "targetText": "上",
+                    "phoneticTranscription": "shàng",
+                    "english": "up / onto (direction)",
+                    "radicalBreakdown": "Directional complement - upward"
+                },
+                {
+                    "targetText": "下",
+                    "phoneticTranscription": "xià",
+                    "english": "down / off (direction)",
+                    "radicalBreakdown": "Directional complement - downward"
+                },
+                {
+                    "targetText": "进",
+                    "phoneticTranscription": "jìn",
+                    "english": "in / into (direction)",
+                    "radicalBreakdown": "Directional complement - inward"
+                },
+                {
+                    "targetText": "出",
+                    "phoneticTranscription": "chū",
+                    "english": "out (direction)",
+                    "radicalBreakdown": "Directional complement - outward"
+                },
+                {
+                    "targetText": "回",
+                    "phoneticTranscription": "huí",
+                    "english": "back / return (direction)",
+                    "radicalBreakdown": "Directional complement - returning"
+                }
+            ],
+            "liarGameData": {
+                "trap": "他走进了房间来 (using 来 after 进 incorrectly)",
+                "correctVersion": "他走进房间来了 (correct: verb + direction + 来/去 + 了)",
+                "explanation": "Directional complements: verb + simple direction (进) + 来/去 + object. Order matters!"
+            }
+        },
+        {
+            "theme": "Expressing Duration",
+            "order": 4,
+            "lessons": [
+                {
+                    "targetText": "了...了",
+                    "phoneticTranscription": "le...le",
+                    "english": "have been doing for (duration)",
+                    "radicalBreakdown": "Verb + 了 + duration + 了"
+                },
+                {
+                    "targetText": "学了三年了",
+                    "phoneticTranscription": "xué le sān nián le",
+                    "english": "have been studying for 3 years",
+                    "radicalBreakdown": "学 (study) + 了 + 三年 (3 years) + 了"
+                },
+                {
+                    "targetText": "等了一个小时",
+                    "phoneticTranscription": "děng le yī gè xiǎoshí",
+                    "english": "waited for one hour",
+                    "radicalBreakdown": "等 (wait) + 了 + 一个小时 (1 hour)"
+                },
+                {
+                    "targetText": "住了两天",
+                    "phoneticTranscription": "zhù le liǎng tiān",
+                    "english": "stayed for two days",
+                    "radicalBreakdown": "住 (stay) + 了 + 两天 (2 days)"
+                },
+                {
+                    "targetText": "看了半个小时",
+                    "phoneticTranscription": "kàn le bàn gè xiǎoshí",
+                    "english": "watched for half an hour",
+                    "radicalBreakdown": "看 (watch) + 了 + 半个小时 (half hour)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "我学中文三年了 (missing first 了)",
+                "correctVersion": "我学了中文三年了 or 我学中文学了三年了 (need 了 after verb for duration)",
+                "explanation": "For ongoing duration, use: verb + 了 + object + duration + 了, or verb + object + verb + 了 + duration + 了!"
+            }
+        },
+        {
+            "theme": "Complex Comparisons",
+            "order": 5,
+            "lessons": [
+                {
+                    "targetText": "比",
+                    "phoneticTranscription": "bǐ",
+                    "english": "compared to / than",
+                    "radicalBreakdown": "Comparison marker"
+                },
+                {
+                    "targetText": "A比B + adj",
+                    "phoneticTranscription": "A bǐ B + adj",
+                    "english": "A is more [adj] than B",
+                    "radicalBreakdown": "Basic comparison structure"
+                },
+                {
+                    "targetText": "跟...一样",
+                    "phoneticTranscription": "gēn...yīyàng",
+                    "english": "same as / as...as",
+                    "radicalBreakdown": "跟 (with) + 一样 (same)"
+                },
+                {
+                    "targetText": "没有...那么",
+                    "phoneticTranscription": "méiyǒu...nàme",
+                    "english": "not as...as",
+                    "radicalBreakdown": "没有 (not have) + 那么 (that much)"
+                },
+                {
+                    "targetText": "越来越",
+                    "phoneticTranscription": "yuè lái yuè",
+                    "english": "more and more",
+                    "radicalBreakdown": "越 (exceed) + 来 (come) + 越 (exceed)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "他比我很高 (using 很 in comparison)",
+                "correctVersion": "他比我高 (don't use 很 after 比, just the adjective)",
+                "explanation": "In 比 comparisons, never use 很! Say 比我高, not 比我很高. 很 is only for non-comparative statements!"
+            }
+        }
+    ]
+}

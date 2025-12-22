@@ -1,0 +1,209 @@
+{
+    "sanskrit_b1_modules": [
+        {
+            "theme": "Complex Vibhakti Usage",
+            "order": 1,
+            "lessons": [
+                {
+                    "targetText": "तृतीया विभक्तिः",
+                    "phoneticTranscription": "तृतीया विभक्तिः",
+                    "english": "Instrumental case (with/by)",
+                    "radicalBreakdown": "Third case - instrument/means"
+                },
+                {
+                    "targetText": "बालकेन सह",
+                    "phoneticTranscription": "बालकेन सह",
+                    "english": "with the boy",
+                    "radicalBreakdown": "बालकेन (instrumental) + सह (with)"
+                },
+                {
+                    "targetText": "पत्रेण लिखति",
+                    "phoneticTranscription": "पत्रेण लिखति",
+                    "english": "writes with a pen",
+                    "radicalBreakdown": "पत्रेण (pen - instrumental) + लिखति (writes)"
+                },
+                {
+                    "targetText": "मया कृतम्",
+                    "phoneticTranscription": "मया कृतम्",
+                    "english": "done by me",
+                    "radicalBreakdown": "मया (by me - instrumental) + कृतम् (done)"
+                },
+                {
+                    "targetText": "छात्रैः पठ्यते",
+                    "phoneticTranscription": "छात्रैः पठ्यते",
+                    "english": "is read by students",
+                    "radicalBreakdown": "छात्रैः (by students - instr. plural) + पठ्यते (is read - passive)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "बालकः सह गच्छति (using nominative with सह)",
+                "correctVersion": "बालकेन सह गच्छति (use instrumental तृतीया with सह, not nominative)",
+                "explanation": "सह (with) always takes तृतीया विभक्ति (instrumental case): बालकेन सह, not बालकः सह!"
+            }
+        },
+        {
+            "theme": "Sandhi Rules",
+            "order": 2,
+            "lessons": [
+                {
+                    "targetText": "रामः + अत्र = रामोऽत्र",
+                    "phoneticTranscription": "रामः + अत्र = रामोऽत्र",
+                    "english": "Rama here (visarga sandhi)",
+                    "radicalBreakdown": "ः + अ = ओऽ (visarga before अ)"
+                },
+                {
+                    "targetText": "सः + गच्छति = स गच्छति",
+                    "phoneticTranscription": "सः + गच्छति = स गच्छति",
+                    "english": "He goes (visarga drops before consonant)",
+                    "radicalBreakdown": "ः drops before hard consonants"
+                },
+                {
+                    "targetText": "च + अपि = चापि",
+                    "phoneticTranscription": "च + अपि = चापि",
+                    "english": "and also (vowel sandhi)",
+                    "radicalBreakdown": "अ + अ = आ (similar vowels combine)"
+                },
+                {
+                    "targetText": "राम + आगच्छति = रामागच्छति",
+                    "phoneticTranscription": "राम + आगच्छति = रामागच्छति",
+                    "english": "Rama comes (vowel sandhi)",
+                    "radicalBreakdown": "अ + आ = आ (vowel combination)"
+                },
+                {
+                    "targetText": "तत् + च = तच्च",
+                    "phoneticTranscription": "तत् + च = तच्च",
+                    "english": "and that (consonant sandhi)",
+                    "radicalBreakdown": "त् + च = च्च (dental before palatal)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "रामः अत्र अस्ति (not applying sandhi)",
+                "correctVersion": "रामोऽत्र अस्ति (apply visarga sandhi: ः + अ = ओऽ)",
+                "explanation": "In continuous speech/writing, apply sandhi rules! रामः + अत्र must become रामोऽत्र, not stay separate!"
+            }
+        },
+        {
+            "theme": "Compound Words (समास)",
+            "order": 3,
+            "lessons": [
+                {
+                    "targetText": "राजपुत्रः",
+                    "phoneticTranscription": "राजपुत्रः",
+                    "english": "prince (king's son)",
+                    "radicalBreakdown": "राज (king) + पुत्र (son) - तत्पुरुष समास"
+                },
+                {
+                    "targetText": "नीलोत्पलम्",
+                    "phoneticTranscription": "नीलोत्पलम्",
+                    "english": "blue lotus",
+                    "radicalBreakdown": "नील (blue) + उत्पल (lotus) - कर्मधारय समास"
+                },
+                {
+                    "targetText": "पीताम्बरः",
+                    "phoneticTranscription": "पीताम्बरः",
+                    "english": "one wearing yellow cloth (Krishna)",
+                    "radicalBreakdown": "पीत (yellow) + अम्बर (cloth) - बहुव्रीहि समास"
+                },
+                {
+                    "targetText": "माता-पिता",
+                    "phoneticTranscription": "माता-पिता",
+                    "english": "parents (mother and father)",
+                    "radicalBreakdown": "माता (mother) + पिता (father) - द्वन्द्व समास"
+                },
+                {
+                    "targetText": "त्रिलोकम्",
+                    "phoneticTranscription": "त्रिलोकम्",
+                    "english": "three worlds",
+                    "radicalBreakdown": "त्रि (three) + लोक (world) - संख्या compound"
+                }
+            ],
+            "liarGameData": {
+                "trap": "राजस्य पुत्रः (using genitive instead of compound)",
+                "correctVersion": "राजपुत्रः (use compound समास, not separate words with case)",
+                "explanation": "Sanskrit prefers compounds! राजपुत्रः (compound) is more elegant than राजस्य पुत्रः (genitive + noun)!"
+            }
+        },
+        {
+            "theme": "Participles (कृदन्त)",
+            "order": 4,
+            "lessons": [
+                {
+                    "targetText": "गच्छन्",
+                    "phoneticTranscription": "गच्छन्",
+                    "english": "going (present participle - masculine)",
+                    "radicalBreakdown": "गम् (go) + शत्र् (present participle)"
+                },
+                {
+                    "targetText": "गच्छन्ती",
+                    "phoneticTranscription": "गच्छन्ती",
+                    "english": "going (present participle - feminine)",
+                    "radicalBreakdown": "गम् (go) + शत्र् (feminine form)"
+                },
+                {
+                    "targetText": "गतः",
+                    "phoneticTranscription": "गतः",
+                    "english": "gone (past participle - masculine)",
+                    "radicalBreakdown": "गम् (go) + क्त (past participle)"
+                },
+                {
+                    "targetText": "गन्तव्यम्",
+                    "phoneticTranscription": "गन्तव्यम्",
+                    "english": "should be gone / must go",
+                    "radicalBreakdown": "गम् (go) + तव्य (gerundive - obligation)"
+                },
+                {
+                    "targetText": "गत्वा",
+                    "phoneticTranscription": "गत्वा",
+                    "english": "having gone (absolutive)",
+                    "radicalBreakdown": "गम् (go) + त्वा (absolutive - prior action)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "बालकः गच्छन् पुस्तकः पठति (wrong participle gender)",
+                "correctVersion": "बालकः गच्छन् पुस्तकम् पठति (participle must agree: गच्छन् for masculine)",
+                "explanation": "Participles must agree with subject in gender/number: गच्छन् (masc), गच्छन्ती (fem), गच्छन्तः (masc pl)!"
+            }
+        },
+        {
+            "theme": "Complex Sentence Structures",
+            "order": 5,
+            "lessons": [
+                {
+                    "targetText": "यदा...तदा",
+                    "phoneticTranscription": "यदा...तदा",
+                    "english": "when...then (time correlation)",
+                    "radicalBreakdown": "यदा (when) + तदा (then) - temporal clause"
+                },
+                {
+                    "targetText": "यदि...तर्हि",
+                    "phoneticTranscription": "यदि...तर्हि",
+                    "english": "if...then (conditional)",
+                    "radicalBreakdown": "यदि (if) + तर्हि (then) - conditional clause"
+                },
+                {
+                    "targetText": "यत्र...तत्र",
+                    "phoneticTranscription": "यत्र...तत्र",
+                    "english": "where...there (place correlation)",
+                    "radicalBreakdown": "यत्र (where) + तत्र (there) - locative clause"
+                },
+                {
+                    "targetText": "यस्मात्...तस्मात्",
+                    "phoneticTranscription": "यस्मात्...तस्मात्",
+                    "english": "because...therefore (causal)",
+                    "radicalBreakdown": "यस्मात् (because) + तस्मात् (therefore) - ablative"
+                },
+                {
+                    "targetText": "यावत्...तावत्",
+                    "phoneticTranscription": "यावत्...तावत्",
+                    "english": "as long as...so long (duration)",
+                    "radicalBreakdown": "यावत् (as long) + तावत् (so long)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "यदा बालकः गच्छति तदा अहम् आगच्छामि (wrong vibhakti in complex sentence)",
+                "correctVersion": "यदा बालकः गच्छति तदा अहम् आगच्छामि (correct - both clauses use nominative)",
+                "explanation": "In correlative clauses, ensure proper vibhakti agreement! यदा...तदा both need matching case and number structures!"
+            }
+        }
+    ]
+}

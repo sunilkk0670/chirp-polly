@@ -1,0 +1,30 @@
+{
+    "id": "jp_a1_m1",
+    "theme": "Greetings & Introductions",
+    "order": 1,
+    "lessons": [
+        {
+            "targetText": "こんにちは",
+            "english": "Hello / Good afternoon",
+            "phoneticTranscription": "कोन्निचिवा",
+            "radicalBreakdown": null
+        },
+        {
+            "targetText": "初めまして",
+            "english": "Nice to meet you",
+            "phoneticTranscription": "हाजिमेमाशिते",
+            "radicalBreakdown": "初 (Knife 刀 + Clothes 衣) / 面 (Face radical)"
+        },
+        {
+            "targetText": "おはようございます",
+            "english": "Good morning (Polite)",
+            "phoneticTranscription": "ओहायो गोज़ाइमासु",
+            "radicalBreakdown": "早 (Sun 日 + 十)"
+        }
+    ],
+    "liarGameData": {
+        "trap": "こんにちわ (Konnichi-wa with 'wa' particle)",
+        "correctVersion": "こんにちは (Konnichi-wa with 'ha' particle)",
+        "explanation": "Even though it sounds like 'wa', the greeting 'Konnichiwa' historically uses the topic particle 'ha' (は)."
+    }
+}

@@ -1,0 +1,209 @@
+{
+    "hindi_b1_modules": [
+        {
+            "theme": "Complex Verb Forms",
+            "order": 1,
+            "lessons": [
+                {
+                    "targetText": "रहा हूँ",
+                    "phoneticTranscription": "raha hoon",
+                    "english": "am doing (continuous)",
+                    "radicalBreakdown": "रहा (continuous marker) + हूँ (am - masculine)"
+                },
+                {
+                    "targetText": "चुका हूँ",
+                    "phoneticTranscription": "chuka hoon",
+                    "english": "have already done (completion)",
+                    "radicalBreakdown": "चुका (completion marker) + हूँ (am)"
+                },
+                {
+                    "targetText": "सकता हूँ",
+                    "phoneticTranscription": "sakta hoon",
+                    "english": "can / am able to",
+                    "radicalBreakdown": "सकता (ability) + हूँ (am)"
+                },
+                {
+                    "targetText": "पड़ता है",
+                    "phoneticTranscription": "padta hai",
+                    "english": "have to / must (compulsion)",
+                    "radicalBreakdown": "पड़ता (fall/have to) + है (is)"
+                },
+                {
+                    "targetText": "लगता है",
+                    "phoneticTranscription": "lagta hai",
+                    "english": "seems / appears",
+                    "radicalBreakdown": "लगता (attach/seem) + है (is)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "मैं खा रहा हूँ (feminine speaker using masculine form)",
+                "correctVersion": "मैं खा रही हूँ (feminine: रही, masculine: रहा)",
+                "explanation": "The continuous marker must match the speaker's gender: रहा (masculine), रही (feminine). Don't forget to change it based on who is speaking!"
+            }
+        },
+        {
+            "theme": "Compound Postpositions",
+            "order": 2,
+            "lessons": [
+                {
+                    "targetText": "के बारे में",
+                    "phoneticTranscription": "ke baare mein",
+                    "english": "about / concerning",
+                    "radicalBreakdown": "के (of) + बारे (matter) + में (in)"
+                },
+                {
+                    "targetText": "के लिए",
+                    "phoneticTranscription": "ke liye",
+                    "english": "for / for the sake of",
+                    "radicalBreakdown": "के (of) + लिए (for)"
+                },
+                {
+                    "targetText": "की तरफ",
+                    "phoneticTranscription": "ki taraf",
+                    "english": "towards / in the direction of",
+                    "radicalBreakdown": "की (of) + तरफ (direction)"
+                },
+                {
+                    "targetText": "के बिना",
+                    "phoneticTranscription": "ke bina",
+                    "english": "without",
+                    "radicalBreakdown": "के (of) + बिना (without)"
+                },
+                {
+                    "targetText": "के अलावा",
+                    "phoneticTranscription": "ke alaava",
+                    "english": "besides / apart from",
+                    "radicalBreakdown": "के (of) + अलावा (besides)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "मैं तुम्हारे बारे सोच रहा हूँ (missing में)",
+                "correctVersion": "मैं तुम्हारे बारे में सोच रहा हूँ (need में after बारे)",
+                "explanation": "Compound postpositions like 'के बारे में' must be complete. Don't drop the final में - it's required!"
+            }
+        },
+        {
+            "theme": "Subjunctive & Conditional",
+            "order": 3,
+            "lessons": [
+                {
+                    "targetText": "अगर...तो",
+                    "phoneticTranscription": "agar...to",
+                    "english": "if...then",
+                    "radicalBreakdown": "अगर (if) + subjunctive + तो (then)"
+                },
+                {
+                    "targetText": "चाहिए",
+                    "phoneticTranscription": "chahiye",
+                    "english": "should / ought to",
+                    "radicalBreakdown": "चाह (want) + िए (should - invariable)"
+                },
+                {
+                    "targetText": "होगा",
+                    "phoneticTranscription": "hoga",
+                    "english": "will be / must be (probability)",
+                    "radicalBreakdown": "हो (be) + गा (future masculine)"
+                },
+                {
+                    "targetText": "शायद",
+                    "phoneticTranscription": "shaayad",
+                    "english": "perhaps / maybe",
+                    "radicalBreakdown": "Adverb expressing possibility"
+                },
+                {
+                    "targetText": "जरूर",
+                    "phoneticTranscription": "zaroor",
+                    "english": "definitely / certainly",
+                    "radicalBreakdown": "Adverb expressing certainty"
+                }
+            ],
+            "liarGameData": {
+                "trap": "मुझे जाना चाहिए था (using था with चाहिए)",
+                "correctVersion": "मुझे जाना चाहिए था is correct!",
+                "explanation": "Actually, this IS correct! चाहिए can take था/थी/थे for past obligation. The trap is thinking it can't change - it can for past tense!"
+            }
+        },
+        {
+            "theme": "Relative-Correlative Clauses",
+            "order": 4,
+            "lessons": [
+                {
+                    "targetText": "जो...वह",
+                    "phoneticTranscription": "jo...vah",
+                    "english": "who/which...that",
+                    "radicalBreakdown": "जो (relative: who) + वह (correlative: that)"
+                },
+                {
+                    "targetText": "जहाँ...वहाँ",
+                    "phoneticTranscription": "jahaan...vahaan",
+                    "english": "where...there",
+                    "radicalBreakdown": "जहाँ (where) + वहाँ (there)"
+                },
+                {
+                    "targetText": "जब...तब",
+                    "phoneticTranscription": "jab...tab",
+                    "english": "when...then",
+                    "radicalBreakdown": "जब (when) + तब (then)"
+                },
+                {
+                    "targetText": "जैसा...वैसा",
+                    "phoneticTranscription": "jaisa...vaisa",
+                    "english": "as...so / like...such",
+                    "radicalBreakdown": "जैसा (as/like) + वैसा (such)"
+                },
+                {
+                    "targetText": "जितना...उतना",
+                    "phoneticTranscription": "jitna...utna",
+                    "english": "as much as...that much",
+                    "radicalBreakdown": "जितना (as much) + उतना (that much)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "जो लड़का आया, वह मेरा दोस्त है (missing ने in ergative)",
+                "correctVersion": "जो लड़का आया, वह मेरा दोस्त है (correct - आना doesn't use ने!)",
+                "explanation": "This is a trick! आना (to come) is intransitive, so it doesn't use the ergative ने even in past tense. Only transitive verbs use ने."
+            }
+        },
+        {
+            "theme": "Causative Forms",
+            "order": 5,
+            "lessons": [
+                {
+                    "targetText": "करवाना",
+                    "phoneticTranscription": "karvaana",
+                    "english": "to cause to do / get done",
+                    "radicalBreakdown": "कर (do) + वाना (causative suffix)"
+                },
+                {
+                    "targetText": "पढ़वाना",
+                    "phoneticTranscription": "padhvaana",
+                    "english": "to cause to read / teach",
+                    "radicalBreakdown": "पढ़ (read) + वाना (causative)"
+                },
+                {
+                    "targetText": "खिलाना",
+                    "phoneticTranscription": "khilaana",
+                    "english": "to feed / cause to eat",
+                    "radicalBreakdown": "खा (eat) + लाना (causative suffix)"
+                },
+                {
+                    "targetText": "सुलाना",
+                    "phoneticTranscription": "sulaana",
+                    "english": "to put to sleep",
+                    "radicalBreakdown": "सो (sleep) + लाना (causative)"
+                },
+                {
+                    "targetText": "बिठाना",
+                    "phoneticTranscription": "bithaana",
+                    "english": "to seat / make sit",
+                    "radicalBreakdown": "बैठ (sit) + आना (causative)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "मैंने बच्चे को खाना खाया (using simple verb instead of causative)",
+                "correctVersion": "मैंने बच्चे को खाना खिलाया (use causative खिलाना to mean 'fed')",
+                "explanation": "When you make someone else do something, use the causative form. खाना = to eat, खिलाना = to feed (make someone eat)."
+            }
+        }
+    ]
+}

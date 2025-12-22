@@ -1,0 +1,209 @@
+{
+    "japanese_a2_modules": [
+        {
+            "theme": "Daily Routines",
+            "order": 1,
+            "lessons": [
+                {
+                    "targetText": "起きます",
+                    "phoneticTranscription": "okimasu",
+                    "english": "to wake up",
+                    "radicalBreakdown": "起 (ki) = to rise + ます (masu) = polite verb ending"
+                },
+                {
+                    "targetText": "寝ます",
+                    "phoneticTranscription": "nemasu",
+                    "english": "to sleep",
+                    "radicalBreakdown": "寝 (ne) = to sleep + ます (masu) = polite verb ending"
+                },
+                {
+                    "targetText": "食べます",
+                    "phoneticTranscription": "tabemasu",
+                    "english": "to eat",
+                    "radicalBreakdown": "食 (ta) = to eat + べます (bemasu) = polite verb ending"
+                },
+                {
+                    "targetText": "飲みます",
+                    "phoneticTranscription": "nomimasu",
+                    "english": "to drink",
+                    "radicalBreakdown": "飲 (no) = to drink + みます (mimasu) = polite verb ending"
+                },
+                {
+                    "targetText": "働きます",
+                    "phoneticTranscription": "hatarakimasu",
+                    "english": "to work",
+                    "radicalBreakdown": "働 (hatara) = to work + きます (kimasu) = polite verb ending"
+                }
+            ],
+            "liarGameData": {
+                "trap": "食べる (taberu) is the dictionary form, not the polite form",
+                "correctVersion": "食べます (tabemasu) is the correct polite form",
+                "explanation": "In Japanese, verbs have different forms. The dictionary form (食べる) is casual, while the polite form (食べます) is used in formal situations. Always use -masu form when speaking politely."
+            }
+        },
+        {
+            "theme": "Shopping & Money",
+            "order": 2,
+            "lessons": [
+                {
+                    "targetText": "買います",
+                    "phoneticTranscription": "kaimasu",
+                    "english": "to buy",
+                    "radicalBreakdown": "買 (ka) = to buy + います (imasu) = polite verb ending"
+                },
+                {
+                    "targetText": "売ります",
+                    "phoneticTranscription": "urimasu",
+                    "english": "to sell",
+                    "radicalBreakdown": "売 (u) = to sell + ります (rimasu) = polite verb ending"
+                },
+                {
+                    "targetText": "高い",
+                    "phoneticTranscription": "takai",
+                    "english": "expensive",
+                    "radicalBreakdown": "高 (taka) = high/expensive + い (i) = adjective ending"
+                },
+                {
+                    "targetText": "安い",
+                    "phoneticTranscription": "yasui",
+                    "english": "cheap",
+                    "radicalBreakdown": "安 (yasu) = cheap/peaceful + い (i) = adjective ending"
+                },
+                {
+                    "targetText": "いくらですか",
+                    "phoneticTranscription": "ikura desu ka",
+                    "english": "How much is it?",
+                    "radicalBreakdown": "いくら (ikura) = how much + です (desu) = is + か (ka) = question marker"
+                }
+            ],
+            "liarGameData": {
+                "trap": "高いです (takai desu) - You don't need です after い-adjectives",
+                "correctVersion": "高い (takai) is complete by itself",
+                "explanation": "い-adjectives (like 高い, 安い) already contain the meaning 'is', so you don't add です. Only use です after な-adjectives or nouns."
+            }
+        },
+        {
+            "theme": "Weather & Seasons",
+            "order": 3,
+            "lessons": [
+                {
+                    "targetText": "暑い",
+                    "phoneticTranscription": "atsui",
+                    "english": "hot",
+                    "radicalBreakdown": "暑 (atsu) = hot + い (i) = adjective ending"
+                },
+                {
+                    "targetText": "寒い",
+                    "phoneticTranscription": "samui",
+                    "english": "cold",
+                    "radicalBreakdown": "寒 (samu) = cold + い (i) = adjective ending"
+                },
+                {
+                    "targetText": "雨",
+                    "phoneticTranscription": "ame",
+                    "english": "rain",
+                    "radicalBreakdown": "雨 (ame) = rain radical"
+                },
+                {
+                    "targetText": "雪",
+                    "phoneticTranscription": "yuki",
+                    "english": "snow",
+                    "radicalBreakdown": "雪 (yuki) = snow"
+                },
+                {
+                    "targetText": "春",
+                    "phoneticTranscription": "haru",
+                    "english": "spring",
+                    "radicalBreakdown": "春 (haru) = spring season"
+                }
+            ],
+            "liarGameData": {
+                "trap": "今日は暑いでした (kyou wa atsui deshita) - Wrong past tense",
+                "correctVersion": "今日は暑かったです (kyou wa atsukatta desu)",
+                "explanation": "For い-adjectives in past tense, change い to かった, then add です. Don't use でした with い-adjectives."
+            }
+        },
+        {
+            "theme": "Transportation",
+            "order": 4,
+            "lessons": [
+                {
+                    "targetText": "電車",
+                    "phoneticTranscription": "densha",
+                    "english": "train",
+                    "radicalBreakdown": "電 (den) = electricity + 車 (sha) = vehicle"
+                },
+                {
+                    "targetText": "バス",
+                    "phoneticTranscription": "basu",
+                    "english": "bus",
+                    "radicalBreakdown": "Katakana: バ (ba) + ス (su)"
+                },
+                {
+                    "targetText": "歩きます",
+                    "phoneticTranscription": "arukimasu",
+                    "english": "to walk",
+                    "radicalBreakdown": "歩 (aru) = to walk + きます (kimasu) = polite verb ending"
+                },
+                {
+                    "targetText": "駅",
+                    "phoneticTranscription": "eki",
+                    "english": "station",
+                    "radicalBreakdown": "駅 (eki) = station"
+                },
+                {
+                    "targetText": "空港",
+                    "phoneticTranscription": "kuukou",
+                    "english": "airport",
+                    "radicalBreakdown": "空 (kuu) = sky + 港 (kou) = port"
+                }
+            ],
+            "liarGameData": {
+                "trap": "電車で行く (densha de iku) means 'go by train', but で is the particle for means",
+                "correctVersion": "電車に乗る (densha ni noru) means 'ride the train'",
+                "explanation": "Use particle で to indicate the means of transportation (電車で = by train), but use に with 乗る (noru = to ride) when talking about boarding."
+            }
+        },
+        {
+            "theme": "Family & Relationships",
+            "order": 5,
+            "lessons": [
+                {
+                    "targetText": "家族",
+                    "phoneticTranscription": "kazoku",
+                    "english": "family",
+                    "radicalBreakdown": "家 (ka) = house + 族 (zoku) = tribe/family"
+                },
+                {
+                    "targetText": "両親",
+                    "phoneticTranscription": "ryoushin",
+                    "english": "parents",
+                    "radicalBreakdown": "両 (ryou) = both + 親 (shin) = parent"
+                },
+                {
+                    "targetText": "兄弟",
+                    "phoneticTranscription": "kyoudai",
+                    "english": "siblings",
+                    "radicalBreakdown": "兄 (kyou) = older brother + 弟 (dai) = younger brother"
+                },
+                {
+                    "targetText": "友達",
+                    "phoneticTranscription": "tomodachi",
+                    "english": "friend",
+                    "radicalBreakdown": "友 (tomo) = friend + 達 (dachi) = plural marker"
+                },
+                {
+                    "targetText": "先生",
+                    "phoneticTranscription": "sensei",
+                    "english": "teacher",
+                    "radicalBreakdown": "先 (sen) = before/ahead + 生 (sei) = life/birth"
+                }
+            ],
+            "liarGameData": {
+                "trap": "私の兄 (watashi no ani) vs お兄さん (onii-san)",
+                "correctVersion": "Use 兄 for your own brother, お兄さん for someone else's",
+                "explanation": "Japanese has humble and honorific forms for family members. Use plain forms (兄, 弟) for your own family, and honorific forms (お兄さん, 弟さん) for others' family members."
+            }
+        }
+    ]
+}

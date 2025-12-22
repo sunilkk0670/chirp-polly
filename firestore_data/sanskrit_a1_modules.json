@@ -1,0 +1,209 @@
+{
+    "sanskrit_a1_modules": [
+        {
+            "theme": "Devanagari Basics & Greetings",
+            "order": 1,
+            "lessons": [
+                {
+                    "targetText": "नमस्ते",
+                    "phoneticTranscription": "नमस्ते",
+                    "english": "Hello / Greetings",
+                    "radicalBreakdown": "नमः (bow/salutation) + ते (to you)"
+                },
+                {
+                    "targetText": "धन्यवादः",
+                    "phoneticTranscription": "धन्यवादः",
+                    "english": "Thank you",
+                    "radicalBreakdown": "धन्य (blessed) + वादः (speech/word)"
+                },
+                {
+                    "targetText": "आम्",
+                    "phoneticTranscription": "आम्",
+                    "english": "Yes",
+                    "radicalBreakdown": "Affirmative particle"
+                },
+                {
+                    "targetText": "न",
+                    "phoneticTranscription": "न",
+                    "english": "No / Not",
+                    "radicalBreakdown": "Negative particle"
+                },
+                {
+                    "targetText": "क्षमस्व",
+                    "phoneticTranscription": "क्षमस्व",
+                    "english": "Please forgive / Excuse me",
+                    "radicalBreakdown": "क्षम् (forgive) + स्व (imperative ending)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "नमस्ता (incorrect ending)",
+                "correctVersion": "नमस्ते (correct ending with ते)",
+                "explanation": "नमस्ते ends with ते (te), not ता (tā). The visarga ः in नमः combines with ते to form नमस्ते!"
+            }
+        },
+        {
+            "theme": "Simple Nouns & Gender",
+            "order": 2,
+            "lessons": [
+                {
+                    "targetText": "बालकः",
+                    "phoneticTranscription": "बालकः",
+                    "english": "boy (masculine)",
+                    "radicalBreakdown": "बाल (child) + कः (masculine nominative ending)"
+                },
+                {
+                    "targetText": "बालिका",
+                    "phoneticTranscription": "बालिका",
+                    "english": "girl (feminine)",
+                    "radicalBreakdown": "बाल (child) + इका (feminine nominative ending)"
+                },
+                {
+                    "targetText": "पुस्तकम्",
+                    "phoneticTranscription": "पुस्तकम्",
+                    "english": "book (neuter)",
+                    "radicalBreakdown": "पुस्तक (book) + म् (neuter nominative ending)"
+                },
+                {
+                    "targetText": "गृहम्",
+                    "phoneticTranscription": "गृहम्",
+                    "english": "house (neuter)",
+                    "radicalBreakdown": "गृह (house) + म् (neuter nominative ending)"
+                },
+                {
+                    "targetText": "जलम्",
+                    "phoneticTranscription": "जलम्",
+                    "english": "water (neuter)",
+                    "radicalBreakdown": "जल (water) + म् (neuter nominative ending)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "बालकम् (using neuter ending for masculine noun)",
+                "correctVersion": "बालकः (masculine nouns end in ः, not म्)",
+                "explanation": "बालक (boy) is masculine, so it takes ः ending (बालकः), not neuter म् ending. Gender matters!"
+            }
+        },
+        {
+            "theme": "Basic Pronouns",
+            "order": 3,
+            "lessons": [
+                {
+                    "targetText": "अहम्",
+                    "phoneticTranscription": "अहम्",
+                    "english": "I",
+                    "radicalBreakdown": "First person singular pronoun"
+                },
+                {
+                    "targetText": "त्वम्",
+                    "phoneticTranscription": "त्वम्",
+                    "english": "You (singular)",
+                    "radicalBreakdown": "Second person singular pronoun"
+                },
+                {
+                    "targetText": "सः",
+                    "phoneticTranscription": "सः",
+                    "english": "He (masculine)",
+                    "radicalBreakdown": "Third person masculine pronoun"
+                },
+                {
+                    "targetText": "सा",
+                    "phoneticTranscription": "सा",
+                    "english": "She (feminine)",
+                    "radicalBreakdown": "Third person feminine pronoun"
+                },
+                {
+                    "targetText": "तत्",
+                    "phoneticTranscription": "तत्",
+                    "english": "That (neuter)",
+                    "radicalBreakdown": "Third person neuter pronoun"
+                }
+            ],
+            "liarGameData": {
+                "trap": "सः for both 'he' and 'she'",
+                "correctVersion": "सः (he - masculine), सा (she - feminine) - different forms!",
+                "explanation": "Pronouns must match gender: सः (saḥ) for masculine, सा (sā) for feminine, तत् (tat) for neuter!"
+            }
+        },
+        {
+            "theme": "Simple Verbs (Present Tense)",
+            "order": 4,
+            "lessons": [
+                {
+                    "targetText": "अस्ति",
+                    "phoneticTranscription": "अस्ति",
+                    "english": "is / exists (singular)",
+                    "radicalBreakdown": "अस् (to be) + ति (3rd person singular ending)"
+                },
+                {
+                    "targetText": "गच्छति",
+                    "phoneticTranscription": "गच्छति",
+                    "english": "goes (he/she/it)",
+                    "radicalBreakdown": "गम् (to go) + च्छति (present tense ending)"
+                },
+                {
+                    "targetText": "पठति",
+                    "phoneticTranscription": "पठति",
+                    "english": "reads (he/she/it)",
+                    "radicalBreakdown": "पठ् (to read) + ति (present tense ending)"
+                },
+                {
+                    "targetText": "खादति",
+                    "phoneticTranscription": "खादति",
+                    "english": "eats (he/she/it)",
+                    "radicalBreakdown": "खाद् (to eat) + ति (present tense ending)"
+                },
+                {
+                    "targetText": "पिबति",
+                    "phoneticTranscription": "पिबति",
+                    "english": "drinks (he/she/it)",
+                    "radicalBreakdown": "पा (to drink) + इबति (present tense form)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "अहम् गच्छति (wrong verb ending for 'I')",
+                "correctVersion": "अहम् गच्छामि (use -आमि ending for 'I', not -अति)",
+                "explanation": "Verb endings must match the subject: अहम् (I) takes -आमि, not -अति. गच्छामि is correct!"
+            }
+        },
+        {
+            "theme": "Case Endings (Vibhakti) Basics",
+            "order": 5,
+            "lessons": [
+                {
+                    "targetText": "बालकः",
+                    "phoneticTranscription": "बालकः",
+                    "english": "boy (subject - nominative)",
+                    "radicalBreakdown": "बालक + ः (प्रथमा विभक्ति / nominative case)"
+                },
+                {
+                    "targetText": "बालकम्",
+                    "phoneticTranscription": "बालकम्",
+                    "english": "boy (object - accusative)",
+                    "radicalBreakdown": "बालक + म् (द्वितीया विभक्ति / accusative case)"
+                },
+                {
+                    "targetText": "बालकेन",
+                    "phoneticTranscription": "बालकेन",
+                    "english": "by the boy (instrumental)",
+                    "radicalBreakdown": "बालक + एन (तृतीया विभक्ति / instrumental case)"
+                },
+                {
+                    "targetText": "बालकाय",
+                    "phoneticTranscription": "बालकाय",
+                    "english": "for the boy (dative)",
+                    "radicalBreakdown": "बालक + आय (चतुर्थी विभक्ति / dative case)"
+                },
+                {
+                    "targetText": "बालकस्य",
+                    "phoneticTranscription": "बालकस्य",
+                    "english": "of the boy (genitive)",
+                    "radicalBreakdown": "बालक + स्य (षष्ठी विभक्ति / genitive case)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "बालकः पुस्तकः पठति (both subject and object in nominative)",
+                "correctVersion": "बालकः पुस्तकम् पठति (object must be in accusative case - पुस्तकम्)",
+                "explanation": "The object of a verb takes द्वितीया विभक्ति (accusative case). Use पुस्तकम्, not पुस्तकः!"
+            }
+        }
+    ]
+}

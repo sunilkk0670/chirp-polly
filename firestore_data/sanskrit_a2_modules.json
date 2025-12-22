@@ -1,0 +1,209 @@
+{
+    "sanskrit_a2_modules": [
+        {
+            "theme": "Past Tense (लङ् लकार)",
+            "order": 1,
+            "lessons": [
+                {
+                    "targetText": "अगच्छत्",
+                    "phoneticTranscription": "अगच्छत्",
+                    "english": "went (he/she/it - past)",
+                    "radicalBreakdown": "अ (augment) + गच्छत् (go - past 3rd person singular)"
+                },
+                {
+                    "targetText": "अपठत्",
+                    "phoneticTranscription": "अपठत्",
+                    "english": "read (he/she/it - past)",
+                    "radicalBreakdown": "अ (augment) + पठत् (read - past 3rd person singular)"
+                },
+                {
+                    "targetText": "अखादत्",
+                    "phoneticTranscription": "अखादत्",
+                    "english": "ate (he/she/it - past)",
+                    "radicalBreakdown": "अ (augment) + खादत् (eat - past 3rd person singular)"
+                },
+                {
+                    "targetText": "अपिबत्",
+                    "phoneticTranscription": "अपिबत्",
+                    "english": "drank (he/she/it - past)",
+                    "radicalBreakdown": "अ (augment) + पिबत् (drink - past 3rd person singular)"
+                },
+                {
+                    "targetText": "अवदत्",
+                    "phoneticTranscription": "अवदत्",
+                    "english": "said (he/she/it - past)",
+                    "radicalBreakdown": "अ (augment) + वदत् (speak - past 3rd person singular)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "गच्छत् (using present tense for past action)",
+                "correctVersion": "अगच्छत् (add अ augment for past tense - लङ् लकार)",
+                "explanation": "Past tense (लङ् लकार) requires अ augment before the verb: अगच्छत्, not गच्छत्!"
+            }
+        },
+        {
+            "theme": "Future Tense (लृट् लकार)",
+            "order": 2,
+            "lessons": [
+                {
+                    "targetText": "गमिष्यति",
+                    "phoneticTranscription": "गमिष्यति",
+                    "english": "will go (he/she/it)",
+                    "radicalBreakdown": "गम् (go) + इष्यति (future 3rd person singular)"
+                },
+                {
+                    "targetText": "पठिष्यति",
+                    "phoneticTranscription": "पठिष्यति",
+                    "english": "will read (he/she/it)",
+                    "radicalBreakdown": "पठ् (read) + इष्यति (future 3rd person singular)"
+                },
+                {
+                    "targetText": "खादिष्यति",
+                    "phoneticTranscription": "खादिष्यति",
+                    "english": "will eat (he/she/it)",
+                    "radicalBreakdown": "खाद् (eat) + इष्यति (future 3rd person singular)"
+                },
+                {
+                    "targetText": "पास्यति",
+                    "phoneticTranscription": "पास्यति",
+                    "english": "will drink (he/she/it)",
+                    "radicalBreakdown": "पा (drink) + स्यति (future 3rd person singular)"
+                },
+                {
+                    "targetText": "वदिष्यति",
+                    "phoneticTranscription": "वदिष्यति",
+                    "english": "will speak (he/she/it)",
+                    "radicalBreakdown": "वद् (speak) + इष्यति (future 3rd person singular)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "श्वः गच्छति (using present for future)",
+                "correctVersion": "श्वः गमिष्यति (use लृट् लकार future tense, not present)",
+                "explanation": "For future actions, use लृट् लकार with -इष्यति/-स्यति endings, not present tense!"
+            }
+        },
+        {
+            "theme": "Verb Agreement with Gender",
+            "order": 3,
+            "lessons": [
+                {
+                    "targetText": "बालकः गच्छति",
+                    "phoneticTranscription": "बालकः गच्छति",
+                    "english": "The boy goes (masculine singular)",
+                    "radicalBreakdown": "बालकः (boy - masc) + गच्छति (goes - 3rd sing)"
+                },
+                {
+                    "targetText": "बालिका गच्छति",
+                    "phoneticTranscription": "बालिका गच्छति",
+                    "english": "The girl goes (feminine singular)",
+                    "radicalBreakdown": "बालिका (girl - fem) + गच्छति (goes - 3rd sing)"
+                },
+                {
+                    "targetText": "बालकौ गच्छतः",
+                    "phoneticTranscription": "बालकौ गच्छतः",
+                    "english": "The two boys go (masculine dual)",
+                    "radicalBreakdown": "बालकौ (two boys - dual) + गच्छतः (go - dual)"
+                },
+                {
+                    "targetText": "बालकाः गच्छन्ति",
+                    "phoneticTranscription": "बालकाः गच्छन्ति",
+                    "english": "The boys go (masculine plural)",
+                    "radicalBreakdown": "बालकाः (boys - plural) + गच्छन्ति (go - plural)"
+                },
+                {
+                    "targetText": "बालिकाः गच्छन्ति",
+                    "phoneticTranscription": "बालिकाः गच्छन्ति",
+                    "english": "The girls go (feminine plural)",
+                    "radicalBreakdown": "बालिकाः (girls - plural) + गच्छन्ति (go - plural)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "बालकाः गच्छति (plural subject with singular verb)",
+                "correctVersion": "बालकाः गच्छन्ति (plural subject needs plural verb -न्ति)",
+                "explanation": "Verbs MUST agree with subject number: singular -ति, dual -तः, plural -न्ति. बालकाः (plural) needs गच्छन्ति!"
+            }
+        },
+        {
+            "theme": "Making Requests (लोट् लकार)",
+            "order": 4,
+            "lessons": [
+                {
+                    "targetText": "गच्छ",
+                    "phoneticTranscription": "गच्छ",
+                    "english": "Go! (imperative - you singular)",
+                    "radicalBreakdown": "गम् (go) + imperative 2nd person singular"
+                },
+                {
+                    "targetText": "पठ",
+                    "phoneticTranscription": "पठ",
+                    "english": "Read! (imperative - you singular)",
+                    "radicalBreakdown": "पठ् (read) + imperative 2nd person singular"
+                },
+                {
+                    "targetText": "गच्छतु",
+                    "phoneticTranscription": "गच्छतु",
+                    "english": "Let him/her go (imperative 3rd person)",
+                    "radicalBreakdown": "गम् (go) + तु (imperative 3rd person singular)"
+                },
+                {
+                    "targetText": "पठतु",
+                    "phoneticTranscription": "पठतु",
+                    "english": "Let him/her read (imperative 3rd person)",
+                    "radicalBreakdown": "पठ् (read) + तु (imperative 3rd person singular)"
+                },
+                {
+                    "targetText": "गच्छन्तु",
+                    "phoneticTranscription": "गच्छन्तु",
+                    "english": "Let them go (imperative 3rd plural)",
+                    "radicalBreakdown": "गम् (go) + न्तु (imperative 3rd person plural)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "त्वम् गच्छति (using present instead of imperative)",
+                "correctVersion": "त्वम् गच्छ (use लोट् लकार imperative, not present)",
+                "explanation": "For commands, use लोट् लकार (imperative mood): गच्छ, पठ, not present tense गच्छति, पठति!"
+            }
+        },
+        {
+            "theme": "More Case Endings (Dual & Plural)",
+            "order": 5,
+            "lessons": [
+                {
+                    "targetText": "बालकौ",
+                    "phoneticTranscription": "बालकौ",
+                    "english": "two boys (nominative dual)",
+                    "radicalBreakdown": "बालक + औ (dual nominative ending)"
+                },
+                {
+                    "targetText": "बालकाः",
+                    "phoneticTranscription": "बालकाः",
+                    "english": "boys (nominative plural)",
+                    "radicalBreakdown": "बालक + आः (plural nominative ending)"
+                },
+                {
+                    "targetText": "बालकान्",
+                    "phoneticTranscription": "बालकान्",
+                    "english": "boys (accusative plural - object)",
+                    "radicalBreakdown": "बालक + आन् (plural accusative ending)"
+                },
+                {
+                    "targetText": "बालकैः",
+                    "phoneticTranscription": "बालकैः",
+                    "english": "by the boys (instrumental plural)",
+                    "radicalBreakdown": "बालक + ऐः (plural instrumental ending)"
+                },
+                {
+                    "targetText": "बालकानाम्",
+                    "phoneticTranscription": "बालकानाम्",
+                    "english": "of the boys (genitive plural)",
+                    "radicalBreakdown": "बालक + आनाम् (plural genitive ending)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "बालकः पुस्तकाः पठन्ति (singular subject with plural verb)",
+                "correctVersion": "बालकाः पुस्तकान् पठन्ति (plural subject बालकाः + plural object बालकान्)",
+                "explanation": "Number must agree: plural subject (बालकाः) needs plural verb (पठन्ति) and plural object takes -आन् (पुस्तकान्)!"
+            }
+        }
+    ]
+}

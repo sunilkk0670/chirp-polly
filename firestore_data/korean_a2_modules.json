@@ -1,0 +1,209 @@
+{
+    "korean_a2_modules": [
+        {
+            "theme": "Past Tense",
+            "order": 1,
+            "lessons": [
+                {
+                    "targetText": "갔어요",
+                    "phoneticTranscription": "gasseoyo",
+                    "english": "went (polite past)",
+                    "radicalBreakdown": "가 (go) + 았어요 (past polite ending)"
+                },
+                {
+                    "targetText": "먹었어요",
+                    "phoneticTranscription": "meogeosseoyo",
+                    "english": "ate (polite past)",
+                    "radicalBreakdown": "먹 (eat) + 었어요 (past polite ending)"
+                },
+                {
+                    "targetText": "했어요",
+                    "phoneticTranscription": "haesseoyo",
+                    "english": "did (polite past)",
+                    "radicalBreakdown": "하 (do) + 였어요→했어요 (past polite, contracted)"
+                },
+                {
+                    "targetText": "봤어요",
+                    "phoneticTranscription": "bwasseoyo",
+                    "english": "saw (polite past)",
+                    "radicalBreakdown": "보 (see) + 았어요 (past polite ending)"
+                },
+                {
+                    "targetText": "마셨어요",
+                    "phoneticTranscription": "masyeosseoyo",
+                    "english": "drank (polite past)",
+                    "radicalBreakdown": "마시 (drink) + 었어요 (past polite ending)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "어제 학교 갔어 (using casual past in polite context)",
+                "correctVersion": "어제 학교 갔어요 (use -었어요 polite past, not -었어 casual)",
+                "explanation": "When speaking politely, always use -었어요/-았어요 for past tense, not the casual -었어/-았어!"
+            }
+        },
+        {
+            "theme": "Future Tense & Plans",
+            "order": 2,
+            "lessons": [
+                {
+                    "targetText": "갈 거예요",
+                    "phoneticTranscription": "gal geoyeyo",
+                    "english": "will go / going to go",
+                    "radicalBreakdown": "갈 (go future stem) + 거예요 (future polite ending)"
+                },
+                {
+                    "targetText": "먹을 거예요",
+                    "phoneticTranscription": "meogeul geoyeyo",
+                    "english": "will eat / going to eat",
+                    "radicalBreakdown": "먹을 (eat future stem) + 거예요 (future polite)"
+                },
+                {
+                    "targetText": "할 거예요",
+                    "phoneticTranscription": "hal geoyeyo",
+                    "english": "will do / going to do",
+                    "radicalBreakdown": "할 (do future stem) + 거예요 (future polite)"
+                },
+                {
+                    "targetText": "볼 거예요",
+                    "phoneticTranscription": "bol geoyeyo",
+                    "english": "will see / going to see",
+                    "radicalBreakdown": "볼 (see future stem) + 거예요 (future polite)"
+                },
+                {
+                    "targetText": "마실 거예요",
+                    "phoneticTranscription": "masil geoyeyo",
+                    "english": "will drink / going to drink",
+                    "radicalBreakdown": "마실 (drink future stem) + 거예요 (future polite)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "내일 학교 가요 (using present for future)",
+                "correctVersion": "내일 학교 갈 거예요 (use -(으)ㄹ 거예요 for future plans)",
+                "explanation": "For future plans, use -(으)ㄹ 거예요, not just present tense -아요/-어요!"
+            }
+        },
+        {
+            "theme": "Topic & Subject Particles",
+            "order": 3,
+            "lessons": [
+                {
+                    "targetText": "은/는",
+                    "phoneticTranscription": "eun/neun",
+                    "english": "topic marker (after consonant/vowel)",
+                    "radicalBreakdown": "은 (after consonant), 는 (after vowel) - marks topic"
+                },
+                {
+                    "targetText": "이/가",
+                    "phoneticTranscription": "i/ga",
+                    "english": "subject marker (after consonant/vowel)",
+                    "radicalBreakdown": "이 (after consonant), 가 (after vowel) - marks subject"
+                },
+                {
+                    "targetText": "을/를",
+                    "phoneticTranscription": "eul/reul",
+                    "english": "object marker (after consonant/vowel)",
+                    "radicalBreakdown": "을 (after consonant), 를 (after vowel) - marks object"
+                },
+                {
+                    "targetText": "에",
+                    "phoneticTranscription": "e",
+                    "english": "at/to/in (location/time marker)",
+                    "radicalBreakdown": "Location or time particle"
+                },
+                {
+                    "targetText": "에서",
+                    "phoneticTranscription": "eseo",
+                    "english": "at/in (action location marker)",
+                    "radicalBreakdown": "에 (at) + 서 (from) - marks action location"
+                }
+            ],
+            "liarGameData": {
+                "trap": "저가 학생이에요 (using subject marker for topic)",
+                "correctVersion": "저는 학생이에요 (use topic marker 는 for general statements)",
+                "explanation": "Use 은/는 (topic) for general statements about yourself. Use 이/가 (subject) for new information or emphasis!"
+            }
+        },
+        {
+            "theme": "Making Requests",
+            "order": 4,
+            "lessons": [
+                {
+                    "targetText": "주세요",
+                    "phoneticTranscription": "juseyo",
+                    "english": "please give me",
+                    "radicalBreakdown": "주 (give) + 세요 (polite imperative)"
+                },
+                {
+                    "targetText": "해 주세요",
+                    "phoneticTranscription": "hae juseyo",
+                    "english": "please do (for me)",
+                    "radicalBreakdown": "해 (do) + 주세요 (please give/do)"
+                },
+                {
+                    "targetText": "보여 주세요",
+                    "phoneticTranscription": "boyeo juseyo",
+                    "english": "please show me",
+                    "radicalBreakdown": "보여 (show) + 주세요 (please)"
+                },
+                {
+                    "targetText": "도와 주세요",
+                    "phoneticTranscription": "dowa juseyo",
+                    "english": "please help me",
+                    "radicalBreakdown": "도와 (help) + 주세요 (please)"
+                },
+                {
+                    "targetText": "기다려 주세요",
+                    "phoneticTranscription": "gidaryeo juseyo",
+                    "english": "please wait",
+                    "radicalBreakdown": "기다려 (wait) + 주세요 (please)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "물 줘 (using casual request in formal setting)",
+                "correctVersion": "물 주세요 (use 주세요 polite request, not 줘 casual)",
+                "explanation": "In polite situations, always use -아/어 주세요 for requests, not the casual -아/어 줘!"
+            }
+        },
+        {
+            "theme": "Describing Actions",
+            "order": 5,
+            "lessons": [
+                {
+                    "targetText": "고 있어요",
+                    "phoneticTranscription": "go isseoyo",
+                    "english": "is/am doing (progressive)",
+                    "radicalBreakdown": "고 (and) + 있어요 (exist) = ongoing action"
+                },
+                {
+                    "targetText": "먹고 있어요",
+                    "phoneticTranscription": "meokgo isseoyo",
+                    "english": "is eating (now)",
+                    "radicalBreakdown": "먹 (eat) + 고 있어요 (progressive)"
+                },
+                {
+                    "targetText": "공부하고 있어요",
+                    "phoneticTranscription": "gongbuhago isseoyo",
+                    "english": "is studying (now)",
+                    "radicalBreakdown": "공부하 (study) + 고 있어요 (progressive)"
+                },
+                {
+                    "targetText": "보고 있어요",
+                    "phoneticTranscription": "bogo isseoyo",
+                    "english": "is watching/seeing (now)",
+                    "radicalBreakdown": "보 (see) + 고 있어요 (progressive)"
+                },
+                {
+                    "targetText": "읽고 있어요",
+                    "phoneticTranscription": "ilkgo isseoyo",
+                    "english": "is reading (now)",
+                    "radicalBreakdown": "읽 (read) + 고 있어요 (progressive)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "지금 밥 먹어요 (using simple present for ongoing action)",
+                "correctVersion": "지금 밥 먹고 있어요 (use -고 있어요 for actions happening now)",
+                "explanation": "For actions happening RIGHT NOW, use -고 있어요 (progressive), not just -아요/-어요!"
+            }
+        }
+    ]
+}

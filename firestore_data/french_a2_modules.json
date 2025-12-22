@@ -1,0 +1,209 @@
+{
+    "french_a2_modules": [
+        {
+            "theme": "Past Tense & Daily Activities",
+            "order": 1,
+            "lessons": [
+                {
+                    "targetText": "J'ai mangé",
+                    "phoneticTranscription": "zhay mon-zhay",
+                    "english": "I ate / I have eaten",
+                    "radicalBreakdown": "j'ai (I have) + mangé (eaten) - passé composé with avoir"
+                },
+                {
+                    "targetText": "Je suis allé",
+                    "phoneticTranscription": "zhuh swee za-lay",
+                    "english": "I went / I have gone",
+                    "radicalBreakdown": "je suis (I am) + allé (gone) - passé composé with être"
+                },
+                {
+                    "targetText": "J'ai travaillé",
+                    "phoneticTranscription": "zhay tra-va-yay",
+                    "english": "I worked / I have worked",
+                    "radicalBreakdown": "j'ai (I have) + travaillé (worked)"
+                },
+                {
+                    "targetText": "J'ai dormi",
+                    "phoneticTranscription": "zhay dor-mee",
+                    "english": "I slept / I have slept",
+                    "radicalBreakdown": "j'ai (I have) + dormi (slept)"
+                },
+                {
+                    "targetText": "Je suis resté",
+                    "phoneticTranscription": "zhuh swee res-tay",
+                    "english": "I stayed / I have stayed",
+                    "radicalBreakdown": "je suis (I am) + resté (stayed) - uses être"
+                }
+            ],
+            "liarGameData": {
+                "trap": "J'ai allé (using avoir with aller)",
+                "correctVersion": "Je suis allé (aller uses être, not avoir)",
+                "explanation": "In French passé composé, most verbs use 'avoir', but movement verbs like aller, venir, partir use 'être'. Remember DR & MRS VANDERTRAMP for être verbs!"
+            }
+        },
+        {
+            "theme": "Making Plans & Future",
+            "order": 2,
+            "lessons": [
+                {
+                    "targetText": "Je vais partir",
+                    "phoneticTranscription": "zhuh vay par-teer",
+                    "english": "I am going to leave",
+                    "radicalBreakdown": "je vais (I go) + partir (to leave) - near future"
+                },
+                {
+                    "targetText": "Nous allons manger",
+                    "phoneticTranscription": "noo za-lon mon-zhay",
+                    "english": "We are going to eat",
+                    "radicalBreakdown": "nous allons (we go) + manger (to eat)"
+                },
+                {
+                    "targetText": "Tu vas étudier",
+                    "phoneticTranscription": "too va ay-too-dee-ay",
+                    "english": "You are going to study",
+                    "radicalBreakdown": "tu vas (you go) + étudier (to study)"
+                },
+                {
+                    "targetText": "Il va pleuvoir",
+                    "phoneticTranscription": "eel va pluh-vwar",
+                    "english": "It is going to rain",
+                    "radicalBreakdown": "il va (he/it goes) + pleuvoir (to rain)"
+                },
+                {
+                    "targetText": "Demain",
+                    "phoneticTranscription": "duh-man",
+                    "english": "Tomorrow",
+                    "radicalBreakdown": "de (of) + main (morning)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "Je vais à manger (adding à before the infinitive)",
+                "correctVersion": "Je vais manger (no preposition needed)",
+                "explanation": "With 'aller' in the near future tense, you directly follow with the infinitive verb. Don't add 'à' or 'de' between them."
+            }
+        },
+        {
+            "theme": "Describing People & Things",
+            "order": 3,
+            "lessons": [
+                {
+                    "targetText": "Grand",
+                    "phoneticTranscription": "gron",
+                    "english": "Tall / Big (masculine)",
+                    "radicalBreakdown": "Adjective - add 'e' for feminine: grande"
+                },
+                {
+                    "targetText": "Petit",
+                    "phoneticTranscription": "puh-tee",
+                    "english": "Small (masculine)",
+                    "radicalBreakdown": "Adjective - feminine: petite"
+                },
+                {
+                    "targetText": "Beau",
+                    "phoneticTranscription": "bo",
+                    "english": "Beautiful / Handsome (masculine)",
+                    "radicalBreakdown": "Irregular adjective - feminine: belle, plural: beaux"
+                },
+                {
+                    "targetText": "Intelligent",
+                    "phoneticTranscription": "an-tel-ee-zhon",
+                    "english": "Intelligent (masculine)",
+                    "radicalBreakdown": "Adjective - add 'e' for feminine: intelligente"
+                },
+                {
+                    "targetText": "Sympa",
+                    "phoneticTranscription": "sam-pa",
+                    "english": "Nice / Friendly",
+                    "radicalBreakdown": "Short for sympathique - invariable in gender"
+                }
+            ],
+            "liarGameData": {
+                "trap": "Une beau femme (using masculine form with feminine noun)",
+                "correctVersion": "Une belle femme (belle is the feminine form)",
+                "explanation": "The adjective 'beau' changes to 'belle' for feminine nouns. Also, before a vowel, use 'bel' (un bel homme)."
+            }
+        },
+        {
+            "theme": "Food & Dining",
+            "order": 4,
+            "lessons": [
+                {
+                    "targetText": "Je voudrais",
+                    "phoneticTranscription": "zhuh voo-dray",
+                    "english": "I would like",
+                    "radicalBreakdown": "Conditional form of vouloir - polite request"
+                },
+                {
+                    "targetText": "L'addition",
+                    "phoneticTranscription": "la-dee-syon",
+                    "english": "The bill / check",
+                    "radicalBreakdown": "l' (the) + addition (bill)"
+                },
+                {
+                    "targetText": "Un verre de vin",
+                    "phoneticTranscription": "an vair duh van",
+                    "english": "A glass of wine",
+                    "radicalBreakdown": "un verre (a glass) + de (of) + vin (wine)"
+                },
+                {
+                    "targetText": "Du pain",
+                    "phoneticTranscription": "doo pan",
+                    "english": "Some bread",
+                    "radicalBreakdown": "du (some - masculine) + pain (bread)"
+                },
+                {
+                    "targetText": "De la viande",
+                    "phoneticTranscription": "duh la vee-ond",
+                    "english": "Some meat",
+                    "radicalBreakdown": "de la (some - feminine) + viande (meat)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "Je veux l'addition (using 'veux' instead of 'voudrais')",
+                "correctVersion": "Je voudrais l'addition (conditional is more polite)",
+                "explanation": "'Je veux' (I want) sounds demanding. Use 'Je voudrais' (I would like) for polite requests in French."
+            }
+        },
+        {
+            "theme": "Asking Questions",
+            "order": 5,
+            "lessons": [
+                {
+                    "targetText": "Où est...?",
+                    "phoneticTranscription": "oo ay",
+                    "english": "Where is...?",
+                    "radicalBreakdown": "où (where) + est (is)"
+                },
+                {
+                    "targetText": "Combien coûte...?",
+                    "phoneticTranscription": "kom-byan koot",
+                    "english": "How much does... cost?",
+                    "radicalBreakdown": "combien (how much) + coûte (costs)"
+                },
+                {
+                    "targetText": "Pourquoi?",
+                    "phoneticTranscription": "poor-kwa",
+                    "english": "Why?",
+                    "radicalBreakdown": "pour (for) + quoi (what)"
+                },
+                {
+                    "targetText": "Quand?",
+                    "phoneticTranscription": "kon",
+                    "english": "When?",
+                    "radicalBreakdown": "Question word for time"
+                },
+                {
+                    "targetText": "Comment?",
+                    "phoneticTranscription": "ko-mon",
+                    "english": "How? / What?",
+                    "radicalBreakdown": "Question word for manner"
+                }
+            ],
+            "liarGameData": {
+                "trap": "Où est-il? (formal inversion in casual conversation)",
+                "correctVersion": "Il est où? or Où il est? (more natural in spoken French)",
+                "explanation": "While 'Où est-il?' is grammatically correct, in casual spoken French, people often use 'Il est où?' or just raise intonation: 'Il est où?'"
+            }
+        }
+    ]
+}

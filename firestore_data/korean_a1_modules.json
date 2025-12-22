@@ -1,0 +1,209 @@
+{
+    "korean_a1_modules": [
+        {
+            "theme": "Hangul Basics & Greetings",
+            "order": 1,
+            "lessons": [
+                {
+                    "targetText": "안녕하세요",
+                    "phoneticTranscription": "annyeonghaseyo",
+                    "english": "Hello (formal)",
+                    "radicalBreakdown": "안녕 (peace/well-being) + 하세요 (formal honorific ending)"
+                },
+                {
+                    "targetText": "감사합니다",
+                    "phoneticTranscription": "gamsahamnida",
+                    "english": "Thank you (formal)",
+                    "radicalBreakdown": "감사 (gratitude) + 합니다 (formal polite ending)"
+                },
+                {
+                    "targetText": "네",
+                    "phoneticTranscription": "ne",
+                    "english": "Yes (polite)",
+                    "radicalBreakdown": "Single syllable polite affirmative"
+                },
+                {
+                    "targetText": "아니요",
+                    "phoneticTranscription": "aniyo",
+                    "english": "No (polite)",
+                    "radicalBreakdown": "아니 (not) + 요 (polite ending)"
+                },
+                {
+                    "targetText": "죄송합니다",
+                    "phoneticTranscription": "joesonghamnida",
+                    "english": "I'm sorry (formal)",
+                    "radicalBreakdown": "죄송 (apology) + 합니다 (formal polite ending)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "안녕 (using casual greeting in formal setting)",
+                "correctVersion": "안녕하세요 (use formal greeting with -하세요 ending)",
+                "explanation": "In formal situations, always use 안녕하세요 (annyeonghaseyo), not 안녕 (annyeong). The -하세요 ending shows respect!"
+            }
+        },
+        {
+            "theme": "Basic Sentence Patterns",
+            "order": 2,
+            "lessons": [
+                {
+                    "targetText": "저는",
+                    "phoneticTranscription": "jeoneun",
+                    "english": "I am (humble)",
+                    "radicalBreakdown": "저 (I - humble) + 는 (topic marker)"
+                },
+                {
+                    "targetText": "입니다",
+                    "phoneticTranscription": "imnida",
+                    "english": "is/am (formal)",
+                    "radicalBreakdown": "이 (to be) + ㅂ니다 (formal ending)"
+                },
+                {
+                    "targetText": "이에요",
+                    "phoneticTranscription": "ieyo",
+                    "english": "is/am (polite, after consonant)",
+                    "radicalBreakdown": "이 (to be) + 에요 (polite ending)"
+                },
+                {
+                    "targetText": "예요",
+                    "phoneticTranscription": "yeyo",
+                    "english": "is/am (polite, after vowel)",
+                    "radicalBreakdown": "예 (to be) + 요 (polite ending)"
+                },
+                {
+                    "targetText": "학생",
+                    "phoneticTranscription": "haksaeng",
+                    "english": "student",
+                    "radicalBreakdown": "학 (study) + 생 (person/life)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "저는 학생이야 (using casual ending in polite context)",
+                "correctVersion": "저는 학생이에요 (use polite -이에요 ending)",
+                "explanation": "When using humble 저 (jeo), you must use polite endings like -이에요, not casual -이야!"
+            }
+        },
+        {
+            "theme": "Numbers & Counting",
+            "order": 3,
+            "lessons": [
+                {
+                    "targetText": "하나",
+                    "phoneticTranscription": "hana",
+                    "english": "one (native Korean)",
+                    "radicalBreakdown": "Native Korean number for counting objects"
+                },
+                {
+                    "targetText": "둘",
+                    "phoneticTranscription": "dul",
+                    "english": "two (native Korean)",
+                    "radicalBreakdown": "Native Korean number for counting objects"
+                },
+                {
+                    "targetText": "셋",
+                    "phoneticTranscription": "set",
+                    "english": "three (native Korean)",
+                    "radicalBreakdown": "Native Korean number for counting objects"
+                },
+                {
+                    "targetText": "일",
+                    "phoneticTranscription": "il",
+                    "english": "one (Sino-Korean)",
+                    "radicalBreakdown": "Chinese-origin number, used for dates/money"
+                },
+                {
+                    "targetText": "이",
+                    "phoneticTranscription": "i",
+                    "english": "two (Sino-Korean)",
+                    "radicalBreakdown": "Chinese-origin number, used for dates/money"
+                }
+            ],
+            "liarGameData": {
+                "trap": "사과 일 개 (using Sino-Korean number with counter)",
+                "correctVersion": "사과 한 개 (use native Korean 한 with counters)",
+                "explanation": "Use native Korean numbers (하나→한, 둘→두) with counters, not Sino-Korean numbers!"
+            }
+        },
+        {
+            "theme": "Family & People",
+            "order": 4,
+            "lessons": [
+                {
+                    "targetText": "어머니",
+                    "phoneticTranscription": "eomeoni",
+                    "english": "mother (formal)",
+                    "radicalBreakdown": "Formal/respectful term for mother"
+                },
+                {
+                    "targetText": "아버지",
+                    "phoneticTranscription": "abeoji",
+                    "english": "father (formal)",
+                    "radicalBreakdown": "Formal/respectful term for father"
+                },
+                {
+                    "targetText": "친구",
+                    "phoneticTranscription": "chingu",
+                    "english": "friend",
+                    "radicalBreakdown": "친 (close) + 구 (person)"
+                },
+                {
+                    "targetText": "선생님",
+                    "phoneticTranscription": "seonsaengnim",
+                    "english": "teacher (honorific)",
+                    "radicalBreakdown": "선생 (teacher) + 님 (honorific suffix)"
+                },
+                {
+                    "targetText": "이름",
+                    "phoneticTranscription": "ireum",
+                    "english": "name",
+                    "radicalBreakdown": "Single word for name"
+                }
+            ],
+            "liarGameData": {
+                "trap": "선생 (omitting honorific suffix)",
+                "correctVersion": "선생님 (must include -님 honorific)",
+                "explanation": "Always use 선생님 (seonsaengnim) with the honorific -님 when addressing or referring to teachers!"
+            }
+        },
+        {
+            "theme": "Basic Verbs",
+            "order": 5,
+            "lessons": [
+                {
+                    "targetText": "가요",
+                    "phoneticTranscription": "gayo",
+                    "english": "go (polite)",
+                    "radicalBreakdown": "가 (go) + 요 (polite ending)"
+                },
+                {
+                    "targetText": "와요",
+                    "phoneticTranscription": "wayo",
+                    "english": "come (polite)",
+                    "radicalBreakdown": "오 (come) + 아요 (polite ending, vowel harmony)"
+                },
+                {
+                    "targetText": "먹어요",
+                    "phoneticTranscription": "meogeoyo",
+                    "english": "eat (polite)",
+                    "radicalBreakdown": "먹 (eat) + 어요 (polite ending)"
+                },
+                {
+                    "targetText": "마셔요",
+                    "phoneticTranscription": "masyeoyo",
+                    "english": "drink (polite)",
+                    "radicalBreakdown": "마시 (drink) + 어요 (polite ending)"
+                },
+                {
+                    "targetText": "해요",
+                    "phoneticTranscription": "haeyo",
+                    "english": "do (polite)",
+                    "radicalBreakdown": "하 (do) + 여요→해요 (polite ending, contracted)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "먹습니다 in casual conversation (overly formal)",
+                "correctVersion": "먹어요 (use -어요 ending for polite but not overly formal)",
+                "explanation": "습니다 endings are very formal. In everyday polite conversation, use -어요/-아요 endings instead!"
+            }
+        }
+    ]
+}

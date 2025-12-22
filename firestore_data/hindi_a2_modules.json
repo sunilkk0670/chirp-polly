@@ -1,0 +1,209 @@
+{
+    "hindi_a2_modules": [
+        {
+            "theme": "Past Tense Verbs",
+            "order": 1,
+            "lessons": [
+                {
+                    "targetText": "मैंने खाया",
+                    "phoneticTranscription": "maine khaya",
+                    "english": "I ate (masculine)",
+                    "radicalBreakdown": "मैंने (I - ergative) + खाया (ate - masculine past)"
+                },
+                {
+                    "targetText": "मैंने पिया",
+                    "phoneticTranscription": "maine piya",
+                    "english": "I drank (masculine)",
+                    "radicalBreakdown": "मैंने (I - ergative) + पिया (drank - masculine past)"
+                },
+                {
+                    "targetText": "मैं गया",
+                    "phoneticTranscription": "main gaya",
+                    "english": "I went (masculine)",
+                    "radicalBreakdown": "मैं (I) + गया (went - masculine past, no ergative)"
+                },
+                {
+                    "targetText": "मैं आया",
+                    "phoneticTranscription": "main aaya",
+                    "english": "I came (masculine)",
+                    "radicalBreakdown": "मैं (I) + आया (came - masculine past)"
+                },
+                {
+                    "targetText": "मैंने देखा",
+                    "phoneticTranscription": "maine dekha",
+                    "english": "I saw (masculine)",
+                    "radicalBreakdown": "मैंने (I - ergative) + देखा (saw - masculine past)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "मैंने गया (using ergative 'ne' with intransitive verb 'gaya')",
+                "correctVersion": "मैं गया (intransitive verbs don't use 'ne')",
+                "explanation": "In Hindi past tense, transitive verbs (खाना, पीना, देखना) use ergative 'ने', but intransitive verbs (जाना, आना) don't. This is a key grammar rule!"
+            }
+        },
+        {
+            "theme": "Future Tense & Plans",
+            "order": 2,
+            "lessons": [
+                {
+                    "targetText": "मैं जाऊंगा",
+                    "phoneticTranscription": "main jaunga",
+                    "english": "I will go (masculine)",
+                    "radicalBreakdown": "मैं (I) + जाऊंगा (will go - masculine future)"
+                },
+                {
+                    "targetText": "मैं करूंगा",
+                    "phoneticTranscription": "main karunga",
+                    "english": "I will do (masculine)",
+                    "radicalBreakdown": "मैं (I) + करूंगा (will do - masculine future)"
+                },
+                {
+                    "targetText": "तुम आओगे",
+                    "phoneticTranscription": "tum aaoge",
+                    "english": "You will come (informal, masculine)",
+                    "radicalBreakdown": "तुम (you) + आओगे (will come - masculine future)"
+                },
+                {
+                    "targetText": "वह खाएगा",
+                    "phoneticTranscription": "vah khaega",
+                    "english": "He will eat",
+                    "radicalBreakdown": "वह (he) + खाएगा (will eat - masculine future)"
+                },
+                {
+                    "targetText": "कल",
+                    "phoneticTranscription": "kal",
+                    "english": "Tomorrow / Yesterday",
+                    "radicalBreakdown": "Context determines if it means tomorrow or yesterday"
+                }
+            ],
+            "liarGameData": {
+                "trap": "मैं जाऊंगी (masculine speaker using feminine ending)",
+                "correctVersion": "मैं जाऊंगा (masculine) or मैं जाऊंगी (feminine)",
+                "explanation": "Future tense endings must match the speaker's gender: -गा/-गे for masculine, -गी for feminine. Choose based on who is speaking!"
+            }
+        },
+        {
+            "theme": "Adjectives & Descriptions",
+            "order": 3,
+            "lessons": [
+                {
+                    "targetText": "बड़ा",
+                    "phoneticTranscription": "bada",
+                    "english": "Big (masculine)",
+                    "radicalBreakdown": "Adjective - feminine: बड़ी (badi)"
+                },
+                {
+                    "targetText": "छोटा",
+                    "phoneticTranscription": "chhota",
+                    "english": "Small (masculine)",
+                    "radicalBreakdown": "Adjective - feminine: छोटी (chhoti)"
+                },
+                {
+                    "targetText": "अच्छा",
+                    "phoneticTranscription": "accha",
+                    "english": "Good (masculine)",
+                    "radicalBreakdown": "Adjective - feminine: अच्छी (acchi)"
+                },
+                {
+                    "targetText": "सुंदर",
+                    "phoneticTranscription": "sundar",
+                    "english": "Beautiful",
+                    "radicalBreakdown": "Invariable adjective - same for all genders"
+                },
+                {
+                    "targetText": "नया",
+                    "phoneticTranscription": "naya",
+                    "english": "New (masculine)",
+                    "radicalBreakdown": "Adjective - feminine: नई (nayi)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "बड़ा लड़की (using masculine adjective with feminine noun)",
+                "correctVersion": "बड़ी लड़की (adjective must match noun gender)",
+                "explanation": "Hindi adjectives ending in -आ change to -ई for feminine nouns. Always match the adjective to the noun's gender!"
+            }
+        },
+        {
+            "theme": "Postpositions & Location",
+            "order": 4,
+            "lessons": [
+                {
+                    "targetText": "में",
+                    "phoneticTranscription": "mein",
+                    "english": "In / Inside",
+                    "radicalBreakdown": "Postposition for location inside"
+                },
+                {
+                    "targetText": "पर",
+                    "phoneticTranscription": "par",
+                    "english": "On / At",
+                    "radicalBreakdown": "Postposition for surface or location"
+                },
+                {
+                    "targetText": "के पास",
+                    "phoneticTranscription": "ke paas",
+                    "english": "Near / Next to",
+                    "radicalBreakdown": "के (of) + पास (near)"
+                },
+                {
+                    "targetText": "के साथ",
+                    "phoneticTranscription": "ke saath",
+                    "english": "With",
+                    "radicalBreakdown": "के (of) + साथ (together)"
+                },
+                {
+                    "targetText": "से",
+                    "phoneticTranscription": "se",
+                    "english": "From / With (instrumental)",
+                    "radicalBreakdown": "Postposition for source or instrument"
+                }
+            ],
+            "liarGameData": {
+                "trap": "मैं घर में हूं (correct) vs मैं में घर हूं (wrong word order)",
+                "correctVersion": "मैं घर में हूं (I am in the house)",
+                "explanation": "In Hindi, postpositions come AFTER the noun (घर में), not before like English prepositions (in house). Word order matters!"
+            }
+        },
+        {
+            "theme": "Asking Questions",
+            "order": 5,
+            "lessons": [
+                {
+                    "targetText": "कहाँ",
+                    "phoneticTranscription": "kahan",
+                    "english": "Where",
+                    "radicalBreakdown": "Question word for location"
+                },
+                {
+                    "targetText": "कब",
+                    "phoneticTranscription": "kab",
+                    "english": "When",
+                    "radicalBreakdown": "Question word for time"
+                },
+                {
+                    "targetText": "क्यों",
+                    "phoneticTranscription": "kyon",
+                    "english": "Why",
+                    "radicalBreakdown": "Question word for reason"
+                },
+                {
+                    "targetText": "कैसे",
+                    "phoneticTranscription": "kaise",
+                    "english": "How",
+                    "radicalBreakdown": "Question word for manner"
+                },
+                {
+                    "targetText": "कितना",
+                    "phoneticTranscription": "kitna",
+                    "english": "How much / How many (masculine)",
+                    "radicalBreakdown": "Question word for quantity - feminine: कितनी (kitni)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "तुम कहाँ हो? (informal 'tum' in formal situation)",
+                "correctVersion": "आप कहाँ हैं? (use 'aap' for respect)",
+                "explanation": "Use 'आप' (aap) with 'हैं' (hain) for formal/respectful speech. 'तुम' (tum) with 'हो' (ho) is only for friends and family."
+            }
+        }
+    ]
+}

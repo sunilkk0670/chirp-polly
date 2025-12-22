@@ -1,0 +1,209 @@
+{
+    "chinese_a2_modules": [
+        {
+            "theme": "Past Tense with 了",
+            "order": 1,
+            "lessons": [
+                {
+                    "targetText": "了",
+                    "phoneticTranscription": "le",
+                    "english": "completed action marker",
+                    "radicalBreakdown": "Particle indicating completed action"
+                },
+                {
+                    "targetText": "吃了",
+                    "phoneticTranscription": "chī le",
+                    "english": "ate / have eaten",
+                    "radicalBreakdown": "吃 (eat) + 了 (completed)"
+                },
+                {
+                    "targetText": "去了",
+                    "phoneticTranscription": "qù le",
+                    "english": "went / have gone",
+                    "radicalBreakdown": "去 (go) + 了 (completed)"
+                },
+                {
+                    "targetText": "看了",
+                    "phoneticTranscription": "kàn le",
+                    "english": "saw / have seen",
+                    "radicalBreakdown": "看 (see/watch) + 了 (completed)"
+                },
+                {
+                    "targetText": "买了",
+                    "phoneticTranscription": "mǎi le",
+                    "english": "bought / have bought",
+                    "radicalBreakdown": "买 (buy) + 了 (completed)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "我吃饭 (missing 了 for completed action)",
+                "correctVersion": "我吃了饭 (add 了 after verb for completed actions)",
+                "explanation": "To show a completed action in the past, add 了 (le) after the verb: 吃了, 去了, not just 吃, 去!"
+            }
+        },
+        {
+            "theme": "Future with 要 and 会",
+            "order": 2,
+            "lessons": [
+                {
+                    "targetText": "要",
+                    "phoneticTranscription": "yào",
+                    "english": "will / want to / going to",
+                    "radicalBreakdown": "西 (west) + 女 (woman) - intention/plan"
+                },
+                {
+                    "targetText": "会",
+                    "phoneticTranscription": "huì",
+                    "english": "will / can / know how to",
+                    "radicalBreakdown": "人 + 云 - ability/future possibility"
+                },
+                {
+                    "targetText": "我要去",
+                    "phoneticTranscription": "wǒ yào qù",
+                    "english": "I will go / I want to go",
+                    "radicalBreakdown": "我 (I) + 要 (will) + 去 (go)"
+                },
+                {
+                    "targetText": "他会来",
+                    "phoneticTranscription": "tā huì lái",
+                    "english": "He will come",
+                    "radicalBreakdown": "他 (he) + 会 (will) + 来 (come)"
+                },
+                {
+                    "targetText": "明天",
+                    "phoneticTranscription": "míngtiān",
+                    "english": "tomorrow",
+                    "radicalBreakdown": "明 (bright) + 天 (day)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "明天我去 (missing future marker)",
+                "correctVersion": "明天我要去 or 明天我会去 (add 要 or 会 for future)",
+                "explanation": "For future actions, use 要 (yào) for plans/intentions or 会 (huì) for predictions. Don't just use bare verbs!"
+            }
+        },
+        {
+            "theme": "More Measure Words & 两 vs 二",
+            "order": 3,
+            "lessons": [
+                {
+                    "targetText": "两",
+                    "phoneticTranscription": "liǎng",
+                    "english": "two (with measure words)",
+                    "radicalBreakdown": "Used before measure words, not 二"
+                },
+                {
+                    "targetText": "两个",
+                    "phoneticTranscription": "liǎng gè",
+                    "english": "two (general items)",
+                    "radicalBreakdown": "两 (two) + 个 (general measure word)"
+                },
+                {
+                    "targetText": "两本书",
+                    "phoneticTranscription": "liǎng běn shū",
+                    "english": "two books",
+                    "radicalBreakdown": "两 (two) + 本 (book MW) + 书 (book)"
+                },
+                {
+                    "targetText": "两杯水",
+                    "phoneticTranscription": "liǎng bēi shuǐ",
+                    "english": "two cups of water",
+                    "radicalBreakdown": "两 (two) + 杯 (cup MW) + 水 (water)"
+                },
+                {
+                    "targetText": "二十",
+                    "phoneticTranscription": "èrshí",
+                    "english": "twenty",
+                    "radicalBreakdown": "二 (two) + 十 (ten) - use 二 in numbers"
+                }
+            ],
+            "liarGameData": {
+                "trap": "二个苹果 (using 二 with measure word)",
+                "correctVersion": "两个苹果 (MUST use 两 liǎng with measure words, not 二 èr)",
+                "explanation": "Critical rule: Use 两 (liǎng) with measure words (两个, 两本), but use 二 (èr) in compound numbers (二十, 十二)!"
+            }
+        },
+        {
+            "theme": "Making Requests with 请",
+            "order": 4,
+            "lessons": [
+                {
+                    "targetText": "请",
+                    "phoneticTranscription": "qǐng",
+                    "english": "please / invite",
+                    "radicalBreakdown": "言 (speech) + 青 (green/young)"
+                },
+                {
+                    "targetText": "请问",
+                    "phoneticTranscription": "qǐngwèn",
+                    "english": "excuse me / may I ask",
+                    "radicalBreakdown": "请 (please) + 问 (ask)"
+                },
+                {
+                    "targetText": "请坐",
+                    "phoneticTranscription": "qǐng zuò",
+                    "english": "please sit",
+                    "radicalBreakdown": "请 (please) + 坐 (sit)"
+                },
+                {
+                    "targetText": "请等一下",
+                    "phoneticTranscription": "qǐng děng yīxià",
+                    "english": "please wait a moment",
+                    "radicalBreakdown": "请 (please) + 等 (wait) + 一下 (a bit)"
+                },
+                {
+                    "targetText": "请帮我",
+                    "phoneticTranscription": "qǐng bāng wǒ",
+                    "english": "please help me",
+                    "radicalBreakdown": "请 (please) + 帮 (help) + 我 (me)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "坐 (missing 请 for polite request)",
+                "correctVersion": "请坐 (add 请 qǐng before verbs for polite requests)",
+                "explanation": "To make polite requests or invitations, always start with 请 (qǐng). 请坐, not just 坐!"
+            }
+        },
+        {
+            "theme": "Describing with 很",
+            "order": 5,
+            "lessons": [
+                {
+                    "targetText": "很",
+                    "phoneticTranscription": "hěn",
+                    "english": "very",
+                    "radicalBreakdown": "彳(step) + 艮 (stubborn) - intensifier"
+                },
+                {
+                    "targetText": "很好",
+                    "phoneticTranscription": "hěn hǎo",
+                    "english": "very good",
+                    "radicalBreakdown": "很 (very) + 好 (good)"
+                },
+                {
+                    "targetText": "很大",
+                    "phoneticTranscription": "hěn dà",
+                    "english": "very big",
+                    "radicalBreakdown": "很 (very) + 大 (big)"
+                },
+                {
+                    "targetText": "很漂亮",
+                    "phoneticTranscription": "hěn piàoliang",
+                    "english": "very beautiful",
+                    "radicalBreakdown": "很 (very) + 漂亮 (beautiful)"
+                },
+                {
+                    "targetText": "很贵",
+                    "phoneticTranscription": "hěn guì",
+                    "english": "very expensive",
+                    "radicalBreakdown": "很 (very) + 贵 (expensive)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "这个好 (missing 很 in adjective predicate)",
+                "correctVersion": "这个很好 (add 很 before adjectives in predicates)",
+                "explanation": "When adjectives are predicates (not before nouns), you usually need 很 (hěn): 很好, 很大, not just 好, 大!"
+            }
+        }
+    ]
+}

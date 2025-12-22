@@ -1,0 +1,209 @@
+{
+    "french_b1_modules": [
+        {
+            "theme": "Subjunctive Mood",
+            "order": 1,
+            "lessons": [
+                {
+                    "targetText": "Il faut que",
+                    "phoneticTranscription": "eel fo kuh",
+                    "english": "It is necessary that / must",
+                    "radicalBreakdown": "il faut (it is necessary) + que (that) + subjunctive"
+                },
+                {
+                    "targetText": "Je veux que",
+                    "phoneticTranscription": "zhuh vuh kuh",
+                    "english": "I want that",
+                    "radicalBreakdown": "je veux (I want) + que + subjunctive"
+                },
+                {
+                    "targetText": "Bien que",
+                    "phoneticTranscription": "byan kuh",
+                    "english": "Although",
+                    "radicalBreakdown": "bien que + subjunctive"
+                },
+                {
+                    "targetText": "Pour que",
+                    "phoneticTranscription": "poor kuh",
+                    "english": "So that / in order that",
+                    "radicalBreakdown": "pour que + subjunctive"
+                },
+                {
+                    "targetText": "Avant que",
+                    "phoneticTranscription": "ah-von kuh",
+                    "english": "Before",
+                    "radicalBreakdown": "avant que + subjunctive"
+                }
+            ],
+            "liarGameData": {
+                "trap": "Il faut que tu viens (using indicative instead of subjunctive)",
+                "correctVersion": "Il faut que tu viennes (use subjunctive after il faut que)",
+                "explanation": "After expressions of necessity like 'il faut que', you MUST use the subjunctive mood, not the indicative."
+            }
+        },
+        {
+            "theme": "Relative Pronouns",
+            "order": 2,
+            "lessons": [
+                {
+                    "targetText": "Qui",
+                    "phoneticTranscription": "kee",
+                    "english": "Who / which (subject)",
+                    "radicalBreakdown": "Relative pronoun - subject of relative clause"
+                },
+                {
+                    "targetText": "Que",
+                    "phoneticTranscription": "kuh",
+                    "english": "That / which (object)",
+                    "radicalBreakdown": "Relative pronoun - object of relative clause"
+                },
+                {
+                    "targetText": "Dont",
+                    "phoneticTranscription": "don",
+                    "english": "Whose / of which",
+                    "radicalBreakdown": "Relative pronoun - replaces 'de + noun'"
+                },
+                {
+                    "targetText": "Où",
+                    "phoneticTranscription": "oo",
+                    "english": "Where / when",
+                    "radicalBreakdown": "Relative pronoun for place or time"
+                },
+                {
+                    "targetText": "Lequel",
+                    "phoneticTranscription": "luh-kel",
+                    "english": "Which one (after preposition)",
+                    "radicalBreakdown": "le + quel (which) - agrees in gender/number"
+                }
+            ],
+            "liarGameData": {
+                "trap": "Le livre de que je parle (using que after preposition)",
+                "correctVersion": "Le livre dont je parle (use dont to replace 'de + noun')",
+                "explanation": "Use 'dont' when the verb requires 'de' (parler de). Don't use 'de que' - it's always just 'dont'."
+            }
+        },
+        {
+            "theme": "Pronouns Y & EN",
+            "order": 3,
+            "lessons": [
+                {
+                    "targetText": "J'y vais",
+                    "phoneticTranscription": "zhee vay",
+                    "english": "I'm going there",
+                    "radicalBreakdown": "j'y (I there) + vais (go) - y replaces à + place"
+                },
+                {
+                    "targetText": "J'en ai",
+                    "phoneticTranscription": "zhon ay",
+                    "english": "I have some",
+                    "radicalBreakdown": "j'en (I of-it) + ai (have) - en replaces de + noun"
+                },
+                {
+                    "targetText": "Il y pense",
+                    "phoneticTranscription": "eel ee pons",
+                    "english": "He thinks about it",
+                    "radicalBreakdown": "y replaces à + thing with penser à"
+                },
+                {
+                    "targetText": "J'en veux",
+                    "phoneticTranscription": "zhon vuh",
+                    "english": "I want some",
+                    "radicalBreakdown": "en replaces partitive article + noun"
+                },
+                {
+                    "targetText": "N'en parle pas",
+                    "phoneticTranscription": "non parl pa",
+                    "english": "Don't talk about it",
+                    "radicalBreakdown": "en replaces de + thing with parler de"
+                }
+            ],
+            "liarGameData": {
+                "trap": "Je vais à Paris → J'en vais (using en for place)",
+                "correctVersion": "Je vais à Paris → J'y vais (use y for places with à)",
+                "explanation": "Use Y to replace à + place/thing. Use EN to replace de + thing or partitive articles. Don't confuse them!"
+            }
+        },
+        {
+            "theme": "Conditional & Si Clauses",
+            "order": 4,
+            "lessons": [
+                {
+                    "targetText": "Si + présent",
+                    "phoneticTranscription": "see + pray-zon",
+                    "english": "If + present tense",
+                    "radicalBreakdown": "Si + present → future/present in main clause"
+                },
+                {
+                    "targetText": "Si + imparfait",
+                    "phoneticTranscription": "see + am-par-fay",
+                    "english": "If + imperfect",
+                    "radicalBreakdown": "Si + imperfect → conditional in main clause"
+                },
+                {
+                    "targetText": "Je voudrais",
+                    "phoneticTranscription": "zhuh voo-dray",
+                    "english": "I would like",
+                    "radicalBreakdown": "Conditional of vouloir"
+                },
+                {
+                    "targetText": "J'aurais",
+                    "phoneticTranscription": "zho-ray",
+                    "english": "I would have",
+                    "radicalBreakdown": "Conditional of avoir"
+                },
+                {
+                    "targetText": "Je serais",
+                    "phoneticTranscription": "zhuh suh-ray",
+                    "english": "I would be",
+                    "radicalBreakdown": "Conditional of être"
+                }
+            ],
+            "liarGameData": {
+                "trap": "Si j'aurais de l'argent (using conditional after si)",
+                "correctVersion": "Si j'avais de l'argent (use imperfect after si, not conditional)",
+                "explanation": "NEVER use conditional after 'si'! Use present or imperfect. The conditional goes in the MAIN clause, not after si."
+            }
+        },
+        {
+            "theme": "Agreement & Participles",
+            "order": 5,
+            "lessons": [
+                {
+                    "targetText": "Accord du participe",
+                    "phoneticTranscription": "a-kor doo par-tee-seep",
+                    "english": "Past participle agreement",
+                    "radicalBreakdown": "Participle agrees with preceding direct object"
+                },
+                {
+                    "targetText": "Les pommes que j'ai mangées",
+                    "phoneticTranscription": "lay pom kuh zhay mon-zhay",
+                    "english": "The apples that I ate",
+                    "radicalBreakdown": "mangées agrees with 'pommes' (feminine plural)"
+                },
+                {
+                    "targetText": "Elle s'est lavée",
+                    "phoneticTranscription": "el say la-vay",
+                    "english": "She washed herself",
+                    "radicalBreakdown": "Reflexive - participle agrees with subject"
+                },
+                {
+                    "targetText": "Ils se sont parlé",
+                    "phoneticTranscription": "eel suh son par-lay",
+                    "english": "They spoke to each other",
+                    "radicalBreakdown": "No agreement - 'se' is indirect object"
+                },
+                {
+                    "targetText": "La lettre qu'il a écrite",
+                    "phoneticTranscription": "la letr keel a ay-kreet",
+                    "english": "The letter he wrote",
+                    "radicalBreakdown": "écrite agrees with 'lettre' (feminine)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "Les filles se sont lavé les mains (agreeing with subject)",
+                "correctVersion": "Les filles se sont lavé les mains (no agreement - 'mains' is direct object)",
+                "explanation": "With reflexive verbs, if there's a direct object AFTER the verb (les mains), the participle doesn't agree. Agreement only happens when 'se' is the direct object."
+            }
+        }
+    ]
+}

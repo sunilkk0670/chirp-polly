@@ -1,0 +1,77 @@
+{
+    "languages": {
+        "japanese": {
+            "id": "japanese",
+            "name": "Japanese",
+            "code": "ja",
+            "nativeScript": "日本語",
+            "enabled": true,
+            "order": 1,
+            "description": "Learn Japanese from basics to intermediate",
+            "flag": "🇯🇵"
+        },
+        "hindi": {
+            "id": "hindi",
+            "name": "Hindi",
+            "code": "hi",
+            "nativeScript": "हिन्दी",
+            "enabled": true,
+            "order": 2,
+            "description": "Learn Hindi from basics to intermediate",
+            "flag": "🇮🇳"
+        },
+        "french": {
+            "id": "french",
+            "name": "French",
+            "code": "fr",
+            "nativeScript": "Français",
+            "enabled": true,
+            "order": 3,
+            "description": "Learn French from basics to intermediate",
+            "flag": "🇫🇷"
+        },
+        "korean": {
+            "id": "korean",
+            "name": "Korean",
+            "code": "ko",
+            "nativeScript": "한국어",
+            "enabled": false,
+            "order": 4,
+            "description": "Learn Korean from basics to intermediate",
+            "flag": "🇰🇷"
+        },
+        "chinese": {
+            "id": "chinese",
+            "name": "Chinese (Mandarin)",
+            "code": "zh",
+            "nativeScript": "中文",
+            "enabled": false,
+            "order": 5,
+            "description": "Learn Mandarin Chinese from basics to intermediate",
+            "flag": "🇨🇳"
+        }
+    },
+    "levels": {
+        "a1": {
+            "id": "a1",
+            "name": "A1",
+            "order": 1,
+            "description": "Beginner - Basic phrases and vocabulary",
+            "totalModules": 5
+        },
+        "a2": {
+            "id": "a2",
+            "name": "A2",
+            "order": 2,
+            "description": "Elementary - Simple conversations",
+            "totalModules": 0
+        },
+        "b1": {
+            "id": "b1",
+            "name": "B1",
+            "order": 3,
+            "description": "Intermediate - Everyday situations",
+            "totalModules": 0
+        }
+    }
+}

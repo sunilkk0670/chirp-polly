@@ -1,0 +1,209 @@
+{
+    "chinese_a1_modules": [
+        {
+            "theme": "Pinyin & Basic Greetings",
+            "order": 1,
+            "lessons": [
+                {
+                    "targetText": "你好",
+                    "phoneticTranscription": "nǐ hǎo",
+                    "english": "Hello",
+                    "radicalBreakdown": "你 (you) + 好 (good)"
+                },
+                {
+                    "targetText": "谢谢",
+                    "phoneticTranscription": "xièxie",
+                    "english": "Thank you",
+                    "radicalBreakdown": "谢 (thanks) repeated for emphasis"
+                },
+                {
+                    "targetText": "再见",
+                    "phoneticTranscription": "zàijiàn",
+                    "english": "Goodbye",
+                    "radicalBreakdown": "再 (again) + 见 (see)"
+                },
+                {
+                    "targetText": "对不起",
+                    "phoneticTranscription": "duìbuqǐ",
+                    "english": "Sorry",
+                    "radicalBreakdown": "对 (correct) + 不起 (cannot rise to)"
+                },
+                {
+                    "targetText": "不客气",
+                    "phoneticTranscription": "bú kèqi",
+                    "english": "You're welcome",
+                    "radicalBreakdown": "不 (not) + 客气 (polite/courteous)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "ni hao (missing tone marks in pinyin)",
+                "correctVersion": "nǐ hǎo (must include tone marks: 3rd tone + 3rd tone)",
+                "explanation": "Pinyin without tones is incomplete! 你好 is nǐ hǎo (both 3rd tone), not 'ni hao'. Tones change meaning!"
+            }
+        },
+        {
+            "theme": "Numbers & Counting",
+            "order": 2,
+            "lessons": [
+                {
+                    "targetText": "一",
+                    "phoneticTranscription": "yī",
+                    "english": "one",
+                    "radicalBreakdown": "Single horizontal stroke"
+                },
+                {
+                    "targetText": "二",
+                    "phoneticTranscription": "èr",
+                    "english": "two",
+                    "radicalBreakdown": "Two horizontal strokes"
+                },
+                {
+                    "targetText": "三",
+                    "phoneticTranscription": "sān",
+                    "english": "three",
+                    "radicalBreakdown": "Three horizontal strokes"
+                },
+                {
+                    "targetText": "四",
+                    "phoneticTranscription": "sì",
+                    "english": "four",
+                    "radicalBreakdown": "囗 (enclosure) + 儿 (legs)"
+                },
+                {
+                    "targetText": "五",
+                    "phoneticTranscription": "wǔ",
+                    "english": "five",
+                    "radicalBreakdown": "二 (two) + 儿 (legs) crossing"
+                }
+            ],
+            "liarGameData": {
+                "trap": "二个苹果 (using 二 with measure word)",
+                "correctVersion": "两个苹果 (use 两 liǎng, not 二 èr, when counting with measure words)",
+                "explanation": "When counting objects with measure words (个, 本, etc.), use 两 (liǎng) for 'two', not 二 (èr)!"
+            }
+        },
+        {
+            "theme": "Measure Words",
+            "order": 3,
+            "lessons": [
+                {
+                    "targetText": "个",
+                    "phoneticTranscription": "gè",
+                    "english": "general measure word",
+                    "radicalBreakdown": "人 (person) + 固 - most common counter"
+                },
+                {
+                    "targetText": "本",
+                    "phoneticTranscription": "běn",
+                    "english": "measure word for books",
+                    "radicalBreakdown": "木 (tree/wood) - for bound items"
+                },
+                {
+                    "targetText": "杯",
+                    "phoneticTranscription": "bēi",
+                    "english": "measure word for cups",
+                    "radicalBreakdown": "木 (wood) + 不 - cup/glass counter"
+                },
+                {
+                    "targetText": "张",
+                    "phoneticTranscription": "zhāng",
+                    "english": "measure word for flat objects",
+                    "radicalBreakdown": "弓 (bow) + 长 - for paper, tables, etc."
+                },
+                {
+                    "targetText": "只",
+                    "phoneticTranscription": "zhī",
+                    "english": "measure word for animals",
+                    "radicalBreakdown": "口 (mouth) + 隹 (bird) - for animals"
+                }
+            ],
+            "liarGameData": {
+                "trap": "一书 (missing measure word)",
+                "correctVersion": "一本书 (must include measure word 本 between number and noun)",
+                "explanation": "In Chinese, you MUST use a measure word between numbers and nouns. It's 一本书, not 一书!"
+            }
+        },
+        {
+            "theme": "Basic Pronouns & Family",
+            "order": 4,
+            "lessons": [
+                {
+                    "targetText": "我",
+                    "phoneticTranscription": "wǒ",
+                    "english": "I / me",
+                    "radicalBreakdown": "戈 (halberd) + hand radical"
+                },
+                {
+                    "targetText": "你",
+                    "phoneticTranscription": "nǐ",
+                    "english": "you (singular)",
+                    "radicalBreakdown": "亻(person) + 尔 (you)"
+                },
+                {
+                    "targetText": "他",
+                    "phoneticTranscription": "tā",
+                    "english": "he / him",
+                    "radicalBreakdown": "亻(person) + 也 (also)"
+                },
+                {
+                    "targetText": "她",
+                    "phoneticTranscription": "tā",
+                    "english": "she / her",
+                    "radicalBreakdown": "女 (woman) + 也 (also)"
+                },
+                {
+                    "targetText": "妈妈",
+                    "phoneticTranscription": "māma",
+                    "english": "mom / mother",
+                    "radicalBreakdown": "妈 (mother) repeated"
+                }
+            ],
+            "liarGameData": {
+                "trap": "他 for both 'he' and 'she' in writing",
+                "correctVersion": "他 (tā) = he, 她 (tā) = she - different characters!",
+                "explanation": "虽然发音相同 (both tā), but in writing: 他 (he) uses 亻, 她 (she) uses 女. Don't confuse them!"
+            }
+        },
+        {
+            "theme": "Basic Verbs & Actions",
+            "order": 5,
+            "lessons": [
+                {
+                    "targetText": "是",
+                    "phoneticTranscription": "shì",
+                    "english": "to be / is / am / are",
+                    "radicalBreakdown": "日 (sun) + 正 (correct)"
+                },
+                {
+                    "targetText": "有",
+                    "phoneticTranscription": "yǒu",
+                    "english": "to have / there is",
+                    "radicalBreakdown": "月 (moon) + hand radical"
+                },
+                {
+                    "targetText": "吃",
+                    "phoneticTranscription": "chī",
+                    "english": "to eat",
+                    "radicalBreakdown": "口 (mouth) + 乞 (beg)"
+                },
+                {
+                    "targetText": "喝",
+                    "phoneticTranscription": "hē",
+                    "english": "to drink",
+                    "radicalBreakdown": "口 (mouth) + 曷 (why/how)"
+                },
+                {
+                    "targetText": "去",
+                    "phoneticTranscription": "qù",
+                    "english": "to go",
+                    "radicalBreakdown": "土 (earth) + 厶 (private)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "我是有书 (using 是 instead of 有 for possession)",
+                "correctVersion": "我有书 (use 有 yǒu for 'have', not 是 shì)",
+                "explanation": "是 (shì) means 'to be' for identity. 有 (yǒu) means 'to have'. Don't say 我是有, say 我有!"
+            }
+        }
+    ]
+}

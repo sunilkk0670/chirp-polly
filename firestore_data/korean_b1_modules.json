@@ -1,0 +1,209 @@
+{
+    "korean_b1_modules": [
+        {
+            "theme": "Honorific Speech Levels",
+            "order": 1,
+            "lessons": [
+                {
+                    "targetText": "하십니다",
+                    "phoneticTranscription": "hasimnida",
+                    "english": "does (formal honorific)",
+                    "radicalBreakdown": "하 (do) + 시 (honorific marker) + ㅂ니다 (formal ending)"
+                },
+                {
+                    "targetText": "가십니다",
+                    "phoneticTranscription": "gasimnida",
+                    "english": "goes (formal honorific)",
+                    "radicalBreakdown": "가 (go) + 시 (honorific) + ㅂ니다 (formal)"
+                },
+                {
+                    "targetText": "드십니다",
+                    "phoneticTranscription": "deusimnida",
+                    "english": "eats/drinks (formal honorific)",
+                    "radicalBreakdown": "드시 (honorific eat/drink) + ㅂ니다 (formal)"
+                },
+                {
+                    "targetText": "계십니다",
+                    "phoneticTranscription": "gyesimnida",
+                    "english": "is/exists (formal honorific)",
+                    "radicalBreakdown": "계시 (honorific be) + ㅂ니다 (formal)"
+                },
+                {
+                    "targetText": "주무십니다",
+                    "phoneticTranscription": "jumusimnida",
+                    "english": "sleeps (formal honorific)",
+                    "radicalBreakdown": "주무시 (honorific sleep) + ㅂ니다 (formal)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "할아버지가 밥을 먹어요 (using plain polite for elder)",
+                "correctVersion": "할아버지가 진지를 드세요 (use honorific 드시다 + special word 진지)",
+                "explanation": "For elders/superiors, use honorific verbs: 드시다 (eat), 주무시다 (sleep), 계시다 (be), not regular polite forms!"
+            }
+        },
+        {
+            "theme": "Connective Endings",
+            "order": 2,
+            "lessons": [
+                {
+                    "targetText": "고",
+                    "phoneticTranscription": "go",
+                    "english": "and (sequential actions)",
+                    "radicalBreakdown": "Connector for listing actions"
+                },
+                {
+                    "targetText": "지만",
+                    "phoneticTranscription": "jiman",
+                    "english": "but / however",
+                    "radicalBreakdown": "Contrastive connector"
+                },
+                {
+                    "targetText": "아서/어서",
+                    "phoneticTranscription": "aseo/eoseo",
+                    "english": "so / because (reason)",
+                    "radicalBreakdown": "Causal connector showing reason"
+                },
+                {
+                    "targetText": "면",
+                    "phoneticTranscription": "myeon",
+                    "english": "if / when (conditional)",
+                    "radicalBreakdown": "Conditional connector"
+                },
+                {
+                    "targetText": "는데",
+                    "phoneticTranscription": "neunde",
+                    "english": "but / and (background info)",
+                    "radicalBreakdown": "Background/contrast connector"
+                }
+            ],
+            "liarGameData": {
+                "trap": "비가 와고 우산을 가져갔어요 (using 고 for cause-effect)",
+                "correctVersion": "비가 와서 우산을 가져갔어요 (use 아서/어서 for cause-effect)",
+                "explanation": "Use 고 for simple listing. Use 아서/어서 when first action is REASON for second action!"
+            }
+        },
+        {
+            "theme": "Passive & Causative Forms",
+            "order": 3,
+            "lessons": [
+                {
+                    "targetText": "이/히/리/기",
+                    "phoneticTranscription": "i/hi/ri/gi",
+                    "english": "passive suffixes",
+                    "radicalBreakdown": "Passive voice markers"
+                },
+                {
+                    "targetText": "보이다",
+                    "phoneticTranscription": "boida",
+                    "english": "to be seen / visible",
+                    "radicalBreakdown": "보 (see) + 이다 (passive)"
+                },
+                {
+                    "targetText": "들리다",
+                    "phoneticTranscription": "deullida",
+                    "english": "to be heard / audible",
+                    "radicalBreakdown": "들 (hear) + 리다 (passive)"
+                },
+                {
+                    "targetText": "먹이다",
+                    "phoneticTranscription": "meogida",
+                    "english": "to feed (causative)",
+                    "radicalBreakdown": "먹 (eat) + 이다 (causative)"
+                },
+                {
+                    "targetText": "입히다",
+                    "phoneticTranscription": "ipida",
+                    "english": "to dress someone (causative)",
+                    "radicalBreakdown": "입 (wear) + 히다 (causative)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "아기에게 옷을 입어요 (using active verb for dressing someone)",
+                "correctVersion": "아기에게 옷을 입혀요 (use causative 입히다 when dressing someone else)",
+                "explanation": "입다 = to wear (yourself), 입히다 = to dress (someone else). Use causative when making someone do something!"
+            }
+        },
+        {
+            "theme": "Expressing Ability & Possibility",
+            "order": 4,
+            "lessons": [
+                {
+                    "targetText": "ㄹ/을 수 있다",
+                    "phoneticTranscription": "l/eul su itda",
+                    "english": "can / be able to",
+                    "radicalBreakdown": "Future stem + 수 (way) + 있다 (exist)"
+                },
+                {
+                    "targetText": "ㄹ/을 수 없다",
+                    "phoneticTranscription": "l/eul su eopda",
+                    "english": "cannot / unable to",
+                    "radicalBreakdown": "Future stem + 수 (way) + 없다 (not exist)"
+                },
+                {
+                    "targetText": "ㄹ/을 줄 알다",
+                    "phoneticTranscription": "l/eul jul alda",
+                    "english": "know how to",
+                    "radicalBreakdown": "Future stem + 줄 (way) + 알다 (know)"
+                },
+                {
+                    "targetText": "ㄹ/을 줄 모르다",
+                    "phoneticTranscription": "l/eul jul moreuda",
+                    "english": "don't know how to",
+                    "radicalBreakdown": "Future stem + 줄 (way) + 모르다 (not know)"
+                },
+                {
+                    "targetText": "ㄹ/을지도 모르다",
+                    "phoneticTranscription": "l/euljido moreuda",
+                    "english": "might / may",
+                    "radicalBreakdown": "Future stem + 지도 모르다 (don't know if)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "한국어를 할 수 있어요 (using 하다 with 수 있다)",
+                "correctVersion": "한국어를 할 줄 알아요 (use 줄 알다 for learned skills/languages)",
+                "explanation": "Use 수 있다 for general ability. Use 줄 알다 for learned skills like languages, instruments, swimming!"
+            }
+        },
+        {
+            "theme": "Reported Speech",
+            "order": 5,
+            "lessons": [
+                {
+                    "targetText": "ㄴ/는다고",
+                    "phoneticTranscription": "n/neundago",
+                    "english": "said that (statement)",
+                    "radicalBreakdown": "Statement ending + 고 (quotation)"
+                },
+                {
+                    "targetText": "냐고",
+                    "phoneticTranscription": "nyago",
+                    "english": "asked if / whether",
+                    "radicalBreakdown": "Question ending + 고 (quotation)"
+                },
+                {
+                    "targetText": "라고",
+                    "phoneticTranscription": "rago",
+                    "english": "told to / commanded",
+                    "radicalBreakdown": "Command ending + 고 (quotation)"
+                },
+                {
+                    "targetText": "자고",
+                    "phoneticTranscription": "jago",
+                    "english": "suggested that",
+                    "radicalBreakdown": "Suggestion ending + 고 (quotation)"
+                },
+                {
+                    "targetText": "ㄴ/는대요",
+                    "phoneticTranscription": "n/neundaeyo",
+                    "english": "they say that / I heard",
+                    "radicalBreakdown": "Hearsay ending (polite)"
+                }
+            ],
+            "liarGameData": {
+                "trap": "친구가 '내일 와요'라고 했어요 (quoting exact polite speech)",
+                "correctVersion": "친구가 내일 온다고 했어요 (convert to indirect speech with -ㄴ다고)",
+                "explanation": "In reported speech, convert to indirect form: 와요 → 온다고, 먹어요 → 먹는다고. Don't quote exact polite endings!"
+            }
+        }
+    ]
+}
