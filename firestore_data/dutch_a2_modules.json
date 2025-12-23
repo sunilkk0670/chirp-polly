@@ -1,0 +1,227 @@
+[
+    {
+        "moduleId": "dutch_a2_m1",
+        "theme": "Perfect Tense",
+        "order": 1,
+        "lessons": [
+            {
+                "targetText": "Ik heb gewerkt",
+                "phoneticTranscription": "ik hep kheh-VERKT",
+                "english": "I have worked",
+                "notes": "Perfect tense with hebben"
+            },
+            {
+                "targetText": "Jij bent gegaan",
+                "phoneticTranscription": "yay bent kheh-KHAAN",
+                "english": "You have gone",
+                "notes": "Perfect tense with zijn (motion)"
+            },
+            {
+                "targetText": "Hij heeft gemaakt",
+                "phoneticTranscription": "hay hayft kheh-MAAHKT",
+                "english": "He has made",
+                "notes": "Perfect tense, regular"
+            },
+            {
+                "targetText": "Wij zijn gekomen",
+                "phoneticTranscription": "vay zayn kheh-KOH-men",
+                "english": "We have come",
+                "notes": "Perfect tense with zijn"
+            },
+            {
+                "targetText": "Zij hebben gegeten",
+                "phoneticTranscription": "zay HEB-ben kheh-KHEH-ten",
+                "english": "They have eaten",
+                "notes": "Perfect tense, irregular"
+            }
+        ],
+        "liarGameData": {
+            "question": "De soldaat is ___",
+            "questionEnglish": "The soldier is courageous",
+            "correctAnswer": "moedig",
+            "liarAnswer": "braaf (means well-behaved, not brave)",
+            "explanation": "False friend: 'moedig' means brave/courageous. 'Braaf' means well-behaved.",
+            "trapType": "false_friend"
+        }
+    },
+    {
+        "moduleId": "dutch_a2_m2",
+        "theme": "Modal Verbs",
+        "order": 2,
+        "lessons": [
+            {
+                "targetText": "Ik kan zwemmen",
+                "phoneticTranscription": "ik kahn ZVEM-men",
+                "english": "I can swim",
+                "notes": "Modal verb kunnen"
+            },
+            {
+                "targetText": "Jij moet leren",
+                "phoneticTranscription": "yay moot LEH-ren",
+                "english": "You must learn",
+                "notes": "Modal verb moeten"
+            },
+            {
+                "targetText": "Hij wil gaan",
+                "phoneticTranscription": "hay vil khaan",
+                "english": "He wants to go",
+                "notes": "Modal verb willen"
+            },
+            {
+                "targetText": "Wij mogen spelen",
+                "phoneticTranscription": "vay MOH-khen SPEH-len",
+                "english": "We may play",
+                "notes": "Modal verb mogen"
+            },
+            {
+                "targetText": "Zij zullen komen",
+                "phoneticTranscription": "zay ZUL-len KOH-men",
+                "english": "They will come",
+                "notes": "Modal verb zullen (future)"
+            }
+        ],
+        "liarGameData": {
+            "question": "De held is ___",
+            "questionEnglish": "The hero is courageous",
+            "correctAnswer": "moedig",
+            "liarAnswer": "braaf",
+            "explanation": "'Moedig' = courageous/brave. Don't confuse with 'braaf' (well-behaved).",
+            "trapType": "false_friend"
+        }
+    },
+    {
+        "moduleId": "dutch_a2_m3",
+        "theme": "Separable Verbs",
+        "order": 3,
+        "lessons": [
+            {
+                "targetText": "Ik sta op",
+                "phoneticTranscription": "ik stah op",
+                "english": "I get up",
+                "notes": "Separable verb opstaan"
+            },
+            {
+                "targetText": "Jij komt aan",
+                "phoneticTranscription": "yay komt ahn",
+                "english": "You arrive",
+                "notes": "Separable verb aankomen"
+            },
+            {
+                "targetText": "Hij maakt toe",
+                "phoneticTranscription": "hay mahkt too",
+                "english": "He closes",
+                "notes": "Separable verb toem aken"
+            },
+            {
+                "targetText": "Wij gaan uit",
+                "phoneticTranscription": "vay khaan owt",
+                "english": "We go out",
+                "notes": "Separable verb uitgaan"
+            },
+            {
+                "targetText": "Zij bellen op",
+                "phoneticTranscription": "zay BEL-len op",
+                "english": "They call",
+                "notes": "Separable verb opbellen"
+            }
+        ],
+        "liarGameData": {
+            "question": "De ridder is ___",
+            "questionEnglish": "The knight is courageous",
+            "correctAnswer": "moedig",
+            "liarAnswer": "braaf",
+            "explanation": "Use 'moedig' for brave/courageous. 'Braaf' is a false friend (well-behaved).",
+            "trapType": "false_friend"
+        }
+    },
+    {
+        "moduleId": "dutch_a2_m4",
+        "theme": "Comparatives & Superlatives",
+        "order": 4,
+        "lessons": [
+            {
+                "targetText": "groter",
+                "phoneticTranscription": "KHROH-ter",
+                "english": "bigger",
+                "notes": "Comparative of groot"
+            },
+            {
+                "targetText": "het grootst",
+                "phoneticTranscription": "het KHROHTS",
+                "english": "the biggest",
+                "notes": "Superlative of groot"
+            },
+            {
+                "targetText": "mooier",
+                "phoneticTranscription": "MOY-er",
+                "english": "more beautiful",
+                "notes": "Comparative of mooi"
+            },
+            {
+                "targetText": "het mooist",
+                "phoneticTranscription": "het MOYST",
+                "english": "the most beautiful",
+                "notes": "Superlative of mooi"
+            },
+            {
+                "targetText": "beter",
+                "phoneticTranscription": "BEH-ter",
+                "english": "better",
+                "notes": "Irregular comparative of goed"
+            }
+        ],
+        "liarGameData": {
+            "question": "De brandweerman is ___",
+            "questionEnglish": "The firefighter is courageous",
+            "correctAnswer": "moedig",
+            "liarAnswer": "braaf",
+            "explanation": "'Moedig' means brave. 'Braaf' is a false friend meaning well-behaved.",
+            "trapType": "false_friend"
+        }
+    },
+    {
+        "moduleId": "dutch_a2_m5",
+        "theme": "Prepositions",
+        "order": 5,
+        "lessons": [
+            {
+                "targetText": "in",
+                "phoneticTranscription": "in",
+                "english": "in",
+                "notes": "Location preposition"
+            },
+            {
+                "targetText": "op",
+                "phoneticTranscription": "op",
+                "english": "on",
+                "notes": "Surface preposition"
+            },
+            {
+                "targetText": "met",
+                "phoneticTranscription": "met",
+                "english": "with",
+                "notes": "Accompaniment preposition"
+            },
+            {
+                "targetText": "van",
+                "phoneticTranscription": "vahn",
+                "english": "from/of",
+                "notes": "Source/possession preposition"
+            },
+            {
+                "targetText": "naar",
+                "phoneticTranscription": "naar",
+                "english": "to (direction)",
+                "notes": "Direction preposition"
+            }
+        ],
+        "liarGameData": {
+            "question": "De kapitein is ___",
+            "questionEnglish": "The captain is courageous",
+            "correctAnswer": "moedig",
+            "liarAnswer": "braaf",
+            "explanation": "Classic false friend: 'moedig' (brave) vs 'braaf' (well-behaved).",
+            "trapType": "false_friend"
+        }
+    }
+]

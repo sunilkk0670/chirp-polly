@@ -44,6 +44,18 @@ class _LiarGamePageState extends State<LiarGamePage> {
         return 'zh-CN';
       case 'sanskrit':
         return 'hi-IN'; // Use Hindi voice for Sanskrit (same Devanagari script)
+      case 'spanish':
+        return 'es-ES';
+      case 'german':
+        return 'de-DE';
+      case 'italian':
+        return 'it-IT';
+      case 'punjabi':
+        return 'pa-IN';
+      case 'dutch':
+        return 'nl-NL';
+      case 'portuguese':
+        return 'pt-PT';
       default:
         return 'en-US';
     }
@@ -69,13 +81,13 @@ class _LiarGamePageState extends State<LiarGamePage> {
     final isLiarQuestion = currentQuestionIndex == widget.lessons.length - 1;
 
     return Scaffold(
-      backgroundColor: Colors.deepPurple.shade50,
+      backgroundColor: Colors.white,
       appBar: AppBar(
         elevation: 0,
-        backgroundColor: Colors.deepPurple.shade700,
+        backgroundColor: Colors.white,
         toolbarHeight: 80,
         leading: IconButton(
-          icon: const Icon(Icons.arrow_back, color: Colors.white),
+          icon: Icon(Icons.arrow_back, color: Colors.deepPurple.shade700),
           onPressed: () => Navigator.pop(context),
         ),
         title: MouseRegion(
@@ -84,7 +96,7 @@ class _LiarGamePageState extends State<LiarGamePage> {
             onTap: () {
               Navigator.of(context).popUntil((route) => route.isFirst);
             },
-            child: const ChirPollyLogo(fontSize: 24, isWhite: true),
+            child: const ChirPollyLogo(fontSize: 24),
           ),
         ),
         actions: [
@@ -92,7 +104,11 @@ class _LiarGamePageState extends State<LiarGamePage> {
             padding: const EdgeInsets.all(16.0),
             child: Text(
               'Score: $score/${widget.lessons.length}',
-              style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold, color: Colors.white),
+              style: TextStyle(
+                fontSize: 18, 
+                fontWeight: FontWeight.bold, 
+                color: Colors.deepPurple.shade700,
+              ),
             ),
           ),
         ],

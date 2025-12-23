@@ -1,0 +1,227 @@
+[
+    {
+        "moduleId": "portuguese_a2_m1",
+        "theme": "Preterite Tense",
+        "order": 1,
+        "lessons": [
+            {
+                "targetText": "Eu falei",
+                "phoneticTranscription": "EH-oo fah-LAY",
+                "english": "I spoke",
+                "notes": "Preterite tense, completed action"
+            },
+            {
+                "targetText": "Você comeu",
+                "phoneticTranscription": "voh-SEH koh-MEH-oo",
+                "english": "You ate",
+                "notes": "Preterite tense, -er verb"
+            },
+            {
+                "targetText": "Ele viveu",
+                "phoneticTranscription": "EH-leh vee-VEH-oo",
+                "english": "He lived",
+                "notes": "Preterite tense, -er verb"
+            },
+            {
+                "targetText": "Nós fomos",
+                "phoneticTranscription": "nohs FOH-moosh",
+                "english": "We went/were",
+                "notes": "Irregular preterite (ir/ser)"
+            },
+            {
+                "targetText": "Eles fizeram",
+                "phoneticTranscription": "EH-lesh fee-ZEH-rowm",
+                "english": "They did/made",
+                "notes": "Irregular preterite (fazer)"
+            }
+        ],
+        "liarGameData": {
+            "question": "O café ___ quente (agora)",
+            "questionEnglish": "The coffee is hot (now)",
+            "correctAnswer": "está",
+            "liarAnswer": "é",
+            "explanation": "Use 'está' for temporary temperature. 'É' would imply it's always hot.",
+            "trapType": "ser_estar_confusion"
+        }
+    },
+    {
+        "moduleId": "portuguese_a2_m2",
+        "theme": "Future Tense",
+        "order": 2,
+        "lessons": [
+            {
+                "targetText": "Eu falarei",
+                "phoneticTranscription": "EH-oo fah-lah-RAY",
+                "english": "I will speak",
+                "notes": "Future tense, regular -ar verb"
+            },
+            {
+                "targetText": "Você comerá",
+                "phoneticTranscription": "voh-SEH koh-meh-RAH",
+                "english": "You will eat",
+                "notes": "Future tense, regular -er verb"
+            },
+            {
+                "targetText": "Ele virá",
+                "phoneticTranscription": "EH-leh vee-RAH",
+                "english": "He will come",
+                "notes": "Irregular future (vir)"
+            },
+            {
+                "targetText": "Nós teremos",
+                "phoneticTranscription": "nohs teh-REH-moosh",
+                "english": "We will have",
+                "notes": "Irregular future (ter)"
+            },
+            {
+                "targetText": "Eles farão",
+                "phoneticTranscription": "EH-lesh fah-ROWM",
+                "english": "They will do/make",
+                "notes": "Irregular future (fazer)"
+            }
+        ],
+        "liarGameData": {
+            "question": "Minha irmã ___ médica",
+            "questionEnglish": "My sister is a doctor",
+            "correctAnswer": "é",
+            "liarAnswer": "está",
+            "explanation": "Use 'é' for profession/identity. 'Está' is for temporary states or locations.",
+            "trapType": "ser_estar_confusion"
+        }
+    },
+    {
+        "moduleId": "portuguese_a2_m3",
+        "theme": "Reflexive Verbs",
+        "order": 3,
+        "lessons": [
+            {
+                "targetText": "Eu me levanto",
+                "phoneticTranscription": "EH-oo meh leh-VAHN-too",
+                "english": "I get up",
+                "notes": "Reflexive verb (levantar-se)"
+            },
+            {
+                "targetText": "Você se veste",
+                "phoneticTranscription": "voh-SEH seh VES-teh",
+                "english": "You get dressed",
+                "notes": "Reflexive verb (vestir-se)"
+            },
+            {
+                "targetText": "Ele se senta",
+                "phoneticTranscription": "EH-leh seh SEN-tah",
+                "english": "He sits down",
+                "notes": "Reflexive verb (sentar-se)"
+            },
+            {
+                "targetText": "Nós nos divertimos",
+                "phoneticTranscription": "nohs noosh dee-ver-TEE-moosh",
+                "english": "We have fun",
+                "notes": "Reflexive verb (divertir-se)"
+            },
+            {
+                "targetText": "Eles se chamam",
+                "phoneticTranscription": "EH-lesh seh SHAH-mowm",
+                "english": "They are called",
+                "notes": "Reflexive verb (chamar-se)"
+            }
+        ],
+        "liarGameData": {
+            "question": "O filme ___ chato",
+            "questionEnglish": "The movie is boring",
+            "correctAnswer": "é",
+            "liarAnswer": "está",
+            "explanation": "Use 'é' for inherent characteristics. 'Está' would mean it's boring right now but not usually.",
+            "trapType": "ser_estar_confusion"
+        }
+    },
+    {
+        "moduleId": "portuguese_a2_m4",
+        "theme": "Imperfect Tense",
+        "order": 4,
+        "lessons": [
+            {
+                "targetText": "Eu falava",
+                "phoneticTranscription": "EH-oo fah-LAH-vah",
+                "english": "I used to speak/was speaking",
+                "notes": "Imperfect tense, habitual past"
+            },
+            {
+                "targetText": "Você comia",
+                "phoneticTranscription": "voh-SEH koh-MEE-ah",
+                "english": "You used to eat/were eating",
+                "notes": "Imperfect tense, -er verb"
+            },
+            {
+                "targetText": "Ele era",
+                "phoneticTranscription": "EH-leh EH-rah",
+                "english": "He was/used to be",
+                "notes": "Irregular imperfect (ser)"
+            },
+            {
+                "targetText": "Nós íamos",
+                "phoneticTranscription": "nohs EE-ah-moosh",
+                "english": "We used to go/were going",
+                "notes": "Irregular imperfect (ir)"
+            },
+            {
+                "targetText": "Eles tinham",
+                "phoneticTranscription": "EH-lesh TEEN-yowm",
+                "english": "They had/used to have",
+                "notes": "Irregular imperfect (ter)"
+            }
+        ],
+        "liarGameData": {
+            "question": "Nós ___ no parque",
+            "questionEnglish": "We are in the park",
+            "correctAnswer": "estamos",
+            "liarAnswer": "somos",
+            "explanation": "Use 'estamos' (estar) for location. 'Somos' (ser) is for identity/characteristics.",
+            "trapType": "ser_estar_confusion"
+        }
+    },
+    {
+        "moduleId": "portuguese_a2_m5",
+        "theme": "Direct Object Pronouns",
+        "order": 5,
+        "lessons": [
+            {
+                "targetText": "Eu o vejo",
+                "phoneticTranscription": "EH-oo oo VEH-zhoo",
+                "english": "I see it/him",
+                "notes": "Direct object pronoun (masculine)"
+            },
+            {
+                "targetText": "Você a compra",
+                "phoneticTranscription": "voh-SEH ah KOHM-prah",
+                "english": "You buy it/her",
+                "notes": "Direct object pronoun (feminine)"
+            },
+            {
+                "targetText": "Ele os tem",
+                "phoneticTranscription": "EH-leh oosh taym",
+                "english": "He has them (masculine)",
+                "notes": "Direct object pronoun (plural masculine)"
+            },
+            {
+                "targetText": "Nós as queremos",
+                "phoneticTranscription": "nohs ahsh keh-REH-moosh",
+                "english": "We want them (feminine)",
+                "notes": "Direct object pronoun (plural feminine)"
+            },
+            {
+                "targetText": "Eles te chamam",
+                "phoneticTranscription": "EH-lesh teh SHAH-mowm",
+                "english": "They call you",
+                "notes": "Direct object pronoun (you, informal)"
+            }
+        ],
+        "liarGameData": {
+            "question": "Você ___ feliz hoje",
+            "questionEnglish": "You are happy today",
+            "correctAnswer": "está",
+            "liarAnswer": "é",
+            "explanation": "Use 'está' (estar) for temporary emotions. 'É' (ser) would mean you're a happy person by nature.",
+            "trapType": "ser_estar_confusion"
+        }
+    }
+]

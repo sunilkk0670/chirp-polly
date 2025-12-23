@@ -18,11 +18,11 @@ class LevelsPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.grey.shade50,
+      backgroundColor: Colors.white,
       appBar: AppBar(
         elevation: 0,
-        backgroundColor: Colors.transparent,
-        forceMaterialTransparency: true,
+        backgroundColor: Colors.white,
+        forceMaterialTransparency: false,
         toolbarHeight: 80,
         leading: IconButton(
           icon: const Icon(Icons.arrow_back),
@@ -119,7 +119,7 @@ class LevelsPage extends StatelessWidget {
                 ),
                 child: Center(
                   child: Text(
-                    levelName,
+                    _getLevelCode(levelName),
                     style: const TextStyle(
                       color: Colors.white,
                       fontSize: 18,
@@ -159,16 +159,29 @@ class LevelsPage extends StatelessWidget {
     );
   }
 
+  String _getLevelCode(String levelName) {
+    final levelLower = levelName.toLowerCase();
+    if (levelLower.contains('a1')) {
+      return 'A1';
+    } else if (levelLower.contains('a2')) {
+      return 'A2';
+    } else if (levelLower.contains('b1')) {
+      return 'B1';
+    } else {
+      return levelName.substring(0, 2).toUpperCase();
+    }
+  }
+
   Color _getLevelColor(String level) {
-    switch (level.toLowerCase()) {
-      case 'a1':
-        return Colors.green.shade400;
-      case 'a2':
-        return Colors.blue.shade400;
-      case 'b1':
-        return Colors.orange.shade400;
-      default:
-        return Colors.purple.shade400;
+    final levelLower = level.toLowerCase();
+    if (levelLower.contains('a1')) {
+      return Colors.green.shade400;
+    } else if (levelLower.contains('a2')) {
+      return Colors.blue.shade400;
+    } else if (levelLower.contains('b1')) {
+      return Colors.orange.shade400;
+    } else {
+      return Colors.purple.shade400;
     }
   }
 }

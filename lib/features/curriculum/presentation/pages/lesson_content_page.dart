@@ -42,6 +42,18 @@ class _LessonContentPageState extends State<LessonContentPage> {
         return 'zh-CN';
       case 'sanskrit':
         return 'hi-IN'; // Use Hindi voice for Sanskrit (same Devanagari script)
+      case 'spanish':
+        return 'es-ES';
+      case 'german':
+        return 'de-DE';
+      case 'italian':
+        return 'it-IT';
+      case 'punjabi':
+        return 'pa-IN';
+      case 'dutch':
+        return 'nl-NL';
+      case 'portuguese':
+        return 'pt-PT';
       default:
         return 'en-US';
     }
@@ -63,11 +75,11 @@ class _LessonContentPageState extends State<LessonContentPage> {
     final liarGameData = widget.moduleData['liarGameData'] as Map<String, dynamic>?;
 
     return Scaffold(
-      backgroundColor: Colors.grey.shade50,
+      backgroundColor: Colors.white,
       appBar: AppBar(
         elevation: 0,
-        backgroundColor: Colors.transparent,
-        forceMaterialTransparency: true,
+        backgroundColor: Colors.white,
+        forceMaterialTransparency: false,
         toolbarHeight: 80,
         leading: IconButton(
           icon: const Icon(Icons.arrow_back),

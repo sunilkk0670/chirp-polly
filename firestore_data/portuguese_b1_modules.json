@@ -1,0 +1,227 @@
+[
+    {
+        "moduleId": "portuguese_b1_m1",
+        "theme": "Present Subjunctive",
+        "order": 1,
+        "lessons": [
+            {
+                "targetText": "Espero que você venha",
+                "phoneticTranscription": "esh-PEH-roo keh voh-SEH VEN-yah",
+                "english": "I hope that you come",
+                "notes": "Subjunctive after hope"
+            },
+            {
+                "targetText": "Duvido que seja verdade",
+                "phoneticTranscription": "doo-VEE-doo keh SEH-zhah ver-DAH-deh",
+                "english": "I doubt that it's true",
+                "notes": "Subjunctive after doubt"
+            },
+            {
+                "targetText": "É importante que você estude",
+                "phoneticTranscription": "eh eem-por-TAHN-teh keh voh-SEH esh-TOO-deh",
+                "english": "It's important that you study",
+                "notes": "Subjunctive after impersonal expression"
+            },
+            {
+                "targetText": "Quero que você fale",
+                "phoneticTranscription": "KEH-roo keh voh-SEH FAH-leh",
+                "english": "I want you to speak",
+                "notes": "Subjunctive after desire"
+            },
+            {
+                "targetText": "Não creio que chova",
+                "phoneticTranscription": "nowm KRAY-oo keh SHOH-vah",
+                "english": "I don't think it will rain",
+                "notes": "Subjunctive after negative belief"
+            }
+        ],
+        "liarGameData": {
+            "question": "A água ___ fria (agora)",
+            "questionEnglish": "The water is cold (now)",
+            "correctAnswer": "está",
+            "liarAnswer": "é",
+            "explanation": "Use 'está' for current temperature (temporary). 'É' would mean it's always cold.",
+            "trapType": "ser_estar_confusion"
+        }
+    },
+    {
+        "moduleId": "portuguese_b1_m2",
+        "theme": "Por vs Para",
+        "order": 2,
+        "lessons": [
+            {
+                "targetText": "Trabalho pela manhã",
+                "phoneticTranscription": "trah-BAH-lyoo PEH-lah mahn-YAM",
+                "english": "I work in the morning",
+                "notes": "Por for general time"
+            },
+            {
+                "targetText": "Estudo para o exame",
+                "phoneticTranscription": "esh-TOO-doo PAH-rah oo eh-ZAH-meh",
+                "english": "I study for the exam",
+                "notes": "Para for purpose"
+            },
+            {
+                "targetText": "Viajo por Portugal",
+                "phoneticTranscription": "VYAH-zhoo por por-too-GAHL",
+                "english": "I travel through Portugal",
+                "notes": "Por for movement through"
+            },
+            {
+                "targetText": "Este presente é para você",
+                "phoneticTranscription": "ES-teh preh-ZEN-teh eh PAH-rah voh-SEH",
+                "english": "This gift is for you",
+                "notes": "Para for recipient"
+            },
+            {
+                "targetText": "Paguei 20 euros pelo livro",
+                "phoneticTranscription": "pah-GAY VEEN-teh EH-oo-roosh PEH-loo LEE-vroo",
+                "english": "I paid 20 euros for the book",
+                "notes": "Por for exchange"
+            }
+        ],
+        "liarGameData": {
+            "question": "Meu irmão ___ doente (tem gripe)",
+            "questionEnglish": "My brother is sick (has the flu)",
+            "correctAnswer": "está",
+            "liarAnswer": "é",
+            "explanation": "Use 'está' for temporary illness. 'É' would mean he's chronically sick.",
+            "trapType": "ser_estar_confusion"
+        }
+    },
+    {
+        "moduleId": "portuguese_b1_m3",
+        "theme": "Conditional Tense",
+        "order": 3,
+        "lessons": [
+            {
+                "targetText": "Eu falaria",
+                "phoneticTranscription": "EH-oo fah-lah-REE-ah",
+                "english": "I would speak",
+                "notes": "Conditional tense"
+            },
+            {
+                "targetText": "Você comeria",
+                "phoneticTranscription": "voh-SEH koh-meh-REE-ah",
+                "english": "You would eat",
+                "notes": "Conditional -er verb"
+            },
+            {
+                "targetText": "Ele teria",
+                "phoneticTranscription": "EH-leh teh-REE-ah",
+                "english": "He would have",
+                "notes": "Irregular conditional"
+            },
+            {
+                "targetText": "Nós faríamos",
+                "phoneticTranscription": "nohs fah-REE-ah-moosh",
+                "english": "We would do/make",
+                "notes": "Irregular conditional"
+            },
+            {
+                "targetText": "Eles viriam",
+                "phoneticTranscription": "EH-lesh vee-REE-owm",
+                "english": "They would come",
+                "notes": "Irregular conditional"
+            }
+        ],
+        "liarGameData": {
+            "question": "A sopa ___ deliciosa (sempre)",
+            "questionEnglish": "The soup is delicious (always)",
+            "correctAnswer": "é",
+            "liarAnswer": "está",
+            "explanation": "Use 'é' for inherent quality. 'Está' would mean it tastes good now but not usually.",
+            "trapType": "ser_estar_confusion"
+        }
+    },
+    {
+        "moduleId": "portuguese_b1_m4",
+        "theme": "Imperfect Subjunctive",
+        "order": 4,
+        "lessons": [
+            {
+                "targetText": "Se eu tivesse dinheiro",
+                "phoneticTranscription": "seh EH-oo tee-VES-seh deen-YAY-roo",
+                "english": "If I had money",
+                "notes": "Imperfect subjunctive"
+            },
+            {
+                "targetText": "Oxalá eu fosse rico",
+                "phoneticTranscription": "oh-shah-LAH EH-oo FOS-seh HEE-koo",
+                "english": "I wish I were rich",
+                "notes": "Imperfect subjunctive after oxalá"
+            },
+            {
+                "targetText": "Duvidava que você viesse",
+                "phoneticTranscription": "doo-vee-DAH-vah keh voh-SEH VYES-seh",
+                "english": "I doubted you would come",
+                "notes": "Imperfect subjunctive in past"
+            },
+            {
+                "targetText": "Queria que você estudasse",
+                "phoneticTranscription": "keh-REE-ah keh voh-SEH esh-too-DAS-seh",
+                "english": "I wanted you to study",
+                "notes": "Imperfect subjunctive after past desire"
+            },
+            {
+                "targetText": "Como se fosse fácil",
+                "phoneticTranscription": "KOH-moo seh FOS-seh FAH-seel",
+                "english": "As if it were easy",
+                "notes": "Imperfect subjunctive after 'como se'"
+            }
+        ],
+        "liarGameData": {
+            "question": "Nós ___ contentes com o resultado",
+            "questionEnglish": "We are happy with the result",
+            "correctAnswer": "estamos",
+            "liarAnswer": "somos",
+            "explanation": "Use 'estamos' (estar) for emotional states. 'Somos' (ser) is for identity.",
+            "trapType": "ser_estar_confusion"
+        }
+    },
+    {
+        "moduleId": "portuguese_b1_m5",
+        "theme": "Passive Voice",
+        "order": 5,
+        "lessons": [
+            {
+                "targetText": "O livro foi escrito",
+                "phoneticTranscription": "oo LEE-vroo foy esh-KREE-too",
+                "english": "The book was written",
+                "notes": "Passive with ser"
+            },
+            {
+                "targetText": "A casa está construída",
+                "phoneticTranscription": "ah KAH-zah esh-TAH kons-troo-EE-dah",
+                "english": "The house is built (completed)",
+                "notes": "Estar + past participle for result"
+            },
+            {
+                "targetText": "Fala-se português",
+                "phoneticTranscription": "FAH-lah-seh por-too-GAYSH",
+                "english": "Portuguese is spoken",
+                "notes": "Passive se construction"
+            },
+            {
+                "targetText": "Vendem-se carros",
+                "phoneticTranscription": "VEN-dem-seh KAH-roosh",
+                "english": "Cars are sold",
+                "notes": "Passive se with plural"
+            },
+            {
+                "targetText": "Foi descoberto em 1500",
+                "phoneticTranscription": "foy desh-koo-BEHR-too aym meel eh KEEN-yen-toosh",
+                "english": "It was discovered in 1500",
+                "notes": "Passive for historical events"
+            }
+        ],
+        "liarGameData": {
+            "question": "As janelas ___ abertas (alguém as abriu)",
+            "questionEnglish": "The windows are open (someone opened them)",
+            "correctAnswer": "estão",
+            "liarAnswer": "são",
+            "explanation": "Use 'estão' (estar) for resulting state. 'São' (ser) would be for identity.",
+            "trapType": "ser_estar_confusion"
+        }
+    }
+]

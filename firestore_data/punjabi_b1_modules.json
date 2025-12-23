@@ -1,0 +1,227 @@
+[
+    {
+        "moduleId": "punjabi_b1_m1",
+        "theme": "Subjunctive Mood",
+        "order": 1,
+        "lessons": [
+            {
+                "targetText": "ਜੇ ਮੈਂ ਹੁੰਦਾ",
+                "phoneticTranscription": "je main hundaa",
+                "english": "If I were",
+                "notes": "Subjunctive construction"
+            },
+            {
+                "targetText": "ਕਾਸ਼ ਕਿ",
+                "phoneticTranscription": "kaash ki",
+                "english": "I wish that",
+                "notes": "Wish expression"
+            },
+            {
+                "targetText": "ਸ਼ਾਇਦ",
+                "phoneticTranscription": "shaayad",
+                "english": "Perhaps/maybe",
+                "notes": "Possibility marker"
+            },
+            {
+                "targetText": "ਹੋ ਸਕਦਾ ਹੈ",
+                "phoneticTranscription": "ho sakdaa hai",
+                "english": "It may be",
+                "notes": "Possibility expression"
+            },
+            {
+                "targetText": "ਜੇ ਕਰ",
+                "phoneticTranscription": "je kar",
+                "english": "If (conditional)",
+                "notes": "Conditional marker"
+            }
+        ],
+        "liarGameData": {
+            "question": "ਸੱਚ (high tone) vs ਸੱਚ (low tone)",
+            "questionEnglish": "Which means 'truth'?",
+            "correctAnswer": "ਸੱਚ (high tone)",
+            "liarAnswer": "ਸੱਚ (low tone)",
+            "explanation": "Tonal trap: high tone means truth.",
+            "trapType": "tonal_trap"
+        }
+    },
+    {
+        "moduleId": "punjabi_b1_m2",
+        "theme": "Passive Voice",
+        "order": 2,
+        "lessons": [
+            {
+                "targetText": "ਕੀਤਾ ਗਿਆ",
+                "phoneticTranscription": "keetaa giaa",
+                "english": "was done",
+                "notes": "Passive construction"
+            },
+            {
+                "targetText": "ਲਿਖਿਆ ਗਿਆ",
+                "phoneticTranscription": "likhiaa giaa",
+                "english": "was written",
+                "notes": "Passive form"
+            },
+            {
+                "targetText": "ਬੋਲਿਆ ਜਾਂਦਾ ਹੈ",
+                "phoneticTranscription": "boliaa jaandaa hai",
+                "english": "is spoken",
+                "notes": "Present passive"
+            },
+            {
+                "targetText": "ਬਣਾਇਆ ਜਾਵੇਗਾ",
+                "phoneticTranscription": "banaaiaa jaavegaa",
+                "english": "will be made",
+                "notes": "Future passive"
+            },
+            {
+                "targetText": "ਦਿੱਤਾ ਗਿਆ ਸੀ",
+                "phoneticTranscription": "dittaa giaa see",
+                "english": "had been given",
+                "notes": "Past perfect passive"
+            }
+        ],
+        "liarGameData": {
+            "question": "ਰੱਖ (high tone) vs ਰੱਖ (low tone)",
+            "questionEnglish": "Which means 'keep/place'?",
+            "correctAnswer": "ਰੱਖ (high tone)",
+            "liarAnswer": "ਰੱਖ (low tone)",
+            "explanation": "Tone changes meaning.",
+            "trapType": "tonal_trap"
+        }
+    },
+    {
+        "moduleId": "punjabi_b1_m3",
+        "theme": "Complex Sentences",
+        "order": 3,
+        "lessons": [
+            {
+                "targetText": "ਕਿਉਂਕਿ",
+                "phoneticTranscription": "kiunki",
+                "english": "because",
+                "notes": "Causal conjunction"
+            },
+            {
+                "targetText": "ਇਸ ਲਈ",
+                "phoneticTranscription": "is laee",
+                "english": "therefore",
+                "notes": "Result conjunction"
+            },
+            {
+                "targetText": "ਜਦੋਂ ਕਿ",
+                "phoneticTranscription": "jadon ki",
+                "english": "while/whereas",
+                "notes": "Contrast conjunction"
+            },
+            {
+                "targetText": "ਹਾਲਾਂਕਿ",
+                "phoneticTranscription": "haalaanki",
+                "english": "although",
+                "notes": "Concessive conjunction"
+            },
+            {
+                "targetText": "ਜੇ...ਤਾਂ",
+                "phoneticTranscription": "je...taan",
+                "english": "if...then",
+                "notes": "Conditional structure"
+            }
+        ],
+        "liarGameData": {
+            "question": "ਦੱਸ (high tone) vs ਦੱਸ (low tone)",
+            "questionEnglish": "Which means 'tell'?",
+            "correctAnswer": "ਦੱਸ (high tone)",
+            "liarAnswer": "ਦੱਸ (low tone)",
+            "explanation": "Tonal distinction matters.",
+            "trapType": "tonal_trap"
+        }
+    },
+    {
+        "moduleId": "punjabi_b1_m4",
+        "theme": "Idiomatic Expressions",
+        "order": 4,
+        "lessons": [
+            {
+                "targetText": "ਹੱਥ ਵਟਾਉਣਾ",
+                "phoneticTranscription": "hatth vataaunaa",
+                "english": "to wash hands of (idiom)",
+                "notes": "Idiomatic expression"
+            },
+            {
+                "targetText": "ਅੱਖਾਂ ਦਾ ਤਾਰਾ",
+                "phoneticTranscription": "akkhaan daa taaraa",
+                "english": "apple of one's eye",
+                "notes": "Idiom for beloved"
+            },
+            {
+                "targetText": "ਦਿਲ ਦੀ ਗੱਲ",
+                "phoneticTranscription": "dil dee gall",
+                "english": "heart's matter",
+                "notes": "Heartfelt expression"
+            },
+            {
+                "targetText": "ਮੂੰਹ ਵਿੱਚ ਪਾਣੀ ਆਉਣਾ",
+                "phoneticTranscription": "moonh vich paanee aaaunaa",
+                "english": "mouth watering",
+                "notes": "Idiom for appetite"
+            },
+            {
+                "targetText": "ਸਿਰ ਉੱਤੇ ਚੜ੍ਹਨਾ",
+                "phoneticTranscription": "sir utte charhnaa",
+                "english": "to be overwhelming",
+                "notes": "Idiom for burden"
+            }
+        ],
+        "liarGameData": {
+            "question": "ਚੱਲ (high tone) vs ਚੱਲ (low tone)",
+            "questionEnglish": "Which means 'walk/go'?",
+            "correctAnswer": "ਚੱਲ (high tone)",
+            "liarAnswer": "ਚੱਲ (low tone)",
+            "explanation": "Tonal trap.",
+            "trapType": "tonal_trap"
+        }
+    },
+    {
+        "moduleId": "punjabi_b1_m5",
+        "theme": "Advanced Grammar",
+        "order": 5,
+        "lessons": [
+            {
+                "targetText": "ਹੋਣਾ ਚਾਹੀਦਾ",
+                "phoneticTranscription": "honaa chaaheedaa",
+                "english": "should be",
+                "notes": "Obligation expression"
+            },
+            {
+                "targetText": "ਕਰਨਾ ਪੈਂਦਾ",
+                "phoneticTranscription": "karnaa paindaa",
+                "english": "have to do",
+                "notes": "Necessity expression"
+            },
+            {
+                "targetText": "ਸਕਦਾ ਹੈ",
+                "phoneticTranscription": "sakdaa hai",
+                "english": "can/may",
+                "notes": "Possibility modal"
+            },
+            {
+                "targetText": "ਲੱਗਦਾ ਹੈ",
+                "phoneticTranscription": "laggdaa hai",
+                "english": "seems/appears",
+                "notes": "Perception expression"
+            },
+            {
+                "targetText": "ਚਾਹੁੰਦਾ ਹੈ",
+                "phoneticTranscription": "chaahundaa hai",
+                "english": "wants",
+                "notes": "Desire expression"
+            }
+        ],
+        "liarGameData": {
+            "question": "ਪੱਕ (high tone) vs ਪੱਕ (low tone)",
+            "questionEnglish": "Which means 'ripe/cooked'?",
+            "correctAnswer": "ਪੱਕ (high tone)",
+            "liarAnswer": "ਪੱਕ (low tone)",
+            "explanation": "Tone matters for meaning.",
+            "trapType": "tonal_trap"
+        }
+    }
+]

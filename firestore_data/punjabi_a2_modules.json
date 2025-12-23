@@ -1,0 +1,227 @@
+[
+    {
+        "moduleId": "punjabi_a2_m1",
+        "theme": "Past Tense",
+        "order": 1,
+        "lessons": [
+            {
+                "targetText": "ਮੈਂ ਗਿਆ",
+                "phoneticTranscription": "main giaa",
+                "english": "I went (masculine)",
+                "notes": "Past tense of 'to go'"
+            },
+            {
+                "targetText": "ਤੂੰ ਖਾਧਾ",
+                "phoneticTranscription": "toon khaadha",
+                "english": "You ate (masculine)",
+                "notes": "Past tense of 'to eat'"
+            },
+            {
+                "targetText": "ਉਹ ਆਈ",
+                "phoneticTranscription": "oh aaee",
+                "english": "She came",
+                "notes": "Past tense, feminine"
+            },
+            {
+                "targetText": "ਅਸੀਂ ਕੀਤਾ",
+                "phoneticTranscription": "aseen keetaa",
+                "english": "We did",
+                "notes": "Past tense of 'to do'"
+            },
+            {
+                "targetText": "ਉਹਨਾਂ ਦੇਖਿਆ",
+                "phoneticTranscription": "ohnaan dekhiaa",
+                "english": "They saw",
+                "notes": "Past tense of 'to see'"
+            }
+        ],
+        "liarGameData": {
+            "question": "ਪੱਤ (high tone) vs ਪੱਤ (low tone)",
+            "questionEnglish": "Which means 'honor'?",
+            "correctAnswer": "ਪੱਤ (high tone)",
+            "liarAnswer": "ਪੱਤ (low tone - means 'leaf')",
+            "explanation": "Tonal trap: high tone 'patt' means honor, low tone means leaf.",
+            "trapType": "tonal_trap"
+        }
+    },
+    {
+        "moduleId": "punjabi_a2_m2",
+        "theme": "Future Tense",
+        "order": 2,
+        "lessons": [
+            {
+                "targetText": "ਮੈਂ ਜਾਵਾਂਗਾ",
+                "phoneticTranscription": "main jaavaanga",
+                "english": "I will go (masculine)",
+                "notes": "Future tense"
+            },
+            {
+                "targetText": "ਤੂੰ ਕਰੇਂਗਾ",
+                "phoneticTranscription": "toon karenga",
+                "english": "You will do (masculine)",
+                "notes": "Future tense"
+            },
+            {
+                "targetText": "ਉਹ ਆਵੇਗੀ",
+                "phoneticTranscription": "oh aavegi",
+                "english": "She will come",
+                "notes": "Future tense, feminine"
+            },
+            {
+                "targetText": "ਅਸੀਂ ਖਾਵਾਂਗੇ",
+                "phoneticTranscription": "aseen khaavaange",
+                "english": "We will eat",
+                "notes": "Future tense, plural"
+            },
+            {
+                "targetText": "ਉਹਨਾਂ ਬੋਲਣਗੇ",
+                "phoneticTranscription": "ohnaan bolange",
+                "english": "They will speak",
+                "notes": "Future tense"
+            }
+        ],
+        "liarGameData": {
+            "question": "ਸੱਤ (high tone) vs ਸੱਤ (low tone)",
+            "questionEnglish": "Which means 'seven'?",
+            "correctAnswer": "ਸੱਤ (high tone)",
+            "liarAnswer": "ਸੱਤ (low tone - different meaning)",
+            "explanation": "Tone changes meaning: high tone means seven.",
+            "trapType": "tonal_trap"
+        }
+    },
+    {
+        "moduleId": "punjabi_a2_m3",
+        "theme": "Postpositions",
+        "order": 3,
+        "lessons": [
+            {
+                "targetText": "ਵਿੱਚ",
+                "phoneticTranscription": "vich",
+                "english": "in",
+                "notes": "Postposition for location"
+            },
+            {
+                "targetText": "ਤੇ / ਉੱਤੇ",
+                "phoneticTranscription": "te / utte",
+                "english": "on",
+                "notes": "Postposition for surface"
+            },
+            {
+                "targetText": "ਨਾਲ",
+                "phoneticTranscription": "naal",
+                "english": "with",
+                "notes": "Postposition for accompaniment"
+            },
+            {
+                "targetText": "ਤੋਂ",
+                "phoneticTranscription": "ton",
+                "english": "from",
+                "notes": "Postposition for source"
+            },
+            {
+                "targetText": "ਨੂੰ",
+                "phoneticTranscription": "noon",
+                "english": "to (dative marker)",
+                "notes": "Postposition for indirect object"
+            }
+        ],
+        "liarGameData": {
+            "question": "ਮੱਤ (high tone) vs ਮੱਤ (low tone)",
+            "questionEnglish": "Which means 'opinion'?",
+            "correctAnswer": "ਮੱਤ (high tone)",
+            "liarAnswer": "ਮੱਤ (low tone - means 'don't')",
+            "explanation": "Tonal distinction: high tone 'matt' means opinion, low tone means don't.",
+            "trapType": "tonal_trap"
+        }
+    },
+    {
+        "moduleId": "punjabi_a2_m4",
+        "theme": "Compound Verbs",
+        "order": 4,
+        "lessons": [
+            {
+                "targetText": "ਲੈ ਜਾਣਾ",
+                "phoneticTranscription": "lai jaana",
+                "english": "to take away",
+                "notes": "Compound verb: take + go"
+            },
+            {
+                "targetText": "ਲੈ ਆਉਣਾ",
+                "phoneticTranscription": "lai aauna",
+                "english": "to bring",
+                "notes": "Compound verb: take + come"
+            },
+            {
+                "targetText": "ਪੀ ਲੈਣਾ",
+                "phoneticTranscription": "pee laina",
+                "english": "to drink up",
+                "notes": "Compound verb: drink + take"
+            },
+            {
+                "targetText": "ਖਾ ਲੈਣਾ",
+                "phoneticTranscription": "khaa laina",
+                "english": "to eat up",
+                "notes": "Compound verb: eat + take"
+            },
+            {
+                "targetText": "ਦੇ ਦੇਣਾ",
+                "phoneticTranscription": "de dena",
+                "english": "to give away",
+                "notes": "Compound verb: give + give"
+            }
+        ],
+        "liarGameData": {
+            "question": "ਕੱਲ (high tone) vs ਕੱਲ (low tone)",
+            "questionEnglish": "Which means 'tomorrow/yesterday'?",
+            "correctAnswer": "ਕੱਲ (high tone)",
+            "liarAnswer": "ਕੱਲ (low tone - means 'machine')",
+            "explanation": "Tonal trap: high tone 'kall' means tomorrow/yesterday, low tone means machine.",
+            "trapType": "tonal_trap"
+        }
+    },
+    {
+        "moduleId": "punjabi_a2_m5",
+        "theme": "Adjectives & Adverbs",
+        "order": 5,
+        "lessons": [
+            {
+                "targetText": "ਵੱਡਾ",
+                "phoneticTranscription": "vaddaa",
+                "english": "big (masculine)",
+                "notes": "Adjective"
+            },
+            {
+                "targetText": "ਛੋਟਾ",
+                "phoneticTranscription": "chhotaa",
+                "english": "small (masculine)",
+                "notes": "Adjective"
+            },
+            {
+                "targetText": "ਚੰਗਾ",
+                "phoneticTranscription": "changaa",
+                "english": "good (masculine)",
+                "notes": "Adjective"
+            },
+            {
+                "targetText": "ਮੰਦਾ",
+                "phoneticTranscription": "mandaa",
+                "english": "bad (masculine)",
+                "notes": "Adjective"
+            },
+            {
+                "targetText": "ਜਲਦੀ",
+                "phoneticTranscription": "jaldee",
+                "english": "quickly",
+                "notes": "Adverb"
+            }
+        ],
+        "liarGameData": {
+            "question": "ਪੱਲ (high tone) vs ਪੱਲ (low tone)",
+            "questionEnglish": "Which means 'moment'?",
+            "correctAnswer": "ਪੱਲ (high tone)",
+            "liarAnswer": "ਪੱਲ (low tone - different meaning)",
+            "explanation": "Tone changes meaning: high tone 'pall' means moment.",
+            "trapType": "tonal_trap"
+        }
+    }
+]

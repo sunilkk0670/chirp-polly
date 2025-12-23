@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'dart:math' as math;
 
 class ChirPollyLogo extends StatelessWidget {
   final double fontSize;
@@ -6,58 +7,43 @@ class ChirPollyLogo extends StatelessWidget {
 
   const ChirPollyLogo({
     super.key,
-    this.fontSize = 28,
+    this.fontSize = 32, // Increased default font size
     this.isWhite = false,
   });
 
   @override
   Widget build(BuildContext context) {
-    if (isWhite) {
-      return Row(
-        mainAxisSize: MainAxisSize.min,
-        children: [
-          Text(
+    return Row(
+      mainAxisSize: MainAxisSize.min,
+      crossAxisAlignment: CrossAxisAlignment.center,
+      children: [
+        // Parrot Emoji facing right
+        Transform(
+          alignment: Alignment.center,
+          transform: Matrix4.rotationY(math.pi), // Flips the emoji horizontally
+          child: Text(
             '🦜',
             style: TextStyle(fontSize: fontSize * 1.2),
           ),
-          const SizedBox(width: 8),
-          Text(
-            'ChirPolly',
-            style: TextStyle(
-              fontSize: fontSize,
-              fontWeight: FontWeight.bold,
-              color: Colors.white,
-              letterSpacing: 1.0,
-            ),
-          ),
-        ],
-      );
-    }
-
-    return Row(
-      mainAxisSize: MainAxisSize.min,
-      children: [
-        Text(
-          '🦜',
-          style: TextStyle(fontSize: fontSize * 1.2),
         ),
         const SizedBox(width: 8),
-        _buildColorfulText('C', Colors.blue.shade600),
-        _buildColorfulText('h', Colors.red.shade500),
-        _buildColorfulText('i', Colors.orange.shade600),
-        _buildColorfulText('r', Colors.yellow.shade700),
-        _buildColorfulText('P', Colors.green.shade600),
-        _buildColorfulText('o', Colors.teal.shade600),
-        _buildColorfulText('l', Colors.purple.shade600),
-        _buildColorfulText('l', Colors.pink.shade600),
-        _buildColorfulText('y', Colors.deepPurple.shade600),
+        // ChirPolly Text
+        _buildLetter('C', isWhite ? Colors.white : Colors.blue.shade600),
+        _buildLetter('h', isWhite ? Colors.white : Colors.red.shade500),
+        _buildLetter('i', isWhite ? Colors.white : Colors.orange.shade600),
+        _buildLetter('r', isWhite ? Colors.white : Colors.yellow.shade700),
+        _buildLetter('P', isWhite ? Colors.white : Colors.green.shade600),
+        _buildLetter('o', isWhite ? Colors.white : Colors.teal.shade600),
+        _buildLetter('l', isWhite ? Colors.white : Colors.purple.shade600),
+        _buildLetter('l', isWhite ? Colors.white : Colors.pink.shade600),
+        _buildLetter('y', isWhite ? Colors.white : Colors.deepPurple.shade600),
       ],
     );
   }
 
-  Widget _buildColorfulText(String letter, Color color) {
+  Widget _buildLetter(String char, Color color) {
     return Text(
-      letter,
+      char,
       style: TextStyle(
         fontSize: fontSize,
         fontWeight: FontWeight.bold,

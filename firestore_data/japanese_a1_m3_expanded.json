@@ -1,0 +1,858 @@
+{
+    "moduleId": "japanese_a1_m3",
+    "theme": "N5 Kanji Part 1 (50 Kanji)",
+    "order": 3,
+    "targetWordCount": 200,
+    "kanjiCount": 50,
+    "lessons": [
+        {
+            "lessonNumber": 1,
+            "title": "Numbers Kanji",
+            "kanji": [
+                "一",
+                "二",
+                "三",
+                "四",
+                "五",
+                "六",
+                "七",
+                "八",
+                "九",
+                "十"
+            ],
+            "vocabularyItems": [
+                {
+                    "targetText": "一",
+                    "romaji": "ichi/hito",
+                    "english": "one",
+                    "type": "kanji",
+                    "strokes": 1
+                },
+                {
+                    "targetText": "一つ",
+                    "romaji": "hitotsu",
+                    "english": "one (thing)",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "一人",
+                    "romaji": "hitori",
+                    "english": "one person",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "二",
+                    "romaji": "ni/futa",
+                    "english": "two",
+                    "type": "kanji",
+                    "strokes": 2
+                },
+                {
+                    "targetText": "二つ",
+                    "romaji": "futatsu",
+                    "english": "two (things)",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "三",
+                    "romaji": "san/mi",
+                    "english": "three",
+                    "type": "kanji",
+                    "strokes": 3
+                },
+                {
+                    "targetText": "四",
+                    "romaji": "shi/yon",
+                    "english": "four",
+                    "type": "kanji",
+                    "strokes": 5
+                },
+                {
+                    "targetText": "五",
+                    "romaji": "go/itsu",
+                    "english": "five",
+                    "type": "kanji",
+                    "strokes": 4
+                },
+                {
+                    "targetText": "六",
+                    "romaji": "roku/mu",
+                    "english": "six",
+                    "type": "kanji",
+                    "strokes": 4
+                },
+                {
+                    "targetText": "七",
+                    "romaji": "shichi/nana",
+                    "english": "seven",
+                    "type": "kanji",
+                    "strokes": 2
+                }
+            ]
+        },
+        {
+            "lessonNumber": 2,
+            "title": "More Numbers",
+            "kanji": [
+                "八",
+                "九",
+                "十",
+                "百",
+                "千",
+                "万",
+                "円",
+                "年"
+            ],
+            "vocabularyItems": [
+                {
+                    "targetText": "八",
+                    "romaji": "hachi/ya",
+                    "english": "eight",
+                    "type": "kanji",
+                    "strokes": 2
+                },
+                {
+                    "targetText": "九",
+                    "romaji": "kyuu/ku",
+                    "english": "nine",
+                    "type": "kanji",
+                    "strokes": 2
+                },
+                {
+                    "targetText": "十",
+                    "romaji": "juu/to",
+                    "english": "ten",
+                    "type": "kanji",
+                    "strokes": 2
+                },
+                {
+                    "targetText": "百",
+                    "romaji": "hyaku",
+                    "english": "hundred",
+                    "type": "kanji",
+                    "strokes": 6
+                },
+                {
+                    "targetText": "千",
+                    "romaji": "sen",
+                    "english": "thousand",
+                    "type": "kanji",
+                    "strokes": 3
+                },
+                {
+                    "targetText": "万",
+                    "romaji": "man",
+                    "english": "ten thousand",
+                    "type": "kanji",
+                    "strokes": 3
+                },
+                {
+                    "targetText": "円",
+                    "romaji": "en",
+                    "english": "yen/circle",
+                    "type": "kanji",
+                    "strokes": 4
+                },
+                {
+                    "targetText": "年",
+                    "romaji": "nen/toshi",
+                    "english": "year",
+                    "type": "kanji",
+                    "strokes": 6
+                },
+                {
+                    "targetText": "百円",
+                    "romaji": "hyakuen",
+                    "english": "100 yen",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "一万円",
+                    "romaji": "ichimanen",
+                    "english": "10,000 yen",
+                    "type": "noun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 3,
+            "title": "Time Kanji",
+            "kanji": [
+                "日",
+                "月",
+                "火",
+                "水",
+                "木",
+                "金",
+                "土",
+                "時",
+                "分",
+                "週"
+            ],
+            "vocabularyItems": [
+                {
+                    "targetText": "日",
+                    "romaji": "nichi/hi/ka",
+                    "english": "day/sun",
+                    "type": "kanji",
+                    "strokes": 4
+                },
+                {
+                    "targetText": "月",
+                    "romaji": "getsu/tsuki",
+                    "english": "month/moon",
+                    "type": "kanji",
+                    "strokes": 4
+                },
+                {
+                    "targetText": "火",
+                    "romaji": "ka/hi",
+                    "english": "fire/Tuesday",
+                    "type": "kanji",
+                    "strokes": 4
+                },
+                {
+                    "targetText": "水",
+                    "romaji": "sui/mizu",
+                    "english": "water/Wednesday",
+                    "type": "kanji",
+                    "strokes": 4
+                },
+                {
+                    "targetText": "木",
+                    "romaji": "moku/ki",
+                    "english": "tree/Thursday",
+                    "type": "kanji",
+                    "strokes": 4
+                },
+                {
+                    "targetText": "金",
+                    "romaji": "kin/kane",
+                    "english": "gold/Friday",
+                    "type": "kanji",
+                    "strokes": 8
+                },
+                {
+                    "targetText": "土",
+                    "romaji": "do/tsuchi",
+                    "english": "earth/Saturday",
+                    "type": "kanji",
+                    "strokes": 3
+                },
+                {
+                    "targetText": "時",
+                    "romaji": "ji/toki",
+                    "english": "time/hour",
+                    "type": "kanji",
+                    "strokes": 10
+                },
+                {
+                    "targetText": "分",
+                    "romaji": "fun/pun/wa",
+                    "english": "minute/divide",
+                    "type": "kanji",
+                    "strokes": 4
+                },
+                {
+                    "targetText": "週",
+                    "romaji": "shuu",
+                    "english": "week",
+                    "type": "kanji",
+                    "strokes": 11
+                }
+            ]
+        },
+        {
+            "lessonNumber": 4,
+            "title": "People Kanji",
+            "kanji": [
+                "人",
+                "口",
+                "手",
+                "目",
+                "耳",
+                "足",
+                "体",
+                "心"
+            ],
+            "vocabularyItems": [
+                {
+                    "targetText": "人",
+                    "romaji": "jin/nin/hito",
+                    "english": "person",
+                    "type": "kanji",
+                    "strokes": 2
+                },
+                {
+                    "targetText": "口",
+                    "romaji": "kou/kuchi",
+                    "english": "mouth",
+                    "type": "kanji",
+                    "strokes": 3
+                },
+                {
+                    "targetText": "手",
+                    "romaji": "shu/te",
+                    "english": "hand",
+                    "type": "kanji",
+                    "strokes": 4
+                },
+                {
+                    "targetText": "目",
+                    "romaji": "moku/me",
+                    "english": "eye",
+                    "type": "kanji",
+                    "strokes": 5
+                },
+                {
+                    "targetText": "耳",
+                    "romaji": "ji/mimi",
+                    "english": "ear",
+                    "type": "kanji",
+                    "strokes": 6
+                },
+                {
+                    "targetText": "足",
+                    "romaji": "soku/ashi",
+                    "english": "foot/leg",
+                    "type": "kanji",
+                    "strokes": 7
+                },
+                {
+                    "targetText": "体",
+                    "romaji": "tai/karada",
+                    "english": "body",
+                    "type": "kanji",
+                    "strokes": 7
+                },
+                {
+                    "targetText": "心",
+                    "romaji": "shin/kokoro",
+                    "english": "heart/mind",
+                    "type": "kanji",
+                    "strokes": 4
+                },
+                {
+                    "targetText": "二人",
+                    "romaji": "futari",
+                    "english": "two people",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "入口",
+                    "romaji": "iriguchi",
+                    "english": "entrance",
+                    "type": "noun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 5,
+            "title": "Direction Kanji",
+            "kanji": [
+                "大",
+                "小",
+                "中",
+                "上",
+                "下",
+                "左",
+                "右",
+                "前",
+                "後",
+                "内",
+                "外"
+            ],
+            "vocabularyItems": [
+                {
+                    "targetText": "大",
+                    "romaji": "dai/oo",
+                    "english": "big",
+                    "type": "kanji",
+                    "strokes": 3
+                },
+                {
+                    "targetText": "小",
+                    "romaji": "shou/chii",
+                    "english": "small",
+                    "type": "kanji",
+                    "strokes": 3
+                },
+                {
+                    "targetText": "中",
+                    "romaji": "chuu/naka",
+                    "english": "middle/inside",
+                    "type": "kanji",
+                    "strokes": 4
+                },
+                {
+                    "targetText": "上",
+                    "romaji": "jou/ue",
+                    "english": "above/up",
+                    "type": "kanji",
+                    "strokes": 3
+                },
+                {
+                    "targetText": "下",
+                    "romaji": "ka/ge/shita",
+                    "english": "below/down",
+                    "type": "kanji",
+                    "strokes": 3
+                },
+                {
+                    "targetText": "左",
+                    "romaji": "sa/hidari",
+                    "english": "left",
+                    "type": "kanji",
+                    "strokes": 5
+                },
+                {
+                    "targetText": "右",
+                    "romaji": "u/yuu/migi",
+                    "english": "right",
+                    "type": "kanji",
+                    "strokes": 5
+                },
+                {
+                    "targetText": "前",
+                    "romaji": "zen/mae",
+                    "english": "front/before",
+                    "type": "kanji",
+                    "strokes": 9
+                },
+                {
+                    "targetText": "後",
+                    "romaji": "go/ato/ushiro",
+                    "english": "after/behind",
+                    "type": "kanji",
+                    "strokes": 9
+                },
+                {
+                    "targetText": "大きい",
+                    "romaji": "ookii",
+                    "english": "big",
+                    "type": "i-adjective"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 6,
+            "title": "Directions 2",
+            "kanji": [
+                "東",
+                "西",
+                "南",
+                "北",
+                "出",
+                "入",
+                "行",
+                "来"
+            ],
+            "vocabularyItems": [
+                {
+                    "targetText": "東",
+                    "romaji": "tou/higashi",
+                    "english": "east",
+                    "type": "kanji",
+                    "strokes": 8
+                },
+                {
+                    "targetText": "西",
+                    "romaji": "sei/nishi",
+                    "english": "west",
+                    "type": "kanji",
+                    "strokes": 6
+                },
+                {
+                    "targetText": "南",
+                    "romaji": "nan/minami",
+                    "english": "south",
+                    "type": "kanji",
+                    "strokes": 9
+                },
+                {
+                    "targetText": "北",
+                    "romaji": "hoku/kita",
+                    "english": "north",
+                    "type": "kanji",
+                    "strokes": 5
+                },
+                {
+                    "targetText": "出",
+                    "romaji": "shutsu/de",
+                    "english": "exit/go out",
+                    "type": "kanji",
+                    "strokes": 5
+                },
+                {
+                    "targetText": "入",
+                    "romaji": "nyuu/hai/iru",
+                    "english": "enter",
+                    "type": "kanji",
+                    "strokes": 2
+                },
+                {
+                    "targetText": "行",
+                    "romaji": "kou/gyou/i/yu",
+                    "english": "go",
+                    "type": "kanji",
+                    "strokes": 6
+                },
+                {
+                    "targetText": "来",
+                    "romaji": "rai/ku",
+                    "english": "come",
+                    "type": "kanji",
+                    "strokes": 7
+                },
+                {
+                    "targetText": "東京",
+                    "romaji": "toukyou",
+                    "english": "Tokyo",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "出口",
+                    "romaji": "deguchi",
+                    "english": "exit",
+                    "type": "noun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 7,
+            "title": "School Kanji 1",
+            "kanji": [
+                "学",
+                "校",
+                "先",
+                "生",
+                "教",
+                "室"
+            ],
+            "vocabularyItems": [
+                {
+                    "targetText": "学",
+                    "romaji": "gaku/mana",
+                    "english": "study/learning",
+                    "type": "kanji",
+                    "strokes": 8
+                },
+                {
+                    "targetText": "校",
+                    "romaji": "kou",
+                    "english": "school",
+                    "type": "kanji",
+                    "strokes": 10
+                },
+                {
+                    "targetText": "先",
+                    "romaji": "sen/saki",
+                    "english": "before/ahead",
+                    "type": "kanji",
+                    "strokes": 6
+                },
+                {
+                    "targetText": "生",
+                    "romaji": "sei/i",
+                    "english": "life/birth",
+                    "type": "kanji",
+                    "strokes": 5
+                },
+                {
+                    "targetText": "教",
+                    "romaji": "kyou/oshi",
+                    "english": "teach",
+                    "type": "kanji",
+                    "strokes": 11
+                },
+                {
+                    "targetText": "室",
+                    "romaji": "shitsu",
+                    "english": "room",
+                    "type": "kanji",
+                    "strokes": 9
+                },
+                {
+                    "targetText": "学校",
+                    "romaji": "gakkou",
+                    "english": "school",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "先生",
+                    "romaji": "sensei",
+                    "english": "teacher",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "学生",
+                    "romaji": "gakusei",
+                    "english": "student",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "教室",
+                    "romaji": "kyoushitsu",
+                    "english": "classroom",
+                    "type": "noun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 8,
+            "title": "School Kanji 2",
+            "kanji": [
+                "本",
+                "読",
+                "書",
+                "語",
+                "話",
+                "聞"
+            ],
+            "vocabularyItems": [
+                {
+                    "targetText": "本",
+                    "romaji": "hon/moto",
+                    "english": "book/origin",
+                    "type": "kanji",
+                    "strokes": 5
+                },
+                {
+                    "targetText": "読",
+                    "romaji": "doku/yo",
+                    "english": "read",
+                    "type": "kanji",
+                    "strokes": 14
+                },
+                {
+                    "targetText": "書",
+                    "romaji": "sho/ka",
+                    "english": "write",
+                    "type": "kanji",
+                    "strokes": 10
+                },
+                {
+                    "targetText": "語",
+                    "romaji": "go/kata",
+                    "english": "language/word",
+                    "type": "kanji",
+                    "strokes": 14
+                },
+                {
+                    "targetText": "話",
+                    "romaji": "wa/hana",
+                    "english": "speak/talk",
+                    "type": "kanji",
+                    "strokes": 13
+                },
+                {
+                    "targetText": "聞",
+                    "romaji": "bun/mon/ki",
+                    "english": "hear/listen",
+                    "type": "kanji",
+                    "strokes": 14
+                },
+                {
+                    "targetText": "日本",
+                    "romaji": "nihon",
+                    "english": "Japan",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "日本語",
+                    "romaji": "nihongo",
+                    "english": "Japanese language",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "英語",
+                    "romaji": "eigo",
+                    "english": "English language",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "電話",
+                    "romaji": "denwa",
+                    "english": "telephone",
+                    "type": "noun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 9,
+            "title": "Action Kanji",
+            "kanji": [
+                "見",
+                "食",
+                "飲",
+                "買",
+                "売",
+                "立",
+                "座"
+            ],
+            "vocabularyItems": [
+                {
+                    "targetText": "見",
+                    "romaji": "ken/mi",
+                    "english": "see/look",
+                    "type": "kanji",
+                    "strokes": 7
+                },
+                {
+                    "targetText": "食",
+                    "romaji": "shoku/ta",
+                    "english": "eat/food",
+                    "type": "kanji",
+                    "strokes": 9
+                },
+                {
+                    "targetText": "飲",
+                    "romaji": "in/no",
+                    "english": "drink",
+                    "type": "kanji",
+                    "strokes": 12
+                },
+                {
+                    "targetText": "買",
+                    "romaji": "bai/ka",
+                    "english": "buy",
+                    "type": "kanji",
+                    "strokes": 12
+                },
+                {
+                    "targetText": "売",
+                    "romaji": "bai/u",
+                    "english": "sell",
+                    "type": "kanji",
+                    "strokes": 7
+                },
+                {
+                    "targetText": "立",
+                    "romaji": "ritsu/ta",
+                    "english": "stand",
+                    "type": "kanji",
+                    "strokes": 5
+                },
+                {
+                    "targetText": "座",
+                    "romaji": "za/suwa",
+                    "english": "sit",
+                    "type": "kanji",
+                    "strokes": 10
+                },
+                {
+                    "targetText": "見る",
+                    "romaji": "miru",
+                    "english": "to see",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "食べる",
+                    "romaji": "taberu",
+                    "english": "to eat",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "飲む",
+                    "romaji": "nomu",
+                    "english": "to drink",
+                    "type": "verb"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 10,
+            "title": "Nature Kanji",
+            "kanji": [
+                "山",
+                "川",
+                "田",
+                "林",
+                "森",
+                "花",
+                "草",
+                "木",
+                "竹"
+            ],
+            "vocabularyItems": [
+                {
+                    "targetText": "山",
+                    "romaji": "san/yama",
+                    "english": "mountain",
+                    "type": "kanji",
+                    "strokes": 3
+                },
+                {
+                    "targetText": "川",
+                    "romaji": "sen/kawa",
+                    "english": "river",
+                    "type": "kanji",
+                    "strokes": 3
+                },
+                {
+                    "targetText": "田",
+                    "romaji": "den/ta",
+                    "english": "rice field",
+                    "type": "kanji",
+                    "strokes": 5
+                },
+                {
+                    "targetText": "林",
+                    "romaji": "rin/hayashi",
+                    "english": "forest/woods",
+                    "type": "kanji",
+                    "strokes": 8
+                },
+                {
+                    "targetText": "森",
+                    "romaji": "shin/mori",
+                    "english": "forest",
+                    "type": "kanji",
+                    "strokes": 12
+                },
+                {
+                    "targetText": "花",
+                    "romaji": "ka/hana",
+                    "english": "flower",
+                    "type": "kanji",
+                    "strokes": 7
+                },
+                {
+                    "targetText": "草",
+                    "romaji": "sou/kusa",
+                    "english": "grass",
+                    "type": "kanji",
+                    "strokes": 9
+                },
+                {
+                    "targetText": "木",
+                    "romaji": "moku/ki",
+                    "english": "tree/wood",
+                    "type": "kanji",
+                    "strokes": 4
+                },
+                {
+                    "targetText": "竹",
+                    "romaji": "chiku/take",
+                    "english": "bamboo",
+                    "type": "kanji",
+                    "strokes": 6
+                },
+                {
+                    "targetText": "山田",
+                    "romaji": "yamada",
+                    "english": "Yamada (surname)",
+                    "type": "noun"
+                }
+            ]
+        }
+    ],
+    "liarGameData": {
+        "question": "日 vs 目",
+        "questionEnglish": "Which means 'day/sun'?",
+        "correctAnswer": "日 (nichi/hi - 4 strokes, wider)",
+        "liarAnswer": "目 (me - 5 strokes, narrower, means 'eye')",
+        "explanation": "日 (day/sun) is wider with 4 strokes. 目 (eye) is narrower with 5 strokes and has a horizontal line in the middle.",
+        "trapType": "kanji_confusion"
+    }
+}

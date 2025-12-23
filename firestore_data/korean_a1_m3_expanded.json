@@ -1,0 +1,676 @@
+{
+    "moduleId": "korean_a1_m3",
+    "theme": "Verbs & Actions",
+    "order": 3,
+    "targetWordCount": 100,
+    "lessons": [
+        {
+            "lessonNumber": 1,
+            "title": "Movement Verbs",
+            "vocabularyItems": [
+                {
+                    "targetText": "가다",
+                    "romaji": "gada",
+                    "english": "to go",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "오다",
+                    "romaji": "oda",
+                    "english": "to come",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "걷다",
+                    "romaji": "geotda",
+                    "english": "to walk",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "뛰다",
+                    "romaji": "ttwida",
+                    "english": "to run",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "서다",
+                    "romaji": "seoda",
+                    "english": "to stand",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "앉다",
+                    "romaji": "anda",
+                    "english": "to sit",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "눕다",
+                    "romaji": "nupda",
+                    "english": "to lie down",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "타다",
+                    "romaji": "tada",
+                    "english": "to ride/take (transport)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "내리다",
+                    "romaji": "naerida",
+                    "english": "to get off/descend",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "돌아가다",
+                    "romaji": "doragada",
+                    "english": "to return/go back",
+                    "type": "verb"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 2,
+            "title": "Daily Activities",
+            "vocabularyItems": [
+                {
+                    "targetText": "일어나다",
+                    "romaji": "ireonada",
+                    "english": "to wake up/get up",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "씻다",
+                    "romaji": "ssitda",
+                    "english": "to wash",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "샤워하다",
+                    "romaji": "syawohada",
+                    "english": "to shower",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "입다",
+                    "romaji": "ipda",
+                    "english": "to wear/put on",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "벗다",
+                    "romaji": "beotda",
+                    "english": "to take off (clothes)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "자다",
+                    "romaji": "jada",
+                    "english": "to sleep",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "일하다",
+                    "romaji": "ilhada",
+                    "english": "to work",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "공부하다",
+                    "romaji": "gongbuhada",
+                    "english": "to study",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "쉬다",
+                    "romaji": "swida",
+                    "english": "to rest",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "놀다",
+                    "romaji": "nolda",
+                    "english": "to play/hang out",
+                    "type": "verb"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 3,
+            "title": "Communication Verbs",
+            "vocabularyItems": [
+                {
+                    "targetText": "말하다",
+                    "romaji": "malhada",
+                    "english": "to speak/say",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "이야기하다",
+                    "romaji": "iyagihada",
+                    "english": "to talk/chat",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "듣다",
+                    "romaji": "deutda",
+                    "english": "to listen/hear",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "묻다",
+                    "romaji": "mutda",
+                    "english": "to ask",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "대답하다",
+                    "romaji": "daedaphada",
+                    "english": "to answer",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "전화하다",
+                    "romaji": "jeonhwahada",
+                    "english": "to call (phone)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "문자하다",
+                    "romaji": "munjahada",
+                    "english": "to text",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "배우다",
+                    "romaji": "baeuda",
+                    "english": "to learn",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "가르치다",
+                    "romaji": "gareuchida",
+                    "english": "to teach",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "알다",
+                    "romaji": "alda",
+                    "english": "to know",
+                    "type": "verb"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 4,
+            "title": "Shopping & Money",
+            "vocabularyItems": [
+                {
+                    "targetText": "사다",
+                    "romaji": "sada",
+                    "english": "to buy",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "팔다",
+                    "romaji": "palda",
+                    "english": "to sell",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "주다",
+                    "romaji": "juda",
+                    "english": "to give",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "받다",
+                    "romaji": "batda",
+                    "english": "to receive",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "돈",
+                    "romaji": "don",
+                    "english": "money",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "원",
+                    "romaji": "won",
+                    "english": "won (currency)",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "가격",
+                    "romaji": "gagyeok",
+                    "english": "price",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "비싸다",
+                    "romaji": "bissada",
+                    "english": "to be expensive",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "싸다",
+                    "romaji": "ssada",
+                    "english": "to be cheap",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "카드",
+                    "romaji": "kadeu",
+                    "english": "card",
+                    "type": "noun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 5,
+            "title": "Emotions & States",
+            "vocabularyItems": [
+                {
+                    "targetText": "좋아하다",
+                    "romaji": "joahada",
+                    "english": "to like",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "싫어하다",
+                    "romaji": "sireohada",
+                    "english": "to dislike",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "사랑하다",
+                    "romaji": "saranghada",
+                    "english": "to love",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "행복하다",
+                    "romaji": "haengbokhada",
+                    "english": "to be happy",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "슬프다",
+                    "romaji": "seulpeuda",
+                    "english": "to be sad",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "화나다",
+                    "romaji": "hwanada",
+                    "english": "to be angry",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "기쁘다",
+                    "romaji": "gippeuda",
+                    "english": "to be glad/joyful",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "무섭다",
+                    "romaji": "museopda",
+                    "english": "to be scary/afraid",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "피곤하다",
+                    "romaji": "pigonhada",
+                    "english": "to be tired",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "아프다",
+                    "romaji": "apeuda",
+                    "english": "to be sick/hurt",
+                    "type": "adjective"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 6,
+            "title": "Weather & Seasons",
+            "vocabularyItems": [
+                {
+                    "targetText": "날씨",
+                    "romaji": "nalssi",
+                    "english": "weather",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "비",
+                    "romaji": "bi",
+                    "english": "rain",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "눈",
+                    "romaji": "nun",
+                    "english": "snow",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "바람",
+                    "romaji": "baram",
+                    "english": "wind",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "봄",
+                    "romaji": "bom",
+                    "english": "spring",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "여름",
+                    "romaji": "yeoreum",
+                    "english": "summer",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "가을",
+                    "romaji": "gaeul",
+                    "english": "autumn/fall",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "겨울",
+                    "romaji": "gyeoul",
+                    "english": "winter",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "맑다",
+                    "romaji": "makda",
+                    "english": "to be clear (weather)",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "흐리다",
+                    "romaji": "heurida",
+                    "english": "to be cloudy",
+                    "type": "adjective"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 7,
+            "title": "Body Parts",
+            "vocabularyItems": [
+                {
+                    "targetText": "머리",
+                    "romaji": "meori",
+                    "english": "head/hair",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "얼굴",
+                    "romaji": "eolgul",
+                    "english": "face",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "눈",
+                    "romaji": "nun",
+                    "english": "eye",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "코",
+                    "romaji": "ko",
+                    "english": "nose",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "입",
+                    "romaji": "ip",
+                    "english": "mouth",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "귀",
+                    "romaji": "gwi",
+                    "english": "ear",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "손",
+                    "romaji": "son",
+                    "english": "hand",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "발",
+                    "romaji": "bal",
+                    "english": "foot",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "다리",
+                    "romaji": "dari",
+                    "english": "leg",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "배",
+                    "romaji": "bae",
+                    "english": "stomach/belly",
+                    "type": "noun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 8,
+            "title": "Transportation",
+            "vocabularyItems": [
+                {
+                    "targetText": "버스",
+                    "romaji": "beoseu",
+                    "english": "bus",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "지하철",
+                    "romaji": "jihacheol",
+                    "english": "subway",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "택시",
+                    "romaji": "taeksi",
+                    "english": "taxi",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "기차",
+                    "romaji": "gicha",
+                    "english": "train",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "비행기",
+                    "romaji": "bihaenggi",
+                    "english": "airplane",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "자동차",
+                    "romaji": "jadongcha",
+                    "english": "car",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "자전거",
+                    "romaji": "jajeongeo",
+                    "english": "bicycle",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "오토바이",
+                    "romaji": "otobai",
+                    "english": "motorcycle",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "배",
+                    "romaji": "bae",
+                    "english": "ship/boat",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "표",
+                    "romaji": "pyo",
+                    "english": "ticket",
+                    "type": "noun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 9,
+            "title": "Hobbies",
+            "vocabularyItems": [
+                {
+                    "targetText": "취미",
+                    "romaji": "chwimi",
+                    "english": "hobby",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "운동",
+                    "romaji": "undong",
+                    "english": "exercise/sports",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "음악",
+                    "romaji": "eumak",
+                    "english": "music",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "영화",
+                    "romaji": "yeonghwa",
+                    "english": "movie",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "책",
+                    "romaji": "chaek",
+                    "english": "book",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "게임",
+                    "romaji": "geim",
+                    "english": "game",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "노래",
+                    "romaji": "norae",
+                    "english": "song",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "춤",
+                    "romaji": "chum",
+                    "english": "dance",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "여행",
+                    "romaji": "yeohaeng",
+                    "english": "travel",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "사진",
+                    "romaji": "sajin",
+                    "english": "photo/picture",
+                    "type": "noun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 10,
+            "title": "Particles",
+            "vocabularyItems": [
+                {
+                    "targetText": "은/는",
+                    "romaji": "eun/neun",
+                    "english": "topic particle",
+                    "type": "particle"
+                },
+                {
+                    "targetText": "이/가",
+                    "romaji": "i/ga",
+                    "english": "subject particle",
+                    "type": "particle"
+                },
+                {
+                    "targetText": "을/를",
+                    "romaji": "eul/reul",
+                    "english": "object particle",
+                    "type": "particle"
+                },
+                {
+                    "targetText": "에",
+                    "romaji": "e",
+                    "english": "at/to/in (location/time)",
+                    "type": "particle"
+                },
+                {
+                    "targetText": "에서",
+                    "romaji": "eseo",
+                    "english": "at/in (action location)",
+                    "type": "particle"
+                },
+                {
+                    "targetText": "와/과",
+                    "romaji": "wa/gwa",
+                    "english": "and/with (formal)",
+                    "type": "particle"
+                },
+                {
+                    "targetText": "하고",
+                    "romaji": "hago",
+                    "english": "and/with (casual)",
+                    "type": "particle"
+                },
+                {
+                    "targetText": "의",
+                    "romaji": "ui",
+                    "english": "possessive particle (of)",
+                    "type": "particle"
+                },
+                {
+                    "targetText": "도",
+                    "romaji": "do",
+                    "english": "also/too",
+                    "type": "particle"
+                },
+                {
+                    "targetText": "만",
+                    "romaji": "man",
+                    "english": "only",
+                    "type": "particle"
+                }
+            ]
+        }
+    ],
+    "liarGameData": {
+        "question": "이/가 vs 은/는",
+        "questionEnglish": "Which is the subject particle?",
+        "correctAnswer": "이/가 (i/ga - subject marker)",
+        "liarAnswer": "은/는 (eun/neun - topic marker)",
+        "explanation": "이/가 marks the grammatical subject. 은/는 marks the topic of conversation. Different functions!",
+        "trapType": "particle_confusion"
+    }
+}

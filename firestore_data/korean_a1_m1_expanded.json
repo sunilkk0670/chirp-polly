@@ -1,0 +1,808 @@
+{
+    "moduleId": "korean_a1_m1",
+    "theme": "Hangul Mastery & Greetings",
+    "order": 1,
+    "targetWordCount": 120,
+    "lessons": [
+        {
+            "lessonNumber": 1,
+            "title": "Hangul Consonants 1",
+            "vocabularyItems": [
+                {
+                    "targetText": "ㄱ",
+                    "romaji": "g/k",
+                    "english": "giyeok",
+                    "type": "consonant"
+                },
+                {
+                    "targetText": "ㄴ",
+                    "romaji": "n",
+                    "english": "nieun",
+                    "type": "consonant"
+                },
+                {
+                    "targetText": "ㄷ",
+                    "romaji": "d/t",
+                    "english": "digeut",
+                    "type": "consonant"
+                },
+                {
+                    "targetText": "ㄹ",
+                    "romaji": "r/l",
+                    "english": "rieul",
+                    "type": "consonant"
+                },
+                {
+                    "targetText": "ㅁ",
+                    "romaji": "m",
+                    "english": "mieum",
+                    "type": "consonant"
+                },
+                {
+                    "targetText": "ㅂ",
+                    "romaji": "b/p",
+                    "english": "bieup",
+                    "type": "consonant"
+                },
+                {
+                    "targetText": "ㅅ",
+                    "romaji": "s",
+                    "english": "siot",
+                    "type": "consonant"
+                },
+                {
+                    "targetText": "ㅇ",
+                    "romaji": "ng/silent",
+                    "english": "ieung",
+                    "type": "consonant"
+                },
+                {
+                    "targetText": "ㅈ",
+                    "romaji": "j",
+                    "english": "jieut",
+                    "type": "consonant"
+                },
+                {
+                    "targetText": "ㅊ",
+                    "romaji": "ch",
+                    "english": "chieut",
+                    "type": "consonant"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 2,
+            "title": "Hangul Consonants 2",
+            "vocabularyItems": [
+                {
+                    "targetText": "ㅋ",
+                    "romaji": "k",
+                    "english": "kieuk",
+                    "type": "consonant"
+                },
+                {
+                    "targetText": "ㅌ",
+                    "romaji": "t",
+                    "english": "tieut",
+                    "type": "consonant"
+                },
+                {
+                    "targetText": "ㅍ",
+                    "romaji": "p",
+                    "english": "pieup",
+                    "type": "consonant"
+                },
+                {
+                    "targetText": "ㅎ",
+                    "romaji": "h",
+                    "english": "hieut",
+                    "type": "consonant"
+                },
+                {
+                    "targetText": "ㄲ",
+                    "romaji": "kk",
+                    "english": "ssangkiyeok",
+                    "type": "consonant"
+                },
+                {
+                    "targetText": "ㄸ",
+                    "romaji": "tt",
+                    "english": "ssangdigeut",
+                    "type": "consonant"
+                },
+                {
+                    "targetText": "ㅃ",
+                    "romaji": "pp",
+                    "english": "ssangbieup",
+                    "type": "consonant"
+                },
+                {
+                    "targetText": "ㅆ",
+                    "romaji": "ss",
+                    "english": "ssangsiot",
+                    "type": "consonant"
+                },
+                {
+                    "targetText": "ㅉ",
+                    "romaji": "jj",
+                    "english": "ssangjieut",
+                    "type": "consonant"
+                },
+                {
+                    "targetText": "가",
+                    "romaji": "ga",
+                    "english": "ga (syllable)",
+                    "type": "syllable"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 3,
+            "title": "Hangul Vowels",
+            "vocabularyItems": [
+                {
+                    "targetText": "ㅏ",
+                    "romaji": "a",
+                    "english": "a",
+                    "type": "vowel"
+                },
+                {
+                    "targetText": "ㅑ",
+                    "romaji": "ya",
+                    "english": "ya",
+                    "type": "vowel"
+                },
+                {
+                    "targetText": "ㅓ",
+                    "romaji": "eo",
+                    "english": "eo",
+                    "type": "vowel"
+                },
+                {
+                    "targetText": "ㅕ",
+                    "romaji": "yeo",
+                    "english": "yeo",
+                    "type": "vowel"
+                },
+                {
+                    "targetText": "ㅗ",
+                    "romaji": "o",
+                    "english": "o",
+                    "type": "vowel"
+                },
+                {
+                    "targetText": "ㅛ",
+                    "romaji": "yo",
+                    "english": "yo",
+                    "type": "vowel"
+                },
+                {
+                    "targetText": "ㅜ",
+                    "romaji": "u",
+                    "english": "u",
+                    "type": "vowel"
+                },
+                {
+                    "targetText": "ㅠ",
+                    "romaji": "yu",
+                    "english": "yu",
+                    "type": "vowel"
+                },
+                {
+                    "targetText": "ㅡ",
+                    "romaji": "eu",
+                    "english": "eu",
+                    "type": "vowel"
+                },
+                {
+                    "targetText": "ㅣ",
+                    "romaji": "i",
+                    "english": "i",
+                    "type": "vowel"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 4,
+            "title": "Complex Vowels",
+            "vocabularyItems": [
+                {
+                    "targetText": "ㅐ",
+                    "romaji": "ae",
+                    "english": "ae",
+                    "type": "vowel"
+                },
+                {
+                    "targetText": "ㅒ",
+                    "romaji": "yae",
+                    "english": "yae",
+                    "type": "vowel"
+                },
+                {
+                    "targetText": "ㅔ",
+                    "romaji": "e",
+                    "english": "e",
+                    "type": "vowel"
+                },
+                {
+                    "targetText": "ㅖ",
+                    "romaji": "ye",
+                    "english": "ye",
+                    "type": "vowel"
+                },
+                {
+                    "targetText": "ㅘ",
+                    "romaji": "wa",
+                    "english": "wa",
+                    "type": "vowel"
+                },
+                {
+                    "targetText": "ㅙ",
+                    "romaji": "wae",
+                    "english": "wae",
+                    "type": "vowel"
+                },
+                {
+                    "targetText": "ㅚ",
+                    "romaji": "oe",
+                    "english": "oe",
+                    "type": "vowel"
+                },
+                {
+                    "targetText": "ㅝ",
+                    "romaji": "wo",
+                    "english": "wo",
+                    "type": "vowel"
+                },
+                {
+                    "targetText": "ㅞ",
+                    "romaji": "we",
+                    "english": "we",
+                    "type": "vowel"
+                },
+                {
+                    "targetText": "ㅟ",
+                    "romaji": "wi",
+                    "english": "wi",
+                    "type": "vowel"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 5,
+            "title": "Formal Greetings",
+            "vocabularyItems": [
+                {
+                    "targetText": "안녕하세요",
+                    "romaji": "annyeonghaseyo",
+                    "english": "hello (formal)",
+                    "type": "greeting"
+                },
+                {
+                    "targetText": "안녕히 가세요",
+                    "romaji": "annyeonghi gaseyo",
+                    "english": "goodbye (to person leaving)",
+                    "type": "greeting"
+                },
+                {
+                    "targetText": "안녕히 계세요",
+                    "romaji": "annyeonghi gyeseyo",
+                    "english": "goodbye (you are leaving)",
+                    "type": "greeting"
+                },
+                {
+                    "targetText": "감사합니다",
+                    "romaji": "gamsahamnida",
+                    "english": "thank you (formal)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "고맙습니다",
+                    "romaji": "gomapseumnida",
+                    "english": "thank you (formal alt)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "죄송합니다",
+                    "romaji": "joesonghamnida",
+                    "english": "I'm sorry (formal)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "미안합니다",
+                    "romaji": "mianhamnida",
+                    "english": "I'm sorry (less formal)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "실례합니다",
+                    "romaji": "sillyehamnida",
+                    "english": "excuse me",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "괜찮습니다",
+                    "romaji": "gwaenchanseumnida",
+                    "english": "it's okay (formal)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "천만에요",
+                    "romaji": "cheonmaneyo",
+                    "english": "you're welcome",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 6,
+            "title": "Casual Greetings",
+            "vocabularyItems": [
+                {
+                    "targetText": "안녕",
+                    "romaji": "annyeong",
+                    "english": "hi/bye (casual)",
+                    "type": "greeting"
+                },
+                {
+                    "targetText": "고마워",
+                    "romaji": "gomawo",
+                    "english": "thanks (casual)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "미안해",
+                    "romaji": "mianhae",
+                    "english": "sorry (casual)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "괜찮아",
+                    "romaji": "gwaenchana",
+                    "english": "it's okay (casual)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "잘 가",
+                    "romaji": "jal ga",
+                    "english": "bye (casual, to person leaving)",
+                    "type": "greeting"
+                },
+                {
+                    "targetText": "잘 있어",
+                    "romaji": "jal isseo",
+                    "english": "bye (casual, you leaving)",
+                    "type": "greeting"
+                },
+                {
+                    "targetText": "또 봐",
+                    "romaji": "tto bwa",
+                    "english": "see you again (casual)",
+                    "type": "greeting"
+                },
+                {
+                    "targetText": "네",
+                    "romaji": "ne",
+                    "english": "yes",
+                    "type": "response"
+                },
+                {
+                    "targetText": "아니요",
+                    "romaji": "aniyo",
+                    "english": "no (polite)",
+                    "type": "response"
+                },
+                {
+                    "targetText": "아니",
+                    "romaji": "ani",
+                    "english": "no (casual)",
+                    "type": "response"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 7,
+            "title": "Self-Introduction",
+            "vocabularyItems": [
+                {
+                    "targetText": "저는",
+                    "romaji": "jeoneun",
+                    "english": "I am (humble)",
+                    "type": "pronoun"
+                },
+                {
+                    "targetText": "나는",
+                    "romaji": "naneun",
+                    "english": "I am (casual)",
+                    "type": "pronoun"
+                },
+                {
+                    "targetText": "이름",
+                    "romaji": "ireum",
+                    "english": "name",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "입니다",
+                    "romaji": "imnida",
+                    "english": "is/am (formal)",
+                    "type": "copula"
+                },
+                {
+                    "targetText": "이에요",
+                    "romaji": "ieyo",
+                    "english": "is/am (polite)",
+                    "type": "copula"
+                },
+                {
+                    "targetText": "예요",
+                    "romaji": "yeyo",
+                    "english": "is/am (polite, after vowel)",
+                    "type": "copula"
+                },
+                {
+                    "targetText": "학생",
+                    "romaji": "haksaeng",
+                    "english": "student",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "선생님",
+                    "romaji": "seonsaengnim",
+                    "english": "teacher",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "회사원",
+                    "romaji": "hoesawon",
+                    "english": "office worker",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "의사",
+                    "romaji": "uisa",
+                    "english": "doctor",
+                    "type": "noun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 8,
+            "title": "Numbers 1-10 (Native)",
+            "vocabularyItems": [
+                {
+                    "targetText": "하나",
+                    "romaji": "hana",
+                    "english": "one",
+                    "type": "number"
+                },
+                {
+                    "targetText": "둘",
+                    "romaji": "dul",
+                    "english": "two",
+                    "type": "number"
+                },
+                {
+                    "targetText": "셋",
+                    "romaji": "set",
+                    "english": "three",
+                    "type": "number"
+                },
+                {
+                    "targetText": "넷",
+                    "romaji": "net",
+                    "english": "four",
+                    "type": "number"
+                },
+                {
+                    "targetText": "다섯",
+                    "romaji": "daseot",
+                    "english": "five",
+                    "type": "number"
+                },
+                {
+                    "targetText": "여섯",
+                    "romaji": "yeoseot",
+                    "english": "six",
+                    "type": "number"
+                },
+                {
+                    "targetText": "일곱",
+                    "romaji": "ilgop",
+                    "english": "seven",
+                    "type": "number"
+                },
+                {
+                    "targetText": "여덟",
+                    "romaji": "yeodeol",
+                    "english": "eight",
+                    "type": "number"
+                },
+                {
+                    "targetText": "아홉",
+                    "romaji": "ahop",
+                    "english": "nine",
+                    "type": "number"
+                },
+                {
+                    "targetText": "열",
+                    "romaji": "yeol",
+                    "english": "ten",
+                    "type": "number"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 9,
+            "title": "Numbers 1-10 (Sino)",
+            "vocabularyItems": [
+                {
+                    "targetText": "일",
+                    "romaji": "il",
+                    "english": "one (Sino)",
+                    "type": "number"
+                },
+                {
+                    "targetText": "이",
+                    "romaji": "i",
+                    "english": "two (Sino)",
+                    "type": "number"
+                },
+                {
+                    "targetText": "삼",
+                    "romaji": "sam",
+                    "english": "three (Sino)",
+                    "type": "number"
+                },
+                {
+                    "targetText": "사",
+                    "romaji": "sa",
+                    "english": "four (Sino)",
+                    "type": "number"
+                },
+                {
+                    "targetText": "오",
+                    "romaji": "o",
+                    "english": "five (Sino)",
+                    "type": "number"
+                },
+                {
+                    "targetText": "육",
+                    "romaji": "yuk",
+                    "english": "six (Sino)",
+                    "type": "number"
+                },
+                {
+                    "targetText": "칠",
+                    "romaji": "chil",
+                    "english": "seven (Sino)",
+                    "type": "number"
+                },
+                {
+                    "targetText": "팔",
+                    "romaji": "pal",
+                    "english": "eight (Sino)",
+                    "type": "number"
+                },
+                {
+                    "targetText": "구",
+                    "romaji": "gu",
+                    "english": "nine (Sino)",
+                    "type": "number"
+                },
+                {
+                    "targetText": "십",
+                    "romaji": "sip",
+                    "english": "ten (Sino)",
+                    "type": "number"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 10,
+            "title": "Basic Verbs",
+            "vocabularyItems": [
+                {
+                    "targetText": "가다",
+                    "romaji": "gada",
+                    "english": "to go",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "오다",
+                    "romaji": "oda",
+                    "english": "to come",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "먹다",
+                    "romaji": "meokda",
+                    "english": "to eat",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "마시다",
+                    "romaji": "masida",
+                    "english": "to drink",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "하다",
+                    "romaji": "hada",
+                    "english": "to do",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "보다",
+                    "romaji": "boda",
+                    "english": "to see/watch",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "듣다",
+                    "romaji": "deutda",
+                    "english": "to listen/hear",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "읽다",
+                    "romaji": "ikda",
+                    "english": "to read",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "쓰다",
+                    "romaji": "sseuda",
+                    "english": "to write/use",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "자다",
+                    "romaji": "jada",
+                    "english": "to sleep",
+                    "type": "verb"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 11,
+            "title": "Pronouns",
+            "vocabularyItems": [
+                {
+                    "targetText": "저",
+                    "romaji": "jeo",
+                    "english": "I (humble)",
+                    "type": "pronoun"
+                },
+                {
+                    "targetText": "나",
+                    "romaji": "na",
+                    "english": "I (casual)",
+                    "type": "pronoun"
+                },
+                {
+                    "targetText": "당신",
+                    "romaji": "dangsin",
+                    "english": "you (formal)",
+                    "type": "pronoun"
+                },
+                {
+                    "targetText": "너",
+                    "romaji": "neo",
+                    "english": "you (casual)",
+                    "type": "pronoun"
+                },
+                {
+                    "targetText": "그",
+                    "romaji": "geu",
+                    "english": "he",
+                    "type": "pronoun"
+                },
+                {
+                    "targetText": "그녀",
+                    "romaji": "geunyeo",
+                    "english": "she",
+                    "type": "pronoun"
+                },
+                {
+                    "targetText": "우리",
+                    "romaji": "uri",
+                    "english": "we/our",
+                    "type": "pronoun"
+                },
+                {
+                    "targetText": "이것",
+                    "romaji": "igeot",
+                    "english": "this",
+                    "type": "pronoun"
+                },
+                {
+                    "targetText": "그것",
+                    "romaji": "geugeot",
+                    "english": "that",
+                    "type": "pronoun"
+                },
+                {
+                    "targetText": "저것",
+                    "romaji": "jeogeot",
+                    "english": "that (over there)",
+                    "type": "pronoun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 12,
+            "title": "Question Words",
+            "vocabularyItems": [
+                {
+                    "targetText": "누구",
+                    "romaji": "nugu",
+                    "english": "who",
+                    "type": "question"
+                },
+                {
+                    "targetText": "무엇",
+                    "romaji": "mueot",
+                    "english": "what",
+                    "type": "question"
+                },
+                {
+                    "targetText": "어디",
+                    "romaji": "eodi",
+                    "english": "where",
+                    "type": "question"
+                },
+                {
+                    "targetText": "언제",
+                    "romaji": "eonje",
+                    "english": "when",
+                    "type": "question"
+                },
+                {
+                    "targetText": "왜",
+                    "romaji": "wae",
+                    "english": "why",
+                    "type": "question"
+                },
+                {
+                    "targetText": "어떻게",
+                    "romaji": "eotteoke",
+                    "english": "how",
+                    "type": "question"
+                },
+                {
+                    "targetText": "얼마",
+                    "romaji": "eolma",
+                    "english": "how much",
+                    "type": "question"
+                },
+                {
+                    "targetText": "몇",
+                    "romaji": "myeot",
+                    "english": "how many",
+                    "type": "question"
+                },
+                {
+                    "targetText": "어느",
+                    "romaji": "eoneu",
+                    "english": "which",
+                    "type": "question"
+                },
+                {
+                    "targetText": "무슨",
+                    "romaji": "museun",
+                    "english": "what kind of",
+                    "type": "question"
+                }
+            ]
+        }
+    ],
+    "liarGameData": {
+        "question": "안녕 vs 안녕하세요",
+        "questionEnglish": "Which is formal?",
+        "correctAnswer": "안녕하세요 (annyeonghaseyo - formal with -하세요)",
+        "liarAnswer": "안녕 (annyeong - casual)",
+        "explanation": "안녕하세요 uses the honorific -하세요 ending, making it formal. 안녕 is casual and should only be used with friends.",
+        "trapType": "honorific_confusion"
+    }
+}

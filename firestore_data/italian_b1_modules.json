@@ -1,0 +1,227 @@
+[
+    {
+        "moduleId": "italian_b1_m1",
+        "theme": "Present Subjunctive (Congiuntivo Presente)",
+        "order": 1,
+        "lessons": [
+            {
+                "targetText": "Spero che tu venga",
+                "phoneticTranscription": "SPEH-roh keh too VEN-gah",
+                "english": "I hope that you come",
+                "notes": "Subjunctive after expressions of hope"
+            },
+            {
+                "targetText": "Penso che sia vero",
+                "phoneticTranscription": "PEN-soh keh SEE-ah VEH-roh",
+                "english": "I think that it's true",
+                "notes": "Subjunctive after verbs of opinion"
+            },
+            {
+                "targetText": "È importante che tu studi",
+                "phoneticTranscription": "eh eem-por-TAHN-teh keh too STOO-dee",
+                "english": "It's important that you study",
+                "notes": "Subjunctive after impersonal expressions"
+            },
+            {
+                "targetText": "Voglio che parli",
+                "phoneticTranscription": "VOH-lyoh keh PAR-lee",
+                "english": "I want you to speak",
+                "notes": "Subjunctive after verbs of desire"
+            },
+            {
+                "targetText": "Dubito che piova",
+                "phoneticTranscription": "DOO-bee-toh keh PYOH-vah",
+                "english": "I doubt that it will rain",
+                "notes": "Subjunctive after expressions of doubt"
+            }
+        ],
+        "liarGameData": {
+            "question": "___ studente è intelligente",
+            "questionEnglish": "The student (male) is intelligent",
+            "correctAnswer": "Lo",
+            "liarAnswer": "La",
+            "explanation": "Use 'Lo' (masculine) before 's+consonant'. 'La' is feminine.",
+            "trapType": "gender_agreement"
+        }
+    },
+    {
+        "moduleId": "italian_b1_m2",
+        "theme": "Conditional Tense (Condizionale)",
+        "order": 2,
+        "lessons": [
+            {
+                "targetText": "Parlerei",
+                "phoneticTranscription": "par-leh-RAY",
+                "english": "I would speak",
+                "notes": "Conditional tense, regular -are verb"
+            },
+            {
+                "targetText": "Mangeresti",
+                "phoneticTranscription": "man-jeh-RES-tee",
+                "english": "You would eat",
+                "notes": "Conditional tense, -are verb"
+            },
+            {
+                "targetText": "Verrebbe",
+                "phoneticTranscription": "ver-REB-beh",
+                "english": "He/She would come",
+                "notes": "Irregular conditional (venire)"
+            },
+            {
+                "targetText": "Andremmo",
+                "phoneticTranscription": "an-DREM-moh",
+                "english": "We would go",
+                "notes": "Irregular conditional (andare)"
+            },
+            {
+                "targetText": "Farebbero",
+                "phoneticTranscription": "fah-REB-beh-roh",
+                "english": "They would do/make",
+                "notes": "Irregular conditional (fare)"
+            }
+        ],
+        "liarGameData": {
+            "question": "___ professoressa è brava",
+            "questionEnglish": "The professor (female) is good",
+            "correctAnswer": "La",
+            "liarAnswer": "Il",
+            "explanation": "Use 'La' (feminine) because 'professoressa' is feminine. 'Il' is masculine.",
+            "trapType": "gender_agreement"
+        }
+    },
+    {
+        "moduleId": "italian_b1_m3",
+        "theme": "Combined Pronouns",
+        "order": 3,
+        "lessons": [
+            {
+                "targetText": "Te lo do",
+                "phoneticTranscription": "teh loh doh",
+                "english": "I give it to you",
+                "notes": "Combined pronouns: indirect + direct"
+            },
+            {
+                "targetText": "Glielo dico",
+                "phoneticTranscription": "LYEH-loh DEE-koh",
+                "english": "I tell it to him/her",
+                "notes": "Gli/Le + lo = glielo"
+            },
+            {
+                "targetText": "Me la compri?",
+                "phoneticTranscription": "meh lah KOHM-pree",
+                "english": "Will you buy it for me?",
+                "notes": "Combined pronouns in question"
+            },
+            {
+                "targetText": "Ce li portano",
+                "phoneticTranscription": "cheh lee POR-tah-noh",
+                "english": "They bring them to us",
+                "notes": "Ci + li = ce li"
+            },
+            {
+                "targetText": "Gliele mando",
+                "phoneticTranscription": "LYEH-leh MAHN-doh",
+                "english": "I send them to him/her",
+                "notes": "Gli/Le + le = gliele"
+            }
+        ],
+        "liarGameData": {
+            "question": "___ amico è simpatico",
+            "questionEnglish": "The friend (male) is nice",
+            "correctAnswer": "L'",
+            "liarAnswer": "La",
+            "explanation": "Use 'L'' (masculine, before vowel) because 'amico' is masculine. 'La' is feminine.",
+            "trapType": "gender_agreement"
+        }
+    },
+    {
+        "moduleId": "italian_b1_m4",
+        "theme": "Imperfect Subjunctive (Congiuntivo Imperfetto)",
+        "order": 4,
+        "lessons": [
+            {
+                "targetText": "Se avessi tempo",
+                "phoneticTranscription": "seh ah-VES-see TEM-poh",
+                "english": "If I had time",
+                "notes": "Imperfect subjunctive in conditional clauses"
+            },
+            {
+                "targetText": "Vorrei che tu venissi",
+                "phoneticTranscription": "vor-RAY keh too veh-NEES-see",
+                "english": "I would like you to come",
+                "notes": "Imperfect subjunctive after conditional"
+            },
+            {
+                "targetText": "Pensavo che fosse vero",
+                "phoneticTranscription": "pen-SAH-voh keh FOS-seh VEH-roh",
+                "english": "I thought it was true",
+                "notes": "Imperfect subjunctive in past context"
+            },
+            {
+                "targetText": "Magari fossi ricco",
+                "phoneticTranscription": "mah-GAH-ree FOS-see REEK-koh",
+                "english": "I wish I were rich",
+                "notes": "Imperfect subjunctive after magari"
+            },
+            {
+                "targetText": "Come se fosse facile",
+                "phoneticTranscription": "KOH-meh seh FOS-seh FAH-chee-leh",
+                "english": "As if it were easy",
+                "notes": "Imperfect subjunctive after 'come se'"
+            }
+        ],
+        "liarGameData": {
+            "question": "___ stazione è lontana",
+            "questionEnglish": "The station is far",
+            "correctAnswer": "La",
+            "liarAnswer": "Il",
+            "explanation": "Use 'La' (feminine) because 'stazione' is feminine. 'Il' is masculine.",
+            "trapType": "gender_agreement"
+        }
+    },
+    {
+        "moduleId": "italian_b1_m5",
+        "theme": "Passive Voice",
+        "order": 5,
+        "lessons": [
+            {
+                "targetText": "Il libro è letto",
+                "phoneticTranscription": "eel LEE-broh eh LET-toh",
+                "english": "The book is read",
+                "notes": "Passive voice with essere + past participle"
+            },
+            {
+                "targetText": "La casa fu costruita nel 1900",
+                "phoneticTranscription": "lah KA-sa foo kos-troo-EE-tah nel meel-leh-noh-veh-CHEN-toh",
+                "english": "The house was built in 1900",
+                "notes": "Passive voice in past (passato remoto)"
+            },
+            {
+                "targetText": "Si parla italiano",
+                "phoneticTranscription": "see PAR-lah ee-tah-LYAH-noh",
+                "english": "Italian is spoken",
+                "notes": "Passive si construction"
+            },
+            {
+                "targetText": "Si vendono libri",
+                "phoneticTranscription": "see VEN-doh-noh LEE-bree",
+                "english": "Books are sold",
+                "notes": "Passive si with plural noun"
+            },
+            {
+                "targetText": "Viene apprezzato da tutti",
+                "phoneticTranscription": "VYEH-neh ap-pret-TSAH-toh dah TOOT-tee",
+                "english": "It is appreciated by everyone",
+                "notes": "Passive with venire (process)"
+            }
+        ],
+        "liarGameData": {
+            "question": "___ problema è difficile",
+            "questionEnglish": "The problem is difficult",
+            "correctAnswer": "Il",
+            "liarAnswer": "La",
+            "explanation": "Use 'Il' (masculine) because 'problema' is masculine (despite -a ending). 'La' is feminine.",
+            "trapType": "gender_agreement"
+        }
+    }
+]

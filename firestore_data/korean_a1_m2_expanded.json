@@ -1,0 +1,676 @@
+{
+    "moduleId": "korean_a1_m2",
+    "theme": "Daily Life & Food Vocabulary",
+    "order": 2,
+    "targetWordCount": 100,
+    "lessons": [
+        {
+            "lessonNumber": 1,
+            "title": "Food Items",
+            "vocabularyItems": [
+                {
+                    "targetText": "밥",
+                    "romaji": "bap",
+                    "english": "rice/meal",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "김치",
+                    "romaji": "gimchi",
+                    "english": "kimchi",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "고기",
+                    "romaji": "gogi",
+                    "english": "meat",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "생선",
+                    "romaji": "saengseon",
+                    "english": "fish",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "야채",
+                    "romaji": "yachae",
+                    "english": "vegetables",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "과일",
+                    "romaji": "gwail",
+                    "english": "fruit",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "빵",
+                    "romaji": "ppang",
+                    "english": "bread",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "우유",
+                    "romaji": "uyu",
+                    "english": "milk",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "계란",
+                    "romaji": "gyeran",
+                    "english": "egg",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "국",
+                    "romaji": "guk",
+                    "english": "soup",
+                    "type": "noun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 2,
+            "title": "Drinks",
+            "vocabularyItems": [
+                {
+                    "targetText": "물",
+                    "romaji": "mul",
+                    "english": "water",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "차",
+                    "romaji": "cha",
+                    "english": "tea",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "커피",
+                    "romaji": "keopi",
+                    "english": "coffee",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "주스",
+                    "romaji": "juseu",
+                    "english": "juice",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "맥주",
+                    "romaji": "maekju",
+                    "english": "beer",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "소주",
+                    "romaji": "soju",
+                    "english": "soju",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "와인",
+                    "romaji": "wain",
+                    "english": "wine",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "우유",
+                    "romaji": "uyu",
+                    "english": "milk",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "콜라",
+                    "romaji": "kolla",
+                    "english": "cola",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "사이다",
+                    "romaji": "saida",
+                    "english": "sprite/cider",
+                    "type": "noun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 3,
+            "title": "Family Members",
+            "vocabularyItems": [
+                {
+                    "targetText": "가족",
+                    "romaji": "gajok",
+                    "english": "family",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "아버지",
+                    "romaji": "abeoji",
+                    "english": "father (formal)",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "어머니",
+                    "romaji": "eomeoni",
+                    "english": "mother (formal)",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "아빠",
+                    "romaji": "appa",
+                    "english": "dad",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "엄마",
+                    "romaji": "eomma",
+                    "english": "mom",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "형",
+                    "romaji": "hyeong",
+                    "english": "older brother (male speaker)",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "오빠",
+                    "romaji": "oppa",
+                    "english": "older brother (female speaker)",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "누나",
+                    "romaji": "nuna",
+                    "english": "older sister (male speaker)",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "언니",
+                    "romaji": "eonni",
+                    "english": "older sister (female speaker)",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "동생",
+                    "romaji": "dongsaeng",
+                    "english": "younger sibling",
+                    "type": "noun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 4,
+            "title": "Time Expressions",
+            "vocabularyItems": [
+                {
+                    "targetText": "오늘",
+                    "romaji": "oneul",
+                    "english": "today",
+                    "type": "time"
+                },
+                {
+                    "targetText": "어제",
+                    "romaji": "eoje",
+                    "english": "yesterday",
+                    "type": "time"
+                },
+                {
+                    "targetText": "내일",
+                    "romaji": "naeil",
+                    "english": "tomorrow",
+                    "type": "time"
+                },
+                {
+                    "targetText": "지금",
+                    "romaji": "jigeum",
+                    "english": "now",
+                    "type": "time"
+                },
+                {
+                    "targetText": "아침",
+                    "romaji": "achim",
+                    "english": "morning",
+                    "type": "time"
+                },
+                {
+                    "targetText": "점심",
+                    "romaji": "jeomsim",
+                    "english": "lunch/noon",
+                    "type": "time"
+                },
+                {
+                    "targetText": "저녁",
+                    "romaji": "jeonyeok",
+                    "english": "dinner/evening",
+                    "type": "time"
+                },
+                {
+                    "targetText": "밤",
+                    "romaji": "bam",
+                    "english": "night",
+                    "type": "time"
+                },
+                {
+                    "targetText": "시간",
+                    "romaji": "sigan",
+                    "english": "time/hour",
+                    "type": "time"
+                },
+                {
+                    "targetText": "분",
+                    "romaji": "bun",
+                    "english": "minute",
+                    "type": "time"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 5,
+            "title": "Days of Week",
+            "vocabularyItems": [
+                {
+                    "targetText": "월요일",
+                    "romaji": "woryoil",
+                    "english": "Monday",
+                    "type": "time"
+                },
+                {
+                    "targetText": "화요일",
+                    "romaji": "hwayoil",
+                    "english": "Tuesday",
+                    "type": "time"
+                },
+                {
+                    "targetText": "수요일",
+                    "romaji": "suyoil",
+                    "english": "Wednesday",
+                    "type": "time"
+                },
+                {
+                    "targetText": "목요일",
+                    "romaji": "mogyoil",
+                    "english": "Thursday",
+                    "type": "time"
+                },
+                {
+                    "targetText": "금요일",
+                    "romaji": "geumyoil",
+                    "english": "Friday",
+                    "type": "time"
+                },
+                {
+                    "targetText": "토요일",
+                    "romaji": "toyoil",
+                    "english": "Saturday",
+                    "type": "time"
+                },
+                {
+                    "targetText": "일요일",
+                    "romaji": "iryoil",
+                    "english": "Sunday",
+                    "type": "time"
+                },
+                {
+                    "targetText": "주말",
+                    "romaji": "jumal",
+                    "english": "weekend",
+                    "type": "time"
+                },
+                {
+                    "targetText": "평일",
+                    "romaji": "pyeongil",
+                    "english": "weekday",
+                    "type": "time"
+                },
+                {
+                    "targetText": "요일",
+                    "romaji": "yoil",
+                    "english": "day of week",
+                    "type": "time"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 6,
+            "title": "Places",
+            "vocabularyItems": [
+                {
+                    "targetText": "집",
+                    "romaji": "jip",
+                    "english": "house/home",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "학교",
+                    "romaji": "hakgyo",
+                    "english": "school",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "회사",
+                    "romaji": "hoesa",
+                    "english": "company",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "병원",
+                    "romaji": "byeongwon",
+                    "english": "hospital",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "은행",
+                    "romaji": "eunhaeng",
+                    "english": "bank",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "식당",
+                    "romaji": "sikdang",
+                    "english": "restaurant",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "카페",
+                    "romaji": "kape",
+                    "english": "cafe",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "공원",
+                    "romaji": "gongwon",
+                    "english": "park",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "역",
+                    "romaji": "yeok",
+                    "english": "station",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "공항",
+                    "romaji": "gonghang",
+                    "english": "airport",
+                    "type": "noun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 7,
+            "title": "Adjectives 1",
+            "vocabularyItems": [
+                {
+                    "targetText": "크다",
+                    "romaji": "keuda",
+                    "english": "to be big",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "작다",
+                    "romaji": "jakda",
+                    "english": "to be small",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "좋다",
+                    "romaji": "jota",
+                    "english": "to be good",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "나쁘다",
+                    "romaji": "nappeuda",
+                    "english": "to be bad",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "많다",
+                    "romaji": "manta",
+                    "english": "to be many/much",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "적다",
+                    "romaji": "jeokda",
+                    "english": "to be few/little",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "비싸다",
+                    "romaji": "bissada",
+                    "english": "to be expensive",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "싸다",
+                    "romaji": "ssada",
+                    "english": "to be cheap",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "맛있다",
+                    "romaji": "masitta",
+                    "english": "to be delicious",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "맛없다",
+                    "romaji": "madeopsda",
+                    "english": "to be not delicious",
+                    "type": "adjective"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 8,
+            "title": "Adjectives 2",
+            "vocabularyItems": [
+                {
+                    "targetText": "예쁘다",
+                    "romaji": "yeppeuda",
+                    "english": "to be pretty",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "멋있다",
+                    "romaji": "meositta",
+                    "english": "to be cool/handsome",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "재미있다",
+                    "romaji": "jaemiitda",
+                    "english": "to be fun/interesting",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "재미없다",
+                    "romaji": "jaemieopsda",
+                    "english": "to be boring",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "쉽다",
+                    "romaji": "swipda",
+                    "english": "to be easy",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "어렵다",
+                    "romaji": "eoryeopda",
+                    "english": "to be difficult",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "덥다",
+                    "romaji": "deopda",
+                    "english": "to be hot (weather)",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "춥다",
+                    "romaji": "chupda",
+                    "english": "to be cold (weather)",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "따뜻하다",
+                    "romaji": "ttatteuthada",
+                    "english": "to be warm",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "시원하다",
+                    "romaji": "siwonhada",
+                    "english": "to be cool/refreshing",
+                    "type": "adjective"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 9,
+            "title": "Colors",
+            "vocabularyItems": [
+                {
+                    "targetText": "색",
+                    "romaji": "saek",
+                    "english": "color",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "빨간색",
+                    "romaji": "ppalgansaek",
+                    "english": "red",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "파란색",
+                    "romaji": "paransaek",
+                    "english": "blue",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "노란색",
+                    "romaji": "noransaek",
+                    "english": "yellow",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "초록색",
+                    "romaji": "choroksaek",
+                    "english": "green",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "하얀색",
+                    "romaji": "hayansaek",
+                    "english": "white",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "검은색",
+                    "romaji": "geomeunsaek",
+                    "english": "black",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "분홍색",
+                    "romaji": "bunhongsaek",
+                    "english": "pink",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "주황색",
+                    "romaji": "juhwangsaek",
+                    "english": "orange",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "보라색",
+                    "romaji": "borasaek",
+                    "english": "purple",
+                    "type": "noun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 10,
+            "title": "Common Phrases",
+            "vocabularyItems": [
+                {
+                    "targetText": "잘 먹겠습니다",
+                    "romaji": "jal meokgesseumnida",
+                    "english": "I will eat well (before meal)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "잘 먹었습니다",
+                    "romaji": "jal meogeosseumnida",
+                    "english": "I ate well (after meal)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "수고하세요",
+                    "romaji": "sugohaseyo",
+                    "english": "good work/keep it up",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "화이팅",
+                    "romaji": "hwaiting",
+                    "english": "fighting/good luck",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "축하합니다",
+                    "romaji": "chukahamnida",
+                    "english": "congratulations",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "생일 축하합니다",
+                    "romaji": "saengil chukahamnida",
+                    "english": "happy birthday",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "사랑해요",
+                    "romaji": "saranghaeyo",
+                    "english": "I love you",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "보고 싶어요",
+                    "romaji": "bogo sipeoyo",
+                    "english": "I miss you",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "알겠습니다",
+                    "romaji": "algesseumnida",
+                    "english": "I understand",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "모르겠습니다",
+                    "romaji": "moreugesseumnida",
+                    "english": "I don't know/understand",
+                    "type": "phrase"
+                }
+            ]
+        }
+    ],
+    "liarGameData": {
+        "question": "형 vs 오빠",
+        "questionEnglish": "Which does a female use for older brother?",
+        "correctAnswer": "오빠 (oppa - female speaker)",
+        "liarAnswer": "형 (hyeong - male speaker)",
+        "explanation": "Korean has different words based on speaker's gender. Females say 오빠, males say 형 for older brother.",
+        "trapType": "gender_specific_vocab"
+    }
+}

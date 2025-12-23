@@ -1,0 +1,227 @@
+[
+    {
+        "moduleId": "italian_a2_m1",
+        "theme": "Passato Prossimo",
+        "order": 1,
+        "lessons": [
+            {
+                "targetText": "Ho mangiato",
+                "phoneticTranscription": "oh man-JAH-toh",
+                "english": "I have eaten/ate",
+                "notes": "Past tense with avere"
+            },
+            {
+                "targetText": "Sei andato",
+                "phoneticTranscription": "say an-DAH-toh",
+                "english": "You have gone/went (masculine)",
+                "notes": "Past tense with essere (motion verb)"
+            },
+            {
+                "targetText": "Ha parlato",
+                "phoneticTranscription": "ah par-LAH-toh",
+                "english": "He/She has spoken/spoke",
+                "notes": "Past tense, regular -are verb"
+            },
+            {
+                "targetText": "Siamo arrivati",
+                "phoneticTranscription": "SYAH-moh ar-ree-VAH-tee",
+                "english": "We have arrived/arrived",
+                "notes": "Past tense with essere, plural agreement"
+            },
+            {
+                "targetText": "Hanno fatto",
+                "phoneticTranscription": "AHN-noh FAHT-toh",
+                "english": "They have done/did",
+                "notes": "Past tense, irregular verb fare"
+            }
+        ],
+        "liarGameData": {
+            "question": "___ studenti sono bravi",
+            "questionEnglish": "The students are good",
+            "correctAnswer": "Gli",
+            "liarAnswer": "Le",
+            "explanation": "Use 'Gli' (masculine plural) because 'studenti' is masculine. 'Le' is feminine plural.",
+            "trapType": "gender_agreement"
+        }
+    },
+    {
+        "moduleId": "italian_a2_m2",
+        "theme": "Future Tense (Futuro Semplice)",
+        "order": 2,
+        "lessons": [
+            {
+                "targetText": "Parlerò",
+                "phoneticTranscription": "par-leh-ROH",
+                "english": "I will speak",
+                "notes": "Future tense, regular -are verb"
+            },
+            {
+                "targetText": "Mangerai",
+                "phoneticTranscription": "man-jeh-RAI",
+                "english": "You will eat",
+                "notes": "Future tense, -are verb (note: g + e)"
+            },
+            {
+                "targetText": "Verrà",
+                "phoneticTranscription": "ver-RAH",
+                "english": "He/She will come",
+                "notes": "Irregular future (venire)"
+            },
+            {
+                "targetText": "Andremo",
+                "phoneticTranscription": "an-DREH-moh",
+                "english": "We will go",
+                "notes": "Irregular future (andare)"
+            },
+            {
+                "targetText": "Faranno",
+                "phoneticTranscription": "fah-RAHN-noh",
+                "english": "They will do/make",
+                "notes": "Irregular future (fare)"
+            }
+        ],
+        "liarGameData": {
+            "question": "___ macchine sono nuove",
+            "questionEnglish": "The cars are new",
+            "correctAnswer": "Le",
+            "liarAnswer": "I",
+            "explanation": "Use 'Le' (feminine plural) because 'macchine' is feminine. 'I' is masculine plural.",
+            "trapType": "gender_agreement"
+        }
+    },
+    {
+        "moduleId": "italian_a2_m3",
+        "theme": "Reflexive Verbs",
+        "order": 3,
+        "lessons": [
+            {
+                "targetText": "Mi alzo",
+                "phoneticTranscription": "mee AHL-tsoh",
+                "english": "I get up",
+                "notes": "Reflexive verb alzarsi"
+            },
+            {
+                "targetText": "Ti lavi",
+                "phoneticTranscription": "tee LAH-vee",
+                "english": "You wash yourself",
+                "notes": "Reflexive verb lavarsi"
+            },
+            {
+                "targetText": "Si veste",
+                "phoneticTranscription": "see VES-teh",
+                "english": "He/She gets dressed",
+                "notes": "Reflexive verb vestirsi"
+            },
+            {
+                "targetText": "Ci divertiamo",
+                "phoneticTranscription": "chee dee-ver-TYAH-moh",
+                "english": "We have fun",
+                "notes": "Reflexive verb divertirsi"
+            },
+            {
+                "targetText": "Si svegliano",
+                "phoneticTranscription": "see ZVEH-lyah-noh",
+                "english": "They wake up",
+                "notes": "Reflexive verb svegliarsi"
+            }
+        ],
+        "liarGameData": {
+            "question": "___ zaino è pesante",
+            "questionEnglish": "The backpack is heavy",
+            "correctAnswer": "Lo",
+            "liarAnswer": "La",
+            "explanation": "Use 'Lo' (masculine) before 'z'. 'La' is feminine.",
+            "trapType": "gender_agreement"
+        }
+    },
+    {
+        "moduleId": "italian_a2_m4",
+        "theme": "Imperfect Tense (Imperfetto)",
+        "order": 4,
+        "lessons": [
+            {
+                "targetText": "Parlavo",
+                "phoneticTranscription": "par-LAH-voh",
+                "english": "I was speaking/used to speak",
+                "notes": "Imperfect tense, -are verb"
+            },
+            {
+                "targetText": "Leggevi",
+                "phoneticTranscription": "led-JEH-vee",
+                "english": "You were reading/used to read",
+                "notes": "Imperfect tense, -ere verb"
+            },
+            {
+                "targetText": "Era",
+                "phoneticTranscription": "EH-rah",
+                "english": "He/She was/used to be",
+                "notes": "Irregular imperfect (essere)"
+            },
+            {
+                "targetText": "Avevamo",
+                "phoneticTranscription": "ah-veh-VAH-moh",
+                "english": "We had/used to have",
+                "notes": "Imperfect tense (avere)"
+            },
+            {
+                "targetText": "Facevano",
+                "phoneticTranscription": "fah-CHEH-vah-noh",
+                "english": "They were doing/used to do",
+                "notes": "Irregular imperfect (fare)"
+            }
+        ],
+        "liarGameData": {
+            "question": "___ amica è simpatica",
+            "questionEnglish": "The friend (female) is nice",
+            "correctAnswer": "L'",
+            "liarAnswer": "Il",
+            "explanation": "Use 'L'' (feminine, before vowel) because 'amica' is feminine. 'Il' is masculine.",
+            "trapType": "gender_agreement"
+        }
+    },
+    {
+        "moduleId": "italian_a2_m5",
+        "theme": "Direct Object Pronouns",
+        "order": 5,
+        "lessons": [
+            {
+                "targetText": "Lo vedo",
+                "phoneticTranscription": "loh VEH-doh",
+                "english": "I see it/him",
+                "notes": "Direct object pronoun (masculine)"
+            },
+            {
+                "targetText": "La compro",
+                "phoneticTranscription": "lah KOHM-proh",
+                "english": "I buy it/her",
+                "notes": "Direct object pronoun (feminine)"
+            },
+            {
+                "targetText": "Li mangio",
+                "phoneticTranscription": "lee MAHN-joh",
+                "english": "I eat them (masculine)",
+                "notes": "Direct object pronoun (plural masculine)"
+            },
+            {
+                "targetText": "Le prendo",
+                "phoneticTranscription": "leh PREN-doh",
+                "english": "I take them (feminine)",
+                "notes": "Direct object pronoun (plural feminine)"
+            },
+            {
+                "targetText": "Ti chiamo",
+                "phoneticTranscription": "tee KYAH-moh",
+                "english": "I call you",
+                "notes": "Direct object pronoun (you, informal)"
+            }
+        ],
+        "liarGameData": {
+            "question": "___ professore è bravo",
+            "questionEnglish": "The professor is good",
+            "correctAnswer": "Il",
+            "liarAnswer": "La",
+            "explanation": "Use 'Il' (masculine) because 'professore' is masculine. 'La' is feminine.",
+            "trapType": "gender_agreement"
+        }
+    }
+]

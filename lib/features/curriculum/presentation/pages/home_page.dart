@@ -15,7 +15,7 @@ class HomePage extends ConsumerWidget {
       appBar: AppBar(
         elevation: 2,
         backgroundColor: Colors.white,
-        toolbarHeight: 70,
+        toolbarHeight: 80,
         title: const ChirPollyLogo(fontSize: 28),
         actions: [
           TextButton(

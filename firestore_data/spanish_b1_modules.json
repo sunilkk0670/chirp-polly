@@ -1,0 +1,227 @@
+[
+    {
+        "moduleId": "spanish_b1_m1",
+        "theme": "Present Subjunctive",
+        "order": 1,
+        "lessons": [
+            {
+                "targetText": "Espero que vengas",
+                "phoneticTranscription": "es-PEH-roh keh VEN-gas",
+                "english": "I hope that you come",
+                "notes": "Subjunctive after expressions of hope"
+            },
+            {
+                "targetText": "Dudo que sea verdad",
+                "phoneticTranscription": "DOO-doh keh SEH-ah ver-DAHD",
+                "english": "I doubt that it's true",
+                "notes": "Subjunctive after expressions of doubt"
+            },
+            {
+                "targetText": "Es importante que estudies",
+                "phoneticTranscription": "es eem-por-TAHN-teh keh es-TOO-dyes",
+                "english": "It's important that you study",
+                "notes": "Subjunctive after impersonal expressions"
+            },
+            {
+                "targetText": "Quiero que hables",
+                "phoneticTranscription": "KYEH-roh keh AH-bles",
+                "english": "I want you to speak",
+                "notes": "Subjunctive after verbs of desire"
+            },
+            {
+                "targetText": "No creo que llueva",
+                "phoneticTranscription": "noh KREH-oh keh YWEH-vah",
+                "english": "I don't think it will rain",
+                "notes": "Subjunctive after negative belief"
+            }
+        ],
+        "liarGameData": {
+            "question": "El agua ___ fría (ahora)",
+            "questionEnglish": "The water is cold (now)",
+            "correctAnswer": "está",
+            "liarAnswer": "es",
+            "explanation": "Use 'está' for current temperature (temporary condition). 'Es' would mean it's always cold.",
+            "trapType": "ser_estar_confusion"
+        }
+    },
+    {
+        "moduleId": "spanish_b1_m2",
+        "theme": "Por vs Para",
+        "order": 2,
+        "lessons": [
+            {
+                "targetText": "Trabajo por la mañana",
+                "phoneticTranscription": "trah-BAH-hoh por lah mah-NYAH-nah",
+                "english": "I work in the morning",
+                "notes": "Por for general time periods"
+            },
+            {
+                "targetText": "Estudio para el examen",
+                "phoneticTranscription": "es-TOO-dyoh PAH-rah el ek-SAH-men",
+                "english": "I study for the exam",
+                "notes": "Para for purpose/goal"
+            },
+            {
+                "targetText": "Viajo por España",
+                "phoneticTranscription": "VYAH-hoh por es-PAH-nyah",
+                "english": "I travel through Spain",
+                "notes": "Por for movement through a place"
+            },
+            {
+                "targetText": "Este regalo es para ti",
+                "phoneticTranscription": "ES-teh reh-GAH-loh es PAH-rah tee",
+                "english": "This gift is for you",
+                "notes": "Para for recipient"
+            },
+            {
+                "targetText": "Pagué 20 euros por el libro",
+                "phoneticTranscription": "pah-GEH VAYN-teh EW-rohs por el LEE-broh",
+                "english": "I paid 20 euros for the book",
+                "notes": "Por for exchange/price"
+            }
+        ],
+        "liarGameData": {
+            "question": "Mi hermano ___ enfermo (tiene gripe)",
+            "questionEnglish": "My brother is sick (has the flu)",
+            "correctAnswer": "está",
+            "liarAnswer": "es",
+            "explanation": "Use 'está' for temporary illness. 'Es' would mean he's chronically sick.",
+            "trapType": "ser_estar_confusion"
+        }
+    },
+    {
+        "moduleId": "spanish_b1_m3",
+        "theme": "Conditional Tense",
+        "order": 3,
+        "lessons": [
+            {
+                "targetText": "Yo hablaría",
+                "phoneticTranscription": "yoh ah-blah-REE-ah",
+                "english": "I would speak",
+                "notes": "Conditional tense, regular verb"
+            },
+            {
+                "targetText": "Tú comerías",
+                "phoneticTranscription": "too koh-meh-REE-as",
+                "english": "You would eat",
+                "notes": "Conditional tense, -er verb"
+            },
+            {
+                "targetText": "Él tendría",
+                "phoneticTranscription": "ehl ten-DREE-ah",
+                "english": "He would have",
+                "notes": "Irregular conditional (tener)"
+            },
+            {
+                "targetText": "Nosotros haríamos",
+                "phoneticTranscription": "noh-SOH-trohs ah-REE-ah-mohs",
+                "english": "We would do/make",
+                "notes": "Irregular conditional (hacer)"
+            },
+            {
+                "targetText": "Ellos vendrían",
+                "phoneticTranscription": "EH-yohs ven-DREE-an",
+                "english": "They would come",
+                "notes": "Irregular conditional (venir)"
+            }
+        ],
+        "liarGameData": {
+            "question": "La sopa ___ deliciosa (siempre)",
+            "questionEnglish": "The soup is delicious (always)",
+            "correctAnswer": "es",
+            "liarAnswer": "está",
+            "explanation": "Use 'es' for inherent quality. 'Está' would mean it tastes good right now but not usually.",
+            "trapType": "ser_estar_confusion"
+        }
+    },
+    {
+        "moduleId": "spanish_b1_m4",
+        "theme": "Imperfect Subjunctive",
+        "order": 4,
+        "lessons": [
+            {
+                "targetText": "Si tuviera dinero",
+                "phoneticTranscription": "see too-VYEH-rah dee-NEH-roh",
+                "english": "If I had money",
+                "notes": "Imperfect subjunctive in conditional clauses"
+            },
+            {
+                "targetText": "Ojalá fuera rico",
+                "phoneticTranscription": "oh-hah-LAH FWEH-rah REE-koh",
+                "english": "I wish I were rich",
+                "notes": "Imperfect subjunctive after ojalá"
+            },
+            {
+                "targetText": "Dudaba que vinieras",
+                "phoneticTranscription": "doo-DAH-bah keh vee-NYEH-ras",
+                "english": "I doubted that you would come",
+                "notes": "Imperfect subjunctive in past context"
+            },
+            {
+                "targetText": "Quería que estudiaras",
+                "phoneticTranscription": "keh-REE-ah keh es-too-DYAH-ras",
+                "english": "I wanted you to study",
+                "notes": "Imperfect subjunctive after past desire"
+            },
+            {
+                "targetText": "Como si fuera fácil",
+                "phoneticTranscription": "KOH-moh see FWEH-rah FAH-seel",
+                "english": "As if it were easy",
+                "notes": "Imperfect subjunctive after 'como si'"
+            }
+        ],
+        "liarGameData": {
+            "question": "Nosotros ___ contentos con el resultado",
+            "questionEnglish": "We are happy with the result",
+            "correctAnswer": "estamos",
+            "liarAnswer": "somos",
+            "explanation": "Use 'estamos' (estar) for emotional states. 'Somos' (ser) is for identity.",
+            "trapType": "ser_estar_confusion"
+        }
+    },
+    {
+        "moduleId": "spanish_b1_m5",
+        "theme": "Passive Voice",
+        "order": 5,
+        "lessons": [
+            {
+                "targetText": "El libro fue escrito",
+                "phoneticTranscription": "el LEE-broh fweh es-KREE-toh",
+                "english": "The book was written",
+                "notes": "Passive voice with ser + past participle"
+            },
+            {
+                "targetText": "La casa está construida",
+                "phoneticTranscription": "lah KAH-sah es-TAH kons-troo-EE-dah",
+                "english": "The house is built (completed state)",
+                "notes": "Estar + past participle for result"
+            },
+            {
+                "targetText": "Se habla español",
+                "phoneticTranscription": "seh AH-blah es-pah-NYOHL",
+                "english": "Spanish is spoken",
+                "notes": "Passive se construction"
+            },
+            {
+                "targetText": "Se venden coches",
+                "phoneticTranscription": "seh VEN-den KOH-ches",
+                "english": "Cars are sold",
+                "notes": "Passive se with plural noun"
+            },
+            {
+                "targetText": "Fue descubierto en 1492",
+                "phoneticTranscription": "fweh des-koo-BYEHR-toh en mil kwah-troh-SYEN-tohs noh-VEN-tah ee dohs",
+                "english": "It was discovered in 1492",
+                "notes": "Passive voice for historical events"
+            }
+        ],
+        "liarGameData": {
+            "question": "Las ventanas ___ abiertas (alguien las abrió)",
+            "questionEnglish": "The windows are open (someone opened them)",
+            "correctAnswer": "están",
+            "liarAnswer": "son",
+            "explanation": "Use 'están' (estar) for resulting state. 'Son' (ser) would be for identity/characteristics.",
+            "trapType": "ser_estar_confusion"
+        }
+    }
+]

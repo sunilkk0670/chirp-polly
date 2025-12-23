@@ -1,0 +1,227 @@
+[
+    {
+        "moduleId": "german_a1_m1",
+        "theme": "Greetings & Introductions",
+        "order": 1,
+        "lessons": [
+            {
+                "targetText": "Hallo",
+                "phoneticTranscription": "HAH-loh",
+                "english": "Hello",
+                "notes": "Informal greeting"
+            },
+            {
+                "targetText": "Guten Morgen",
+                "phoneticTranscription": "GOO-ten MOR-gen",
+                "english": "Good morning",
+                "notes": "Used until about 10-11 AM"
+            },
+            {
+                "targetText": "Guten Tag",
+                "phoneticTranscription": "GOO-ten TAHK",
+                "english": "Good day",
+                "notes": "Standard daytime greeting"
+            },
+            {
+                "targetText": "Guten Abend",
+                "phoneticTranscription": "GOO-ten AH-bent",
+                "english": "Good evening",
+                "notes": "Used from late afternoon onwards"
+            },
+            {
+                "targetText": "Auf Wiedersehen",
+                "phoneticTranscription": "owf VEE-der-zay-en",
+                "english": "Goodbye",
+                "notes": "Formal farewell"
+            }
+        ],
+        "liarGameData": {
+            "question": "Ich sehe ___ Mann",
+            "questionEnglish": "I see the man",
+            "correctAnswer": "den",
+            "liarAnswer": "der",
+            "explanation": "Use 'den' (accusative) for the direct object. 'Der' is nominative (subject).",
+            "trapType": "case_ending"
+        }
+    },
+    {
+        "moduleId": "german_a1_m2",
+        "theme": "Articles & Nouns",
+        "order": 2,
+        "lessons": [
+            {
+                "targetText": "der Mann",
+                "phoneticTranscription": "dehr MAHN",
+                "english": "the man",
+                "notes": "Masculine article + noun"
+            },
+            {
+                "targetText": "die Frau",
+                "phoneticTranscription": "dee FROW",
+                "english": "the woman",
+                "notes": "Feminine article + noun"
+            },
+            {
+                "targetText": "das Kind",
+                "phoneticTranscription": "dahs KINT",
+                "english": "the child",
+                "notes": "Neuter article + noun"
+            },
+            {
+                "targetText": "ein Buch",
+                "phoneticTranscription": "ayn BOOKH",
+                "english": "a book",
+                "notes": "Indefinite article (neuter)"
+            },
+            {
+                "targetText": "eine Katze",
+                "phoneticTranscription": "AY-neh KAT-seh",
+                "english": "a cat",
+                "notes": "Indefinite article (feminine)"
+            }
+        ],
+        "liarGameData": {
+            "question": "Ich gebe ___ Frau das Buch",
+            "questionEnglish": "I give the woman the book",
+            "correctAnswer": "der",
+            "liarAnswer": "die",
+            "explanation": "Use 'der' (dative feminine) for the indirect object. 'Die' is nominative/accusative.",
+            "trapType": "case_ending"
+        }
+    },
+    {
+        "moduleId": "german_a1_m3",
+        "theme": "Numbers 1-10",
+        "order": 3,
+        "lessons": [
+            {
+                "targetText": "eins",
+                "phoneticTranscription": "ayns",
+                "english": "one",
+                "notes": "Changes to 'ein' before nouns"
+            },
+            {
+                "targetText": "zwei",
+                "phoneticTranscription": "tsvay",
+                "english": "two",
+                "notes": "Sometimes 'zwo' to avoid confusion with 'drei'"
+            },
+            {
+                "targetText": "drei",
+                "phoneticTranscription": "dry",
+                "english": "three",
+                "notes": "Rhymes with 'zwei'"
+            },
+            {
+                "targetText": "vier",
+                "phoneticTranscription": "feer",
+                "english": "four",
+                "notes": "Pronounced like 'fear'"
+            },
+            {
+                "targetText": "fünf",
+                "phoneticTranscription": "fuenf",
+                "english": "five",
+                "notes": "Umlaut changes the sound"
+            }
+        ],
+        "liarGameData": {
+            "question": "Das ist ___ Hund",
+            "questionEnglish": "That is the dog",
+            "correctAnswer": "der",
+            "liarAnswer": "den",
+            "explanation": "Use 'der' (nominative) for the subject. 'Den' is accusative (direct object).",
+            "trapType": "case_ending"
+        }
+    },
+    {
+        "moduleId": "german_a1_m4",
+        "theme": "Common Verbs",
+        "order": 4,
+        "lessons": [
+            {
+                "targetText": "sein",
+                "phoneticTranscription": "zayn",
+                "english": "to be",
+                "notes": "Highly irregular: ich bin, du bist, er ist"
+            },
+            {
+                "targetText": "haben",
+                "phoneticTranscription": "HAH-ben",
+                "english": "to have",
+                "notes": "Irregular: ich habe, du hast, er hat"
+            },
+            {
+                "targetText": "machen",
+                "phoneticTranscription": "MAHKH-en",
+                "english": "to do/make",
+                "notes": "Regular verb"
+            },
+            {
+                "targetText": "gehen",
+                "phoneticTranscription": "GAY-en",
+                "english": "to go",
+                "notes": "Regular verb"
+            },
+            {
+                "targetText": "kommen",
+                "phoneticTranscription": "KOM-men",
+                "english": "to come",
+                "notes": "Regular verb"
+            }
+        ],
+        "liarGameData": {
+            "question": "Ich helfe ___ Kind",
+            "questionEnglish": "I help the child",
+            "correctAnswer": "dem",
+            "liarAnswer": "das",
+            "explanation": "Use 'dem' (dative neuter) after 'helfen'. 'Das' is nominative/accusative.",
+            "trapType": "case_ending"
+        }
+    },
+    {
+        "moduleId": "german_a1_m5",
+        "theme": "Basic Questions",
+        "order": 5,
+        "lessons": [
+            {
+                "targetText": "Was?",
+                "phoneticTranscription": "vahs",
+                "english": "What?",
+                "notes": "Question word"
+            },
+            {
+                "targetText": "Wer?",
+                "phoneticTranscription": "vehr",
+                "english": "Who?",
+                "notes": "Nominative case"
+            },
+            {
+                "targetText": "Wo?",
+                "phoneticTranscription": "voh",
+                "english": "Where?",
+                "notes": "Location (static)"
+            },
+            {
+                "targetText": "Wann?",
+                "phoneticTranscription": "vahn",
+                "english": "When?",
+                "notes": "Time question"
+            },
+            {
+                "targetText": "Warum?",
+                "phoneticTranscription": "vah-ROOM",
+                "english": "Why?",
+                "notes": "Reason question"
+            }
+        ],
+        "liarGameData": {
+            "question": "Ich sehe ___ Katze",
+            "questionEnglish": "I see the cat",
+            "correctAnswer": "die",
+            "liarAnswer": "der",
+            "explanation": "Use 'die' (accusative feminine = nominative) for the direct object. 'Der' is dative or genitive feminine.",
+            "trapType": "case_ending"
+        }
+    }
+]

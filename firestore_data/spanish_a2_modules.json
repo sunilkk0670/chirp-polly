@@ -1,0 +1,227 @@
+[
+    {
+        "moduleId": "spanish_a2_m1",
+        "theme": "Preterite Tense",
+        "order": 1,
+        "lessons": [
+            {
+                "targetText": "Yo hablé",
+                "phoneticTranscription": "yoh ah-BLEH",
+                "english": "I spoke",
+                "notes": "Preterite tense, completed action"
+            },
+            {
+                "targetText": "Tú comiste",
+                "phoneticTranscription": "too koh-MEES-teh",
+                "english": "You ate",
+                "notes": "Preterite tense, -er verb"
+            },
+            {
+                "targetText": "Él vivió",
+                "phoneticTranscription": "ehl vee-VYOH",
+                "english": "He lived",
+                "notes": "Preterite tense, -ir verb"
+            },
+            {
+                "targetText": "Nosotros fuimos",
+                "phoneticTranscription": "noh-SOH-trohs FWEE-mohs",
+                "english": "We went/were",
+                "notes": "Irregular preterite (ir/ser)"
+            },
+            {
+                "targetText": "Ellos hicieron",
+                "phoneticTranscription": "EH-yohs ee-SYEH-ron",
+                "english": "They did/made",
+                "notes": "Irregular preterite (hacer)"
+            }
+        ],
+        "liarGameData": {
+            "question": "El café ___ caliente (ahora)",
+            "questionEnglish": "The coffee is hot (now)",
+            "correctAnswer": "está",
+            "liarAnswer": "es",
+            "explanation": "Use 'está' for temporary temperature. 'Es' would imply it's always hot.",
+            "trapType": "ser_estar_confusion"
+        }
+    },
+    {
+        "moduleId": "spanish_a2_m2",
+        "theme": "Future Tense",
+        "order": 2,
+        "lessons": [
+            {
+                "targetText": "Yo hablaré",
+                "phoneticTranscription": "yoh ah-blah-REH",
+                "english": "I will speak",
+                "notes": "Future tense, regular -ar verb"
+            },
+            {
+                "targetText": "Tú comerás",
+                "phoneticTranscription": "too koh-meh-RAHS",
+                "english": "You will eat",
+                "notes": "Future tense, regular -er verb"
+            },
+            {
+                "targetText": "Él vendrá",
+                "phoneticTranscription": "ehl ven-DRAH",
+                "english": "He will come",
+                "notes": "Irregular future (venir)"
+            },
+            {
+                "targetText": "Nosotros tendremos",
+                "phoneticTranscription": "noh-SOH-trohs ten-DREH-mohs",
+                "english": "We will have",
+                "notes": "Irregular future (tener)"
+            },
+            {
+                "targetText": "Ellos harán",
+                "phoneticTranscription": "EH-yohs ah-RAHN",
+                "english": "They will do/make",
+                "notes": "Irregular future (hacer)"
+            }
+        ],
+        "liarGameData": {
+            "question": "Mi hermana ___ médica",
+            "questionEnglish": "My sister is a doctor",
+            "correctAnswer": "es",
+            "liarAnswer": "está",
+            "explanation": "Use 'es' for profession/identity. 'Está' is for temporary states or locations.",
+            "trapType": "ser_estar_confusion"
+        }
+    },
+    {
+        "moduleId": "spanish_a2_m3",
+        "theme": "Reflexive Verbs",
+        "order": 3,
+        "lessons": [
+            {
+                "targetText": "Me levanto",
+                "phoneticTranscription": "meh leh-VAHN-toh",
+                "english": "I get up",
+                "notes": "Reflexive verb (levantarse)"
+            },
+            {
+                "targetText": "Te duchas",
+                "phoneticTranscription": "teh DOO-chas",
+                "english": "You shower",
+                "notes": "Reflexive verb (ducharse)"
+            },
+            {
+                "targetText": "Se viste",
+                "phoneticTranscription": "seh VEES-teh",
+                "english": "He/She gets dressed",
+                "notes": "Reflexive verb (vestirse)"
+            },
+            {
+                "targetText": "Nos acostamos",
+                "phoneticTranscription": "nohs ah-kohs-TAH-mohs",
+                "english": "We go to bed",
+                "notes": "Reflexive verb (acostarse)"
+            },
+            {
+                "targetText": "Se divierten",
+                "phoneticTranscription": "seh dee-VYEHR-ten",
+                "english": "They have fun",
+                "notes": "Reflexive verb (divertirse)"
+            }
+        ],
+        "liarGameData": {
+            "question": "La película ___ aburrida",
+            "questionEnglish": "The movie is boring",
+            "correctAnswer": "es",
+            "liarAnswer": "está",
+            "explanation": "Use 'es' for inherent characteristics. 'Está' would mean it's boring right now but not usually.",
+            "trapType": "ser_estar_confusion"
+        }
+    },
+    {
+        "moduleId": "spanish_a2_m4",
+        "theme": "Imperfect Tense",
+        "order": 4,
+        "lessons": [
+            {
+                "targetText": "Yo hablaba",
+                "phoneticTranscription": "yoh ah-BLAH-bah",
+                "english": "I used to speak/was speaking",
+                "notes": "Imperfect tense, habitual or ongoing past"
+            },
+            {
+                "targetText": "Tú comías",
+                "phoneticTranscription": "too koh-MEE-as",
+                "english": "You used to eat/were eating",
+                "notes": "Imperfect tense, -er verb"
+            },
+            {
+                "targetText": "Él era",
+                "phoneticTranscription": "ehl EH-rah",
+                "english": "He was/used to be",
+                "notes": "Irregular imperfect (ser)"
+            },
+            {
+                "targetText": "Nosotros íbamos",
+                "phoneticTranscription": "noh-SOH-trohs EE-bah-mohs",
+                "english": "We used to go/were going",
+                "notes": "Irregular imperfect (ir)"
+            },
+            {
+                "targetText": "Ellos veían",
+                "phoneticTranscription": "EH-yohs veh-EE-an",
+                "english": "They used to see/were seeing",
+                "notes": "Irregular imperfect (ver)"
+            }
+        ],
+        "liarGameData": {
+            "question": "Nosotros ___ en el parque",
+            "questionEnglish": "We are in the park",
+            "correctAnswer": "estamos",
+            "liarAnswer": "somos",
+            "explanation": "Use 'estamos' (estar) for location. 'Somos' (ser) is for identity/characteristics.",
+            "trapType": "ser_estar_confusion"
+        }
+    },
+    {
+        "moduleId": "spanish_a2_m5",
+        "theme": "Direct Object Pronouns",
+        "order": 5,
+        "lessons": [
+            {
+                "targetText": "Lo veo",
+                "phoneticTranscription": "loh VEH-oh",
+                "english": "I see it/him",
+                "notes": "Direct object pronoun (masculine)"
+            },
+            {
+                "targetText": "La compro",
+                "phoneticTranscription": "lah KOHM-proh",
+                "english": "I buy it/her",
+                "notes": "Direct object pronoun (feminine)"
+            },
+            {
+                "targetText": "Los tengo",
+                "phoneticTranscription": "lohs TEN-goh",
+                "english": "I have them (masculine)",
+                "notes": "Direct object pronoun (plural masculine)"
+            },
+            {
+                "targetText": "Las quiero",
+                "phoneticTranscription": "lahs KYEH-roh",
+                "english": "I want them (feminine)",
+                "notes": "Direct object pronoun (plural feminine)"
+            },
+            {
+                "targetText": "Te llamo",
+                "phoneticTranscription": "teh YAH-moh",
+                "english": "I call you",
+                "notes": "Direct object pronoun (you, informal)"
+            }
+        ],
+        "liarGameData": {
+            "question": "Tú ___ feliz hoy",
+            "questionEnglish": "You are happy today",
+            "correctAnswer": "estás",
+            "liarAnswer": "eres",
+            "explanation": "Use 'estás' (estar) for temporary emotions. 'Eres' (ser) would mean you're a happy person by nature.",
+            "trapType": "ser_estar_confusion"
+        }
+    }
+]

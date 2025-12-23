@@ -1,0 +1,227 @@
+[
+    {
+        "moduleId": "spanish_a1_m1",
+        "theme": "Greetings & Introductions",
+        "order": 1,
+        "lessons": [
+            {
+                "targetText": "Hola",
+                "phoneticTranscription": "OH-lah",
+                "english": "Hello",
+                "notes": "Most common greeting in Spanish"
+            },
+            {
+                "targetText": "Buenos días",
+                "phoneticTranscription": "BWEH-nos DEE-as",
+                "english": "Good morning",
+                "notes": "Used until midday"
+            },
+            {
+                "targetText": "Buenas tardes",
+                "phoneticTranscription": "BWEH-nas TAR-des",
+                "english": "Good afternoon",
+                "notes": "Used from midday to evening"
+            },
+            {
+                "targetText": "Buenas noches",
+                "phoneticTranscription": "BWEH-nas NOH-ches",
+                "english": "Good evening/night",
+                "notes": "Used in the evening and as goodbye at night"
+            },
+            {
+                "targetText": "Adiós",
+                "phoneticTranscription": "ah-DYOHS",
+                "english": "Goodbye",
+                "notes": "Formal farewell"
+            }
+        ],
+        "liarGameData": {
+            "question": "¿Cómo estás?",
+            "questionEnglish": "How are you?",
+            "correctAnswer": "Bien, gracias",
+            "liarAnswer": "Bien, gracias también",
+            "explanation": "The correct response is 'Bien, gracias' (Well, thank you). The liar adds 'también' (also) which doesn't make sense in this context.",
+            "trapType": "ser_estar_confusion"
+        }
+    },
+    {
+        "moduleId": "spanish_a1_m2",
+        "theme": "Basic Introductions",
+        "order": 2,
+        "lessons": [
+            {
+                "targetText": "Me llamo",
+                "phoneticTranscription": "meh YAH-moh",
+                "english": "My name is (lit: I call myself)",
+                "notes": "Most common way to introduce yourself"
+            },
+            {
+                "targetText": "¿Cómo te llamas?",
+                "phoneticTranscription": "KOH-moh teh YAH-mas",
+                "english": "What's your name? (informal)",
+                "notes": "Used with friends and children"
+            },
+            {
+                "targetText": "Mucho gusto",
+                "phoneticTranscription": "MOO-choh GOOS-toh",
+                "english": "Nice to meet you",
+                "notes": "Literally means 'much pleasure'"
+            },
+            {
+                "targetText": "Encantado",
+                "phoneticTranscription": "en-kan-TAH-doh",
+                "english": "Pleased to meet you (masculine)",
+                "notes": "Use 'Encantada' if you're female"
+            },
+            {
+                "targetText": "¿De dónde eres?",
+                "phoneticTranscription": "deh DOHN-deh EH-res",
+                "english": "Where are you from?",
+                "notes": "Informal question about origin"
+            }
+        ],
+        "liarGameData": {
+            "question": "Juan ___ de España",
+            "questionEnglish": "Juan is from Spain",
+            "correctAnswer": "es",
+            "liarAnswer": "está",
+            "explanation": "Use 'es' (from ser) for origin/nationality. 'Está' (from estar) is for location/condition.",
+            "trapType": "ser_estar_confusion"
+        }
+    },
+    {
+        "moduleId": "spanish_a1_m3",
+        "theme": "Numbers 1-10",
+        "order": 3,
+        "lessons": [
+            {
+                "targetText": "uno",
+                "phoneticTranscription": "OO-noh",
+                "english": "one",
+                "notes": "Changes to 'un' before masculine nouns"
+            },
+            {
+                "targetText": "dos",
+                "phoneticTranscription": "dohs",
+                "english": "two",
+                "notes": "Invariable"
+            },
+            {
+                "targetText": "tres",
+                "phoneticTranscription": "trehs",
+                "english": "three",
+                "notes": "Invariable"
+            },
+            {
+                "targetText": "cuatro",
+                "phoneticTranscription": "KWAH-troh",
+                "english": "four",
+                "notes": "Invariable"
+            },
+            {
+                "targetText": "cinco",
+                "phoneticTranscription": "SEEN-koh",
+                "english": "five",
+                "notes": "Invariable"
+            }
+        ],
+        "liarGameData": {
+            "question": "La casa ___ grande",
+            "questionEnglish": "The house is big",
+            "correctAnswer": "es",
+            "liarAnswer": "está",
+            "explanation": "Use 'es' (from ser) for inherent characteristics. 'Está' is for temporary states or locations.",
+            "trapType": "ser_estar_confusion"
+        }
+    },
+    {
+        "moduleId": "spanish_a1_m4",
+        "theme": "Common Verbs",
+        "order": 4,
+        "lessons": [
+            {
+                "targetText": "ser",
+                "phoneticTranscription": "sehr",
+                "english": "to be (permanent)",
+                "notes": "Used for identity, origin, characteristics"
+            },
+            {
+                "targetText": "estar",
+                "phoneticTranscription": "es-TAR",
+                "english": "to be (temporary)",
+                "notes": "Used for location, condition, emotions"
+            },
+            {
+                "targetText": "tener",
+                "phoneticTranscription": "teh-NEHR",
+                "english": "to have",
+                "notes": "Also used for age: 'Tengo 20 años'"
+            },
+            {
+                "targetText": "hacer",
+                "phoneticTranscription": "ah-SEHR",
+                "english": "to do/make",
+                "notes": "Irregular verb, very common"
+            },
+            {
+                "targetText": "ir",
+                "phoneticTranscription": "eer",
+                "english": "to go",
+                "notes": "Highly irregular, essential verb"
+            }
+        ],
+        "liarGameData": {
+            "question": "Yo ___ en la biblioteca",
+            "questionEnglish": "I am in the library",
+            "correctAnswer": "estoy",
+            "liarAnswer": "soy",
+            "explanation": "Use 'estoy' (from estar) for location. 'Soy' (from ser) is for identity/characteristics.",
+            "trapType": "ser_estar_confusion"
+        }
+    },
+    {
+        "moduleId": "spanish_a1_m5",
+        "theme": "Basic Questions",
+        "order": 5,
+        "lessons": [
+            {
+                "targetText": "¿Qué?",
+                "phoneticTranscription": "keh",
+                "english": "What?",
+                "notes": "Always has an accent in questions"
+            },
+            {
+                "targetText": "¿Quién?",
+                "phoneticTranscription": "kyen",
+                "english": "Who?",
+                "notes": "Plural: ¿Quiénes?"
+            },
+            {
+                "targetText": "¿Dónde?",
+                "phoneticTranscription": "DOHN-deh",
+                "english": "Where?",
+                "notes": "Always has an accent in questions"
+            },
+            {
+                "targetText": "¿Cuándo?",
+                "phoneticTranscription": "KWAN-doh",
+                "english": "When?",
+                "notes": "Always has an accent in questions"
+            },
+            {
+                "targetText": "¿Por qué?",
+                "phoneticTranscription": "por keh",
+                "english": "Why?",
+                "notes": "Two words, both with accents"
+            }
+        ],
+        "liarGameData": {
+            "question": "María ___ cansada hoy",
+            "questionEnglish": "María is tired today",
+            "correctAnswer": "está",
+            "liarAnswer": "es",
+            "explanation": "Use 'está' (from estar) for temporary conditions like being tired. 'Es' is for permanent characteristics.",
+            "trapType": "ser_estar_confusion"
+        }
+    }
+]

@@ -1,0 +1,1471 @@
+{
+    "moduleId": "japanese_a1_m1",
+    "theme": "Hiragana Mastery & Basic Greetings",
+    "order": 1,
+    "targetWordCount": 200,
+    "lessons": [
+        {
+            "lessonNumber": 1,
+            "title": "Hiragana: A-row (あ行)",
+            "vocabularyItems": [
+                {
+                    "targetText": "あ",
+                    "romaji": "a",
+                    "english": "a (vowel)",
+                    "type": "hiragana",
+                    "notes": "First hiragana character"
+                },
+                {
+                    "targetText": "い",
+                    "romaji": "i",
+                    "english": "i (vowel)",
+                    "type": "hiragana",
+                    "notes": "Second hiragana"
+                },
+                {
+                    "targetText": "う",
+                    "romaji": "u",
+                    "english": "u (vowel)",
+                    "type": "hiragana",
+                    "notes": "Third hiragana"
+                },
+                {
+                    "targetText": "え",
+                    "romaji": "e",
+                    "english": "e (vowel)",
+                    "type": "hiragana",
+                    "notes": "Fourth hiragana"
+                },
+                {
+                    "targetText": "お",
+                    "romaji": "o",
+                    "english": "o (vowel)",
+                    "type": "hiragana",
+                    "notes": "Fifth hiragana"
+                },
+                {
+                    "targetText": "愛",
+                    "romaji": "ai",
+                    "english": "love",
+                    "type": "noun",
+                    "kanji": "N3",
+                    "notes": "Uses あ+い"
+                },
+                {
+                    "targetText": "青",
+                    "romaji": "ao",
+                    "english": "blue",
+                    "type": "adjective",
+                    "kanji": "N5",
+                    "notes": "Uses あ+お"
+                },
+                {
+                    "targetText": "家",
+                    "romaji": "ie",
+                    "english": "house",
+                    "type": "noun",
+                    "kanji": "N5",
+                    "notes": "Uses い+え"
+                },
+                {
+                    "targetText": "上",
+                    "romaji": "ue",
+                    "english": "above/up",
+                    "type": "noun",
+                    "kanji": "N5",
+                    "notes": "Uses う+え"
+                },
+                {
+                    "targetText": "絵",
+                    "romaji": "e",
+                    "english": "picture",
+                    "type": "noun",
+                    "kanji": "N5",
+                    "notes": "Single え sound"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 2,
+            "title": "Hiragana: K-row (か行)",
+            "vocabularyItems": [
+                {
+                    "targetText": "か",
+                    "romaji": "ka",
+                    "english": "ka",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "き",
+                    "romaji": "ki",
+                    "english": "ki",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "く",
+                    "romaji": "ku",
+                    "english": "ku",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "け",
+                    "romaji": "ke",
+                    "english": "ke",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "こ",
+                    "romaji": "ko",
+                    "english": "ko",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "木",
+                    "romaji": "ki",
+                    "english": "tree/wood",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "口",
+                    "romaji": "kuchi",
+                    "english": "mouth",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "国",
+                    "romaji": "kuni",
+                    "english": "country",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "来る",
+                    "romaji": "kuru",
+                    "english": "to come",
+                    "type": "verb",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "聞く",
+                    "romaji": "kiku",
+                    "english": "to listen/ask",
+                    "type": "verb",
+                    "kanji": "N5"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 3,
+            "title": "Hiragana: S-row (さ行)",
+            "vocabularyItems": [
+                {
+                    "targetText": "さ",
+                    "romaji": "sa",
+                    "english": "sa",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "し",
+                    "romaji": "shi",
+                    "english": "shi",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "す",
+                    "romaji": "su",
+                    "english": "su",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "せ",
+                    "romaji": "se",
+                    "english": "se",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "そ",
+                    "romaji": "so",
+                    "english": "so",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "魚",
+                    "romaji": "sakana",
+                    "english": "fish",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "四",
+                    "romaji": "shi/yon",
+                    "english": "four",
+                    "type": "number",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "好き",
+                    "romaji": "suki",
+                    "english": "like/love",
+                    "type": "na-adjective",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "する",
+                    "romaji": "suru",
+                    "english": "to do",
+                    "type": "verb",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "空",
+                    "romaji": "sora",
+                    "english": "sky",
+                    "type": "noun",
+                    "kanji": "N5"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 4,
+            "title": "Hiragana: T-row (た行)",
+            "vocabularyItems": [
+                {
+                    "targetText": "た",
+                    "romaji": "ta",
+                    "english": "ta",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "ち",
+                    "romaji": "chi",
+                    "english": "chi",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "つ",
+                    "romaji": "tsu",
+                    "english": "tsu",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "て",
+                    "romaji": "te",
+                    "english": "te",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "と",
+                    "romaji": "to",
+                    "english": "to",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "食べる",
+                    "romaji": "taberu",
+                    "english": "to eat",
+                    "type": "verb",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "父",
+                    "romaji": "chichi",
+                    "english": "father (my)",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "手",
+                    "romaji": "te",
+                    "english": "hand",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "時",
+                    "romaji": "toki",
+                    "english": "time/when",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "友達",
+                    "romaji": "tomodachi",
+                    "english": "friend",
+                    "type": "noun",
+                    "kanji": "N5"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 5,
+            "title": "Hiragana: N-row (な行)",
+            "vocabularyItems": [
+                {
+                    "targetText": "な",
+                    "romaji": "na",
+                    "english": "na",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "に",
+                    "romaji": "ni",
+                    "english": "ni",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "ぬ",
+                    "romaji": "nu",
+                    "english": "nu",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "ね",
+                    "romaji": "ne",
+                    "english": "ne",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "の",
+                    "romaji": "no",
+                    "english": "no",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "名前",
+                    "romaji": "namae",
+                    "english": "name",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "二",
+                    "romaji": "ni",
+                    "english": "two",
+                    "type": "number",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "犬",
+                    "romaji": "inu",
+                    "english": "dog",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "猫",
+                    "romaji": "neko",
+                    "english": "cat",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "飲む",
+                    "romaji": "nomu",
+                    "english": "to drink",
+                    "type": "verb",
+                    "kanji": "N5"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 6,
+            "title": "Hiragana: H-row (は行)",
+            "vocabularyItems": [
+                {
+                    "targetText": "は",
+                    "romaji": "ha/wa",
+                    "english": "ha (or wa as particle)",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "ひ",
+                    "romaji": "hi",
+                    "english": "hi",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "ふ",
+                    "romaji": "fu",
+                    "english": "fu",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "へ",
+                    "romaji": "he/e",
+                    "english": "he (or e as particle)",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "ほ",
+                    "romaji": "ho",
+                    "english": "ho",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "母",
+                    "romaji": "haha",
+                    "english": "mother (my)",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "人",
+                    "romaji": "hito",
+                    "english": "person",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "本",
+                    "romaji": "hon",
+                    "english": "book",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "花",
+                    "romaji": "hana",
+                    "english": "flower",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "春",
+                    "romaji": "haru",
+                    "english": "spring",
+                    "type": "noun",
+                    "kanji": "N5"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 7,
+            "title": "Hiragana: M-row (ま行)",
+            "vocabularyItems": [
+                {
+                    "targetText": "ま",
+                    "romaji": "ma",
+                    "english": "ma",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "み",
+                    "romaji": "mi",
+                    "english": "mi",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "む",
+                    "romaji": "mu",
+                    "english": "mu",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "め",
+                    "romaji": "me",
+                    "english": "me",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "も",
+                    "romaji": "mo",
+                    "english": "mo",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "毎日",
+                    "romaji": "mainichi",
+                    "english": "every day",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "水",
+                    "romaji": "mizu",
+                    "english": "water",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "目",
+                    "romaji": "me",
+                    "english": "eye",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "見る",
+                    "romaji": "miru",
+                    "english": "to see/watch",
+                    "type": "verb",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "道",
+                    "romaji": "michi",
+                    "english": "road/way",
+                    "type": "noun",
+                    "kanji": "N5"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 8,
+            "title": "Hiragana: Y-row (や行)",
+            "vocabularyItems": [
+                {
+                    "targetText": "や",
+                    "romaji": "ya",
+                    "english": "ya",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "ゆ",
+                    "romaji": "yu",
+                    "english": "yu",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "よ",
+                    "romaji": "yo",
+                    "english": "yo",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "山",
+                    "romaji": "yama",
+                    "english": "mountain",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "雪",
+                    "romaji": "yuki",
+                    "english": "snow",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "夜",
+                    "romaji": "yoru",
+                    "english": "night",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "八",
+                    "romaji": "hachi",
+                    "english": "eight",
+                    "type": "number",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "休む",
+                    "romaji": "yasumu",
+                    "english": "to rest",
+                    "type": "verb",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "野菜",
+                    "romaji": "yasai",
+                    "english": "vegetable",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "安い",
+                    "romaji": "yasui",
+                    "english": "cheap",
+                    "type": "i-adjective",
+                    "kanji": "N5"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 9,
+            "title": "Hiragana: R-row (ら行)",
+            "vocabularyItems": [
+                {
+                    "targetText": "ら",
+                    "romaji": "ra",
+                    "english": "ra",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "り",
+                    "romaji": "ri",
+                    "english": "ri",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "る",
+                    "romaji": "ru",
+                    "english": "ru",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "れ",
+                    "romaji": "re",
+                    "english": "re",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "ろ",
+                    "romaji": "ro",
+                    "english": "ro",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "来年",
+                    "romaji": "rainen",
+                    "english": "next year",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "料理",
+                    "romaji": "ryouri",
+                    "english": "cooking/cuisine",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "六",
+                    "romaji": "roku",
+                    "english": "six",
+                    "type": "number",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "旅行",
+                    "romaji": "ryokou",
+                    "english": "travel",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "両親",
+                    "romaji": "ryoushin",
+                    "english": "parents",
+                    "type": "noun",
+                    "kanji": "N5"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 10,
+            "title": "Hiragana: W-row & N (わ行・ん)",
+            "vocabularyItems": [
+                {
+                    "targetText": "わ",
+                    "romaji": "wa",
+                    "english": "wa",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "を",
+                    "romaji": "wo/o",
+                    "english": "wo (object particle)",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "ん",
+                    "romaji": "n",
+                    "english": "n",
+                    "type": "hiragana"
+                },
+                {
+                    "targetText": "私",
+                    "romaji": "watashi",
+                    "english": "I/me",
+                    "type": "pronoun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "分かる",
+                    "romaji": "wakaru",
+                    "english": "to understand",
+                    "type": "verb",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "若い",
+                    "romaji": "wakai",
+                    "english": "young",
+                    "type": "i-adjective",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "悪い",
+                    "romaji": "warui",
+                    "english": "bad",
+                    "type": "i-adjective",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "忘れる",
+                    "romaji": "wasureru",
+                    "english": "to forget",
+                    "type": "verb",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "笑う",
+                    "romaji": "warau",
+                    "english": "to laugh",
+                    "type": "verb",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "渡す",
+                    "romaji": "watasu",
+                    "english": "to hand over",
+                    "type": "verb",
+                    "kanji": "N5"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 11,
+            "title": "Basic Greetings",
+            "vocabularyItems": [
+                {
+                    "targetText": "こんにちは",
+                    "romaji": "konnichiwa",
+                    "english": "hello/good afternoon",
+                    "type": "greeting"
+                },
+                {
+                    "targetText": "おはよう",
+                    "romaji": "ohayou",
+                    "english": "good morning (casual)",
+                    "type": "greeting"
+                },
+                {
+                    "targetText": "おはようございます",
+                    "romaji": "ohayou gozaimasu",
+                    "english": "good morning (polite)",
+                    "type": "greeting"
+                },
+                {
+                    "targetText": "こんばんは",
+                    "romaji": "konbanwa",
+                    "english": "good evening",
+                    "type": "greeting"
+                },
+                {
+                    "targetText": "さようなら",
+                    "romaji": "sayounara",
+                    "english": "goodbye",
+                    "type": "greeting"
+                },
+                {
+                    "targetText": "またね",
+                    "romaji": "mata ne",
+                    "english": "see you later (casual)",
+                    "type": "greeting"
+                },
+                {
+                    "targetText": "じゃあね",
+                    "romaji": "jaa ne",
+                    "english": "bye (casual)",
+                    "type": "greeting"
+                },
+                {
+                    "targetText": "おやすみなさい",
+                    "romaji": "oyasuminasai",
+                    "english": "good night",
+                    "type": "greeting"
+                },
+                {
+                    "targetText": "いってきます",
+                    "romaji": "ittekimasu",
+                    "english": "I'm leaving (home)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "いってらっしゃい",
+                    "romaji": "itterasshai",
+                    "english": "have a good day (response)",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 12,
+            "title": "Self-Introduction",
+            "vocabularyItems": [
+                {
+                    "targetText": "初めまして",
+                    "romaji": "hajimemashite",
+                    "english": "nice to meet you",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "どうぞよろしく",
+                    "romaji": "douzo yoroshiku",
+                    "english": "pleased to meet you",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "お名前は？",
+                    "romaji": "onamae wa?",
+                    "english": "what's your name?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "です",
+                    "romaji": "desu",
+                    "english": "is/am/are (polite)",
+                    "type": "copula"
+                },
+                {
+                    "targetText": "学生",
+                    "romaji": "gakusei",
+                    "english": "student",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "先生",
+                    "romaji": "sensei",
+                    "english": "teacher",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "会社員",
+                    "romaji": "kaishain",
+                    "english": "company employee",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "医者",
+                    "romaji": "isha",
+                    "english": "doctor",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "何歳",
+                    "romaji": "nansai",
+                    "english": "how old",
+                    "type": "question",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "歳",
+                    "romaji": "sai",
+                    "english": "years old (counter)",
+                    "type": "counter",
+                    "kanji": "N5"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 13,
+            "title": "Numbers 1-10",
+            "vocabularyItems": [
+                {
+                    "targetText": "一",
+                    "romaji": "ichi",
+                    "english": "one",
+                    "type": "number",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "二",
+                    "romaji": "ni",
+                    "english": "two",
+                    "type": "number",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "三",
+                    "romaji": "san",
+                    "english": "three",
+                    "type": "number",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "四",
+                    "romaji": "shi/yon",
+                    "english": "four",
+                    "type": "number",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "五",
+                    "romaji": "go",
+                    "english": "five",
+                    "type": "number",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "六",
+                    "romaji": "roku",
+                    "english": "six",
+                    "type": "number",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "七",
+                    "romaji": "shichi/nana",
+                    "english": "seven",
+                    "type": "number",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "八",
+                    "romaji": "hachi",
+                    "english": "eight",
+                    "type": "number",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "九",
+                    "romaji": "kyuu/ku",
+                    "english": "nine",
+                    "type": "number",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "十",
+                    "romaji": "juu",
+                    "english": "ten",
+                    "type": "number",
+                    "kanji": "N5"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 14,
+            "title": "Numbers 11-100",
+            "vocabularyItems": [
+                {
+                    "targetText": "十一",
+                    "romaji": "juuichi",
+                    "english": "eleven",
+                    "type": "number"
+                },
+                {
+                    "targetText": "二十",
+                    "romaji": "nijuu",
+                    "english": "twenty",
+                    "type": "number"
+                },
+                {
+                    "targetText": "三十",
+                    "romaji": "sanjuu",
+                    "english": "thirty",
+                    "type": "number"
+                },
+                {
+                    "targetText": "四十",
+                    "romaji": "yonjuu",
+                    "english": "forty",
+                    "type": "number"
+                },
+                {
+                    "targetText": "五十",
+                    "romaji": "gojuu",
+                    "english": "fifty",
+                    "type": "number"
+                },
+                {
+                    "targetText": "六十",
+                    "romaji": "rokujuu",
+                    "english": "sixty",
+                    "type": "number"
+                },
+                {
+                    "targetText": "七十",
+                    "romaji": "nanajuu",
+                    "english": "seventy",
+                    "type": "number"
+                },
+                {
+                    "targetText": "八十",
+                    "romaji": "hachijuu",
+                    "english": "eighty",
+                    "type": "number"
+                },
+                {
+                    "targetText": "九十",
+                    "romaji": "kyuujuu",
+                    "english": "ninety",
+                    "type": "number"
+                },
+                {
+                    "targetText": "百",
+                    "romaji": "hyaku",
+                    "english": "hundred",
+                    "type": "number",
+                    "kanji": "N5"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 15,
+            "title": "Days of the Week",
+            "vocabularyItems": [
+                {
+                    "targetText": "月曜日",
+                    "romaji": "getsuyoubi",
+                    "english": "Monday",
+                    "type": "time",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "火曜日",
+                    "romaji": "kayoubi",
+                    "english": "Tuesday",
+                    "type": "time",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "水曜日",
+                    "romaji": "suiyoubi",
+                    "english": "Wednesday",
+                    "type": "time",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "木曜日",
+                    "romaji": "mokuyoubi",
+                    "english": "Thursday",
+                    "type": "time",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "金曜日",
+                    "romaji": "kinyoubi",
+                    "english": "Friday",
+                    "type": "time",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "土曜日",
+                    "romaji": "doyoubi",
+                    "english": "Saturday",
+                    "type": "time",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "日曜日",
+                    "romaji": "nichiyoubi",
+                    "english": "Sunday",
+                    "type": "time",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "今日",
+                    "romaji": "kyou",
+                    "english": "today",
+                    "type": "time",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "明日",
+                    "romaji": "ashita",
+                    "english": "tomorrow",
+                    "type": "time",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "昨日",
+                    "romaji": "kinou",
+                    "english": "yesterday",
+                    "type": "time",
+                    "kanji": "N5"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 16,
+            "title": "Time Expressions",
+            "vocabularyItems": [
+                {
+                    "targetText": "今",
+                    "romaji": "ima",
+                    "english": "now",
+                    "type": "time",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "朝",
+                    "romaji": "asa",
+                    "english": "morning",
+                    "type": "time",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "昼",
+                    "romaji": "hiru",
+                    "english": "noon/daytime",
+                    "type": "time",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "晩",
+                    "romaji": "ban",
+                    "english": "evening",
+                    "type": "time",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "午前",
+                    "romaji": "gozen",
+                    "english": "AM/morning",
+                    "type": "time",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "午後",
+                    "romaji": "gogo",
+                    "english": "PM/afternoon",
+                    "type": "time",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "時",
+                    "romaji": "ji",
+                    "english": "o'clock (counter)",
+                    "type": "counter",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "分",
+                    "romaji": "fun/pun",
+                    "english": "minute (counter)",
+                    "type": "counter",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "半",
+                    "romaji": "han",
+                    "english": "half",
+                    "type": "time",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "何時",
+                    "romaji": "nanji",
+                    "english": "what time",
+                    "type": "question",
+                    "kanji": "N5"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 17,
+            "title": "Family Members",
+            "vocabularyItems": [
+                {
+                    "targetText": "家族",
+                    "romaji": "kazoku",
+                    "english": "family",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "お父さん",
+                    "romaji": "otousan",
+                    "english": "father (someone else's)",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "お母さん",
+                    "romaji": "okaasan",
+                    "english": "mother (someone else's)",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "兄",
+                    "romaji": "ani",
+                    "english": "older brother (my)",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "お兄さん",
+                    "romaji": "oniisan",
+                    "english": "older brother (someone else's)",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "姉",
+                    "romaji": "ane",
+                    "english": "older sister (my)",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "お姉さん",
+                    "romaji": "oneesan",
+                    "english": "older sister (someone else's)",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "弟",
+                    "romaji": "otouto",
+                    "english": "younger brother",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "妹",
+                    "romaji": "imouto",
+                    "english": "younger sister",
+                    "type": "noun",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "子供",
+                    "romaji": "kodomo",
+                    "english": "child",
+                    "type": "noun",
+                    "kanji": "N5"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 18,
+            "title": "Common Verbs Part 1",
+            "vocabularyItems": [
+                {
+                    "targetText": "行く",
+                    "romaji": "iku",
+                    "english": "to go",
+                    "type": "verb",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "来る",
+                    "romaji": "kuru",
+                    "english": "to come",
+                    "type": "verb",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "帰る",
+                    "romaji": "kaeru",
+                    "english": "to return/go home",
+                    "type": "verb",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "ある",
+                    "romaji": "aru",
+                    "english": "to exist (inanimate)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "いる",
+                    "romaji": "iru",
+                    "english": "to exist (animate)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "買う",
+                    "romaji": "kau",
+                    "english": "to buy",
+                    "type": "verb",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "売る",
+                    "romaji": "uru",
+                    "english": "to sell",
+                    "type": "verb",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "読む",
+                    "romaji": "yomu",
+                    "english": "to read",
+                    "type": "verb",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "書く",
+                    "romaji": "kaku",
+                    "english": "to write",
+                    "type": "verb",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "話す",
+                    "romaji": "hanasu",
+                    "english": "to speak",
+                    "type": "verb",
+                    "kanji": "N5"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 19,
+            "title": "Common Verbs Part 2",
+            "vocabularyItems": [
+                {
+                    "targetText": "勉強する",
+                    "romaji": "benkyou suru",
+                    "english": "to study",
+                    "type": "verb",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "働く",
+                    "romaji": "hataraku",
+                    "english": "to work",
+                    "type": "verb",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "遊ぶ",
+                    "romaji": "asobu",
+                    "english": "to play",
+                    "type": "verb",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "待つ",
+                    "romaji": "matsu",
+                    "english": "to wait",
+                    "type": "verb",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "立つ",
+                    "romaji": "tatsu",
+                    "english": "to stand",
+                    "type": "verb",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "座る",
+                    "romaji": "suwaru",
+                    "english": "to sit",
+                    "type": "verb",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "寝る",
+                    "romaji": "neru",
+                    "english": "to sleep",
+                    "type": "verb",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "起きる",
+                    "romaji": "okiru",
+                    "english": "to wake up/get up",
+                    "type": "verb",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "開ける",
+                    "romaji": "akeru",
+                    "english": "to open",
+                    "type": "verb",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "閉める",
+                    "romaji": "shimeru",
+                    "english": "to close",
+                    "type": "verb",
+                    "kanji": "N5"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 20,
+            "title": "Basic Adjectives",
+            "vocabularyItems": [
+                {
+                    "targetText": "大きい",
+                    "romaji": "ookii",
+                    "english": "big",
+                    "type": "i-adjective",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "小さい",
+                    "romaji": "chiisai",
+                    "english": "small",
+                    "type": "i-adjective",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "新しい",
+                    "romaji": "atarashii",
+                    "english": "new",
+                    "type": "i-adjective",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "古い",
+                    "romaji": "furui",
+                    "english": "old",
+                    "type": "i-adjective",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "良い",
+                    "romaji": "yoi/ii",
+                    "english": "good",
+                    "type": "i-adjective",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "高い",
+                    "romaji": "takai",
+                    "english": "tall/expensive",
+                    "type": "i-adjective",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "低い",
+                    "romaji": "hikui",
+                    "english": "short/low",
+                    "type": "i-adjective",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "暑い",
+                    "romaji": "atsui",
+                    "english": "hot (weather)",
+                    "type": "i-adjective",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "寒い",
+                    "romaji": "samui",
+                    "english": "cold (weather)",
+                    "type": "i-adjective",
+                    "kanji": "N5"
+                },
+                {
+                    "targetText": "楽しい",
+                    "romaji": "tanoshii",
+                    "english": "fun/enjoyable",
+                    "type": "i-adjective",
+                    "kanji": "N5"
+                }
+            ]
+        }
+    ],
+    "liarGameData": {
+        "question": "こんにちわ",
+        "questionEnglish": "Hello (afternoon greeting)",
+        "correctAnswer": "こんにちは",
+        "liarAnswer": "こんにちわ",
+        "explanation": "Even though it sounds like 'wa', the greeting uses the particle は (ha), not わ (wa). This is a historical spelling.",
+        "trapType": "particle_confusion"
+    }
+}

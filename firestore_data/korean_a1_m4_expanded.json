@@ -1,0 +1,676 @@
+{
+    "moduleId": "korean_a1_m4",
+    "theme": "Grammar Patterns & Conjugation",
+    "order": 4,
+    "targetWordCount": 100,
+    "lessons": [
+        {
+            "lessonNumber": 1,
+            "title": "Present Tense (Formal)",
+            "vocabularyItems": [
+                {
+                    "targetText": "-습니다/-ㅂ니다",
+                    "romaji": "-seumnida/-mnida",
+                    "english": "formal present ending",
+                    "type": "grammar"
+                },
+                {
+                    "targetText": "갑니다",
+                    "romaji": "gamnida",
+                    "english": "go (formal)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "먹습니다",
+                    "romaji": "meokseumnida",
+                    "english": "eat (formal)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "합니다",
+                    "romaji": "hamnida",
+                    "english": "do (formal)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "봅니다",
+                    "romaji": "bomnida",
+                    "english": "see (formal)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "읽습니다",
+                    "romaji": "ikseumnida",
+                    "english": "read (formal)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "쓰습니다",
+                    "romaji": "sseuseumnida",
+                    "english": "write (formal)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "듣습니다",
+                    "romaji": "deutseumnida",
+                    "english": "listen (formal)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "마십니다",
+                    "romaji": "masimnida",
+                    "english": "drink (formal)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "잡니다",
+                    "romaji": "jamnida",
+                    "english": "sleep (formal)",
+                    "type": "verb"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 2,
+            "title": "Present Tense (Polite)",
+            "vocabularyItems": [
+                {
+                    "targetText": "-아요/-어요",
+                    "romaji": "-ayo/-eoyo",
+                    "english": "polite present ending",
+                    "type": "grammar"
+                },
+                {
+                    "targetText": "가요",
+                    "romaji": "gayo",
+                    "english": "go (polite)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "먹어요",
+                    "romaji": "meogeoyo",
+                    "english": "eat (polite)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "해요",
+                    "romaji": "haeyo",
+                    "english": "do (polite)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "봐요",
+                    "romaji": "bwayo",
+                    "english": "see (polite)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "읽어요",
+                    "romaji": "ilgeoyo",
+                    "english": "read (polite)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "써요",
+                    "romaji": "sseoyo",
+                    "english": "write (polite)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "들어요",
+                    "romaji": "deureoyo",
+                    "english": "listen (polite)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "마셔요",
+                    "romaji": "masyeoyo",
+                    "english": "drink (polite)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "자요",
+                    "romaji": "jayo",
+                    "english": "sleep (polite)",
+                    "type": "verb"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 3,
+            "title": "Past Tense",
+            "vocabularyItems": [
+                {
+                    "targetText": "-았어요/-었어요",
+                    "romaji": "-asseoyo/-eosseoyo",
+                    "english": "past tense ending",
+                    "type": "grammar"
+                },
+                {
+                    "targetText": "갔어요",
+                    "romaji": "gasseoyo",
+                    "english": "went",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "먹었어요",
+                    "romaji": "meogeosseoyo",
+                    "english": "ate",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "했어요",
+                    "romaji": "haesseoyo",
+                    "english": "did",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "봤어요",
+                    "romaji": "bwasseoyo",
+                    "english": "saw",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "읽었어요",
+                    "romaji": "ilgeosseoyo",
+                    "english": "read (past)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "썼어요",
+                    "romaji": "sseosseoyo",
+                    "english": "wrote",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "들었어요",
+                    "romaji": "deureosseoyo",
+                    "english": "listened",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "마셨어요",
+                    "romaji": "masyeosseoyo",
+                    "english": "drank",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "잤어요",
+                    "romaji": "jasseoyo",
+                    "english": "slept",
+                    "type": "verb"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 4,
+            "title": "Future Tense",
+            "vocabularyItems": [
+                {
+                    "targetText": "-을 거예요/-ㄹ 거예요",
+                    "romaji": "-eul geoyeyo/-l geoyeyo",
+                    "english": "future tense ending",
+                    "type": "grammar"
+                },
+                {
+                    "targetText": "갈 거예요",
+                    "romaji": "gal geoyeyo",
+                    "english": "will go",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "먹을 거예요",
+                    "romaji": "meogeul geoyeyo",
+                    "english": "will eat",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "할 거예요",
+                    "romaji": "hal geoyeyo",
+                    "english": "will do",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "볼 거예요",
+                    "romaji": "bol geoyeyo",
+                    "english": "will see",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "읽을 거예요",
+                    "romaji": "ilgeul geoyeyo",
+                    "english": "will read",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "쓸 거예요",
+                    "romaji": "sseul geoyeyo",
+                    "english": "will write",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "들을 거예요",
+                    "romaji": "deureul geoyeyo",
+                    "english": "will listen",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "마실 거예요",
+                    "romaji": "masil geoyeyo",
+                    "english": "will drink",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "잘 거예요",
+                    "romaji": "jal geoyeyo",
+                    "english": "will sleep",
+                    "type": "verb"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 5,
+            "title": "Negation",
+            "vocabularyItems": [
+                {
+                    "targetText": "안",
+                    "romaji": "an",
+                    "english": "not (short negation)",
+                    "type": "grammar"
+                },
+                {
+                    "targetText": "안 가요",
+                    "romaji": "an gayo",
+                    "english": "don't go",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "안 먹어요",
+                    "romaji": "an meogeoyo",
+                    "english": "don't eat",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "-지 않아요",
+                    "romaji": "-ji anayo",
+                    "english": "not (long negation)",
+                    "type": "grammar"
+                },
+                {
+                    "targetText": "가지 않아요",
+                    "romaji": "gaji anayo",
+                    "english": "don't go (formal neg)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "못",
+                    "romaji": "mot",
+                    "english": "cannot (inability)",
+                    "type": "grammar"
+                },
+                {
+                    "targetText": "못 가요",
+                    "romaji": "mot gayo",
+                    "english": "cannot go",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "못 먹어요",
+                    "romaji": "mot meogeoyo",
+                    "english": "cannot eat",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "없어요",
+                    "romaji": "eopseoyo",
+                    "english": "don't have/there isn't",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "아니에요",
+                    "romaji": "anieyo",
+                    "english": "is not",
+                    "type": "copula"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 6,
+            "title": "Questions",
+            "vocabularyItems": [
+                {
+                    "targetText": "-아요?/-어요?",
+                    "romaji": "-ayo?/-eoyo?",
+                    "english": "question ending (polite)",
+                    "type": "grammar"
+                },
+                {
+                    "targetText": "가요?",
+                    "romaji": "gayo?",
+                    "english": "do you go?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "먹어요?",
+                    "romaji": "meogeoyo?",
+                    "english": "do you eat?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "-습니까?/-ㅂ니까?",
+                    "romaji": "-seumnikka?/-mnikka?",
+                    "english": "question ending (formal)",
+                    "type": "grammar"
+                },
+                {
+                    "targetText": "갑니까?",
+                    "romaji": "gamnikka?",
+                    "english": "do you go? (formal)",
+                    "type": "question"
+                },
+                {
+                    "targetText": "뭐예요?",
+                    "romaji": "mwoyeyo?",
+                    "english": "what is it?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "누구예요?",
+                    "romaji": "nuguyeyo?",
+                    "english": "who is it?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "어디예요?",
+                    "romaji": "eodiyeyo?",
+                    "english": "where is it?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "언제예요?",
+                    "romaji": "eonjeyeyo?",
+                    "english": "when is it?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "왜요?",
+                    "romaji": "waeyo?",
+                    "english": "why?",
+                    "type": "question"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 7,
+            "title": "Wanting & Ability",
+            "vocabularyItems": [
+                {
+                    "targetText": "-고 싶어요",
+                    "romaji": "-go sipeoyo",
+                    "english": "want to",
+                    "type": "grammar"
+                },
+                {
+                    "targetText": "가고 싶어요",
+                    "romaji": "gago sipeoyo",
+                    "english": "want to go",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "먹고 싶어요",
+                    "romaji": "meokgo sipeoyo",
+                    "english": "want to eat",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "-을 수 있어요/-ㄹ 수 있어요",
+                    "romaji": "-eul su isseoyo/-l su isseoyo",
+                    "english": "can/be able to",
+                    "type": "grammar"
+                },
+                {
+                    "targetText": "갈 수 있어요",
+                    "romaji": "gal su isseoyo",
+                    "english": "can go",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "먹을 수 있어요",
+                    "romaji": "meogeul su isseoyo",
+                    "english": "can eat",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "-을 수 없어요/-ㄹ 수 없어요",
+                    "romaji": "-eul su eopseoyo/-l su eopseoyo",
+                    "english": "cannot",
+                    "type": "grammar"
+                },
+                {
+                    "targetText": "갈 수 없어요",
+                    "romaji": "gal su eopseoyo",
+                    "english": "cannot go",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "먹을 수 없어요",
+                    "romaji": "meogeul su eopseoyo",
+                    "english": "cannot eat",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "하고 싶어요",
+                    "romaji": "hago sipeoyo",
+                    "english": "want to do",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 8,
+            "title": "Requests & Commands",
+            "vocabularyItems": [
+                {
+                    "targetText": "-주세요",
+                    "romaji": "-juseyo",
+                    "english": "please (do for me)",
+                    "type": "grammar"
+                },
+                {
+                    "targetText": "가 주세요",
+                    "romaji": "ga juseyo",
+                    "english": "please go",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "도와주세요",
+                    "romaji": "dowajuseyo",
+                    "english": "please help",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "-세요",
+                    "romaji": "-seyo",
+                    "english": "please (polite command)",
+                    "type": "grammar"
+                },
+                {
+                    "targetText": "가세요",
+                    "romaji": "gaseyo",
+                    "english": "please go",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "앉으세요",
+                    "romaji": "anjeuseyo",
+                    "english": "please sit",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "기다리세요",
+                    "romaji": "gidariseyo",
+                    "english": "please wait",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "보세요",
+                    "romaji": "boseyo",
+                    "english": "please look",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "들어오세요",
+                    "romaji": "deureooseyo",
+                    "english": "please come in",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "드세요",
+                    "romaji": "deuseyo",
+                    "english": "please eat (honorific)",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 9,
+            "title": "Connecting Sentences",
+            "vocabularyItems": [
+                {
+                    "targetText": "-고",
+                    "romaji": "-go",
+                    "english": "and (connecting verbs)",
+                    "type": "grammar"
+                },
+                {
+                    "targetText": "먹고 자요",
+                    "romaji": "meokgo jayo",
+                    "english": "eat and sleep",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "-지만",
+                    "romaji": "-jiman",
+                    "english": "but/however",
+                    "type": "grammar"
+                },
+                {
+                    "targetText": "좋지만 비싸요",
+                    "romaji": "jojiman bissayo",
+                    "english": "good but expensive",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "-아서/-어서",
+                    "romaji": "-aseo/-eoseo",
+                    "english": "so/because",
+                    "type": "grammar"
+                },
+                {
+                    "targetText": "바빠서",
+                    "romaji": "bappaseo",
+                    "english": "because (I'm) busy",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "-면",
+                    "romaji": "-myeon",
+                    "english": "if",
+                    "type": "grammar"
+                },
+                {
+                    "targetText": "가면",
+                    "romaji": "gamyeon",
+                    "english": "if (you) go",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "-니까",
+                    "romaji": "-nikka",
+                    "english": "because/since",
+                    "type": "grammar"
+                },
+                {
+                    "targetText": "바쁘니까",
+                    "romaji": "bappeunikka",
+                    "english": "because (I'm) busy",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 10,
+            "title": "Honorifics",
+            "vocabularyItems": [
+                {
+                    "targetText": "-시-",
+                    "romaji": "-si-",
+                    "english": "honorific infix",
+                    "type": "grammar"
+                },
+                {
+                    "targetText": "가시다",
+                    "romaji": "gasida",
+                    "english": "to go (honorific)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "계시다",
+                    "romaji": "gyesida",
+                    "english": "to be/exist (honorific)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "드시다",
+                    "romaji": "deusida",
+                    "english": "to eat (honorific)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "주무시다",
+                    "romaji": "jumusida",
+                    "english": "to sleep (honorific)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "말씀하시다",
+                    "romaji": "malsseumasida",
+                    "english": "to speak (honorific)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "여쭙다",
+                    "romaji": "yeojjupda",
+                    "english": "to ask (humble)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "드리다",
+                    "romaji": "deurida",
+                    "english": "to give (humble)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "뵙다",
+                    "romaji": "boepda",
+                    "english": "to see/meet (humble)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "모시다",
+                    "romaji": "mosida",
+                    "english": "to accompany (humble)",
+                    "type": "verb"
+                }
+            ]
+        }
+    ],
+    "liarGameData": {
+        "question": "-아요 vs -습니다",
+        "questionEnglish": "Which is more formal?",
+        "correctAnswer": "-습니다 (seumnida - formal)",
+        "liarAnswer": "-아요 (ayo - polite but less formal)",
+        "explanation": "-습니다 is formal/official. -아요 is polite but casual. Use -습니다 in business/formal settings.",
+        "trapType": "formality_level"
+    }
+}

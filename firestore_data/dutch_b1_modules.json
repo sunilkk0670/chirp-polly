@@ -1,0 +1,227 @@
+[
+    {
+        "moduleId": "dutch_b1_m1",
+        "theme": "Subordinate Clauses",
+        "order": 1,
+        "lessons": [
+            {
+                "targetText": "Ik weet dat hij komt",
+                "phoneticTranscription": "ik vayt daht hay komt",
+                "english": "I know that he's coming",
+                "notes": "Dat clause, verb at end"
+            },
+            {
+                "targetText": "Hij blijft thuis omdat hij ziek is",
+                "phoneticTranscription": "hay blayft tows om-DAHT hay zeek is",
+                "english": "He stays home because he is sick",
+                "notes": "Omdat clause"
+            },
+            {
+                "targetText": "Ik vraag of je tijd hebt",
+                "phoneticTranscription": "ik vraakh of yeh tayt heft",
+                "english": "I ask if you have time",
+                "notes": "Of clause"
+            },
+            {
+                "targetText": "Ze zegt dat ze moe is",
+                "phoneticTranscription": "zeh zekht daht zeh moo is",
+                "english": "She says she is tired",
+                "notes": "Dat clause with zijn"
+            },
+            {
+                "targetText": "We gaan niet omdat het regent",
+                "phoneticTranscription": "veh khaan neet om-DAHT het REH-khent",
+                "english": "We're not going because it's raining",
+                "notes": "Omdat clause"
+            }
+        ],
+        "liarGameData": {
+            "question": "De politieagent is ___",
+            "questionEnglish": "The police officer is courageous",
+            "correctAnswer": "moedig",
+            "liarAnswer": "braaf",
+            "explanation": "'Moedig' means brave/courageous. 'Braaf' is a false friend (well-behaved).",
+            "trapType": "false_friend"
+        }
+    },
+    {
+        "moduleId": "dutch_b1_m2",
+        "theme": "Relative Clauses",
+        "order": 2,
+        "lessons": [
+            {
+                "targetText": "De man die daar staat",
+                "phoneticTranscription": "duh mahn dee daar staht",
+                "english": "The man who stands there",
+                "notes": "Relative pronoun die"
+            },
+            {
+                "targetText": "Het huis dat ik koop",
+                "phoneticTranscription": "het hows daht ik kohp",
+                "english": "The house that I buy",
+                "notes": "Relative pronoun dat"
+            },
+            {
+                "targetText": "De vrouw met wie ik spreek",
+                "phoneticTranscription": "duh vrow met vee ik sprayk",
+                "english": "The woman with whom I speak",
+                "notes": "Relative pronoun with preposition"
+            },
+            {
+                "targetText": "Het kind dat ik help",
+                "phoneticTranscription": "het kint daht ik help",
+                "english": "The child whom I help",
+                "notes": "Relative pronoun dat"
+            },
+            {
+                "targetText": "De mensen die ik ken",
+                "phoneticTranscription": "duh MEN-sen dee ik ken",
+                "english": "The people whom I know",
+                "notes": "Relative pronoun die (plural)"
+            }
+        ],
+        "liarGameData": {
+            "question": "De astronaut is ___",
+            "questionEnglish": "The astronaut is courageous",
+            "correctAnswer": "moedig",
+            "liarAnswer": "braaf",
+            "explanation": "Use 'moedig' for brave. Don't confuse with 'braaf' (well-behaved).",
+            "trapType": "false_friend"
+        }
+    },
+    {
+        "moduleId": "dutch_b1_m3",
+        "theme": "Passive Voice",
+        "order": 3,
+        "lessons": [
+            {
+                "targetText": "Het boek wordt gelezen",
+                "phoneticTranscription": "het book vort kheh-LEH-zen",
+                "english": "The book is being read",
+                "notes": "Present passive with worden"
+            },
+            {
+                "targetText": "De auto werd gerepareerd",
+                "phoneticTranscription": "duh OW-toh vert kheh-reh-pah-RAYRT",
+                "english": "The car was repaired",
+                "notes": "Past passive"
+            },
+            {
+                "targetText": "De brief is geschreven",
+                "phoneticTranscription": "duh breef is kheh-SKHRAY-ven",
+                "english": "The letter has been written",
+                "notes": "Perfect passive"
+            },
+            {
+                "targetText": "Het huis zal gebouwd worden",
+                "phoneticTranscription": "het hows zahl kheh-BOWT VOR-den",
+                "english": "The house will be built",
+                "notes": "Future passive"
+            },
+            {
+                "targetText": "Hier wordt Nederlands gesproken",
+                "phoneticTranscription": "heer vort NAY-der-lahnts kheh-SPROH-ken",
+                "english": "Dutch is spoken here",
+                "notes": "Passive without agent"
+            }
+        ],
+        "liarGameData": {
+            "question": "De bergbeklimmer is ___",
+            "questionEnglish": "The mountain climber is courageous",
+            "correctAnswer": "moedig",
+            "liarAnswer": "braaf",
+            "explanation": "Classic false friend: 'moedig' (brave) vs 'braaf' (well-behaved).",
+            "trapType": "false_friend"
+        }
+    },
+    {
+        "moduleId": "dutch_b1_m4",
+        "theme": "Conditional Mood",
+        "order": 4,
+        "lessons": [
+            {
+                "targetText": "Als ik tijd had",
+                "phoneticTranscription": "ahls ik tayt hahd",
+                "english": "If I had time",
+                "notes": "Conditional clause"
+            },
+            {
+                "targetText": "Ik zou gaan",
+                "phoneticTranscription": "ik zow khaan",
+                "english": "I would go",
+                "notes": "Conditional with zouden"
+            },
+            {
+                "targetText": "Als het regent, blijf ik thuis",
+                "phoneticTranscription": "ahls het REH-khent blayf ik tows",
+                "english": "If it rains, I stay home",
+                "notes": "Real conditional"
+            },
+            {
+                "targetText": "Zou je me kunnen helpen?",
+                "phoneticTranscription": "zow yeh meh KUN-nen HEL-pen",
+                "english": "Could you help me?",
+                "notes": "Polite request"
+            },
+            {
+                "targetText": "Ik zou graag willen komen",
+                "phoneticTranscription": "ik zow khraakh VIL-len KOH-men",
+                "english": "I would like to come",
+                "notes": "Polite desire"
+            }
+        ],
+        "liarGameData": {
+            "question": "De duiker is ___",
+            "questionEnglish": "The diver is courageous",
+            "correctAnswer": "moedig",
+            "liarAnswer": "braaf",
+            "explanation": "'Moedig' = brave/courageous. 'Braaf' is a false friend.",
+            "trapType": "false_friend"
+        }
+    },
+    {
+        "moduleId": "dutch_b1_m5",
+        "theme": "Advanced Conjunctions",
+        "order": 5,
+        "lessons": [
+            {
+                "targetText": "hoewel",
+                "phoneticTranscription": "HOO-vel",
+                "english": "although",
+                "notes": "Concessive conjunction"
+            },
+            {
+                "targetText": "terwijl",
+                "phoneticTranscription": "ter-VAYL",
+                "english": "while",
+                "notes": "Temporal conjunction"
+            },
+            {
+                "targetText": "zodra",
+                "phoneticTranscription": "ZOH-drah",
+                "english": "as soon as",
+                "notes": "Temporal conjunction"
+            },
+            {
+                "targetText": "tenzij",
+                "phoneticTranscription": "ten-ZAY",
+                "english": "unless",
+                "notes": "Conditional conjunction"
+            },
+            {
+                "targetText": "voordat",
+                "phoneticTranscription": "VOHR-daht",
+                "english": "before",
+                "notes": "Temporal conjunction"
+            }
+        ],
+        "liarGameData": {
+            "question": "De piloot is ___",
+            "questionEnglish": "The pilot is courageous",
+            "correctAnswer": "moedig",
+            "liarAnswer": "braaf",
+            "explanation": "Use 'moedig' for brave. 'Braaf' means well-behaved.",
+            "trapType": "false_friend"
+        }
+    }
+]

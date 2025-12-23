@@ -1,0 +1,227 @@
+[
+    {
+        "moduleId": "german_a2_m1",
+        "theme": "Perfect Tense (Perfekt)",
+        "order": 1,
+        "lessons": [
+            {
+                "targetText": "Ich habe gespielt",
+                "phoneticTranscription": "ikh HAH-beh geh-SHPEELT",
+                "english": "I have played/played",
+                "notes": "Perfect tense with haben"
+            },
+            {
+                "targetText": "Du bist gegangen",
+                "phoneticTranscription": "doo bist geh-GANG-en",
+                "english": "You have gone/went",
+                "notes": "Perfect tense with sein (motion verb)"
+            },
+            {
+                "targetText": "Er hat gemacht",
+                "phoneticTranscription": "ehr haht geh-MAKHT",
+                "english": "He has done/did",
+                "notes": "Perfect tense, regular past participle"
+            },
+            {
+                "targetText": "Wir sind gefahren",
+                "phoneticTranscription": "veer zint geh-FAH-ren",
+                "english": "We have driven/drove",
+                "notes": "Perfect tense with sein (motion)"
+            },
+            {
+                "targetText": "Sie haben gegessen",
+                "phoneticTranscription": "zee HAH-ben geh-GES-sen",
+                "english": "They have eaten/ate",
+                "notes": "Perfect tense, irregular past participle"
+            }
+        ],
+        "liarGameData": {
+            "question": "Ich gebe ___ Hund das Futter",
+            "questionEnglish": "I give the dog the food",
+            "correctAnswer": "dem",
+            "liarAnswer": "der",
+            "explanation": "Use 'dem' (dative masculine) for the indirect object. 'Der' is nominative.",
+            "trapType": "case_ending"
+        }
+    },
+    {
+        "moduleId": "german_a2_m2",
+        "theme": "Modal Verbs",
+        "order": 2,
+        "lessons": [
+            {
+                "targetText": "Ich kann schwimmen",
+                "phoneticTranscription": "ikh kahn SHVIM-men",
+                "english": "I can swim",
+                "notes": "Modal verb können (can/to be able to)"
+            },
+            {
+                "targetText": "Du musst lernen",
+                "phoneticTranscription": "doo moost LEHR-nen",
+                "english": "You must learn",
+                "notes": "Modal verb müssen (must/have to)"
+            },
+            {
+                "targetText": "Er will gehen",
+                "phoneticTranscription": "ehr vil GAY-en",
+                "english": "He wants to go",
+                "notes": "Modal verb wollen (to want)"
+            },
+            {
+                "targetText": "Wir dürfen spielen",
+                "phoneticTranscription": "veer DEWR-fen SHPEE-len",
+                "english": "We may/are allowed to play",
+                "notes": "Modal verb dürfen (may/to be allowed)"
+            },
+            {
+                "targetText": "Sie sollen warten",
+                "phoneticTranscription": "zee ZOL-len VAR-ten",
+                "english": "They should wait",
+                "notes": "Modal verb sollen (should/ought to)"
+            }
+        ],
+        "liarGameData": {
+            "question": "Ich sehe ___ Frau",
+            "questionEnglish": "I see the woman",
+            "correctAnswer": "die",
+            "liarAnswer": "der",
+            "explanation": "Use 'die' (accusative feminine = nominative) for the direct object. 'Der' is dative/genitive feminine.",
+            "trapType": "case_ending"
+        }
+    },
+    {
+        "moduleId": "german_a2_m3",
+        "theme": "Separable Verbs",
+        "order": 3,
+        "lessons": [
+            {
+                "targetText": "Ich stehe auf",
+                "phoneticTranscription": "ikh SHTAY-eh owf",
+                "english": "I get up",
+                "notes": "Separable verb aufstehen"
+            },
+            {
+                "targetText": "Du kommst an",
+                "phoneticTranscription": "doo komst ahn",
+                "english": "You arrive",
+                "notes": "Separable verb ankommen"
+            },
+            {
+                "targetText": "Er macht zu",
+                "phoneticTranscription": "ehr makht tsoo",
+                "english": "He closes",
+                "notes": "Separable verb zumachen"
+            },
+            {
+                "targetText": "Wir gehen aus",
+                "phoneticTranscription": "veer GAY-en ows",
+                "english": "We go out",
+                "notes": "Separable verb ausgehen"
+            },
+            {
+                "targetText": "Sie rufen an",
+                "phoneticTranscription": "zee ROO-fen ahn",
+                "english": "They call (on the phone)",
+                "notes": "Separable verb anrufen"
+            }
+        ],
+        "liarGameData": {
+            "question": "Das Buch ___ Lehrers ist interessant",
+            "questionEnglish": "The teacher's book is interesting",
+            "correctAnswer": "des",
+            "liarAnswer": "der",
+            "explanation": "Use 'des' (genitive masculine) to show possession. 'Der' is nominative.",
+            "trapType": "case_ending"
+        }
+    },
+    {
+        "moduleId": "german_a2_m4",
+        "theme": "Dative Case",
+        "order": 4,
+        "lessons": [
+            {
+                "targetText": "Ich helfe dem Kind",
+                "phoneticTranscription": "ikh HEL-feh dem KINT",
+                "english": "I help the child",
+                "notes": "Dative case after helfen"
+            },
+            {
+                "targetText": "Du gibst der Frau das Buch",
+                "phoneticTranscription": "doo gibst dehr FROW dahs BOOKH",
+                "english": "You give the woman the book",
+                "notes": "Dative for indirect object"
+            },
+            {
+                "targetText": "Er dankt den Eltern",
+                "phoneticTranscription": "ehr dahnkt den EL-tern",
+                "english": "He thanks the parents",
+                "notes": "Dative case after danken"
+            },
+            {
+                "targetText": "Wir folgen dem Mann",
+                "phoneticTranscription": "veer FOL-gen dem MAHN",
+                "english": "We follow the man",
+                "notes": "Dative case after folgen"
+            },
+            {
+                "targetText": "Sie gehört mir",
+                "phoneticTranscription": "zee geh-HERT meer",
+                "english": "It belongs to me",
+                "notes": "Dative case after gehören"
+            }
+        ],
+        "liarGameData": {
+            "question": "Ich schreibe ___ Brief",
+            "questionEnglish": "I write the letter",
+            "correctAnswer": "den",
+            "liarAnswer": "dem",
+            "explanation": "Use 'den' (accusative masculine) for the direct object. 'Dem' is dative.",
+            "trapType": "case_ending"
+        }
+    },
+    {
+        "moduleId": "german_a2_m5",
+        "theme": "Future Tense (Futur I)",
+        "order": 5,
+        "lessons": [
+            {
+                "targetText": "Ich werde lernen",
+                "phoneticTranscription": "ikh VEHR-deh LEHR-nen",
+                "english": "I will learn",
+                "notes": "Future tense with werden + infinitive"
+            },
+            {
+                "targetText": "Du wirst kommen",
+                "phoneticTranscription": "doo veerst KOM-men",
+                "english": "You will come",
+                "notes": "Future tense, irregular werden"
+            },
+            {
+                "targetText": "Er wird spielen",
+                "phoneticTranscription": "ehr veert SHPEE-len",
+                "english": "He will play",
+                "notes": "Future tense construction"
+            },
+            {
+                "targetText": "Wir werden gehen",
+                "phoneticTranscription": "veer VEHR-den GAY-en",
+                "english": "We will go",
+                "notes": "Future tense, plural form"
+            },
+            {
+                "targetText": "Sie werden arbeiten",
+                "phoneticTranscription": "zee VEHR-den AR-bay-ten",
+                "english": "They will work",
+                "notes": "Future tense, regular verb"
+            }
+        ],
+        "liarGameData": {
+            "question": "Ich wohne bei ___ Freund",
+            "questionEnglish": "I live at my friend's place",
+            "correctAnswer": "dem",
+            "liarAnswer": "den",
+            "explanation": "Use 'dem' (dative masculine) after the preposition 'bei'. 'Den' is accusative.",
+            "trapType": "case_ending"
+        }
+    }
+]

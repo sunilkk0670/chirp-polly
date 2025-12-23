@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'chirpolly_logo.dart';
 
 class AppDrawer extends StatelessWidget {
   const AppDrawer({super.key});
@@ -18,20 +19,8 @@ class AppDrawer extends StatelessWidget {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                // ChirPolly logo with colorful letters
-                Row(
-                  children: [
-                    _buildColorfulLetter('C', Colors.red),
-                    _buildColorfulLetter('h', Colors.orange),
-                    _buildColorfulLetter('i', Colors.yellow.shade700),
-                    _buildColorfulLetter('r', Colors.green),
-                    _buildColorfulLetter('P', Colors.blue),
-                    _buildColorfulLetter('o', Colors.indigo),
-                    _buildColorfulLetter('l', Colors.purple),
-                    _buildColorfulLetter('l', Colors.pink),
-                    _buildColorfulLetter('y', Colors.red.shade300),
-                  ],
-                ),
+                // ChirPolly logo widget
+                const ChirPollyLogo(fontSize: 28),
                 const SizedBox(height: 8),
                 Text(
                   'Learn languages with joy!',
@@ -100,24 +89,6 @@ class AppDrawer extends StatelessWidget {
                 fontSize: 12,
               ),
             ),
-          ),
-        ],
-      ),
-    );
-  }
-
-  Widget _buildColorfulLetter(String letter, Color color) {
-    return Text(
-      letter,
-      style: TextStyle(
-        fontSize: 28,
-        fontWeight: FontWeight.bold,
-        color: color,
-        shadows: [
-          Shadow(
-            color: color.withOpacity(0.3),
-            offset: const Offset(0, 2),
-            blurRadius: 4,
           ),
         ],
       ),

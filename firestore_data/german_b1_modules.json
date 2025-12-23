@@ -1,0 +1,227 @@
+[
+    {
+        "moduleId": "german_b1_m1",
+        "theme": "Genitive Case",
+        "order": 1,
+        "lessons": [
+            {
+                "targetText": "Das Buch des Lehrers",
+                "phoneticTranscription": "dahs BOOKH des LEH-rers",
+                "english": "The teacher's book",
+                "notes": "Genitive case for possession (masculine)"
+            },
+            {
+                "targetText": "Die Farbe der Blume",
+                "phoneticTranscription": "dee FAR-beh dehr BLOO-meh",
+                "english": "The color of the flower",
+                "notes": "Genitive case for possession (feminine)"
+            },
+            {
+                "targetText": "Der Name des Kindes",
+                "phoneticTranscription": "dehr NAH-meh des KIN-des",
+                "english": "The child's name",
+                "notes": "Genitive case for possession (neuter)"
+            },
+            {
+                "targetText": "Während des Tages",
+                "phoneticTranscription": "VEH-rent des TAH-ges",
+                "english": "During the day",
+                "notes": "Genitive after certain prepositions"
+            },
+            {
+                "targetText": "Trotz des Regens",
+                "phoneticTranscription": "trotz des REH-gens",
+                "english": "Despite the rain",
+                "notes": "Genitive after trotz"
+            }
+        ],
+        "liarGameData": {
+            "question": "Wegen ___ Wetters bleiben wir zu Hause",
+            "questionEnglish": "Because of the weather we stay home",
+            "correctAnswer": "des",
+            "liarAnswer": "dem",
+            "explanation": "Use 'des' (genitive neuter) after 'wegen'. 'Dem' is dative.",
+            "trapType": "case_ending"
+        }
+    },
+    {
+        "moduleId": "german_b1_m2",
+        "theme": "Subordinate Clauses (dass, weil, ob)",
+        "order": 2,
+        "lessons": [
+            {
+                "targetText": "Ich weiß, dass du kommst",
+                "phoneticTranscription": "ikh vays dahs doo komst",
+                "english": "I know that you're coming",
+                "notes": "Dass clause, verb at end"
+            },
+            {
+                "targetText": "Er bleibt zu Hause, weil er krank ist",
+                "phoneticTranscription": "ehr blybt tsoo HOW-zeh vyl ehr krahnk ist",
+                "english": "He stays home because he is sick",
+                "notes": "Weil clause, verb at end"
+            },
+            {
+                "targetText": "Ich frage, ob du Zeit hast",
+                "phoneticTranscription": "ikh FRAH-geh op doo tsayt hahst",
+                "english": "I ask if/whether you have time",
+                "notes": "Ob clause, verb at end"
+            },
+            {
+                "targetText": "Sie sagt, dass sie müde ist",
+                "phoneticTranscription": "zee zahkt dahs zee MEW-deh ist",
+                "english": "She says that she is tired",
+                "notes": "Dass clause with sein"
+            },
+            {
+                "targetText": "Wir gehen nicht, weil es regnet",
+                "phoneticTranscription": "veer GAY-en nikht vyl es REG-net",
+                "english": "We're not going because it's raining",
+                "notes": "Weil clause with weather"
+            }
+        ],
+        "liarGameData": {
+            "question": "Ich danke ___ Freundin",
+            "questionEnglish": "I thank the friend (female)",
+            "correctAnswer": "der",
+            "liarAnswer": "die",
+            "explanation": "Use 'der' (dative feminine) after 'danken'. 'Die' is nominative/accusative.",
+            "trapType": "case_ending"
+        }
+    },
+    {
+        "moduleId": "german_b1_m3",
+        "theme": "Relative Clauses",
+        "order": 3,
+        "lessons": [
+            {
+                "targetText": "Der Mann, der dort steht",
+                "phoneticTranscription": "dehr MAHN dehr dort shtayt",
+                "english": "The man who stands there",
+                "notes": "Relative pronoun (nominative masculine)"
+            },
+            {
+                "targetText": "Die Frau, die ich kenne",
+                "phoneticTranscription": "dee FROW dee ikh KEN-neh",
+                "english": "The woman whom I know",
+                "notes": "Relative pronoun (accusative feminine)"
+            },
+            {
+                "targetText": "Das Kind, dem ich helfe",
+                "phoneticTranscription": "dahs KINT dem ikh HEL-feh",
+                "english": "The child whom I help",
+                "notes": "Relative pronoun (dative neuter)"
+            },
+            {
+                "targetText": "Der Lehrer, dessen Buch ich habe",
+                "phoneticTranscription": "dehr LEH-rer DES-sen BOOKH ikh HAH-beh",
+                "english": "The teacher whose book I have",
+                "notes": "Relative pronoun (genitive masculine)"
+            },
+            {
+                "targetText": "Die Leute, mit denen ich spreche",
+                "phoneticTranscription": "dee LOY-teh mit DEH-nen ikh SHPREH-kheh",
+                "english": "The people with whom I speak",
+                "notes": "Relative pronoun with preposition"
+            }
+        ],
+        "liarGameData": {
+            "question": "Ich schreibe ___ Mutter einen Brief",
+            "questionEnglish": "I write my mother a letter",
+            "correctAnswer": "der",
+            "liarAnswer": "die",
+            "explanation": "Use 'der' (dative feminine) for the indirect object. 'Die' is nominative/accusative.",
+            "trapType": "case_ending"
+        }
+    },
+    {
+        "moduleId": "german_b1_m4",
+        "theme": "Passive Voice",
+        "order": 4,
+        "lessons": [
+            {
+                "targetText": "Das Buch wird gelesen",
+                "phoneticTranscription": "dahs BOOKH veert geh-LEH-zen",
+                "english": "The book is being read",
+                "notes": "Present passive with werden"
+            },
+            {
+                "targetText": "Das Auto wurde repariert",
+                "phoneticTranscription": "dahs OW-toh VOOR-deh reh-pah-REERT",
+                "english": "The car was repaired",
+                "notes": "Past passive (Präteritum)"
+            },
+            {
+                "targetText": "Der Brief ist geschrieben worden",
+                "phoneticTranscription": "dehr BREEF ist geh-SHREE-ben VOR-den",
+                "english": "The letter has been written",
+                "notes": "Perfect passive"
+            },
+            {
+                "targetText": "Das Haus wird gebaut werden",
+                "phoneticTranscription": "dahs HOWS veert geh-BOWT VEHR-den",
+                "english": "The house will be built",
+                "notes": "Future passive"
+            },
+            {
+                "targetText": "Hier wird Deutsch gesprochen",
+                "phoneticTranscription": "heer veert DOYTSH geh-SHPRO-khen",
+                "english": "German is spoken here",
+                "notes": "Passive without agent"
+            }
+        ],
+        "liarGameData": {
+            "question": "Ich folge ___ Auto",
+            "questionEnglish": "I follow the car",
+            "correctAnswer": "dem",
+            "liarAnswer": "das",
+            "explanation": "Use 'dem' (dative neuter) after 'folgen'. 'Das' is nominative/accusative.",
+            "trapType": "case_ending"
+        }
+    },
+    {
+        "moduleId": "german_b1_m5",
+        "theme": "Konjunktiv II (Subjunctive II)",
+        "order": 5,
+        "lessons": [
+            {
+                "targetText": "Ich wäre gern reich",
+                "phoneticTranscription": "ikh VEH-reh gehrn raykh",
+                "english": "I would like to be rich",
+                "notes": "Konjunktiv II of sein"
+            },
+            {
+                "targetText": "Wenn ich Zeit hätte",
+                "phoneticTranscription": "ven ikh tsayt HET-teh",
+                "english": "If I had time",
+                "notes": "Konjunktiv II of haben"
+            },
+            {
+                "targetText": "Ich würde gern kommen",
+                "phoneticTranscription": "ikh VEWR-deh gehrn KOM-men",
+                "english": "I would like to come",
+                "notes": "Würde + infinitive construction"
+            },
+            {
+                "targetText": "Könntest du mir helfen?",
+                "phoneticTranscription": "KERN-test doo meer HEL-fen",
+                "english": "Could you help me?",
+                "notes": "Polite request with Konjunktiv II"
+            },
+            {
+                "targetText": "An deiner Stelle würde ich das nicht tun",
+                "phoneticTranscription": "ahn DAY-ner SHTEL-leh VEWR-deh ikh dahs nikht toon",
+                "english": "In your place I wouldn't do that",
+                "notes": "Giving advice with Konjunktiv II"
+            }
+        ],
+        "liarGameData": {
+            "question": "Statt ___ Buches kaufe ich eine Zeitschrift",
+            "questionEnglish": "Instead of the book I buy a magazine",
+            "correctAnswer": "des",
+            "liarAnswer": "dem",
+            "explanation": "Use 'des' (genitive neuter) after 'statt'. 'Dem' is dative.",
+            "trapType": "case_ending"
+        }
+    }
+]

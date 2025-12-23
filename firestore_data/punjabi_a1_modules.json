@@ -1,0 +1,227 @@
+[
+    {
+        "moduleId": "punjabi_a1_m1",
+        "theme": "Greetings & Introductions",
+        "order": 1,
+        "lessons": [
+            {
+                "targetText": "ਸਤ ਸ੍ਰੀ ਅਕਾਲ",
+                "phoneticTranscription": "sat sree akaal",
+                "english": "Hello (Sikh greeting)",
+                "notes": "Most common greeting in Punjabi"
+            },
+            {
+                "targetText": "ਨਮਸਤੇ",
+                "phoneticTranscription": "namaste",
+                "english": "Hello (Hindu greeting)",
+                "notes": "Respectful greeting"
+            },
+            {
+                "targetText": "ਤੁਹਾਡਾ ਨਾਮ ਕੀ ਹੈ?",
+                "phoneticTranscription": "tuhaada naam kee hai?",
+                "english": "What is your name?",
+                "notes": "Formal way to ask someone's name"
+            },
+            {
+                "targetText": "ਮੇਰਾ ਨਾਮ... ਹੈ",
+                "phoneticTranscription": "mera naam... hai",
+                "english": "My name is...",
+                "notes": "Introducing yourself"
+            },
+            {
+                "targetText": "ਤੁਸੀਂ ਕਿਵੇਂ ਹੋ?",
+                "phoneticTranscription": "tuseen kiven ho?",
+                "english": "How are you?",
+                "notes": "Formal greeting question"
+            }
+        ],
+        "liarGameData": {
+            "question": "ਕੋਰ (high tone) vs ਕੋੜ (low tone)",
+            "questionEnglish": "Which means 'horse'?",
+            "correctAnswer": "ਕੋਰ (high tone)",
+            "liarAnswer": "ਕੋੜ (low tone - means 'leper')",
+            "explanation": "Tonal difference: high tone 'kor' means horse, low tone 'koṛ' means leper.",
+            "trapType": "tonal_trap"
+        }
+    },
+    {
+        "moduleId": "punjabi_a1_m2",
+        "theme": "Numbers 1-10",
+        "order": 2,
+        "lessons": [
+            {
+                "targetText": "ਇੱਕ",
+                "phoneticTranscription": "ikk",
+                "english": "one",
+                "notes": "Number 1"
+            },
+            {
+                "targetText": "ਦੋ",
+                "phoneticTranscription": "do",
+                "english": "two",
+                "notes": "Number 2"
+            },
+            {
+                "targetText": "ਤਿੰਨ",
+                "phoneticTranscription": "tinn",
+                "english": "three",
+                "notes": "Number 3"
+            },
+            {
+                "targetText": "ਚਾਰ",
+                "phoneticTranscription": "chaar",
+                "english": "four",
+                "notes": "Number 4"
+            },
+            {
+                "targetText": "ਪੰਜ",
+                "phoneticTranscription": "panj",
+                "english": "five",
+                "notes": "Number 5"
+            }
+        ],
+        "liarGameData": {
+            "question": "ਪਾਣੀ (high tone) vs ਪਾਣੀ (low tone)",
+            "questionEnglish": "Which means 'water'?",
+            "correctAnswer": "ਪਾਣੀ (high tone)",
+            "liarAnswer": "ਪਾਣੀ (low tone - different meaning)",
+            "explanation": "Tone changes meaning: high tone means water, low tone has different meaning.",
+            "trapType": "tonal_trap"
+        }
+    },
+    {
+        "moduleId": "punjabi_a1_m3",
+        "theme": "Family Members",
+        "order": 3,
+        "lessons": [
+            {
+                "targetText": "ਮਾਂ",
+                "phoneticTranscription": "maan",
+                "english": "mother",
+                "notes": "Mother"
+            },
+            {
+                "targetText": "ਪਿਤਾ",
+                "phoneticTranscription": "pita",
+                "english": "father",
+                "notes": "Father (formal)"
+            },
+            {
+                "targetText": "ਭਰਾ",
+                "phoneticTranscription": "bhraa",
+                "english": "brother",
+                "notes": "Brother"
+            },
+            {
+                "targetText": "ਭੈਣ",
+                "phoneticTranscription": "bhain",
+                "english": "sister",
+                "notes": "Sister"
+            },
+            {
+                "targetText": "ਦਾਦਾ",
+                "phoneticTranscription": "daadaa",
+                "english": "grandfather (paternal)",
+                "notes": "Father's father"
+            }
+        ],
+        "liarGameData": {
+            "question": "ਸਾਰ (high tone) vs ਸਾੜ (low tone)",
+            "questionEnglish": "Which means 'care'?",
+            "correctAnswer": "ਸਾਰ (high tone)",
+            "liarAnswer": "ਸਾੜ (low tone - means 'burn')",
+            "explanation": "Tonal trap: high tone 'saar' means care, low tone 'saaṛ' means burn.",
+            "trapType": "tonal_trap"
+        }
+    },
+    {
+        "moduleId": "punjabi_a1_m4",
+        "theme": "Common Verbs",
+        "order": 4,
+        "lessons": [
+            {
+                "targetText": "ਹੋਣਾ",
+                "phoneticTranscription": "hona",
+                "english": "to be",
+                "notes": "Essential verb"
+            },
+            {
+                "targetText": "ਕਰਨਾ",
+                "phoneticTranscription": "karna",
+                "english": "to do",
+                "notes": "Very common verb"
+            },
+            {
+                "targetText": "ਜਾਣਾ",
+                "phoneticTranscription": "jaana",
+                "english": "to go",
+                "notes": "Motion verb"
+            },
+            {
+                "targetText": "ਆਉਣਾ",
+                "phoneticTranscription": "aauna",
+                "english": "to come",
+                "notes": "Motion verb"
+            },
+            {
+                "targetText": "ਖਾਣਾ",
+                "phoneticTranscription": "khaana",
+                "english": "to eat",
+                "notes": "Daily activity verb"
+            }
+        ],
+        "liarGameData": {
+            "question": "ਕੋਰਾ (high tone) vs ਕੋੜਾ (low tone)",
+            "questionEnglish": "Which means 'blank/empty'?",
+            "correctAnswer": "ਕੋਰਾ (high tone)",
+            "liarAnswer": "ਕੋੜਾ (low tone - means 'whip')",
+            "explanation": "Tone matters: high tone 'koraa' means blank, low tone 'koṛaa' means whip.",
+            "trapType": "tonal_trap"
+        }
+    },
+    {
+        "moduleId": "punjabi_a1_m5",
+        "theme": "Basic Questions",
+        "order": 5,
+        "lessons": [
+            {
+                "targetText": "ਕੀ?",
+                "phoneticTranscription": "kee?",
+                "english": "What?",
+                "notes": "Question word"
+            },
+            {
+                "targetText": "ਕੌਣ?",
+                "phoneticTranscription": "kaun?",
+                "english": "Who?",
+                "notes": "Question word for people"
+            },
+            {
+                "targetText": "ਕਿੱਥੇ?",
+                "phoneticTranscription": "kitthe?",
+                "english": "Where?",
+                "notes": "Location question"
+            },
+            {
+                "targetText": "ਕਦੋਂ?",
+                "phoneticTranscription": "kadon?",
+                "english": "When?",
+                "notes": "Time question"
+            },
+            {
+                "targetText": "ਕਿਉਂ?",
+                "phoneticTranscription": "kiun?",
+                "english": "Why?",
+                "notes": "Reason question"
+            }
+        ],
+        "liarGameData": {
+            "question": "ਪੱਤਰ (high tone) vs ਪੱਤੜ (low tone)",
+            "questionEnglish": "Which means 'letter'?",
+            "correctAnswer": "ਪੱਤਰ (high tone)",
+            "liarAnswer": "ਪੱਤੜ (low tone - means 'leaf')",
+            "explanation": "Tonal distinction: high tone 'pattar' means letter, low tone 'pattaṛ' means leaf.",
+            "trapType": "tonal_trap"
+        }
+    }
+]

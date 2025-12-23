@@ -1,0 +1,676 @@
+{
+    "moduleId": "japanese_a1_m5",
+    "theme": "Practical Conversations & Phrases",
+    "order": 5,
+    "targetWordCount": 150,
+    "lessons": [
+        {
+            "lessonNumber": 1,
+            "title": "Shopping Phrases",
+            "vocabularyItems": [
+                {
+                    "targetText": "いらっしゃいませ",
+                    "romaji": "irasshaimase",
+                    "english": "welcome (to our store)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "これをください",
+                    "romaji": "kore wo kudasai",
+                    "english": "please give me this",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "いくらですか",
+                    "romaji": "ikura desu ka",
+                    "english": "how much is it?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "高すぎます",
+                    "romaji": "takasugimasu",
+                    "english": "too expensive",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "安いです",
+                    "romaji": "yasui desu",
+                    "english": "it's cheap",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "袋",
+                    "romaji": "fukuro",
+                    "english": "bag",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "レシート",
+                    "romaji": "reshiito",
+                    "english": "receipt",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "クレジットカード",
+                    "romaji": "kurejitto kaado",
+                    "english": "credit card",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "現金",
+                    "romaji": "genkin",
+                    "english": "cash",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "お釣り",
+                    "romaji": "otsuri",
+                    "english": "change (money)",
+                    "type": "noun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 2,
+            "title": "Restaurant Ordering",
+            "vocabularyItems": [
+                {
+                    "targetText": "ご注文は？",
+                    "romaji": "gochuumon wa?",
+                    "english": "your order?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "これにします",
+                    "romaji": "kore ni shimasu",
+                    "english": "I'll have this",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "お水ください",
+                    "romaji": "omizu kudasai",
+                    "english": "water please",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "お勧めは？",
+                    "romaji": "osusume wa?",
+                    "english": "what do you recommend?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "辛くしないで",
+                    "romaji": "karaku shinaide",
+                    "english": "not spicy please",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "大盛り",
+                    "romaji": "oomori",
+                    "english": "large serving",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "少なめ",
+                    "romaji": "sukuname",
+                    "english": "small serving",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "持ち帰り",
+                    "romaji": "mochikaeri",
+                    "english": "takeout",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "予約",
+                    "romaji": "yoyaku",
+                    "english": "reservation",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "禁煙席",
+                    "romaji": "kin'enseki",
+                    "english": "non-smoking seat",
+                    "type": "noun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 3,
+            "title": "Transportation",
+            "vocabularyItems": [
+                {
+                    "targetText": "どこ行きですか",
+                    "romaji": "doko iki desu ka",
+                    "english": "where are you going?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "〜まで",
+                    "romaji": "~made",
+                    "english": "to/until ~",
+                    "type": "particle"
+                },
+                {
+                    "targetText": "乗り換え",
+                    "romaji": "norikae",
+                    "english": "transfer",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "次の駅",
+                    "romaji": "tsugi no eki",
+                    "english": "next station",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "降ります",
+                    "romaji": "orimasu",
+                    "english": "I'll get off",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "乗ります",
+                    "romaji": "norimasu",
+                    "english": "I'll get on",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "遅れています",
+                    "romaji": "okurete imasu",
+                    "english": "running late/delayed",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "急行",
+                    "romaji": "kyuukou",
+                    "english": "express train",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "各駅停車",
+                    "romaji": "kakuekiteisha",
+                    "english": "local train",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "ホーム",
+                    "romaji": "hoomu",
+                    "english": "platform",
+                    "type": "noun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 4,
+            "title": "Asking for Help",
+            "vocabularyItems": [
+                {
+                    "targetText": "すみません",
+                    "romaji": "sumimasen",
+                    "english": "excuse me/sorry",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "分かりません",
+                    "romaji": "wakarimasen",
+                    "english": "I don't understand",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "もう一度",
+                    "romaji": "mou ichido",
+                    "english": "one more time",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "ゆっくり話してください",
+                    "romaji": "yukkuri hanashite kudasai",
+                    "english": "please speak slowly",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "英語できますか",
+                    "romaji": "eigo dekimasu ka",
+                    "english": "can you speak English?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "手伝ってください",
+                    "romaji": "tetsudatte kudasai",
+                    "english": "please help me",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "道に迷いました",
+                    "romaji": "michi ni mayoimashita",
+                    "english": "I'm lost",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "トイレはどこですか",
+                    "romaji": "toire wa doko desu ka",
+                    "english": "where is the toilet?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "写真を撮ってください",
+                    "romaji": "shashin wo totte kudasai",
+                    "english": "please take a photo",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "ありがとうございます",
+                    "romaji": "arigatou gozaimasu",
+                    "english": "thank you very much",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 5,
+            "title": "Emergency Phrases",
+            "vocabularyItems": [
+                {
+                    "targetText": "助けて",
+                    "romaji": "tasukete",
+                    "english": "help!",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "警察",
+                    "romaji": "keisatsu",
+                    "english": "police",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "救急車",
+                    "romaji": "kyuukyuusha",
+                    "english": "ambulance",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "火事",
+                    "romaji": "kaji",
+                    "english": "fire",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "泥棒",
+                    "romaji": "dorobou",
+                    "english": "thief",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "危ない",
+                    "romaji": "abunai",
+                    "english": "dangerous",
+                    "type": "i-adjective"
+                },
+                {
+                    "targetText": "痛い",
+                    "romaji": "itai",
+                    "english": "it hurts",
+                    "type": "i-adjective"
+                },
+                {
+                    "targetText": "気分が悪い",
+                    "romaji": "kibun ga warui",
+                    "english": "I feel sick",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "薬",
+                    "romaji": "kusuri",
+                    "english": "medicine",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "大丈夫ですか",
+                    "romaji": "daijoubu desu ka",
+                    "english": "are you okay?",
+                    "type": "question"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 6,
+            "title": "Polite Requests",
+            "vocabularyItems": [
+                {
+                    "targetText": "〜てください",
+                    "romaji": "~te kudasai",
+                    "english": "please do ~",
+                    "type": "grammar"
+                },
+                {
+                    "targetText": "〜てもいいですか",
+                    "romaji": "~temo ii desu ka",
+                    "english": "may I ~?",
+                    "type": "grammar"
+                },
+                {
+                    "targetText": "〜ないでください",
+                    "romaji": "~naide kudasai",
+                    "english": "please don't ~",
+                    "type": "grammar"
+                },
+                {
+                    "targetText": "〜たいです",
+                    "romaji": "~tai desu",
+                    "english": "I want to ~",
+                    "type": "grammar"
+                },
+                {
+                    "targetText": "〜ましょう",
+                    "romaji": "~mashou",
+                    "english": "let's ~",
+                    "type": "grammar"
+                },
+                {
+                    "targetText": "〜ませんか",
+                    "romaji": "~masen ka",
+                    "english": "won't you ~? (invitation)",
+                    "type": "grammar"
+                },
+                {
+                    "targetText": "ちょっと待ってください",
+                    "romaji": "chotto matte kudasai",
+                    "english": "please wait a moment",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "入ってもいいですか",
+                    "romaji": "haitte mo ii desu ka",
+                    "english": "may I come in?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "座ってもいいですか",
+                    "romaji": "suwatte mo ii desu ka",
+                    "english": "may I sit?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "写真を撮ってもいいですか",
+                    "romaji": "shashin wo totte mo ii desu ka",
+                    "english": "may I take a photo?",
+                    "type": "question"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 7,
+            "title": "Daily Routines",
+            "vocabularyItems": [
+                {
+                    "targetText": "起きます",
+                    "romaji": "okimasu",
+                    "english": "wake up/get up",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "顔を洗います",
+                    "romaji": "kao wo araimasu",
+                    "english": "wash face",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "歯を磨きます",
+                    "romaji": "ha wo migakimasu",
+                    "english": "brush teeth",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "シャワーを浴びます",
+                    "romaji": "shawaa wo abimasu",
+                    "english": "take a shower",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "着替えます",
+                    "romaji": "kigaemasu",
+                    "english": "change clothes",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "朝ご飯を食べます",
+                    "romaji": "asagohan wo tabemasu",
+                    "english": "eat breakfast",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "出かけます",
+                    "romaji": "dekakemasu",
+                    "english": "go out",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "帰ります",
+                    "romaji": "kaerimasu",
+                    "english": "return home",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "お風呂に入ります",
+                    "romaji": "ofuro ni hairimasu",
+                    "english": "take a bath",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "寝ます",
+                    "romaji": "nemasu",
+                    "english": "sleep/go to bed",
+                    "type": "verb"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 8,
+            "title": "Hobbies & Interests",
+            "vocabularyItems": [
+                {
+                    "targetText": "趣味",
+                    "romaji": "shumi",
+                    "english": "hobby",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "音楽",
+                    "romaji": "ongaku",
+                    "english": "music",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "映画",
+                    "romaji": "eiga",
+                    "english": "movie",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "スポーツ",
+                    "romaji": "supootsu",
+                    "english": "sports",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "サッカー",
+                    "romaji": "sakkaa",
+                    "english": "soccer",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "野球",
+                    "romaji": "yakyuu",
+                    "english": "baseball",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "テニス",
+                    "romaji": "tenisu",
+                    "english": "tennis",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "水泳",
+                    "romaji": "suiei",
+                    "english": "swimming",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "ゲーム",
+                    "romaji": "geemu",
+                    "english": "game",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "アニメ",
+                    "romaji": "anime",
+                    "english": "anime",
+                    "type": "noun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 9,
+            "title": "Feelings & Emotions",
+            "vocabularyItems": [
+                {
+                    "targetText": "嬉しい",
+                    "romaji": "ureshii",
+                    "english": "happy/glad",
+                    "type": "i-adjective"
+                },
+                {
+                    "targetText": "悲しい",
+                    "romaji": "kanashii",
+                    "english": "sad",
+                    "type": "i-adjective"
+                },
+                {
+                    "targetText": "楽しい",
+                    "romaji": "tanoshii",
+                    "english": "fun/enjoyable",
+                    "type": "i-adjective"
+                },
+                {
+                    "targetText": "怖い",
+                    "romaji": "kowai",
+                    "english": "scary/afraid",
+                    "type": "i-adjective"
+                },
+                {
+                    "targetText": "寂しい",
+                    "romaji": "sabishii",
+                    "english": "lonely",
+                    "type": "i-adjective"
+                },
+                {
+                    "targetText": "疲れた",
+                    "romaji": "tsukareta",
+                    "english": "tired",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "眠い",
+                    "romaji": "nemui",
+                    "english": "sleepy",
+                    "type": "i-adjective"
+                },
+                {
+                    "targetText": "お腹が空いた",
+                    "romaji": "onaka ga suita",
+                    "english": "hungry",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "喉が渇いた",
+                    "romaji": "nodo ga kawaita",
+                    "english": "thirsty",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "元気",
+                    "romaji": "genki",
+                    "english": "energetic/healthy",
+                    "type": "na-adjective"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 10,
+            "title": "Common Expressions",
+            "vocabularyItems": [
+                {
+                    "targetText": "そうですね",
+                    "romaji": "sou desu ne",
+                    "english": "that's right/I see",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "本当ですか",
+                    "romaji": "hontou desu ka",
+                    "english": "really?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "大変ですね",
+                    "romaji": "taihen desu ne",
+                    "english": "that's tough/difficult",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "頑張ってください",
+                    "romaji": "ganbatte kudasai",
+                    "english": "good luck/do your best",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "お疲れ様でした",
+                    "romaji": "otsukaresama deshita",
+                    "english": "thank you for your hard work",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "お先に失礼します",
+                    "romaji": "osaki ni shitsurei shimasu",
+                    "english": "excuse me for leaving first",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "いただきます",
+                    "romaji": "itadakimasu",
+                    "english": "let's eat (before meal)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "ごちそうさまでした",
+                    "romaji": "gochisousama deshita",
+                    "english": "thank you for the meal",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "お邪魔します",
+                    "romaji": "ojama shimasu",
+                    "english": "excuse me for disturbing (entering)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "お邪魔しました",
+                    "romaji": "ojama shimashita",
+                    "english": "thank you for having me (leaving)",
+                    "type": "phrase"
+                }
+            ]
+        }
+    ],
+    "liarGameData": {
+        "question": "いただきます vs ごちそうさま",
+        "questionEnglish": "Which do you say BEFORE eating?",
+        "correctAnswer": "いただきます (itadakimasu - before meal)",
+        "liarAnswer": "ごちそうさま (gochisousama - after meal)",
+        "explanation": "いただきます is said before eating to express gratitude. ごちそうさま is said after finishing the meal.",
+        "trapType": "phrase_timing"
+    }
+}

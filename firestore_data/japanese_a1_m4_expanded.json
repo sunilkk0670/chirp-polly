@@ -1,0 +1,778 @@
+{
+    "moduleId": "japanese_a1_m4",
+    "theme": "N5 Kanji Part 2 (50 Kanji) + Verbs",
+    "order": 4,
+    "targetWordCount": 200,
+    "kanjiCount": 50,
+    "lessons": [
+        {
+            "lessonNumber": 1,
+            "title": "Weather Kanji",
+            "kanji": [
+                "天",
+                "気",
+                "雨",
+                "雪",
+                "風",
+                "雲",
+                "晴",
+                "曇",
+                "暑",
+                "寒",
+                "暖",
+                "涼"
+            ],
+            "vocabularyItems": [
+                {
+                    "targetText": "天",
+                    "romaji": "ten/ama",
+                    "english": "heaven/sky",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "気",
+                    "romaji": "ki/ke",
+                    "english": "spirit/air",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "雨",
+                    "romaji": "u/ame",
+                    "english": "rain",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "雪",
+                    "romaji": "setsu/yuki",
+                    "english": "snow",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "風",
+                    "romaji": "fuu/kaze",
+                    "english": "wind",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "雲",
+                    "romaji": "un/kumo",
+                    "english": "cloud",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "晴",
+                    "romaji": "sei/ha",
+                    "english": "clear weather",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "曇",
+                    "romaji": "don/kumo",
+                    "english": "cloudy",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "天気",
+                    "romaji": "tenki",
+                    "english": "weather",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "大雨",
+                    "romaji": "ooame",
+                    "english": "heavy rain",
+                    "type": "noun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 2,
+            "title": "Seasons",
+            "kanji": [
+                "春",
+                "夏",
+                "秋",
+                "冬"
+            ],
+            "vocabularyItems": [
+                {
+                    "targetText": "春",
+                    "romaji": "shun/haru",
+                    "english": "spring",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "夏",
+                    "romaji": "ka/natsu",
+                    "english": "summer",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "秋",
+                    "romaji": "shuu/aki",
+                    "english": "autumn",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "冬",
+                    "romaji": "tou/fuyu",
+                    "english": "winter",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "今年",
+                    "romaji": "kotoshi",
+                    "english": "this year",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "去年",
+                    "romaji": "kyonen",
+                    "english": "last year",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "来年",
+                    "romaji": "rainen",
+                    "english": "next year",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "毎年",
+                    "romaji": "maitoshi",
+                    "english": "every year",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "今月",
+                    "romaji": "kongetsu",
+                    "english": "this month",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "先月",
+                    "romaji": "sengetsu",
+                    "english": "last month",
+                    "type": "noun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 3,
+            "title": "Family Kanji",
+            "kanji": [
+                "父",
+                "母",
+                "兄",
+                "姉",
+                "弟",
+                "妹",
+                "子",
+                "男",
+                "女"
+            ],
+            "vocabularyItems": [
+                {
+                    "targetText": "父",
+                    "romaji": "fu/chichi",
+                    "english": "father",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "母",
+                    "romaji": "bo/haha",
+                    "english": "mother",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "兄",
+                    "romaji": "kei/ani",
+                    "english": "older brother",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "姉",
+                    "romaji": "shi/ane",
+                    "english": "older sister",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "弟",
+                    "romaji": "tei/otouto",
+                    "english": "younger brother",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "妹",
+                    "romaji": "mai/imouto",
+                    "english": "younger sister",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "子",
+                    "romaji": "shi/ko",
+                    "english": "child",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "男",
+                    "romaji": "dan/otoko",
+                    "english": "male/man",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "女",
+                    "romaji": "jo/onna",
+                    "english": "female/woman",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "男の子",
+                    "romaji": "otokonoko",
+                    "english": "boy",
+                    "type": "noun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 4,
+            "title": "Place Kanji",
+            "kanji": [
+                "国",
+                "町",
+                "村",
+                "市",
+                "県",
+                "京",
+                "都",
+                "道",
+                "駅"
+            ],
+            "vocabularyItems": [
+                {
+                    "targetText": "国",
+                    "romaji": "koku/kuni",
+                    "english": "country",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "町",
+                    "romaji": "chou/machi",
+                    "english": "town",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "村",
+                    "romaji": "son/mura",
+                    "english": "village",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "市",
+                    "romaji": "shi/ichi",
+                    "english": "city",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "県",
+                    "romaji": "ken",
+                    "english": "prefecture",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "京",
+                    "romaji": "kyou/kei",
+                    "english": "capital",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "都",
+                    "romaji": "to/miyako",
+                    "english": "metropolis",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "道",
+                    "romaji": "dou/michi",
+                    "english": "road/way",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "駅",
+                    "romaji": "eki",
+                    "english": "station",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "京都",
+                    "romaji": "kyouto",
+                    "english": "Kyoto",
+                    "type": "noun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 5,
+            "title": "Building Kanji",
+            "kanji": [
+                "家",
+                "店",
+                "銀",
+                "行",
+                "病",
+                "院",
+                "図",
+                "書",
+                "館"
+            ],
+            "vocabularyItems": [
+                {
+                    "targetText": "家",
+                    "romaji": "ka/ke/ie/uchi",
+                    "english": "house/family",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "店",
+                    "romaji": "ten/mise",
+                    "english": "store",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "銀",
+                    "romaji": "gin",
+                    "english": "silver",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "行",
+                    "romaji": "kou/i",
+                    "english": "go/bank",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "病",
+                    "romaji": "byou/yamai",
+                    "english": "illness",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "院",
+                    "romaji": "in",
+                    "english": "institution",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "図",
+                    "romaji": "zu/to",
+                    "english": "diagram",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "館",
+                    "romaji": "kan",
+                    "english": "building/hall",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "銀行",
+                    "romaji": "ginkou",
+                    "english": "bank",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "病院",
+                    "romaji": "byouin",
+                    "english": "hospital",
+                    "type": "noun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 6,
+            "title": "Work Kanji",
+            "kanji": [
+                "会",
+                "社",
+                "員",
+                "仕",
+                "事",
+                "働",
+                "休"
+            ],
+            "vocabularyItems": [
+                {
+                    "targetText": "会",
+                    "romaji": "kai/a",
+                    "english": "meet/association",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "社",
+                    "romaji": "sha/yashiro",
+                    "english": "company/shrine",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "員",
+                    "romaji": "in",
+                    "english": "member",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "仕",
+                    "romaji": "shi/tsuka",
+                    "english": "serve",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "事",
+                    "romaji": "ji/koto",
+                    "english": "thing/matter",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "働",
+                    "romaji": "dou/hatara",
+                    "english": "work",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "休",
+                    "romaji": "kyuu/yasu",
+                    "english": "rest",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "会社",
+                    "romaji": "kaisha",
+                    "english": "company",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "会社員",
+                    "romaji": "kaishain",
+                    "english": "company employee",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "仕事",
+                    "romaji": "shigoto",
+                    "english": "work/job",
+                    "type": "noun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 7,
+            "title": "Time Kanji 2",
+            "kanji": [
+                "今",
+                "毎",
+                "朝",
+                "昼",
+                "夜",
+                "晩",
+                "間"
+            ],
+            "vocabularyItems": [
+                {
+                    "targetText": "今",
+                    "romaji": "kon/kin/ima",
+                    "english": "now",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "毎",
+                    "romaji": "mai",
+                    "english": "every",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "朝",
+                    "romaji": "chou/asa",
+                    "english": "morning",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "昼",
+                    "romaji": "chuu/hiru",
+                    "english": "noon/daytime",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "夜",
+                    "romaji": "ya/yoru",
+                    "english": "night",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "晩",
+                    "romaji": "ban",
+                    "english": "evening",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "間",
+                    "romaji": "kan/ken/aida/ma",
+                    "english": "interval/between",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "毎日",
+                    "romaji": "mainichi",
+                    "english": "every day",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "毎朝",
+                    "romaji": "maiasa",
+                    "english": "every morning",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "今晩",
+                    "romaji": "konban",
+                    "english": "tonight",
+                    "type": "noun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 8,
+            "title": "Verb Kanji",
+            "kanji": [
+                "帰",
+                "待",
+                "持",
+                "使",
+                "作",
+                "思",
+                "知"
+            ],
+            "vocabularyItems": [
+                {
+                    "targetText": "帰",
+                    "romaji": "ki/kae",
+                    "english": "return home",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "待",
+                    "romaji": "tai/ma",
+                    "english": "wait",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "持",
+                    "romaji": "ji/mo",
+                    "english": "hold/have",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "使",
+                    "romaji": "shi/tsuka",
+                    "english": "use",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "作",
+                    "romaji": "saku/sa/tsuku",
+                    "english": "make",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "思",
+                    "romaji": "shi/omo",
+                    "english": "think",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "知",
+                    "romaji": "chi/shi",
+                    "english": "know",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "帰る",
+                    "romaji": "kaeru",
+                    "english": "to return",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "待つ",
+                    "romaji": "matsu",
+                    "english": "to wait",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "作る",
+                    "romaji": "tsukuru",
+                    "english": "to make",
+                    "type": "verb"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 9,
+            "title": "More Verbs",
+            "kanji": [
+                "開",
+                "閉",
+                "始",
+                "終",
+                "止",
+                "走",
+                "歩"
+            ],
+            "vocabularyItems": [
+                {
+                    "targetText": "開",
+                    "romaji": "kai/a/hira",
+                    "english": "open",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "閉",
+                    "romaji": "hei/to/shi",
+                    "english": "close",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "始",
+                    "romaji": "shi/haji",
+                    "english": "begin",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "終",
+                    "romaji": "shuu/o",
+                    "english": "end",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "止",
+                    "romaji": "shi/to",
+                    "english": "stop",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "走",
+                    "romaji": "sou/hashi",
+                    "english": "run",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "歩",
+                    "romaji": "ho/aru/ayu",
+                    "english": "walk",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "開ける",
+                    "romaji": "akeru",
+                    "english": "to open",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "閉める",
+                    "romaji": "shimeru",
+                    "english": "to close",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "走る",
+                    "romaji": "hashiru",
+                    "english": "to run",
+                    "type": "verb"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 10,
+            "title": "Adjective Kanji",
+            "kanji": [
+                "新",
+                "古",
+                "高",
+                "安",
+                "長",
+                "短",
+                "多",
+                "少",
+                "早",
+                "遅"
+            ],
+            "vocabularyItems": [
+                {
+                    "targetText": "新",
+                    "romaji": "shin/atara",
+                    "english": "new",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "古",
+                    "romaji": "ko/furu",
+                    "english": "old",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "高",
+                    "romaji": "kou/taka",
+                    "english": "high/expensive",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "安",
+                    "romaji": "an/yasu",
+                    "english": "cheap/safe",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "長",
+                    "romaji": "chou/naga",
+                    "english": "long",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "短",
+                    "romaji": "tan/mijika",
+                    "english": "short",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "多",
+                    "romaji": "ta/oo",
+                    "english": "many",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "少",
+                    "romaji": "shou/suku/suko",
+                    "english": "few/little",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "早",
+                    "romaji": "sou/sa/haya",
+                    "english": "early/fast",
+                    "type": "kanji"
+                },
+                {
+                    "targetText": "遅",
+                    "romaji": "chi/oku",
+                    "english": "late/slow",
+                    "type": "kanji"
+                }
+            ]
+        }
+    ],
+    "liarGameData": {
+        "question": "買 vs 売",
+        "questionEnglish": "Which means 'to buy'?",
+        "correctAnswer": "買 (kau - to buy, has 貝 shell radical)",
+        "liarAnswer": "売 (uru - to sell)",
+        "explanation": "買 (buy) has the shell 貝 radical because shells were ancient currency. 売 (sell) is simpler.",
+        "trapType": "kanji_confusion"
+    }
+}

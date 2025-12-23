@@ -1,0 +1,227 @@
+[
+    {
+        "moduleId": "italian_a1_m1",
+        "theme": "Greetings & Introductions",
+        "order": 1,
+        "lessons": [
+            {
+                "targetText": "Ciao",
+                "phoneticTranscription": "CHOW",
+                "english": "Hello/Bye",
+                "notes": "Informal greeting and farewell"
+            },
+            {
+                "targetText": "Buongiorno",
+                "phoneticTranscription": "bwon-JOR-no",
+                "english": "Good morning/day",
+                "notes": "Used until late afternoon"
+            },
+            {
+                "targetText": "Buonasera",
+                "phoneticTranscription": "bwona-SEH-ra",
+                "english": "Good evening",
+                "notes": "Used from late afternoon onwards"
+            },
+            {
+                "targetText": "Buonanotte",
+                "phoneticTranscription": "bwona-NOT-teh",
+                "english": "Good night",
+                "notes": "Used when going to bed or leaving at night"
+            },
+            {
+                "targetText": "Arrivederci",
+                "phoneticTranscription": "ar-ree-veh-DEHR-chee",
+                "english": "Goodbye",
+                "notes": "Formal farewell"
+            }
+        ],
+        "liarGameData": {
+            "question": "___ libro è interessante",
+            "questionEnglish": "The book is interesting",
+            "correctAnswer": "Il",
+            "liarAnswer": "La",
+            "explanation": "Use 'Il' (masculine) because 'libro' is masculine. 'La' is feminine.",
+            "trapType": "gender_agreement"
+        }
+    },
+    {
+        "moduleId": "italian_a1_m2",
+        "theme": "Articles & Nouns",
+        "order": 2,
+        "lessons": [
+            {
+                "targetText": "il ragazzo",
+                "phoneticTranscription": "eel ra-GAT-tso",
+                "english": "the boy",
+                "notes": "Masculine singular article + noun"
+            },
+            {
+                "targetText": "la ragazza",
+                "phoneticTranscription": "la ra-GAT-tsa",
+                "english": "the girl",
+                "notes": "Feminine singular article + noun"
+            },
+            {
+                "targetText": "un libro",
+                "phoneticTranscription": "oon LEE-bro",
+                "english": "a book",
+                "notes": "Indefinite article (masculine)"
+            },
+            {
+                "targetText": "una casa",
+                "phoneticTranscription": "OO-na KA-sa",
+                "english": "a house",
+                "notes": "Indefinite article (feminine)"
+            },
+            {
+                "targetText": "lo studente",
+                "phoneticTranscription": "lo stoo-DEN-teh",
+                "english": "the student (male)",
+                "notes": "Use 'lo' before s+consonant, z, gn, ps, x, y"
+            }
+        ],
+        "liarGameData": {
+            "question": "___ casa è grande",
+            "questionEnglish": "The house is big",
+            "correctAnswer": "La",
+            "liarAnswer": "Il",
+            "explanation": "Use 'La' (feminine) because 'casa' is feminine. 'Il' is masculine.",
+            "trapType": "gender_agreement"
+        }
+    },
+    {
+        "moduleId": "italian_a1_m3",
+        "theme": "Numbers 1-10",
+        "order": 3,
+        "lessons": [
+            {
+                "targetText": "uno",
+                "phoneticTranscription": "OO-no",
+                "english": "one",
+                "notes": "Changes to 'un/una' before nouns"
+            },
+            {
+                "targetText": "due",
+                "phoneticTranscription": "DOO-eh",
+                "english": "two",
+                "notes": "Invariable"
+            },
+            {
+                "targetText": "tre",
+                "phoneticTranscription": "treh",
+                "english": "three",
+                "notes": "Invariable"
+            },
+            {
+                "targetText": "quattro",
+                "phoneticTranscription": "KWAT-tro",
+                "english": "four",
+                "notes": "Invariable"
+            },
+            {
+                "targetText": "cinque",
+                "phoneticTranscription": "CHEEN-kweh",
+                "english": "five",
+                "notes": "Invariable"
+            }
+        ],
+        "liarGameData": {
+            "question": "___ macchina è rossa",
+            "questionEnglish": "The car is red",
+            "correctAnswer": "La",
+            "liarAnswer": "Il",
+            "explanation": "Use 'La' (feminine) because 'macchina' is feminine. The adjective 'rossa' also agrees in gender.",
+            "trapType": "gender_agreement"
+        }
+    },
+    {
+        "moduleId": "italian_a1_m4",
+        "theme": "Common Verbs",
+        "order": 4,
+        "lessons": [
+            {
+                "targetText": "essere",
+                "phoneticTranscription": "ES-seh-reh",
+                "english": "to be",
+                "notes": "Highly irregular: io sono, tu sei, lui è"
+            },
+            {
+                "targetText": "avere",
+                "phoneticTranscription": "a-VEH-reh",
+                "english": "to have",
+                "notes": "Irregular: io ho, tu hai, lui ha"
+            },
+            {
+                "targetText": "fare",
+                "phoneticTranscription": "FAH-reh",
+                "english": "to do/make",
+                "notes": "Irregular verb"
+            },
+            {
+                "targetText": "andare",
+                "phoneticTranscription": "an-DAH-reh",
+                "english": "to go",
+                "notes": "Irregular: io vado, tu vai, lui va"
+            },
+            {
+                "targetText": "venire",
+                "phoneticTranscription": "veh-NEE-reh",
+                "english": "to come",
+                "notes": "Irregular verb"
+            }
+        ],
+        "liarGameData": {
+            "question": "___ studente è bravo",
+            "questionEnglish": "The student is good",
+            "correctAnswer": "Lo",
+            "liarAnswer": "La",
+            "explanation": "Use 'Lo' (masculine) before 's+consonant'. 'La' is feminine.",
+            "trapType": "gender_agreement"
+        }
+    },
+    {
+        "moduleId": "italian_a1_m5",
+        "theme": "Basic Questions",
+        "order": 5,
+        "lessons": [
+            {
+                "targetText": "Che cosa?",
+                "phoneticTranscription": "keh KO-sa",
+                "english": "What?",
+                "notes": "Can be shortened to 'Che?' or 'Cosa?'"
+            },
+            {
+                "targetText": "Chi?",
+                "phoneticTranscription": "kee",
+                "english": "Who?",
+                "notes": "Question word for people"
+            },
+            {
+                "targetText": "Dove?",
+                "phoneticTranscription": "DO-veh",
+                "english": "Where?",
+                "notes": "Location question"
+            },
+            {
+                "targetText": "Quando?",
+                "phoneticTranscription": "KWAN-do",
+                "english": "When?",
+                "notes": "Time question"
+            },
+            {
+                "targetText": "Perché?",
+                "phoneticTranscription": "per-KEH",
+                "english": "Why?",
+                "notes": "Reason question, has accent"
+            }
+        ],
+        "liarGameData": {
+            "question": "___ penna è blu",
+            "questionEnglish": "The pen is blue",
+            "correctAnswer": "La",
+            "liarAnswer": "Il",
+            "explanation": "Use 'La' (feminine) because 'penna' is feminine. The adjective 'blu' is invariable.",
+            "trapType": "gender_agreement"
+        }
+    }
+]

@@ -1,0 +1,448 @@
+{
+    "moduleId": "korean_a1_m5",
+    "theme": "Practical Conversations",
+    "order": 5,
+    "targetWordCount": 80,
+    "lessons": [
+        {
+            "lessonNumber": 1,
+            "title": "Restaurant",
+            "vocabularyItems": [
+                {
+                    "targetText": "메뉴판 주세요",
+                    "romaji": "menyupan juseyo",
+                    "english": "menu please",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "주문할게요",
+                    "romaji": "jumunhalgeyo",
+                    "english": "I'll order",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "이거 주세요",
+                    "romaji": "igeo juseyo",
+                    "english": "this please",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "맛있어요",
+                    "romaji": "masisseoyo",
+                    "english": "it's delicious",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "계산서 주세요",
+                    "romaji": "gyesanseo juseyo",
+                    "english": "bill please",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "얼마예요?",
+                    "romaji": "eolmayeyo?",
+                    "english": "how much is it?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "카드 돼요?",
+                    "romaji": "kadeu dwaeyo?",
+                    "english": "can I use card?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "포장해 주세요",
+                    "romaji": "pojanghae juseyo",
+                    "english": "to-go please",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 2,
+            "title": "Shopping",
+            "vocabularyItems": [
+                {
+                    "targetText": "이거 얼마예요?",
+                    "romaji": "igeo eolmayeyo?",
+                    "english": "how much is this?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "너무 비싸요",
+                    "romaji": "neomu bissayo",
+                    "english": "too expensive",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "깎아 주세요",
+                    "romaji": "kkakka juseyo",
+                    "english": "give me a discount",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "입어봐도 돼요?",
+                    "romaji": "ibeobwado dwaeyo?",
+                    "english": "can I try it on?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "더 큰 거 있어요?",
+                    "romaji": "deo keun geo isseoyo?",
+                    "english": "do you have bigger?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "작아요",
+                    "romaji": "jagayo",
+                    "english": "it's small",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "이걸로 할게요",
+                    "romaji": "igeollo halgeyo",
+                    "english": "I'll take this",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "영수증 주세요",
+                    "romaji": "yeongseujeung juseyo",
+                    "english": "receipt please",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 3,
+            "title": "Directions",
+            "vocabularyItems": [
+                {
+                    "targetText": "어디예요?",
+                    "romaji": "eodiyeyo?",
+                    "english": "where is it?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "여기서 멀어요?",
+                    "romaji": "yeogiseo meoreoyo?",
+                    "english": "is it far from here?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "가까워요",
+                    "romaji": "gakkawoyo",
+                    "english": "it's close",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "직진하세요",
+                    "romaji": "jikjinhaseyo",
+                    "english": "go straight",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "왼쪽으로 가세요",
+                    "romaji": "oenjjogeuro gaseyo",
+                    "english": "go left",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "오른쪽으로 가세요",
+                    "romaji": "oreunjjogeuro gaseyo",
+                    "english": "go right",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "길을 잃었어요",
+                    "romaji": "gireul ireosseoyo",
+                    "english": "I'm lost",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "도와주세요",
+                    "romaji": "dowajuseyo",
+                    "english": "please help me",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 4,
+            "title": "Transportation",
+            "vocabularyItems": [
+                {
+                    "targetText": "어떻게 가요?",
+                    "romaji": "eotteoke gayo?",
+                    "english": "how do I get there?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "몇 번 버스예요?",
+                    "romaji": "myeot beon beoseuyeyo?",
+                    "english": "what bus number?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "어디서 타요?",
+                    "romaji": "eodiseo tayo?",
+                    "english": "where do I board?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "어디서 내려요?",
+                    "romaji": "eodiseo naeryeoyo?",
+                    "english": "where do I get off?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "환승해야 돼요",
+                    "romaji": "hwanseunghaeya dwaeyo",
+                    "english": "need to transfer",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "다음 역이에요",
+                    "romaji": "daeum yeogieyo",
+                    "english": "it's the next station",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "여기서 내릴게요",
+                    "romaji": "yeogiseo naerilgeyo",
+                    "english": "I'll get off here",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "택시 불러 주세요",
+                    "romaji": "taeksi bulleo juseyo",
+                    "english": "please call a taxi",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 5,
+            "title": "Phone & Communication",
+            "vocabularyItems": [
+                {
+                    "targetText": "여보세요",
+                    "romaji": "yeoboseyo",
+                    "english": "hello (on phone)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "누구세요?",
+                    "romaji": "nuguseyo?",
+                    "english": "who is this?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "잠깐만요",
+                    "romaji": "jamkkanmanyo",
+                    "english": "wait a moment",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "다시 전화할게요",
+                    "romaji": "dasi jeonhwahalgeyo",
+                    "english": "I'll call again",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "문자 보냈어요",
+                    "romaji": "munja bonaesseoyo",
+                    "english": "I sent a text",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "전화번호가 뭐예요?",
+                    "romaji": "jeonhwabeonhoga mwoyeyo?",
+                    "english": "what's your phone number?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "연락할게요",
+                    "romaji": "yeollakhalgeyo",
+                    "english": "I'll contact you",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "통화 중이에요",
+                    "romaji": "tonghwa jungieyo",
+                    "english": "on a call",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 6,
+            "title": "Making Plans",
+            "vocabularyItems": [
+                {
+                    "targetText": "시간 있어요?",
+                    "romaji": "sigan isseoyo?",
+                    "english": "do you have time?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "언제 만날까요?",
+                    "romaji": "eonje mannalkkayo?",
+                    "english": "when shall we meet?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "어디서 만날까요?",
+                    "romaji": "eodiseo mannalkkayo?",
+                    "english": "where shall we meet?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "같이 갈래요?",
+                    "romaji": "gachi gallaeyo?",
+                    "english": "want to go together?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "좋아요",
+                    "romaji": "joayo",
+                    "english": "sounds good",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "미안해요, 바빠요",
+                    "romaji": "mianhaeyo, bappayo",
+                    "english": "sorry, I'm busy",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "다음에 봐요",
+                    "romaji": "daeume bwayo",
+                    "english": "see you next time",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "연락 주세요",
+                    "romaji": "yeollak juseyo",
+                    "english": "please contact me",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 7,
+            "title": "Emergencies",
+            "vocabularyItems": [
+                {
+                    "targetText": "도와주세요!",
+                    "romaji": "dowajuseyo!",
+                    "english": "help me!",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "경찰 불러 주세요",
+                    "romaji": "gyeongchal bulleo juseyo",
+                    "english": "call the police",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "구급차 불러 주세요",
+                    "romaji": "gugeupcha bulleo juseyo",
+                    "english": "call an ambulance",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "아파요",
+                    "romaji": "apayo",
+                    "english": "it hurts/I'm sick",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "병원 어디예요?",
+                    "romaji": "byeongwon eodiyeyo?",
+                    "english": "where's the hospital?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "약국 어디예요?",
+                    "romaji": "yakguk eodiyeyo?",
+                    "english": "where's the pharmacy?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "위험해요",
+                    "romaji": "wiheomhaeyo",
+                    "english": "it's dangerous",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "조심하세요",
+                    "romaji": "josimhaseyo",
+                    "english": "be careful",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 8,
+            "title": "Common Expressions",
+            "vocabularyItems": [
+                {
+                    "targetText": "정말요?",
+                    "romaji": "jeongmallyo?",
+                    "english": "really?",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "그래요?",
+                    "romaji": "geuraeyo?",
+                    "english": "is that so?",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "맞아요",
+                    "romaji": "majayo",
+                    "english": "that's right",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "아니에요",
+                    "romaji": "anieyo",
+                    "english": "no/that's not it",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "물론이죠",
+                    "romaji": "mullonijyo",
+                    "english": "of course",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "글쎄요",
+                    "romaji": "geulsseyo",
+                    "english": "well.../I'm not sure",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "그렇군요",
+                    "romaji": "geureogunyo",
+                    "english": "I see",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "대박!",
+                    "romaji": "daebak!",
+                    "english": "awesome!/amazing!",
+                    "type": "phrase"
+                }
+            ]
+        }
+    ],
+    "liarGameData": {
+        "question": "여보세요 vs 안녕하세요",
+        "questionEnglish": "Which is used on the phone?",
+        "correctAnswer": "여보세요 (yeoboseyo - phone greeting)",
+        "liarAnswer": "안녕하세요 (annyeonghaseyo - general greeting)",
+        "explanation": "여보세요 is specifically used when answering the phone. 안녕하세요 is for in-person greetings.",
+        "trapType": "context_specific"
+    }
+}

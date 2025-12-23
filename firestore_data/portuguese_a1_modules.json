@@ -1,0 +1,227 @@
+[
+    {
+        "moduleId": "portuguese_a1_m1",
+        "theme": "Greetings & Introductions",
+        "order": 1,
+        "lessons": [
+            {
+                "targetText": "Olá",
+                "phoneticTranscription": "oh-LAH",
+                "english": "Hello",
+                "notes": "Common greeting"
+            },
+            {
+                "targetText": "Bom dia",
+                "phoneticTranscription": "bom DEE-ah",
+                "english": "Good morning",
+                "notes": "Morning greeting"
+            },
+            {
+                "targetText": "Boa tarde",
+                "phoneticTranscription": "BOH-ah TAR-deh",
+                "english": "Good afternoon",
+                "notes": "Afternoon greeting"
+            },
+            {
+                "targetText": "Boa noite",
+                "phoneticTranscription": "BOH-ah NOY-teh",
+                "english": "Good evening/night",
+                "notes": "Evening greeting and farewell"
+            },
+            {
+                "targetText": "Adeus",
+                "phoneticTranscription": "ah-DEH-oosh",
+                "english": "Goodbye",
+                "notes": "Formal farewell"
+            }
+        ],
+        "liarGameData": {
+            "question": "Como ___ você?",
+            "questionEnglish": "How are you?",
+            "correctAnswer": "está",
+            "liarAnswer": "é",
+            "explanation": "Use 'está' (estar) for temporary states like emotions. 'É' (ser) is for permanent characteristics.",
+            "trapType": "ser_estar_confusion"
+        }
+    },
+    {
+        "moduleId": "portuguese_a1_m2",
+        "theme": "Basic Introductions",
+        "order": 2,
+        "lessons": [
+            {
+                "targetText": "Meu nome é",
+                "phoneticTranscription": "MEH-oo NOH-meh eh",
+                "english": "My name is",
+                "notes": "Introducing yourself"
+            },
+            {
+                "targetText": "Como você se chama?",
+                "phoneticTranscription": "KOH-moo voh-SEH seh SHAH-mah",
+                "english": "What's your name?",
+                "notes": "Asking someone's name"
+            },
+            {
+                "targetText": "Prazer",
+                "phoneticTranscription": "prah-ZEHR",
+                "english": "Pleasure/Nice to meet you",
+                "notes": "Polite greeting"
+            },
+            {
+                "targetText": "De onde você é?",
+                "phoneticTranscription": "deh ON-deh voh-SEH eh",
+                "english": "Where are you from?",
+                "notes": "Asking about origin"
+            },
+            {
+                "targetText": "Eu sou de...",
+                "phoneticTranscription": "EH-oo soh deh",
+                "english": "I am from...",
+                "notes": "Stating your origin"
+            }
+        ],
+        "liarGameData": {
+            "question": "João ___ do Brasil",
+            "questionEnglish": "João is from Brazil",
+            "correctAnswer": "é",
+            "liarAnswer": "está",
+            "explanation": "Use 'é' (ser) for origin/nationality. 'Está' (estar) is for location/condition.",
+            "trapType": "ser_estar_confusion"
+        }
+    },
+    {
+        "moduleId": "portuguese_a1_m3",
+        "theme": "Numbers 1-10",
+        "order": 3,
+        "lessons": [
+            {
+                "targetText": "um",
+                "phoneticTranscription": "oom",
+                "english": "one",
+                "notes": "Masculine form"
+            },
+            {
+                "targetText": "dois",
+                "phoneticTranscription": "doysh",
+                "english": "two",
+                "notes": "Masculine form"
+            },
+            {
+                "targetText": "três",
+                "phoneticTranscription": "traysh",
+                "english": "three",
+                "notes": "Invariable"
+            },
+            {
+                "targetText": "quatro",
+                "phoneticTranscription": "KWAH-troo",
+                "english": "four",
+                "notes": "Invariable"
+            },
+            {
+                "targetText": "cinco",
+                "phoneticTranscription": "SEEN-koo",
+                "english": "five",
+                "notes": "Invariable"
+            }
+        ],
+        "liarGameData": {
+            "question": "A casa ___ grande",
+            "questionEnglish": "The house is big",
+            "correctAnswer": "é",
+            "liarAnswer": "está",
+            "explanation": "Use 'é' (ser) for inherent characteristics. 'Está' is for temporary states.",
+            "trapType": "ser_estar_confusion"
+        }
+    },
+    {
+        "moduleId": "portuguese_a1_m4",
+        "theme": "Common Verbs",
+        "order": 4,
+        "lessons": [
+            {
+                "targetText": "ser",
+                "phoneticTranscription": "sehr",
+                "english": "to be (permanent)",
+                "notes": "Used for identity, origin, characteristics"
+            },
+            {
+                "targetText": "estar",
+                "phoneticTranscription": "esh-TAR",
+                "english": "to be (temporary)",
+                "notes": "Used for location, condition, emotions"
+            },
+            {
+                "targetText": "ter",
+                "phoneticTranscription": "tehr",
+                "english": "to have",
+                "notes": "Also used for age"
+            },
+            {
+                "targetText": "fazer",
+                "phoneticTranscription": "fah-ZEHR",
+                "english": "to do/make",
+                "notes": "Irregular verb"
+            },
+            {
+                "targetText": "ir",
+                "phoneticTranscription": "eer",
+                "english": "to go",
+                "notes": "Highly irregular"
+            }
+        ],
+        "liarGameData": {
+            "question": "Eu ___ na biblioteca",
+            "questionEnglish": "I am in the library",
+            "correctAnswer": "estou",
+            "liarAnswer": "sou",
+            "explanation": "Use 'estou' (estar) for location. 'Sou' (ser) is for identity/characteristics.",
+            "trapType": "ser_estar_confusion"
+        }
+    },
+    {
+        "moduleId": "portuguese_a1_m5",
+        "theme": "Basic Questions",
+        "order": 5,
+        "lessons": [
+            {
+                "targetText": "O quê?",
+                "phoneticTranscription": "oo keh",
+                "english": "What?",
+                "notes": "Question word"
+            },
+            {
+                "targetText": "Quem?",
+                "phoneticTranscription": "kaym",
+                "english": "Who?",
+                "notes": "Question word for people"
+            },
+            {
+                "targetText": "Onde?",
+                "phoneticTranscription": "ON-deh",
+                "english": "Where?",
+                "notes": "Location question"
+            },
+            {
+                "targetText": "Quando?",
+                "phoneticTranscription": "KWAN-doo",
+                "english": "When?",
+                "notes": "Time question"
+            },
+            {
+                "targetText": "Por quê?",
+                "phoneticTranscription": "por keh",
+                "english": "Why?",
+                "notes": "Reason question"
+            }
+        ],
+        "liarGameData": {
+            "question": "Maria ___ cansada hoje",
+            "questionEnglish": "Maria is tired today",
+            "correctAnswer": "está",
+            "liarAnswer": "é",
+            "explanation": "Use 'está' (estar) for temporary conditions like being tired. 'É' is for permanent traits.",
+            "trapType": "ser_estar_confusion"
+        }
+    }
+]

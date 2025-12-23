@@ -1,0 +1,692 @@
+{
+    "moduleId": "korean_a1_m6",
+    "theme": "Particle Mastery & Noun-Verb Pairs",
+    "order": 6,
+    "targetWordCount": 120,
+    "lessons": [
+        {
+            "lessonNumber": 1,
+            "title": "Subject Particles (이/가)",
+            "vocabularyItems": [
+                {
+                    "targetText": "친구가 와요",
+                    "romaji": "chinguga wayo",
+                    "english": "friend comes (subject)",
+                    "type": "phrase",
+                    "notes": "가 after vowel"
+                },
+                {
+                    "targetText": "학생이 공부해요",
+                    "romaji": "haksaengi gongbuhaeyo",
+                    "english": "student studies (subject)",
+                    "type": "phrase",
+                    "notes": "이 after consonant"
+                },
+                {
+                    "targetText": "선생님이 가르쳐요",
+                    "romaji": "seonsaengnimi gareuchyeoyo",
+                    "english": "teacher teaches",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "비가 와요",
+                    "romaji": "biga wayo",
+                    "english": "rain comes/it's raining",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "눈이 와요",
+                    "romaji": "nuni wayo",
+                    "english": "snow comes/it's snowing",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "강아지가 짖어요",
+                    "romaji": "gangajiga jijeoyo",
+                    "english": "puppy barks",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "고양이가 자요",
+                    "romaji": "goyangiga jayo",
+                    "english": "cat sleeps",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "꽃이 예뻐요",
+                    "romaji": "kkochi yeppeoyo",
+                    "english": "flower is pretty",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "나무가 커요",
+                    "romaji": "namuga keoyo",
+                    "english": "tree is big",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "문이 열려요",
+                    "romaji": "muni yeollyeoyo",
+                    "english": "door opens",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 2,
+            "title": "Topic Particles (은/는)",
+            "vocabularyItems": [
+                {
+                    "targetText": "저는 학생이에요",
+                    "romaji": "jeoneun haksaengieyo",
+                    "english": "I am a student (topic)",
+                    "type": "phrase",
+                    "notes": "는 after vowel"
+                },
+                {
+                    "targetText": "친구는 의사예요",
+                    "romaji": "chinguneun uisayeyo",
+                    "english": "friend is a doctor (topic)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "책은 재미있어요",
+                    "romaji": "chaekeun jaemiisseoyo",
+                    "english": "book is interesting (topic)",
+                    "type": "phrase",
+                    "notes": "은 after consonant"
+                },
+                {
+                    "targetText": "날씨는 좋아요",
+                    "romaji": "nalssineun joayo",
+                    "english": "weather is good (topic)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "음식은 맛있어요",
+                    "romaji": "eumsigeun masisseoyo",
+                    "english": "food is delicious (topic)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "한국어는 어려워요",
+                    "romaji": "hangugeoneun eoryeowoyo",
+                    "english": "Korean is difficult (topic)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "영화는 슬퍼요",
+                    "romaji": "yeonghwaneun seulpeoyo",
+                    "english": "movie is sad (topic)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "커피는 쓰어요",
+                    "romaji": "keopineun sseoyo",
+                    "english": "coffee is bitter (topic)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "물은 차가워요",
+                    "romaji": "mureun chagawoyo",
+                    "english": "water is cold (topic)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "방은 넓어요",
+                    "romaji": "bangeun neolbeoyo",
+                    "english": "room is spacious (topic)",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 3,
+            "title": "Object Particles (을/를)",
+            "vocabularyItems": [
+                {
+                    "targetText": "밥을 먹어요",
+                    "romaji": "babeul meogeoyo",
+                    "english": "eat rice (object)",
+                    "type": "phrase",
+                    "notes": "을 after consonant"
+                },
+                {
+                    "targetText": "물을 마셔요",
+                    "romaji": "mureul masyeoyo",
+                    "english": "drink water (object)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "책을 읽어요",
+                    "romaji": "chaekeul ilgeoyo",
+                    "english": "read book (object)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "음악을 들어요",
+                    "romaji": "eumageul deureoyo",
+                    "english": "listen to music (object)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "친구를 만나요",
+                    "romaji": "chingureul mannayo",
+                    "english": "meet friend (object)",
+                    "type": "phrase",
+                    "notes": "를 after vowel"
+                },
+                {
+                    "targetText": "영화를 봐요",
+                    "romaji": "yeonghwareul bwayo",
+                    "english": "watch movie (object)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "한국어를 배워요",
+                    "romaji": "hangugeoreul baewoyo",
+                    "english": "learn Korean (object)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "숙제를 해요",
+                    "romaji": "sukjereul haeyo",
+                    "english": "do homework (object)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "사진을 찍어요",
+                    "romaji": "sajineul jjigeoyo",
+                    "english": "take photo (object)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "노래를 불러요",
+                    "romaji": "noraereul bulleoyo",
+                    "english": "sing song (object)",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 4,
+            "title": "Location Particles (에/에서)",
+            "vocabularyItems": [
+                {
+                    "targetText": "집에 가요",
+                    "romaji": "jibe gayo",
+                    "english": "go home (destination)",
+                    "type": "phrase",
+                    "notes": "에 for destination"
+                },
+                {
+                    "targetText": "학교에 있어요",
+                    "romaji": "hakgyoe isseoyo",
+                    "english": "be at school (static location)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "도서관에서 공부해요",
+                    "romaji": "doseogwaneseo gongbuhaeyo",
+                    "english": "study at library (action location)",
+                    "type": "phrase",
+                    "notes": "에서 for action location"
+                },
+                {
+                    "targetText": "식당에서 먹어요",
+                    "romaji": "sikdangeseo meogeoyo",
+                    "english": "eat at restaurant",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "공원에서 놀아요",
+                    "romaji": "gongwoneseo norayo",
+                    "english": "play at park",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "카페에서 커피를 마셔요",
+                    "romaji": "kapeeseo keopireul masyeoyo",
+                    "english": "drink coffee at cafe",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "서울에 살아요",
+                    "romaji": "seoure sarayo",
+                    "english": "live in Seoul",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "회사에서 일해요",
+                    "romaji": "hoesaeseo ilhaeyo",
+                    "english": "work at company",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "방에 있어요",
+                    "romaji": "bange isseoyo",
+                    "english": "be in room",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "극장에서 영화를 봐요",
+                    "romaji": "geukjangeseo yeonghwareul bwayo",
+                    "english": "watch movie at theater",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 5,
+            "title": "Possessive & Conjunction (의/와/하고)",
+            "vocabularyItems": [
+                {
+                    "targetText": "저의 책",
+                    "romaji": "jeoui chaek",
+                    "english": "my book",
+                    "type": "phrase",
+                    "notes": "의 possessive"
+                },
+                {
+                    "targetText": "친구의 집",
+                    "romaji": "chinguui jip",
+                    "english": "friend's house",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "선생님의 말씀",
+                    "romaji": "seonsaengnimui malsseum",
+                    "english": "teacher's words",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "사과와 바나나",
+                    "romaji": "sagwawa banana",
+                    "english": "apple and banana",
+                    "type": "phrase",
+                    "notes": "와 after vowel"
+                },
+                {
+                    "targetText": "빵과 우유",
+                    "romaji": "ppanggwa uyu",
+                    "english": "bread and milk",
+                    "type": "phrase",
+                    "notes": "과 after consonant"
+                },
+                {
+                    "targetText": "친구하고 놀아요",
+                    "romaji": "chinguhago norayo",
+                    "english": "play with friend",
+                    "type": "phrase",
+                    "notes": "하고 casual 'with'"
+                },
+                {
+                    "targetText": "엄마하고 쇼핑해요",
+                    "romaji": "eommahago syopinghaeyo",
+                    "english": "shop with mom",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "커피와 케이크",
+                    "romaji": "keopiwa keikeu",
+                    "english": "coffee and cake",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "책과 연필",
+                    "romaji": "chaekgwa yeonpil",
+                    "english": "book and pencil",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "형하고 게임해요",
+                    "romaji": "hyeonghago geimhaeyo",
+                    "english": "play games with older brother",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 6,
+            "title": "Additional Particles (도/만/부터/까지)",
+            "vocabularyItems": [
+                {
+                    "targetText": "저도 가요",
+                    "romaji": "jeodo gayo",
+                    "english": "I also go",
+                    "type": "phrase",
+                    "notes": "도 = also/too"
+                },
+                {
+                    "targetText": "친구도 와요",
+                    "romaji": "chingudo wayo",
+                    "english": "friend also comes",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "저만 있어요",
+                    "romaji": "jeoman isseoyo",
+                    "english": "only I am here",
+                    "type": "phrase",
+                    "notes": "만 = only"
+                },
+                {
+                    "targetText": "한 개만 주세요",
+                    "romaji": "han gaeman juseyo",
+                    "english": "only one please",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "아침부터 저녁까지",
+                    "romaji": "achimbuteo jeonyeokkkaji",
+                    "english": "from morning to evening",
+                    "type": "phrase",
+                    "notes": "부터...까지 = from...to"
+                },
+                {
+                    "targetText": "월요일부터 금요일까지",
+                    "romaji": "woryoilbuteo geumyoilkkaji",
+                    "english": "from Monday to Friday",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "서울부터 부산까지",
+                    "romaji": "seoulbuteo busankkaji",
+                    "english": "from Seoul to Busan",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "물도 주세요",
+                    "romaji": "muldo juseyo",
+                    "english": "water too please",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "이것만 사요",
+                    "romaji": "igeotman sayo",
+                    "english": "buy only this",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "1시부터 3시까지",
+                    "romaji": "hanssibuteo samsiккaji",
+                    "english": "from 1 o'clock to 3 o'clock",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 7,
+            "title": "Common Nouns for Particle Practice",
+            "vocabularyItems": [
+                {
+                    "targetText": "사람",
+                    "romaji": "saram",
+                    "english": "person",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "일",
+                    "romaji": "il",
+                    "english": "work/job",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "시간",
+                    "romaji": "sigan",
+                    "english": "time",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "장소",
+                    "romaji": "jangso",
+                    "english": "place",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "물건",
+                    "romaji": "mulgeon",
+                    "english": "thing/object",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "이야기",
+                    "romaji": "iyagi",
+                    "english": "story/talk",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "문제",
+                    "romaji": "munje",
+                    "english": "problem",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "생각",
+                    "romaji": "saenggak",
+                    "english": "thought/idea",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "경험",
+                    "romaji": "gyeongheom",
+                    "english": "experience",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "계획",
+                    "romaji": "gyehoek",
+                    "english": "plan",
+                    "type": "noun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 8,
+            "title": "Action Verbs for Particle Practice",
+            "vocabularyItems": [
+                {
+                    "targetText": "만들다",
+                    "romaji": "mandeulda",
+                    "english": "to make",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "찾다",
+                    "romaji": "chatda",
+                    "english": "to find/search",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "팔다",
+                    "romaji": "palda",
+                    "english": "to sell",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "빌리다",
+                    "romaji": "billida",
+                    "english": "to borrow/rent",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "빌려주다",
+                    "romaji": "billyeojuda",
+                    "english": "to lend",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "고르다",
+                    "romaji": "goreuda",
+                    "english": "to choose",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "바꾸다",
+                    "romaji": "bakkuda",
+                    "english": "to change",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "닦다",
+                    "romaji": "dakda",
+                    "english": "to wipe/clean",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "던지다",
+                    "romaji": "deonjida",
+                    "english": "to throw",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "잡다",
+                    "romaji": "japda",
+                    "english": "to catch/hold",
+                    "type": "verb"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 9,
+            "title": "State Verbs for Particle Practice",
+            "vocabularyItems": [
+                {
+                    "targetText": "필요하다",
+                    "romaji": "piryohada",
+                    "english": "to need/be necessary",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "중요하다",
+                    "romaji": "jungyohada",
+                    "english": "to be important",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "유명하다",
+                    "romaji": "yumyeonghada",
+                    "english": "to be famous",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "특별하다",
+                    "romaji": "teukbyeolhada",
+                    "english": "to be special",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "이상하다",
+                    "romaji": "isanghada",
+                    "english": "to be strange",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "조용하다",
+                    "romaji": "joyonghada",
+                    "english": "to be quiet",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "시끄럽다",
+                    "romaji": "sikkeureopda",
+                    "english": "to be noisy",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "깨끗하다",
+                    "romaji": "kkaekkeutada",
+                    "english": "to be clean",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "더럽다",
+                    "romaji": "deoeopda",
+                    "english": "to be dirty",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "복잡하다",
+                    "romaji": "bokjaphada",
+                    "english": "to be complicated/crowded",
+                    "type": "verb"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 10,
+            "title": "Particle Contrast Sentences",
+            "vocabularyItems": [
+                {
+                    "targetText": "저는 학생이에요 vs 제가 학생이에요",
+                    "romaji": "jeoneun vs jega",
+                    "english": "topic vs subject distinction",
+                    "type": "contrast",
+                    "notes": "는 for known info, 가 for new info"
+                },
+                {
+                    "targetText": "친구가 와요 vs 친구는 와요",
+                    "romaji": "chinguga vs chinguneun",
+                    "english": "neutral statement vs contrast",
+                    "type": "contrast"
+                },
+                {
+                    "targetText": "학교에 가요 vs 학교에서 가요",
+                    "romaji": "hakgyoe vs hakgyoeseo",
+                    "english": "destination vs starting point",
+                    "type": "contrast"
+                },
+                {
+                    "targetText": "커피를 마셔요 vs 커피는 마셔요",
+                    "romaji": "keopireul vs keopineun",
+                    "english": "object vs topic/contrast",
+                    "type": "contrast"
+                },
+                {
+                    "targetText": "친구와 가요 vs 친구하고 가요",
+                    "romaji": "chinguwa vs chinguhago",
+                    "english": "formal 'with' vs casual 'with'",
+                    "type": "contrast"
+                },
+                {
+                    "targetText": "물도 주세요 vs 물만 주세요",
+                    "romaji": "muldo vs mulman",
+                    "english": "also vs only",
+                    "type": "contrast"
+                },
+                {
+                    "targetText": "책이 있어요 vs 책은 있어요",
+                    "romaji": "chaegi vs chaekeun",
+                    "english": "existence vs contrast (but...)",
+                    "type": "contrast"
+                },
+                {
+                    "targetText": "밥을 먹어요 vs 밥은 먹어요",
+                    "romaji": "babeul vs babeun",
+                    "english": "eating rice vs rice (but not other things)",
+                    "type": "contrast"
+                },
+                {
+                    "targetText": "서울에 살아요 vs 서울에서 살아요",
+                    "romaji": "seoure vs seouleseo",
+                    "english": "live in Seoul (location) vs live in Seoul (origin)",
+                    "type": "contrast"
+                },
+                {
+                    "targetText": "한국어가 어려워요 vs 한국어는 어려워요",
+                    "romaji": "hangugeoga vs hangugeoneun",
+                    "english": "Korean is difficult (neutral) vs Korean is difficult (but...)",
+                    "type": "contrast"
+                }
+            ]
+        }
+    ],
+    "liarGameData": {
+        "question": "친구___ 와요",
+        "questionEnglish": "Friend comes (fill the particle)",
+        "correctAnswer": "가 (ga - subject particle, neutral statement)",
+        "liarAnswer": "는 (neun - topic particle, implies contrast)",
+        "explanation": "Use 가 for neutral subject. 는 would imply 'friend comes (but someone else doesn't)' - creating unintended contrast!",
+        "trapType": "particle_confusion_subject_topic"
+    }
+}
