@@ -22,7 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-serviceAccountKey.json.json
+serviceAccountKey.json
+scripts/serviceAccountKey.json
 # Firebase configuration files
 android/app/google-services.json
 ios/Runner/GoogleService-Info.plist
