@@ -1,0 +1,162 @@
+const fs = require('fs');
+const path = require('path');
+
+/**
+ * French A2 Module 11: Travel & Transportation (Advanced)
+ * 
+ * A2 Level Focus:
+ * - Past tense verbs (passé composé)
+ * - Travel scenarios and booking
+ * - Giving/understanding directions
+ * - Describing past experiences
+ * - More complex sentence structures
+ * 
+ * CRITICAL: No repeats from A1 modules (M1-M10)
+ */
+
+const m11_items = [
+    // --- TRAVEL VERBS (Passé Composé Focus) ---
+    { word: "Voyager", meaning: "To travel", reading: "vwa-ya-zhay", example_sentence: "J'ai voyagé en Italie l'été dernier." },
+    { word: "Réserver", meaning: "To book/reserve", reading: "ray-zer-vay", example_sentence: "J'ai réservé une chambre d'hôtel." },
+    { word: "Annuler", meaning: "To cancel", reading: "a-noo-lay", example_sentence: "J'ai dû annuler mon vol." },
+    { word: "Confirmer", meaning: "To confirm", reading: "kohn-feer-may", example_sentence: "Pouvez-vous confirmer ma réservation ?" },
+    { word: "Embarquer", meaning: "To board", reading: "ahm-bar-kay", example_sentence: "Nous avons embarqué à l'heure." },
+    { word: "Débarquer", meaning: "To disembark", reading: "day-bar-kay", example_sentence: "Les passagers ont débarqué rapidement." },
+    { word: "Atterrir", meaning: "To land", reading: "a-teh-reer", example_sentence: "L'avion a atterri avec du retard." },
+    { word: "Décoller", meaning: "To take off", reading: "day-koh-lay", example_sentence: "L'avion va décoller dans dix minutes." },
+    { word: "Conduire", meaning: "To drive", reading: "kohn-dweer", example_sentence: "Il a conduit toute la nuit." },
+    { word: "Louer", meaning: "To rent", reading: "loo-ay", example_sentence: "Nous avons loué une voiture." },
+
+    // --- AIRPORT & STATION VOCABULARY ---
+    { word: "Aéroport", meaning: "Airport", reading: "ay-roh-por", example_sentence: "L'aéroport est très grand." },
+    { word: "Terminal", meaning: "Terminal", reading: "ter-mee-nal", example_sentence: "Quel terminal pour Air France ?" },
+    { word: "Embarquement", meaning: "Boarding", reading: "ahm-bar-kuh-mahn", example_sentence: "La porte d'embarquement est la B12." },
+    { word: "Douane", meaning: "Customs", reading: "dwan", example_sentence: "J'ai passé la douane sans problème." },
+    { word: "Contrôle", meaning: "Security check", reading: "kohn-trohl", example_sentence: "Le contrôle de sécurité était long." },
+    { word: "Passeport", meaning: "Passport", reading: "pas-por", example_sentence: "N'oubliez pas votre passeport." },
+    { word: "Visa", meaning: "Visa", reading: "vee-za", example_sentence: "Avez-vous besoin d'un visa ?" },
+    { word: "Bagage", meaning: "Luggage", reading: "ba-gazh", example_sentence: "Mes bagages sont perdus." },
+    { word: "Valise", meaning: "Suitcase", reading: "va-leez", example_sentence: "Ma valise est trop lourde." },
+    { word: "Sac à dos", meaning: "Backpack", reading: "sak a doh", example_sentence: "J'ai mis mes affaires dans mon sac à dos." },
+
+    // --- TRANSPORTATION MODES ---
+    { word: "Vol", meaning: "Flight", reading: "vohl", example_sentence: "Mon vol est à 14h30." },
+    { word: "Correspondance", meaning: "Connection (transit)", reading: "koh-res-pohn-dahns", example_sentence: "J'ai une correspondance à Lyon." },
+    { word: "Billet", meaning: "Ticket", reading: "bee-yay", example_sentence: "J'ai acheté un billet aller-retour." },
+    { word: "Aller simple", meaning: "One-way ticket", reading: "a-lay sam-pluh", example_sentence: "Un aller simple pour Marseille." },
+    { word: "Aller-retour", meaning: "Round trip", reading: "a-lay ruh-toor", example_sentence: "Deux allers-retours, s'il vous plaît." },
+    { word: "Première classe", meaning: "First class", reading: "pruh-myer klas", example_sentence: "J'ai voyagé en première classe." },
+    { word: "Seconde classe", meaning: "Second class", reading: "suh-gohnd klas", example_sentence: "Les billets en seconde classe sont moins chers." },
+    { word: "Quai", meaning: "Platform", reading: "kay", example_sentence: "Le train part du quai numéro 5." },
+    { word: "Voie", meaning: "Track", reading: "vwa", example_sentence: "Attention à la voie ferrée." },
+    { word: "Gare", meaning: "Train station", reading: "gar", example_sentence: "La gare est au centre-ville." },
+
+    // --- ACCOMMODATION ---
+    { word: "Hébergement", meaning: "Accommodation", reading: "ay-berzh-mahn", example_sentence: "Quel type d'hébergement préférez-vous ?" },
+    { word: "Auberge", meaning: "Hostel/Inn", reading: "oh-berzh", example_sentence: "L'auberge de jeunesse est bon marché." },
+    { word: "Réception", meaning: "Reception/Front desk", reading: "ray-sep-syohn", example_sentence: "Demandez à la réception." },
+    { word: "Clé", meaning: "Key", reading: "klay", example_sentence: "Voici la clé de votre chambre." },
+    { word: "Ascenseur", meaning: "Elevator", reading: "a-sahn-sur", example_sentence: "Prenez l'ascenseur jusqu'au troisième." },
+    { word: "Étage", meaning: "Floor (level)", reading: "ay-tazh", example_sentence: "Votre chambre est au deuxième étage." },
+    { word: "Vue", meaning: "View", reading: "voo", example_sentence: "La chambre a une belle vue sur la mer." },
+    { word: "Climatisation", meaning: "Air conditioning", reading: "klee-ma-tee-za-syohn", example_sentence: "La climatisation ne fonctionne pas." },
+    { word: "Chauffage", meaning: "Heating", reading: "shoh-fazh", example_sentence: "Le chauffage est en panne." },
+    { word: "Petit-déjeuner inclus", meaning: "Breakfast included", reading: "puh-tee day-zhuh-nay an-kloo", example_sentence: "Le petit-déjeuner est inclus dans le prix." },
+
+    // --- DIRECTIONS & NAVIGATION ---
+    { word: "Itinéraire", meaning: "Route/Itinerary", reading: "ee-tee-nay-rer", example_sentence: "Quel est le meilleur itinéraire ?" },
+    { word: "Carrefour", meaning: "Intersection", reading: "kar-foor", example_sentence: "Tournez à gauche au carrefour." },
+    { word: "Rond-point", meaning: "Roundabout", reading: "rohn-pwan", example_sentence: "Prenez la deuxième sortie au rond-point." },
+    { word: "Feu rouge", meaning: "Traffic light", reading: "fuh roozh", example_sentence: "Arrêtez-vous au feu rouge." },
+    { word: "Panneau", meaning: "Sign", reading: "pa-noh", example_sentence: "Suivez les panneaux pour le centre." },
+    { word: "Sens unique", meaning: "One-way street", reading: "sahns oo-neek", example_sentence: "C'est une rue à sens unique." },
+    { word: "Impasse", meaning: "Dead end", reading: "am-pas", example_sentence: "Attention, c'est une impasse." },
+    { word: "Raccourci", meaning: "Shortcut", reading: "ra-koor-see", example_sentence: "Je connais un raccourci." },
+    { word: "Se perdre", meaning: "To get lost", reading: "suh per-druh", example_sentence: "Je me suis perdu dans la ville." },
+    { word: "Retrouver", meaning: "To find again", reading: "ruh-troo-vay", example_sentence: "J'ai retrouvé mon chemin." },
+
+    // --- HEALTH & BODY (A2 Level) ---
+    { word: "Pharmacie", meaning: "Pharmacy", reading: "far-ma-see", example_sentence: "La pharmacie est ouverte tard." },
+    { word: "Ordonnance", meaning: "Prescription", reading: "or-doh-nahns", example_sentence: "Vous avez une ordonnance ?" },
+    { word: "Médicament", meaning: "Medication", reading: "may-dee-ka-mahn", example_sentence: "Prenez ce médicament trois fois par jour." },
+    { word: "Comprimé", meaning: "Tablet/Pill", reading: "kohm-pree-may", example_sentence: "Un comprimé avant chaque repas." },
+    { word: "Sirop", meaning: "Syrup", reading: "see-roh", example_sentence: "Ce sirop est pour la toux." },
+    { word: "Pansement", meaning: "Bandage", reading: "pahns-mahn", example_sentence: "J'ai besoin d'un pansement." },
+    { word: "Allergie", meaning: "Allergy", reading: "a-ler-zhee", example_sentence: "J'ai une allergie au pollen." },
+    { word: "Symptôme", meaning: "Symptom", reading: "samp-tohm", example_sentence: "Quels sont vos symptômes ?" },
+    { word: "Fièvre", meaning: "Fever", reading: "fyev-ruh", example_sentence: "J'ai de la fièvre depuis hier." },
+    { word: "Toux", meaning: "Cough", reading: "too", example_sentence: "J'ai une toux persistante." },
+
+    // --- MEDICAL SITUATIONS ---
+    { word: "Urgence", meaning: "Emergency", reading: "oor-zhahns", example_sentence: "C'est une urgence médicale." },
+    { word: "Blessure", meaning: "Injury", reading: "bleh-soor", example_sentence: "La blessure n'est pas grave." },
+    { word: "Douleur", meaning: "Pain", reading: "doo-lur", example_sentence: "J'ai une douleur au dos." },
+    { word: "Consultation", meaning: "Appointment (medical)", reading: "kohn-sool-ta-syohn", example_sentence: "J'ai une consultation à 10h." },
+    { word: "Diagnostic", meaning: "Diagnosis", reading: "dee-ag-nos-teek", example_sentence: "Quel est le diagnostic ?" },
+    { word: "Traitement", meaning: "Treatment", reading: "tret-mahn", example_sentence: "Le traitement dure deux semaines." },
+    { word: "Guérir", meaning: "To heal/recover", reading: "gay-reer", example_sentence: "Vous allez guérir rapidement." },
+    { word: "Se reposer", meaning: "To rest", reading: "suh ruh-poh-zay", example_sentence: "Vous devez vous reposer." },
+    { word: "Assurance", meaning: "Insurance", reading: "a-soo-rahns", example_sentence: "Avez-vous une assurance voyage ?" },
+    { word: "Carte vitale", meaning: "Health card", reading: "kart vee-tal", example_sentence: "N'oubliez pas votre carte vitale." },
+
+    // --- DESCRIBING EXPERIENCES (Past Tense) ---
+    { word: "Découvrir", meaning: "To discover", reading: "day-koo-vreer", example_sentence: "J'ai découvert un restaurant magnifique." },
+    { word: "Visiter", meaning: "To visit", reading: "vee-zee-tay", example_sentence: "Nous avons visité le musée." },
+    { word: "Admirer", meaning: "To admire", reading: "ad-mee-ray", example_sentence: "J'ai admiré le coucher de soleil." },
+    { word: "Goûter", meaning: "To taste/try", reading: "goo-tay", example_sentence: "J'ai goûté la cuisine locale." },
+    { word: "Rencontrer", meaning: "To meet", reading: "rahn-kohn-tray", example_sentence: "J'ai rencontré des gens formidables." },
+    { word: "Se souvenir", meaning: "To remember", reading: "suh soo-vuh-neer", example_sentence: "Je me souviens de ce voyage." },
+    { word: "Rater", meaning: "To miss (transport)", reading: "ra-tay", example_sentence: "J'ai raté mon train." },
+    { word: "Manquer", meaning: "To miss (someone)", reading: "mahn-kay", example_sentence: "Tu me manques beaucoup." },
+    { word: "Profiter", meaning: "To enjoy/take advantage", reading: "proh-fee-tay", example_sentence: "J'ai profité de mes vacances." },
+    { word: "Se détendre", meaning: "To relax", reading: "suh day-tahn-druh", example_sentence: "Je me suis détendu à la plage." },
+
+    // --- TRAVEL SITUATIONS & PROBLEMS ---
+    { word: "Retard", meaning: "Delay", reading: "ruh-tar", example_sentence: "Le vol a deux heures de retard." },
+    { word: "Grève", meaning: "Strike", reading: "grev", example_sentence: "Il y a une grève des transports." },
+    { word: "Complet", meaning: "Full/Sold out", reading: "kohm-play", example_sentence: "L'hôtel est complet." },
+    { word: "Disponible", meaning: "Available", reading: "dees-poh-nee-bluh", example_sentence: "Y a-t-il des chambres disponibles ?" },
+    { word: "Compris", meaning: "Included", reading: "kohm-pree", example_sentence: "Le service est compris." },
+    { word: "Supplément", meaning: "Extra charge", reading: "soo-play-mahn", example_sentence: "Il y a un supplément pour les bagages." },
+    { word: "Remboursement", meaning: "Refund", reading: "rahm-boor-suh-mahn", example_sentence: "Je voudrais un remboursement." },
+    { word: "Réclamation", meaning: "Complaint", reading: "ray-kla-ma-syohn", example_sentence: "Je veux faire une réclamation." },
+    { word: "Perdu", meaning: "Lost", reading: "per-doo", example_sentence: "Mon bagage est perdu." },
+    { word: "Trouvé", meaning: "Found", reading: "troo-vay", example_sentence: "J'ai trouvé mon portefeuille." },
+
+    // --- USEFUL A2 EXPRESSIONS ---
+    { word: "À l'avance", meaning: "In advance", reading: "a la-vahns", example_sentence: "Réservez à l'avance." },
+    { word: "Sur place", meaning: "On site", reading: "soor plas", example_sentence: "Vous pouvez payer sur place." },
+    { word: "À proximité", meaning: "Nearby", reading: "a prok-see-mee-tay", example_sentence: "Y a-t-il un restaurant à proximité ?" },
+    { word: "En panne", meaning: "Broken down", reading: "ahn pan", example_sentence: "Ma voiture est en panne." },
+    { word: "Hors service", meaning: "Out of order", reading: "or ser-vees", example_sentence: "L'ascenseur est hors service." },
+    { word: "Demi-pension", meaning: "Half board", reading: "duh-mee pahn-syohn", example_sentence: "Nous avons choisi la demi-pension." },
+    { word: "Pension complète", meaning: "Full board", reading: "pahn-syohn kohm-plet", example_sentence: "La pension complète coûte plus cher." },
+    { word: "Location", meaning: "Rental", reading: "loh-ka-syohn", example_sentence: "La location de voiture est pratique." },
+    { word: "Séjour", meaning: "Stay", reading: "say-zhoor", example_sentence: "Bon séjour en France !" },
+    { word: "Destination", meaning: "Destination", reading: "des-tee-na-syohn", example_sentence: "Quelle est votre destination ?" }
+];
+
+// Verify count
+console.log('French A2 Module 11: Travel & Health (Advanced)');
+console.log('Total items drafted: ' + m11_items.length);
+
+if (m11_items.length !== 100) {
+    console.error('❌ ERROR: Expected 100 items, got ' + m11_items.length);
+    process.exit(1);
+}
+
+// Build module object with ALL required fields
+const m11 = {
+    id: "fr_a2_m11",
+    moduleId: "fr_a2_m11",
+    name: "A2 French - Module 11: Travel & Health",
+    theme: "A2 French - Module 11: Travel & Health",
+    order: 11,
+    count: 100,
+    vocabularyItems: m11_items
+};
+
+// Save to firestore_data
+const outputPath = path.join(__dirname, '../firestore_data/french_a2_m11.json');
+fs.writeFileSync(outputPath, JSON.stringify(m11, null, 2));
+console.log('✅ Saved to: ' + outputPath);

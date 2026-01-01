@@ -1,0 +1,576 @@
+{
+    "moduleId": "spanish_a1_m7",
+    "theme": "Greetings, Courtesy & Social Phrases",
+    "order": 7,
+    "targetWordCount": 100,
+    "lessons": [
+        {
+            "lessonNumber": 1,
+            "title": "Basic Greetings",
+            "vocabularyItems": [
+                {
+                    "targetText": "Hola",
+                    "english": "Hello/Hi",
+                    "type": "greeting"
+                },
+                {
+                    "targetText": "Buenos días",
+                    "english": "Good morning",
+                    "type": "greeting"
+                },
+                {
+                    "targetText": "Buenas tardes",
+                    "english": "Good afternoon",
+                    "type": "greeting"
+                },
+                {
+                    "targetText": "Buenas noches",
+                    "english": "Good evening/night",
+                    "type": "greeting"
+                },
+                {
+                    "targetText": "Adiós",
+                    "english": "Goodbye",
+                    "type": "greeting"
+                },
+                {
+                    "targetText": "Hasta luego",
+                    "english": "See you later",
+                    "type": "greeting"
+                },
+                {
+                    "targetText": "Hasta mañana",
+                    "english": "See you tomorrow",
+                    "type": "greeting"
+                },
+                {
+                    "targetText": "Hasta pronto",
+                    "english": "See you soon",
+                    "type": "greeting"
+                },
+                {
+                    "targetText": "Nos vemos",
+                    "english": "See you",
+                    "type": "greeting"
+                },
+                {
+                    "targetText": "Chao",
+                    "english": "Bye (informal)",
+                    "type": "greeting"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 2,
+            "title": "Courtesy Expressions",
+            "vocabularyItems": [
+                {
+                    "targetText": "Por favor",
+                    "english": "Please",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Gracias",
+                    "english": "Thank you",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Muchas gracias",
+                    "english": "Thank you very much",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "De nada",
+                    "english": "You're welcome",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Perdón",
+                    "english": "Sorry/Excuse me",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Disculpe",
+                    "english": "Excuse me (formal)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Lo siento",
+                    "english": "I'm sorry",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Con permiso",
+                    "english": "Excuse me (to pass)",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "No hay problema",
+                    "english": "No problem",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Está bien",
+                    "english": "It's okay",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 3,
+            "title": "Introductions",
+            "vocabularyItems": [
+                {
+                    "targetText": "Me llamo...",
+                    "english": "My name is...",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "¿Cómo te llamas?",
+                    "english": "What's your name? (informal)",
+                    "type": "question"
+                },
+                {
+                    "targetText": "¿Cómo se llama?",
+                    "english": "What's your name? (formal)",
+                    "type": "question"
+                },
+                {
+                    "targetText": "Mucho gusto",
+                    "english": "Nice to meet you",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Encantado/a",
+                    "english": "Pleased to meet you",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Igualmente",
+                    "english": "Likewise",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "El placer es mío",
+                    "english": "The pleasure is mine",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "¿De dónde eres?",
+                    "english": "Where are you from? (informal)",
+                    "type": "question"
+                },
+                {
+                    "targetText": "Soy de...",
+                    "english": "I'm from...",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Vivo en...",
+                    "english": "I live in...",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 4,
+            "title": "How Are You?",
+            "vocabularyItems": [
+                {
+                    "targetText": "¿Cómo estás?",
+                    "english": "How are you? (informal)",
+                    "type": "question"
+                },
+                {
+                    "targetText": "¿Cómo está?",
+                    "english": "How are you? (formal)",
+                    "type": "question"
+                },
+                {
+                    "targetText": "¿Qué tal?",
+                    "english": "How's it going?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "Bien",
+                    "english": "Well/Good",
+                    "type": "adverb"
+                },
+                {
+                    "targetText": "Muy bien",
+                    "english": "Very well",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Mal",
+                    "english": "Bad",
+                    "type": "adverb"
+                },
+                {
+                    "targetText": "Así así",
+                    "english": "So-so",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Regular",
+                    "english": "Okay/Regular",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "¿Y tú?",
+                    "english": "And you? (informal)",
+                    "type": "question"
+                },
+                {
+                    "targetText": "¿Y usted?",
+                    "english": "And you? (formal)",
+                    "type": "question"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 5,
+            "title": "Asking for Help",
+            "vocabularyItems": [
+                {
+                    "targetText": "¿Puede ayudarme?",
+                    "english": "Can you help me?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "Necesito ayuda",
+                    "english": "I need help",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "No entiendo",
+                    "english": "I don't understand",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "No hablo español",
+                    "english": "I don't speak Spanish",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "¿Habla inglés?",
+                    "english": "Do you speak English?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "Más despacio, por favor",
+                    "english": "More slowly, please",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "¿Puede repetir?",
+                    "english": "Can you repeat?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "¿Cómo se dice...?",
+                    "english": "How do you say...?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "¿Qué significa...?",
+                    "english": "What does... mean?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "No sé",
+                    "english": "I don't know",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 6,
+            "title": "Making Requests",
+            "vocabularyItems": [
+                {
+                    "targetText": "¿Puedo...?",
+                    "english": "Can I...?/May I...?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "¿Podría...?",
+                    "english": "Could you...?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "Quisiera...",
+                    "english": "I would like...",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Me gustaría...",
+                    "english": "I would like...",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Deme...",
+                    "english": "Give me...",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Tráigame...",
+                    "english": "Bring me...",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Muéstreme...",
+                    "english": "Show me...",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "¿Tiene...?",
+                    "english": "Do you have...?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "¿Hay...?",
+                    "english": "Is there.../Are there...?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "Necesito...",
+                    "english": "I need...",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 7,
+            "title": "Agreement & Disagreement",
+            "vocabularyItems": [
+                {
+                    "targetText": "Sí",
+                    "english": "Yes",
+                    "type": "adverb"
+                },
+                {
+                    "targetText": "No",
+                    "english": "No",
+                    "type": "adverb"
+                },
+                {
+                    "targetText": "Claro",
+                    "english": "Of course",
+                    "type": "adverb"
+                },
+                {
+                    "targetText": "Por supuesto",
+                    "english": "Of course",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "De acuerdo",
+                    "english": "Agreed/Okay",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Vale",
+                    "english": "Okay (Spain)",
+                    "type": "interjection"
+                },
+                {
+                    "targetText": "Está bien",
+                    "english": "It's okay/Alright",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Perfecto",
+                    "english": "Perfect",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "Exacto",
+                    "english": "Exactly",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "Tienes razón",
+                    "english": "You're right",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 8,
+            "title": "Opinions & Feelings",
+            "vocabularyItems": [
+                {
+                    "targetText": "Me gusta",
+                    "english": "I like it",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "No me gusta",
+                    "english": "I don't like it",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Me encanta",
+                    "english": "I love it",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Prefiero...",
+                    "english": "I prefer...",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Creo que...",
+                    "english": "I think that...",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Pienso que...",
+                    "english": "I think that...",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "En mi opinión",
+                    "english": "In my opinion",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Para mí",
+                    "english": "For me/In my view",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Estoy de acuerdo",
+                    "english": "I agree",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "No estoy de acuerdo",
+                    "english": "I disagree",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 9,
+            "title": "Exclamations",
+            "vocabularyItems": [
+                {
+                    "targetText": "¡Qué bien!",
+                    "english": "How nice!",
+                    "type": "exclamation"
+                },
+                {
+                    "targetText": "¡Qué mal!",
+                    "english": "How bad!",
+                    "type": "exclamation"
+                },
+                {
+                    "targetText": "¡Qué lástima!",
+                    "english": "What a shame!",
+                    "type": "exclamation"
+                },
+                {
+                    "targetText": "¡Qué suerte!",
+                    "english": "What luck!",
+                    "type": "exclamation"
+                },
+                {
+                    "targetText": "¡Qué bonito!",
+                    "english": "How beautiful!",
+                    "type": "exclamation"
+                },
+                {
+                    "targetText": "¡Qué horror!",
+                    "english": "How horrible!",
+                    "type": "exclamation"
+                },
+                {
+                    "targetText": "¡Increíble!",
+                    "english": "Incredible!",
+                    "type": "exclamation"
+                },
+                {
+                    "targetText": "¡Fantástico!",
+                    "english": "Fantastic!",
+                    "type": "exclamation"
+                },
+                {
+                    "targetText": "¡Genial!",
+                    "english": "Great!",
+                    "type": "exclamation"
+                },
+                {
+                    "targetText": "¡Ay!",
+                    "english": "Ouch!/Oh!",
+                    "type": "exclamation"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 10,
+            "title": "Common Questions",
+            "vocabularyItems": [
+                {
+                    "targetText": "¿Dónde está...?",
+                    "english": "Where is...?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "¿Cuánto cuesta?",
+                    "english": "How much does it cost?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "¿A qué hora...?",
+                    "english": "At what time...?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "¿Por qué?",
+                    "english": "Why?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "¿Cuándo?",
+                    "english": "When?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "¿Cómo?",
+                    "english": "How?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "¿Quién?",
+                    "english": "Who?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "¿Cuál?",
+                    "english": "Which?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "¿Cuántos?",
+                    "english": "How many?",
+                    "type": "question"
+                },
+                {
+                    "targetText": "¿De quién?",
+                    "english": "Whose?",
+                    "type": "question"
+                }
+            ]
+        }
+    ],
+    "liarGameData": {
+        "question": "¿Cómo ___ tú?",
+        "questionEnglish": "How are you? (asking about current state)",
+        "correctAnswer": "estás",
+        "liarAnswer": "eres",
+        "explanation": "Use ESTAR (estás) to ask about someone's current condition/state. SER (eres) would ask about permanent identity. '¿Cómo estás?' = How are you feeling?",
+        "trapType": "ser_estar_wellbeing"
+    }
+}

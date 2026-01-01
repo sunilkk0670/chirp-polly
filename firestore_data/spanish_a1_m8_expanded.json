@@ -1,0 +1,647 @@
+{
+    "moduleId": "spanish_a1_m8",
+    "theme": "Daily Life & Practical Vocabulary",
+    "order": 8,
+    "targetWordCount": 100,
+    "lessons": [
+        {
+            "lessonNumber": 1,
+            "title": "Colors",
+            "vocabularyItems": [
+                {
+                    "targetText": "el color",
+                    "english": "the color",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "rojo",
+                    "english": "red",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "azul",
+                    "english": "blue",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "amarillo",
+                    "english": "yellow",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "verde",
+                    "english": "green",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "negro",
+                    "english": "black",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "blanco",
+                    "english": "white",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "gris",
+                    "english": "gray",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "marrón",
+                    "english": "brown",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "rosa",
+                    "english": "pink",
+                    "type": "adjective"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 2,
+            "title": "Body Parts (Masculine)",
+            "vocabularyItems": [
+                {
+                    "targetText": "el cuerpo",
+                    "english": "the body",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el brazo",
+                    "english": "the arm",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el dedo",
+                    "english": "the finger",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el pie",
+                    "english": "the foot",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el ojo",
+                    "english": "the eye",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el pelo",
+                    "english": "the hair",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el diente",
+                    "english": "the tooth",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el estómago",
+                    "english": "the stomach",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el corazón",
+                    "english": "the heart",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el cuello",
+                    "english": "the neck",
+                    "type": "noun",
+                    "gender": "m"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 3,
+            "title": "Body Parts (Feminine)",
+            "vocabularyItems": [
+                {
+                    "targetText": "la cabeza",
+                    "english": "the head",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la cara",
+                    "english": "the face",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la boca",
+                    "english": "the mouth",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la nariz",
+                    "english": "the nose",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la oreja",
+                    "english": "the ear",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la pierna",
+                    "english": "the leg",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la rodilla",
+                    "english": "the knee",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la espalda",
+                    "english": "the back",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la piel",
+                    "english": "the skin",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la sangre",
+                    "english": "the blood",
+                    "type": "noun",
+                    "gender": "f"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 4,
+            "title": "House Rooms",
+            "vocabularyItems": [
+                {
+                    "targetText": "la cocina",
+                    "english": "the kitchen",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "el baño",
+                    "english": "the bathroom",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el dormitorio",
+                    "english": "the bedroom",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "la sala",
+                    "english": "the living room",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "el comedor",
+                    "english": "the dining room",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el garaje",
+                    "english": "the garage",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el jardín",
+                    "english": "the garden",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el balcón",
+                    "english": "the balcony",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el piso",
+                    "english": "the floor/apartment",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el techo",
+                    "english": "the ceiling/roof",
+                    "type": "noun",
+                    "gender": "m"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 5,
+            "title": "Animals (Masculine)",
+            "vocabularyItems": [
+                {
+                    "targetText": "el perro",
+                    "english": "the dog",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el gato",
+                    "english": "the cat",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el pájaro",
+                    "english": "the bird",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el caballo",
+                    "english": "the horse",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el pez",
+                    "english": "the fish",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el león",
+                    "english": "the lion",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el elefante",
+                    "english": "the elephant",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el mono",
+                    "english": "the monkey",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el ratón",
+                    "english": "the mouse",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el conejo",
+                    "english": "the rabbit",
+                    "type": "noun",
+                    "gender": "m"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 6,
+            "title": "Animals (Feminine)",
+            "vocabularyItems": [
+                {
+                    "targetText": "la vaca",
+                    "english": "the cow",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la oveja",
+                    "english": "the sheep",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la gallina",
+                    "english": "the hen",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la mariposa",
+                    "english": "the butterfly",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la abeja",
+                    "english": "the bee",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la mosca",
+                    "english": "the fly",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la araña",
+                    "english": "the spider",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la serpiente",
+                    "english": "the snake",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la tortuga",
+                    "english": "the turtle",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la rana",
+                    "english": "the frog",
+                    "type": "noun",
+                    "gender": "f"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 7,
+            "title": "School Subjects",
+            "vocabularyItems": [
+                {
+                    "targetText": "las matemáticas",
+                    "english": "mathematics",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la historia",
+                    "english": "history",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la geografía",
+                    "english": "geography",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la ciencia",
+                    "english": "science",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la física",
+                    "english": "physics",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la química",
+                    "english": "chemistry",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la biología",
+                    "english": "biology",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "el arte",
+                    "english": "art",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "la música",
+                    "english": "music",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la educación física",
+                    "english": "physical education",
+                    "type": "noun",
+                    "gender": "f"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 8,
+            "title": "Hobbies & Activities",
+            "vocabularyItems": [
+                {
+                    "targetText": "leer",
+                    "english": "to read",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "escribir",
+                    "english": "to write",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "dibujar",
+                    "english": "to draw",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "pintar",
+                    "english": "to paint",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "jugar",
+                    "english": "to play",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "correr",
+                    "english": "to run",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "nadar",
+                    "english": "to swim",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "bailar",
+                    "english": "to dance",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "cantar",
+                    "english": "to sing",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "escuchar música",
+                    "english": "to listen to music",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 9,
+            "title": "Technology",
+            "vocabularyItems": [
+                {
+                    "targetText": "el teléfono móvil",
+                    "english": "the cell phone",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "la computadora",
+                    "english": "the computer",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "el ordenador",
+                    "english": "the computer (Spain)",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "la tableta",
+                    "english": "the tablet",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "el internet",
+                    "english": "the internet",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el correo electrónico",
+                    "english": "the email",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "la aplicación",
+                    "english": "the app",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la pantalla",
+                    "english": "the screen",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "el teclado",
+                    "english": "the keyboard",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el ratón",
+                    "english": "the mouse",
+                    "type": "noun",
+                    "gender": "m"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 10,
+            "title": "Adjectives - Size & Quality",
+            "vocabularyItems": [
+                {
+                    "targetText": "grande",
+                    "english": "big/large",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "pequeño",
+                    "english": "small",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "nuevo",
+                    "english": "new",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "viejo",
+                    "english": "old",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "bueno",
+                    "english": "good",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "malo",
+                    "english": "bad",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "bonito",
+                    "english": "pretty/nice",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "feo",
+                    "english": "ugly",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "caro",
+                    "english": "expensive",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "barato",
+                    "english": "cheap",
+                    "type": "adjective"
+                }
+            ]
+        }
+    ],
+    "liarGameData": {
+        "question": "El libro ___ interesante",
+        "questionEnglish": "The book is interesting (characteristic)",
+        "correctAnswer": "es",
+        "liarAnswer": "está",
+        "explanation": "Use SER (es) for inherent characteristics. 'Interesting' is a quality of the book itself, not a temporary state. ESTAR would mean the book is currently in an interesting condition!",
+        "trapType": "ser_estar_characteristic"
+    }
+}

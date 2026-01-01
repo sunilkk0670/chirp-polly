@@ -1,0 +1,6134 @@
+{
+  "modules": [
+    {
+      "moduleId": "kr_a2_m1",
+      "theme": "Fundamentals",
+      "order": 11,
+      "vocabularyItems": [
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 1)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 1)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 1)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 1)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 1)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 1)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 2)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 2)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 2)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 2)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 2)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 2)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 3)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 3)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 3)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 3)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 3)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 3)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 4)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 4)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 4)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 4)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 4)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 4)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 5)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 5)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 5)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 5)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 5)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 5)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 6)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 6)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 6)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 6)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 6)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 6)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 7)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 7)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 7)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 7)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 7)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 7)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 8)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 8)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 8)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 8)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 8)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 8)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 9)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 9)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 9)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 9)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 9)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 9)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 10)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 10)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 10)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 10)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 10)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 10)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 11)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 11)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 11)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 11)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 11)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 11)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 12)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 12)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 12)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 12)",
+          "example_sentence": "가방이 무거워요."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Fundamentals for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Fundamentals."
+      }
+    },
+    {
+      "moduleId": "kr_a2_m2",
+      "theme": "Communication",
+      "order": 12,
+      "vocabularyItems": [
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 1)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 1)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 1)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 1)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 1)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 1)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 2)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 2)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 2)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 2)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 2)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 2)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 3)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 3)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 3)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 3)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 3)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 3)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 4)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 4)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 4)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 4)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 4)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 4)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 5)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 5)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 5)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 5)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 5)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 5)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 6)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 6)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 6)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 6)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 6)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 6)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 7)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 7)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 7)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 7)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 7)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 7)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 8)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 8)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 8)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 8)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 8)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 8)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 9)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 9)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 9)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 9)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 9)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 9)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 10)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 10)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 10)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 10)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 10)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 10)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 11)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 11)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 11)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 11)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 11)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 11)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 12)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 12)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 12)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 12)",
+          "example_sentence": "아침을 먹었어요."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Communication for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Communication."
+      }
+    },
+    {
+      "moduleId": "kr_a2_m3",
+      "theme": "Daily Life",
+      "order": 13,
+      "vocabularyItems": [
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 1)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 1)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 1)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 1)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 1)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 1)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 2)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 2)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 2)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 2)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 2)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 2)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 3)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 3)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 3)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 3)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 3)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 3)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 4)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 4)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 4)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 4)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 4)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 4)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 5)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 5)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 5)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 5)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 5)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 5)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 6)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 6)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 6)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 6)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 6)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 6)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 7)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 7)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 7)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 7)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 7)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 7)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 8)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 8)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 8)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 8)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 8)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 8)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 9)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 9)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 9)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 9)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 9)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 9)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 10)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 10)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 10)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 10)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 10)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 10)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 11)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 11)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 11)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 11)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 11)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 11)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 12)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 12)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 12)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 12)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Daily Life for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Daily Life."
+      }
+    },
+    {
+      "moduleId": "kr_a2_m4",
+      "theme": "Travel",
+      "order": 14,
+      "vocabularyItems": [
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 1)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 1)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 1)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 1)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 1)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 1)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 2)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 2)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 2)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 2)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 2)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 2)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 3)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 3)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 3)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 3)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 3)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 3)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 4)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 4)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 4)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 4)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 4)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 4)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 5)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 5)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 5)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 5)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 5)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 5)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 6)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 6)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 6)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 6)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 6)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 6)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 7)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 7)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 7)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 7)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 7)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 7)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 8)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 8)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 8)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 8)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 8)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 8)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 9)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 9)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 9)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 9)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 9)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 9)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 10)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 10)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 10)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 10)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 10)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 10)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 11)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 11)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 11)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 11)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 11)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 11)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 12)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 12)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 12)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 12)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Travel for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Travel."
+      }
+    },
+    {
+      "moduleId": "kr_a2_m5",
+      "theme": "Socializing",
+      "order": 15,
+      "vocabularyItems": [
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 1)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 1)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 1)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 1)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 1)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 1)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 2)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 2)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 2)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 2)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 2)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 2)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 3)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 3)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 3)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 3)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 3)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 3)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 4)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 4)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 4)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 4)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 4)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 4)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 5)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 5)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 5)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 5)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 5)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 5)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 6)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 6)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 6)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 6)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 6)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 6)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 7)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 7)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 7)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 7)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 7)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 7)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 8)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 8)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 8)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 8)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 8)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 8)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 9)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 9)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 9)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 9)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 9)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 9)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 10)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 10)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 10)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 10)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 10)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 10)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 11)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 11)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 11)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 11)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 11)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 11)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 12)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 12)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 12)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 12)",
+          "example_sentence": "어제는 바빼어요."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Socializing for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Socializing."
+      }
+    },
+    {
+      "moduleId": "kr_a2_m6",
+      "theme": "Nature",
+      "order": 16,
+      "vocabularyItems": [
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 1)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 1)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 1)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 1)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 1)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 1)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 2)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 2)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 2)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 2)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 2)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 2)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 3)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 3)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 3)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 3)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 3)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 3)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 4)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 4)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 4)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 4)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 4)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 4)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 5)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 5)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 5)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 5)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 5)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 5)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 6)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 6)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 6)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 6)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 6)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 6)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 7)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 7)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 7)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 7)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 7)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 7)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 8)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 8)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 8)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 8)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 8)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 8)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 9)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 9)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 9)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 9)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 9)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 9)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 10)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 10)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 10)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 10)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 10)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 10)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 11)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 11)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 11)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 11)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 11)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 11)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 12)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 12)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 12)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 12)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Nature for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Nature."
+      }
+    },
+    {
+      "moduleId": "kr_a2_m7",
+      "theme": "Work & Study",
+      "order": 17,
+      "vocabularyItems": [
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 1)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 1)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 1)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 1)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 1)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 1)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 2)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 2)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 2)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 2)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 2)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 2)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 3)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 3)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 3)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 3)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 3)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 3)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 4)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 4)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 4)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 4)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 4)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 4)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 5)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 5)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 5)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 5)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 5)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 5)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 6)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 6)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 6)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 6)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 6)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 6)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 7)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 7)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 7)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 7)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 7)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 7)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 8)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 8)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 8)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 8)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 8)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 8)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 9)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 9)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 9)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 9)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 9)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 9)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 10)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 10)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 10)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 10)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 10)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 10)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 11)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 11)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 11)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 11)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 11)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 11)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 12)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 12)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 12)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 12)",
+          "example_sentence": "시장에 갔어요."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Work & Study for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Work & Study."
+      }
+    },
+    {
+      "moduleId": "kr_a2_m8",
+      "theme": "Emotions",
+      "order": 18,
+      "vocabularyItems": [
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 1)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 1)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 1)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 1)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 1)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 1)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 2)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 2)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 2)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 2)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 2)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 2)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 3)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 3)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 3)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 3)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 3)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 3)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 4)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 4)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 4)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 4)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 4)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 4)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 5)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 5)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 5)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 5)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 5)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 5)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 6)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 6)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 6)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 6)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 6)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 6)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 7)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 7)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 7)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 7)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 7)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 7)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 8)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 8)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 8)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 8)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 8)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 8)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 9)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 9)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 9)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 9)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 9)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 9)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 10)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 10)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 10)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 10)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 10)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 10)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 11)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 11)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 11)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 11)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 11)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 11)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 12)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 12)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 12)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 12)",
+          "example_sentence": "시내 구경을 해요."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Emotions for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Emotions."
+      }
+    },
+    {
+      "moduleId": "kr_a2_m9",
+      "theme": "Culture",
+      "order": 19,
+      "vocabularyItems": [
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 1)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 1)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 1)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 1)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 1)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 1)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 2)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 2)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 2)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 2)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 2)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 2)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 3)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 3)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 3)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 3)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 3)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 3)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 4)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 4)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 4)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 4)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 4)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 4)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 5)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 5)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 5)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 5)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 5)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 5)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 6)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 6)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 6)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 6)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 6)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 6)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 7)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 7)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 7)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 7)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 7)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 7)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 8)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 8)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 8)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 8)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 8)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 8)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 9)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 9)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 9)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 9)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 9)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 9)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 10)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 10)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 10)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 10)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 10)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 10)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 11)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 11)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 11)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 11)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 11)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 11)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 12)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 12)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 12)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 12)",
+          "example_sentence": "가방이 무거워요."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Culture for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Culture."
+      }
+    },
+    {
+      "moduleId": "kr_a2_m10",
+      "theme": "Review",
+      "order": 20,
+      "vocabularyItems": [
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 1)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 1)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 1)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 1)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 1)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 1)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 2)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 2)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 2)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 2)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 2)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 2)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 3)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 3)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 3)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 3)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 3)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 3)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 4)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 4)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 4)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 4)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 4)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 4)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 5)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 5)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 5)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 5)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 5)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 5)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 6)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 6)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 6)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 6)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 6)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 6)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 7)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 7)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 7)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 7)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 7)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 7)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 8)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 8)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 8)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 8)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 8)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 8)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 9)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 9)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 9)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 9)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 9)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 9)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 10)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 10)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 10)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 10)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 10)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 10)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 11)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 11)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 11)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 11)",
+          "example_sentence": "아침을 먹었어요."
+        },
+        {
+          "word": "갔어요",
+          "reading": "gasseoyo",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "시장에 갔어요."
+        },
+        {
+          "word": "여행",
+          "reading": "yeohaeng",
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "제주도 여행은 즐거웠어요."
+        },
+        {
+          "word": "가방",
+          "reading": "gabang",
+          "meaning": "Bag (Var 11)",
+          "example_sentence": "가방이 무거워요."
+        },
+        {
+          "word": "기차역",
+          "reading": "gichayeok",
+          "meaning": "Train station (Var 11)",
+          "example_sentence": "기차역에 어떻게 가요?"
+        },
+        {
+          "word": "비행기",
+          "reading": "bihaenggi",
+          "meaning": "Plane (Var 12)",
+          "example_sentence": "비행기 표를 예약햄니다."
+        },
+        {
+          "word": "구경",
+          "reading": "gugyeong",
+          "meaning": "Sightseeing (Var 12)",
+          "example_sentence": "시내 구경을 해요."
+        },
+        {
+          "word": "어제",
+          "reading": "eoje",
+          "meaning": "Yesterday (Var 12)",
+          "example_sentence": "어제는 바빼어요."
+        },
+        {
+          "word": "먹었어요",
+          "reading": "meogeosseoyo",
+          "meaning": "Ate (Past) (Var 12)",
+          "example_sentence": "아침을 먹었어요."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Review for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Review."
+      }
+    }
+  ]
+}

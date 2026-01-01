@@ -1,0 +1,658 @@
+{
+    "moduleId": "spanish_a1_m5",
+    "theme": "Food & Dining",
+    "order": 5,
+    "targetWordCount": 100,
+    "lessons": [
+        {
+            "lessonNumber": 1,
+            "title": "Meals",
+            "vocabularyItems": [
+                {
+                    "targetText": "el desayuno",
+                    "english": "breakfast",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el almuerzo",
+                    "english": "lunch",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "la comida",
+                    "english": "lunch/meal",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la cena",
+                    "english": "dinner",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la merienda",
+                    "english": "snack",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "desayunar",
+                    "english": "to have breakfast",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "almorzar",
+                    "english": "to have lunch",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "cenar",
+                    "english": "to have dinner",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "merendar",
+                    "english": "to have a snack",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "el plato",
+                    "english": "the plate/dish",
+                    "type": "noun",
+                    "gender": "m"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 2,
+            "title": "Fruits (Masculine)",
+            "vocabularyItems": [
+                {
+                    "targetText": "el plátano",
+                    "english": "the banana",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el limón",
+                    "english": "the lemon",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el melocotón",
+                    "english": "the peach",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el melón",
+                    "english": "the melon",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el aguacate",
+                    "english": "the avocado",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el coco",
+                    "english": "the coconut",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el mango",
+                    "english": "the mango",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el durazno",
+                    "english": "the peach (LA)",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el higo",
+                    "english": "the fig",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el kiwi",
+                    "english": "the kiwi",
+                    "type": "noun",
+                    "gender": "m"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 3,
+            "title": "Fruits (Feminine)",
+            "vocabularyItems": [
+                {
+                    "targetText": "la manzana",
+                    "english": "the apple",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la naranja",
+                    "english": "the orange",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la pera",
+                    "english": "the pear",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la uva",
+                    "english": "the grape",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la fresa",
+                    "english": "the strawberry",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la sandía",
+                    "english": "the watermelon",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la piña",
+                    "english": "the pineapple",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la cereza",
+                    "english": "the cherry",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la frambuesa",
+                    "english": "the raspberry",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la ciruela",
+                    "english": "the plum",
+                    "type": "noun",
+                    "gender": "f"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 4,
+            "title": "Vegetables (Masculine)",
+            "vocabularyItems": [
+                {
+                    "targetText": "el tomate",
+                    "english": "the tomato",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el pepino",
+                    "english": "the cucumber",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el pimiento",
+                    "english": "the pepper",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el ajo",
+                    "english": "the garlic",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el brócoli",
+                    "english": "the broccoli",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el maíz",
+                    "english": "the corn",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el champiñón",
+                    "english": "the mushroom",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el rábano",
+                    "english": "the radish",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el apio",
+                    "english": "the celery",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el guisante",
+                    "english": "the pea",
+                    "type": "noun",
+                    "gender": "m"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 5,
+            "title": "Vegetables (Feminine)",
+            "vocabularyItems": [
+                {
+                    "targetText": "la lechuga",
+                    "english": "the lettuce",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la zanahoria",
+                    "english": "the carrot",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la cebolla",
+                    "english": "the onion",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la patata",
+                    "english": "the potato (Spain)",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la papa",
+                    "english": "the potato (LA)",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la espinaca",
+                    "english": "the spinach",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la berenjena",
+                    "english": "the eggplant",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la calabaza",
+                    "english": "the pumpkin",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la col",
+                    "english": "the cabbage",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la coliflor",
+                    "english": "the cauliflower",
+                    "type": "noun",
+                    "gender": "f"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 6,
+            "title": "Meat & Protein",
+            "vocabularyItems": [
+                {
+                    "targetText": "la carne",
+                    "english": "the meat",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "el pollo",
+                    "english": "the chicken",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el cerdo",
+                    "english": "the pork",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "la ternera",
+                    "english": "the veal",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "el pescado",
+                    "english": "the fish",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el marisco",
+                    "english": "the seafood",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el jamón",
+                    "english": "the ham",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el huevo",
+                    "english": "the egg",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el queso",
+                    "english": "the cheese",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "la leche",
+                    "english": "the milk",
+                    "type": "noun",
+                    "gender": "f"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 7,
+            "title": "Drinks & Beverages",
+            "vocabularyItems": [
+                {
+                    "targetText": "el agua",
+                    "english": "the water",
+                    "type": "noun",
+                    "gender": "f",
+                    "notes": "feminine but uses EL!"
+                },
+                {
+                    "targetText": "el café",
+                    "english": "the coffee",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el té",
+                    "english": "the tea",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el vino",
+                    "english": "the wine",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "la cerveza",
+                    "english": "the beer",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "el zumo",
+                    "english": "the juice (Spain)",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el jugo",
+                    "english": "the juice (LA)",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "la limonada",
+                    "english": "the lemonade",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "el refresco",
+                    "english": "the soft drink",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "la bebida",
+                    "english": "the drink/beverage",
+                    "type": "noun",
+                    "gender": "f"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 8,
+            "title": "Bread & Grains",
+            "vocabularyItems": [
+                {
+                    "targetText": "el pan",
+                    "english": "the bread",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el arroz",
+                    "english": "the rice",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "la pasta",
+                    "english": "the pasta",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "el cereal",
+                    "english": "the cereal",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "la galleta",
+                    "english": "the cookie",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "el pastel",
+                    "english": "the cake",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "la tarta",
+                    "english": "the pie/tart",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "el bizcocho",
+                    "english": "the sponge cake",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "la tortilla",
+                    "english": "the tortilla/omelet",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "el bocadillo",
+                    "english": "the sandwich",
+                    "type": "noun",
+                    "gender": "m"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 9,
+            "title": "Restaurant Phrases",
+            "vocabularyItems": [
+                {
+                    "targetText": "la cuenta",
+                    "english": "the bill",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la propina",
+                    "english": "the tip",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "el menú",
+                    "english": "the menu",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el camarero",
+                    "english": "the waiter",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "la camarera",
+                    "english": "the waitress",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "Quisiera...",
+                    "english": "I would like...",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "La cuenta, por favor",
+                    "english": "The bill, please",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Buen provecho",
+                    "english": "Enjoy your meal",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "¿Qué recomienda?",
+                    "english": "What do you recommend?",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Está delicioso",
+                    "english": "It's delicious",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 10,
+            "title": "Cooking & Preparation",
+            "vocabularyItems": [
+                {
+                    "targetText": "cocinar",
+                    "english": "to cook",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "freír",
+                    "english": "to fry",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "hervir",
+                    "english": "to boil",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "asar",
+                    "english": "to roast/grill",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "hornear",
+                    "english": "to bake",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "cortar",
+                    "english": "to cut",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "mezclar",
+                    "english": "to mix",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "pelar",
+                    "english": "to peel",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "probar",
+                    "english": "to taste/try",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "servir",
+                    "english": "to serve",
+                    "type": "verb"
+                }
+            ]
+        }
+    ],
+    "liarGameData": {
+        "question": "El ___ está fría",
+        "questionEnglish": "The water is cold",
+        "correctAnswer": "agua",
+        "liarAnswer": "la agua",
+        "explanation": "EL AGUA is feminine but uses EL (not LA) because it starts with stressed 'a'. Always EL agua, never LA agua. But adjectives are still feminine: agua fría!",
+        "trapType": "gender_article_exception"
+    }
+}

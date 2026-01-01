@@ -1,0 +1,612 @@
+{
+    "moduleId": "ja_b1_m06",
+    "theme": "Psychology & Interpersonal Dynamics",
+    "order": 6,
+    "vocabularyItems": [
+        {
+            "word": "混迷",
+            "reading": "konmei",
+            "meaning": "Turmoil/Chaos",
+            "example_sentence": "時代が混迷を極めるうちに、人々の救いとなるような芸術が生まれました。"
+        },
+        {
+            "word": "前衛",
+            "reading": "zen'ei",
+            "meaning": "Avant-garde",
+            "example_sentence": "前衛的な表現を試みるうちに、既存の芸術の枠組みを問い直すことになりました。"
+        },
+        {
+            "word": "抽象",
+            "reading": "chuushou",
+            "meaning": "Abstraction",
+            "example_sentence": "抽象表現に挑む反面、色彩や形による純粋な感動を追求します。"
+        },
+        {
+            "word": "具象",
+            "reading": "gushou",
+            "meaning": "Concreteness/Figuration",
+            "example_sentence": "具象画を描くことによって、現実の重みをキャンバスに留めることができます。"
+        },
+        {
+            "word": "写実",
+            "reading": "shajitsu",
+            "meaning": "Realism",
+            "example_sentence": "写実を極めるうちに、目に見えるもの以上の真実が見えてきました。"
+        },
+        {
+            "word": "幻想",
+            "reading": "gensou",
+            "meaning": "Fantasy/Illusion",
+            "example_sentence": "幻想的な物語を綴る反面、現実社会への鋭い批判も込められています。"
+        },
+        {
+            "word": "情念",
+            "reading": "jounen",
+            "meaning": "Passion/Sentiment",
+            "example_sentence": "情念をぶつけることによって、作品に凄まじいエネルギーが宿ります。"
+        },
+        {
+            "word": "浪漫",
+            "reading": "roman",
+            "meaning": "Romance",
+            "example_sentence": "浪漫を追い求めるうちに、理想と現実の狭間で苦悩することもあります。"
+        },
+        {
+            "word": "虚無",
+            "reading": "kyomu",
+            "meaning": "Nihilism/Nothingness",
+            "example_sentence": "虚無感を抱える反面、それを超える美を生涯かけて探し続けます。"
+        },
+        {
+            "word": "退廃",
+            "reading": "taihai",
+            "meaning": "Decadence/Degeneration",
+            "example_sentence": "退廃美を追求することによって、逆説的に生への渇望が表現されています。"
+        },
+        {
+            "word": "諧謔",
+            "reading": "kaigyaku",
+            "meaning": "Humor/Witticism",
+            "example_sentence": "諧謔を交えるうちに、深刻な問題もどこか滑稽に見えてくるものです。"
+        },
+        {
+            "word": "風刺",
+            "reading": "fuushi",
+            "meaning": "Satire/Irony",
+            "example_sentence": "社会を風刺する反面、ユーモアを忘れないことで共感を得やすくしています。"
+        },
+        {
+            "word": "皮肉",
+            "reading": "hiniku",
+            "meaning": "Irony/Sarcasm",
+            "example_sentence": "皮肉を込めることによって、物事の矛盾を鋭く突くことができます。"
+        },
+        {
+            "word": "逆説",
+            "reading": "gyakusetu",
+            "meaning": "Paradox",
+            "example_sentence": "逆説的な真理を説くうちに、固定観念が少しずつ崩れていきました。"
+        },
+        {
+            "word": "寓話",
+            "reading": "guuwa",
+            "meaning": "Fable/Parable",
+            "example_sentence": "寓話を読む反面、そこに隠された教訓を読み解く力も必要です。"
+        },
+        {
+            "word": "伝説",
+            "reading": "densetsu",
+            "meaning": "Legend",
+            "example_sentence": "伝説に彩られることによって、その場所は神秘的な輝きを放ち続けます。"
+        },
+        {
+            "word": "神話",
+            "reading": "shinwa",
+            "meaning": "Myth",
+            "example_sentence": "神話を研究するうちに、古代の人々の宇宙観が鮮やかに描き出されました。"
+        },
+        {
+            "word": "民話",
+            "reading": "min'wa",
+            "meaning": "Folktale",
+            "example_sentence": "民話を集める反面、失われつつある方言や風習の記録にも努めます。"
+        },
+        {
+            "word": "童話",
+            "reading": "douwa",
+            "meaning": "Fairytale",
+            "example_sentence": "童話を創作することによって、子供たちの想像力を豊かに育みます。"
+        },
+        {
+            "word": "童謡",
+            "reading": "douyou",
+            "meaning": "Nursery rhyme",
+            "example_sentence": "童謡を歌ううちに、幼い頃の懐かしい風景が心に浮かんできました。"
+        },
+        {
+            "word": "唱歌",
+            "reading": "shouka",
+            "meaning": "School song/Ditty",
+            "example_sentence": "唱歌を合唱する反面、言葉の美しさを丁寧に伝えることも意識します。"
+        },
+        {
+            "word": "生態",
+            "reading": "seitai",
+            "meaning": "Mode of life/Ecology",
+            "example_sentence": "生物の生態を観察するうちに、自然界の絶妙なバランスに驚かされました。"
+        },
+        {
+            "word": "汚濁",
+            "reading": "odaku",
+            "meaning": "Pollution/Contamination",
+            "example_sentence": "水質の汚濁を防ぐ反面、産業排水の処理コスト増という課題も抱えています。"
+        },
+        {
+            "word": "浄化",
+            "reading": "jouka",
+            "meaning": "Purification",
+            "example_sentence": "河川を浄化することによって、多くの魚が戻ってくるようになりました。"
+        },
+        {
+            "word": "不法投棄",
+            "reading": "fuhoutouki",
+            "meaning": "Illegal dumping",
+            "example_sentence": "不法投棄を監視するうちに、人里離れた場所での被害が深刻だと判明しました。"
+        },
+        {
+            "word": "埋立",
+            "reading": "umetate",
+            "meaning": "Landfill/Reclamation",
+            "example_sentence": "海を埋め立てる反面、貴重な干潟の生態系を損なう恐れもあります。"
+        },
+        {
+            "word": "漂着",
+            "reading": "hyouchaku",
+            "meaning": "Drifting ashore",
+            "example_sentence": "大量のゴミが漂着することによって、海岸の景観が著しく損なわれています。"
+        },
+        {
+            "word": "温室",
+            "reading": "onshitsu",
+            "meaning": "Greenhouse",
+            "example_sentence": "温室効果ガスを削減するうちに、地球温暖化の抑制に向けた国際協力が加速しました。"
+        },
+        {
+            "word": "排出量",
+            "reading": "haishutsuryou",
+            "meaning": "Emission amount",
+            "example_sentence": "二酸化炭素の排出量を抑える反面、人々のライフスタイルの変革も求められます。"
+        },
+        {
+            "word": "削減",
+            "reading": "sakugen",
+            "meaning": "Reduction",
+            "example_sentence": "廃棄物を削減することによって、最終処分場の不足問題を解決しようとしています。"
+        },
+        {
+            "word": "枯渇",
+            "reading": "kokatsu",
+            "meaning": "Depletion/Running dry",
+            "example_sentence": "地下水が枯渇するうちに、農業生産に大きな支障が出始めました。"
+        },
+        {
+            "word": "乱獲",
+            "reading": "rankaku",
+            "meaning": "Overfishing/Overhunting",
+            "example_sentence": "乱獲を放置する反面、将来の海洋資源が守られなくなるという危機感も広がっています。"
+        },
+        {
+            "word": "全滅",
+            "reading": "zenmetsu",
+            "meaning": "Total destruction/Annihilation",
+            "example_sentence": "森林火災によって貴重な植物が全滅することによって、生態系の回復に数十年を要します。"
+        },
+        {
+            "word": "保護区",
+            "reading": "hogoku",
+            "meaning": "State preserve/Conservation area",
+            "example_sentence": "保護区に指定するうちに、絶滅危惧種の個体数が徐々に回復してきました。"
+        },
+        {
+            "word": "野生",
+            "reading": "yasei",
+            "meaning": "Wild",
+            "example_sentence": "野生の姿を観察する反面、人間との境界線をどう維持するかが課題となります。"
+        },
+        {
+            "word": "固有",
+            "reading": "koyuu",
+            "meaning": "Indigenous/Specific",
+            "example_sentence": "その地域に固有の種を調査することによって、進化の歴史を解き明かすことができます。"
+        },
+        {
+            "word": "外来",
+            "reading": "gairai",
+            "meaning": "Foreign/Imported (species)",
+            "example_sentence": "外来種が繁殖するうちに、在来種の生息地が奪われていく事態になっています。"
+        },
+        {
+            "word": "在来",
+            "reading": "zairai",
+            "meaning": "Conventional/Indigenous",
+            "example_sentence": "在来種の種苗を守る反面、気候変動への耐性が低いというリスクも管理します。"
+        },
+        {
+            "word": "種子",
+            "reading": "shushi",
+            "meaning": "Seed",
+            "example_sentence": "多様な植物の種子を保存することによって、食料安全保障の基盤を築きます。"
+        },
+        {
+            "word": "発芽",
+            "reading": "hatsuga",
+            "meaning": "Germination/Sprouting",
+            "example_sentence": "種が発芽するうちに、春の訪れを肌で感じることができました。"
+        },
+        {
+            "word": "光合成",
+            "reading": "kougousei",
+            "meaning": "Photosynthesis",
+            "example_sentence": "植物が光合成を行う反面、夜間には酸素を消費しているという事実も学びました。"
+        },
+        {
+            "word": "養分",
+            "reading": "youbun",
+            "meaning": "Nourishment/Nutrient",
+            "example_sentence": "土壌の養分を分析することによって、作物の最適な栽培方法を選択できます。"
+        },
+        {
+            "word": "肥沃",
+            "reading": "hiyoku",
+            "meaning": "Fertility/Fruitfulness",
+            "example_sentence": "肥沃な大地に感謝するうちに、自然への畏敬の念が自然と湧いてきます。"
+        },
+        {
+            "word": "不毛",
+            "reading": "fumou",
+            "meaning": "Barren/Fruitless",
+            "example_sentence": "不毛な土地を開拓する反面、膨大な時間と労力を要することへの覚悟も必要です。"
+        },
+        {
+            "word": "侵食",
+            "reading": "shinshoku",
+            "meaning": "Erosion",
+            "example_sentence": "海岸線が侵食されるうちに、対策工事が追いつかない状況になってきました。"
+        },
+        {
+            "word": "決壊",
+            "reading": "kekkai",
+            "meaning": "Collapse/Breach (of a dam)",
+            "example_sentence": "堤防が決壊する反面、迅速な避難誘導によって人的被害を最小限に抑えました。"
+        },
+        {
+            "word": "氾濫",
+            "reading": "hanran",
+            "meaning": "Inundation/Overflowing",
+            "example_sentence": "川が氾濫することによって、周辺の家々が床上浸水の被害に見舞われました。"
+        },
+        {
+            "word": "渇水",
+            "reading": "kassui",
+            "meaning": "Water shortage",
+            "example_sentence": "渇水が長引くうちに、市民生活にも本格的な給水制限が始まりました。"
+        },
+        {
+            "word": "寒冷",
+            "reading": "kanrei",
+            "meaning": "Cold/Chill",
+            "example_sentence": "寒冷な気候に順応することによって、動植物は独自の生存戦略を身につけてきました。"
+        },
+        {
+            "word": "異変",
+            "reading": "ihen",
+            "meaning": "Unusual event/Abnormality",
+            "example_sentence": "気象の異変を感じる反面、それが一時的なものかどうか慎重に分析する必要があります。"
+        },
+        {
+            "word": "警報",
+            "reading": "keihou",
+            "meaning": "Alarm/Warning",
+            "example_sentence": "大雨特別警報が発令されることによって、緊迫した空気が一気に広がりました。"
+        },
+        {
+            "word": "警戒",
+            "reading": "keikai",
+            "meaning": "Vigilance/Precaution",
+            "example_sentence": "土砂災害を警戒するうちに、夜が明けても一睡もできない不安な週末となりました。"
+        },
+        {
+            "word": "災害",
+            "reading": "saigai",
+            "meaning": "Disaster",
+            "example_sentence": "災害の経験 from まなぶことによって、より強靭なまちづくりを推進しています。"
+        },
+        {
+            "word": "被災",
+            "reading": "hisai",
+            "meaning": "Being a victim of a disaster",
+            "example_sentence": "被災した状況を報告するうちに、支援の輪が全国へと広がっていきました。"
+        },
+        {
+            "word": "救援",
+            "reading": "kyuuen",
+            "meaning": "Rescue/Relief",
+            "example_sentence": "救援物資を届ける反面、道路の寸断により孤立している地域も残っています。"
+        },
+        {
+            "word": "堤防",
+            "reading": "teibou",
+            "meaning": "Bank/Embankment",
+            "example_sentence": "堤防を補強するうちに、豪雨への備えがこれまで以上に万全となりました。"
+        },
+        {
+            "word": "治山",
+            "reading": "chisan",
+            "meaning": "Forest conservation",
+            "example_sentence": "治山事業を推進する反面、野生動物へのストレスを最小限に抑えるよう配慮します。"
+        },
+        {
+            "word": "環境保全",
+            "reading": "kankyouhozen",
+            "meaning": "Environmental conservation",
+            "example_sentence": "環境保全に努めることによって、次世代に豊かな自然を受け継ぐことができます。"
+        },
+        {
+            "word": "省資源",
+            "reading": "shoushigen",
+            "meaning": "Resource saving",
+            "example_sentence": "省資源を徹底するうちに、過剰な包装を見直す企業が少しずつ増えてきました。"
+        },
+        {
+            "word": "減量",
+            "reading": "genryou",
+            "meaning": "Reduction (in quantity)",
+            "example_sentence": "ゴミの減量に取り組む反面、分別が複雑化することへの戸惑いの声もあります。"
+        },
+        {
+            "word": "資源化",
+            "reading": "shigenka",
+            "meaning": "Turning into a resource",
+            "example_sentence": "生ゴミを堆肥として資源化することによって、家庭菜園に役立てることができます。"
+        },
+        {
+            "word": "堆肥",
+            "reading": "taihi",
+            "meaning": "Compost",
+            "example_sentence": "良質な堆肥を作るうちに、土壌の微生物の働きに興味を持つようになりました。"
+        },
+        {
+            "word": "有機",
+            "reading": "yuuki",
+            "meaning": "Organic",
+            "example_sentence": "有機肥料を使用する反面、その管理には手間と経験が必要とされます。"
+        },
+        {
+            "word": "無機",
+            "reading": "muki",
+            "meaning": "Inorganic",
+            "example_sentence": "無機質な化学物質の使用を抑えることによって、環境への悪影響を最小限に留めます。"
+        },
+        {
+            "word": "公害",
+            "reading": "kougai",
+            "meaning": "Public pollution",
+            "example_sentence": "公害の歴史を繰り返さないうちに、企業倫理の徹底が強く求められるようになりました。"
+        },
+        {
+            "word": "法令",
+            "reading": "hourei",
+            "meaning": "Laws and ordinances",
+            "example_sentence": "法令を遵守する反面、現行の法律だけでは防げない新たな環境リスクも存在します。"
+        },
+        {
+            "word": "遵守",
+            "reading": "junshu",
+            "meaning": "Compliance/Observance",
+            "example_sentence": "国際基準を遵守することによって、多国籍企業としての社会的信用を維持しています。"
+        },
+        {
+            "word": "罰則",
+            "reading": "bassoku",
+            "meaning": "Penal regulations",
+            "example_sentence": "厳しい罰則を設ける反面、自主的な改善を促すためのインセンティブも重要です。"
+        },
+        {
+            "word": "査察",
+            "reading": "sasatsu",
+            "meaning": "Inspection",
+            "example_sentence": "定期的な立ち入り査察を実施することによって、不正な廃棄物処理の隠蔽を防ぎます。"
+        },
+        {
+            "word": "透明",
+            "reading": "toumei",
+            "meaning": "Transparency",
+            "example_sentence": "データ公開の透明性を高めるうちに、地域住民との信頼関係が再構築されていきました。"
+        },
+        {
+            "word": "公表",
+            "reading": "kouhyou",
+            "meaning": "Official announcement",
+            "example_sentence": "測定結果を速やかに公表する反面、風評被害の発生には十分な注意が必要です。"
+        },
+        {
+            "word": "信頼",
+            "reading": "shinrai",
+            "meaning": "Trust/Reliance",
+            "example_sentence": "地道な対話を積み重ねるうちに、企業と地域の間に強固な信頼が芽生えてきました。"
+        },
+        {
+            "word": "責務",
+            "reading": "sekimu",
+            "meaning": "Duty/Obligation",
+            "example_sentence": "未来の環境を守る責務がある反面、当面の利益を優先せざるを得ない葛藤もあります。"
+        },
+        {
+            "word": "貢献",
+            "reading": "kouken",
+            "meaning": "Contribution",
+            "example_sentence": "地域の美化活動に貢献することによって、社員の間に環境意識が根付いてきました。"
+        },
+        {
+            "word": "慈善",
+            "reading": "jizen",
+            "meaning": "Charity/Philanthropy",
+            "example_sentence": "慈善活動に熱心に取り組むうちに、単なるイメージアップ以上の意義を見出しました。"
+        },
+        {
+            "word": "助成",
+            "reading": "josei",
+            "meaning": "Subsidy/Grant",
+            "example_sentence": "研究開発を助成することによって、革新的な環境技術の実用化を後押しします。"
+        },
+        {
+            "word": "推進",
+            "reading": "suishin",
+            "meaning": "Promotion",
+            "example_sentence": "自然エネルギーの導入を推進するうちに、地域課題としての「エネルギー自給」を意識し始めました。"
+        },
+        {
+            "word": "提言",
+            "reading": "teigen",
+            "meaning": "Proposal/Motion",
+            "example_sentence": "専門家会議で提言を行う反面、それが実際の政策にどう反映されるか注視していきます。"
+        },
+        {
+            "word": "採択",
+            "reading": "saitaku",
+            "meaning": "Adoption/Selection",
+            "example_sentence": "国際会議で新しい目標を採択することによって、地球規模での気候変動対策が前進します。"
+        },
+        {
+            "word": "批准",
+            "reading": "hijuun",
+            "meaning": "Ratification",
+            "example_sentence": "条約を批准するうちに、国内でも法整備を進める必要性が高まってきました。"
+        },
+        {
+            "word": "発効",
+            "reading": "hakkou",
+            "meaning": "Coming into effect",
+            "example_sentence": "議定書が発効された反面、主要排出国の不参加がその実効性を不透明にしています。"
+        },
+        {
+            "word": "枠組み",
+            "reading": "wakugumi",
+            "meaning": "Framework",
+            "example_sentence": "新たな国際的な枠組みを議論するうちに、途上国と先進国の利害が厳しく対立しました。"
+        },
+        {
+            "word": "決裂",
+            "reading": "ketsuretsu",
+            "meaning": "Breakdown/Rupture",
+            "example_sentence": "交渉が決裂することによって、地球温暖化対策の大幅な遅れが懸念される事態となりました。"
+        },
+        {
+            "word": "模索",
+            "reading": "mosaku",
+            "meaning": "Groping/Exploring",
+            "example_sentence": "解決策を模索するうちに、地域特有の文化や習慣を活かしたアプローチの有効性に気づきました。"
+        },
+        {
+            "word": "試行",
+            "reading": "shikou",
+            "meaning": "Trial",
+            "example_sentence": "モデル事業を試行する反面、その過程で予期せぬトラブルが次々と発生しました。"
+        },
+        {
+            "word": "導入",
+            "reading": "dounyuu",
+            "meaning": "Introduction",
+            "example_sentence": "最新設備を導入することによって、エネルギー効率を飛躍的に向上させることができます。"
+        },
+        {
+            "word": "実用",
+            "reading": "jitsuyou",
+            "meaning": "Practical use",
+            "example_sentence": "技術が実用化されるうちに、生活の中に少しずつ環境に優しい選択肢が浸透してきました。"
+        },
+        {
+            "word": "普及",
+            "reading": "fukyuu",
+            "meaning": "Diffusion/Spread",
+            "example_sentence": "電気自動車を普及させる反面、充電インフラの整備が大きな課題となっています。"
+        },
+        {
+            "word": "啓発",
+            "reading": "keihatsu",
+            "meaning": "Enlightenment/Aura",
+            "example_sentence": "啓発イベントを開催することによって、子供たちの関心や問題意識を高めます。"
+        },
+        {
+            "word": "周知",
+            "reading": "shuuchi",
+            "meaning": "Common knowledge/Notice",
+            "example_sentence": "リサイクルルールを周知するうちに、ゴミの分別精度が着実に向上していきました。"
+        },
+        {
+            "word": "視察",
+            "reading": "shisatsu",
+            "meaning": "Inspection tour/Site visit",
+            "example_sentence": "海外の先進事例を視察するうちに、自国の取り組みの遅れを痛感させられました。"
+        },
+        {
+            "word": "比較",
+            "reading": "hikaku",
+            "meaning": "Comparison",
+            "example_sentence": "他都市と比較する反面、それぞれの地理的要因も考慮に入れた評価が不可欠です。"
+        },
+        {
+            "word": "評価",
+            "reading": "hyouka",
+            "meaning": "Evaluation",
+            "example_sentence": "第三者機関による評価を受けるうちに、自社の環境経営の強みと弱点が明確になりました。"
+        },
+        {
+            "word": "見直し",
+            "reading": "minaoshi",
+            "meaning": "Review/Reconsideration",
+            "example_sentence": "計画を見直す反面、当初掲げた長期的な理念は見失わないよう注意を払います。"
+        },
+        {
+            "word": "抜本",
+            "reading": "bappon",
+            "meaning": "Drastic/Radical",
+            "example_sentence": "抜本的な対策を講じることによって、長年の懸案事項だった土壌汚染の浄化に踏み切ります。"
+        },
+        {
+            "word": "向上",
+            "reading": "koujou",
+            "meaning": "Improvement/Rise",
+            "example_sentence": "リサイクル率が向上する反面、再生プロセスのさらなる効率化も求められています。"
+        },
+        {
+            "word": "先導",
+            "reading": "sendou",
+            "meaning": "Leadership/Guiding",
+            "example_sentence": "先導的な役割を果たすことによって、業界全体の環境基準の底上げに貢献しました。"
+        },
+        {
+            "word": "模範",
+            "reading": "mohan",
+            "meaning": "Exemplar/Model",
+            "example_sentence": "模範となるような取り組みを展開するうちに、他地域からの視察依頼が殺到しました。"
+        },
+        {
+            "word": "先駆け",
+            "reading": "sakigake",
+            "meaning": "Pioneer/Forerunner",
+            "example_sentence": "時代の先駆けとなる新製品を開発する反面、消費者の認知をどう獲得するかが勝負です。"
+        },
+        {
+            "word": "共鳴",
+            "reading": "kyoumei",
+            "meaning": "Resonance/Sympathy",
+            "example_sentence": "その高い志に共鳴することによって、多くのボランティアが活動に加わりました。"
+        }
+    ],
+    "liarGameData": {
+        "trap": "日本人は感情を表に出さないため、心理カウンセリングは必要ありません。(Japanese people don't show emotions, so psychological counseling is unnecessary.)",
+        "correctVersion": "日本でも心理カウンセリングやメンタルヘルスケアの重要性が認識されつつあります。「カウンセリング」や「メンタルクリニック」の利用者は増加傾向にあり、職場でのストレスチェックも義務化されています。(In Japan, the importance of psychological counseling and mental healthcare is increasingly recognized. Users of 'counseling' and 'mental clinics' are growing, and workplace stress checks are now mandatory.)",
+        "explanation": "While Japan has historically had stigma around mental health issues, this is changing. The 2015 Stress Check System (ストレスチェック制度) requires companies with 50+ employees to conduct annual mental health assessments. Youth especially are more open to seeking psychological support, though cultural barriers remain."
+    }
+}

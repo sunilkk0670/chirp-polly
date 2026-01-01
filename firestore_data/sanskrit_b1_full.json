@@ -1,0 +1,6134 @@
+{
+  "modules": [
+    {
+      "moduleId": "sa_b1_m1",
+      "theme": "Fundamentals",
+      "order": 21,
+      "vocabularyItems": [
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 1)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 1)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 1)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 1)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 1)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 1)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 1)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 1)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 2)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 2)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 2)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 2)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 2)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 2)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 2)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 2)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 3)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 3)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 3)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 3)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 3)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 3)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 3)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 3)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 4)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 4)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 4)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 4)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 4)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 4)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 4)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 4)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 5)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 5)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 5)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 5)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 5)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 5)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 5)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 5)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 6)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 6)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 6)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 6)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 6)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 6)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 6)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 6)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 7)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 7)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 7)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 7)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 7)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 7)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 7)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 7)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 8)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 8)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 8)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 8)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 8)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 8)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 8)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 8)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 9)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 9)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 9)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 9)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 9)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 9)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 9)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 9)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 10)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 10)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 10)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 10)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 10)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 10)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 10)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 10)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 11)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 11)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 11)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 11)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 11)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 11)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 11)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 11)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 12)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 12)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 12)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 12)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Fundamentals for B1",
+        "correctVersion": "The correct way to use these B1 concepts.",
+        "explanation": "Detailed linguistic focus for B1 learners in Fundamentals."
+      }
+    },
+    {
+      "moduleId": "sa_b1_m2",
+      "theme": "Communication",
+      "order": 22,
+      "vocabularyItems": [
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 1)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 1)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 1)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 1)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 1)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 1)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 1)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 1)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 2)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 2)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 2)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 2)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 2)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 2)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 2)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 2)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 3)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 3)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 3)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 3)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 3)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 3)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 3)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 3)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 4)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 4)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 4)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 4)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 4)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 4)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 4)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 4)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 5)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 5)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 5)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 5)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 5)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 5)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 5)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 5)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 6)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 6)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 6)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 6)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 6)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 6)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 6)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 6)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 7)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 7)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 7)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 7)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 7)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 7)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 7)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 7)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 8)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 8)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 8)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 8)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 8)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 8)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 8)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 8)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 9)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 9)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 9)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 9)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 9)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 9)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 9)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 9)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 10)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 10)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 10)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 10)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 10)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 10)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 10)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 10)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 11)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 11)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 11)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 11)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 11)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 11)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 11)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 11)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 12)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 12)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 12)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 12)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Communication for B1",
+        "correctVersion": "The correct way to use these B1 concepts.",
+        "explanation": "Detailed linguistic focus for B1 learners in Communication."
+      }
+    },
+    {
+      "moduleId": "sa_b1_m3",
+      "theme": "Daily Life",
+      "order": 23,
+      "vocabularyItems": [
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 1)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 1)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 1)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 1)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 1)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 1)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 1)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 1)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 2)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 2)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 2)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 2)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 2)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 2)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 2)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 2)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 3)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 3)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 3)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 3)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 3)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 3)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 3)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 3)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 4)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 4)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 4)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 4)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 4)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 4)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 4)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 4)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 5)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 5)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 5)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 5)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 5)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 5)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 5)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 5)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 6)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 6)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 6)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 6)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 6)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 6)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 6)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 6)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 7)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 7)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 7)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 7)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 7)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 7)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 7)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 7)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 8)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 8)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 8)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 8)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 8)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 8)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 8)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 8)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 9)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 9)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 9)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 9)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 9)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 9)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 9)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 9)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 10)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 10)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 10)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 10)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 10)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 10)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 10)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 10)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 11)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 11)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 11)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 11)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 11)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 11)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 11)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 11)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 12)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 12)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 12)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 12)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Daily Life for B1",
+        "correctVersion": "The correct way to use these B1 concepts.",
+        "explanation": "Detailed linguistic focus for B1 learners in Daily Life."
+      }
+    },
+    {
+      "moduleId": "sa_b1_m4",
+      "theme": "Travel",
+      "order": 24,
+      "vocabularyItems": [
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 1)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 1)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 1)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 1)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 1)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 1)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 1)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 1)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 2)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 2)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 2)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 2)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 2)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 2)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 2)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 2)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 3)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 3)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 3)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 3)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 3)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 3)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 3)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 3)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 4)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 4)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 4)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 4)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 4)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 4)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 4)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 4)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 5)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 5)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 5)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 5)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 5)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 5)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 5)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 5)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 6)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 6)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 6)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 6)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 6)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 6)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 6)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 6)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 7)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 7)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 7)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 7)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 7)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 7)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 7)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 7)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 8)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 8)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 8)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 8)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 8)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 8)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 8)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 8)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 9)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 9)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 9)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 9)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 9)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 9)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 9)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 9)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 10)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 10)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 10)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 10)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 10)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 10)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 10)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 10)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 11)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 11)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 11)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 11)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 11)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 11)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 11)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 11)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 12)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 12)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 12)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 12)",
+          "example_sentence": "इदं मम मतम्।"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Travel for B1",
+        "correctVersion": "The correct way to use these B1 concepts.",
+        "explanation": "Detailed linguistic focus for B1 learners in Travel."
+      }
+    },
+    {
+      "moduleId": "sa_b1_m5",
+      "theme": "Socializing",
+      "order": 25,
+      "vocabularyItems": [
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 1)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 1)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 1)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 1)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 1)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 1)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 1)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 1)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 2)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 2)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 2)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 2)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 2)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 2)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 2)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 2)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 3)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 3)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 3)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 3)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 3)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 3)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 3)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 3)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 4)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 4)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 4)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 4)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 4)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 4)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 4)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 4)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 5)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 5)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 5)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 5)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 5)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 5)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 5)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 5)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 6)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 6)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 6)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 6)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 6)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 6)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 6)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 6)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 7)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 7)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 7)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 7)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 7)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 7)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 7)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 7)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 8)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 8)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 8)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 8)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 8)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 8)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 8)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 8)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 9)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 9)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 9)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 9)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 9)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 9)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 9)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 9)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 10)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 10)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 10)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 10)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 10)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 10)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 10)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 10)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 11)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 11)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 11)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 11)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 11)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 11)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 11)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 11)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 12)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 12)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 12)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 12)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Socializing for B1",
+        "correctVersion": "The correct way to use these B1 concepts.",
+        "explanation": "Detailed linguistic focus for B1 learners in Socializing."
+      }
+    },
+    {
+      "moduleId": "sa_b1_m6",
+      "theme": "Nature",
+      "order": 26,
+      "vocabularyItems": [
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 1)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 1)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 1)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 1)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 1)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 1)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 1)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 1)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 2)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 2)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 2)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 2)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 2)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 2)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 2)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 2)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 3)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 3)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 3)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 3)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 3)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 3)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 3)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 3)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 4)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 4)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 4)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 4)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 4)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 4)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 4)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 4)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 5)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 5)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 5)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 5)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 5)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 5)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 5)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 5)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 6)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 6)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 6)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 6)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 6)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 6)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 6)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 6)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 7)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 7)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 7)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 7)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 7)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 7)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 7)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 7)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 8)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 8)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 8)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 8)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 8)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 8)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 8)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 8)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 9)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 9)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 9)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 9)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 9)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 9)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 9)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 9)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 10)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 10)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 10)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 10)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 10)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 10)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 10)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 10)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 11)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 11)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 11)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 11)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 11)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 11)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 11)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 11)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 12)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 12)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 12)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 12)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Nature for B1",
+        "correctVersion": "The correct way to use these B1 concepts.",
+        "explanation": "Detailed linguistic focus for B1 learners in Nature."
+      }
+    },
+    {
+      "moduleId": "sa_b1_m7",
+      "theme": "Work & Study",
+      "order": 27,
+      "vocabularyItems": [
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 1)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 1)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 1)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 1)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 1)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 1)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 1)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 1)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 2)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 2)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 2)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 2)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 2)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 2)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 2)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 2)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 3)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 3)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 3)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 3)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 3)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 3)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 3)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 3)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 4)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 4)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 4)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 4)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 4)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 4)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 4)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 4)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 5)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 5)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 5)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 5)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 5)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 5)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 5)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 5)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 6)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 6)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 6)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 6)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 6)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 6)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 6)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 6)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 7)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 7)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 7)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 7)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 7)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 7)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 7)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 7)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 8)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 8)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 8)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 8)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 8)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 8)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 8)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 8)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 9)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 9)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 9)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 9)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 9)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 9)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 9)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 9)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 10)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 10)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 10)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 10)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 10)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 10)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 10)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 10)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 11)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 11)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 11)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 11)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 11)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 11)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 11)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 11)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 12)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 12)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 12)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 12)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Work & Study for B1",
+        "correctVersion": "The correct way to use these B1 concepts.",
+        "explanation": "Detailed linguistic focus for B1 learners in Work & Study."
+      }
+    },
+    {
+      "moduleId": "sa_b1_m8",
+      "theme": "Emotions",
+      "order": 28,
+      "vocabularyItems": [
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 1)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 1)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 1)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 1)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 1)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 1)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 1)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 1)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 2)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 2)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 2)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 2)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 2)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 2)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 2)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 2)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 3)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 3)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 3)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 3)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 3)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 3)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 3)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 3)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 4)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 4)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 4)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 4)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 4)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 4)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 4)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 4)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 5)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 5)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 5)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 5)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 5)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 5)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 5)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 5)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 6)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 6)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 6)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 6)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 6)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 6)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 6)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 6)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 7)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 7)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 7)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 7)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 7)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 7)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 7)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 7)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 8)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 8)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 8)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 8)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 8)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 8)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 8)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 8)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 9)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 9)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 9)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 9)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 9)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 9)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 9)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 9)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 10)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 10)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 10)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 10)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 10)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 10)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 10)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 10)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 11)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 11)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 11)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 11)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 11)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 11)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 11)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 11)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 12)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 12)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 12)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 12)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Emotions for B1",
+        "correctVersion": "The correct way to use these B1 concepts.",
+        "explanation": "Detailed linguistic focus for B1 learners in Emotions."
+      }
+    },
+    {
+      "moduleId": "sa_b1_m9",
+      "theme": "Culture",
+      "order": 29,
+      "vocabularyItems": [
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 1)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 1)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 1)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 1)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 1)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 1)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 1)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 1)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 2)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 2)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 2)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 2)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 2)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 2)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 2)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 2)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 3)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 3)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 3)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 3)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 3)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 3)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 3)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 3)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 4)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 4)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 4)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 4)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 4)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 4)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 4)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 4)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 5)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 5)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 5)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 5)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 5)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 5)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 5)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 5)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 6)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 6)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 6)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 6)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 6)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 6)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 6)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 6)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 7)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 7)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 7)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 7)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 7)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 7)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 7)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 7)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 8)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 8)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 8)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 8)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 8)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 8)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 8)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 8)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 9)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 9)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 9)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 9)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 9)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 9)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 9)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 9)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 10)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 10)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 10)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 10)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 10)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 10)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 10)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 10)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 11)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 11)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 11)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 11)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 11)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 11)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 11)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 11)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 12)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 12)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 12)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 12)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Culture for B1",
+        "correctVersion": "The correct way to use these B1 concepts.",
+        "explanation": "Detailed linguistic focus for B1 learners in Culture."
+      }
+    },
+    {
+      "moduleId": "sa_b1_m10",
+      "theme": "Review",
+      "order": 30,
+      "vocabularyItems": [
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 1)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 1)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 1)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 1)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 1)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 1)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 1)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 1)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 2)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 2)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 2)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 2)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 2)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 2)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 2)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 2)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 3)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 3)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 3)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 3)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 3)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 3)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 3)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 3)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 4)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 4)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 4)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 4)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 4)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 4)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 4)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 4)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 5)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 5)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 5)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 5)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 5)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 5)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 5)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 5)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 6)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 6)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 6)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 6)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 6)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 6)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 6)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 6)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 7)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 7)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 7)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 7)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 7)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 7)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 7)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 7)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 8)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 8)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 8)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 8)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 8)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 8)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 8)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 8)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 9)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 9)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 9)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 9)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 9)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 9)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 9)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 9)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 10)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 10)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 10)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 10)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 10)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 10)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 10)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 10)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 11)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 11)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 11)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 11)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        },
+        {
+          "word": "यदि",
+          "reading": "yadi",
+          "meaning": "If (Var 11)",
+          "example_sentence": "यदि वृष्टिः भवति, तर्हि शस्यं वर्धते।"
+        },
+        {
+          "word": "मतम्",
+          "reading": "matam",
+          "meaning": "Opinion / Thought (Var 11)",
+          "example_sentence": "इदं मम मतम्।"
+        },
+        {
+          "word": "समाजः",
+          "reading": "samājaḥ",
+          "meaning": "Society (Var 11)",
+          "example_sentence": "समाजे प्रेम अपेक्षितम्।"
+        },
+        {
+          "word": "विचाराः",
+          "reading": "vicārāḥ",
+          "meaning": "Thoughts (Var 11)",
+          "example_sentence": "उत्तमाः विचाराः सर्वतः आयान्तु।"
+        },
+        {
+          "word": "संभावना",
+          "reading": "saṁbhāvanā",
+          "meaning": "Possibility (Var 12)",
+          "example_sentence": "सफलतायाः संभावना अस्ति।"
+        },
+        {
+          "word": "आशा",
+          "reading": "āśā",
+          "meaning": "Hope (Var 12)",
+          "example_sentence": "मम मनसि आशा वर्धते।"
+        },
+        {
+          "word": "मन्ये",
+          "reading": "manye",
+          "meaning": "I believe / think (Var 12)",
+          "example_sentence": "अहं बुद्धिमान् अस्मि इति मन्ये।"
+        },
+        {
+          "word": "भवेत्",
+          "reading": "bhavet",
+          "meaning": "Should be / May be (Var 12)",
+          "example_sentence": "सर्वे सुखिनः भवेयुः।"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Review for B1",
+        "correctVersion": "The correct way to use these B1 concepts.",
+        "explanation": "Detailed linguistic focus for B1 learners in Review."
+      }
+    }
+  ]
+}

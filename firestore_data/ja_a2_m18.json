@@ -1,0 +1,612 @@
+{
+    "moduleId": "ja_a2_m18",
+    "theme": "Nature & Environment",
+    "order": 18,
+    "vocabularyItems": [
+        {
+            "word": "取り次ぐ",
+            "reading": "toritsugu",
+            "meaning": "To pass a call/inform",
+            "example_sentence": "担当者にお取り次ぎします。"
+        },
+        {
+            "word": "伝言",
+            "reading": "dengon",
+            "meaning": "Message",
+            "example_sentence": "伝言をお願いできますか。"
+        },
+        {
+            "word": "来客",
+            "reading": "raikyaku",
+            "meaning": "Visitor",
+            "example_sentence": "来客の予定があります。"
+        },
+        {
+            "word": "案内",
+            "reading": "annai",
+            "meaning": "Guidance/Escort",
+            "example_sentence": "応接室へご案内します。"
+        },
+        {
+            "word": "お茶出し",
+            "reading": "ochadashi",
+            "meaning": "Serving tea to guests",
+            "example_sentence": "お客様にお茶出しをしました。"
+        },
+        {
+            "word": "接待",
+            "reading": "settai",
+            "meaning": "Business entertainment",
+            "example_sentence": "取引先を接待します。"
+        },
+        {
+            "word": "歓送迎会",
+            "reading": "kansougeikai",
+            "meaning": "Welcome and farewell party",
+            "example_sentence": "来週、歓送迎会があります。"
+        },
+        {
+            "word": "忘年会",
+            "reading": "bounenkai",
+            "meaning": "Year-end party",
+            "example_sentence": "年末に忘年会をしました。"
+        },
+        {
+            "word": "新年会",
+            "reading": "shinnenkai",
+            "meaning": "New Year's party",
+            "example_sentence": "1月に新年会を開催します。"
+        },
+        {
+            "word": "出世",
+            "reading": "shusse",
+            "meaning": "Promotion/Success",
+            "example_sentence": "彼は若くして出世しました。"
+        },
+        {
+            "word": "役職",
+            "reading": "yakushoku",
+            "meaning": "Post/Managerial position",
+            "example_sentence": "役職に就いています。"
+        },
+        {
+            "word": "やりがい",
+            "reading": "yarigai",
+            "meaning": "Worth doing",
+            "example_sentence": "今の仕事にやりがいを感じます。"
+        },
+        {
+            "word": "在宅勤務",
+            "reading": "zaitaku kinmu",
+            "meaning": "Working from home",
+            "example_sentence": "週に2回は在宅勤務をしています。"
+        },
+        {
+            "word": "テレワーク",
+            "reading": "terewaaku",
+            "meaning": "Telework",
+            "example_sentence": "テレワークを導入しました。"
+        },
+        {
+            "word": "フレックスタイム",
+            "reading": "furekkusu taimu",
+            "meaning": "Flextime",
+            "example_sentence": "フレックスタイム制を利用しています。"
+        },
+        {
+            "word": "副業",
+            "reading": "fukugyou",
+            "meaning": "Side job",
+            "example_sentence": "副業が認められています。"
+        },
+        {
+            "word": "自営業",
+            "reading": "jiei gyou",
+            "meaning": "Self-employment",
+            "example_sentence": "父は自営業を営んでいます。"
+        },
+        {
+            "word": "起業",
+            "reading": "kigyou",
+            "meaning": "Starting a business",
+            "example_sentence": "将来、起業したいと考えています。"
+        },
+        {
+            "word": "独立",
+            "reading": "dokuritsu",
+            "meaning": "Independence",
+            "example_sentence": "独立して事務所を構えました。"
+        },
+        {
+            "word": "経営",
+            "reading": "keiei",
+            "meaning": "Management/Administration",
+            "example_sentence": "レストランの経営をしています。"
+        },
+        {
+            "word": "倒産",
+            "reading": "tousan",
+            "meaning": "Bankruptcy",
+            "example_sentence": "取引先の会社が倒産しました。"
+        },
+        {
+            "word": "失業",
+            "reading": "shitsugyou",
+            "meaning": "Unemployment",
+            "example_sentence": "失業保険の手続きをしました。"
+        },
+        {
+            "word": "ハローワーク",
+            "reading": "haroo waaku",
+            "meaning": "Public Employment Security Office",
+            "example_sentence": "ハローワークで仕事を探します。"
+        },
+        {
+            "word": "非正規雇用",
+            "reading": "hiseiki koyou",
+            "meaning": "Non-regular employment",
+            "example_sentence": "非正規雇用の問題について考えます。"
+        },
+        {
+            "word": "派遣社員",
+            "reading": "hakenshain",
+            "meaning": "Temporary worker",
+            "example_sentence": "派遣社員として働いています。"
+        },
+        {
+            "word": "正社員",
+            "reading": "seishain",
+            "meaning": "Full-time employee",
+            "example_sentence": "正社員を目指しています。"
+        },
+        {
+            "word": "契約社員",
+            "reading": "keiyakushain",
+            "meaning": "Contract employee",
+            "example_sentence": "1年ごとの契約社員です。"
+        },
+        {
+            "word": "通勤手当",
+            "reading": "tsuukin teate",
+            "meaning": "Commuting allowance",
+            "example_sentence": "通勤手当が全額支給されます。"
+        },
+        {
+            "word": "産休",
+            "reading": "sankyuu",
+            "meaning": "Maternity leave",
+            "example_sentence": "来月から産休に入ります。"
+        },
+        {
+            "word": "育休",
+            "reading": "ikukyuu",
+            "meaning": "Childcare leave",
+            "example_sentence": "夫が育休を取得しました。"
+        },
+        {
+            "word": "介護休暇",
+            "reading": "kaigo kyuuka",
+            "meaning": "Nursing care leave",
+            "example_sentence": "介護休暇を申請しました。"
+        },
+        {
+            "word": "労働基準法",
+            "reading": "roudou kijunhou",
+            "meaning": "Labor Standards Act",
+            "example_sentence": "労働基準法を守らなければなりません。"
+        },
+        {
+            "word": "労働組合",
+            "reading": "roudou kumiai",
+            "meaning": "Labor union",
+            "example_sentence": "労働組合の集会に出席します。"
+        },
+        {
+            "word": "ストライキ",
+            "reading": "sutoraiki",
+            "meaning": "Strike",
+            "example_sentence": "ストライキが決行されました。"
+        },
+        {
+            "word": "ハラスメント",
+            "reading": "harasumento",
+            "meaning": "Harassment",
+            "example_sentence": "ハラスメントのない職場を作ります。"
+        },
+        {
+            "word": "キャリア",
+            "reading": "kyaria",
+            "meaning": "Career",
+            "example_sentence": "これまでのキャリアを活かします。"
+        },
+        {
+            "word": "スキルアップ",
+            "reading": "sukiru appu",
+            "meaning": "Improving skills",
+            "example_sentence": "スキルアップのために勉強しています。"
+        },
+        {
+            "word": "自己啓発",
+            "reading": "jiko keihatsu",
+            "meaning": "Self-development",
+            "example_sentence": "自己啓発の本を読みます。"
+        },
+        {
+            "word": "資格取得",
+            "reading": "shikaku shutoku",
+            "meaning": "Acquiring qualifications",
+            "example_sentence": "資格取得を目指して頑張ります。"
+        },
+        {
+            "word": "専門知識",
+            "reading": "senmon chishiki",
+            "meaning": "Expertise/Specialized knowledge",
+            "example_sentence": "専門知識を深めます。"
+        },
+        {
+            "word": "経験豊富",
+            "reading": "keiken houfu",
+            "meaning": "Experienced",
+            "example_sentence": "彼女は経験豊富なエンジニアです。"
+        },
+        {
+            "word": "即戦力",
+            "reading": "sokusenryoku",
+            "meaning": "Immediate asset/Ready for work",
+            "example_sentence": "即戦力として期待されています。"
+        },
+        {
+            "word": "連携",
+            "reading": "renkei",
+            "meaning": "Cooperation/Collaboration",
+            "example_sentence": "他部署との連携を強化します。"
+        },
+        {
+            "word": "分担",
+            "reading": "buntan",
+            "meaning": "Apportionment/Sharing",
+            "example_sentence": "仕事を分担して進めます。"
+        },
+        {
+            "word": "納期",
+            "reading": "nouki",
+            "meaning": "Deadline for delivery",
+            "example_sentence": "納期を厳守してください。"
+        },
+        {
+            "word": "締切",
+            "reading": "shimekiri",
+            "meaning": "Deadline",
+            "example_sentence": "締切まであと3日です。"
+        },
+        {
+            "word": "優先順位",
+            "reading": "yuusen jun'i",
+            "meaning": "Order of priority",
+            "example_sentence": "優先順位をつけて作業します。"
+        },
+        {
+            "word": "完璧主義",
+            "reading": "kanpeki shugi",
+            "meaning": "Perfectionism",
+            "example_sentence": "完璧主義すぎて疲れてしまいます。"
+        },
+        {
+            "word": "社会",
+            "reading": "shakai",
+            "meaning": "Society",
+            "example_sentence": "社会の問題について議論します。"
+        },
+        {
+            "word": "政治",
+            "reading": "seiji",
+            "meaning": "Politics",
+            "example_sentence": "政治に関心を持つことが大切です。"
+        },
+        {
+            "word": "経済",
+            "reading": "keizai",
+            "meaning": "Economy",
+            "example_sentence": "世界経済の動向を注視します。"
+        },
+        {
+            "word": "首相",
+            "reading": "shushou",
+            "meaning": "Prime Minister",
+            "example_sentence": "首相が記者会見を行いました。"
+        },
+        {
+            "word": "内閣",
+            "reading": "naikaku",
+            "meaning": "Cabinet",
+            "example_sentence": "新しい内閣が発足しました。"
+        },
+        {
+            "word": "国会",
+            "reading": "kokkai",
+            "meaning": "Diet/Parliament",
+            "example_sentence": "国会で新しい法律が審議されています。"
+        },
+        {
+            "word": "選挙",
+            "reading": "senkyo",
+            "meaning": "Election",
+            "example_sentence": "明日は市長選挙の投票日です。"
+        },
+        {
+            "word": "投票",
+            "reading": "touhyou",
+            "meaning": "Voting",
+            "example_sentence": "期日前投票に行きました。"
+        },
+        {
+            "word": "候補者",
+            "reading": "kouhosha",
+            "meaning": "Candidate",
+            "example_sentence": "多くの候補者が立候補しています。"
+        },
+        {
+            "word": "政党",
+            "reading": "seitou",
+            "meaning": "Political party",
+            "example_sentence": "支持する政党を決めます。"
+        },
+        {
+            "word": "法律",
+            "reading": "houritsu",
+            "meaning": "Law",
+            "example_sentence": "法律を守らなければなりません。"
+        },
+        {
+            "word": "憲法",
+            "reading": "kenpou",
+            "meaning": "Constitution",
+            "example_sentence": "憲法改正について議論が続いています。"
+        },
+        {
+            "word": "権利",
+            "reading": "kenri",
+            "meaning": "Right",
+            "example_sentence": "子供の権利を守ります。"
+        },
+        {
+            "word": "義務",
+            "reading": "gimu",
+            "meaning": "Duty/Obligation",
+            "example_sentence": "国民としての義務を果たします。"
+        },
+        {
+            "word": "平等",
+            "reading": "byoudou",
+            "meaning": "Equality",
+            "example_sentence": "男女平等の社会を目指します。"
+        },
+        {
+            "word": "格差",
+            "reading": "kakusa",
+            "meaning": "Disparity/Gap",
+            "example_sentence": "貧富の格差が広がっています。"
+        },
+        {
+            "word": "少子高齢化",
+            "reading": "shoushi koureika",
+            "meaning": "Declining birthrate and aging population",
+            "example_sentence": "少子高齢化は日本の大きな課題です。"
+        },
+        {
+            "word": "人口",
+            "reading": "jinkou",
+            "meaning": "Population",
+            "example_sentence": "日本の人口は減少しています。"
+        },
+        {
+            "word": "福祉",
+            "reading": "fukushi",
+            "meaning": "Welfare",
+            "example_sentence": "高齢者の福祉を充実させます。"
+        },
+        {
+            "word": "年金",
+            "reading": "nenkin",
+            "meaning": "Pension",
+            "example_sentence": "年金制度の改革が必要です。"
+        },
+        {
+            "word": "税金",
+            "reading": "zeikin",
+            "meaning": "Tax",
+            "example_sentence": "税金が何に使われているか知るべきです。"
+        },
+        {
+            "word": "消費税",
+            "reading": "shouhizei",
+            "meaning": "Consumption tax",
+            "example_sentence": "消費税が10パーセントに上がりました。"
+        },
+        {
+            "word": "関税",
+            "reading": "kanzei",
+            "meaning": "Tariff",
+            "example_sentence": "輸入品に関税がかかります。"
+        },
+        {
+            "word": "国際関係",
+            "reading": "kokusai kankei",
+            "meaning": "International relations",
+            "example_sentence": "隣国との国際関係が悪化しています。"
+        },
+        {
+            "word": "平和",
+            "reading": "heiwa",
+            "meaning": "Peace",
+            "example_sentence": "世界平和を願っています。"
+        },
+        {
+            "word": "戦争",
+            "reading": "sensou",
+            "meaning": "War",
+            "example_sentence": "戦争は二度と繰り返してはいけません。"
+        },
+        {
+            "word": "国連",
+            "reading": "kokuren",
+            "meaning": "United Nations",
+            "example_sentence": "国連が平和維持活動を行っています。"
+        },
+        {
+            "word": "外交",
+            "reading": "gaikou",
+            "meaning": "Diplomacy",
+            "example_sentence": "外交努力によって問題を解決します。"
+        },
+        {
+            "word": "ボランティア",
+            "reading": "boranteia",
+            "meaning": "Volunteer",
+            "example_sentence": "ボランティア活動に参加しました。"
+        },
+        {
+            "word": "募金",
+            "reading": "bokin",
+            "meaning": "Fundraising/Donation",
+            "example_sentence": "災害被害者のために募金をしました。"
+        },
+        {
+            "word": "寄付",
+            "reading": "kifu",
+            "meaning": "Contribution/Donation",
+            "example_sentence": "母校に寄付をしました。"
+        },
+        {
+            "word": "震災",
+            "reading": "shinsai",
+            "meaning": "Earthquake disaster",
+            "example_sentence": "震災の復興を支援します。"
+        },
+        {
+            "word": "犯罪",
+            "reading": "hanzai",
+            "meaning": "Crime",
+            "example_sentence": "犯罪を減らすための対策を考えます。"
+        },
+        {
+            "word": "警察",
+            "reading": "keisatsu",
+            "meaning": "Police",
+            "example_sentence": "警察が事件の捜査をしています。"
+        },
+        {
+            "word": "裁判",
+            "reading": "saiban",
+            "meaning": "Trial",
+            "example_sentence": "重要な裁判が行われています。"
+        },
+        {
+            "word": "事件",
+            "reading": "jiken",
+            "meaning": "Incident",
+            "example_sentence": "昨日、ひったくり事件が起きました。"
+        },
+        {
+            "word": "事故",
+            "reading": "jiko",
+            "meaning": "Accident",
+            "example_sentence": "交通事故に遭わないように注意してください。"
+        },
+        {
+            "word": "被害",
+            "reading": "higai",
+            "meaning": "Damage/Harm",
+            "example_sentence": "大雨による被害が大きいです。"
+        },
+        {
+            "word": "加害者",
+            "reading": "kagaisha",
+            "meaning": "Perpetrator",
+            "example_sentence": "加害者が逮捕されました。"
+        },
+        {
+            "word": "被害者",
+            "reading": "higaisha",
+            "meaning": "Victim",
+            "example_sentence": "被害者のプライバシーを守ります。"
+        },
+        {
+            "word": "逮捕",
+            "reading": "taiho",
+            "meaning": "Arrest",
+            "example_sentence": "犯人がその場で逮捕されました。"
+        },
+        {
+            "word": "容疑者",
+            "reading": "yougisha",
+            "meaning": "Suspect",
+            "example_sentence": "警察が容疑者を追っています。"
+        },
+        {
+            "word": "証拠",
+            "reading": "shouko",
+            "meaning": "Evidence",
+            "example_sentence": "重要な証拠が発見されました。"
+        },
+        {
+            "word": "判決",
+            "reading": "hanketsu",
+            "meaning": "Verdict/Judicial decision",
+            "example_sentence": "無罪の判決が出ました。"
+        },
+        {
+            "word": "差別",
+            "reading": "sabetsu",
+            "meaning": "Discrimination",
+            "example_sentence": "いかなる差別も許されません。"
+        },
+        {
+            "word": "偏見",
+            "reading": "henken",
+            "meaning": "Prejudice",
+            "example_sentence": "偏見を捨てて話し合いましょう。"
+        },
+        {
+            "word": "持続可能",
+            "reading": "jizoku kanou",
+            "meaning": "Sustainable",
+            "example_sentence": "持続可能な社会を目指します。"
+        },
+        {
+            "word": "教育",
+            "reading": "kyouiku",
+            "meaning": "Education",
+            "example_sentence": "教育制度の改革が進んでいます。"
+        },
+        {
+            "word": "奨学金",
+            "reading": "shougakukin",
+            "meaning": "Scholarship",
+            "example_sentence": "奨学金をもらって大学に通っています。"
+        },
+        {
+            "word": "学校行事",
+            "reading": "gakkou gyouji",
+            "meaning": "School event",
+            "example_sentence": "学校行事で文化祭があります。"
+        },
+        {
+            "word": "公共施設",
+            "reading": "koukyou shisetsu",
+            "meaning": "Public facility",
+            "example_sentence": "公共施設を大切に使いましょう。"
+        },
+        {
+            "word": "マナー",
+            "reading": "manaa",
+            "meaning": "Manner/Etiquette",
+            "example_sentence": "公共の場ではマナーを守りましょう。"
+        }
+    ],
+    "liarGameData": {
+        "trap": "地震が起きたとき、パニックになってすぐに外へ飛び出した。(Immediately ran outside in a panic during an earthquake.)",
+        "correctVersion": "まずは机の下に隠れるなど、頭を保護して揺れが収まるのを待つ。(First, protect your head by hiding under a table and wait for the shaking to stop.)",
+        "explanation": "In Japan, the standard 'Bousai' (disaster prevention) rule is 'Self-protection first.' Running outside immediately can be dangerous due to falling objects (glass, signs). Most buildings in Japan are quake-resistant, so staying inside until the shaking stops is often the safest path."
+    }
+}

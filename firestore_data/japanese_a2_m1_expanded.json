@@ -1,0 +1,1073 @@
+{
+    "moduleId": "japanese_a2_m1",
+    "theme": "N4 Kanji: Actions & Daily Life (Part 1)",
+    "order": 1,
+    "level": "a2",
+    "targetWordCount": 100,
+    "kanjiCount": 50,
+    "lessons": [
+        {
+            "lessonNumber": 1,
+            "title": "Movement Kanji",
+            "vocabularyItems": [
+                {
+                    "kanji": "動",
+                    "readings": {
+                        "on": "ドウ",
+                        "kun": "うご-く"
+                    },
+                    "english": "move",
+                    "compounds": [
+                        {
+                            "word": "動く",
+                            "reading": "うごく",
+                            "english": "to move"
+                        },
+                        {
+                            "word": "運動",
+                            "reading": "うんどう",
+                            "english": "exercise"
+                        },
+                        {
+                            "word": "自動",
+                            "reading": "じどう",
+                            "english": "automatic"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "走",
+                    "readings": {
+                        "on": "ソウ",
+                        "kun": "はし-る"
+                    },
+                    "english": "run",
+                    "compounds": [
+                        {
+                            "word": "走る",
+                            "reading": "はしる",
+                            "english": "to run"
+                        },
+                        {
+                            "word": "走者",
+                            "reading": "そうしゃ",
+                            "english": "runner"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "歩",
+                    "readings": {
+                        "on": "ホ",
+                        "kun": "ある-く"
+                    },
+                    "english": "walk",
+                    "compounds": [
+                        {
+                            "word": "歩く",
+                            "reading": "あるく",
+                            "english": "to walk"
+                        },
+                        {
+                            "word": "散歩",
+                            "reading": "さんぽ",
+                            "english": "stroll"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "止",
+                    "readings": {
+                        "on": "シ",
+                        "kun": "と-まる"
+                    },
+                    "english": "stop",
+                    "compounds": [
+                        {
+                            "word": "止まる",
+                            "reading": "とまる",
+                            "english": "to stop"
+                        },
+                        {
+                            "word": "中止",
+                            "reading": "ちゅうし",
+                            "english": "cancellation"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "待",
+                    "readings": {
+                        "on": "タイ",
+                        "kun": "ま-つ"
+                    },
+                    "english": "wait",
+                    "compounds": [
+                        {
+                            "word": "待つ",
+                            "reading": "まつ",
+                            "english": "to wait"
+                        },
+                        {
+                            "word": "期待",
+                            "reading": "きたい",
+                            "english": "expectation"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "lessonNumber": 2,
+            "title": "Communication Kanji",
+            "vocabularyItems": [
+                {
+                    "kanji": "話",
+                    "readings": {
+                        "on": "ワ",
+                        "kun": "はな-す"
+                    },
+                    "english": "talk",
+                    "compounds": [
+                        {
+                            "word": "話す",
+                            "reading": "はなす",
+                            "english": "to speak"
+                        },
+                        {
+                            "word": "会話",
+                            "reading": "かいわ",
+                            "english": "conversation"
+                        },
+                        {
+                            "word": "電話",
+                            "reading": "でんわ",
+                            "english": "telephone"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "聞",
+                    "readings": {
+                        "on": "ブン",
+                        "kun": "き-く"
+                    },
+                    "english": "hear",
+                    "compounds": [
+                        {
+                            "word": "聞く",
+                            "reading": "きく",
+                            "english": "to listen"
+                        },
+                        {
+                            "word": "新聞",
+                            "reading": "しんぶん",
+                            "english": "newspaper"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "答",
+                    "readings": {
+                        "on": "トウ",
+                        "kun": "こた-える"
+                    },
+                    "english": "answer",
+                    "compounds": [
+                        {
+                            "word": "答える",
+                            "reading": "こたえる",
+                            "english": "to answer"
+                        },
+                        {
+                            "word": "回答",
+                            "reading": "かいとう",
+                            "english": "reply"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "質",
+                    "readings": {
+                        "on": "シツ",
+                        "kun": ""
+                    },
+                    "english": "quality",
+                    "compounds": [
+                        {
+                            "word": "質問",
+                            "reading": "しつもん",
+                            "english": "question"
+                        },
+                        {
+                            "word": "品質",
+                            "reading": "ひんしつ",
+                            "english": "quality"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "問",
+                    "readings": {
+                        "on": "モン",
+                        "kun": "と-う"
+                    },
+                    "english": "question",
+                    "compounds": [
+                        {
+                            "word": "問う",
+                            "reading": "とう",
+                            "english": "to ask"
+                        },
+                        {
+                            "word": "問題",
+                            "reading": "もんだい",
+                            "english": "problem"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "lessonNumber": 3,
+            "title": "Thinking & Learning",
+            "vocabularyItems": [
+                {
+                    "kanji": "思",
+                    "readings": {
+                        "on": "シ",
+                        "kun": "おも-う"
+                    },
+                    "english": "think",
+                    "compounds": [
+                        {
+                            "word": "思う",
+                            "reading": "おもう",
+                            "english": "to think"
+                        },
+                        {
+                            "word": "思い出",
+                            "reading": "おもいで",
+                            "english": "memory"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "考",
+                    "readings": {
+                        "on": "コウ",
+                        "kun": "かんが-える"
+                    },
+                    "english": "consider",
+                    "compounds": [
+                        {
+                            "word": "考える",
+                            "reading": "かんがえる",
+                            "english": "to think"
+                        },
+                        {
+                            "word": "参考",
+                            "reading": "さんこう",
+                            "english": "reference"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "知",
+                    "readings": {
+                        "on": "チ",
+                        "kun": "し-る"
+                    },
+                    "english": "know",
+                    "compounds": [
+                        {
+                            "word": "知る",
+                            "reading": "しる",
+                            "english": "to know"
+                        },
+                        {
+                            "word": "知識",
+                            "reading": "ちしき",
+                            "english": "knowledge"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "習",
+                    "readings": {
+                        "on": "シュウ",
+                        "kun": "なら-う"
+                    },
+                    "english": "learn",
+                    "compounds": [
+                        {
+                            "word": "習う",
+                            "reading": "ならう",
+                            "english": "to learn"
+                        },
+                        {
+                            "word": "練習",
+                            "reading": "れんしゅう",
+                            "english": "practice"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "勉",
+                    "readings": {
+                        "on": "ベン",
+                        "kun": ""
+                    },
+                    "english": "diligence",
+                    "compounds": [
+                        {
+                            "word": "勉強",
+                            "reading": "べんきょう",
+                            "english": "study"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "lessonNumber": 4,
+            "title": "Work & Business",
+            "vocabularyItems": [
+                {
+                    "kanji": "働",
+                    "readings": {
+                        "on": "ドウ",
+                        "kun": "はたら-く"
+                    },
+                    "english": "work",
+                    "compounds": [
+                        {
+                            "word": "働く",
+                            "reading": "はたらく",
+                            "english": "to work"
+                        },
+                        {
+                            "word": "労働",
+                            "reading": "ろうどう",
+                            "english": "labor"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "仕",
+                    "readings": {
+                        "on": "シ",
+                        "kun": "つか-える"
+                    },
+                    "english": "serve",
+                    "compounds": [
+                        {
+                            "word": "仕事",
+                            "reading": "しごと",
+                            "english": "work/job"
+                        },
+                        {
+                            "word": "仕方",
+                            "reading": "しかた",
+                            "english": "way/method"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "事",
+                    "readings": {
+                        "on": "ジ",
+                        "kun": "こと"
+                    },
+                    "english": "matter",
+                    "compounds": [
+                        {
+                            "word": "事",
+                            "reading": "こと",
+                            "english": "thing/matter"
+                        },
+                        {
+                            "word": "用事",
+                            "reading": "ようじ",
+                            "english": "errand"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "用",
+                    "readings": {
+                        "on": "ヨウ",
+                        "kun": "もち-いる"
+                    },
+                    "english": "use",
+                    "compounds": [
+                        {
+                            "word": "用いる",
+                            "reading": "もちいる",
+                            "english": "to use"
+                        },
+                        {
+                            "word": "使用",
+                            "reading": "しよう",
+                            "english": "use"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "業",
+                    "readings": {
+                        "on": "ギョウ",
+                        "kun": "わざ"
+                    },
+                    "english": "business",
+                    "compounds": [
+                        {
+                            "word": "業",
+                            "reading": "わざ",
+                            "english": "deed"
+                        },
+                        {
+                            "word": "作業",
+                            "reading": "さぎょう",
+                            "english": "work/operation"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "lessonNumber": 5,
+            "title": "Places & Buildings",
+            "vocabularyItems": [
+                {
+                    "kanji": "場",
+                    "readings": {
+                        "on": "ジョウ",
+                        "kun": "ば"
+                    },
+                    "english": "place",
+                    "compounds": [
+                        {
+                            "word": "場所",
+                            "reading": "ばしょ",
+                            "english": "place"
+                        },
+                        {
+                            "word": "工場",
+                            "reading": "こうじょう",
+                            "english": "factory"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "所",
+                    "readings": {
+                        "on": "ショ",
+                        "kun": "ところ"
+                    },
+                    "english": "place",
+                    "compounds": [
+                        {
+                            "word": "所",
+                            "reading": "ところ",
+                            "english": "place"
+                        },
+                        {
+                            "word": "住所",
+                            "reading": "じゅうしょ",
+                            "english": "address"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "室",
+                    "readings": {
+                        "on": "シツ",
+                        "kun": "むろ"
+                    },
+                    "english": "room",
+                    "compounds": [
+                        {
+                            "word": "教室",
+                            "reading": "きょうしつ",
+                            "english": "classroom"
+                        },
+                        {
+                            "word": "室内",
+                            "reading": "しつない",
+                            "english": "indoors"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "堂",
+                    "readings": {
+                        "on": "ドウ",
+                        "kun": ""
+                    },
+                    "english": "hall",
+                    "compounds": [
+                        {
+                            "word": "食堂",
+                            "reading": "しょくどう",
+                            "english": "cafeteria"
+                        },
+                        {
+                            "word": "公堂",
+                            "reading": "こうどう",
+                            "english": "public hall"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "館",
+                    "readings": {
+                        "on": "カン",
+                        "kun": "やかた"
+                    },
+                    "english": "building",
+                    "compounds": [
+                        {
+                            "word": "図書館",
+                            "reading": "としょかん",
+                            "english": "library"
+                        },
+                        {
+                            "word": "美術館",
+                            "reading": "びじゅつかん",
+                            "english": "art museum"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "lessonNumber": 6,
+            "title": "Time & Seasons",
+            "vocabularyItems": [
+                {
+                    "kanji": "春",
+                    "readings": {
+                        "on": "シュン",
+                        "kun": "はる"
+                    },
+                    "english": "spring",
+                    "compounds": [
+                        {
+                            "word": "春",
+                            "reading": "はる",
+                            "english": "spring"
+                        },
+                        {
+                            "word": "青春",
+                            "reading": "せいしゅん",
+                            "english": "youth"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "夏",
+                    "readings": {
+                        "on": "カ",
+                        "kun": "なつ"
+                    },
+                    "english": "summer",
+                    "compounds": [
+                        {
+                            "word": "夏",
+                            "reading": "なつ",
+                            "english": "summer"
+                        },
+                        {
+                            "word": "夏休み",
+                            "reading": "なつやすみ",
+                            "english": "summer vacation"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "秋",
+                    "readings": {
+                        "on": "シュウ",
+                        "kun": "あき"
+                    },
+                    "english": "autumn",
+                    "compounds": [
+                        {
+                            "word": "秋",
+                            "reading": "あき",
+                            "english": "autumn"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "冬",
+                    "readings": {
+                        "on": "トウ",
+                        "kun": "ふゆ"
+                    },
+                    "english": "winter",
+                    "compounds": [
+                        {
+                            "word": "冬",
+                            "reading": "ふゆ",
+                            "english": "winter"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "朝",
+                    "readings": {
+                        "on": "チョウ",
+                        "kun": "あさ"
+                    },
+                    "english": "morning",
+                    "compounds": [
+                        {
+                            "word": "朝",
+                            "reading": "あさ",
+                            "english": "morning"
+                        },
+                        {
+                            "word": "今朝",
+                            "reading": "けさ",
+                            "english": "this morning"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "lessonNumber": 7,
+            "title": "Nature & Weather",
+            "vocabularyItems": [
+                {
+                    "kanji": "雨",
+                    "readings": {
+                        "on": "ウ",
+                        "kun": "あめ"
+                    },
+                    "english": "rain",
+                    "compounds": [
+                        {
+                            "word": "雨",
+                            "reading": "あめ",
+                            "english": "rain"
+                        },
+                        {
+                            "word": "大雨",
+                            "reading": "おおあめ",
+                            "english": "heavy rain"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "雪",
+                    "readings": {
+                        "on": "セツ",
+                        "kun": "ゆき"
+                    },
+                    "english": "snow",
+                    "compounds": [
+                        {
+                            "word": "雪",
+                            "reading": "ゆき",
+                            "english": "snow"
+                        },
+                        {
+                            "word": "雪だるま",
+                            "reading": "ゆきだるま",
+                            "english": "snowman"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "風",
+                    "readings": {
+                        "on": "フウ",
+                        "kun": "かぜ"
+                    },
+                    "english": "wind",
+                    "compounds": [
+                        {
+                            "word": "風",
+                            "reading": "かぜ",
+                            "english": "wind"
+                        },
+                        {
+                            "word": "台風",
+                            "reading": "たいふう",
+                            "english": "typhoon"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "雲",
+                    "readings": {
+                        "on": "ウン",
+                        "kun": "くも"
+                    },
+                    "english": "cloud",
+                    "compounds": [
+                        {
+                            "word": "雲",
+                            "reading": "くも",
+                            "english": "cloud"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "空",
+                    "readings": {
+                        "on": "クウ",
+                        "kun": "そら"
+                    },
+                    "english": "sky",
+                    "compounds": [
+                        {
+                            "word": "空",
+                            "reading": "そら",
+                            "english": "sky"
+                        },
+                        {
+                            "word": "空気",
+                            "reading": "くうき",
+                            "english": "air"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "lessonNumber": 8,
+            "title": "Body & Health",
+            "vocabularyItems": [
+                {
+                    "kanji": "体",
+                    "readings": {
+                        "on": "タイ",
+                        "kun": "からだ"
+                    },
+                    "english": "body",
+                    "compounds": [
+                        {
+                            "word": "体",
+                            "reading": "からだ",
+                            "english": "body"
+                        },
+                        {
+                            "word": "体育",
+                            "reading": "たいいく",
+                            "english": "physical education"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "顔",
+                    "readings": {
+                        "on": "ガン",
+                        "kun": "かお"
+                    },
+                    "english": "face",
+                    "compounds": [
+                        {
+                            "word": "顔",
+                            "reading": "かお",
+                            "english": "face"
+                        },
+                        {
+                            "word": "笑顔",
+                            "reading": "えがお",
+                            "english": "smile"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "声",
+                    "readings": {
+                        "on": "セイ",
+                        "kun": "こえ"
+                    },
+                    "english": "voice",
+                    "compounds": [
+                        {
+                            "word": "声",
+                            "reading": "こえ",
+                            "english": "voice"
+                        },
+                        {
+                            "word": "大声",
+                            "reading": "おおごえ",
+                            "english": "loud voice"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "病",
+                    "readings": {
+                        "on": "ビョウ",
+                        "kun": "やまい"
+                    },
+                    "english": "illness",
+                    "compounds": [
+                        {
+                            "word": "病気",
+                            "reading": "びょうき",
+                            "english": "illness"
+                        },
+                        {
+                            "word": "病院",
+                            "reading": "びょういん",
+                            "english": "hospital"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "死",
+                    "readings": {
+                        "on": "シ",
+                        "kun": "し-ぬ"
+                    },
+                    "english": "death",
+                    "compounds": [
+                        {
+                            "word": "死ぬ",
+                            "reading": "しぬ",
+                            "english": "to die"
+                        },
+                        {
+                            "word": "死亡",
+                            "reading": "しぼう",
+                            "english": "death"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "lessonNumber": 9,
+            "title": "Emotions & States",
+            "vocabularyItems": [
+                {
+                    "kanji": "楽",
+                    "readings": {
+                        "on": "ラク",
+                        "kun": "たの-しい"
+                    },
+                    "english": "pleasure",
+                    "compounds": [
+                        {
+                            "word": "楽しい",
+                            "reading": "たのしい",
+                            "english": "fun"
+                        },
+                        {
+                            "word": "音楽",
+                            "reading": "おんがく",
+                            "english": "music"
+                        },
+                        {
+                            "word": "楽",
+                            "reading": "らく",
+                            "english": "easy/comfortable"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "悲",
+                    "readings": {
+                        "on": "ヒ",
+                        "kun": "かな-しい"
+                    },
+                    "english": "sad",
+                    "compounds": [
+                        {
+                            "word": "悲しい",
+                            "reading": "かなしい",
+                            "english": "sad"
+                        },
+                        {
+                            "word": "悲劇",
+                            "reading": "ひげき",
+                            "english": "tragedy"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "苦",
+                    "readings": {
+                        "on": "ク",
+                        "kun": "くる-しい"
+                    },
+                    "english": "suffering",
+                    "compounds": [
+                        {
+                            "word": "苦しい",
+                            "reading": "くるしい",
+                            "english": "painful"
+                        },
+                        {
+                            "word": "苦手",
+                            "reading": "にがて",
+                            "english": "weak point"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "痛",
+                    "readings": {
+                        "on": "ツウ",
+                        "kun": "いた-い"
+                    },
+                    "english": "pain",
+                    "compounds": [
+                        {
+                            "word": "痛い",
+                            "reading": "いたい",
+                            "english": "painful"
+                        },
+                        {
+                            "word": "頭痛",
+                            "reading": "ずつう",
+                            "english": "headache"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "疲",
+                    "readings": {
+                        "on": "ヒ",
+                        "kun": "つか-れる"
+                    },
+                    "english": "tired",
+                    "compounds": [
+                        {
+                            "word": "疲れる",
+                            "reading": "つかれる",
+                            "english": "to get tired"
+                        },
+                        {
+                            "word": "疲労",
+                            "reading": "ひろう",
+                            "english": "fatigue"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "lessonNumber": 10,
+            "title": "Colors & Appearance",
+            "vocabularyItems": [
+                {
+                    "kanji": "色",
+                    "readings": {
+                        "on": "ショク",
+                        "kun": "いろ"
+                    },
+                    "english": "color",
+                    "compounds": [
+                        {
+                            "word": "色",
+                            "reading": "いろ",
+                            "english": "color"
+                        },
+                        {
+                            "word": "景色",
+                            "reading": "けしき",
+                            "english": "scenery"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "赤",
+                    "readings": {
+                        "on": "セキ",
+                        "kun": "あか"
+                    },
+                    "english": "red",
+                    "compounds": [
+                        {
+                            "word": "赤",
+                            "reading": "あか",
+                            "english": "red"
+                        },
+                        {
+                            "word": "赤ちゃん",
+                            "reading": "あかちゃん",
+                            "english": "baby"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "青",
+                    "readings": {
+                        "on": "セイ",
+                        "kun": "あお"
+                    },
+                    "english": "blue",
+                    "compounds": [
+                        {
+                            "word": "青",
+                            "reading": "あお",
+                            "english": "blue"
+                        },
+                        {
+                            "word": "青い",
+                            "reading": "あおい",
+                            "english": "blue"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "黒",
+                    "readings": {
+                        "on": "コク",
+                        "kun": "くろ"
+                    },
+                    "english": "black",
+                    "compounds": [
+                        {
+                            "word": "黒",
+                            "reading": "くろ",
+                            "english": "black"
+                        },
+                        {
+                            "word": "黒い",
+                            "reading": "くろい",
+                            "english": "black"
+                        }
+                    ]
+                },
+                {
+                    "kanji": "茶",
+                    "readings": {
+                        "on": "チャ",
+                        "kun": ""
+                    },
+                    "english": "tea/brown",
+                    "compounds": [
+                        {
+                            "word": "お茶",
+                            "reading": "おちゃ",
+                            "english": "tea"
+                        },
+                        {
+                            "word": "茶色",
+                            "reading": "ちゃいろ",
+                            "english": "brown"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "liarGameData": {
+        "question": "春_夏_秋_冬",
+        "questionEnglish": "Spring, summer, autumn, winter - which kanji is wrong?",
+        "correctAnswer": "All correct",
+        "liarAnswer": "秋 should be 秌",
+        "explanation": "All season kanji are correct! 春(spring), 夏(summer), 秋(autumn), 冬(winter). Don't confuse similar-looking kanji!",
+        "trapType": "kanji_visual_similarity"
+    }
+}

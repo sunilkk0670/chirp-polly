@@ -1,0 +1,535 @@
+{
+    "id": "ja_a1_m3",
+    "moduleId": "ja_a1_m3",
+    "name": "A1 Japanese - Module 3: Family and People",
+    "theme": "Family and People",
+    "order": 3,
+    "count": 100,
+    "vocabularyItems": [
+        {
+            "word": "介入",
+            "reading": "kainyuu",
+            "meaning": "Intervention",
+            "example_sentence": "政府が介入することによって、市場の混乱を最小限に抑え込みました。"
+        },
+        {
+            "word": "介護",
+            "reading": "kaigo",
+            "meaning": "Nursing care",
+            "example_sentence": "介護を続けるうちに、精神的なゆとりの重要性を再認識しました。"
+        },
+        {
+            "word": "お兄さん",
+            "reading": "oniisan / ani",
+            "meaning": "Older brother"
+        },
+        {
+            "word": "お姉さん",
+            "reading": "oneesan / ane",
+            "meaning": "Older sister"
+        },
+        {
+            "word": "該当",
+            "reading": "gaitou",
+            "meaning": "Corresponding",
+            "example_sentence": "条件に該当する反面、提出書類の不備で受理されないケースもあります。"
+        },
+        {
+            "word": "改訂",
+            "reading": "kaitei",
+            "meaning": "Revision",
+            "example_sentence": "教科書を改訂することによって、最新の科学的知見を反映させます。"
+        },
+        {
+            "word": "おじいさん",
+            "reading": "ojiisan / sofu",
+            "meaning": "Grandfather"
+        },
+        {
+            "word": "おばあさん",
+            "reading": "obaasan / sobo",
+            "meaning": "Grandmother"
+        },
+        {
+            "word": "叔父",
+            "reading": "oji",
+            "meaning": "Uncle"
+        },
+        {
+            "word": "叔母",
+            "reading": "oba",
+            "meaning": "Aunt"
+        },
+        {
+            "word": "従兄弟",
+            "reading": "itoko",
+            "meaning": "Cousin"
+        },
+        {
+            "word": "姪",
+            "reading": "mei",
+            "meaning": "Niece"
+        },
+        {
+            "word": "甥",
+            "reading": "oi",
+            "meaning": "Nephew"
+        },
+        {
+            "word": "孫",
+            "reading": "mago",
+            "meaning": "Grandchild"
+        },
+        {
+            "word": "赤ちゃん",
+            "reading": "akachan",
+            "meaning": "Baby"
+        },
+        {
+            "word": "大人",
+            "reading": "otona",
+            "meaning": "Adult"
+        },
+        {
+            "word": "老人",
+            "reading": "roujin",
+            "meaning": "Elderly person"
+        },
+        {
+            "word": "夫婦",
+            "reading": "fuufu",
+            "meaning": "Married couple"
+        },
+        {
+            "word": "妻",
+            "reading": "tsuma / okusan",
+            "meaning": "Wife"
+        },
+        {
+            "word": "夫",
+            "reading": "otto / goshujin",
+            "meaning": "Husband"
+        },
+        {
+            "word": "彼",
+            "reading": "kare",
+            "meaning": "He / Boyfriend"
+        },
+        {
+            "word": "彼女",
+            "reading": "kanojo",
+            "meaning": "She / Girlfriend"
+        },
+        {
+            "word": "恋人",
+            "reading": "koibito",
+            "meaning": "Lover / Partner"
+        },
+        {
+            "word": "結婚",
+            "reading": "kekkon",
+            "meaning": "Marriage"
+        },
+        {
+            "word": "独身",
+            "reading": "dokushin",
+            "meaning": "Single"
+        },
+        {
+            "word": "格納",
+            "reading": "kakunou",
+            "meaning": "Storage/Housing",
+            "example_sentence": "機体を格納するうちに、機材の整理整頓の大切さを学びました。"
+        },
+        {
+            "word": "苗字",
+            "reading": "myouji",
+            "meaning": "Surname"
+        },
+        {
+            "word": "自己紹介",
+            "reading": "jikoshoukai",
+            "meaning": "Self-introduction"
+        },
+        {
+            "word": "年齢",
+            "reading": "nenrei",
+            "meaning": "Age"
+        },
+        {
+            "word": "職業",
+            "reading": "shokugyou",
+            "meaning": "Occupation"
+        },
+        {
+            "word": "住所",
+            "reading": "juusho",
+            "meaning": "Address"
+        },
+        {
+            "word": "電話番号",
+            "reading": "denwabangou",
+            "meaning": "Phone number"
+        },
+        {
+            "word": "親友",
+            "reading": "shinyuu",
+            "meaning": "Best friend"
+        },
+        {
+            "word": "仲間",
+            "reading": "nakama",
+            "meaning": "Comrade / Peer"
+        },
+        {
+            "word": "知り合い",
+            "reading": "shiriai",
+            "meaning": "Acquaintance"
+        },
+        {
+            "word": "他人",
+            "reading": "tanin",
+            "meaning": "Stranger / Other person"
+        },
+        {
+            "word": "人間",
+            "reading": "ningen",
+            "meaning": "Human being"
+        },
+        {
+            "word": "自分",
+            "reading": "jibun",
+            "meaning": "Oneself"
+        },
+        {
+            "word": "誰か",
+            "reading": "dareka",
+            "meaning": "Someone"
+        },
+        {
+            "word": "誰も",
+            "reading": "daremo",
+            "meaning": "Anyone / No one"
+        },
+        {
+            "word": "外国人",
+            "reading": "gaikokujin",
+            "meaning": "Foreigner"
+        },
+        {
+            "word": "観光客",
+            "reading": "kankoukyaku",
+            "meaning": "Tourist"
+        },
+        {
+            "word": "客",
+            "reading": "kyaku",
+            "meaning": "Guest / Customer"
+        },
+        {
+            "word": "隣人",
+            "reading": "rinjin",
+            "meaning": "Neighbor"
+        },
+        {
+            "word": "先輩",
+            "reading": "senpai",
+            "meaning": "Senior"
+        },
+        {
+            "word": "後輩",
+            "reading": "kouhai",
+            "meaning": "Junior"
+        },
+        {
+            "word": "同僚",
+            "reading": "douryou",
+            "meaning": "Colleague"
+        },
+        {
+            "word": "上司",
+            "reading": "joushi",
+            "meaning": "Boss / Superior"
+        },
+        {
+            "word": "部下",
+            "reading": "buka",
+            "meaning": "Subordinate"
+        },
+        {
+            "word": "社長",
+            "reading": "shachou",
+            "meaning": "Company President"
+        },
+        {
+            "word": "医者",
+            "reading": "isha",
+            "meaning": "Doctor"
+        },
+        {
+            "word": "看護師",
+            "reading": "kangoshi",
+            "meaning": "Nurse"
+        },
+        {
+            "word": "警察官",
+            "reading": "keisatsukan",
+            "meaning": "Police officer"
+        },
+        {
+            "word": "店員",
+            "reading": "tenin",
+            "meaning": "Shop assistant"
+        },
+        {
+            "word": "銀行員",
+            "reading": "ginkouin",
+            "meaning": "Bank employee"
+        },
+        {
+            "word": "公務員",
+            "reading": "koumuin",
+            "meaning": "Civil servant"
+        },
+        {
+            "word": "会社員",
+            "reading": "kaishain",
+            "meaning": "Office worker"
+        },
+        {
+            "word": "作家",
+            "reading": "sakka",
+            "meaning": "Author / Writer"
+        },
+        {
+            "word": "俳優",
+            "reading": "haiyuu",
+            "meaning": "Actor"
+        },
+        {
+            "word": "歌手",
+            "reading": "kashu",
+            "meaning": "Singer"
+        },
+        {
+            "word": "優しい",
+            "reading": "yasashii",
+            "meaning": "Kind / Gentle"
+        },
+        {
+            "word": "厳しい",
+            "reading": "kibishii",
+            "meaning": "Strict"
+        },
+        {
+            "word": "明るい",
+            "reading": "akarui",
+            "meaning": "Cheerful"
+        },
+        {
+            "word": "暗い",
+            "reading": "kurai",
+            "meaning": "Gloomy"
+        },
+        {
+            "word": "静か",
+            "reading": "shizuka",
+            "meaning": "Quiet"
+        },
+        {
+            "word": "賑やか",
+            "reading": "nigiyaka",
+            "meaning": "Lively"
+        },
+        {
+            "word": "親切",
+            "reading": "shinsetsu",
+            "meaning": "Kind / Helpful"
+        },
+        {
+            "word": "真面目",
+            "reading": "majime",
+            "meaning": "Serious"
+        },
+        {
+            "word": "面白い",
+            "reading": "omoshiroi",
+            "meaning": "Interesting"
+        },
+        {
+            "word": "格好いい",
+            "reading": "kakkoii",
+            "meaning": "Cool / Handsome"
+        },
+        {
+            "word": "可愛い",
+            "reading": "kawaii",
+            "meaning": "Cute"
+        },
+        {
+            "word": "有名",
+            "reading": "yuumei",
+            "meaning": "Famous"
+        },
+        {
+            "word": "幸せ",
+            "reading": "shiawase",
+            "meaning": "Happy"
+        },
+        {
+            "word": "不幸",
+            "reading": "fukou",
+            "meaning": "Unhappy"
+        },
+        {
+            "word": "賢い",
+            "reading": "kashikoi",
+            "meaning": "Wise / Clever"
+        },
+        {
+            "word": "馬鹿",
+            "reading": "baka",
+            "meaning": "Stupid"
+        },
+        {
+            "word": "獲得",
+            "reading": "kakutoku",
+            "meaning": "Acquisition",
+            "example_sentence": "メダルを獲得する反面、そこに至るまでの過酷な練習は想像を絶します。"
+        },
+        {
+            "word": "病気",
+            "reading": "byouki",
+            "meaning": "Sick"
+        },
+        {
+            "word": "怪我",
+            "reading": "kega",
+            "meaning": "Injury"
+        },
+        {
+            "word": "出身",
+            "reading": "shusshin",
+            "meaning": "Origin"
+        },
+        {
+            "word": "国籍",
+            "reading": "kokuseki",
+            "meaning": "Nationality"
+        },
+        {
+            "word": "趣味",
+            "reading": "shumi",
+            "meaning": "Hobby"
+        },
+        {
+            "word": "特技",
+            "reading": "tokugi",
+            "meaning": "Special skill"
+        },
+        {
+            "word": "夢",
+            "reading": "yume",
+            "meaning": "Dream"
+        },
+        {
+            "word": "将来",
+            "reading": "shourai",
+            "meaning": "Future"
+        },
+        {
+            "word": "過去",
+            "reading": "kako",
+            "meaning": "Past"
+        },
+        {
+            "word": "現在",
+            "reading": "genzai",
+            "meaning": "Present"
+        },
+        {
+            "word": "秘密",
+            "reading": "himitsu",
+            "meaning": "Secret"
+        },
+        {
+            "word": "宝物",
+            "reading": "takaramono",
+            "meaning": "Treasure"
+        },
+        {
+            "word": "贈り物",
+            "reading": "okurimono",
+            "meaning": "Gift"
+        },
+        {
+            "word": "記念日",
+            "reading": "kinenbi",
+            "meaning": "Anniversary"
+        },
+        {
+            "word": "誕生日",
+            "reading": "tanjoubi",
+            "meaning": "Birthday"
+        },
+        {
+            "word": "初恋",
+            "reading": "hatsukoi",
+            "meaning": "First love"
+        },
+        {
+            "word": "出会い",
+            "reading": "deai",
+            "meaning": "Encounter"
+        },
+        {
+            "word": "別れ",
+            "reading": "wakare",
+            "meaning": "Parting"
+        },
+        {
+            "word": "再会",
+            "reading": "saikai",
+            "meaning": "Reunion"
+        },
+        {
+            "word": "手紙",
+            "reading": "tegami",
+            "meaning": "Letter"
+        },
+        {
+            "word": "返事",
+            "reading": "henji",
+            "meaning": "Reply"
+        },
+        {
+            "word": "約束",
+            "reading": "yakusoku",
+            "meaning": "Promise"
+        },
+        {
+            "word": "愛",
+            "reading": "ai",
+            "meaning": "Love"
+        }
+    ],
+    "liarGameData": {
+        "culturalTraps": [
+            {
+                "trap": "You can use the same family terms for yourself and others.",
+                "correctVersion": "Humble terms (chichi) for own family, polite terms (otousan) for others.",
+                "explanation": "Distinction between in-group and out-group is vital."
+            },
+            {
+                "trap": "Japanese first names are used immediately by anyone.",
+                "correctVersion": "Surnames with -san are default.",
+                "explanation": "First names are for extreme intimacy."
+            },
+            {
+                "trap": "Wife is always okusan.",
+                "correctVersion": "Okusan for others, tsuma for own.",
+                "explanation": "Standard humble/polite distinction."
+            }
+        ]
+    }
+}

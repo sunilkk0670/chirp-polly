@@ -1,0 +1,612 @@
+{
+    "moduleId": "ja_b1_m09",
+    "theme": "History & Philosophy",
+    "order": 9,
+    "vocabularyItems": [
+        {
+            "word": "勢力",
+            "reading": "seiryoku",
+            "meaning": "Influence/Power",
+            "example_sentence": "勢力を拡大する反面、内部の統率を保つことが難しくなっています。"
+        },
+        {
+            "word": "整列",
+            "reading": "seiretsu",
+            "meaning": "Queue/Line up",
+            "example_sentence": "整列して順番を待つうちに、周囲への配慮の大切さを学びました。"
+        },
+        {
+            "word": "制約",
+            "reading": "seiyaku",
+            "meaning": "Limitation/Constraint",
+            "example_sentence": "条件を制約することによって、よりクリエイティブな発想が生まれることもあります。"
+        },
+        {
+            "word": "晴朗",
+            "reading": "seirou",
+            "meaning": "Fair/Clear (weather)",
+            "example_sentence": "晴朗な秋空を仰ぐうちに、心の中の雲も晴れていくようでした。"
+        },
+        {
+            "word": "脆弱",
+            "reading": "zeijaku",
+            "meaning": "Frailty",
+            "example_sentence": "基盤が脆弱な反面、柔軟性に富んだ組織運営が私たちの強みです。"
+        },
+        {
+            "word": "全壊",
+            "reading": "zenkai",
+            "meaning": "Complete destruction",
+            "example_sentence": "建物が全壊する反面、避難指示が早かったため死傷者は出ませんでした。"
+        },
+        {
+            "word": "相違",
+            "reading": "soui",
+            "meaning": "Difference",
+            "example_sentence": "相違点を明確にするうちに、お互いの歩み寄れる範囲が見えてきました。"
+        },
+        {
+            "word": "走破",
+            "reading": "souha",
+            "meaning": "Traveling the full distance",
+            "example_sentence": "険しい道を走破することによって、かつてない達成感を味わいました。"
+        },
+        {
+            "word": "遭遇",
+            "reading": "souguu",
+            "meaning": "Encounter",
+            "example_sentence": "困難に遭遇するうちに、仲間との絆がより一層深まりました。"
+        },
+        {
+            "word": "相互",
+            "reading": "sougo",
+            "meaning": "Mutual",
+            "example_sentence": "相互に尊重する反面、言うべきことははっきりと言う関係が理想です。"
+        },
+        {
+            "word": "創作",
+            "reading": "sousaku",
+            "meaning": "Creation",
+            "example_sentence": "創作に耽ることによって、日常の喧騒から一時的に逃避できます。"
+        },
+        {
+            "word": "想定",
+            "reading": "soutei",
+            "meaning": "Hypothesis",
+            "example_sentence": "リスクを想定するうちに、あらゆる事態への備えが万全になりました。"
+        },
+        {
+            "word": "装飾",
+            "reading": "soushoku",
+            "meaning": "Decoration",
+            "example_sentence": "装飾を省く反面、素材の良さを最大限に活かすデザインです。"
+        },
+        {
+            "word": "即決",
+            "reading": "sokketsu",
+            "meaning": "Prompt decision",
+            "example_sentence": "即決するうちに、ビジネスチャンスを逃さない感覚が養われました。"
+        },
+        {
+            "word": "阻止",
+            "reading": "soshi",
+            "meaning": "Obstruction",
+            "example_sentence": "悪だくみを阻止する反面、自らも危険に晒されることになりました。"
+        },
+        {
+            "word": "損失",
+            "reading": "sonshitsu",
+            "meaning": "Loss",
+            "example_sentence": "損失を補填することによって、経営の健全化を図ります。"
+        },
+        {
+            "word": "対応",
+            "reading": "taiou",
+            "meaning": "Response",
+            "example_sentence": "丁寧に対応するうちに、クレームが感謝の言葉に変わりました。"
+        },
+        {
+            "word": "退治",
+            "reading": "taiji",
+            "meaning": "Extermination",
+            "example_sentence": "害虫を退治する反面、環境負荷の少ない薬剤を選ぶことも重要です。"
+        },
+        {
+            "word": "代謝",
+            "reading": "taisha",
+            "meaning": "Metabolism",
+            "example_sentence": "代謝を促進することによって、健康的な体づくりを目指します。"
+        },
+        {
+            "word": "対象",
+            "reading": "taishou",
+            "meaning": "Target",
+            "example_sentence": "対象を絞り込むうちに、より効果的なアプローチが可能になりました。"
+        },
+        {
+            "word": "堆積",
+            "reading": "taiseki",
+            "meaning": "Accumulation",
+            "example_sentence": "泥が堆積するうちに、かつての地形は完全に失われてしまいました。"
+        },
+        {
+            "word": "打開",
+            "reading": "dakai",
+            "meaning": "Breakthrough",
+            "example_sentence": "膠着状態を打開することによって、交渉は一気に進展しました。"
+        },
+        {
+            "word": "奪還",
+            "reading": "dakkan",
+            "meaning": "Recapture",
+            "example_sentence": "拠点を奪還することによって、反撃の狼煙を上げました。"
+        },
+        {
+            "word": "窒息",
+            "reading": "chissoku",
+            "meaning": "Suffocation",
+            "example_sentence": "窒息しそうな反面、そのスリルにどこか魅了されている自分もいます。"
+        },
+        {
+            "word": "注入",
+            "reading": "chuunyuu",
+            "meaning": "Injection",
+            "example_sentence": "情熱を注入するうちに、単なる作業が魂の宿る作品へと変わりました。"
+        },
+        {
+            "word": "重畳",
+            "reading": "choujou",
+            "meaning": "Successive",
+            "example_sentence": "不手際が重畳する反面、それをカバーする周囲の温かさに救われました。"
+        },
+        {
+            "word": "沈殿",
+            "reading": "chinden",
+            "meaning": "Precipitation",
+            "example_sentence": "不純物が沈殿するうちに、表面の液体は透明に澄み渡りました。"
+        },
+        {
+            "word": "撤廃",
+            "reading": "teppai",
+            "meaning": "Abolition",
+            "example_sentence": "障壁を撤廃するうちに、かつての敵対心は消え、友情が芽生えました。"
+        },
+        {
+            "word": "転覆",
+            "reading": "tenpuku",
+            "meaning": "Overturn",
+            "example_sentence": "独裁政権が転覆する反面、その後の権力争いが深刻な影を落としています。"
+        },
+        {
+            "word": "投影",
+            "reading": "touei",
+            "meaning": "Projection",
+            "example_sentence": "自己を投影するうちに、物語の主人公に深く共感するようになりました。"
+        },
+        {
+            "word": "到達",
+            "reading": "toutatsu",
+            "meaning": "Reach",
+            "example_sentence": "山頂に到達することによって、言葉にならない感動に包まれました。"
+        },
+        {
+            "word": "踏襲",
+            "reading": "toushuu",
+            "meaning": "Following (precedent)",
+            "example_sentence": "前例を踏襲するうちに、改革の絶好の機会を逃してしまいました。"
+        },
+        {
+            "word": "統治",
+            "reading": "touchi",
+            "meaning": "Reign",
+            "example_sentence": "善政によって統治する反面、厳しい法による秩序の維持も怠りません。"
+        },
+        {
+            "word": "討伐",
+            "reading": "toubatsu",
+            "meaning": "Subjugation",
+            "example_sentence": "賊を討伐することによって、街道の安全を取り戻しました。"
+        },
+        {
+            "word": "投入",
+            "reading": "tounyuu",
+            "meaning": "Investment",
+            "example_sentence": "資材を投入するうちに、巨大な橋は次第にその姿を現していきました。"
+        },
+        {
+            "word": "冬眠",
+            "reading": "toumin",
+            "meaning": "Hibernation",
+            "example_sentence": "動物が冬眠することによって、厳しい冬を乗り越える知恵を学びました。"
+        },
+        {
+            "word": "特権",
+            "reading": "tokken",
+            "meaning": "Privilege",
+            "example_sentence": "特権を享受することによって、他者の痛みに疎くなってはいけません。"
+        },
+        {
+            "word": "匿名",
+            "reading": "tokumei",
+            "meaning": "Anonymity",
+            "example_sentence": "匿名で投稿するうちに、ネット上の誹謗中傷に加担してしまいました。"
+        },
+        {
+            "word": "特有",
+            "reading": "tokuyuu",
+            "meaning": "Peculiar/Characteristic",
+            "example_sentence": "この地域特有の文化を学ぶうちに、世界の多様性を実感しました。"
+        },
+        {
+            "word": "突破",
+            "reading": "toppa",
+            "meaning": "Breakthrough",
+            "example_sentence": "難関を突破することによって、新たな自信を手にすることができました。"
+        },
+        {
+            "word": "内蔵",
+            "reading": "naizou",
+            "meaning": "Built-in",
+            "example_sentence": "機能を内蔵するうちに、本体の重量が増し、持ち運びが不便になりました。"
+        },
+        {
+            "word": "難読",
+            "reading": "nandoku",
+            "meaning": "Difficult to read",
+            "example_sentence": "難読漢字を覚える反面、それを使う機会は滅多にありません。"
+        },
+        {
+            "word": "任命",
+            "reading": "ninmei",
+            "meaning": "Appointment",
+            "example_sentence": "重職に任命されるうちに、その重責に押し潰されそうな夜もありました。"
+        },
+        {
+            "word": "念願",
+            "reading": "nen'gan",
+            "meaning": "Long-cherished desire",
+            "example_sentence": "念願が叶うことによって、これまでの苦労がすべて報われました。"
+        },
+        {
+            "word": "農耕",
+            "reading": "noukou",
+            "meaning": "Farming",
+            "example_sentence": "農耕に従事するうちに、大地の恵みの尊さを身に染みて感じました。"
+        },
+        {
+            "word": "破棄",
+            "reading": "haki",
+            "meaning": "Annulment",
+            "example_sentence": "契約を破棄することによって、これ以上の損失拡大を防ぎます。"
+        },
+        {
+            "word": "漠然",
+            "reading": "bakuzen",
+            "meaning": "Vague",
+            "example_sentence": "漠然とした不安を感じるうちに、具体的な解決策を見失ってしまいました。"
+        },
+        {
+            "word": "発起",
+            "reading": "hokki",
+            "meaning": "Inspiration",
+            "example_sentence": "一念発起することによって、長年続けてきた悪習を断ち切りました。"
+        },
+        {
+            "word": "範疇",
+            "reading": "hanchuu",
+            "meaning": "Category",
+            "example_sentence": "常識の範疇に収まる反面、そこからはみ出す勇気も時には必要です。"
+        },
+        {
+            "word": "繁脈",
+            "reading": "hanmyaku",
+            "meaning": "Vigorous pulse (metaph.)",
+            "example_sentence": "都会の繁脈を感じることによって、生きていくエネルギーをもらいました。"
+        },
+        {
+            "word": "逼迫",
+            "reading": "hippaku",
+            "meaning": "Stringency/Pressure",
+            "example_sentence": "財政が逼迫するうちに、福祉サービスの削減を検討せざるを得ません。"
+        },
+        {
+            "word": "疲弊",
+            "reading": "hihei",
+            "meaning": "Exhaustion",
+            "example_sentence": "心が疲弊する反面、休養を取る勇気がなかなか持てずにいます。"
+        },
+        {
+            "word": "標榜",
+            "reading": "hyoubou",
+            "meaning": "Advocate",
+            "example_sentence": "自由を標榜することによって、抑圧された人々を鼓舞し続けています。"
+        },
+        {
+            "word": "風化",
+            "reading": "fuuka",
+            "meaning": "Weathering/Fade away",
+            "example_sentence": "記憶が風化するうちに、当時の教訓が忘れ去られてしまうのが怖いです。"
+        },
+        {
+            "word": "封鎖",
+            "reading": "fuusa",
+            "meaning": "Blockade",
+            "example_sentence": "都市を封鎖する反面、物資の供給ルートの確保に奔走しています。"
+        },
+        {
+            "word": "夫妻",
+            "reading": "fusai",
+            "meaning": "Husband and wife",
+            "example_sentence": "仲睦まじい夫妻を眺めるうちに、自分たちもそうありたいと願いました。"
+        },
+        {
+            "word": "払拭",
+            "reading": "fusshoku",
+            "meaning": "Wiping out/Dispelling",
+            "example_sentence": "懸念を払拭するうちに、ようやく新しい挑戦に専念できるようになりました。"
+        },
+        {
+            "word": "物議",
+            "reading": "butsugi",
+            "meaning": "Controversy",
+            "example_sentence": "発言が物議を醸す反面、本質的な議論のきっかけにもなりました。"
+        },
+        {
+            "word": "払戻",
+            "reading": "haraimodoshi",
+            "meaning": "Refund",
+            "example_sentence": "代金を払戻することによって、顧客の不信感を最小限に抑え込みました。"
+        },
+        {
+            "word": "平癒",
+            "reading": "heiyu",
+            "meaning": "Recovery (illness)",
+            "example_sentence": "病が平癒することによって、改めて家族の支えの大きさを痛感しました。"
+        },
+        {
+            "word": "平定",
+            "reading": "heitei",
+            "meaning": "Subjugation/Peace",
+            "example_sentence": "反乱を平定する反面、民衆の不満の根本原因は未解決のままです。"
+        },
+        {
+            "word": "傍観",
+            "reading": "boukan",
+            "meaning": "Bystanding",
+            "example_sentence": "事態を傍観する反面、内心では自分が何をすべきか激しく葛藤しています。"
+        },
+        {
+            "word": "飽和",
+            "reading": "houwa",
+            "meaning": "Saturation",
+            "example_sentence": "市場が飽和することによって、競合他社との激しい価格競争が始まりました。"
+        },
+        {
+            "word": "萌芽",
+            "reading": "houga",
+            "meaning": "Bud/Sprout (metaph.)",
+            "example_sentence": "新しい文化の萌芽を感じるうちに、閉塞感漂う日常に希望が持てました。"
+        },
+        {
+            "word": "包囲",
+            "reading": "houyi",
+            "meaning": "Siege/Encirclement",
+            "example_sentence": "包囲網を突破することによって、絶体絶命の危機を潜り抜けました。"
+        },
+        {
+            "word": "放送",
+            "reading": "housou",
+            "meaning": "Broadcasting",
+            "example_sentence": "ニュースを放送するうちに、情報の重みと責任を改めて感じました。"
+        },
+        {
+            "word": "勃発",
+            "reading": "boppatsu",
+            "meaning": "Outbreak",
+            "example_sentence": "戦争が勃発する反面、必死に平和を訴え続ける人々もいます。"
+        },
+        {
+            "word": "翻弄",
+            "reading": "honrou",
+            "meaning": "Trifling with/Being at mercy of",
+            "example_sentence": "運命に翻弄される反面、自らの力で未来を切り拓く意志は失いません。"
+        },
+        {
+            "word": "摩滅",
+            "reading": "mametsu",
+            "meaning": "Wear/Attrition",
+            "example_sentence": "部品が摩滅することによって、システムの精度が徐々に低下してきました。"
+        },
+        {
+            "word": "密度",
+            "reading": "mitsudo",
+            "meaning": "Density",
+            "example_sentence": "人口密度が高くなるうちに、人々の心にゆとりがなくなっていきました。"
+        },
+        {
+            "word": "看破",
+            "reading": "kanpa",
+            "meaning": "Penetrate/See through",
+            "example_sentence": "嘘を看破することによって、隠されていた重大な真実にたどり着きました。"
+        },
+        {
+            "word": "蔓延",
+            "reading": "man'en",
+            "meaning": "Spread/Rampancy",
+            "example_sentence": "病気が蔓延する反面、医療従事者の懸命な努力が続けられています。"
+        },
+        {
+            "word": "未達",
+            "reading": "mitatsu",
+            "meaning": "Underachievement",
+            "example_sentence": "目標が未達に終わるうちに、計画そのものの見直しが必要だ気づきました。"
+        },
+        {
+            "word": "魅了",
+            "reading": "miryou",
+            "meaning": "Fascination",
+            "example_sentence": "観客を魅了することによって、彼は一躍スターダムへとのし上がりました。"
+        },
+        {
+            "word": "猛威",
+            "reading": "moui",
+            "meaning": "Fury/Rage",
+            "example_sentence": "台風が猛威を振るううちに、多くの家屋が倒壊の危機に晒されました。"
+        },
+        {
+            "word": "盲従",
+            "reading": "moujuu",
+            "meaning": "Blind obedience",
+            "example_sentence": "リーダーに盲従する反面、内心ではその方針に疑問を抱いています。"
+        },
+        {
+            "word": "躍進",
+            "reading": "yakushin",
+            "meaning": "Rapid progress",
+            "example_sentence": "企業が躍進することによって、業界全体の活気が戻ってきました。"
+        },
+        {
+            "word": "役割",
+            "reading": "yakuwari",
+            "meaning": "Role",
+            "example_sentence": "役割を果たすうちに、自分が必要とされている実感を強く持つようになりました。"
+        },
+        {
+            "word": "優位",
+            "reading": "yuuyi",
+            "meaning": "Advantage",
+            "example_sentence": "優位に立つ反面、いつ逆転されるか分からないという緊張感もあります。"
+        },
+        {
+            "word": "誘発",
+            "reading": "yuuhatsu",
+            "meaning": "Induction/Trigger",
+            "example_sentence": "地震が誘発されることによって、広範囲に甚大な被害が出ました。"
+        },
+        {
+            "word": "悠長",
+            "reading": "yuuchou",
+            "meaning": "Leisurely/Easygoing",
+            "example_sentence": "悠長に構えるうちに、絶好のチャンスを他社に奪われてしまいました。"
+        },
+        {
+            "word": "融資",
+            "reading": "yuushi",
+            "meaning": "Financing",
+            "example_sentence": "融資を受ける反面、利息の支払いが経営上の大きな負担となっています。"
+        },
+        {
+            "word": "容認",
+            "reading": "younin",
+            "meaning": "Approval",
+            "example_sentence": "状況を容認することによって、これ以上の混乱を防ぐという苦渋の決断です。"
+        },
+        {
+            "word": "要請",
+            "reading": "yousei",
+            "meaning": "Request",
+            "example_sentence": "支援を要請するうちに、ようやく国際社会が動き出し始めました。"
+        },
+        {
+            "word": "抑止",
+            "reading": "yokushi",
+            "meaning": "Deterrence",
+            "example_sentence": "犯罪を抑止することによって、地域の安全な暮らしを守ります。"
+        },
+        {
+            "word": "還付",
+            "reading": "kanpu",
+            "meaning": "Refund/Return",
+            "example_sentence": "税金を還付することによって、家計の負担を少しでも和らげます。"
+        },
+        {
+            "word": "混濁",
+            "reading": "kondaku",
+            "meaning": "Turbidity",
+            "example_sentence": "意識が混濁するうちに、自分がどこにいるのか分からなくなりました。"
+        },
+        {
+            "word": "刷新",
+            "reading": "sasshin",
+            "meaning": "Reform/Renovation",
+            "example_sentence": "人事制度を刷新する反面、伝統的な価値観も大切に守っていきます。"
+        },
+        {
+            "word": "招集",
+            "reading": "shoushuu",
+            "meaning": "Summoning",
+            "example_sentence": "臨時国会を招集する反面、野党との合意形成も急がれます。"
+        },
+        {
+            "word": "賞揚",
+            "reading": "shouyou",
+            "meaning": "Praise",
+            "example_sentence": "功績を賞揚することによって、部下のやる気を引き出しました。"
+        },
+        {
+            "word": "措置",
+            "reading": "soshi",
+            "meaning": "Measure/Step",
+            "example_sentence": "緊急措置を取る反面、法的な根拠の整備も同時に進めます。"
+        },
+        {
+            "word": "診断",
+            "reading": "shindan",
+            "meaning": "Diagnosis",
+            "example_sentence": "精密診断を受けるうちに、深刻な病気が早期に見つかりました。"
+        },
+        {
+            "word": "垂直",
+            "reading": "suichoku",
+            "meaning": "Vertical",
+            "example_sentence": "壁を垂直に登ることによって、周囲の度肝を抜きました。"
+        },
+        {
+            "word": "推定",
+            "reading": "suitei",
+            "meaning": "Presumption",
+            "example_sentence": "被害額を推定するうちに、そのあまりの大きさに愕然としました。"
+        },
+        {
+            "word": "垂線",
+            "reading": "suisen",
+            "meaning": "Perpendicular line",
+            "example_sentence": "垂線を引くことによって、図形の性質をより深く理解できます。"
+        },
+        {
+            "word": "衰弱",
+            "reading": "suijaku",
+            "meaning": "Weakness",
+            "example_sentence": "体力が衰弱するうちに、かつての気力さえもどこかへ消えてしまいました。"
+        },
+        {
+            "word": "吹奏",
+            "reading": "suisou",
+            "meaning": "Playing (wind instruments)",
+            "example_sentence": "楽器を吹奏することによって、日頃のストレスを綺麗に解消しました。"
+        },
+        {
+            "word": "推断",
+            "reading": "suidan",
+            "meaning": "Inference",
+            "example_sentence": "結果を推断する反面、想定外の事態に備えた対策も練っておきます。"
+        },
+        {
+            "word": "吹雪",
+            "reading": "fubuki",
+            "meaning": "Snowstorm",
+            "example_sentence": "猛吹雪に遭遇することによって、自然の厳しさを身に染みて知りました。"
+        },
+        {
+            "word": "吹飛",
+            "reading": "fukitobi",
+            "meaning": "Blowing away",
+            "example_sentence": "悩みが吹っ飛ぶうちに、前向きに生きていこうと思えるようになりました。"
+        }
+    ],
+    "liarGameData": {
+        "trap": "日本の武士道は、平安時代に確立された思想で、主君への絶対的な中正と、切腹の儀式が最初から中心でした。(Japanese Bushido was established in the Heian period, centering on absolute loyalty to the lord and the ritual of seppuku from the beginning.)",
+        "correctVersion": "「武士道」という言葉や概念が体系化されたのは江戸時代以降で、さらに新渡戸稲造が明治期に英文で出版したことで世界的に知られるようになりました。(The word and concept of 'Bushido' were systematized after the Edo period, and became globally known through Inazo Nitobe's publication in English during the Meiji period.)",
+        "explanation": "While warrior ethics existed in the Heian/Kamakura periods, the romanticized, philosophical 'Bushido' we know today was largely a construct developed during the peaceful Edo period to give samurai a sense of identity, and later modernized during Meiji. It wasn't a single, unchanged ancient code."
+    }
+}

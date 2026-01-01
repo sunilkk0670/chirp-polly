@@ -4,6 +4,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'firebase_options.dart';
 import 'features/curriculum/presentation/pages/home_page.dart';
+import 'features/curriculum/presentation/pages/firestore_test_page.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -32,11 +33,18 @@ class ChirpPollyApp extends StatelessWidget {
         useMaterial3: true,
         colorScheme: ColorScheme.fromSeed(
           seedColor: Colors.deepPurple,
-          brightness: Brightness.light,
         ),
-        textTheme: GoogleFonts.notoSansTextTheme(),
+        textTheme: GoogleFonts.notoSansTextTheme().apply(
+          fontFamilyFallback: [
+            'Noto Sans JP',
+            'Noto Sans KR',
+          ],
+        ),
       ),
       home: const HomePage(),
+      routes: {
+        '/test-firestore': (context) => const FirestoreTestPage(),
+      },
     );
   }
 }

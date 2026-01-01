@@ -1,0 +1,6134 @@
+{
+  "modules": [
+    {
+      "moduleId": "sa_a1_m1",
+      "theme": "Fundamentals",
+      "order": 1,
+      "vocabularyItems": [
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 1)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 1)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 1)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 1)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 1)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 2)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 2)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 2)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 2)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 2)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 3)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 3)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 3)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 3)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 3)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 4)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 4)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 4)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 4)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 4)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 5)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 5)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 5)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 5)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 5)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 6)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 6)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 6)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 6)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 6)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 7)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 7)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 7)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 7)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 7)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 8)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 8)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 8)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 8)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 8)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 9)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 9)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 9)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 9)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 9)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 10)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 10)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 10)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 10)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 10)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 11)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 11)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 11)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 11)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 11)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 12)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 12)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 12)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Fundamentals for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Fundamentals."
+      }
+    },
+    {
+      "moduleId": "sa_a1_m2",
+      "theme": "Communication",
+      "order": 2,
+      "vocabularyItems": [
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 1)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 1)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 1)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 1)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 1)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 2)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 2)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 2)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 2)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 2)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 3)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 3)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 3)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 3)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 3)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 4)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 4)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 4)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 4)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 4)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 5)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 5)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 5)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 5)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 5)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 6)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 6)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 6)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 6)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 6)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 7)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 7)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 7)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 7)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 7)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 8)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 8)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 8)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 8)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 8)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 9)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 9)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 9)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 9)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 9)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 10)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 10)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 10)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 10)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 10)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 11)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 11)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 11)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 11)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 11)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 12)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 12)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 12)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Communication for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Communication."
+      }
+    },
+    {
+      "moduleId": "sa_a1_m3",
+      "theme": "Daily Life",
+      "order": 3,
+      "vocabularyItems": [
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 1)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 1)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 1)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 1)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 1)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 2)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 2)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 2)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 2)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 2)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 3)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 3)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 3)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 3)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 3)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 4)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 4)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 4)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 4)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 4)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 5)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 5)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 5)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 5)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 5)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 6)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 6)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 6)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 6)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 6)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 7)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 7)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 7)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 7)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 7)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 8)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 8)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 8)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 8)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 8)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 9)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 9)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 9)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 9)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 9)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 10)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 10)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 10)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 10)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 10)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 11)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 11)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 11)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 11)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 11)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 12)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 12)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 12)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 12)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Daily Life for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Daily Life."
+      }
+    },
+    {
+      "moduleId": "sa_a1_m4",
+      "theme": "Travel",
+      "order": 4,
+      "vocabularyItems": [
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 1)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 1)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 1)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 1)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 1)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 2)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 2)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 2)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 2)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 2)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 3)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 3)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 3)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 3)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 3)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 4)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 4)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 4)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 4)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 4)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 5)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 5)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 5)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 5)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 5)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 6)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 6)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 6)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 6)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 6)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 7)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 7)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 7)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 7)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 7)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 8)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 8)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 8)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 8)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 8)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 9)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 9)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 9)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 9)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 9)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 10)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 10)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 10)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 10)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 10)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 11)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 11)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 11)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 11)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 11)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 12)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 12)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 12)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Travel for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Travel."
+      }
+    },
+    {
+      "moduleId": "sa_a1_m5",
+      "theme": "Socializing",
+      "order": 5,
+      "vocabularyItems": [
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 1)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 1)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 1)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 1)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 1)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 2)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 2)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 2)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 2)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 2)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 3)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 3)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 3)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 3)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 3)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 4)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 4)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 4)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 4)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 4)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 5)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 5)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 5)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 5)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 5)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 6)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 6)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 6)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 6)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 6)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 7)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 7)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 7)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 7)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 7)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 8)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 8)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 8)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 8)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 8)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 9)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 9)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 9)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 9)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 9)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 10)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 10)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 10)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 10)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 10)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 11)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 11)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 11)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 11)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 11)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 12)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 12)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 12)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 12)",
+          "example_sentence": "इदं मम गृहम्।"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Socializing for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Socializing."
+      }
+    },
+    {
+      "moduleId": "sa_a1_m6",
+      "theme": "Nature",
+      "order": 6,
+      "vocabularyItems": [
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 1)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 1)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 1)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 1)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 1)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 2)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 2)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 2)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 2)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 2)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 3)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 3)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 3)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 3)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 3)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 4)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 4)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 4)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 4)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 4)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 5)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 5)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 5)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 5)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 5)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 6)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 6)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 6)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 6)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 6)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 7)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 7)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 7)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 7)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 7)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 8)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 8)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 8)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 8)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 8)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 9)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 9)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 9)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 9)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 9)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 10)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 10)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 10)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 10)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 10)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 11)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 11)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 11)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 11)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 11)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 12)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 12)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 12)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 12)",
+          "example_sentence": "जलं जीवनम्।"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Nature for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Nature."
+      }
+    },
+    {
+      "moduleId": "sa_a1_m7",
+      "theme": "Work & Study",
+      "order": 7,
+      "vocabularyItems": [
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 1)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 1)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 1)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 1)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 1)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 2)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 2)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 2)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 2)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 2)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 3)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 3)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 3)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 3)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 3)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 4)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 4)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 4)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 4)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 4)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 5)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 5)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 5)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 5)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 5)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 6)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 6)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 6)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 6)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 6)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 7)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 7)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 7)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 7)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 7)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 8)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 8)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 8)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 8)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 8)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 9)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 9)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 9)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 9)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 9)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 10)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 10)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 10)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 10)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 10)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 11)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 11)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 11)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 11)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 11)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 12)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 12)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 12)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Work & Study for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Work & Study."
+      }
+    },
+    {
+      "moduleId": "sa_a1_m8",
+      "theme": "Emotions",
+      "order": 8,
+      "vocabularyItems": [
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 1)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 1)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 1)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 1)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 1)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 2)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 2)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 2)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 2)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 2)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 3)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 3)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 3)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 3)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 3)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 4)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 4)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 4)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 4)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 4)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 5)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 5)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 5)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 5)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 5)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 6)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 6)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 6)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 6)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 6)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 7)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 7)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 7)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 7)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 7)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 8)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 8)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 8)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 8)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 8)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 9)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 9)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 9)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 9)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 9)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 10)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 10)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 10)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 10)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 10)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 11)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 11)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 11)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 11)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 11)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 12)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 12)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 12)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 12)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Emotions for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Emotions."
+      }
+    },
+    {
+      "moduleId": "sa_a1_m9",
+      "theme": "Culture",
+      "order": 9,
+      "vocabularyItems": [
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 1)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 1)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 1)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 1)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 1)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 2)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 2)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 2)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 2)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 2)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 3)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 3)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 3)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 3)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 3)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 4)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 4)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 4)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 4)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 4)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 5)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 5)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 5)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 5)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 5)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 6)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 6)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 6)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 6)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 6)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 7)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 7)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 7)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 7)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 7)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 8)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 8)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 8)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 8)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 8)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 9)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 9)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 9)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 9)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 9)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 10)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 10)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 10)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 10)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 10)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 11)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 11)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 11)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 11)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 11)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 12)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 12)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 12)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Culture for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Culture."
+      }
+    },
+    {
+      "moduleId": "sa_a1_m10",
+      "theme": "Review",
+      "order": 10,
+      "vocabularyItems": [
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 1)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 1)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 1)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 1)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 1)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 2)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 2)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 2)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 2)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 2)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 3)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 3)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 3)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 3)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 3)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 4)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 4)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 4)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 4)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 4)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 5)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 5)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 5)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 5)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 5)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 6)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 6)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 6)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 6)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 6)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 7)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 7)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 7)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 7)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 7)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 8)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 8)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 8)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 8)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 8)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 9)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 9)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 9)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 9)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 9)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 10)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 10)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 10)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 10)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 10)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 11)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 11)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 11)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        },
+        {
+          "word": "धन्यवादः",
+          "reading": "dhanyavādaḥ",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "भोजनार्थः धन्यवादः।"
+        },
+        {
+          "word": "माता",
+          "reading": "mātā",
+          "meaning": "Mother (Var 11)",
+          "example_sentence": "मम माता स्नेहमयी अस्ति।"
+        },
+        {
+          "word": "पिता",
+          "reading": "pitā",
+          "meaning": "Father (Var 11)",
+          "example_sentence": "पिता धर्मः स्वर्गः।"
+        },
+        {
+          "word": "जलम्",
+          "reading": "jalam",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "जलं जीवनम्।"
+        },
+        {
+          "word": "फलम्",
+          "reading": "phalam",
+          "meaning": "Fruit (Var 12)",
+          "example_sentence": "आम्रफलं मधुरम्।"
+        },
+        {
+          "word": "पुस्तकम्",
+          "reading": "pustakam",
+          "meaning": "Book (Var 12)",
+          "example_sentence": "अहं पुस्तकं पठामि।"
+        },
+        {
+          "word": "गृहम्",
+          "reading": "gṛham",
+          "meaning": "House (Var 12)",
+          "example_sentence": "इदं मम गृहम्।"
+        },
+        {
+          "word": "नमस्ते",
+          "reading": "namaste",
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "नमस्ते, कथम् अस्ति?"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Review for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Review."
+      }
+    }
+  ]
+}

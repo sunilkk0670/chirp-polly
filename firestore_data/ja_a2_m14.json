@@ -1,0 +1,612 @@
+{
+    "moduleId": "ja_a2_m14",
+    "theme": "Leisure & Hobbies",
+    "order": 14,
+    "vocabularyItems": [
+        {
+            "word": "刺激",
+            "reading": "shigeki",
+            "meaning": "Stimulus/Inspiration",
+            "example_sentence": "いい刺激をもらいました。"
+        },
+        {
+            "word": "発見",
+            "reading": "hakken",
+            "meaning": "Discovery",
+            "example_sentence": "新しい趣味を発見しました。"
+        },
+        {
+            "word": "収集",
+            "reading": "shuushuu",
+            "meaning": "Collection",
+            "example_sentence": "切手の収集をしています。"
+        },
+        {
+            "word": "切手",
+            "reading": "kitte",
+            "meaning": "Stamp",
+            "example_sentence": "珍しい切手を見つけました。"
+        },
+        {
+            "word": "骨董品",
+            "reading": "kottouhin",
+            "meaning": "Antique",
+            "example_sentence": "骨董品店に行きます。"
+        },
+        {
+            "word": "古着",
+            "reading": "furugi",
+            "meaning": "Old clothes",
+            "example_sentence": "古着屋で買い物をします。"
+        },
+        {
+            "word": "雑貨",
+            "reading": "zakka",
+            "meaning": "Miscellaneous goods",
+            "example_sentence": "可愛い雑貨を集めています。"
+        },
+        {
+            "word": "通販",
+            "reading": "tsuuhan",
+            "meaning": "Online shopping",
+            "example_sentence": "通販で趣味の道具を買います。"
+        },
+        {
+            "word": "限定品",
+            "reading": "gentaihin",
+            "meaning": "Limited edition",
+            "example_sentence": "限定品のフィギュアを買いました。"
+        },
+        {
+            "word": "お宝",
+            "reading": "otakara",
+            "meaning": "Treasure",
+            "example_sentence": "私にとってのお宝です。"
+        },
+        {
+            "word": "流行",
+            "reading": "ryuukou",
+            "meaning": "Fashion/Trend",
+            "example_sentence": "最新の流行をチェックします。"
+        },
+        {
+            "word": "話題",
+            "reading": "wadai",
+            "meaning": "Topic",
+            "example_sentence": "今話題のスポットです。"
+        },
+        {
+            "word": "人気",
+            "reading": "ninki",
+            "meaning": "Popularity",
+            "example_sentence": "人気のある趣味です。"
+        },
+        {
+            "word": "定番",
+            "reading": "teiban",
+            "meaning": "Standard/Classic",
+            "example_sentence": "定番の楽しみ方です。"
+        },
+        {
+            "word": "贅沢",
+            "reading": "zeitaku",
+            "meaning": "Luxury",
+            "example_sentence": "週末に贅沢をします。"
+        },
+        {
+            "word": "息抜き",
+            "reading": "ikinuki",
+            "meaning": "Breather/Relaxation",
+            "example_sentence": "仕事の合間に息抜きをします。"
+        },
+        {
+            "word": "没頭",
+            "reading": "bottou",
+            "meaning": "Immersing oneself",
+            "example_sentence": "趣味に没頭しています。"
+        },
+        {
+            "word": "情熱",
+            "reading": "jounetsu",
+            "meaning": "Passion",
+            "example_sentence": "情熱を持って取り組みます。"
+        },
+        {
+            "word": "探究心",
+            "reading": "tankyuushin",
+            "meaning": "Inquiry mind",
+            "example_sentence": "探究心が強いです。"
+        },
+        {
+            "word": "好奇心",
+            "reading": "koukishin",
+            "meaning": "Curiosity",
+            "example_sentence": "好奇心が旺盛です。"
+        },
+        {
+            "word": "創造的",
+            "reading": "souzouteki",
+            "meaning": "Creative",
+            "example_sentence": "創造的な活動が好きです。"
+        },
+        {
+            "word": "独創的",
+            "reading": "dokusouteki",
+            "meaning": "Original",
+            "example_sentence": "独創的な作品を作ります。"
+        },
+        {
+            "word": "個性的",
+            "reading": "koseiteki",
+            "meaning": "Individual/Unique",
+            "example_sentence": "個性的な趣味を持っています。"
+        },
+        {
+            "word": "本格的",
+            "reading": "honkakuteki",
+            "meaning": "Authentic/Genuine",
+            "example_sentence": "本格的な道具を揃えました。"
+        },
+        {
+            "word": "専門的",
+            "reading": "senmonteki",
+            "meaning": "Specialized",
+            "example_sentence": "専門的な知識が必要です。"
+        },
+        {
+            "word": "知識",
+            "reading": "chishiki",
+            "meaning": "Knowledge",
+            "example_sentence": "知識を深めます。"
+        },
+        {
+            "word": "経験",
+            "reading": "keiken",
+            "meaning": "Experience",
+            "example_sentence": "いい経験になりました。"
+        },
+        {
+            "word": "交流",
+            "reading": "kouryuu",
+            "meaning": "Interaction/Exchange",
+            "example_sentence": "趣味を通じて交流します。"
+        },
+        {
+            "word": "サークル",
+            "reading": "saakuru",
+            "meaning": "Circle/Club",
+            "example_sentence": "読書サークルに入っています。"
+        },
+        {
+            "word": "講座",
+            "reading": "kouza",
+            "meaning": "Course/Lecture",
+            "example_sentence": "オンライン講座を受けます。"
+        },
+        {
+            "word": "発表会",
+            "reading": "happyoukai",
+            "meaning": "Presentation/Recital",
+            "example_sentence": "ピアノの発表会があります。"
+        },
+        {
+            "word": "展示会",
+            "reading": "tenjikai",
+            "meaning": "Exhibition",
+            "example_sentence": "写真の展示会をします。"
+        },
+        {
+            "word": "思い出",
+            "reading": "omoide",
+            "meaning": "Memory",
+            "example_sentence": "いい思い出ができました。"
+        },
+        {
+            "word": "一生",
+            "reading": "isshou",
+            "meaning": "Lifetime",
+            "example_sentence": "一生の趣味にしたいです。"
+        },
+        {
+            "word": "生きがい",
+            "reading": "ikigai",
+            "meaning": "Reason for living",
+            "example_sentence": "仕事が生きがいです。"
+        },
+        {
+            "word": "掃除",
+            "reading": "souji",
+            "meaning": "Cleaning",
+            "example_sentence": "毎朝、部屋の掃除をします。"
+        },
+        {
+            "word": "洗濯",
+            "reading": "sentaku",
+            "meaning": "Laundry",
+            "example_sentence": "天気がいいので洗濯をしました。"
+        },
+        {
+            "word": "冷蔵庫",
+            "reading": "reizouko",
+            "meaning": "Refrigerator",
+            "example_sentence": "冷蔵庫に牛乳があります。"
+        },
+        {
+            "word": "家具",
+            "reading": "kagu",
+            "meaning": "Furniture",
+            "example_sentence": "新しい家具を買いに行きます。"
+        },
+        {
+            "word": "食器",
+            "reading": "shokki",
+            "meaning": "Tableware/Dishes",
+            "example_sentence": "使った食器を洗ってください。"
+        },
+        {
+            "word": "電子レンジ",
+            "reading": "denshi renji",
+            "meaning": "Microwave",
+            "example_sentence": "お弁当を電子レンジで温めます。"
+        },
+        {
+            "word": "炊飯器",
+            "reading": "suihanki",
+            "meaning": "Rice cooker",
+            "example_sentence": "炊飯器でお米を炊きます。"
+        },
+        {
+            "word": "電気代",
+            "reading": "denkidai",
+            "meaning": "Electricity bill",
+            "example_sentence": "今月の電気代が高いです。"
+        },
+        {
+            "word": "水道代",
+            "reading": "suidoudai",
+            "meaning": "Water bill",
+            "example_sentence": "水道代を払いに行きます。"
+        },
+        {
+            "word": "ガス代",
+            "reading": "gasudai",
+            "meaning": "Gas bill",
+            "example_sentence": "冬はガス代が高くなります。"
+        },
+        {
+            "word": "家賃",
+            "reading": "yachin",
+            "meaning": "Rent",
+            "example_sentence": "月末に家賃を払います。"
+        },
+        {
+            "word": "管理費",
+            "reading": "kanrihi",
+            "meaning": "Management fee",
+            "example_sentence": "家賃の他に管理費がかかります。"
+        },
+        {
+            "word": "ゴミ出し",
+            "reading": "gomidashi",
+            "meaning": "Taking out the trash",
+            "example_sentence": "ゴミ出しは月曜日です。"
+        },
+        {
+            "word": "資源ゴミ",
+            "reading": "shigen gomi",
+            "meaning": "Recyclable waste",
+            "example_sentence": "資源ゴミを分別します。"
+        },
+        {
+            "word": "粗大ゴミ",
+            "reading": "sodai gomi",
+            "meaning": "Oversized trash",
+            "example_sentence": "粗大ゴミの回収を予約します。"
+        },
+        {
+            "word": "分別",
+            "reading": "bunbetsu",
+            "meaning": "Classification/Sorting",
+            "example_sentence": "地域のルールでゴミを分別します。"
+        },
+        {
+            "word": "片付け",
+            "reading": "katazuke",
+            "meaning": "Tidying up",
+            "example_sentence": "机の上を片付けます。"
+        },
+        {
+            "word": "整理整頓",
+            "reading": "seiri seiton",
+            "meaning": "Keeping things neat/organized",
+            "example_sentence": "整理整頓が苦手です。"
+        },
+        {
+            "word": "引っ越し",
+            "reading": "hikkoshi",
+            "meaning": "Moving (house)",
+            "example_sentence": "来月、隣の町に引っ越します。"
+        },
+        {
+            "word": "挨拶回り",
+            "reading": "aisatsu mawari",
+            "meaning": "Going around to greet neighbors",
+            "example_sentence": "引っ越しの後で挨拶回りをしました。"
+        },
+        {
+            "word": "不動産屋",
+            "reading": "fudousanya",
+            "meaning": "Real estate agent",
+            "example_sentence": "不動産屋でアパートを探します。"
+        },
+        {
+            "word": "日当たり",
+            "reading": "hiatari",
+            "meaning": "Exposure to the sun",
+            "example_sentence": "この部屋は日当たりがいいです。"
+        },
+        {
+            "word": "間取り",
+            "reading": "madori",
+            "meaning": "Room layout",
+            "example_sentence": "一人暮らしにいい間取りです。"
+        },
+        {
+            "word": "和室",
+            "reading": "washitsu",
+            "meaning": "Japanese-style room",
+            "example_sentence": "和室には畳があります。"
+        },
+        {
+            "word": "洋室",
+            "reading": "youshitsu",
+            "meaning": "Western-style room",
+            "example_sentence": "洋室はフローリングです。"
+        },
+        {
+            "word": "畳",
+            "reading": "tatami",
+            "meaning": "Tatami mat",
+            "example_sentence": "畳の香りが好きです。"
+        },
+        {
+            "word": "押し入れ",
+            "reading": "oshiire",
+            "meaning": "Japanese-style closet",
+            "example_sentence": "押し入れに布団をしまいます。"
+        },
+        {
+            "word": "玄関",
+            "reading": "genkan",
+            "meaning": "Entrance/Entryway",
+            "example_sentence": "玄関で靴を脱ぎます。"
+        },
+        {
+            "word": "台所",
+            "reading": "daidokoro",
+            "meaning": "Kitchen",
+            "example_sentence": "台所で料理を作ります。"
+        },
+        {
+            "word": "洗面所",
+            "reading": "senmenjo",
+            "meaning": "Washroom",
+            "example_sentence": "洗面所で歯を磨きます。"
+        },
+        {
+            "word": "浴室",
+            "reading": "yokushitsu",
+            "meaning": "Bathroom",
+            "example_sentence": "浴室を掃除しました。"
+        },
+        {
+            "word": "お手洗い",
+            "reading": "otearai",
+            "meaning": "Restroom/Toilet",
+            "example_sentence": "お手洗いを貸してください。"
+        },
+        {
+            "word": "廊下",
+            "reading": "rouka",
+            "meaning": "Hallway",
+            "example_sentence": "廊下を走らないでください。"
+        },
+        {
+            "word": "庭",
+            "reading": "niwa",
+            "meaning": "Garden/Yard",
+            "example_sentence": "庭に花を植えました。"
+        },
+        {
+            "word": "ベランダ",
+            "reading": "beranda",
+            "meaning": "Balcony",
+            "example_sentence": "ベランダで洗濯物を干します。"
+        },
+        {
+            "word": "一軒家",
+            "reading": "ikkenya",
+            "meaning": "Detached house",
+            "example_sentence": "静かな場所の一軒家に住んでいます。"
+        },
+        {
+            "word": "集合住宅",
+            "reading": "shuugou juutaku",
+            "meaning": "Housing complex",
+            "example_sentence": "集合住宅は騒音に注意します。"
+        },
+        {
+            "word": "壁",
+            "reading": "kabe",
+            "meaning": "Wall",
+            "example_sentence": "壁にカレンダーを貼りました。"
+        },
+        {
+            "word": "天井",
+            "reading": "tenjou",
+            "meaning": "Ceiling",
+            "example_sentence": "天井が高い部屋です。"
+        },
+        {
+            "word": "床",
+            "reading": "yuka",
+            "meaning": "Floor",
+            "example_sentence": "床をきれいに拭きました。"
+        },
+        {
+            "word": "窓",
+            "reading": "mado",
+            "meaning": "Window",
+            "example_sentence": "窓を開けて換気します。"
+        },
+        {
+            "word": "カーテン",
+            "reading": "kaaten",
+            "meaning": "Curtain",
+            "example_sentence": "遮光カーテンを買いました。"
+        },
+        {
+            "word": "鏡",
+            "reading": "kagami",
+            "meaning": "Mirror",
+            "example_sentence": "鏡を見て身支度をします。"
+        },
+        {
+            "word": "掛け軸",
+            "reading": "kakejiku",
+            "meaning": "Hanging scroll",
+            "example_sentence": "床の間に掛け軸を飾ります。"
+        },
+        {
+            "word": "座布団",
+            "reading": "zabuton",
+            "meaning": "Japanese floor cushion",
+            "example_sentence": "座布団をどうぞ。"
+        },
+        {
+            "word": "万能",
+            "reading": "bannou",
+            "meaning": "All-purpose",
+            "example_sentence": "万能なキッチンバサミです。"
+        },
+        {
+            "word": "日用品",
+            "reading": "nichiyouhin",
+            "meaning": "Daily necessities",
+            "example_sentence": "日用品を買い出しに行きます。"
+        },
+        {
+            "word": "買い出し",
+            "reading": "kaidashi",
+            "meaning": "Bulk shopping",
+            "example_sentence": "週末に食材の買い出しをします。"
+        },
+        {
+            "word": "自炊",
+            "reading": "jisui",
+            "meaning": "Cooking for oneself",
+            "example_sentence": "健康のために自炊を心がけます。"
+        },
+        {
+            "word": "外食",
+            "reading": "gaishoku",
+            "meaning": "Eating out",
+            "example_sentence": "今日は疲れたので外食にします。"
+        },
+        {
+            "word": "居心地",
+            "reading": "igokochi",
+            "meaning": "Comfort",
+            "example_sentence": "このカフェは居心地がいいです。"
+        },
+        {
+            "word": "快適",
+            "reading": "kaiteki",
+            "meaning": "Comfortable",
+            "example_sentence": "快適な生活を送っています。"
+        },
+        {
+            "word": "清潔",
+            "reading": "seiketsu",
+            "meaning": "Clean/Sanitary",
+            "example_sentence": "清潔な部屋を保ちます。"
+        },
+        {
+            "word": "不潔",
+            "reading": "fuketsu",
+            "meaning": "Unclean",
+            "example_sentence": "不潔な場所には行きたくありません。"
+        },
+        {
+            "word": "換気",
+            "reading": "kanki",
+            "meaning": "Ventilation",
+            "example_sentence": "定期的に換気をしましょう。"
+        },
+        {
+            "word": "湿気",
+            "reading": "shikke",
+            "meaning": "Humidity/Moisture",
+            "example_sentence": "梅雨は湿気が多いです。"
+        },
+        {
+            "word": "結露",
+            "reading": "ketsuro",
+            "meaning": "Condensation",
+            "example_sentence": "窓の結露を拭きます。"
+        },
+        {
+            "word": "騒音",
+            "reading": "souon",
+            "meaning": "Noise",
+            "example_sentence": "近所の騒音で眠れません。"
+        },
+        {
+            "word": "防音",
+            "reading": "bouon",
+            "meaning": "Soundproof",
+            "example_sentence": "防音対策をしました。"
+        },
+        {
+            "word": "修繕",
+            "reading": "shuuzen",
+            "meaning": "Repair/Mending",
+            "example_sentence": "壊れた屋根を修繕します。"
+        },
+        {
+            "word": "DIY",
+            "reading": "dii ai wai",
+            "meaning": "DIY/Do-it-yourself",
+            "example_sentence": "DIYで本棚を作りました。"
+        },
+        {
+            "word": "日曜大工",
+            "reading": "nichiyou daiku",
+            "meaning": "Sunday carpentry",
+            "example_sentence": "父の趣味は日曜大工です。"
+        },
+        {
+            "word": "暮らし",
+            "reading": "kurashi",
+            "meaning": "Living/Life",
+            "example_sentence": "のんびりした田舎での暮らしです。"
+        },
+        {
+            "word": "早寝早起き",
+            "reading": "hayane hayaoki",
+            "meaning": "Early to bed, early to rise",
+            "example_sentence": "早寝早起きは健康の源です。"
+        },
+        {
+            "word": "規則正しい",
+            "reading": "kisoku tadashii",
+            "meaning": "Regular/Orderly",
+            "example_sentence": "規則正しい生活をしましょう。"
+        }
+    ],
+    "liarGameData": {
+        "trap": "お寺や神社で、大きな声で「こんにちは！」と叫んだ。(Shouted 'Konnichiwa!' loudly at a temple/shrine.)",
+        "correctVersion": "お寺や神社では静かにして、一礼してから参拝する。(Be quiet at temples/shrines and bow before worshiping.)",
+        "explanation": "Japanese temples (otera) and shrines (jinja) are places of quiet reflection. While greetings are good, shouting is inappropriate. Show respect by being quiet, bowing at the gate, and following the local worshiping etiquette (like the 2-bow, 2-clap, 1-bow rule at shrines)."
+    }
+}

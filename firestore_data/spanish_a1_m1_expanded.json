@@ -1,0 +1,663 @@
+{
+    "moduleId": "spanish_a1_m1",
+    "theme": "SER: Identity, Origin & Characteristics",
+    "order": 1,
+    "targetWordCount": 100,
+    "lessons": [
+        {
+            "lessonNumber": 1,
+            "title": "SER Conjugation Present",
+            "vocabularyItems": [
+                {
+                    "targetText": "yo soy",
+                    "english": "I am",
+                    "type": "verb",
+                    "notes": "SER - identity/origin"
+                },
+                {
+                    "targetText": "tú eres",
+                    "english": "you are (informal)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "él es",
+                    "english": "he is",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "ella es",
+                    "english": "she is",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "usted es",
+                    "english": "you are (formal)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "nosotros somos",
+                    "english": "we are",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "vosotros sois",
+                    "english": "you all are (Spain)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "ellos son",
+                    "english": "they are (masc)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "ellas son",
+                    "english": "they are (fem)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "ustedes son",
+                    "english": "you all are (formal)",
+                    "type": "verb"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 2,
+            "title": "Nationalities (Masculine)",
+            "vocabularyItems": [
+                {
+                    "targetText": "español",
+                    "english": "Spanish (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "mexicano",
+                    "english": "Mexican (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "americano",
+                    "english": "American (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "francés",
+                    "english": "French (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "alemán",
+                    "english": "German (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "italiano",
+                    "english": "Italian (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "chino",
+                    "english": "Chinese (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "japonés",
+                    "english": "Japanese (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "brasileño",
+                    "english": "Brazilian (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "argentino",
+                    "english": "Argentine (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 3,
+            "title": "Nationalities (Feminine)",
+            "vocabularyItems": [
+                {
+                    "targetText": "española",
+                    "english": "Spanish (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "mexicana",
+                    "english": "Mexican (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "americana",
+                    "english": "American (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "francesa",
+                    "english": "French (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "alemana",
+                    "english": "German (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "italiana",
+                    "english": "Italian (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "china",
+                    "english": "Chinese (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "japonesa",
+                    "english": "Japanese (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "brasileña",
+                    "english": "Brazilian (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "argentina",
+                    "english": "Argentine (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 4,
+            "title": "Professions (Masculine)",
+            "vocabularyItems": [
+                {
+                    "targetText": "el médico",
+                    "english": "the doctor (masc)",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el profesor",
+                    "english": "the teacher (masc)",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el estudiante",
+                    "english": "the student (masc)",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el ingeniero",
+                    "english": "the engineer (masc)",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el abogado",
+                    "english": "the lawyer (masc)",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el cocinero",
+                    "english": "the cook (masc)",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el enfermero",
+                    "english": "the nurse (masc)",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el artista",
+                    "english": "the artist (masc)",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el músico",
+                    "english": "the musician (masc)",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el escritor",
+                    "english": "the writer (masc)",
+                    "type": "noun",
+                    "gender": "m"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 5,
+            "title": "Professions (Feminine)",
+            "vocabularyItems": [
+                {
+                    "targetText": "la médica",
+                    "english": "the doctor (fem)",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la profesora",
+                    "english": "the teacher (fem)",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la estudiante",
+                    "english": "the student (fem)",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la ingeniera",
+                    "english": "the engineer (fem)",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la abogada",
+                    "english": "the lawyer (fem)",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la cocinera",
+                    "english": "the cook (fem)",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la enfermera",
+                    "english": "the nurse (fem)",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la artista",
+                    "english": "the artist (fem)",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la música",
+                    "english": "the musician (fem)",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la escritora",
+                    "english": "the writer (fem)",
+                    "type": "noun",
+                    "gender": "f"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 6,
+            "title": "Personality Traits (Masculine)",
+            "vocabularyItems": [
+                {
+                    "targetText": "inteligente",
+                    "english": "intelligent",
+                    "type": "adjective",
+                    "notes": "same for m/f"
+                },
+                {
+                    "targetText": "simpático",
+                    "english": "nice/friendly (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "tímido",
+                    "english": "shy (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "extrovertido",
+                    "english": "outgoing (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "trabajador",
+                    "english": "hardworking (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "perezoso",
+                    "english": "lazy (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "generoso",
+                    "english": "generous (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "egoísta",
+                    "english": "selfish",
+                    "type": "adjective",
+                    "notes": "same for m/f"
+                },
+                {
+                    "targetText": "honesto",
+                    "english": "honest (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "divertido",
+                    "english": "fun (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 7,
+            "title": "Personality Traits (Feminine)",
+            "vocabularyItems": [
+                {
+                    "targetText": "simpática",
+                    "english": "nice/friendly (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "tímida",
+                    "english": "shy (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "extrovertida",
+                    "english": "outgoing (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "trabajadora",
+                    "english": "hardworking (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "perezosa",
+                    "english": "lazy (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "generosa",
+                    "english": "generous (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "honesta",
+                    "english": "honest (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "divertida",
+                    "english": "fun (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "seria",
+                    "english": "serious (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "amable",
+                    "english": "kind",
+                    "type": "adjective",
+                    "notes": "same for m/f"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 8,
+            "title": "Physical Descriptions (Masculine)",
+            "vocabularyItems": [
+                {
+                    "targetText": "alto",
+                    "english": "tall (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "bajo",
+                    "english": "short (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "delgado",
+                    "english": "thin (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "gordo",
+                    "english": "fat (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "guapo",
+                    "english": "handsome",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "feo",
+                    "english": "ugly (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "joven",
+                    "english": "young",
+                    "type": "adjective",
+                    "notes": "same for m/f"
+                },
+                {
+                    "targetText": "viejo",
+                    "english": "old (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "fuerte",
+                    "english": "strong",
+                    "type": "adjective",
+                    "notes": "same for m/f"
+                },
+                {
+                    "targetText": "débil",
+                    "english": "weak",
+                    "type": "adjective",
+                    "notes": "same for m/f"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 9,
+            "title": "Physical Descriptions (Feminine)",
+            "vocabularyItems": [
+                {
+                    "targetText": "alta",
+                    "english": "tall (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "baja",
+                    "english": "short (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "delgada",
+                    "english": "thin (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "gorda",
+                    "english": "fat (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "guapa",
+                    "english": "pretty/beautiful",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "fea",
+                    "english": "ugly (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "vieja",
+                    "english": "old (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "bonita",
+                    "english": "pretty",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "hermosa",
+                    "english": "beautiful",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "linda",
+                    "english": "cute",
+                    "type": "adjective",
+                    "gender": "f"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 10,
+            "title": "SER Usage Examples",
+            "vocabularyItems": [
+                {
+                    "targetText": "Soy de España",
+                    "english": "I am from Spain",
+                    "type": "phrase",
+                    "notes": "SER for origin"
+                },
+                {
+                    "targetText": "Eres muy inteligente",
+                    "english": "You are very intelligent",
+                    "type": "phrase",
+                    "notes": "SER for characteristics"
+                },
+                {
+                    "targetText": "Es médico",
+                    "english": "He/She is a doctor",
+                    "type": "phrase",
+                    "notes": "SER for profession"
+                },
+                {
+                    "targetText": "Somos estudiantes",
+                    "english": "We are students",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Son las tres",
+                    "english": "It's three o'clock",
+                    "type": "phrase",
+                    "notes": "SER for time"
+                },
+                {
+                    "targetText": "Es mi hermano",
+                    "english": "He is my brother",
+                    "type": "phrase",
+                    "notes": "SER for relationships"
+                },
+                {
+                    "targetText": "Soy alto",
+                    "english": "I am tall",
+                    "type": "phrase",
+                    "notes": "SER for physical traits"
+                },
+                {
+                    "targetText": "Eres amable",
+                    "english": "You are kind",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Es importante",
+                    "english": "It is important",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Somos de México",
+                    "english": "We are from Mexico",
+                    "type": "phrase"
+                }
+            ]
+        }
+    ],
+    "liarGameData": {
+        "question": "Juan ___ español",
+        "questionEnglish": "Juan is Spanish (nationality)",
+        "correctAnswer": "es",
+        "liarAnswer": "está",
+        "explanation": "Use SER (es) for nationality/origin. ESTAR (está) is for location or temporary states. Nationality is a permanent characteristic!",
+        "trapType": "ser_estar_nationality"
+    }
+}

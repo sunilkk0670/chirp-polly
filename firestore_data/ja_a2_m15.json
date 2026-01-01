@@ -1,0 +1,612 @@
+{
+    "moduleId": "ja_a2_m15",
+    "theme": "Home & Lifestyle",
+    "order": 15,
+    "vocabularyItems": [
+        {
+            "word": "節約",
+            "reading": "setsuyaku",
+            "meaning": "Economizing/Saving",
+            "example_sentence": "食費を節約しています。"
+        },
+        {
+            "word": "浪費",
+            "reading": "rouhi",
+            "meaning": "Wasting",
+            "example_sentence": "浪費家を卒業したいです。"
+        },
+        {
+            "word": "貯金",
+            "reading": "chokin",
+            "meaning": "Savings",
+            "example_sentence": "旅行のために貯金をします。"
+        },
+        {
+            "word": "家計簿",
+            "reading": "kakeibo",
+            "meaning": "Household account book",
+            "example_sentence": "毎日、家計簿をつけています。"
+        },
+        {
+            "word": "支払い",
+            "reading": "shiharai",
+            "meaning": "Payment",
+            "example_sentence": "支払いはカードでします。"
+        },
+        {
+            "word": "近所付き合い",
+            "reading": "kinjo tsukiai",
+            "meaning": "Neighborly relations",
+            "example_sentence": "近所付き合いを大切にします。"
+        },
+        {
+            "word": "自治会",
+            "reading": "jichikai",
+            "meaning": "Neighborhood association",
+            "example_sentence": "自治会の集まりに出席します。"
+        },
+        {
+            "word": "防犯対策",
+            "reading": "bouhan taisaku",
+            "meaning": "Crime prevention measures",
+            "example_sentence": "防犯対策のために鍵を増やしました。"
+        },
+        {
+            "word": "防災グッズ",
+            "reading": "bousai guzzu",
+            "meaning": "Disaster prevention goods",
+            "example_sentence": "防災グッズを準備しておきます。"
+        },
+        {
+            "word": "避難訓練",
+            "reading": "hinan kunren",
+            "meaning": "Evacuation drill",
+            "example_sentence": "小学校で避難訓練があります。"
+        },
+        {
+            "word": "備蓄",
+            "reading": "bichiku",
+            "meaning": "Storage/Stockpile",
+            "example_sentence": "水の備蓄を確認します。"
+        },
+        {
+            "word": "郵便物",
+            "reading": "yuubinbutsu",
+            "meaning": "Mail/Postal matter",
+            "example_sentence": "郵便物を確認してください。"
+        },
+        {
+            "word": "宅配便",
+            "reading": "takuhaibin",
+            "meaning": "Home delivery service",
+            "example_sentence": "宅配便が届きました。"
+        },
+        {
+            "word": "不在連絡票",
+            "reading": "fuzai renrakuhyou",
+            "meaning": "Delivery absence notice",
+            "example_sentence": "不在連絡票が入っていました。"
+        },
+        {
+            "word": "再配達",
+            "reading": "sai haitatsu",
+            "meaning": "Redelivery",
+            "example_sentence": "再配達をお願いしました。"
+        },
+        {
+            "word": "門限",
+            "reading": "mongen",
+            "meaning": "Curfew",
+            "example_sentence": "寮には門限があります。"
+        },
+        {
+            "word": "門戸",
+            "reading": "monko",
+            "meaning": "Entrance/Open door",
+            "example_sentence": "門戸を開放しています。"
+        },
+        {
+            "word": "大家さん",
+            "reading": "ooyasan",
+            "meaning": "Landlord",
+            "example_sentence": "大家さんに挨拶しました。"
+        },
+        {
+            "word": "更新料",
+            "reading": "koushinryou",
+            "meaning": "Contract renewal fee",
+            "example_sentence": "2年ごとに更新料を払います。"
+        },
+        {
+            "word": "敷金",
+            "reading": "shikikin",
+            "meaning": "Security deposit",
+            "example_sentence": "敷金が戻ってきました。"
+        },
+        {
+            "word": "礼金",
+            "reading": "reikin",
+            "meaning": "Key money/Gratuity",
+            "example_sentence": "礼金不要の物件を探します。"
+        },
+        {
+            "word": "保証人",
+            "reading": "hoshounin",
+            "meaning": "Guarantor",
+            "example_sentence": "保証人が必要です。"
+        },
+        {
+            "word": "手続き",
+            "reading": "tetsuzuki",
+            "meaning": "Procedure",
+            "example_sentence": "市役所で手続きをします。"
+        },
+        {
+            "word": "印鑑",
+            "reading": "inkan",
+            "meaning": "Seal/Stamp",
+            "example_sentence": "書類に印鑑を押します。"
+        },
+        {
+            "word": "署名",
+            "reading": "shomei",
+            "meaning": "Signature",
+            "example_sentence": "こちらに署名をお願いします。"
+        },
+        {
+            "word": "入居",
+            "reading": "nyuukyo",
+            "meaning": "Moving in",
+            "example_sentence": "入居日は明日です。"
+        },
+        {
+            "word": "退去",
+            "reading": "taikyo",
+            "meaning": "Moving out",
+            "example_sentence": "月末までに退去します。"
+        },
+        {
+            "word": "掃除当番",
+            "reading": "souji touban",
+            "meaning": "Cleaning duty",
+            "example_sentence": "今週は私が掃除当番です。"
+        },
+        {
+            "word": "洋服",
+            "reading": "youfuku",
+            "meaning": "Western-style clothes",
+            "example_sentence": "新しい洋服が欲しいです。"
+        },
+        {
+            "word": "試着",
+            "reading": "shichaku",
+            "meaning": "Trying on clothes",
+            "example_sentence": "このズボンを試着してもいいですか。"
+        },
+        {
+            "word": "試着室",
+            "reading": "shichakushitsu",
+            "meaning": "Fitting room",
+            "example_sentence": "試着室はどこにありますか。"
+        },
+        {
+            "word": "サイズ",
+            "reading": "saizu",
+            "meaning": "Size",
+            "example_sentence": "サイズが合いません。"
+        },
+        {
+            "word": "地味",
+            "reading": "jimi",
+            "meaning": "Plain/Subdued",
+            "example_sentence": "この色は少し地味すぎます。"
+        },
+        {
+            "word": "派手",
+            "reading": "hade",
+            "meaning": "Flashy/Showy",
+            "example_sentence": "派手なネクタイをしていますね。"
+        },
+        {
+            "word": "お洒落",
+            "reading": "oshare",
+            "meaning": "Fashionable/Stylish",
+            "example_sentence": "彼女はいつもお洒落な服を着ています。"
+        },
+        {
+            "word": "流行る",
+            "reading": "hayaru",
+            "meaning": "To be popular/in style",
+            "example_sentence": "このデザインが若者の間で流行っています。"
+        },
+        {
+            "word": "新製品",
+            "reading": "shinseihin",
+            "meaning": "New product",
+            "example_sentence": "新製品の展示を見に行きました。"
+        },
+        {
+            "word": "期間限定",
+            "reading": "kikan gentei",
+            "meaning": "Limited time offer",
+            "example_sentence": "期間限定のスイーツを買いました。"
+        },
+        {
+            "word": "在庫",
+            "reading": "zaiko",
+            "meaning": "In stock/Inventory",
+            "example_sentence": "あいにく、在庫がございません。"
+        },
+        {
+            "word": "入荷",
+            "reading": "nyuuka",
+            "meaning": "Arrival of goods",
+            "example_sentence": "来週、新しい服が入荷します。"
+        },
+        {
+            "word": "欠品",
+            "reading": "keppin",
+            "meaning": "Out of stock",
+            "example_sentence": "人気商品なので欠品しています。"
+        },
+        {
+            "word": "売り切れ",
+            "reading": "urikire",
+            "meaning": "Sold out",
+            "example_sentence": "チケットは売り切れました。"
+        },
+        {
+            "word": "お買い得",
+            "reading": "okaidoku",
+            "meaning": "Good buy/Bargain",
+            "example_sentence": "今日はお買い得な商品が多いです。"
+        },
+        {
+            "word": "特価",
+            "reading": "tokka",
+            "meaning": "Special price",
+            "example_sentence": "本日のみの特価です。"
+        },
+        {
+            "word": "税込み",
+            "reading": "zeikomi",
+            "meaning": "Tax included",
+            "example_sentence": "これは税込みの値段ですか。"
+        },
+        {
+            "word": "税抜き",
+            "reading": "zeinuki",
+            "meaning": "Tax excluded",
+            "example_sentence": "表示価格は税抜きです。"
+        },
+        {
+            "word": "会計",
+            "reading": "kaikei",
+            "meaning": "Account/Bill",
+            "example_sentence": "お会計をお願いします。"
+        },
+        {
+            "word": "支払い方法",
+            "reading": "shiharai houhou",
+            "meaning": "Payment method",
+            "example_sentence": "支払い方法は何がありますか。"
+        },
+        {
+            "word": "現金",
+            "reading": "genkin",
+            "meaning": "Cash",
+            "example_sentence": "現金で払います。"
+        },
+        {
+            "word": "クレジットカード",
+            "reading": "kurejitto kaado",
+            "meaning": "Credit card",
+            "example_sentence": "クレジットカードは使えますか。"
+        },
+        {
+            "word": "一括払い",
+            "reading": "ikkatsu barai",
+            "meaning": "One-time payment",
+            "example_sentence": "一括払いでお願いします。"
+        },
+        {
+            "word": "分割払い",
+            "reading": "bunkatsu barai",
+            "meaning": "Installment payment",
+            "example_sentence": "分割払いにできますか。"
+        },
+        {
+            "word": "レシート",
+            "reading": "reshiito",
+            "meaning": "Receipt (sales)",
+            "example_sentence": "レシートを捨てないでください。"
+        },
+        {
+            "word": "返品",
+            "reading": "heppin",
+            "meaning": "Returned goods",
+            "example_sentence": "商品の返品はできますか。"
+        },
+        {
+            "word": "交換",
+            "reading": "koukan",
+            "meaning": "Exchange",
+            "example_sentence": "サイズが違うので交換したいです。"
+        },
+        {
+            "word": "保証書",
+            "reading": "hoshousho",
+            "meaning": "Warranty card",
+            "example_sentence": "保証書は大切に保管してください。"
+        },
+        {
+            "word": "包装",
+            "reading": "housou",
+            "meaning": "Wrapping/Packaging",
+            "example_sentence": "プレゼント用に包装してください。"
+        },
+        {
+            "word": "レジ袋",
+            "reading": "rejibukuro",
+            "meaning": "Plastic shopping bag",
+            "example_sentence": "レジ袋は有料です。"
+        },
+        {
+            "word": "エコバッグ",
+            "reading": "ekobaggu",
+            "meaning": "Reusable shopping bag",
+            "example_sentence": "エコバッグを持っていますか。"
+        },
+        {
+            "word": "おまけ",
+            "reading": "omake",
+            "meaning": "Extra/Free gift",
+            "example_sentence": "おまけにシールをもらいました。"
+        },
+        {
+            "word": "サービス",
+            "reading": "saabisu",
+            "meaning": "Service/Complimentary",
+            "example_sentence": "これはお店からのサービスです。"
+        },
+        {
+            "word": "不満",
+            "reading": "fuman",
+            "meaning": "Dissatisfaction",
+            "example_sentence": "接客に不満があります。"
+        },
+        {
+            "word": "価格",
+            "reading": "kakaku",
+            "meaning": "Price/Value",
+            "example_sentence": "価格が高騰しています。"
+        },
+        {
+            "word": "激安",
+            "reading": "gekiyasu",
+            "meaning": "Dirt cheap",
+            "example_sentence": "激安スーパーで買い物をします。"
+        },
+        {
+            "word": "高級",
+            "reading": "koukyuu",
+            "meaning": "High-class/Luxury",
+            "example_sentence": "高級な時計を買いました。"
+        },
+        {
+            "word": "手頃な",
+            "reading": "tegoro na",
+            "meaning": "Affordable",
+            "example_sentence": "手頃な価格のランチです。"
+        },
+        {
+            "word": "贅沢な",
+            "reading": "zeitaku na",
+            "meaning": "Luxurious/Extravagant",
+            "example_sentence": "たまには贅沢をしたいです。"
+        },
+        {
+            "word": "無駄遣い",
+            "reading": "mudazukai",
+            "meaning": "Wasteful spending",
+            "example_sentence": "無駄遣いをしないようにします。"
+        },
+        {
+            "word": "節約家",
+            "reading": "setsuyakuka",
+            "meaning": "Economical person",
+            "example_sentence": "母は節約家です。"
+        },
+        {
+            "word": "お客様",
+            "reading": "okyakusama",
+            "meaning": "Customer (polite)",
+            "example_sentence": "お客様、何かお探しですか。"
+        },
+        {
+            "word": "接客",
+            "reading": "sekkyaku",
+            "meaning": "Customer service",
+            "example_sentence": "接客の仕事は大変です。"
+        },
+        {
+            "word": "品揃え",
+            "reading": "shinazorae",
+            "meaning": "Inventory selection",
+            "example_sentence": "この店は品揃えがいいです。"
+        },
+        {
+            "word": "産地",
+            "reading": "sanchi",
+            "meaning": "Producing area",
+            "example_sentence": "産地を確認して買います。"
+        },
+        {
+            "word": "国産",
+            "reading": "kokusan",
+            "meaning": "Domestic product",
+            "example_sentence": "国産の野菜を選びます。"
+        },
+        {
+            "word": "輸入品",
+            "reading": "yunyuuhin",
+            "meaning": "Imported goods",
+            "example_sentence": "輸入品の家具が好きです。"
+        },
+        {
+            "word": "中古品",
+            "reading": "chuukohin",
+            "meaning": "Used goods",
+            "example_sentence": "中古品でも構いません。"
+        },
+        {
+            "word": "新品",
+            "reading": "shinpin",
+            "meaning": "Brand new",
+            "example_sentence": "新品なのに壊れています。"
+        },
+        {
+            "word": "目玉商品",
+            "reading": "medama shouhin",
+            "meaning": "Featured item",
+            "example_sentence": "今日の目玉商品は卵です。"
+        },
+        {
+            "word": "チラシ",
+            "reading": "chirashi",
+            "meaning": "Leaflet/Flyer",
+            "example_sentence": "スーパーのチラシを見ます。"
+        },
+        {
+            "word": "特売日",
+            "reading": "tokubaibi",
+            "meaning": "Bargain day",
+            "example_sentence": "火曜日は特売日です。"
+        },
+        {
+            "word": "商店街",
+            "reading": "shoutengai",
+            "meaning": "Shopping street",
+            "example_sentence": "商店街を散策します。"
+        },
+        {
+            "word": "福袋",
+            "reading": "fukubukuro",
+            "meaning": "Lucky bag",
+            "example_sentence": "お正月に福袋を買いました。"
+        },
+        {
+            "word": "素材",
+            "reading": "sozai",
+            "meaning": "Material",
+            "example_sentence": "この服は素材がいいです。"
+        },
+        {
+            "word": "綿",
+            "reading": "men",
+            "meaning": "Cotton",
+            "example_sentence": "綿100パーセントのシャツです。"
+        },
+        {
+            "word": "絹",
+            "reading": "kinu",
+            "meaning": "Silk",
+            "example_sentence": "絹のスカーフを巻きます。"
+        },
+        {
+            "word": "羊毛",
+            "reading": "youmou",
+            "meaning": "Wool",
+            "example_sentence": "羊毛のセーターを編みます。"
+        },
+        {
+            "word": "麻",
+            "reading": "asa",
+            "meaning": "Linen/Hemp",
+            "example_sentence": "麻の服は夏に涼しいです。"
+        },
+        {
+            "word": "革",
+            "reading": "kama",
+            "meaning": "Leather",
+            "example_sentence": "革の靴を磨きます。"
+        },
+        {
+            "word": "合成皮革",
+            "reading": "gousei hikaku",
+            "meaning": "Synthetic leather",
+            "example_sentence": "合成皮革のバッグです。"
+        },
+        {
+            "word": "模様",
+            "reading": "moyou",
+            "meaning": "Pattern/Design",
+            "example_sentence": "花模様のワンピースです。"
+        },
+        {
+            "word": "柄",
+            "reading": "gara",
+            "meaning": "Pattern/Design",
+            "example_sentence": "チェックの柄が好きです。"
+        },
+        {
+            "word": "無地",
+            "reading": "muji",
+            "meaning": "Plain/Solid color",
+            "example_sentence": "無地のTシャツを買い足しました。"
+        },
+        {
+            "word": "縞模様",
+            "reading": "shimamoyou",
+            "meaning": "Striped pattern",
+            "example_sentence": "縞模様のパジャマです。"
+        },
+        {
+            "word": "水玉",
+            "reading": "mizutama",
+            "meaning": "Polka dots",
+            "example_sentence": "水玉の傘を差します。"
+        },
+        {
+            "word": "襟",
+            "reading": "eri",
+            "meaning": "Collar",
+            "example_sentence": "シャツの襟を正します。"
+        },
+        {
+            "word": "袖",
+            "reading": "sode",
+            "meaning": "Sleeve",
+            "example_sentence": "長袖の服を着ます。"
+        },
+        {
+            "word": "裾",
+            "reading": "suso",
+            "meaning": "Hem/Cuff",
+            "example_sentence": "ズボンの裾を上げます。"
+        },
+        {
+            "word": "ボタン",
+            "reading": "botan",
+            "meaning": "Button",
+            "example_sentence": "ボタンが取れそうです。"
+        },
+        {
+            "word": "ファスナー",
+            "reading": "fasunaa",
+            "meaning": "Zipper",
+            "example_sentence": "ファスナーが噛んでしまいました。"
+        },
+        {
+            "word": "着心地",
+            "reading": "kigochi",
+            "meaning": "Wearing comfort",
+            "example_sentence": "着心地がとてもいいです。"
+        }
+    ],
+    "liarGameData": {
+        "trap": "和室に入るとき、敷居（しきい）を踏んで歩いた。(Stepped on the threshold when entering a washitsu.)",
+        "correctVersion": "敷居や畳の縁（へり）は踏まずにまたいで歩く。(Avoid stepping on thresholds and tatami edges.)",
+        "explanation": "In traditional Japanese culture, stepping on the 'shikii' (threshold) or the 'heri' (tatami borders) is considered extremely rude. This is because they represent family identity and structural integrity. Show respect by stepping over them!"
+    }
+}

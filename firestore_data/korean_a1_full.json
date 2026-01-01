@@ -1,0 +1,6134 @@
+{
+  "modules": [
+    {
+      "moduleId": "kr_a1_m1",
+      "theme": "Fundamentals",
+      "order": 1,
+      "vocabularyItems": [
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 1)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 1)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 1)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 2)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 2)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 2)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 3)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 3)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 3)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 4)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 4)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 4)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 5)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 5)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 5)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 6)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 6)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 6)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 7)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 7)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 7)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 8)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 8)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 8)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 9)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 9)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 9)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 10)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 10)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 10)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 11)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 11)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 11)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 12)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 12)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 12)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Fundamentals for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Fundamentals."
+      }
+    },
+    {
+      "moduleId": "kr_a1_m2",
+      "theme": "Communication",
+      "order": 2,
+      "vocabularyItems": [
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 1)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 1)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 1)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 2)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 2)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 2)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 3)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 3)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 3)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 4)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 4)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 4)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 5)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 5)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 5)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 6)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 6)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 6)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 7)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 7)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 7)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 8)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 8)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 8)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 9)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 9)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 9)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 10)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 10)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 10)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 11)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 11)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 11)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 12)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 12)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 12)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "안녕하세요, 반가워요."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Communication for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Communication."
+      }
+    },
+    {
+      "moduleId": "kr_a1_m3",
+      "theme": "Daily Life",
+      "order": 3,
+      "vocabularyItems": [
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 1)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 1)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 1)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 2)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 2)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 2)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 3)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 3)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 3)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 4)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 4)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 4)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 5)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 5)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 5)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 6)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 6)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 6)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 7)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 7)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 7)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 8)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 8)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 8)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 9)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 9)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 9)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 10)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 10)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 10)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 11)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 11)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 11)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 12)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 12)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 12)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 12)",
+          "example_sentence": "비빔밥을 먹어요."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Daily Life for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Daily Life."
+      }
+    },
+    {
+      "moduleId": "kr_a1_m4",
+      "theme": "Travel",
+      "order": 4,
+      "vocabularyItems": [
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 1)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 1)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 1)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 2)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 2)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 2)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 3)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 3)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 3)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 4)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 4)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 4)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 5)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 5)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 5)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 6)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 6)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 6)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 7)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 7)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 7)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 8)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 8)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 8)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 9)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 9)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 9)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 10)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 10)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 10)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 11)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 11)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 11)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 12)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 12)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 12)",
+          "example_sentence": "저는 대학생이에요."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Travel for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Travel."
+      }
+    },
+    {
+      "moduleId": "kr_a1_m5",
+      "theme": "Socializing",
+      "order": 5,
+      "vocabularyItems": [
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 1)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 1)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 1)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 2)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 2)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 2)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 3)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 3)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 3)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 4)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 4)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 4)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 5)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 5)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 5)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 6)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 6)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 6)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 7)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 7)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 7)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 8)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 8)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 8)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 9)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 9)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 9)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 10)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 10)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 10)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 11)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 11)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 11)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 12)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 12)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 12)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 12)",
+          "example_sentence": "제 친구를 소개할게요."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Socializing for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Socializing."
+      }
+    },
+    {
+      "moduleId": "kr_a1_m6",
+      "theme": "Nature",
+      "order": 6,
+      "vocabularyItems": [
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 1)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 1)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 1)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 2)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 2)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 2)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 3)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 3)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 3)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 4)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 4)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 4)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 5)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 5)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 5)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 6)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 6)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 6)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 7)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 7)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 7)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 8)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 8)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 8)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 9)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 9)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 9)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 10)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 10)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 10)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 11)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 11)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 11)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 12)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 12)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 12)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 12)",
+          "example_sentence": "강아지가 귀여워요."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Nature for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Nature."
+      }
+    },
+    {
+      "moduleId": "kr_a1_m7",
+      "theme": "Work & Study",
+      "order": 7,
+      "vocabularyItems": [
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 1)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 1)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 1)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 2)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 2)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 2)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 3)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 3)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 3)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 4)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 4)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 4)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 5)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 5)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 5)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 6)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 6)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 6)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 7)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 7)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 7)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 8)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 8)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 8)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 9)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 9)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 9)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 10)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 10)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 10)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 11)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 11)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 11)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 12)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 12)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 12)",
+          "example_sentence": "도와주셔서 감사합니다."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Work & Study for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Work & Study."
+      }
+    },
+    {
+      "moduleId": "kr_a1_m8",
+      "theme": "Emotions",
+      "order": 8,
+      "vocabularyItems": [
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 1)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 1)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 1)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 2)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 2)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 2)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 3)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 3)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 3)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 4)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 4)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 4)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 5)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 5)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 5)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 6)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 6)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 6)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 7)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 7)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 7)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 8)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 8)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 8)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 9)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 9)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 9)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 10)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 10)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 10)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 11)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 11)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 11)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 12)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 12)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 12)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 12)",
+          "example_sentence": "믄을 마셔요."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Emotions for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Emotions."
+      }
+    },
+    {
+      "moduleId": "kr_a1_m9",
+      "theme": "Culture",
+      "order": 9,
+      "vocabularyItems": [
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 1)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 1)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 1)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 2)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 2)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 2)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 3)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 3)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 3)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 4)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 4)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 4)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 5)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 5)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 5)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 6)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 6)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 6)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 7)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 7)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 7)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 8)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 8)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 8)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 9)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 9)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 9)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 10)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 10)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 10)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 11)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 11)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 11)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 12)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 12)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 12)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Culture for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Culture."
+      }
+    },
+    {
+      "moduleId": "kr_a1_m10",
+      "theme": "Review",
+      "order": 10,
+      "vocabularyItems": [
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 1)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 1)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 1)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 2)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 2)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 2)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 3)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 3)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 3)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 4)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 4)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 4)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 5)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 5)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 5)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 6)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 6)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 6)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 7)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 7)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 7)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 8)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 8)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 8)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 9)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 9)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 9)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 10)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 10)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 10)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "안녕하세요, 반가워요."
+        },
+        {
+          "word": "감사합니다",
+          "reading": "gamsahamnida",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "도와주셔서 감사합니다."
+        },
+        {
+          "word": "학생",
+          "reading": "haksaeng",
+          "meaning": "Student (Var 11)",
+          "example_sentence": "저는 대학생이에요."
+        },
+        {
+          "word": "집",
+          "reading": "jip",
+          "meaning": "House (Var 11)",
+          "example_sentence": "우리 집은 서울에 있어요."
+        },
+        {
+          "word": "강아지",
+          "reading": "gangaji",
+          "meaning": "Puppy (Var 11)",
+          "example_sentence": "강아지가 귀여워요."
+        },
+        {
+          "word": "먹다",
+          "reading": "meokda",
+          "meaning": "To eat (Var 12)",
+          "example_sentence": "비빔밥을 먹어요."
+        },
+        {
+          "word": "믄",
+          "reading": "mul",
+          "meaning": "Water (Var 12)",
+          "example_sentence": "믄을 마셔요."
+        },
+        {
+          "word": "친구",
+          "reading": "chingu",
+          "meaning": "Friend (Var 12)",
+          "example_sentence": "제 친구를 소개할게요."
+        },
+        {
+          "word": "안녕하세요",
+          "reading": "annyeonghaseyo",
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "안녕하세요, 반가워요."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Review for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Review."
+      }
+    }
+  ]
+}

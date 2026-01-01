@@ -1,0 +1,632 @@
+{
+    "moduleId": "spanish_a1_m2",
+    "theme": "ESTAR: Location, Condition & Emotions",
+    "order": 2,
+    "targetWordCount": 100,
+    "lessons": [
+        {
+            "lessonNumber": 1,
+            "title": "ESTAR Conjugation Present",
+            "vocabularyItems": [
+                {
+                    "targetText": "yo estoy",
+                    "english": "I am",
+                    "type": "verb",
+                    "notes": "ESTAR - location/condition"
+                },
+                {
+                    "targetText": "tú estás",
+                    "english": "you are (informal)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "él está",
+                    "english": "he is",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "ella está",
+                    "english": "she is",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "usted está",
+                    "english": "you are (formal)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "nosotros estamos",
+                    "english": "we are",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "vosotros estáis",
+                    "english": "you all are (Spain)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "ellos están",
+                    "english": "they are (masc)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "ellas están",
+                    "english": "they are (fem)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "ustedes están",
+                    "english": "you all are (formal)",
+                    "type": "verb"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 2,
+            "title": "Emotions & States (Masculine)",
+            "vocabularyItems": [
+                {
+                    "targetText": "contento",
+                    "english": "happy/content (masc)",
+                    "type": "adjective",
+                    "gender": "m",
+                    "notes": "temporary state with ESTAR"
+                },
+                {
+                    "targetText": "triste",
+                    "english": "sad",
+                    "type": "adjective",
+                    "notes": "same for m/f, use with ESTAR"
+                },
+                {
+                    "targetText": "enojado",
+                    "english": "angry (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "cansado",
+                    "english": "tired (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "enfermo",
+                    "english": "sick (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "nervioso",
+                    "english": "nervous (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "preocupado",
+                    "english": "worried (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "aburrido",
+                    "english": "bored (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "emocionado",
+                    "english": "excited (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "sorprendido",
+                    "english": "surprised (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 3,
+            "title": "Emotions & States (Feminine)",
+            "vocabularyItems": [
+                {
+                    "targetText": "contenta",
+                    "english": "happy/content (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "enojada",
+                    "english": "angry (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "cansada",
+                    "english": "tired (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "enferma",
+                    "english": "sick (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "nerviosa",
+                    "english": "nervous (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "preocupada",
+                    "english": "worried (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "aburrida",
+                    "english": "bored (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "emocionada",
+                    "english": "excited (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "sorprendida",
+                    "english": "surprised (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "feliz",
+                    "english": "happy",
+                    "type": "adjective",
+                    "notes": "same for m/f"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 4,
+            "title": "Locations & Places",
+            "vocabularyItems": [
+                {
+                    "targetText": "en casa",
+                    "english": "at home",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "en la escuela",
+                    "english": "at school",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "en el trabajo",
+                    "english": "at work",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "en la biblioteca",
+                    "english": "at the library",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "en el parque",
+                    "english": "at the park",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "en la tienda",
+                    "english": "at the store",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "en el restaurante",
+                    "english": "at the restaurant",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "en el hospital",
+                    "english": "at the hospital",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "en la oficina",
+                    "english": "at the office",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "en el aeropuerto",
+                    "english": "at the airport",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 5,
+            "title": "Position & Location Words",
+            "vocabularyItems": [
+                {
+                    "targetText": "aquí",
+                    "english": "here",
+                    "type": "adverb"
+                },
+                {
+                    "targetText": "allí",
+                    "english": "there",
+                    "type": "adverb"
+                },
+                {
+                    "targetText": "cerca",
+                    "english": "near/close",
+                    "type": "adverb"
+                },
+                {
+                    "targetText": "lejos",
+                    "english": "far",
+                    "type": "adverb"
+                },
+                {
+                    "targetText": "arriba",
+                    "english": "up/upstairs",
+                    "type": "adverb"
+                },
+                {
+                    "targetText": "abajo",
+                    "english": "down/downstairs",
+                    "type": "adverb"
+                },
+                {
+                    "targetText": "dentro",
+                    "english": "inside",
+                    "type": "adverb"
+                },
+                {
+                    "targetText": "fuera",
+                    "english": "outside",
+                    "type": "adverb"
+                },
+                {
+                    "targetText": "delante",
+                    "english": "in front",
+                    "type": "adverb"
+                },
+                {
+                    "targetText": "detrás",
+                    "english": "behind",
+                    "type": "adverb"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 6,
+            "title": "Weather Expressions",
+            "vocabularyItems": [
+                {
+                    "targetText": "Hace sol",
+                    "english": "It's sunny",
+                    "type": "phrase",
+                    "notes": "weather uses HACER"
+                },
+                {
+                    "targetText": "Hace calor",
+                    "english": "It's hot",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Hace frío",
+                    "english": "It's cold",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Hace viento",
+                    "english": "It's windy",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Llueve",
+                    "english": "It's raining",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "Nieva",
+                    "english": "It's snowing",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "Está nublado",
+                    "english": "It's cloudy",
+                    "type": "phrase",
+                    "notes": "ESTAR for weather condition"
+                },
+                {
+                    "targetText": "Está despejado",
+                    "english": "It's clear",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Hace buen tiempo",
+                    "english": "The weather is nice",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Hace mal tiempo",
+                    "english": "The weather is bad",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 7,
+            "title": "Temporary Conditions",
+            "vocabularyItems": [
+                {
+                    "targetText": "limpio",
+                    "english": "clean (masc)",
+                    "type": "adjective",
+                    "gender": "m",
+                    "notes": "use ESTAR for current state"
+                },
+                {
+                    "targetText": "limpia",
+                    "english": "clean (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "sucio",
+                    "english": "dirty (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "sucia",
+                    "english": "dirty (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "abierto",
+                    "english": "open (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "abierta",
+                    "english": "open (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "cerrado",
+                    "english": "closed (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "cerrada",
+                    "english": "closed (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "roto",
+                    "english": "broken (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "rota",
+                    "english": "broken (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 8,
+            "title": "Food States",
+            "vocabularyItems": [
+                {
+                    "targetText": "caliente",
+                    "english": "hot (temperature)",
+                    "type": "adjective",
+                    "notes": "same for m/f, use ESTAR"
+                },
+                {
+                    "targetText": "frío",
+                    "english": "cold (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "fría",
+                    "english": "cold (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "rico",
+                    "english": "delicious (masc)",
+                    "type": "adjective",
+                    "gender": "m",
+                    "notes": "ESTAR for taste"
+                },
+                {
+                    "targetText": "rica",
+                    "english": "delicious (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "dulce",
+                    "english": "sweet",
+                    "type": "adjective",
+                    "notes": "same for m/f"
+                },
+                {
+                    "targetText": "salado",
+                    "english": "salty (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "salada",
+                    "english": "salty (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "amargo",
+                    "english": "bitter (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "amarga",
+                    "english": "bitter (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 9,
+            "title": "Health & Physical States",
+            "vocabularyItems": [
+                {
+                    "targetText": "bien",
+                    "english": "well/fine",
+                    "type": "adverb"
+                },
+                {
+                    "targetText": "mal",
+                    "english": "bad/unwell",
+                    "type": "adverb"
+                },
+                {
+                    "targetText": "mejor",
+                    "english": "better",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "peor",
+                    "english": "worse",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "sano",
+                    "english": "healthy (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "sana",
+                    "english": "healthy (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "muerto",
+                    "english": "dead (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "muerta",
+                    "english": "dead (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "vivo",
+                    "english": "alive (masc)",
+                    "type": "adjective",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "viva",
+                    "english": "alive (fem)",
+                    "type": "adjective",
+                    "gender": "f"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 10,
+            "title": "ESTAR Usage Examples",
+            "vocabularyItems": [
+                {
+                    "targetText": "Estoy en Madrid",
+                    "english": "I am in Madrid",
+                    "type": "phrase",
+                    "notes": "ESTAR for location"
+                },
+                {
+                    "targetText": "Estás cansado",
+                    "english": "You are tired",
+                    "type": "phrase",
+                    "notes": "ESTAR for temporary state"
+                },
+                {
+                    "targetText": "Está lloviendo",
+                    "english": "It is raining",
+                    "type": "phrase",
+                    "notes": "ESTAR for progressive"
+                },
+                {
+                    "targetText": "Estamos contentos",
+                    "english": "We are happy",
+                    "type": "phrase",
+                    "notes": "ESTAR for emotions"
+                },
+                {
+                    "targetText": "La puerta está abierta",
+                    "english": "The door is open",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "El café está frío",
+                    "english": "The coffee is cold",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Estoy enfermo",
+                    "english": "I am sick",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "¿Cómo estás?",
+                    "english": "How are you?",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Está nublado",
+                    "english": "It's cloudy",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Estoy bien",
+                    "english": "I am well",
+                    "type": "phrase"
+                }
+            ]
+        }
+    ],
+    "liarGameData": {
+        "question": "La sopa ___ caliente",
+        "questionEnglish": "The soup is hot (temperature)",
+        "correctAnswer": "está",
+        "liarAnswer": "es",
+        "explanation": "Use ESTAR (está) for temperature/condition. SER (es) is for permanent characteristics. Temperature is a temporary state!",
+        "trapType": "ser_estar_condition"
+    }
+}

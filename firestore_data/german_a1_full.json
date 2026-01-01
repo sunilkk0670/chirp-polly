@@ -1,0 +1,6134 @@
+{
+  "modules": [
+    {
+      "moduleId": "de_a1_m1",
+      "theme": "Fundamentals",
+      "order": 1,
+      "vocabularyItems": [
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 1)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 1)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 1)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 1)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 2)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 2)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 2)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 2)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 3)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 3)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 3)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 3)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 4)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 4)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 4)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 4)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 5)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 5)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 5)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 5)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 6)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 6)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 6)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 6)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 7)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 7)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 7)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 7)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 8)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 8)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 8)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 8)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 9)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 9)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 9)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 9)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 10)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 10)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 10)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 10)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 11)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 11)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 11)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 11)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 12)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 12)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 12)",
+          "example_sentence": "Das Haus ist sehr groß."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Fundamentals for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Fundamentals."
+      }
+    },
+    {
+      "moduleId": "de_a1_m2",
+      "theme": "Communication",
+      "order": 2,
+      "vocabularyItems": [
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 1)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 1)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 1)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 1)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 2)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 2)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 2)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 2)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 3)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 3)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 3)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 3)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 4)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 4)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 4)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 4)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 5)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 5)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 5)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 5)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 6)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 6)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 6)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 6)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 7)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 7)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 7)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 7)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 8)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 8)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 8)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 8)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 9)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 9)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 9)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 9)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 10)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 10)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 10)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 10)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 11)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 11)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 11)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 11)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 12)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 12)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 12)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Communication for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Communication."
+      }
+    },
+    {
+      "moduleId": "de_a1_m3",
+      "theme": "Daily Life",
+      "order": 3,
+      "vocabularyItems": [
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 1)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 1)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 1)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 1)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 2)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 2)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 2)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 2)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 3)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 3)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 3)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 3)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 4)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 4)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 4)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 4)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 5)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 5)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 5)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 5)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 6)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 6)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 6)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 6)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 7)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 7)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 7)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 7)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 8)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 8)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 8)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 8)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 9)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 9)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 9)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 9)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 10)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 10)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 10)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 10)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 11)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 11)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 11)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 11)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 12)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 12)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 12)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 12)",
+          "example_sentence": "Ich esse gern Pizza."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Daily Life for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Daily Life."
+      }
+    },
+    {
+      "moduleId": "de_a1_m4",
+      "theme": "Travel",
+      "order": 4,
+      "vocabularyItems": [
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 1)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 1)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 1)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 1)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 2)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 2)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 2)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 2)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 3)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 3)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 3)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 3)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 4)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 4)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 4)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 4)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 5)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 5)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 5)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 5)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 6)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 6)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 6)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 6)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 7)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 7)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 7)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 7)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 8)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 8)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 8)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 8)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 9)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 9)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 9)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 9)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 10)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 10)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 10)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 10)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 11)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 11)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 11)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 11)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 12)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 12)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 12)",
+          "example_sentence": "Das ist mein bester Freund."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Travel for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Travel."
+      }
+    },
+    {
+      "moduleId": "de_a1_m5",
+      "theme": "Socializing",
+      "order": 5,
+      "vocabularyItems": [
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 1)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 1)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 1)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 1)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 2)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 2)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 2)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 2)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 3)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 3)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 3)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 3)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 4)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 4)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 4)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 4)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 5)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 5)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 5)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 5)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 6)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 6)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 6)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 6)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 7)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 7)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 7)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 7)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 8)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 8)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 8)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 8)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 9)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 9)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 9)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 9)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 10)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 10)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 10)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 10)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 11)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 11)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 11)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 11)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 12)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 12)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 12)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 12)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Socializing for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Socializing."
+      }
+    },
+    {
+      "moduleId": "de_a1_m6",
+      "theme": "Nature",
+      "order": 6,
+      "vocabularyItems": [
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 1)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 1)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 1)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 1)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 2)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 2)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 2)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 2)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 3)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 3)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 3)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 3)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 4)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 4)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 4)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 4)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 5)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 5)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 5)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 5)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 6)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 6)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 6)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 6)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 7)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 7)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 7)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 7)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 8)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 8)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 8)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 8)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 9)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 9)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 9)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 9)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 10)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 10)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 10)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 10)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 11)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 11)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 11)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 11)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 12)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 12)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 12)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 12)",
+          "example_sentence": "Der Hund spielt im Garten."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Nature for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Nature."
+      }
+    },
+    {
+      "moduleId": "de_a1_m7",
+      "theme": "Work & Study",
+      "order": 7,
+      "vocabularyItems": [
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 1)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 1)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 1)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 1)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 2)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 2)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 2)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 2)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 3)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 3)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 3)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 3)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 4)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 4)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 4)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 4)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 5)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 5)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 5)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 5)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 6)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 6)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 6)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 6)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 7)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 7)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 7)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 7)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 8)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 8)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 8)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 8)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 9)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 9)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 9)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 9)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 10)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 10)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 10)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 10)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 11)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 11)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 11)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 11)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 12)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 12)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 12)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Work & Study for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Work & Study."
+      }
+    },
+    {
+      "moduleId": "de_a1_m8",
+      "theme": "Emotions",
+      "order": 8,
+      "vocabularyItems": [
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 1)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 1)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 1)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 1)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 2)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 2)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 2)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 2)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 3)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 3)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 3)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 3)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 4)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 4)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 4)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 4)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 5)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 5)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 5)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 5)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 6)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 6)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 6)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 6)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 7)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 7)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 7)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 7)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 8)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 8)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 8)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 8)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 9)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 9)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 9)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 9)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 10)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 10)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 10)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 10)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 11)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 11)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 11)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 11)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 12)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 12)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 12)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 12)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Emotions for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Emotions."
+      }
+    },
+    {
+      "moduleId": "de_a1_m9",
+      "theme": "Culture",
+      "order": 9,
+      "vocabularyItems": [
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 1)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 1)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 1)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 1)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 2)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 2)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 2)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 2)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 3)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 3)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 3)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 3)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 4)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 4)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 4)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 4)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 5)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 5)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 5)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 5)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 6)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 6)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 6)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 6)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 7)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 7)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 7)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 7)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 8)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 8)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 8)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 8)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 9)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 9)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 9)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 9)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 10)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 10)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 10)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 10)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 11)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 11)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 11)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 11)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 12)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 12)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 12)",
+          "example_sentence": "Das Haus ist sehr groß."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Culture for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Culture."
+      }
+    },
+    {
+      "moduleId": "de_a1_m10",
+      "theme": "Review",
+      "order": 10,
+      "vocabularyItems": [
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 1)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 1)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 1)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 1)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 2)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 2)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 2)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 2)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 3)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 3)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 3)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 3)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 4)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 4)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 4)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 4)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 5)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 5)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 5)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 5)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 6)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 6)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 6)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 6)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 7)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 7)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 7)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 7)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 8)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 8)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 8)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 8)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 9)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 9)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 9)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 9)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 10)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 10)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 10)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 10)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 11)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 11)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "word": "Danke",
+          "reading": null,
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "Vielen Dank für das Geschenk."
+        },
+        {
+          "word": "Freund",
+          "reading": null,
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "Das ist mein bester Freund."
+        },
+        {
+          "word": "Haus",
+          "reading": null,
+          "meaning": "House (Var 11)",
+          "example_sentence": "Das Haus ist sehr groß."
+        },
+        {
+          "word": "Hund",
+          "reading": null,
+          "meaning": "Dog (Var 11)",
+          "example_sentence": "Der Hund spielt im Garten."
+        },
+        {
+          "word": "Essen",
+          "reading": null,
+          "meaning": "To eat (Var 12)",
+          "example_sentence": "Ich esse gern Pizza."
+        },
+        {
+          "word": "Wasser",
+          "reading": null,
+          "meaning": "Water (Var 12)",
+          "example_sentence": "Ich trinke ein Glas Wasser."
+        },
+        {
+          "word": "Familie",
+          "reading": null,
+          "meaning": "Family (Var 12)",
+          "example_sentence": "Meine Familie wohnt in Berlin."
+        },
+        {
+          "word": "Guten Tag",
+          "reading": null,
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "Guten Tag, wie geht es Ihnen?"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Review for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Review."
+      }
+    }
+  ]
+}

@@ -1,0 +1,607 @@
+{
+    "moduleId": "spanish_a1_m4",
+    "theme": "IR: Movement & Future Plans",
+    "order": 4,
+    "targetWordCount": 100,
+    "lessons": [
+        {
+            "lessonNumber": 1,
+            "title": "IR Conjugation",
+            "vocabularyItems": [
+                {
+                    "targetText": "yo voy",
+                    "english": "I go",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "tú vas",
+                    "english": "you go (informal)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "él va",
+                    "english": "he goes",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "ella va",
+                    "english": "she goes",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "usted va",
+                    "english": "you go (formal)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "nosotros vamos",
+                    "english": "we go",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "vosotros vais",
+                    "english": "you all go (Spain)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "ellos van",
+                    "english": "they go (masc)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "ellas van",
+                    "english": "they go (fem)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "ustedes van",
+                    "english": "you all go (formal)",
+                    "type": "verb"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 2,
+            "title": "Places in Town (Masculine)",
+            "vocabularyItems": [
+                {
+                    "targetText": "el banco",
+                    "english": "the bank",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el mercado",
+                    "english": "the market",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el supermercado",
+                    "english": "the supermarket",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el restaurante",
+                    "english": "the restaurant",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el hotel",
+                    "english": "the hotel",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el museo",
+                    "english": "the museum",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el cine",
+                    "english": "the cinema",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el parque",
+                    "english": "the park",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el hospital",
+                    "english": "the hospital",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el aeropuerto",
+                    "english": "the airport",
+                    "type": "noun",
+                    "gender": "m"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 3,
+            "title": "Places in Town (Feminine)",
+            "vocabularyItems": [
+                {
+                    "targetText": "la tienda",
+                    "english": "the store",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la escuela",
+                    "english": "the school",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la universidad",
+                    "english": "the university",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la biblioteca",
+                    "english": "the library",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la iglesia",
+                    "english": "the church",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la farmacia",
+                    "english": "the pharmacy",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la oficina",
+                    "english": "the office",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la estación",
+                    "english": "the station",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la plaza",
+                    "english": "the square/plaza",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la playa",
+                    "english": "the beach",
+                    "type": "noun",
+                    "gender": "f"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 4,
+            "title": "Transportation",
+            "vocabularyItems": [
+                {
+                    "targetText": "el autobús",
+                    "english": "the bus",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el tren",
+                    "english": "the train",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el avión",
+                    "english": "the airplane",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el taxi",
+                    "english": "the taxi",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el metro",
+                    "english": "the subway",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "la bicicleta",
+                    "english": "the bicycle",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la moto",
+                    "english": "the motorcycle",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "el barco",
+                    "english": "the boat/ship",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "a pie",
+                    "english": "on foot",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "en coche",
+                    "english": "by car",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 5,
+            "title": "Prepositions of Place",
+            "vocabularyItems": [
+                {
+                    "targetText": "a",
+                    "english": "to",
+                    "type": "preposition"
+                },
+                {
+                    "targetText": "de",
+                    "english": "from/of",
+                    "type": "preposition"
+                },
+                {
+                    "targetText": "en",
+                    "english": "in/on/at",
+                    "type": "preposition"
+                },
+                {
+                    "targetText": "con",
+                    "english": "with",
+                    "type": "preposition"
+                },
+                {
+                    "targetText": "sin",
+                    "english": "without",
+                    "type": "preposition"
+                },
+                {
+                    "targetText": "para",
+                    "english": "for/to",
+                    "type": "preposition"
+                },
+                {
+                    "targetText": "por",
+                    "english": "for/by/through",
+                    "type": "preposition"
+                },
+                {
+                    "targetText": "sobre",
+                    "english": "on/about",
+                    "type": "preposition"
+                },
+                {
+                    "targetText": "entre",
+                    "english": "between",
+                    "type": "preposition"
+                },
+                {
+                    "targetText": "hacia",
+                    "english": "toward",
+                    "type": "preposition"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 6,
+            "title": "IR + A + Infinitive (Future)",
+            "vocabularyItems": [
+                {
+                    "targetText": "Voy a estudiar",
+                    "english": "I am going to study",
+                    "type": "phrase",
+                    "notes": "IR + A + infinitive = near future"
+                },
+                {
+                    "targetText": "Vas a comer",
+                    "english": "You are going to eat",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Va a trabajar",
+                    "english": "He/She is going to work",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Vamos a viajar",
+                    "english": "We are going to travel",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Van a comprar",
+                    "english": "They are going to buy",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Voy a dormir",
+                    "english": "I am going to sleep",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Vas a salir",
+                    "english": "You are going to leave",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Va a llover",
+                    "english": "It's going to rain",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Vamos a bailar",
+                    "english": "We are going to dance",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Van a cantar",
+                    "english": "They are going to sing",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 7,
+            "title": "Common Verbs (AR)",
+            "vocabularyItems": [
+                {
+                    "targetText": "hablar",
+                    "english": "to speak",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "trabajar",
+                    "english": "to work",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "estudiar",
+                    "english": "to study",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "comprar",
+                    "english": "to buy",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "caminar",
+                    "english": "to walk",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "bailar",
+                    "english": "to dance",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "cantar",
+                    "english": "to sing",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "nadar",
+                    "english": "to swim",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "cocinar",
+                    "english": "to cook",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "viajar",
+                    "english": "to travel",
+                    "type": "verb"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 8,
+            "title": "Common Verbs (ER)",
+            "vocabularyItems": [
+                {
+                    "targetText": "comer",
+                    "english": "to eat",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "beber",
+                    "english": "to drink",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "leer",
+                    "english": "to read",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "ver",
+                    "english": "to see/watch",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "correr",
+                    "english": "to run",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "aprender",
+                    "english": "to learn",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "comprender",
+                    "english": "to understand",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "vender",
+                    "english": "to sell",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "creer",
+                    "english": "to believe",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "deber",
+                    "english": "should/must",
+                    "type": "verb"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 9,
+            "title": "Common Verbs (IR)",
+            "vocabularyItems": [
+                {
+                    "targetText": "vivir",
+                    "english": "to live",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "escribir",
+                    "english": "to write",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "abrir",
+                    "english": "to open",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "recibir",
+                    "english": "to receive",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "subir",
+                    "english": "to go up/climb",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "decidir",
+                    "english": "to decide",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "permitir",
+                    "english": "to allow",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "compartir",
+                    "english": "to share",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "sufrir",
+                    "english": "to suffer",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "discutir",
+                    "english": "to discuss/argue",
+                    "type": "verb"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 10,
+            "title": "Movement Phrases",
+            "vocabularyItems": [
+                {
+                    "targetText": "Voy al cine",
+                    "english": "I'm going to the cinema",
+                    "type": "phrase",
+                    "notes": "a + el = al"
+                },
+                {
+                    "targetText": "Voy a la playa",
+                    "english": "I'm going to the beach",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Vengo de casa",
+                    "english": "I'm coming from home",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Salgo a las ocho",
+                    "english": "I leave at eight",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Llego tarde",
+                    "english": "I arrive late",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Regreso mañana",
+                    "english": "I return tomorrow",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Entro en la tienda",
+                    "english": "I enter the store",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Salgo del trabajo",
+                    "english": "I leave work",
+                    "type": "phrase",
+                    "notes": "de + el = del"
+                },
+                {
+                    "targetText": "Paso por aquí",
+                    "english": "I pass through here",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Cruzo la calle",
+                    "english": "I cross the street",
+                    "type": "phrase"
+                }
+            ]
+        }
+    ],
+    "liarGameData": {
+        "question": "Voy ___ la biblioteca",
+        "questionEnglish": "I'm going to the library",
+        "correctAnswer": "a",
+        "liarAnswer": "en",
+        "explanation": "Use A with IR to indicate destination (going TO somewhere). EN means 'in/at' for location. IR + A = movement toward!",
+        "trapType": "preposition_confusion"
+    }
+}

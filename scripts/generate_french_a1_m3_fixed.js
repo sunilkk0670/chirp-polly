@@ -1,0 +1,120 @@
+const fs = require('fs');
+const path = require('path');
+
+const french_a1_m3 = {
+    id: "fr_a1_m3",
+    name: "A1 French - Module 3: Food & Dining",
+    description: "Essential vocabulary for eating out, common foods, and ordering.",
+    count: 100,
+    vocabularyItems: [
+        { word: "Nourriture", meaning: "Food", reading: "noo-ree-toor", example_sentence: "J'aime la bonne nourriture." },
+        { word: "Boisson", meaning: "Drink", reading: "bwa-soh", example_sentence: "Quelle boisson voulez-vous ?" },
+        { word: "Petit-déjeuner", meaning: "Breakfast", reading: "puh-tee day-zhuh-nay", example_sentence: "Je prends mon petit-déjeuner à huit heures." },
+        { word: "Déjeuner", meaning: "Lunch", reading: "day-zhuh-nay", example_sentence: "Le déjeuner est prêt." },
+        { word: "Dîner", meaning: "Dinner", reading: "dee-nay", example_sentence: "Nous dînons au restaurant ce soir." },
+        { word: "Restaurant", meaning: "Restaurant", reading: "res-toh-rah", example_sentence: "Ce restaurant est très réputé." },
+        { word: "Serveur", meaning: "Waiter", reading: "ser-vur", example_sentence: "Le serveur est très poli." },
+        { word: "Menu", meaning: "Menu", reading: "muh-noo", example_sentence: "Puis-je voir le menu ?" }, // Word #8
+        { word: "Addition", meaning: "Check / Bill", reading: "a-dee-syoh", example_sentence: "L'addition, s'il vous plaît." }, // Word #9 (Unique)
+        { word: "Verre", meaning: "Glass", reading: "ver", example_sentence: "Un verre d'eau, merci." },
+        { word: "Assiette", meaning: "Plate", reading: "a-syet", example_sentence: "L'assiette est chaude." },
+        { word: "Fourchette", meaning: "Fork", reading: "foor-shet", example_sentence: "J'ai besoin d'une fourchette." },
+        { word: "Couteau", meaning: "Knife", reading: "koo-toh", example_sentence: "Le couteau ne coupe pas bien." },
+        { word: "Cuillère", meaning: "Spoon", reading: "kwee-yer", example_sentence: "Prenez une cuillère pour la soupe." },
+        { word: "Serviette", meaning: "Napkin", reading: "ser-vyet", example_sentence: "Utilisez votre serviette." }, // Word #15
+
+        { word: "Pain", meaning: "Bread", reading: "pah", example_sentence: "Du pain frais pour le petit-déjeuner." },
+        { word: "Beurre", meaning: "Butter", reading: "bur", example_sentence: "Je mets du beurre sur mon pain." },
+        { word: "Fromage", meaning: "Cheese", reading: "froh-mazh", example_sentence: "La France est célèbre pour son fromage." },
+        { word: "Lait", meaning: "Milk", reading: "leh", example_sentence: "Un verre de lait froid." },
+        { word: "Œuf", meaning: "Egg", reading: "uf", example_sentence: "Je mange un œuf à la coque." },
+        { word: "Viande", meaning: "Meat", reading: "vyahd", example_sentence: "Je ne mange pas de viande." },
+        { word: "Poisson", meaning: "Fish", reading: "pwa-soh", example_sentence: "Le poisson est très nutritif." },
+        { word: "Poulet", meaning: "Chicken", reading: "poo-leh", example_sentence: "Du poulet rôti pour le dîner." },
+        { word: "Légume", meaning: "Vegetable", reading: "lay-goom", example_sentence: "Mange tes légumes !" },
+        { word: "Fruit", meaning: "Fruit", reading: "frwee", example_sentence: "Le fruit est mûr." },
+        { word: "Pomme", meaning: "Apple", reading: "pohm", example_sentence: "Une pomme par jour." },
+        { word: "Banane", meaning: "Banana", reading: "ba-nan", example_sentence: "J'aime les bananes." },
+        { word: "Orange", meaning: "Orange", reading: "oh-rahzh", example_sentence: "Un jus d'orange pressé." },
+        { word: "Eau", meaning: "Water", reading: "oh", example_sentence: "De l'eau minérale, s'il vous plaît." },
+        { word: "Vin", meaning: "Wine", reading: "vah", example_sentence: "Un verre de vin rouge." },
+
+        { word: "Bière", meaning: "Beer", reading: "byer", example_sentence: "Une bière bien fraîche." },
+        { word: "Café", meaning: "Coffee", reading: "ka-fay", example_sentence: "Un café noir, sans sucre." },
+        { word: "Thé", meaning: "Tea", reading: "tay", example_sentence: "Je préfère le thé au café." },
+        { word: "Jus", meaning: "Juice", reading: "zhoo", example_sentence: "Un jus de pomme." },
+        { word: "Chocolat", meaning: "Chocolate", reading: "shoh-koh-lah", example_sentence: "Du chocolat noir." },
+        { word: "Sucre", meaning: "Sugar", reading: "soo-kruh", example_sentence: "Pas de sucre, merci." },
+        { word: "Sel", meaning: "Salt", reading: "sel", example_sentence: "Passe-moi le sel." },
+        { word: "Poivre", meaning: "Pepper", reading: "pwa-vruh", example_sentence: "Un peu de poivre sur la viande." },
+        { word: "Huile", meaning: "Oil", reading: "weel", example_sentence: "De l'huile d'olive." },
+        { word: "Vinaigre", meaning: "Vinegar", reading: "vee-neh-gruh", example_sentence: "Une salade avec du vinaigre." },
+        { word: "Riz", meaning: "Rice", reading: "ree", example_sentence: "Le riz est un aliment de base." },
+        { word: "Pâtes", meaning: "Pasta", reading: "paht", example_sentence: "J'adore les pâtes italiennes." },
+        { word: "Soupe", meaning: "Soup", reading: "soop", example_sentence: "Une soupe de légumes chaude." },
+        { word: "Salade", meaning: "Salade", reading: "sa-lad", example_sentence: "Une grande salade verte." },
+        { word: "Dessert", meaning: "Dessert", reading: "day-ser", example_sentence: "Qu'est-ce qu'il y a pour le dessert ?" },
+        { word: "Gâteau", meaning: "Cake", reading: "ga-toh", example_sentence: "Un gâteau d'anniversaire." },
+        { word: "Glace", meaning: "Ice cream", reading: "glas", example_sentence: "Une glace à la vanille." },
+        { word: "Miel", meaning: "Honey", reading: "myel", example_sentence: "Du miel dans mon thé." },
+        { word: "Confiture", meaning: "Jam", reading: "koh-fee-toor", example_sentence: "De la confiture de fraises." },
+        { word: "Céréales", meaning: "Cereals", reading: "say-ray-al", example_sentence: "Des céréales avec du lait." },
+
+        { word: "Faim", meaning: "Hunger", reading: "fah", example_sentence: "J'ai très faim." },
+        { word: "Soif", meaning: "Thirst", reading: "swaf", example_sentence: "J'ai soif, je veux boire." },
+        { word: "Bon", meaning: "Good", reading: "boh", example_sentence: "C'est très bon !" },
+        { word: "Mauvais", meaning: "Bad", reading: "moh-veh", example_sentence: "C'est mauvais pour la santé." },
+        { word: "Chaud", meaning: "Hot", reading: "shoh", example_sentence: "Attention, c'est chaud." },
+        { word: "Froid", meaning: "Cold", reading: "frwa", example_sentence: "Le café est froid." },
+        { word: "Sucré", meaning: "Sweet", reading: "soo-kray", example_sentence: "C'est trop sucré." },
+        { word: "Salé", meaning: "Salty", reading: "sa-lay", example_sentence: "Ce plat est très salé." },
+        { word: "Épicé", meaning: "Spicy", reading: "ay-pee-say", example_sentence: "La cuisine mexicaine est épicée." },
+        { word: "Frais", meaning: "Fresh", reading: "freh", example_sentence: "Du poisson bien frais." },
+        { word: "Cru", meaning: "Raw", reading: "kroo", example_sentence: "On mange le poisson cru." },
+        { word: "Cuit", meaning: "Cooked", reading: "kwee", example_sentence: "La viande est bien cuite." },
+        { word: "Délicieux", meaning: "Delicious", reading: "day-lee-syuh", example_sentence: "C'est absolument délicieux." },
+        { word: "Affamé", meaning: "Starving", reading: "a-fa-may", example_sentence: "Je suis affamé après le sport." },
+        { word: "Rassasié", meaning: "Full / Satiated", reading: "ra-sa-zyay", example_sentence: "Je suis rassasié, merci." },
+
+        { word: "Commander", meaning: "To order", reading: "koh-mah-day", example_sentence: "Qu'allez-vous commander ?" },
+        { word: "Apporter", meaning: "To bring", reading: "a-por-tay", example_sentence: "Pouvez-vous m'apporter du pain ?" },
+        { word: "Payer", meaning: "To pay", reading: "pay-yay", example_sentence: "Je vais payer par carte." },
+        { word: "Cuisiner", meaning: "To cook", reading: "kwee-zee-nay", example_sentence: "J'aime cuisiner pour mes amis." },
+        { word: "Préparer", meaning: "To prepare", reading: "pray-pa-ray", example_sentence: "Préparer un bon repas." },
+        { word: "Mélanger", meaning: "To mix", reading: "may-lah-zhay", example_sentence: "Mélangez les ingrédients." },
+        { word: "Couper", meaning: "To cut", reading: "koo-pay", example_sentence: "Coupez les légumes." },
+        { word: "Faire bouillir", meaning: "To boil", reading: "fer bwee-yeer", example_sentence: "Faites bouillir l'eau." },
+        { word: "Griller", meaning: "To grill", reading: "gree-yay", example_sentence: "On va griller la viande." },
+        { word: "Rôtir", meaning: "To roast", reading: "roh-teer", example_sentence: "Rôtir un poulet au four." },
+        { word: "Verser", meaning: "To pour", reading: "ver-say", example_sentence: "Versez le vin dans le verre." },
+        { word: "Servir", meaning: "To serve", reading: "ser-veer", example_sentence: "Le dîner est servi." },
+        { word: "Partager", meaning: "To share", reading: "par-ta-zhay", example_sentence: "Partageons ce gâteau." },
+        { word: "Inviter", meaning: "To invite", reading: "ah-vee-tay", example_sentence: "Je t'invite au restaurant." }, // Word #79
+        { word: "Fêter", meaning: "To celebrate", reading: "fay-tay", example_sentence: "Fêter son anniversaire." },
+
+        { word: "Bocal", meaning: "Jar", reading: "boh-kal", example_sentence: "Un bocal de cornichons." }, // Word #81 (Fixed)
+        { word: "Tasse", meaning: "Cup", reading: "tas", example_sentence: "Une tasse de thé." },
+        { word: "Bol", meaning: "Bowl", reading: "bohl", example_sentence: "Un bol de soupe." },
+        { word: "Poêle", meaning: "Frying pan", reading: "pwal", example_sentence: "Mettez les œufs dans la poêle." },
+        { word: "Casserole", meaning: "Saucepan", reading: "kas-rohl", example_sentence: "Utilisez une casserole pour les pâtes." },
+        { word: "Four", meaning: "Oven", reading: "foor", example_sentence: "Le gâteau est dans le four." },
+        { word: "Frigo", meaning: "Fridge", reading: "free-goh", example_sentence: "Il n'y a plus de lait dans le frigo." },
+        { word: "Congélateur", meaning: "Freezer", reading: "koh-zhay-la-tur", example_sentence: "La glace est dans le congélateur." },
+        { word: "Micro-ondes", meaning: "Microwave", reading: "mee-kroh-ohnd", example_sentence: "Chauffez le reste au micro-ondes." },
+        { word: "Éponge", meaning: "Sponge", reading: "ay-pohzh", example_sentence: "Nettoyez la table avec l'éponge." }, // Word #90
+        { word: "Savon", meaning: "Soap", reading: "sa-voh", example_sentence: "Lavez-vous les mains avec du savon." },
+        { word: "Évier", meaning: "Sink", reading: "ay-vyay", example_sentence: "Mettez les assiettes dans l'évier." },
+        { word: "Poubelle", meaning: "Trash can", reading: "poo-bel", example_sentence: "Jetez ça à la poubelle." },
+        { word: "Placard", meaning: "Cupboard", reading: "pla-kar", example_sentence: "Les verres sont dans le placard." },
+        { word: "Farine", meaning: "Flour", reading: "fa-reen", example_sentence: "J'ai besoin de farine pour le pain." },
+        { word: "Pomme de terre", meaning: "Potato", reading: "pohm duh ter", example_sentence: "Des pommes de terre sautées." },
+        { word: "Tomate", meaning: "Tomato", reading: "toh-mat", example_sentence: "Une sauce tomate maison." },
+        { word: "Oignon", meaning: "Onion", reading: "oh-nyoh", example_sentence: "Je pleure quand je coupe un oignon." },
+        { word: "Ail", meaning: "Garlic", reading: "aye", example_sentence: "J'aime l'odeur de l'ail." },
+        { word: "Plat", meaning: "Dish", reading: "plah", example_sentence: "C'est mon plat préféré." } // Word #100
+    ]
+};
+
+const outputPath = path.join(__dirname, '../firestore_data/french_a1_m3.json');
+fs.writeFileSync(outputPath, JSON.stringify(french_a1_m3, null, 2));
+console.log('Saved 100 UNIQUE French words to firestore_data/french_a1_m3.json');

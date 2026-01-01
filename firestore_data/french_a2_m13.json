@@ -1,0 +1,610 @@
+{
+  "id": "fr_a2_m13",
+  "moduleId": "fr_a2_m13",
+  "name": "A2 French - Module 13: Professional Life",
+  "theme": "A2 French - Module 13: Professional Life",
+  "order": 13,
+  "count": 100,
+  "vocabularyItems": [
+    {
+      "word": "Carrière",
+      "meaning": "Career",
+      "reading": "ka-ryer",
+      "example_sentence": "Une belle carrière."
+    },
+    {
+      "word": "Emploi",
+      "meaning": "Job / Employment",
+      "reading": "ahm-plwa",
+      "example_sentence": "Chercher un emploi."
+    },
+    {
+      "word": "Recrutement",
+      "meaning": "Recruitment",
+      "reading": "ruh-kroot-mahn",
+      "example_sentence": "Le recrutement est ouvert."
+    },
+    {
+      "word": "Candidat",
+      "meaning": "Candidate",
+      "reading": "kahn-dee-da",
+      "example_sentence": "Un candidat sérieux."
+    },
+    {
+      "word": "Entretien",
+      "meaning": "Interview",
+      "reading": "ahn-truh-tyah",
+      "example_sentence": "Passer un entretien d'embauche."
+    },
+    {
+      "word": "Postuler",
+      "meaning": "To apply",
+      "reading": "poh-stoo-lay",
+      "example_sentence": "Postuler pour un poste."
+    },
+    {
+      "word": "Salaire",
+      "meaning": "Salary",
+      "reading": "sa-ler",
+      "example_sentence": "Un salaire attractif."
+    },
+    {
+      "word": "Contrat",
+      "meaning": "Contract",
+      "reading": "kohn-tra",
+      "example_sentence": "Signer un contrat."
+    },
+    {
+      "word": "CDI",
+      "meaning": "Permanent contract",
+      "reading": "say-day-ee",
+      "example_sentence": "J'ai obtenu un CDI."
+    },
+    {
+      "word": "CDD",
+      "meaning": "Temporary contract",
+      "reading": "say-day-day",
+      "example_sentence": "Un CDD de six mois."
+    },
+    {
+      "word": "Période d'essai",
+      "meaning": "Probation period",
+      "reading": "pay-ryohd day-say",
+      "example_sentence": "Ma période d'essai se termine."
+    },
+    {
+      "word": "Compétence",
+      "meaning": "Skill",
+      "reading": "kohm-pay-tahns",
+      "example_sentence": "Développer de nouvelles compétences."
+    },
+    {
+      "word": "Qualification",
+      "meaning": "Qualification",
+      "reading": "ka-lee-fee-ka-syohn",
+      "example_sentence": "Une haute qualification."
+    },
+    {
+      "word": "Expérience",
+      "meaning": "Experience",
+      "reading": "ek-spay-ryahns",
+      "example_sentence": "Avoir de l'expérience professionnelle."
+    },
+    {
+      "word": "Formation",
+      "meaning": "Training",
+      "reading": "for-ma-syohn",
+      "example_sentence": "Suivre une formation."
+    },
+    {
+      "word": "Stage",
+      "meaning": "Internship",
+      "reading": "stazh",
+      "example_sentence": "Faire un stage en entreprise."
+    },
+    {
+      "word": "Stagiaire",
+      "meaning": "Intern",
+      "reading": "sta-zhyer",
+      "example_sentence": "Le stagiaire aide beaucoup."
+    },
+    {
+      "word": "Apprenti",
+      "meaning": "Apprentice",
+      "reading": "a-prahn-tee",
+      "example_sentence": "Un jeune apprenti."
+    },
+    {
+      "word": "Directeur",
+      "meaning": "Director / Manager",
+      "reading": "dee-rek-tur",
+      "example_sentence": "Le directeur général."
+    },
+    {
+      "word": "Cadre",
+      "meaning": "Executive",
+      "reading": "ka-druh",
+      "example_sentence": "Travailler comme cadre."
+    },
+    {
+      "word": "Salarié",
+      "meaning": "Employee / Wage earner",
+      "reading": "sa-la-ryay",
+      "example_sentence": "Les droits des salariés."
+    },
+    {
+      "word": "Patron",
+      "meaning": "Boss / Employer",
+      "reading": "pa-troh",
+      "example_sentence": "Le patron est sympa."
+    },
+    {
+      "word": "Chef",
+      "meaning": "Chief / Boss",
+      "reading": "shef",
+      "example_sentence": "Le chef d'équipe."
+    },
+    {
+      "word": "Équipe",
+      "meaning": "Team",
+      "reading": "ay-keep",
+      "example_sentence": "Travailler en équipe."
+    },
+    {
+      "word": "Collaborateur",
+      "meaning": "Collaborator / Colleague",
+      "reading": "koh-la-boh-ra-tur",
+      "example_sentence": "Mes collaborateurs sont efficaces."
+    },
+    {
+      "word": "Partenaire",
+      "meaning": "Partner",
+      "reading": "par-tuh-ner",
+      "example_sentence": "Un partenaire commercial."
+    },
+    {
+      "word": "Client",
+      "meaning": "Client / Customer",
+      "reading": "klee-ahn",
+      "example_sentence": "Le client est satisfait."
+    },
+    {
+      "word": "Fournisseur",
+      "meaning": "Supplier",
+      "reading": "foor-nee-sur",
+      "example_sentence": "Changer de fournisseur."
+    },
+    {
+      "word": "Concurence",
+      "meaning": "Competition",
+      "reading": "kohn-koo-rahns",
+      "example_sentence": "La concurrence est forte."
+    },
+    {
+      "word": "Marché",
+      "meaning": "Market",
+      "reading": "mar-shay",
+      "example_sentence": "Le marché du travail."
+    },
+    {
+      "word": "Secteur",
+      "meaning": "Sector",
+      "reading": "sek-tur",
+      "example_sentence": "Le secteur bancaire."
+    },
+    {
+      "word": "Domaine",
+      "meaning": "Field / Domain",
+      "reading": "doh-men",
+      "example_sentence": "Mon domaine d'activité."
+    },
+    {
+      "word": "Responsable",
+      "meaning": "Responsible / Manager",
+      "reading": "res-pohn-sa-bluh",
+      "example_sentence": "Le responsable du projet."
+    },
+    {
+      "word": "Service",
+      "meaning": "Department",
+      "reading": "ser-vees",
+      "example_sentence": "Le service marketing."
+    },
+    {
+      "word": "Bureau",
+      "meaning": "Office",
+      "reading": "boo-roh",
+      "example_sentence": "Travailler au bureau."
+    },
+    {
+      "word": "Siège social",
+      "meaning": "Headquarters",
+      "reading": "syazh soh-syal",
+      "example_sentence": "Le siège social est à Paris."
+    },
+    {
+      "word": "Filiale",
+      "meaning": "Subsidiary",
+      "reading": "fee-lyal",
+      "example_sentence": "Une filiale en Espagne."
+    },
+    {
+      "word": "Atelier",
+      "meaning": "Workshop",
+      "reading": "a-tuh-lyay",
+      "example_sentence": "Un atelier de couture."
+    },
+    {
+      "word": "Usine",
+      "meaning": "Factory",
+      "reading": "oo-zeen",
+      "example_sentence": "Une usine moderne."
+    },
+    {
+      "word": "Chantier",
+      "meaning": "Construction site",
+      "reading": "shahn-tyay",
+      "example_sentence": "Visiter le chantier."
+    },
+    {
+      "word": "Poste",
+      "meaning": "Position / Job",
+      "reading": "pohst",
+      "example_sentence": "Un poste à responsabilité."
+    },
+    {
+      "word": "Mission",
+      "meaning": "Assignment / Task",
+      "reading": "mee-syohn",
+      "example_sentence": "Une mission temporaire."
+    },
+    {
+      "word": "Objectif",
+      "meaning": "Goal / Objective",
+      "reading": "ob-zhek-teef",
+      "example_sentence": "Atteindre ses objectifs."
+    },
+    {
+      "word": "Performance",
+      "meaning": "Performance",
+      "reading": "per-for-mahns",
+      "example_sentence": "Améliorer la performance."
+    },
+    {
+      "word": "Productivité",
+      "meaning": "Productivity",
+      "reading": "proh-dook-tee-vee-tay",
+      "example_sentence": "La productivité augmente."
+    },
+    {
+      "word": "Chiffre d'affaires",
+      "meaning": "Turnover",
+      "reading": "shee-fruh da-fer",
+      "example_sentence": "Un gros chiffre d'affaires."
+    },
+    {
+      "word": "Bénéfice",
+      "meaning": "Profit",
+      "reading": "bay-nay-fees",
+      "example_sentence": "Faire du bénéfice."
+    },
+    {
+      "word": "Perte",
+      "meaning": "Loss",
+      "reading": "pert",
+      "example_sentence": "Une perte financière."
+    },
+    {
+      "word": "Budget",
+      "meaning": "Budget",
+      "reading": "boo-dzheh",
+      "example_sentence": "Gérer le budget."
+    },
+    {
+      "word": "Réunion",
+      "meaning": "Meeting",
+      "reading": "ray-oo-nyohn",
+      "example_sentence": "Une réunion d'équipe."
+    },
+    {
+      "word": "Conférence",
+      "meaning": "Conference",
+      "reading": "kohn-fay-rahns",
+      "example_sentence": "Assister à une conférence."
+    },
+    {
+      "word": "Présentation",
+      "meaning": "Presentation",
+      "reading": "pray-zahn-ta-syohn",
+      "example_sentence": "Faire une présentation PowerPoint."
+    },
+    {
+      "word": "Rapport",
+      "meaning": "Report",
+      "reading": "ra-por",
+      "example_sentence": "Écrire un rapport d'activité."
+    },
+    {
+      "word": "Dossier",
+      "meaning": "File",
+      "reading": "doh-syay",
+      "example_sentence": "Classer les dossiers."
+    },
+    {
+      "word": "Document",
+      "meaning": "Document",
+      "reading": "doh-koo-mahn",
+      "example_sentence": "Signer le document."
+    },
+    {
+      "word": "Email",
+      "meaning": "Email",
+      "reading": "ee-mel",
+      "example_sentence": "Envoyer un email."
+    },
+    {
+      "word": "Courrier",
+      "meaning": "Mail",
+      "reading": "koo-ryay",
+      "example_sentence": "Le courrier du matin."
+    },
+    {
+      "word": "Appel",
+      "meaning": "Call",
+      "reading": "a-pel",
+      "example_sentence": "Passer un appel téléphonique."
+    },
+    {
+      "word": "Message",
+      "meaning": "Message",
+      "reading": "meh-sazh",
+      "example_sentence": "Laisser un message."
+    },
+    {
+      "word": "Note de service",
+      "meaning": "Memo",
+      "reading": "noht duh ser-vees",
+      "example_sentence": "Une note de service interne."
+    },
+    {
+      "word": "Planning",
+      "meaning": "Schedule / Planning",
+      "reading": "pla-neeng",
+      "example_sentence": "Consulter le planning."
+    },
+    {
+      "word": "Délai",
+      "meaning": "Deadline",
+      "reading": "day-leh",
+      "example_sentence": "Respecter les délais."
+    },
+    {
+      "word": "Retard",
+      "meaning": "Delay",
+      "reading": "ruh-tar",
+      "example_sentence": "Prendre du retard."
+    },
+    {
+      "word": "Avance",
+      "meaning": "Ahead of schedule",
+      "reading": "a-vahns",
+      "example_sentence": "Finir en avance."
+    },
+    {
+      "word": "Horaire",
+      "meaning": "Timetable",
+      "reading": "oh-rer",
+      "example_sentence": "Les horaires de travail."
+    },
+    {
+      "word": "Temps plein",
+      "meaning": "Full-time",
+      "reading": "tahn plah",
+      "example_sentence": "Travailler à temps plein."
+    },
+    {
+      "word": "Temps partiel",
+      "meaning": "Part-time",
+      "reading": "tahn par-syel",
+      "example_sentence": "Un job à temps partiel."
+    },
+    {
+      "word": "Heures supplémentaires",
+      "meaning": "Overtime",
+      "reading": "ur soo-play-mahn-ter",
+      "example_sentence": "Faire des heures sup'."
+    },
+    {
+      "word": "Congé",
+      "meaning": "Holiday / Leave",
+      "reading": "kohn-zhay",
+      "example_sentence": "Prendre un congé payé."
+    },
+    {
+      "word": "Vacances",
+      "meaning": "Vacation",
+      "reading": "va-kahns",
+      "example_sentence": "Partir en vacances."
+    },
+    {
+      "word": "Arrêt maladie",
+      "meaning": "Sick leave",
+      "reading": "a-re ma-la-dee",
+      "example_sentence": "Il est en arrêt maladie."
+    },
+    {
+      "word": "Retraite",
+      "meaning": "Retirement",
+      "reading": "ruh-tret",
+      "example_sentence": "Prendre sa retraite."
+    },
+    {
+      "word": "Démission",
+      "meaning": "Resignation",
+      "reading": "day-mee-syohn",
+      "example_sentence": "Donner sa démission."
+    },
+    {
+      "word": "Licenciement",
+      "meaning": "Redundancy / Dismissal",
+      "reading": "lee-sahn-see-mahn",
+      "example_sentence": "Un licenciement économique."
+    },
+    {
+      "word": "Chômage",
+      "meaning": "Unemployment",
+      "reading": "shoh-ma-zhuh",
+      "example_sentence": "Le taux de chômage."
+    },
+    {
+      "word": "Syndicat",
+      "meaning": "Union",
+      "reading": "san-dee-ka",
+      "example_sentence": "Adhérer à un syndicat."
+    },
+    {
+      "word": "Grève",
+      "meaning": "Strike",
+      "reading": "grev",
+      "example_sentence": "Le personnel est en grève."
+    },
+    {
+      "word": "Négociation",
+      "meaning": "Negotiation",
+      "reading": "nay-goh-syah-syohn",
+      "example_sentence": "Une négociation salariale."
+    },
+    {
+      "word": "Promotion",
+      "meaning": "Promotion",
+      "reading": "proh-moh-syohn",
+      "example_sentence": "Avoir une promotion."
+    },
+    {
+      "word": "Augmentation",
+      "meaning": "Increase / Raise",
+      "reading": "ohg-mahn-ta-syohn",
+      "example_sentence": "Une augmentation de salaire."
+    },
+    {
+      "word": "Prime",
+      "meaning": "Bonus",
+      "reading": "preem",
+      "example_sentence": "Toucher une prime."
+    },
+    {
+      "word": "Avantage",
+      "meaning": "Benefit",
+      "reading": "a-vahn-tazh",
+      "example_sentence": "Les avantages sociaux."
+    },
+    {
+      "word": "Impôt",
+      "meaning": "Tax",
+      "reading": "am-poh",
+      "example_sentence": "Payer des impôts."
+    },
+    {
+      "word": "Charge",
+      "meaning": "Charge / Expense",
+      "reading": "sharzh",
+      "example_sentence": "Les charges patronales."
+    },
+    {
+      "word": "Banque",
+      "meaning": "Bank",
+      "reading": "bahn-kuh",
+      "example_sentence": "Aller à la banque."
+    },
+    {
+      "word": "Compte",
+      "meaning": "Account",
+      "reading": "kohnt",
+      "example_sentence": "Ouvrir un compte bancaire."
+    },
+    {
+      "word": "Virement",
+      "meaning": "Transfer",
+      "reading": "veer-mahn",
+      "example_sentence": "Faire un virement bancaire."
+    },
+    {
+      "word": "Chèque",
+      "meaning": "Cheque",
+      "reading": "shek",
+      "example_sentence": "Payer par chèque."
+    },
+    {
+      "word": "Carte bancaire",
+      "meaning": "Bank card",
+      "reading": "kart bahn-ker",
+      "example_sentence": "Payer par carte."
+    },
+    {
+      "word": "Espèces",
+      "meaning": "Cash",
+      "reading": "es-pes",
+      "example_sentence": "Payer en espèces."
+    },
+    {
+      "word": "Crédit",
+      "meaning": "Credit",
+      "reading": "kray-dee",
+      "example_sentence": "Demander un crédit."
+    },
+    {
+      "word": "Dépense",
+      "meaning": "Expense",
+      "reading": "day-pahns",
+      "example_sentence": "Limiter ses dépenses."
+    },
+    {
+      "word": "Économie",
+      "meaning": "Saving / Economy",
+      "reading": "ay-koh-noh-mee",
+      "example_sentence": "Faire des économies."
+    },
+    {
+      "word": "Investissement",
+      "meaning": "Investment",
+      "reading": "an-ves-tees-mahn",
+      "example_sentence": "Un bon investissement."
+    },
+    {
+      "word": "Assurance",
+      "meaning": "Insurance",
+      "reading": "a-soo-rahns",
+      "example_sentence": "Une assurance professionnelle."
+    },
+    {
+      "word": "Risque",
+      "meaning": "Risk",
+      "reading": "reesk",
+      "example_sentence": "Gérer les risques."
+    },
+    {
+      "word": "Sécurité",
+      "meaning": "Security",
+      "reading": "say-koo-ree-tay",
+      "example_sentence": "La sécurité au travail."
+    },
+    {
+      "word": "Santé",
+      "meaning": "Health",
+      "reading": "sahn-tay",
+      "example_sentence": "La santé mentale."
+    },
+    {
+      "word": "Stress",
+      "meaning": "Stress",
+      "reading": "stres",
+      "example_sentence": "Le stress professionnel."
+    },
+    {
+      "word": "Équilibre",
+      "meaning": "Balance",
+      "reading": "ay-kee-lee-bruh",
+      "example_sentence": "L'équilibre vie pro - vie perso."
+    }
+  ]
+}

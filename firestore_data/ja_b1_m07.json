@@ -1,0 +1,612 @@
+{
+    "moduleId": "ja_b1_m07",
+    "theme": "Arts & Literature",
+    "order": 7,
+    "vocabularyItems": [
+        {
+            "word": "波及",
+            "reading": "hakyuu",
+            "meaning": "Ripple effect",
+            "example_sentence": "一つの成功事例が他へ波及するうちに、地域全体の意識が劇的に変化していきました。"
+        },
+        {
+            "word": "結実",
+            "reading": "ketsujitsu",
+            "meaning": "Fruition/Product of effort",
+            "example_sentence": "長年の研究がようやく結実することによって、安価で効率的な浄水フィルターが誕生しました。"
+        },
+        {
+            "word": "考古",
+            "reading": "kouko",
+            "meaning": "Archaeology",
+            "example_sentence": "考古学の調査を進めるうちに、数千年前の集落の跡が発見されました。"
+        },
+        {
+            "word": "遺跡",
+            "reading": "iseki",
+            "meaning": "Historic ruins",
+            "example_sentence": "遺跡を保護する反面、観光資源としての活用も重要な課題です。"
+        },
+        {
+            "word": "文明",
+            "reading": "bunmei",
+            "meaning": "Civilization",
+            "example_sentence": "高度な文明が栄えることによって、独自の文字や暦が生まれました。"
+        },
+        {
+            "word": "原始",
+            "reading": "genshi",
+            "meaning": "Primitive/Primaeval",
+            "example_sentence": "原始的な生活様式を研究するうちに、人間本来のたくましさを再認識しました。"
+        },
+        {
+            "word": "封建",
+            "reading": "houken",
+            "meaning": "Feudal",
+            "example_sentence": "封建制度が崩壊する反面、新しい近代国家の枠組みが模索されました。"
+        },
+        {
+            "word": "貴族",
+            "reading": "kizoku",
+            "meaning": "Aristocrat/Peer",
+            "example_sentence": "貴族社会が終焉を迎えることによって、平民の社会進出が加速しました。"
+        },
+        {
+            "word": "武士",
+            "reading": "bushi",
+            "meaning": "Warrior/Samurai",
+            "example_sentence": "武士道精神を学ぶうちに、日本人の道徳観の根底にあるものに触れました。"
+        },
+        {
+            "word": "幕府",
+            "reading": "bakufu",
+            "meaning": "Shogunate",
+            "example_sentence": "幕府の権威が失墜する反面、地方の諸藩が力を持ち始めました。"
+        },
+        {
+            "word": "鎖国",
+            "reading": "sakoku",
+            "meaning": "National isolation",
+            "example_sentence": "鎖国政策を維持することによって、独自の文化が洗練されていきました。"
+        },
+        {
+            "word": "開国",
+            "reading": "kaikoku",
+            "meaning": "Opening up the country",
+            "example_sentence": "開国を迫られるうちに、近代化への道を選択せざるを得なくなりました。"
+        },
+        {
+            "word": "動乱",
+            "reading": "douran",
+            "meaning": "Disturbance/Upheaval",
+            "example_sentence": "幕末の動乱を生き抜く反面、多くの志士たちが命を落としていきました。"
+        },
+        {
+            "word": "維新",
+            "reading": "ishin",
+            "meaning": "Restoration/Reformation",
+            "example_sentence": "明治維新によって、日本の社会構造は劇的に変化しました。"
+        },
+        {
+            "word": "富国",
+            "reading": "fukoku",
+            "meaning": "Wealthy country",
+            "example_sentence": "富国強兵を推し進めるうちに、急速な工業化が達成されました。"
+        },
+        {
+            "word": "殖産",
+            "reading": "shokusan",
+            "meaning": "Increase in production",
+            "example_sentence": "殖産興業政策を採る反面、伝統的な手工業は衰退していきました。"
+        },
+        {
+            "word": "主権",
+            "reading": "shuken",
+            "meaning": "Sovereignty",
+            "example_sentence": "国民主権を掲げるうちに、政治への参加意識が国民の間に広まりました。"
+        },
+        {
+            "word": "講和",
+            "reading": "kouwa",
+            "meaning": "Peace/Reconciliation",
+            "example_sentence": "講和条約を締結する反面、残された戦後処理の問題は山積みでした。"
+        },
+        {
+            "word": "併合",
+            "reading": "heigou",
+            "meaning": "Annexation/Merger",
+            "example_sentence": "領土を併合することによって、地政学的な勢力図が大きく塗り替えられました。"
+        },
+        {
+            "word": "冷戦",
+            "reading": "reisen",
+            "meaning": "Cold War",
+            "example_sentence": "冷戦構造が継続するうちに、世界は常に核戦争の恐怖に晒されていました。"
+        },
+        {
+            "word": "終焉",
+            "reading": "shuuen",
+            "meaning": "End/Closing",
+            "example_sentence": "一時代が終焉を迎える反面、新しい時代の胎動も感じられます。"
+        },
+        {
+            "word": "史観",
+            "reading": "shikan",
+            "meaning": "Historical perspective",
+            "example_sentence": "独自の史観を持つことによって、歴史の深層にある論理を捉え直します。"
+        },
+        {
+            "word": "史実",
+            "reading": "shijitsu",
+            "meaning": "Historical fact",
+            "example_sentence": "史実を重んじるうちに、伝説と真実の境界線が見えてきました。"
+        },
+        {
+            "word": "史料",
+            "reading": "shiryou",
+            "meaning": "Historical material",
+            "example_sentence": "膨大な史料を読み解くことによって、歴史の断片が繋ぎ合わされていきます。"
+        },
+        {
+            "word": "古文書",
+            "reading": "komonjo",
+            "meaning": "Ancient document",
+            "example_sentence": "古文書を解読するうちに、当時の人々の暮らしぶりが生き生きと蘇りました。"
+        },
+        {
+            "word": "系譜",
+            "reading": "keifu",
+            "meaning": "Genealogy/Lineage",
+            "example_sentence": "思想の系譜を遡る反面、その時代ごとの変容も無視できません。"
+        },
+        {
+            "word": "由来",
+            "reading": "yurai",
+            "meaning": "Origin/Derivation",
+            "example_sentence": "名称の由来を調べることによって、当時の社会背景が理解できます。"
+        },
+        {
+            "word": "風習",
+            "reading": "fuushuu",
+            "meaning": "Custom/Manner",
+            "example_sentence": "古くからの風習を守る反面、現代の価値観との適合も考えなければなりません。"
+        },
+        {
+            "word": "教義",
+            "reading": "kyougi",
+            "meaning": "Doctrine/Dogma",
+            "example_sentence": "教義を解釈するうちに、宗派間の微妙な相違点が浮き彫りになりました。"
+        },
+        {
+            "word": "救済",
+            "reading": "kyuusai",
+            "meaning": "Relief/Salvation",
+            "example_sentence": "衆生を救済する反面、そのためには厳格な修行も課せられました。"
+        },
+        {
+            "word": "涅槃",
+            "reading": "nehan",
+            "meaning": "Nirvana",
+            "example_sentence": "涅槃の境地を目指すことによって、世俗の煩悩から解き放たれます。"
+        },
+        {
+            "word": "輪回",
+            "reading": "rinkai",
+            "meaning": "Samsara/Transmigration",
+            "example_sentence": "輪廻転生を信じるうちに、日々の行いの重要性を噛み締めました。"
+        },
+        {
+            "word": "因縁",
+            "reading": "in'nen",
+            "meaning": "Fate/Karma",
+            "example_sentence": "深い因縁を感じる反面、自らの力で未来を切り拓く意志も持ち続けます。"
+        },
+        {
+            "word": "有為",
+            "reading": "uwi",
+            "meaning": "Phenomenal/Worldly",
+            "example_sentence": "有為転変の世を生きるうちに、何が不変のものかを見極めようとしました。"
+        },
+        {
+            "word": "形而上",
+            "reading": "keijijou",
+            "meaning": "Metaphysical",
+            "example_sentence": "形而上学的な問いを立てる反面、現実に即した思考も忘れてはなりません。"
+        },
+        {
+            "word": "知性",
+            "reading": "chisei",
+            "meaning": "Intelligence/Intellect",
+            "example_sentence": "知性を磨く反面、人間としての徳を高めることも同様に重要です。"
+        },
+        {
+            "word": "美徳",
+            "reading": "bitoku",
+            "meaning": "Virtue",
+            "example_sentence": "謙虚さを美徳とする反面、自己主張が必要な場面もあります。"
+        },
+        {
+            "word": "背徳",
+            "reading": "haitoku",
+            "meaning": "Viciousness/Immorality",
+            "example_sentence": "背徳的な行為に手を染めることによって、破滅への道を辿ることになります。"
+        },
+        {
+            "word": "道徳",
+            "reading": "doutoku",
+            "meaning": "Morality",
+            "example_sentence": "道徳を重んじる反面、形式的なルールにとらわれる危うさも感じます。"
+        },
+        {
+            "word": "邪悪",
+            "reading": "jaaku",
+            "meaning": "Evil/Wicked",
+            "example_sentence": "邪悪な企みを阻止するうちに、人間の心の闇に触れることになりました。"
+        },
+        {
+            "word": "善意",
+            "reading": "zen'ei",
+            "meaning": "Good intentions",
+            "example_sentence": "善意に基づいた行動であっても、結果的に裏目に出ることもあります。"
+        },
+        {
+            "word": "悪徳",
+            "reading": "akutoku",
+            "meaning": "Vice/Corruption",
+            "example_sentence": "悪徳商法を撲滅することによって、健全な市場経済を維持します。"
+        },
+        {
+            "word": "徳目",
+            "reading": "tokumoku",
+            "meaning": "Categories of virtue",
+            "example_sentence": "五常の徳目を学ぶうちに、東洋思想の奥深さに感銘を受けました。"
+        },
+        {
+            "word": "品性",
+            "reading": "hinsei",
+            "meaning": "Character/Disposition",
+            "example_sentence": "品性を高める反面、飾らない素朴さも大切にしたいものです。"
+        },
+        {
+            "word": "気位",
+            "reading": "kigurai",
+            "meaning": "Pride/Dignity",
+            "example_sentence": "気位が高いことによって、安易な妥協を許さない厳しさが生まれます。"
+        },
+        {
+            "word": "達観",
+            "reading": "takkans",
+            "meaning": "Philosophical view/Insight",
+            "example_sentence": "世の中の動きを達観することによって、些細なことに動じなくなります。"
+        },
+        {
+            "word": "泰然",
+            "reading": "taizen",
+            "meaning": "Calm/Composed",
+            "example_sentence": "泰然自若としているうちに、周囲の混乱も次第に収まってきました。"
+        },
+        {
+            "word": "恬淡",
+            "reading": "tentan",
+            "meaning": "Disinterested/Unworldly",
+            "example_sentence": "名利に恬淡である反面、職務としての責任は断固として果たします。"
+        },
+        {
+            "word": "超然",
+            "reading": "chouzen",
+            "meaning": "Aloof/Detached",
+            "example_sentence": "俗世から超然とすることによって、魂の自由を確保しようとしました。"
+        },
+        {
+            "word": "孤高",
+            "reading": "kokou",
+            "meaning": "Aloof/Proud and lonely",
+            "example_sentence": "孤高の芸術家を演じるうちに、本当の孤独の意味を知りました。"
+        },
+        {
+            "word": "虚飾",
+            "reading": "kyoshoku",
+            "meaning": "Ostentation/Vainglory",
+            "example_sentence": "虚飾を剥ぎ取る反面、そこには剥き出しの真実しか残りませんでした。"
+        },
+        {
+            "word": "欺瞞",
+            "reading": "giman",
+            "meaning": "Deception",
+            "example_sentence": "欺瞞に満ちた社会を変えることによって、誠実さが報われる世を目指します。"
+        },
+        {
+            "word": "桎梏",
+            "reading": "shikkoku",
+            "meaning": "Fetters/Shackles",
+            "example_sentence": "伝統という名の桎梏を断ち切ることによって、新しい表現が可能になります。"
+        },
+        {
+            "word": "煩悶",
+            "reading": "hanmon",
+            "meaning": "Anguish/Worry",
+            "example_sentence": "煩悶する反面、その苦しみこそが創作の源泉になることもあります。"
+        },
+        {
+            "word": "憂悶",
+            "reading": "yuumon",
+            "meaning": "Anguish/Distress",
+            "example_sentence": "憂悶の日々を送ることによって、平穏な日常の尊さを痛感しました。"
+        },
+        {
+            "word": "静謐",
+            "reading": "seihitsu",
+            "meaning": "Quiet/Peaceful",
+            "example_sentence": "静謐な空間で瞑想するうちに、心の波立ちが静まっていくのを感じました。"
+        },
+        {
+            "word": "深淵",
+            "reading": "shin'en",
+            "meaning": "Abyss/Profundity",
+            "example_sentence": "思想の深淵を覗き込む反面、深淵もこちらを覗き返しているような恐怖を覚えます。"
+        },
+        {
+            "word": "玄妙",
+            "reading": "genmyou",
+            "meaning": "Abstruse/Occult",
+            "example_sentence": "自然の玄妙な理に触れることによって、謙虚な心を取り戻すことができます。"
+        },
+        {
+            "word": "奥義",
+            "reading": "ougi",
+            "meaning": "Secrets/Mysteries",
+            "example_sentence": "武術の奥義を極めるうちに、力に頼らない強さの境地に達しました。"
+        },
+        {
+            "word": "秘奥",
+            "reading": "hiou",
+            "meaning": "Inner secrets/Mysteries",
+            "example_sentence": "真理の秘奥に迫る反面、言葉で言い表せないもどかしさも増していきます。"
+        },
+        {
+            "word": "根源",
+            "reading": "kongen",
+            "meaning": "Root/Source",
+            "example_sentence": "存在の根源を問ううちに、自己と世界との繋がりを再発見しました。"
+        },
+        {
+            "word": "相対",
+            "reading": "soutai",
+            "meaning": "Relativity",
+            "example_sentence": "価値観を相対化するうちに、他者の視点からも世界が見えてくるようになります。"
+        },
+        {
+            "word": "主客",
+            "reading": "shukyaku",
+            "meaning": "Subject and object",
+            "example_sentence": "主客が未分化な状態を経験する反面、それを論理的に記述することの困難さも知りました。"
+        },
+        {
+            "word": "唯物",
+            "reading": "yuibutsu",
+            "meaning": "Materialism",
+            "example_sentence": "唯物論を信奉することによって、社会の発展を物質的な基盤から再考します。"
+        },
+        {
+            "word": "唯心",
+            "reading": "yuishin",
+            "meaning": "Idealism/Spiritualism",
+            "example_sentence": "唯心論的な世界観を構築するうちに、心の持ちようの重要性を強く感じました。"
+        },
+        {
+            "word": "実存",
+            "reading": "jitsuzon",
+            "meaning": "Existence",
+            "example_sentence": "実存の不安に直面することによって、自らの生の意味を問い直さざるを得ません。"
+        },
+        {
+            "word": "変節",
+            "reading": "hensetsu",
+            "meaning": "Backsliding/Changing one's principles",
+            "example_sentence": "権力に屈して変節する反面、かつての同志たちへの罪悪感も消えません。"
+        },
+        {
+            "word": "独善",
+            "reading": "dokuzen",
+            "meaning": "Self-righteousness",
+            "example_sentence": "独善的な正義を振りかざすことによって、周囲との深刻な対立を招きました。"
+        },
+        {
+            "word": "英断",
+            "reading": "eidan",
+            "meaning": "Decisive judgment",
+            "example_sentence": "社長が英断を下す反面、その責任の重さに全社員が緊張感を持っています。"
+        },
+        {
+            "word": "英知",
+            "reading": "eichi",
+            "meaning": "Wisdom/Intellect",
+            "example_sentence": "人類の英知を結集することによって、未曾有の危機を乗り越えようとしています。"
+        },
+        {
+            "word": "賢明",
+            "reading": "kenmei",
+            "meaning": "Wise/Sensible",
+            "example_sentence": "賢明な判断をする反面、目先の損得にとらわれない長期的な視点も必要です。"
+        },
+        {
+            "word": "聡明",
+            "reading": "soumei",
+            "meaning": "Bright/Intelligent",
+            "example_sentence": "聡明な君主の下で国が治まることによって、文化は大いに発展しました。"
+        },
+        {
+            "word": "愚鈍",
+            "reading": "gudon",
+            "meaning": "Stupid/Silly",
+            "example_sentence": "愚鈍な振る舞いを装ううちに、敵の油断を誘うことに成功しました。"
+        },
+        {
+            "word": "国際",
+            "reading": "kokusai",
+            "meaning": "International",
+            "example_sentence": "国際協力を推進するうちに、国境を越えたネットワークの重要性を痛感しました。"
+        },
+        {
+            "word": "多様化",
+            "reading": "tayouka",
+            "meaning": "Diversification",
+            "example_sentence": "価値観が多様化することによって、画一的な教育制度の見直しが迫られています。"
+        },
+        {
+            "word": "互恵",
+            "reading": "gokei",
+            "meaning": "Mutual benefit",
+            "example_sentence": "互恵的な関係を築く反面、実質的な格差が拡大していないか注視が必要です。"
+        },
+        {
+            "word": "寡占",
+            "reading": "kasen",
+            "meaning": "Oligopoly",
+            "example_sentence": "市場が寡占化する反面、中小企業やスタートアップの参入障壁が高まっています。"
+        },
+        {
+            "word": "競争",
+            "reading": "kyousou",
+            "meaning": "Competition",
+            "example_sentence": "国際競争が激しさを増すうちに、技術革新のスピードが飛躍的に向上しました。"
+        },
+        {
+            "word": "融和",
+            "reading": "yuuwa",
+            "meaning": "Harmony/Reconciliation",
+            "example_sentence": "民族間の融和を図るうちに、かつての対立を乗り越えた新しいコミュニティが誕生しました。"
+        },
+        {
+            "word": "是正",
+            "reading": "zeisei",
+            "meaning": "Correction/Rectification",
+            "example_sentence": "社会的不公平を是正することによって、誰もが能力を発揮できる環境を整えます。"
+        },
+        {
+            "word": "構造",
+            "reading": "kouzou",
+            "meaning": "Structure",
+            "example_sentence": "産業構造が変化するうちに、かつての主力産業が影を潜めていきました。"
+        },
+        {
+            "word": "転換",
+            "reading": "tenkan",
+            "meaning": "Conversion/Diversion",
+            "example_sentence": "化石燃料から再生エネルギーへの転換を急ぐ反面、安定供給への不安も残ります。"
+        },
+        {
+            "word": "革新",
+            "reading": "kakushin",
+            "meaning": "Innovation",
+            "example_sentence": "デジタル技術の革新によって、私たちの生活スタイルは根底から覆されました。"
+        },
+        {
+            "word": "順応",
+            "reading": "junnou",
+            "meaning": "Adaptation/Compliance",
+            "example_sentence": "新技術に順応するうちに、それが当たり前の日常となって馴染んでいきました。"
+        },
+        {
+            "word": "勃興",
+            "reading": "bokkou",
+            "meaning": "Sudden rise/Growth",
+            "example_sentence": "新しいネット文化が勃興するうちに、既存のメディアのあり方が問い直されています。"
+        },
+        {
+            "word": "俯瞰",
+            "reading": "fukan",
+            "meaning": "Bird's-eye view",
+            "example_sentence": "グローバルな課題を俯瞰するうちに、個別の問題が複雑に絡み合っていると知りました。"
+        },
+        {
+            "word": "予測",
+            "reading": "yosoku",
+            "meaning": "Prediction/Forecast",
+            "example_sentence": "気候変動を予測することによって、早めに防災対策を講じることが可能になります。"
+        },
+        {
+            "word": "予兆",
+            "reading": "yochou",
+            "meaning": "Omen/Symptom",
+            "example_sentence": "危機的な状況の予兆を感じるうちに、対策チームを早急に立ち上げました。"
+        },
+        {
+            "word": "兆候",
+            "reading": "choukou",
+            "meaning": "Sign/Indication",
+            "example_sentence": "景気後退の兆候が見られる反面、特定のセクターでは依然として活況を呈しています。"
+        },
+        {
+            "word": "展望",
+            "reading": "tenbou",
+            "meaning": "Outlook/Prospect",
+            "example_sentence": "明るい展望を持つことによって、困難な状況下でも人々は希望を繋ぐことができます。"
+        },
+        {
+            "word": "変遷",
+            "reading": "hensen",
+            "meaning": "Transitions/Changes",
+            "example_sentence": "言葉の変遷を辿るうちに、人々の考え方の変化も読み取ることができます。"
+        },
+        {
+            "word": "推移",
+            "reading": "suii",
+            "meaning": "Transition/Change",
+            "example_sentence": "人口動態が推移することによって、社会保障制度の抜本的な改革が必要になります。"
+        },
+        {
+            "word": "経過",
+            "reading": "keika",
+            "meaning": "Progress/Course",
+            "example_sentence": "時間の経過とともに問題が複雑化するうちに、解決の糸口が完全に見失われました。"
+        },
+        {
+            "word": "終始",
+            "reading": "shuushi",
+            "meaning": "End and beginning/Continuity",
+            "example_sentence": "冷静な態度に終始する反面、内面では激しい怒りが渦巻いているようでした。"
+        },
+        {
+            "word": "結末",
+            "reading": "ketsumatsu",
+            "meaning": "Conclusion/Ending",
+            "example_sentence": "予期せぬ結末を迎えることによって、事態は新たな局面へと移行しました。"
+        },
+        {
+            "word": "胎動",
+            "reading": "taidou",
+            "meaning": "Quickening/Fetal movement",
+            "example_sentence": "新しいパラダイムが胎動するうちに、古い秩序が音を立てて崩れ始めていきました。"
+        },
+        {
+            "word": "徴候",
+            "reading": "choukou",
+            "meaning": "Symptom/Indication",
+            "example_sentence": "変化の徴候を捉える反面、それを確信するまでにはさらなる検証が必要です。"
+        },
+        {
+            "word": "暗示",
+            "reading": "anji",
+            "meaning": "Hint/Suggestion/Allusion",
+            "example_sentence": "未来を暗示することによって、映画は観客に考えるきっかけを提示してくれます。"
+        },
+        {
+            "word": "示唆",
+            "reading": "shisa",
+            "meaning": "Suggestion/Hint",
+            "example_sentence": "研究結果が示唆するうちに、これまでの仮説は一部修正を余儀なくされました。"
+        },
+        {
+            "word": "具現",
+            "reading": "gugen",
+            "meaning": "Embodiment/Incarnation",
+            "example_sentence": "理想を社会に具現することによって、より良い世界が少しずつ実現されていきます。"
+        }
+    ],
+    "liarGameData": {
+        "trap": "日本の伝統芸能である「能」は、派手な衣装と激しい動きが特徴の演劇です。(Japanese traditional performing art 'Noh' is characterized by flashy costumes and intense movement.)",
+        "correctVersion": "日本の伝統芸能である「能」は、極限まで削ぎ落とされた静かな動きと、象徴的な表現が特徴の仮面劇です。(Japanese traditional performing art 'Noh' is a masked drama characterized by symbolic expression and extremely minimal, quiet movements.)",
+        "explanation": "Noh (能) is known for its minimalism and 'stillness' (seishi). Unlike Kabuki, which can be more flamboyant, Noh focuses on subtle movements and psychological depth. Actors wear masks (noh-men) to represent various characters, and a slight change in the angle of the head can express a range of emotions."
+    }
+}

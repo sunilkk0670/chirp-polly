@@ -1,0 +1,612 @@
+{
+    "moduleId": "ja_a2_m19",
+    "theme": "Work & Career",
+    "order": 19,
+    "vocabularyItems": [
+        {
+            "word": "迷惑",
+            "reading": "meiwaku",
+            "meaning": "Trouble/Annoyance",
+            "example_sentence": "近所の迷惑にならないようにします。"
+        },
+        {
+            "word": "常識",
+            "reading": "joushiki",
+            "meaning": "Common sense",
+            "example_sentence": "そんなの常識ですよ。"
+        },
+        {
+            "word": "非常識",
+            "reading": "hijoushiki",
+            "meaning": "Lack of common sense",
+            "example_sentence": "彼の行動は非常識です。"
+        },
+        {
+            "word": "マスメディア",
+            "reading": "masu media",
+            "meaning": "Mass media",
+            "example_sentence": "マスメディアの役割は重要です。"
+        },
+        {
+            "word": "報道",
+            "reading": "houdou",
+            "meaning": "Report/Journalism",
+            "example_sentence": "事実に基づいた報道を求めます。"
+        },
+        {
+            "word": "情報漏洩",
+            "reading": "jouhou rouei",
+            "meaning": "Information leak",
+            "example_sentence": "顧客の情報漏洩が発生しました。"
+        },
+        {
+            "word": "サイバー攻撃",
+            "reading": "saibaa kougeki",
+            "meaning": "Cyber attack",
+            "example_sentence": "政府機関がサイバー攻撃を受けました。"
+        },
+        {
+            "word": "最先端",
+            "reading": "saisentan",
+            "meaning": "State-of-the-art",
+            "example_sentence": "最先端の技術を導入します。"
+        },
+        {
+            "word": "イノベーション",
+            "reading": "inobeeshon",
+            "meaning": "Innovation",
+            "example_sentence": "社会にイノベーションを起こします。"
+        },
+        {
+            "word": "特許",
+            "reading": "tokkyo",
+            "meaning": "Patent",
+            "example_sentence": "新しい発明の特許を取得しました。"
+        },
+        {
+            "word": "消費者",
+            "reading": "shouhisha",
+            "meaning": "Consumer",
+            "example_sentence": "消費者の声を大切にします。"
+        },
+        {
+            "word": "供給",
+            "reading": "kyuukyuu",
+            "meaning": "Supply",
+            "example_sentence": "需要と供給のバランスが崩れました。"
+        },
+        {
+            "word": "需要",
+            "reading": "juyou",
+            "meaning": "Demand",
+            "example_sentence": "新しい商品の需要が高まっています。"
+        },
+        {
+            "word": "景気",
+            "reading": "keiki",
+            "meaning": "Business conditions",
+            "example_sentence": "景気が回復してきているようです。"
+        },
+        {
+            "word": "不況",
+            "reading": "fukyou",
+            "meaning": "Recession/Depression",
+            "example_sentence": "不況のせいで倒産が増えています。"
+        },
+        {
+            "word": "円安",
+            "reading": "enyasu",
+            "meaning": "Weak yen",
+            "example_sentence": "円安の影響で輸入品が高いです。"
+        },
+        {
+            "word": "円高",
+            "reading": "endaka",
+            "meaning": "Strong yen",
+            "example_sentence": "円高なので海外旅行がお得です。"
+        },
+        {
+            "word": "物価",
+            "reading": "bukka",
+            "meaning": "Prices",
+            "example_sentence": "物価がどんどん上がっています。"
+        },
+        {
+            "word": "インフレ",
+            "reading": "infure",
+            "meaning": "Inflation",
+            "example_sentence": "インフレ対策が必要です。"
+        },
+        {
+            "word": "デフレ",
+            "reading": "defure",
+            "meaning": "Deflation",
+            "example_sentence": "長くデフレが続いていました。"
+        },
+        {
+            "word": "投資",
+            "reading": "toushi",
+            "meaning": "Investment",
+            "example_sentence": "将来のために投資を始めました。"
+        },
+        {
+            "word": "株価",
+            "reading": "kabuka",
+            "meaning": "Stock price",
+            "example_sentence": "株価が過去最高を更新しました。"
+        },
+        {
+            "word": "金利",
+            "reading": "kinri",
+            "meaning": "Interest rate",
+            "example_sentence": "住宅ローンの金利を比較します。"
+        },
+        {
+            "word": "為替",
+            "reading": "kawase",
+            "meaning": "Exchanges/Foreign exchange",
+            "example_sentence": "為替の変動をチェックしています。"
+        },
+        {
+            "word": "世論",
+            "reading": "yoron",
+            "meaning": "Public opinion",
+            "example_sentence": "世論調査の結果が発表されました。"
+        },
+        {
+            "word": "抗議",
+            "reading": "kougi",
+            "meaning": "Protest",
+            "example_sentence": "増税に反対する抗議デモがありました。"
+        },
+        {
+            "word": "市民",
+            "reading": "shimin",
+            "meaning": "Citizen",
+            "example_sentence": "市民が主役のまちづくりです。"
+        },
+        {
+            "word": "自治体",
+            "reading": "jichitai",
+            "meaning": "Municipality",
+            "example_sentence": "自治体が避難勧告を出しました。"
+        },
+        {
+            "word": "政府",
+            "reading": "seifu",
+            "meaning": "Government",
+            "example_sentence": "政府が新たな経済対策を打ち出しました。"
+        },
+        {
+            "word": "指針",
+            "reading": "shishin",
+            "meaning": "Guideline/Pointer",
+            "example_sentence": "今後の活動の指針を決めます。"
+        },
+        {
+            "word": "方針",
+            "reading": "houshin",
+            "meaning": "Policy/Objective",
+            "example_sentence": "会社の基本方針を確認します。"
+        },
+        {
+            "word": "伝統",
+            "reading": "dentou",
+            "meaning": "Tradition",
+            "example_sentence": "古い伝統を守り続けています。"
+        },
+        {
+            "word": "文化財",
+            "reading": "bunka zai",
+            "meaning": "Cultural property",
+            "example_sentence": "重要文化財を見て回りました。"
+        },
+        {
+            "word": "継承",
+            "reading": "keishou",
+            "meaning": "Succession/Inheritance",
+            "example_sentence": "伝統技術を次世代に継承します。"
+        },
+        {
+            "word": "発展",
+            "reading": "hatten",
+            "meaning": "Development/Growth",
+            "example_sentence": "科学技術の発展はめざましいです。"
+        },
+        {
+            "word": "衰退",
+            "reading": "suitai",
+            "meaning": "Decline",
+            "example_sentence": "伝統的な産業が衰退しています。"
+        },
+        {
+            "word": "繁栄",
+            "reading": "han'ei",
+            "meaning": "Prosperity",
+            "example_sentence": "街の繁栄を祈ります。"
+        },
+        {
+            "word": "変革",
+            "reading": "henkaku",
+            "meaning": "Reform/Transmutation",
+            "example_sentence": "社会の変革を求められています。"
+        },
+        {
+            "word": "希望",
+            "reading": "kibou",
+            "meaning": "Hope",
+            "example_sentence": "明るい未来に希望を持ちます。"
+        },
+        {
+            "word": "克服",
+            "reading": "kokufuku",
+            "meaning": "Overcoming",
+            "example_sentence": "弱点を克服することによって、自信を取り戻す反面、慢心には注意が必要です。"
+        },
+        {
+            "word": "矛盾",
+            "reading": "mujun",
+            "meaning": "Contradiction",
+            "example_sentence": "彼の行動には矛盾がある反面、その根底にある優しさは本物です。"
+        },
+        {
+            "word": "妥協",
+            "reading": "dakyou",
+            "meaning": "Compromise",
+            "example_sentence": "理想を追ううちに、どこかで現実との妥協を行わなければならない時が来ます。"
+        },
+        {
+            "word": "執着",
+            "reading": "shuuchaku",
+            "meaning": "Attachment",
+            "example_sentence": "過去の栄光に執着するうちに、現在の大切な機会を見失ってしまいました。"
+        },
+        {
+            "word": "犠牲",
+            "reading": "gisei",
+            "meaning": "Sacrifice",
+            "example_sentence": "平和を維持するために、ある程度の自由が犠牲になる反面、安全が保障されます。"
+        },
+        {
+            "word": "観念",
+            "reading": "kannen",
+            "meaning": "Concept/Idea",
+            "example_sentence": "固定観念を打破することによって、全く新しい視点から世界を見ることができます。"
+        },
+        {
+            "word": "本質",
+            "reading": "honshitsu",
+            "meaning": "Essence",
+            "example_sentence": "物事の本質を捉えるうちに、表面的な違いに惑わされなくなりました。"
+        },
+        {
+            "word": "倫理",
+            "reading": "rinri",
+            "meaning": "Ethics",
+            "example_sentence": "科学の発展に伴い、AI利用に関する倫理が問われる反面、法整備が追いつきません。"
+        },
+        {
+            "word": "正義",
+            "reading": "seigi",
+            "meaning": "Justice",
+            "example_sentence": "自らの正義を貫くことによって、時に周囲との摩擦が生じることもあります。"
+        },
+        {
+            "word": "畏敬",
+            "reading": "ikei",
+            "meaning": "Awe/Reverence",
+            "example_sentence": "大自然への畏敬の念を持つ反面、その過酷な側面にも向き合う必要があります。"
+        },
+        {
+            "word": "孤独",
+            "reading": "kodoku",
+            "meaning": "Loneliness",
+            "example_sentence": "深い孤独に沈むうちに、自分自身と向き合う貴重な時間を得ることができました。"
+        },
+        {
+            "word": "葛藤",
+            "reading": "kattou",
+            "meaning": "Conflict",
+            "example_sentence": "期待と不安の間で葛藤するうちに、ようやく決断を下すことができました。"
+        },
+        {
+            "word": "覚悟",
+            "reading": "kakugo",
+            "meaning": "Resolution",
+            "example_sentence": "最悪の事態を覚悟することによって、どんな困難も乗り越えられる気がします。"
+        },
+        {
+            "word": "劣等感",
+            "reading": "rettoukan",
+            "meaning": "Inferiority complex",
+            "example_sentence": "劣等感に苛まれる反面、それをバネにして驚異的な成長を遂げました。"
+        },
+        {
+            "word": "優越感",
+            "reading": "yuuetsukan",
+            "meaning": "Superiority complex",
+            "example_sentence": "他者より優位に立って優越感を抱くうちに、傲慢な態度が目立つようになりました。"
+        },
+        {
+            "word": "誠実",
+            "reading": "seijitsu",
+            "meaning": "Sincerity",
+            "example_sentence": "誠実な対応を続けることによって、時間はかかりますが確かな信頼が得られます。"
+        },
+        {
+            "word": "傲慢",
+            "reading": "gouman",
+            "meaning": "Arrogant",
+            "example_sentence": "成功によって傲慢になる反面、かつての志を忘れてしまう経営者もいます。"
+        },
+        {
+            "word": "執念",
+            "reading": "shuunen",
+            "meaning": "Tenacity",
+            "example_sentence": "勝利への執念を持つうちに、ついに不可能と思われた逆転劇を演じました。"
+        },
+        {
+            "word": "不条理",
+            "reading": "fujouri",
+            "meaning": "Absurd",
+            "example_sentence": "不条理な現実に直面するうちに、人間の無力さを思い知らされました。"
+        },
+        {
+            "word": "真理",
+            "reading": "shinri",
+            "meaning": "Truth",
+            "example_sentence": "宇宙の真理を探求することによって、人類の知識は一歩ずつ更新されています。"
+        },
+        {
+            "word": "必然",
+            "reading": "hitsuzen",
+            "meaning": "Inevitable",
+            "example_sentence": "これは偶然ではなく必然の結末である反面、運命を呪いたくなる時もあります。"
+        },
+        {
+            "word": "宿命",
+            "reading": "shukumei",
+            "meaning": "Fate/Destiny",
+            "example_sentence": "宿命を受け入れるうちに、これまでの苦しみさえも意味があるように感じられます。"
+        },
+        {
+            "word": "信仰",
+            "reading": "shinkou",
+            "meaning": "Faith",
+            "example_sentence": "不動の信仰心によって、絶望的な状況下でも希望を失わずにいられました。"
+        },
+        {
+            "word": "意欲",
+            "reading": "iyoku",
+            "meaning": "Will/Incentive",
+            "example_sentence": "学習意欲を高めることによって、短期間で驚くほどの成果を出すことができます。"
+        },
+        {
+            "word": "冷静",
+            "reading": "reisei",
+            "meaning": "Calm",
+            "example_sentence": "冷静沈着に振る舞う反面、心の中では激しい怒りが渦巻いていました。"
+        },
+        {
+            "word": "野望",
+            "reading": "yabou",
+            "meaning": "Ambition",
+            "example_sentence": "天下を取るという野望を抱くうちに、次第に周囲が見えなくなっていきました。"
+        },
+        {
+            "word": "羨望",
+            "reading": "senbou",
+            "meaning": "Envy",
+            "example_sentence": "他人の成功を羨望の眼差しで見る反面、自分には自分にしかない強みがあるはずです。"
+        },
+        {
+            "word": "憐憫",
+            "reading": "renbin",
+            "meaning": "Pity",
+            "example_sentence": "憐憫の情に流されるうちに、冷静な判断ができなくなってしまうこともあります。"
+        },
+        {
+            "word": "懊悩",
+            "reading": "ounou",
+            "meaning": "Anguish",
+            "example_sentence": "過去の過ちを懊悩するうちに、夜が明けてしまったことが何度もあります。"
+        },
+        {
+            "word": "悟り",
+            "reading": "satori",
+            "meaning": "Enlightenment",
+            "example_sentence": "長年の修行によって悟りを開く反面、世俗の楽しみも捨てがたいものです。"
+        },
+        {
+            "word": "因果",
+            "reading": "inga",
+            "meaning": "Cause and effect",
+            "example_sentence": "善行が幸福を招く因果関係がある反面、現実は必ずしもそうとは限りません。"
+        },
+        {
+            "word": "洗練",
+            "reading": "senren",
+            "meaning": "Refinement",
+            "example_sentence": "デザインを洗練させることによって、機能美と芸術性を両立させました。"
+        },
+        {
+            "word": "素朴",
+            "reading": "soboku",
+            "meaning": "Simple/Innocent",
+            "example_sentence": "素朴な疑問を抱くうちに、科学界を揺るがす大発見へと繋がりました。"
+        },
+        {
+            "word": "高尚",
+            "reading": "koushou",
+            "meaning": "Noble",
+            "example_sentence": "高尚な趣味を持つ反面、週末は家でアニメを見るという意外な一面もあります。"
+        },
+        {
+            "word": "崇高",
+            "reading": "suukou",
+            "meaning": "Sublime",
+            "example_sentence": "崇高な理想を掲げるうちに、現実との乖離に苦しむリーダーも少なくありません。"
+        },
+        {
+            "word": "優雅",
+            "reading": "yuuga",
+            "meaning": "Elegant",
+            "example_sentence": "優雅な音楽に耳を傾けることによって、日々の忙しさを一時的に忘れることができます。"
+        },
+        {
+            "word": "荘厳",
+            "reading": "sougon",
+            "meaning": "Solemn",
+            "example_sentence": "大聖堂の荘厳な雰囲気に圧倒される反面、同時に安らぎも感じました。"
+        },
+        {
+            "word": "静寂",
+            "reading": "seijaku",
+            "meaning": "Silence",
+            "example_sentence": "深夜の静寂に身を置くうちに、心の奥底にある声が聞こえてくるようです。"
+        },
+        {
+            "word": "哀愁",
+            "reading": "aishuu",
+            "meaning": "Melancholy",
+            "example_sentence": "夕焼け空に漂う哀愁によって、遠い故郷の家族を思い出しました。"
+        },
+        {
+            "word": "郷愁",
+            "reading": "kyoushuu",
+            "meaning": "Nostalgia",
+            "example_sentence": "古い写真を見るうちに、強い郷愁に駆られ、涙が溢れてきました。"
+        },
+        {
+            "word": "忍耐",
+            "reading": "nintai",
+            "meaning": "Patience",
+            "example_sentence": "忍耐強く待つことによって、ついには最高のチャンスを手にすることができました。"
+        },
+        {
+            "word": "拒絶",
+            "reading": "kyozetsu",
+            "meaning": "Rejection/Refusal",
+            "example_sentence": "外部の意見を拒絶するうちに、独りよがりの考えに陥ってしまいました。"
+        },
+        {
+            "word": "超越",
+            "reading": "chouetsu",
+            "meaning": "Transcendence",
+            "example_sentence": "人知を超越した現象に驚く反面、科学はそれを論理的に説明しようとします。"
+        },
+        {
+            "word": "直観",
+            "reading": "chokkan",
+            "meaning": "Intuition",
+            "example_sentence": "直観を信じることによって、論理では導き出せない正解に辿り着くことがあります。"
+        },
+        {
+            "word": "確信",
+            "reading": "kakushin",
+            "meaning": "Conviction",
+            "example_sentence": "勝利を確信している反面、油断は大敵であると常に自分に言い聞かせています。"
+        },
+        {
+            "word": "危惧",
+            "reading": "kigu",
+            "meaning": "Apprehension/Fear",
+            "example_sentence": "将来の経済状況を危惧するうちに、将来への不安から消費を控えるようになりました。"
+        },
+        {
+            "word": "躊躇",
+            "reading": "chuucho",
+            "meaning": "Hesitation",
+            "example_sentence": "返答を躊躇するうちに、せっかくの好機を逃してしまったようです。"
+        },
+        {
+            "word": "洞察",
+            "reading": "dousatsu",
+            "meaning": "Insight",
+            "example_sentence": "鋭い洞察力を持つことによって、問題の核心を即座に見抜くことができます。"
+        },
+        {
+            "word": "象徴",
+            "reading": "shouchou",
+            "meaning": "Symbol",
+            "example_sentence": "自由の象徴とされる反面、その裏に隠された責任の重さを忘れてはなりません。"
+        },
+        {
+            "word": "概念",
+            "reading": "gainen",
+            "meaning": "Concept",
+            "example_sentence": "新しい概念を学ぶうちに、これまでの常識が根底から覆されました。"
+        },
+        {
+            "word": "独創",
+            "reading": "dokusou",
+            "meaning": "Originality",
+            "example_sentence": "独創的なアイデアを生む反面、それを社会に受け入れさせるには多大な努力が必要です。"
+        },
+        {
+            "word": "普遍",
+            "reading": "fuhen",
+            "meaning": "Universal",
+            "example_sentence": "普遍的な美を追求することによって、時代を超えて愛される作品が生まれます。"
+        },
+        {
+            "word": "感性",
+            "reading": "kansei",
+            "meaning": "Sensibility",
+            "example_sentence": "豊かな感性を磨くうちに、日常の何気ない風景にも感動を見出せるようになりました。"
+        },
+        {
+            "word": "理性",
+            "reading": "risei",
+            "meaning": "Reason",
+            "example_sentence": "理性で感情を抑える反面、人間としての温かみを失わないよう注意が必要です。"
+        },
+        {
+            "word": "嫉妬",
+            "reading": "shitto",
+            "meaning": "Jealousy",
+            "example_sentence": "強すぎる嫉妬心によって、大切な友人との関係を壊してしまいました。"
+        },
+        {
+            "word": "独占",
+            "reading": "dokusen",
+            "meaning": "Monopoly",
+            "example_sentence": "市場を独占するうちに、他社との競争が失われ、技術革新が停滞してしまいました。"
+        },
+        {
+            "word": "依存",
+            "reading": "izon",
+            "meaning": "Dependence",
+            "example_sentence": "他人に依存しすぎる反面、一人で生きていくことの不安も強く感じています。"
+        },
+        {
+            "word": "自立",
+            "reading": "jiritsu",
+            "meaning": "Self-reliance",
+            "example_sentence": "経済的な自立を果たすうちに、自分自身に対する責任感がより強まりました。"
+        },
+        {
+            "word": "連帯",
+            "reading": "rentai",
+            "meaning": "Solidarity",
+            "example_sentence": "危機的な状況において連帯することによって、大きな困難を乗り越えることができます。"
+        },
+        {
+            "word": "調和",
+            "reading": "chouwa",
+            "meaning": "Harmony",
+            "example_sentence": "和を尊び調和を図る反面、個人の意見が埋没してしまうリスクもあります。"
+        },
+        {
+            "word": "衝突",
+            "reading": "shoutotsu",
+            "meaning": "Conflict",
+            "example_sentence": "古い価値観と新しい価値観が衝突するうちに、新しい時代の潮流が生まれました。"
+        }
+    ],
+    "liarGameData": {
+        "trap": "退社するとき、年上の同僚に「ご苦労様です」と言った。(Said 'Gokurousama' to an older colleague when leaving.)",
+        "correctVersion": "同僚や上司には「お疲れ様です」と言う。(Use 'Otsukaresama desu' for colleagues and superiors.)",
+        "explanation": "'Gokurousama' is used by superiors to subordinates to appreciate their hard work. Using it to someone older or higher-ranking is considered rude. Stick to 'Otsukaresama' professionally!"
+    }
+}

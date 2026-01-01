@@ -1,0 +1,655 @@
+{
+    "moduleId": "spanish_a1_m3",
+    "theme": "TENER: Possession & Expressions",
+    "order": 3,
+    "targetWordCount": 100,
+    "lessons": [
+        {
+            "lessonNumber": 1,
+            "title": "TENER Conjugation",
+            "vocabularyItems": [
+                {
+                    "targetText": "yo tengo",
+                    "english": "I have",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "tú tienes",
+                    "english": "you have (informal)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "él tiene",
+                    "english": "he has",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "ella tiene",
+                    "english": "she has",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "usted tiene",
+                    "english": "you have (formal)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "nosotros tenemos",
+                    "english": "we have",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "vosotros tenéis",
+                    "english": "you all have (Spain)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "ellos tienen",
+                    "english": "they have (masc)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "ellas tienen",
+                    "english": "they have (fem)",
+                    "type": "verb"
+                },
+                {
+                    "targetText": "ustedes tienen",
+                    "english": "you all have (formal)",
+                    "type": "verb"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 2,
+            "title": "Age & Physical Needs",
+            "vocabularyItems": [
+                {
+                    "targetText": "Tengo 20 años",
+                    "english": "I am 20 years old",
+                    "type": "phrase",
+                    "notes": "TENER for age"
+                },
+                {
+                    "targetText": "Tengo hambre",
+                    "english": "I am hungry",
+                    "type": "phrase",
+                    "notes": "TENER for hunger"
+                },
+                {
+                    "targetText": "Tengo sed",
+                    "english": "I am thirsty",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Tengo sueño",
+                    "english": "I am sleepy",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Tengo frío",
+                    "english": "I am cold",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Tengo calor",
+                    "english": "I am hot",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Tengo miedo",
+                    "english": "I am afraid",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Tengo prisa",
+                    "english": "I am in a hurry",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Tengo razón",
+                    "english": "I am right",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Tengo suerte",
+                    "english": "I am lucky",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 3,
+            "title": "Family Members (Masculine)",
+            "vocabularyItems": [
+                {
+                    "targetText": "el padre",
+                    "english": "the father",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el hijo",
+                    "english": "the son",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el hermano",
+                    "english": "the brother",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el abuelo",
+                    "english": "the grandfather",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el tío",
+                    "english": "the uncle",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el primo",
+                    "english": "the cousin (masc)",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el esposo",
+                    "english": "the husband",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el nieto",
+                    "english": "the grandson",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el sobrino",
+                    "english": "the nephew",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el yerno",
+                    "english": "the son-in-law",
+                    "type": "noun",
+                    "gender": "m"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 4,
+            "title": "Family Members (Feminine)",
+            "vocabularyItems": [
+                {
+                    "targetText": "la madre",
+                    "english": "the mother",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la hija",
+                    "english": "the daughter",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la hermana",
+                    "english": "the sister",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la abuela",
+                    "english": "the grandmother",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la tía",
+                    "english": "the aunt",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la prima",
+                    "english": "the cousin (fem)",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la esposa",
+                    "english": "the wife",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la nieta",
+                    "english": "the granddaughter",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la sobrina",
+                    "english": "the niece",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la nuera",
+                    "english": "the daughter-in-law",
+                    "type": "noun",
+                    "gender": "f"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 5,
+            "title": "Possessions (Masculine)",
+            "vocabularyItems": [
+                {
+                    "targetText": "el libro",
+                    "english": "the book",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el teléfono",
+                    "english": "the phone",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el coche",
+                    "english": "the car",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el ordenador",
+                    "english": "the computer",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el reloj",
+                    "english": "the watch/clock",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el dinero",
+                    "english": "the money",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el bolígrafo",
+                    "english": "the pen",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el cuaderno",
+                    "english": "the notebook",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el lápiz",
+                    "english": "the pencil",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el papel",
+                    "english": "the paper",
+                    "type": "noun",
+                    "gender": "m"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 6,
+            "title": "Possessions (Feminine)",
+            "vocabularyItems": [
+                {
+                    "targetText": "la casa",
+                    "english": "the house",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la mesa",
+                    "english": "the table",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la silla",
+                    "english": "the chair",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la puerta",
+                    "english": "the door",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la ventana",
+                    "english": "the window",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la cama",
+                    "english": "the bed",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la computadora",
+                    "english": "the computer",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la mochila",
+                    "english": "the backpack",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la cartera",
+                    "english": "the wallet",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la llave",
+                    "english": "the key",
+                    "type": "noun",
+                    "gender": "f"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 7,
+            "title": "Irregular Nouns - Gender Exceptions",
+            "vocabularyItems": [
+                {
+                    "targetText": "la mano",
+                    "english": "the hand",
+                    "type": "noun",
+                    "gender": "f",
+                    "notes": "EXCEPTION: ends in -o but feminine!"
+                },
+                {
+                    "targetText": "el día",
+                    "english": "the day",
+                    "type": "noun",
+                    "gender": "m",
+                    "notes": "EXCEPTION: ends in -a but masculine!"
+                },
+                {
+                    "targetText": "el mapa",
+                    "english": "the map",
+                    "type": "noun",
+                    "gender": "m",
+                    "notes": "EXCEPTION: ends in -a but masculine!"
+                },
+                {
+                    "targetText": "el problema",
+                    "english": "the problem",
+                    "type": "noun",
+                    "gender": "m",
+                    "notes": "EXCEPTION: ends in -a but masculine!"
+                },
+                {
+                    "targetText": "el sistema",
+                    "english": "the system",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el programa",
+                    "english": "the program",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el idioma",
+                    "english": "the language",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "la foto",
+                    "english": "the photo",
+                    "type": "noun",
+                    "gender": "f",
+                    "notes": "short for fotografía"
+                },
+                {
+                    "targetText": "la moto",
+                    "english": "the motorcycle",
+                    "type": "noun",
+                    "gender": "f",
+                    "notes": "short for motocicleta"
+                },
+                {
+                    "targetText": "la radio",
+                    "english": "the radio",
+                    "type": "noun",
+                    "gender": "f"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 8,
+            "title": "Clothing (Masculine)",
+            "vocabularyItems": [
+                {
+                    "targetText": "el sombrero",
+                    "english": "the hat",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el zapato",
+                    "english": "the shoe",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el calcetín",
+                    "english": "the sock",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el pantalón",
+                    "english": "the pants",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el vestido",
+                    "english": "the dress",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el abrigo",
+                    "english": "the coat",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el traje",
+                    "english": "the suit",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el cinturón",
+                    "english": "the belt",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el guante",
+                    "english": "the glove",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el suéter",
+                    "english": "the sweater",
+                    "type": "noun",
+                    "gender": "m"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 9,
+            "title": "Clothing (Feminine)",
+            "vocabularyItems": [
+                {
+                    "targetText": "la camisa",
+                    "english": "the shirt",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la camiseta",
+                    "english": "the t-shirt",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la falda",
+                    "english": "the skirt",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la chaqueta",
+                    "english": "the jacket",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la blusa",
+                    "english": "the blouse",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la corbata",
+                    "english": "the tie",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la bufanda",
+                    "english": "the scarf",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la gorra",
+                    "english": "the cap",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la bota",
+                    "english": "the boot",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "la sandalia",
+                    "english": "the sandal",
+                    "type": "noun",
+                    "gender": "f"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 10,
+            "title": "TENER Expressions",
+            "vocabularyItems": [
+                {
+                    "targetText": "Tengo que estudiar",
+                    "english": "I have to study",
+                    "type": "phrase",
+                    "notes": "TENER QUE + infinitive = obligation"
+                },
+                {
+                    "targetText": "Tengo ganas de comer",
+                    "english": "I feel like eating",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Tengo cuidado",
+                    "english": "I am careful",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Tengo éxito",
+                    "english": "I am successful",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Tengo vergüenza",
+                    "english": "I am embarrassed",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Tengo celos",
+                    "english": "I am jealous",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Tengo paciencia",
+                    "english": "I am patient",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "No tengo idea",
+                    "english": "I have no idea",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Tengo tiempo",
+                    "english": "I have time",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Tengo dolor",
+                    "english": "I have pain",
+                    "type": "phrase"
+                }
+            ]
+        }
+    ],
+    "liarGameData": {
+        "question": "La ___ es pequeña",
+        "questionEnglish": "The hand is small",
+        "correctAnswer": "mano",
+        "liarAnswer": "el mano",
+        "explanation": "LA MANO is feminine despite ending in -o! This is a critical gender exception. Always use LA mano, never EL mano.",
+        "trapType": "gender_exception"
+    }
+}

@@ -151,7 +151,7 @@ class _LiarGamePageState extends State<LiarGamePage> {
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
                             Text(
-                              currentLesson['targetText'] ?? '',
+                              currentLesson['target_text'] ?? '',
                               style: const TextStyle(
                                 fontSize: 48,
                                 fontWeight: FontWeight.bold,
@@ -159,7 +159,7 @@ class _LiarGamePageState extends State<LiarGamePage> {
                             ),
                             IconButton(
                               icon: Icon(Icons.volume_up, size: 32, color: Colors.deepPurple.shade700),
-                              onPressed: () => _speak(currentLesson['targetText'] ?? ''),
+                              onPressed: () => _speak(currentLesson['target_text'] ?? ''),
                             ),
                           ],
                         ),

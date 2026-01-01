@@ -1,0 +1,612 @@
+{
+    "moduleId": "ja_a2_m12",
+    "theme": "Travel & Transportation",
+    "order": 12,
+    "vocabularyItems": [
+        {
+            "word": "直行便",
+            "reading": "chokkoubin",
+            "meaning": "Direct flight",
+            "example_sentence": "直行便で行きましょう。"
+        },
+        {
+            "word": "乗り換え",
+            "reading": "norikae",
+            "meaning": "Transfer",
+            "example_sentence": "次の駅で乗り換えです。"
+        },
+        {
+            "word": "遅延",
+            "reading": "chien",
+            "meaning": "Delay",
+            "example_sentence": "雪の影響で遅延しています。"
+        },
+        {
+            "word": "欠航",
+            "reading": "kekkou",
+            "meaning": "Flight cancellation",
+            "example_sentence": "台風で欠航になりました。"
+        },
+        {
+            "word": "手荷物",
+            "reading": "tenimotsu",
+            "meaning": "Carry-on luggage",
+            "example_sentence": "手荷物を預けます。"
+        },
+        {
+            "word": "預け入れ荷物",
+            "reading": "azukeire nimotsu",
+            "meaning": "Checked luggage",
+            "example_sentence": "大きな荷物は預けます。"
+        },
+        {
+            "word": "入国審査",
+            "reading": "nyuukoku shinsa",
+            "meaning": "Immigration",
+            "example_sentence": "入国審査に時間がかかりました。"
+        },
+        {
+            "word": "税関",
+            "reading": "zeikan",
+            "meaning": "Customs",
+            "example_sentence": "税関で申告します。"
+        },
+        {
+            "word": "免税店",
+            "reading": "menzeiten",
+            "meaning": "Duty-free shop",
+            "example_sentence": "免税店でお土産を買います。"
+        },
+        {
+            "word": "両替",
+            "reading": "ryougae",
+            "meaning": "Currency exchange",
+            "example_sentence": "円をドルに両替します。"
+        },
+        {
+            "word": "宿泊",
+            "reading": "shukuhaku",
+            "meaning": "Lodging",
+            "example_sentence": "ホテルに宿泊します。"
+        },
+        {
+            "word": "旅館",
+            "reading": "ryokan",
+            "meaning": "Japanese Inn",
+            "example_sentence": "日本の旅館に泊まりたいです。"
+        },
+        {
+            "word": "素泊まり",
+            "reading": "sudomari",
+            "meaning": "Overnight stay without meals",
+            "example_sentence": "今日は素泊まりの予定です。"
+        },
+        {
+            "word": "民宿",
+            "reading": "minshuku",
+            "meaning": "Private home B&B",
+            "example_sentence": "民宿で家庭料理を楽しみます。"
+        },
+        {
+            "word": "予約",
+            "reading": "yoyaku",
+            "meaning": "Reservation",
+            "example_sentence": "レストランを予約しました。"
+        },
+        {
+            "word": "キャンセル",
+            "reading": "kyanseru",
+            "meaning": "Cancellation",
+            "example_sentence": "予約をキャンセルします。"
+        },
+        {
+            "word": "観光地",
+            "reading": "kankouchi",
+            "meaning": "Tourist spot",
+            "example_sentence": "有名な観光地に行きました。"
+        },
+        {
+            "word": "ガイドブック",
+            "reading": "gaidobukku",
+            "meaning": "Guidebook",
+            "example_sentence": "ガイドブックで調べます。"
+        },
+        {
+            "word": "地図",
+            "reading": "chizu",
+            "meaning": "Map",
+            "example_sentence": "地図を見て歩きます。"
+        },
+        {
+            "word": "迷う",
+            "reading": "mayou",
+            "meaning": "To get lost",
+            "example_sentence": "道に迷ってしまいました。"
+        },
+        {
+            "word": "名所",
+            "reading": "meisho",
+            "meaning": "Famous place",
+            "example_sentence": "京都の名所を巡ります。"
+        },
+        {
+            "word": "史跡",
+            "reading": "shiseki",
+            "meaning": "Historical sites",
+            "example_sentence": "史跡を訪ねる旅です。"
+        },
+        {
+            "word": "遺産",
+            "reading": "isan",
+            "meaning": "Heritage",
+            "example_sentence": "世界遺産に登録されました。"
+        },
+        {
+            "word": "温泉",
+            "reading": "onsen",
+            "meaning": "Hot spring",
+            "example_sentence": "温泉でゆっくりします。"
+        },
+        {
+            "word": "露天風呂",
+            "reading": "rotenburo",
+            "meaning": "Open-air bath",
+            "example_sentence": "露天風呂は最高です。"
+        },
+        {
+            "word": "日帰り",
+            "reading": "higaeri",
+            "meaning": "Day trip",
+            "example_sentence": "箱根へ日帰りで行きます。"
+        },
+        {
+            "word": "一泊二日",
+            "reading": "ippaku futsuka",
+            "meaning": "Two days, one night",
+            "example_sentence": "一泊二日の旅行です。"
+        },
+        {
+            "word": "週末旅行",
+            "reading": "shuumatsu ryokou",
+            "meaning": "Weekend trip",
+            "example_sentence": "週末旅行を計画します。"
+        },
+        {
+            "word": "個人旅行",
+            "reading": "kojin ryokou",
+            "meaning": "Individual travel",
+            "example_sentence": "個人旅行の方が自由です。"
+        },
+        {
+            "word": "団体旅行",
+            "reading": "dan'tai ryokou",
+            "meaning": "Group travel",
+            "example_sentence": "団体旅行に参加します。"
+        },
+        {
+            "word": "パックツアー",
+            "reading": "pakkutsuaa",
+            "meaning": "Package tour",
+            "example_sentence": "安いパックツアーを探します。"
+        },
+        {
+            "word": "レンタカー",
+            "reading": "rentakaa",
+            "meaning": "Rental car",
+            "example_sentence": "現地でレンタカーを借ります。"
+        },
+        {
+            "word": "運転免許証",
+            "reading": "unten menkyoshou",
+            "meaning": "Driver's license",
+            "example_sentence": "免許証を忘れました。"
+        },
+        {
+            "word": "交通手段",
+            "reading": "koutsuu shudan",
+            "meaning": "Means of transport",
+            "example_sentence": "便利な交通手段を使います。"
+        },
+        {
+            "word": "切符売り場",
+            "reading": "kippu uriba",
+            "meaning": "Ticket counter",
+            "example_sentence": "切符売り場はどこですか？"
+        },
+        {
+            "word": "特急",
+            "reading": "tokkyuu",
+            "meaning": "Limited express",
+            "example_sentence": "特急に乗って行きます。"
+        },
+        {
+            "word": "指定席",
+            "reading": "shiteiseki",
+            "meaning": "Reserved seat",
+            "example_sentence": "指定席を確保しました。"
+        },
+        {
+            "word": "自由席",
+            "reading": "jiyuuseki",
+            "meaning": "Non-reserved seat",
+            "example_sentence": "自由席は混んでいます。"
+        },
+        {
+            "word": "窓側",
+            "reading": "madogawa",
+            "meaning": "Window seat",
+            "example_sentence": "窓側の席がいいです。"
+        },
+        {
+            "word": "通路側",
+            "reading": "tsuurogawa",
+            "meaning": "Aisle seat",
+            "example_sentence": "通路側の席をお願いします。"
+        },
+        {
+            "word": "改札口",
+            "reading": "kaisatsuguchi",
+            "meaning": "Ticket gate",
+            "example_sentence": "改札口で待ち合わせます。"
+        },
+        {
+            "word": "ホーム",
+            "reading": "hoomu",
+            "meaning": "Platform",
+            "example_sentence": "1番ホームに来てください。"
+        },
+        {
+            "word": "方面",
+            "reading": "houmen",
+            "meaning": "Direction/Bound for",
+            "example_sentence": "新宿方面の電車です。"
+        },
+        {
+            "word": "各駅停車",
+            "reading": "kakuekiteisha",
+            "meaning": "Local train",
+            "example_sentence": "各駅停車でゆっくり行きます。"
+        },
+        {
+            "word": "快速",
+            "reading": "kaisoku",
+            "meaning": "Rapid train",
+            "example_sentence": "快速は停まりません。"
+        },
+        {
+            "word": "路面電車",
+            "reading": "romendensha",
+            "meaning": "Tram",
+            "example_sentence": "路面電車に乗りました。"
+        },
+        {
+            "word": "船",
+            "reading": "fune",
+            "meaning": "Ship/Boat",
+            "example_sentence": "船で島へ渡ります。"
+        },
+        {
+            "word": "フェリー",
+            "reading": "ferii",
+            "meaning": "Ferry",
+            "example_sentence": "フェリーで夜を越します。"
+        },
+        {
+            "word": "航路",
+            "reading": "kouro",
+            "meaning": "Sea route",
+            "example_sentence": "航路を確認します。"
+        },
+        {
+            "word": "機内食",
+            "reading": "kinaishoku",
+            "meaning": "In-flight meal",
+            "example_sentence": "機内食が楽しみです。"
+        },
+        {
+            "word": "離陸",
+            "reading": "ririku",
+            "meaning": "Take-off",
+            "example_sentence": "離陸の準備ができました。"
+        },
+        {
+            "word": "着陸",
+            "reading": "chakuriku",
+            "meaning": "Landing",
+            "example_sentence": "無事、着陸しました。"
+        },
+        {
+            "word": "滑走路",
+            "reading": "kassouro",
+            "meaning": "Runway",
+            "example_sentence": "滑走路を走ります。"
+        },
+        {
+            "word": "時差",
+            "reading": "jisa",
+            "meaning": "Time difference",
+            "example_sentence": "時差が大きいです。"
+        },
+        {
+            "word": "時差ボケ",
+            "reading": "jisaboke",
+            "meaning": "Jet lag",
+            "example_sentence": "時差ボケで眠いです。"
+        },
+        {
+            "word": "土産話",
+            "reading": "miyagebanashi",
+            "meaning": "Travel stories",
+            "example_sentence": "土産話を楽しみにしてます。"
+        },
+        {
+            "word": "記念品",
+            "reading": "kinenhin",
+            "meaning": "Souvenir",
+            "example_sentence": "記念品を買いました。"
+        },
+        {
+            "word": "特産品",
+            "reading": "tokusanhin",
+            "meaning": "Local specialty",
+            "example_sentence": "特産品を食べます。"
+        },
+        {
+            "word": "伝統工芸",
+            "reading": "dentou kougei",
+            "meaning": "Traditional craft",
+            "example_sentence": "伝統工芸を体験します。"
+        },
+        {
+            "word": "祭り",
+            "reading": "matsuri",
+            "meaning": "Festival",
+            "example_sentence": "夏祭りに行きました。"
+        },
+        {
+            "word": "絶景",
+            "reading": "zekkei",
+            "meaning": "Superb view",
+            "example_sentence": "ここからの景色は絶景です。"
+        },
+        {
+            "word": "撮影",
+            "reading": "satsuei",
+            "meaning": "Photography",
+            "example_sentence": "撮影は禁止です。"
+        },
+        {
+            "word": "自撮り",
+            "reading": "jidori",
+            "meaning": "Selfie",
+            "example_sentence": "みんなで自撮りをします。"
+        },
+        {
+            "word": "記念写真",
+            "reading": "kinen shashin",
+            "meaning": "Commemorative photo",
+            "example_sentence": "記念写真を撮りましょう。"
+        },
+        {
+            "word": "絵葉書",
+            "reading": "ehagaki",
+            "meaning": "Picture postcard",
+            "example_sentence": "故郷に絵葉書を書きます。"
+        },
+        {
+            "word": "海外旅行",
+            "reading": "kaigai ryokou",
+            "meaning": "Overseas travel",
+            "example_sentence": "海外旅行が趣味です。"
+        },
+        {
+            "word": "国内旅行",
+            "reading": "kokunai ryokou",
+            "meaning": "Domestic travel",
+            "example_sentence": "国内旅行も楽しいです。"
+        },
+        {
+            "word": "探検",
+            "reading": "tanken",
+            "meaning": "Exploration",
+            "example_sentence": "洞窟を探検します。"
+        },
+        {
+            "word": "冒険",
+            "reading": "bouken",
+            "meaning": "Adventure",
+            "example_sentence": "冒険の旅に出ます。"
+        },
+        {
+            "word": "身分証明書",
+            "reading": "mibun shoumeisho",
+            "meaning": "ID document",
+            "example_sentence": "身分証明書を見せてください。"
+        },
+        {
+            "word": "旅券",
+            "reading": "ryoken",
+            "meaning": "Passport",
+            "example_sentence": "旅券の更新をします。"
+        },
+        {
+            "word": "査証",
+            "reading": "sashou",
+            "meaning": "Visa",
+            "example_sentence": "査証の申請をします。"
+        },
+        {
+            "word": "滞在",
+            "reading": "taizai",
+            "meaning": "Stay",
+            "example_sentence": "1週間滞在します。"
+        },
+        {
+            "word": "延長",
+            "reading": "enchou",
+            "meaning": "Extension",
+            "example_sentence": "滞在を延長します。"
+        },
+        {
+            "word": "帰国",
+            "reading": "kikoku",
+            "meaning": "Return to country",
+            "example_sentence": "来週帰国します。"
+        },
+        {
+            "word": "貴重品",
+            "reading": "kichouhin",
+            "meaning": "Valuables",
+            "example_sentence": "貴重品は金庫へ。"
+        },
+        {
+            "word": "防犯",
+            "reading": "bouhan",
+            "meaning": "Crime prevention",
+            "example_sentence": "防犯に気をつけます。"
+        },
+        {
+            "word": "緊急",
+            "reading": "kinkyuu",
+            "meaning": "Emergency",
+            "example_sentence": "緊急連絡先です。"
+        },
+        {
+            "word": "大使館",
+            "reading": "taishikan",
+            "meaning": "Embassy",
+            "example_sentence": "日本大使館へ行きます。"
+        },
+        {
+            "word": "領事館",
+            "reading": "ryoujikan",
+            "meaning": "Consulate",
+            "example_sentence": "領事館で手続きします。"
+        },
+        {
+            "word": "保険",
+            "reading": "hoken",
+            "meaning": "Insurance",
+            "example_sentence": "旅行保険に入ります。"
+        },
+        {
+            "word": "補償",
+            "reading": "hoshou",
+            "meaning": "Compensation",
+            "example_sentence": "盗難の補償があります。"
+        },
+        {
+            "word": "現地",
+            "reading": "genchi",
+            "meaning": "Local/Site",
+            "example_sentence": "現地の集合場所です。"
+        },
+        {
+            "word": "移動",
+            "reading": "idou",
+            "meaning": "Movement",
+            "example_sentence": "徒歩で移動します。"
+        },
+        {
+            "word": "徒歩",
+            "reading": "toho",
+            "meaning": "Walking",
+            "example_sentence": "駅から徒歩10分です。"
+        },
+        {
+            "word": "距離",
+            "reading": "kyori",
+            "meaning": "Distance",
+            "example_sentence": "距離が離れています。"
+        },
+        {
+            "word": "時間制限",
+            "reading": "jikan seigen",
+            "meaning": "Time limit",
+            "example_sentence": "時間制限があります。"
+        },
+        {
+            "word": "自由行動",
+            "reading": "jiyuukoudou",
+            "meaning": "Free time",
+            "example_sentence": "午後は自由行動です。"
+        },
+        {
+            "word": "集合",
+            "reading": "shuugou",
+            "meaning": "Gathering",
+            "example_sentence": "ロビーに集合してください。"
+        },
+        {
+            "word": "解散",
+            "reading": "kaisan",
+            "meaning": "Dismissal",
+            "example_sentence": "ここで解散します。"
+        },
+        {
+            "word": "体調",
+            "reading": "taichou",
+            "meaning": "Physical condition",
+            "example_sentence": "体調が良くありません。"
+        },
+        {
+            "word": "めまい",
+            "reading": "memai",
+            "meaning": "Dizziness",
+            "example_sentence": "めまいがして倒れそうでした。"
+        },
+        {
+            "word": "診察",
+            "reading": "shinsatsu",
+            "meaning": "Medical examination",
+            "example_sentence": "医者の診察を受けます。"
+        },
+        {
+            "word": "内科",
+            "reading": "naika",
+            "meaning": "Internal medicine",
+            "example_sentence": "内科を受診します。"
+        },
+        {
+            "word": "外科",
+            "reading": "geka",
+            "meaning": "Surgery/Surgical dept.",
+            "example_sentence": "外科で傷を縫いました。"
+        },
+        {
+            "word": "眼科",
+            "reading": "ganka",
+            "meaning": "Ophthalmology",
+            "example_sentence": "眼科で検査をします。"
+        },
+        {
+            "word": "耳鼻科",
+            "reading": "jibika",
+            "meaning": "Otolaryngology (ENT)",
+            "example_sentence": "耳鼻科で耳を見てもらいます。"
+        },
+        {
+            "word": "歯科",
+            "reading": "shika",
+            "meaning": "Dentistry",
+            "example_sentence": "歯科検診に行きます。"
+        },
+        {
+            "word": "歯医者",
+            "reading": "haisha",
+            "meaning": "品質/Dentist",
+            "example_sentence": "歯医者が怖いです。"
+        },
+        {
+            "word": "処方",
+            "reading": "shohou",
+            "meaning": "Prescription",
+            "example_sentence": "薬を処方してもらいました。"
+        }
+    ],
+    "liarGameData": {
+        "trap": "タクシーに乗るとき、自分でドアを開けた。(Opened the taxi door myself.)",
+        "correctVersion": "タクシーのドアは自動なので、開くのを待った。(Wait for the automatic door to open.)",
+        "explanation": "In Japan, taxi doors are automatic and operated by the driver. Attempting to open or close them yourself can damage the mechanism or surprise the driver. Just wait for it to swing open!"
+    }
+}

@@ -1,0 +1,611 @@
+{
+  "modules": [
+    {
+      "moduleId": "fr_a1_m1",
+      "theme": "Greetings & Basics",
+      "order": 1,
+      "vocabularyItems": [
+        {
+          "word": "Bonjour",
+          "meaning": "Hello/Good morning",
+          "reading": null,
+          "example_sentence": "Bonjour madame"
+        },
+        {
+          "word": "Salut",
+          "meaning": "Hi (informal)",
+          "reading": null,
+          "example_sentence": "Salut Pierre!"
+        },
+        {
+          "word": "Bonsoir",
+          "meaning": "Good evening",
+          "reading": null,
+          "example_sentence": "Bonsoir monsieur"
+        },
+        {
+          "word": "Bonne nuit",
+          "meaning": "Good night",
+          "reading": null,
+          "example_sentence": "Bonne nuit maman"
+        },
+        {
+          "word": "Au revoir",
+          "meaning": "Goodbye",
+          "reading": null,
+          "example_sentence": "Au revoir mes amis"
+        },
+        {
+          "word": "Merci",
+          "meaning": "Thank you",
+          "reading": null,
+          "example_sentence": "Merci beaucoup"
+        },
+        {
+          "word": "S'il vous plaît",
+          "meaning": "Please (formal)",
+          "reading": null,
+          "example_sentence": "Un café, s'il vous plaît"
+        },
+        {
+          "word": "Excusez-moi",
+          "meaning": "Excuse me",
+          "reading": null,
+          "example_sentence": "Excusez-moi monsieur"
+        },
+        {
+          "word": "Pardon",
+          "meaning": "Sorry/Pardon",
+          "reading": null,
+          "example_sentence": "Pardon, je suis désolé"
+        },
+        {
+          "word": "Oui",
+          "meaning": "Yes",
+          "reading": null,
+          "example_sentence": "Oui, c'est vrai"
+        },
+        {
+          "word": "Non",
+          "meaning": "No",
+          "reading": null,
+          "example_sentence": "Non, merci"
+        },
+        {
+          "word": "Je",
+          "meaning": "I",
+          "reading": null,
+          "example_sentence": "Je suis étudiant"
+        },
+        {
+          "word": "Tu",
+          "meaning": "You (informal)",
+          "reading": null,
+          "example_sentence": "Tu es français?"
+        },
+        {
+          "word": "Il",
+          "meaning": "He",
+          "reading": null,
+          "example_sentence": "Il est grand"
+        },
+        {
+          "word": "Elle",
+          "meaning": "She",
+          "reading": null,
+          "example_sentence": "Elle est belle"
+        },
+        {
+          "word": "Nous",
+          "meaning": "We",
+          "reading": null,
+          "example_sentence": "Nous sommes amis"
+        },
+        {
+          "word": "Vous",
+          "meaning": "You (formal/plural)",
+          "reading": null,
+          "example_sentence": "Vous êtes professeur?"
+        },
+        {
+          "word": "Ils",
+          "meaning": "They (masculine)",
+          "reading": null,
+          "example_sentence": "Ils sont contents"
+        },
+        {
+          "word": "Elles",
+          "meaning": "They (feminine)",
+          "reading": null,
+          "example_sentence": "Elles sont françaises"
+        },
+        {
+          "word": "Être",
+          "meaning": "To be",
+          "reading": null,
+          "example_sentence": "Je suis heureux"
+        },
+        {
+          "word": "Avoir",
+          "meaning": "To have",
+          "reading": null,
+          "example_sentence": "J'ai un chat"
+        },
+        {
+          "word": "Aller",
+          "meaning": "To go",
+          "reading": null,
+          "example_sentence": "Je vais à Paris"
+        },
+        {
+          "word": "Faire",
+          "meaning": "To do/make",
+          "reading": null,
+          "example_sentence": "Je fais mes devoirs"
+        },
+        {
+          "word": "Parler",
+          "meaning": "To speak",
+          "reading": null,
+          "example_sentence": "Je parle français"
+        },
+        {
+          "word": "Manger",
+          "meaning": "To eat",
+          "reading": null,
+          "example_sentence": "Je mange du pain"
+        },
+        {
+          "word": "Boire",
+          "meaning": "To drink",
+          "reading": null,
+          "example_sentence": "Je bois de l'eau"
+        },
+        {
+          "word": "Venir",
+          "meaning": "To come",
+          "reading": null,
+          "example_sentence": "Je viens de France"
+        },
+        {
+          "word": "Voir",
+          "meaning": "To see",
+          "reading": null,
+          "example_sentence": "Je vois la tour Eiffel"
+        },
+        {
+          "word": "Prendre",
+          "meaning": "To take",
+          "reading": null,
+          "example_sentence": "Je prends le métro"
+        },
+        {
+          "word": "Donner",
+          "meaning": "To give",
+          "reading": null,
+          "example_sentence": "Je donne un cadeau"
+        },
+        {
+          "word": "Comment",
+          "meaning": "How",
+          "reading": null,
+          "example_sentence": "Comment allez-vous?"
+        },
+        {
+          "word": "Quoi",
+          "meaning": "What",
+          "reading": null,
+          "example_sentence": "Quoi de neuf?"
+        },
+        {
+          "word": "Qui",
+          "meaning": "Who",
+          "reading": null,
+          "example_sentence": "Qui est-ce?"
+        },
+        {
+          "word": "Où",
+          "meaning": "Where",
+          "reading": null,
+          "example_sentence": "Où est la gare?"
+        },
+        {
+          "word": "Quand",
+          "meaning": "When",
+          "reading": null,
+          "example_sentence": "Quand partez-vous?"
+        },
+        {
+          "word": "Pourquoi",
+          "meaning": "Why",
+          "reading": null,
+          "example_sentence": "Pourquoi pas?"
+        },
+        {
+          "word": "Combien",
+          "meaning": "How much/many",
+          "reading": null,
+          "example_sentence": "Combien ça coûte?"
+        },
+        {
+          "word": "Quel",
+          "meaning": "Which/What",
+          "reading": null,
+          "example_sentence": "Quel âge as-tu?"
+        },
+        {
+          "word": "Voici",
+          "meaning": "Here is",
+          "reading": null,
+          "example_sentence": "Voici mon ami"
+        },
+        {
+          "word": "Voilà",
+          "meaning": "There is",
+          "reading": null,
+          "example_sentence": "Voilà le livre"
+        },
+        {
+          "word": "Un",
+          "meaning": "One",
+          "reading": null,
+          "example_sentence": "Un chat"
+        },
+        {
+          "word": "Deux",
+          "meaning": "Two",
+          "reading": null,
+          "example_sentence": "Deux chiens"
+        },
+        {
+          "word": "Trois",
+          "meaning": "Three",
+          "reading": null,
+          "example_sentence": "Trois pommes"
+        },
+        {
+          "word": "Quatre",
+          "meaning": "Four",
+          "reading": null,
+          "example_sentence": "Quatre livres"
+        },
+        {
+          "word": "Cinq",
+          "meaning": "Five",
+          "reading": null,
+          "example_sentence": "Cinq euros"
+        },
+        {
+          "word": "Six",
+          "meaning": "Six",
+          "reading": null,
+          "example_sentence": "Six heures"
+        },
+        {
+          "word": "Sept",
+          "meaning": "Seven",
+          "reading": null,
+          "example_sentence": "Sept jours"
+        },
+        {
+          "word": "Huit",
+          "meaning": "Eight",
+          "reading": null,
+          "example_sentence": "Huit ans"
+        },
+        {
+          "word": "Neuf",
+          "meaning": "Nine",
+          "reading": null,
+          "example_sentence": "Neuf mois"
+        },
+        {
+          "word": "Dix",
+          "meaning": "Ten",
+          "reading": null,
+          "example_sentence": "Dix minutes"
+        },
+        {
+          "word": "Aujourd'hui",
+          "meaning": "Today",
+          "reading": null,
+          "example_sentence": "Aujourd'hui il fait beau"
+        },
+        {
+          "word": "Demain",
+          "meaning": "Tomorrow",
+          "reading": null,
+          "example_sentence": "À demain!"
+        },
+        {
+          "word": "Hier",
+          "meaning": "Yesterday",
+          "reading": null,
+          "example_sentence": "Hier j'étais malade"
+        },
+        {
+          "word": "Maintenant",
+          "meaning": "Now",
+          "reading": null,
+          "example_sentence": "Je pars maintenant"
+        },
+        {
+          "word": "Toujours",
+          "meaning": "Always",
+          "reading": null,
+          "example_sentence": "Je t'aime toujours"
+        },
+        {
+          "word": "Jamais",
+          "meaning": "Never",
+          "reading": null,
+          "example_sentence": "Je ne fume jamais"
+        },
+        {
+          "word": "Souvent",
+          "meaning": "Often",
+          "reading": null,
+          "example_sentence": "Je vais souvent au cinéma"
+        },
+        {
+          "word": "Parfois",
+          "meaning": "Sometimes",
+          "reading": null,
+          "example_sentence": "Parfois je lis"
+        },
+        {
+          "word": "Père",
+          "meaning": "Father",
+          "reading": null,
+          "example_sentence": "Mon père travaille"
+        },
+        {
+          "word": "Mère",
+          "meaning": "Mother",
+          "reading": null,
+          "example_sentence": "Ma mère cuisine"
+        },
+        {
+          "word": "Frère",
+          "meaning": "Brother",
+          "reading": null,
+          "example_sentence": "Mon frère est grand"
+        },
+        {
+          "word": "Sœur",
+          "meaning": "Sister",
+          "reading": null,
+          "example_sentence": "Ma sœur est petite"
+        },
+        {
+          "word": "Fils",
+          "meaning": "Son",
+          "reading": null,
+          "example_sentence": "C'est mon fils"
+        },
+        {
+          "word": "Fille",
+          "meaning": "Daughter/Girl",
+          "reading": null,
+          "example_sentence": "Ma fille est jolie"
+        },
+        {
+          "word": "Ami",
+          "meaning": "Friend (m)",
+          "reading": null,
+          "example_sentence": "C'est mon ami"
+        },
+        {
+          "word": "Amie",
+          "meaning": "Friend (f)",
+          "reading": null,
+          "example_sentence": "C'est mon amie"
+        },
+        {
+          "word": "Maison",
+          "meaning": "House",
+          "reading": null,
+          "example_sentence": "J'habite dans une maison"
+        },
+        {
+          "word": "Appartement",
+          "meaning": "Apartment",
+          "reading": null,
+          "example_sentence": "J'ai un appartement"
+        },
+        {
+          "word": "Rue",
+          "meaning": "Street",
+          "reading": null,
+          "example_sentence": "J'habite rue Victor Hugo"
+        },
+        {
+          "word": "Ville",
+          "meaning": "City",
+          "reading": null,
+          "example_sentence": "Paris est une belle ville"
+        },
+        {
+          "word": "Pays",
+          "meaning": "Country",
+          "reading": null,
+          "example_sentence": "La France est un pays"
+        },
+        {
+          "word": "École",
+          "meaning": "School",
+          "reading": null,
+          "example_sentence": "Je vais à l'école"
+        },
+        {
+          "word": "Université",
+          "meaning": "University",
+          "reading": null,
+          "example_sentence": "Je suis à l'université"
+        },
+        {
+          "word": "Travail",
+          "meaning": "Work",
+          "reading": null,
+          "example_sentence": "Je vais au travail"
+        },
+        {
+          "word": "Bureau",
+          "meaning": "Office",
+          "reading": null,
+          "example_sentence": "Je suis au bureau"
+        },
+        {
+          "word": "Magasin",
+          "meaning": "Store",
+          "reading": null,
+          "example_sentence": "Je vais au magasin"
+        },
+        {
+          "word": "Restaurant",
+          "meaning": "Restaurant",
+          "reading": null,
+          "example_sentence": "On mange au restaurant"
+        },
+        {
+          "word": "Café",
+          "meaning": "Café/Coffee",
+          "reading": null,
+          "example_sentence": "Un café, s'il vous plaît"
+        },
+        {
+          "word": "Hôtel",
+          "meaning": "Hotel",
+          "reading": null,
+          "example_sentence": "Je dors à l'hôtel"
+        },
+        {
+          "word": "Gare",
+          "meaning": "Train station",
+          "reading": null,
+          "example_sentence": "La gare est loin"
+        },
+        {
+          "word": "Pain",
+          "meaning": "Bread",
+          "reading": null,
+          "example_sentence": "J'achète du pain"
+        },
+        {
+          "word": "Eau",
+          "meaning": "Water",
+          "reading": null,
+          "example_sentence": "Je bois de l'eau"
+        },
+        {
+          "word": "Vin",
+          "meaning": "Wine",
+          "reading": null,
+          "example_sentence": "Un verre de vin"
+        },
+        {
+          "word": "Fromage",
+          "meaning": "Cheese",
+          "reading": null,
+          "example_sentence": "J'aime le fromage"
+        },
+        {
+          "word": "Viande",
+          "meaning": "Meat",
+          "reading": null,
+          "example_sentence": "Je mange de la viande"
+        },
+        {
+          "word": "Poisson",
+          "meaning": "Fish",
+          "reading": null,
+          "example_sentence": "Du poisson frais"
+        },
+        {
+          "word": "Légume",
+          "meaning": "Vegetable",
+          "reading": null,
+          "example_sentence": "Des légumes verts"
+        },
+        {
+          "word": "Fruit",
+          "meaning": "Fruit",
+          "reading": null,
+          "example_sentence": "J'aime les fruits"
+        },
+        {
+          "word": "Pomme",
+          "meaning": "Apple",
+          "reading": null,
+          "example_sentence": "Une pomme rouge"
+        },
+        {
+          "word": "Orange",
+          "meaning": "Orange",
+          "reading": null,
+          "example_sentence": "Une orange juteuse"
+        },
+        {
+          "word": "Grand",
+          "meaning": "Big/Tall",
+          "reading": null,
+          "example_sentence": "Un grand homme"
+        },
+        {
+          "word": "Petit",
+          "meaning": "Small",
+          "reading": null,
+          "example_sentence": "Un petit chat"
+        },
+        {
+          "word": "Bon",
+          "meaning": "Good",
+          "reading": null,
+          "example_sentence": "C'est bon!"
+        },
+        {
+          "word": "Mauvais",
+          "meaning": "Bad",
+          "reading": null,
+          "example_sentence": "C'est mauvais"
+        },
+        {
+          "word": "Beau",
+          "meaning": "Beautiful (m)",
+          "reading": null,
+          "example_sentence": "Un beau garçon"
+        },
+        {
+          "word": "Belle",
+          "meaning": "Beautiful (f)",
+          "reading": null,
+          "example_sentence": "Une belle fille"
+        },
+        {
+          "word": "Nouveau",
+          "meaning": "New",
+          "reading": null,
+          "example_sentence": "Un nouveau livre"
+        },
+        {
+          "word": "Vieux",
+          "meaning": "Old",
+          "reading": null,
+          "example_sentence": "Un vieux monsieur"
+        },
+        {
+          "word": "Jeune",
+          "meaning": "Young",
+          "reading": null,
+          "example_sentence": "Un jeune homme"
+        },
+        {
+          "word": "Heureux",
+          "meaning": "Happy",
+          "reading": null,
+          "example_sentence": "Je suis heureux"
+        }
+      ]
+    }
+  ]
+}

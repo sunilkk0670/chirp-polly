@@ -1,0 +1,610 @@
+{
+  "id": "fr_a2_m16",
+  "moduleId": "fr_a2_m16",
+  "name": "A2 French - Module 16: Environment & Geography",
+  "theme": "A2 French - Module 16: Environment & Geography",
+  "order": 16,
+  "count": 100,
+  "vocabularyItems": [
+    {
+      "word": "Environnement",
+      "meaning": "Environment",
+      "reading": "ah-vee-rohn-mahn",
+      "example_sentence": "Protéger l'environnement."
+    },
+    {
+      "word": "Nature",
+      "meaning": "Nature",
+      "reading": "na-toor",
+      "example_sentence": "Se promener dans la nature."
+    },
+    {
+      "word": "Planète",
+      "meaning": "Planet",
+      "reading": "pla-net",
+      "example_sentence": "Sauver la planète."
+    },
+    {
+      "word": "Terre",
+      "meaning": "Earth / Soil",
+      "reading": "ter",
+      "example_sentence": "La Terre est ronde."
+    },
+    {
+      "word": "Monde",
+      "meaning": "World",
+      "reading": "mohnd",
+      "example_sentence": "Voyager à travers le monde."
+    },
+    {
+      "word": "Climat",
+      "meaning": "Climate",
+      "reading": "klee-ma",
+      "example_sentence": "Le changement climatique."
+    },
+    {
+      "word": "Météo",
+      "meaning": "Weather",
+      "reading": "may-tay-oh",
+      "example_sentence": "Regarder la météo."
+    },
+    {
+      "word": "Saison",
+      "meaning": "Season",
+      "reading": "say-zoh",
+      "example_sentence": "Ma saison préférée est l'automne."
+    },
+    {
+      "word": "Pollution",
+      "meaning": "Pollution",
+      "reading": "poh-loo-syohn",
+      "example_sentence": "La pollution de l'air."
+    },
+    {
+      "word": "Déchets",
+      "meaning": "Waste / Rubbish",
+      "reading": "day-shay",
+      "example_sentence": "Réduire ses déchets."
+    },
+    {
+      "word": "Recyclage",
+      "meaning": "Recycling",
+      "reading": "ruh-see-klazh",
+      "example_sentence": "Le recyclage des plastiques."
+    },
+    {
+      "word": "Énergie",
+      "meaning": "Energy",
+      "reading": "ay-ner-zhee",
+      "example_sentence": "Économiser l'énergie."
+    },
+    {
+      "word": "Écologie",
+      "meaning": "Ecology",
+      "reading": "ay-koh-loh-zhee",
+      "example_sentence": "Un geste pour l'écologie."
+    },
+    {
+      "word": "Durable",
+      "meaning": "Sustainable",
+      "reading": "doo-ra-bluh",
+      "example_sentence": "Le développement durable."
+    },
+    {
+      "word": "Propre",
+      "meaning": "Clean / Own",
+      "reading": "proh-pruh",
+      "example_sentence": "Une ville propre."
+    },
+    {
+      "word": "Sale",
+      "meaning": "Dirty",
+      "reading": "sal",
+      "example_sentence": "La mer est sale."
+    },
+    {
+      "word": "Danger",
+      "meaning": "Danger",
+      "reading": "dahn-zhay",
+      "example_sentence": "Un danger pour l'homme."
+    },
+    {
+      "word": "Risque",
+      "meaning": "Risk",
+      "reading": "reesk",
+      "example_sentence": "Un risque élevé."
+    },
+    {
+      "word": "Protection",
+      "meaning": "Protection",
+      "reading": "proh-tek-syohn",
+      "example_sentence": "La protection des animaux."
+    },
+    {
+      "word": "Préservation",
+      "meaning": "Preservation",
+      "reading": "pray-zer-va-syohn",
+      "example_sentence": "La préservation des forêts."
+    },
+    {
+      "word": "Continent",
+      "meaning": "Continent",
+      "reading": "kohn-tee-nah",
+      "example_sentence": "Le continent africain."
+    },
+    {
+      "word": "Océan",
+      "meaning": "Ocean",
+      "reading": "oh-say-ah",
+      "example_sentence": "L'océan Atlantique."
+    },
+    {
+      "word": "Mer",
+      "meaning": "Sea",
+      "reading": "mer",
+      "example_sentence": "Aller au bord de la mer."
+    },
+    {
+      "word": "Fleuve",
+      "meaning": "River (flows into sea)",
+      "reading": "fluhv",
+      "example_sentence": "La Seine est un fleuve."
+    },
+    {
+      "word": "Rivière",
+      "meaning": "River",
+      "reading": "ree-vyer",
+      "example_sentence": "Une petite rivière."
+    },
+    {
+      "word": "Lac",
+      "meaning": "Lake",
+      "reading": "lak",
+      "example_sentence": "Le lac d'Annecy."
+    },
+    {
+      "word": "Cascade",
+      "meaning": "Waterfall",
+      "reading": "kas-kad",
+      "example_sentence": "Une cascade magnifique."
+    },
+    {
+      "word": "Île",
+      "meaning": "Island",
+      "reading": "eel",
+      "example_sentence": "Vivre sur une île."
+    },
+    {
+      "word": "Plage",
+      "meaning": "Beach",
+      "reading": "plazh",
+      "example_sentence": "Une plage de sable fin."
+    },
+    {
+      "word": "Côte",
+      "meaning": "Coast",
+      "reading": "koht",
+      "example_sentence": "Habiter sur la côte."
+    },
+    {
+      "word": "Montagne",
+      "meaning": "Mountain",
+      "reading": "mohn-ta-nyuh",
+      "example_sentence": "Grander une montagne."
+    },
+    {
+      "word": "Colline",
+      "meaning": "Hill",
+      "reading": "koh-leen",
+      "example_sentence": "Une petite colline."
+    },
+    {
+      "word": "Vallée",
+      "meaning": "Valley",
+      "reading": "va-lay",
+      "example_sentence": "Une vallée profonde."
+    },
+    {
+      "word": "Plaine",
+      "meaning": "Plain",
+      "reading": "plen",
+      "example_sentence": "Une vaste plaine."
+    },
+    {
+      "word": "Forêt",
+      "meaning": "Forest",
+      "reading": "foh-ray",
+      "example_sentence": "La forêt tropicale."
+    },
+    {
+      "word": "Bois",
+      "meaning": "Wood (forest)",
+      "reading": "bwa",
+      "example_sentence": "Se promener dans les bois."
+    },
+    {
+      "word": "Désert",
+      "meaning": "Desert",
+      "reading": "day-zer",
+      "example_sentence": "Traverser le désert."
+    },
+    {
+      "word": "Végétation",
+      "meaning": "Vegetation",
+      "reading": "vay-zhay-ta-syohn",
+      "example_sentence": "Une végétation abondante."
+    },
+    {
+      "word": "Arbre",
+      "meaning": "Tree",
+      "reading": "ar-bruh",
+      "example_sentence": "Un arbre centenaire."
+    },
+    {
+      "word": "Fleur",
+      "meaning": "Flower",
+      "reading": "flur",
+      "example_sentence": "Une jolie fleur."
+    },
+    {
+      "word": "Plante",
+      "meaning": "Plant",
+      "reading": "plahnt",
+      "example_sentence": "Arroser ses plantes."
+    },
+    {
+      "word": "Feuille",
+      "meaning": "Leaf / Sheet",
+      "reading": "fuh-yuh",
+      "example_sentence": "Une feuille d'automne."
+    },
+    {
+      "word": "Herbe",
+      "meaning": "Grass",
+      "reading": "erb",
+      "example_sentence": "L'herbe est verte."
+    },
+    {
+      "word": "Pays",
+      "meaning": "Country",
+      "reading": "pay-ee",
+      "example_sentence": "Habiter son pays."
+    },
+    {
+      "word": "Région",
+      "meaning": "Region",
+      "reading": "ray-zhyohn",
+      "example_sentence": "Une région touristique."
+    },
+    {
+      "word": "Ville",
+      "meaning": "City",
+      "reading": "veel",
+      "example_sentence": "Une grande ville."
+    },
+    {
+      "word": "Village",
+      "meaning": "Village",
+      "reading": "vee-lazh",
+      "example_sentence": "Un petit village."
+    },
+    {
+      "word": "Capitale",
+      "meaning": "Capital city",
+      "reading": "ka-pee-tal",
+      "example_sentence": "Paris est la capitale."
+    },
+    {
+      "word": "Frontière",
+      "meaning": "Border",
+      "reading": "frohn-tyer",
+      "example_sentence": "Traverser la frontière."
+    },
+    {
+      "word": "Nord",
+      "meaning": "North",
+      "reading": "nor",
+      "example_sentence": "Aller vers le nord."
+    },
+    {
+      "word": "Sud",
+      "meaning": "South",
+      "reading": "sood",
+      "example_sentence": "Habiter au sud."
+    },
+    {
+      "word": "Est",
+      "meaning": "East",
+      "reading": "est",
+      "example_sentence": "Le soleil se lève à l'est."
+    },
+    {
+      "word": "Ouest",
+      "meaning": "West",
+      "reading": "west",
+      "example_sentence": "Le soleil se couche à l'ouest."
+    },
+    {
+      "word": "Distance",
+      "meaning": "Distance",
+      "reading": "dees-tahns",
+      "example_sentence": "Une longue distance."
+    },
+    {
+      "word": "Paysage",
+      "meaning": "Landscape",
+      "reading": "pay-ee-zazh",
+      "example_sentence": "Un paysage magnifique."
+    },
+    {
+      "word": "Horizon",
+      "meaning": "Horizon",
+      "reading": "oh-ree-zoh",
+      "example_sentence": "Regarder l'horizon."
+    },
+    {
+      "word": "Température",
+      "meaning": "Temperature",
+      "reading": "tahm-pay-ra-toor",
+      "example_sentence": "La température baisse."
+    },
+    {
+      "word": "Soleil",
+      "meaning": "Sun",
+      "reading": "soh-lay-yay",
+      "example_sentence": "Le soleil brille."
+    },
+    {
+      "word": "Lune",
+      "meaning": "Moon",
+      "reading": "loon",
+      "example_sentence": "La lune est pleine."
+    },
+    {
+      "word": "Étoile",
+      "meaning": "Star",
+      "reading": "ay-twal",
+      "example_sentence": "Regarder les étoiles."
+    },
+    {
+      "word": "Ciel",
+      "meaning": "Sky",
+      "reading": "syel",
+      "example_sentence": "Le ciel est bleu."
+    },
+    {
+      "word": "Nuage",
+      "meaning": "Cloud",
+      "reading": "noo-azh",
+      "example_sentence": "Il y a des nuages."
+    },
+    {
+      "word": "Pluie",
+      "meaning": "Rain",
+      "reading": "plwee",
+      "example_sentence": "Il y a beaucoup de pluie."
+    },
+    {
+      "word": "Neige",
+      "meaning": "Snow",
+      "reading": "nezh",
+      "example_sentence": "La neige tombe."
+    },
+    {
+      "word": "Vent",
+      "meaning": "Wind",
+      "reading": "vahn",
+      "example_sentence": "Le vent souffle fort."
+    },
+    {
+      "word": "Orage",
+      "meaning": "Thunderstorm",
+      "reading": "oh-razh",
+      "example_sentence": "Il y a de l'orage."
+    },
+    {
+      "word": "Tempête",
+      "meaning": "Storm",
+      "reading": "tahm-pet",
+      "example_sentence": "Une grosse tempête."
+    },
+    {
+      "word": "Brouillard",
+      "meaning": "Fog",
+      "reading": "broo-yar",
+      "example_sentence": "Il y a du brouillard."
+    },
+    {
+      "word": "Humidité",
+      "meaning": "Humidity",
+      "reading": "oo-mee-dee-tay",
+      "example_sentence": "Le taux d'humidité."
+    },
+    {
+      "word": "Chaleur",
+      "meaning": "Heat",
+      "reading": "sha-lur",
+      "example_sentence": "Une forte chaleur."
+    },
+    {
+      "word": "Froid",
+      "meaning": "Cold",
+      "reading": "frwa",
+      "example_sentence": "J'ai froid."
+    },
+    {
+      "word": "Glace",
+      "meaning": "Ice / Ice cream",
+      "reading": "glas",
+      "example_sentence": "Le lac est en glace."
+    },
+    {
+      "word": "Pierre",
+      "meaning": "Stone / Rock",
+      "reading": "pyer",
+      "example_sentence": "Une pierre précieuse."
+    },
+    {
+      "word": "Rocher",
+      "meaning": "Rock",
+      "reading": "roh-shay",
+      "example_sentence": "Grimper le rocher."
+    },
+    {
+      "word": "Sable",
+      "meaning": "Sand",
+      "reading": "sa-bluh",
+      "example_sentence": "Jouer dans le sable."
+    },
+    {
+      "word": "Poussière",
+      "meaning": "Dust",
+      "reading": "poo-syair",
+      "example_sentence": "La poussière s'accumule."
+    },
+    {
+      "word": "Sommet",
+      "meaning": "Summit / Peak",
+      "reading": "soh-may",
+      "example_sentence": "Le sommet de la montagne."
+    },
+    {
+      "word": "Campagne",
+      "meaning": "Countryside",
+      "reading": "kahm-pa-nyuh",
+      "example_sentence": "Vivre à la campagne."
+    },
+    {
+      "word": "Champ",
+      "meaning": "Field",
+      "reading": "shah",
+      "example_sentence": "Un champ de blé."
+    },
+    {
+      "word": "Ferme",
+      "meaning": "Farm",
+      "reading": "ferm",
+      "example_sentence": "Habiter dans une ferme."
+    },
+    {
+      "word": "Agriculture",
+      "meaning": "Agriculture",
+      "reading": "a-gree-kool-toor",
+      "example_sentence": "L'agriculture biologique."
+    },
+    {
+      "word": "Polluer",
+      "meaning": "To pollute",
+      "reading": "poh-loo-ay",
+      "example_sentence": "Ne pas polluer."
+    },
+    {
+      "word": "Protéger",
+      "meaning": "To protect",
+      "reading": "proh-tay-zhay",
+      "example_sentence": "Protéger la nature."
+    },
+    {
+      "word": "Sauver",
+      "meaning": "To save",
+      "reading": "soh-vay",
+      "example_sentence": "Sauver les océans."
+    },
+    {
+      "word": "Réduire",
+      "meaning": "To reduce",
+      "reading": "ray-dweer",
+      "example_sentence": "Réduire sa consommation."
+    },
+    {
+      "word": "Réutiliser",
+      "meaning": "To reuse",
+      "reading": "ray-oo-tee-lee-zay",
+      "example_sentence": "Réutiliser les bocaux."
+    },
+    {
+      "word": "Jeter",
+      "meaning": "To throw away",
+      "reading": "zhuh-tay",
+      "example_sentence": "Ne pas jeter par terre."
+    },
+    {
+      "word": "Ramasser",
+      "meaning": "To pick up",
+      "reading": "ra-ma-say",
+      "example_sentence": "Ramasser ses déchets."
+    },
+    {
+      "word": "Trier",
+      "meaning": "To sort",
+      "reading": "tree-ay",
+      "example_sentence": "Trier les poubelles."
+    },
+    {
+      "word": "Agir",
+      "meaning": "To act",
+      "reading": "a-zheer",
+      "example_sentence": "Agir pour le climat."
+    },
+    {
+      "word": "Penser",
+      "meaning": "To think",
+      "reading": "pahn-say",
+      "example_sentence": "Penser à l'avenir."
+    },
+    {
+      "word": "Futur",
+      "meaning": "Future",
+      "reading": "foo-toor",
+      "example_sentence": "Le futur de notre monde."
+    },
+    {
+      "word": "Espoir",
+      "meaning": "Hope",
+      "reading": "es-pwahr",
+      "example_sentence": "Garder l'espoir."
+    },
+    {
+      "word": "Espèce",
+      "meaning": "Species / Cash",
+      "reading": "es-pes",
+      "example_sentence": "Une espèce en danger."
+    },
+    {
+      "word": "Animal",
+      "meaning": "Animal",
+      "reading": "a-nee-mal",
+      "example_sentence": "Un animal sauvage."
+    },
+    {
+      "word": "Oiseau",
+      "meaning": "Bird",
+      "reading": "wa-zoh",
+      "example_sentence": "Un oiseau chante."
+    },
+    {
+      "word": "Poisson",
+      "meaning": "Fish",
+      "reading": "pwa-soh",
+      "example_sentence": "Un poisson nage."
+    },
+    {
+      "word": "Habitat",
+      "meaning": "Habitat",
+      "reading": "a-bee-ta",
+      "example_sentence": "Son habitat naturel."
+    },
+    {
+      "word": "Écosystème",
+      "meaning": "Ecosystem",
+      "reading": "ay-koh-sees-tem",
+      "example_sentence": "Un écosystème fragile."
+    },
+    {
+      "word": "Ressource",
+      "meaning": "Resource",
+      "reading": "ruh-soors",
+      "example_sentence": "Les ressources naturelles."
+    }
+  ]
+}

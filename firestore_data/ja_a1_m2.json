@@ -1,0 +1,530 @@
+{
+    "id": "ja_a1_m2",
+    "moduleId": "ja_a1_m2",
+    "name": "A1 Japanese - Module 2: Numbers and Time",
+    "theme": "Numbers and Time",
+    "order": 2,
+    "count": 100,
+    "vocabularyItems": [
+        {
+            "word": "零",
+            "reading": "れい / rei",
+            "meaning": "Zero"
+        },
+        {
+            "word": "一",
+            "reading": "いち / ichi",
+            "meaning": "One"
+        },
+        {
+            "word": "二",
+            "reading": "に / ni",
+            "meaning": "Two"
+        },
+        {
+            "word": "三",
+            "reading": "さん / san",
+            "meaning": "Three"
+        },
+        {
+            "word": "四",
+            "reading": "しよん / shi/yon",
+            "meaning": "Four"
+        },
+        {
+            "word": "五",
+            "reading": "ご / go",
+            "meaning": "Five"
+        },
+        {
+            "word": "六",
+            "reading": "ろく / roku",
+            "meaning": "Six"
+        },
+        {
+            "word": "七",
+            "reading": "しちなな / shichi/nana",
+            "meaning": "Seven"
+        },
+        {
+            "word": "八",
+            "reading": "はち / hachi",
+            "meaning": "Eight"
+        },
+        {
+            "word": "九",
+            "reading": "きゅうく / kyuu/ku",
+            "meaning": "Nine"
+        },
+        {
+            "word": "十",
+            "reading": "じゅう / juu",
+            "meaning": "Ten"
+        },
+        {
+            "word": "十一",
+            "reading": "じゅういち / juuichi",
+            "meaning": "Eleven"
+        },
+        {
+            "word": "十二",
+            "reading": "じゅうに / juuni",
+            "meaning": "Twelve"
+        },
+        {
+            "word": "十三",
+            "reading": "じゅうさん / juusan",
+            "meaning": "Thirteen"
+        },
+        {
+            "word": "十四",
+            "reading": "じゅうよん / juuyon",
+            "meaning": "Fourteen"
+        },
+        {
+            "word": "十五",
+            "reading": "じゅうご / juugo",
+            "meaning": "Fifteen"
+        },
+        {
+            "word": "十六",
+            "reading": "じゅうろく / juuroku",
+            "meaning": "Sixteen"
+        },
+        {
+            "word": "十七",
+            "reading": "じゅうなな / juunana",
+            "meaning": "Seventeen"
+        },
+        {
+            "word": "十八",
+            "reading": "じゅうはち / juuhachi",
+            "meaning": "Eighteen"
+        },
+        {
+            "word": "十九",
+            "reading": "じゅうきゅう / juukyuu",
+            "meaning": "Nineteen"
+        },
+        {
+            "word": "二十",
+            "reading": "にじゅう / nijuu",
+            "meaning": "Twenty"
+        },
+        {
+            "word": "三十",
+            "reading": "さんじゅう / sanjuu",
+            "meaning": "Thirty"
+        },
+        {
+            "word": "四十",
+            "reading": "よんじゅう / yonjuu",
+            "meaning": "Forty"
+        },
+        {
+            "word": "五十",
+            "reading": "ごじゅう / gojuu",
+            "meaning": "Fifty"
+        },
+        {
+            "word": "六十",
+            "reading": "ろくじゅう / rokujuu",
+            "meaning": "Sixty"
+        },
+        {
+            "word": "七十",
+            "reading": "ななじゅう / nanajuu",
+            "meaning": "Seventy"
+        },
+        {
+            "word": "八十",
+            "reading": "はちじゅう / hachijuu",
+            "meaning": "Eighty"
+        },
+        {
+            "word": "九十",
+            "reading": "きゅうじゅう / kyuujuu",
+            "meaning": "Ninety"
+        },
+        {
+            "word": "百",
+            "reading": "ひゃく / hyaku",
+            "meaning": "Hundred"
+        },
+        {
+            "word": "千",
+            "reading": "せん / sen",
+            "meaning": "Thousand"
+        },
+        {
+            "word": "万",
+            "reading": "まん / man",
+            "meaning": "Ten thousand"
+        },
+        {
+            "word": "億",
+            "reading": "おく / oku",
+            "meaning": "Hundred million"
+        },
+        {
+            "word": "数",
+            "reading": "かず / kazu",
+            "meaning": "Number"
+        },
+        {
+            "word": "番号",
+            "reading": "ばんごう / bangou",
+            "meaning": "Number (ID)"
+        },
+        {
+            "word": "何番",
+            "reading": "なんばん / nanban",
+            "meaning": "What number"
+        },
+        {
+            "word": "時間",
+            "reading": "じかん / jikan",
+            "meaning": "Time / Hour"
+        },
+        {
+            "word": "時",
+            "reading": "じ / ji",
+            "meaning": "O clock"
+        },
+        {
+            "word": "分",
+            "reading": "ふんぷん / fun/pun",
+            "meaning": "Minute"
+        },
+        {
+            "word": "秒",
+            "reading": "びょう / byou",
+            "meaning": "Second"
+        },
+        {
+            "word": "今",
+            "reading": "いま / ima",
+            "meaning": "Now"
+        },
+        {
+            "word": "今日",
+            "reading": "きょう / kyou",
+            "meaning": "Today"
+        },
+        {
+            "word": "昨日",
+            "reading": "きのう / kinou",
+            "meaning": "Yesterday"
+        },
+        {
+            "word": "明日",
+            "reading": "あした / ashita",
+            "meaning": "Tomorrow"
+        },
+        {
+            "word": "毎日",
+            "reading": "まいにち / mainichi",
+            "meaning": "Every day"
+        },
+        {
+            "word": "朝",
+            "reading": "あさ / asa",
+            "meaning": "Morning"
+        },
+        {
+            "word": "昼",
+            "reading": "ひる / hiru",
+            "meaning": "Noon / Daytime"
+        },
+        {
+            "word": "夜",
+            "reading": "よる / yoru",
+            "meaning": "Night"
+        },
+        {
+            "word": "午前",
+            "reading": "ごぜん / gozen",
+            "meaning": "AM / Morning"
+        },
+        {
+            "word": "午後",
+            "reading": "ごご / gogo",
+            "meaning": "PM / Afternoon"
+        },
+        {
+            "word": "夕方",
+            "reading": "ゆうがた / yuugata",
+            "meaning": "Evening"
+        },
+        {
+            "word": "深夜",
+            "reading": "しんや / shinya",
+            "meaning": "Late night"
+        },
+        {
+            "word": "真夜中",
+            "reading": "まよなか / mayonaka",
+            "meaning": "Midnight"
+        },
+        {
+            "word": "正午",
+            "reading": "しょうご / shougo",
+            "meaning": "Noon (12pm)"
+        },
+        {
+            "word": "早朝",
+            "reading": "そうちょう / souchou",
+            "meaning": "Early morning"
+        },
+        {
+            "word": "月曜日",
+            "reading": "げつようび / getsuyoubi",
+            "meaning": "Monday"
+        },
+        {
+            "word": "火曜日",
+            "reading": "かようび / kayoubi",
+            "meaning": "Tuesday"
+        },
+        {
+            "word": "水曜日",
+            "reading": "すいようび / suiyoubi",
+            "meaning": "Wednesday"
+        },
+        {
+            "word": "木曜日",
+            "reading": "もくようび / mokuyoubi",
+            "meaning": "Thursday"
+        },
+        {
+            "word": "金曜日",
+            "reading": "きんようび / kinyoubi",
+            "meaning": "Friday"
+        },
+        {
+            "word": "土曜日",
+            "reading": "どようび / doyoubi",
+            "meaning": "Saturday"
+        },
+        {
+            "word": "日曜日",
+            "reading": "にちようび / nichiyoubi",
+            "meaning": "Sunday"
+        },
+        {
+            "word": "週",
+            "reading": "しゅう / shuu",
+            "meaning": "Week"
+        },
+        {
+            "word": "先週",
+            "reading": "せんしゅう / senshuu",
+            "meaning": "Last week"
+        },
+        {
+            "word": "今週",
+            "reading": "こんしゅう / konshuu",
+            "meaning": "This week"
+        },
+        {
+            "word": "来週",
+            "reading": "らいしゅう / raishuu",
+            "meaning": "Next week"
+        },
+        {
+            "word": "月",
+            "reading": "つき / tsuki",
+            "meaning": "Month / Moon"
+        },
+        {
+            "word": "先月",
+            "reading": "せんげつ / sengetsu",
+            "meaning": "Last month"
+        },
+        {
+            "word": "今月",
+            "reading": "こんげつ / kongetsu",
+            "meaning": "This month"
+        },
+        {
+            "word": "来月",
+            "reading": "らいげつ / raigetsu",
+            "meaning": "Next month"
+        },
+        {
+            "word": "年",
+            "reading": "としねん / toshi/nen",
+            "meaning": "Year"
+        },
+        {
+            "word": "去年",
+            "reading": "きょねん / kyonen",
+            "meaning": "Last year"
+        },
+        {
+            "word": "今年",
+            "reading": "ことし / kotoshi",
+            "meaning": "This year"
+        },
+        {
+            "word": "来年",
+            "reading": "らいねん / rainen",
+            "meaning": "Next year"
+        },
+        {
+            "word": "毎週",
+            "reading": "まいしゅう / maishuu",
+            "meaning": "Every week"
+        },
+        {
+            "word": "毎月",
+            "reading": "まいつき / maitsuki",
+            "meaning": "Every month"
+        },
+        {
+            "word": "毎年",
+            "reading": "まいとし / maitoshi",
+            "meaning": "Every year"
+        },
+        {
+            "word": "一つ",
+            "reading": "ひとつ / hitotsu",
+            "meaning": "One (thing)"
+        },
+        {
+            "word": "二つ",
+            "reading": "ふたつ / futatsu",
+            "meaning": "Two (things)"
+        },
+        {
+            "word": "三つ",
+            "reading": "みっつ / mittsu",
+            "meaning": "Three (things)"
+        },
+        {
+            "word": "四つ",
+            "reading": "よっつ / yottsu",
+            "meaning": "Four (things)"
+        },
+        {
+            "word": "五つ",
+            "reading": "いつつ / itsutsu",
+            "meaning": "Five (things)"
+        },
+        {
+            "word": "六つ",
+            "reading": "むっつ / muttsu",
+            "meaning": "Six (things)"
+        },
+        {
+            "word": "七つ",
+            "reading": "ななつ / nanatsu",
+            "meaning": "Seven (things)"
+        },
+        {
+            "word": "八つ",
+            "reading": "やっつ / yattsu",
+            "meaning": "Eight (things)"
+        },
+        {
+            "word": "九つ",
+            "reading": "ここのつ / kokonotsu",
+            "meaning": "Nine (things)"
+        },
+        {
+            "word": "恩恵",
+            "reading": "onkei",
+            "meaning": "Benefit/Blessing",
+            "example_sentence": "自然の恩恵を受ける反面、災害の脅威にも常に備えなければなりません。"
+        },
+        {
+            "word": "何時",
+            "reading": "なんじ / nanji",
+            "meaning": "What time"
+        },
+        {
+            "word": "何分",
+            "reading": "なんぷん / nanpun",
+            "meaning": "How many minutes"
+        },
+        {
+            "word": "何日",
+            "reading": "なんにち / nannichi",
+            "meaning": "What day / How many days"
+        },
+        {
+            "word": "何曜日",
+            "reading": "なんようび / nanyoubi",
+            "meaning": "What day of week"
+        },
+        {
+            "word": "何月",
+            "reading": "なんがつ / nangatsu",
+            "meaning": "What month"
+        },
+        {
+            "word": "何年",
+            "reading": "なんねん / nannen",
+            "meaning": "What year"
+        },
+        {
+            "word": "半",
+            "reading": "はん / han",
+            "meaning": "Half"
+        },
+        {
+            "word": "半分",
+            "reading": "はんぶん / hanbun",
+            "meaning": "Half (portion)"
+        },
+        {
+            "word": "全部",
+            "reading": "ぜんぶ / zenbu",
+            "meaning": "All / Everything"
+        },
+        {
+            "word": "少し",
+            "reading": "すこし / sukoshi",
+            "meaning": "A little"
+        },
+        {
+            "word": "たくさん",
+            "reading": "takusan",
+            "meaning": "Many / A lot"
+        },
+        {
+            "word": "多い",
+            "reading": "おおい / ooi",
+            "meaning": "Many / Much"
+        },
+        {
+            "word": "少ない",
+            "reading": "すくない / sukunai",
+            "meaning": "Few / Little"
+        },
+        {
+            "word": "大きい",
+            "reading": "おおきい / ookii",
+            "meaning": "Big / Large"
+        }
+    ],
+    "liarGameData": {
+        "culturalTraps": [
+            {
+                "trap": "The number 4 is always pronounced shi in Japanese.",
+                "correctVersion": "The number 4 can be pronounced shi or yon. Yon is preferred in many contexts because shi sounds like death (死).",
+                "explanation": "Japanese avoids shi for 4 due to superstition. Similarly, 7 can be shichi or nana, with nana often preferred."
+            },
+            {
+                "trap": "Japanese time is told exactly like English with AM/PM.",
+                "correctVersion": "Japanese uses 24-hour time in formal contexts. Gozen (午前) and gogo (午後) are used, but 24-hour format is common in schedules.",
+                "explanation": "Train schedules, TV programs, and business hours often use 24-hour time. 15:00 is more common than 3:00 PM in formal settings."
+            },
+            {
+                "trap": "Japanese counters work the same as English numbers.",
+                "correctVersion": "Japanese has different counter words for different objects (本 for long objects, 枚 for flat objects, 匹 for animals, etc.).",
+                "explanation": "The counter system is complex. Hitotsu/futatsu are general counters, but specific objects require specific counters."
+            }
+        ]
+    }
+}

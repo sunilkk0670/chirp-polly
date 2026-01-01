@@ -1,0 +1,6134 @@
+{
+  "modules": [
+    {
+      "moduleId": "fr_a2_m1",
+      "theme": "Fundamentals",
+      "order": 11,
+      "vocabularyItems": [
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 1)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 1)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 1)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 1)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 1)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 1)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 1)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 2)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 2)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 2)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 2)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 2)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 2)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 2)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 3)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 3)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 3)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 3)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 3)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 3)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 3)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 4)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 4)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 4)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 4)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 4)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 4)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 4)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 5)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 5)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 5)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 5)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 5)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 5)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 5)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 6)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 6)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 6)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 6)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 6)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 6)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 6)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 7)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 7)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 7)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 7)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 7)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 7)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 7)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 8)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 8)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 8)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 8)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 8)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 8)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 8)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 9)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 9)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 9)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 9)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 9)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 9)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 9)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 10)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 10)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 10)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 10)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 10)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 10)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 10)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 11)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 11)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 11)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 11)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 11)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 11)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 11)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 12)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 12)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 12)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 12)",
+          "example_sentence": "Où est ma valise ?"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Fundamentals for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Fundamentals."
+      }
+    },
+    {
+      "moduleId": "fr_a2_m2",
+      "theme": "Communication",
+      "order": 12,
+      "vocabularyItems": [
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 1)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 1)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 1)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 1)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 1)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 1)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 1)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 2)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 2)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 2)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 2)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 2)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 2)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 2)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 3)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 3)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 3)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 3)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 3)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 3)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 3)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 4)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 4)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 4)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 4)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 4)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 4)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 4)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 5)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 5)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 5)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 5)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 5)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 5)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 5)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 6)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 6)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 6)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 6)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 6)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 6)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 6)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 7)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 7)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 7)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 7)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 7)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 7)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 7)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 8)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 8)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 8)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 8)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 8)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 8)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 8)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 9)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 9)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 9)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 9)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 9)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 9)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 9)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 10)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 10)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 10)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 10)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 10)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 10)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 10)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 11)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 11)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 11)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 11)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 11)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 11)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 11)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 12)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 12)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 12)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 12)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Communication for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Communication."
+      }
+    },
+    {
+      "moduleId": "fr_a2_m3",
+      "theme": "Daily Life",
+      "order": 13,
+      "vocabularyItems": [
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 1)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 1)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 1)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 1)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 1)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 1)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 1)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 2)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 2)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 2)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 2)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 2)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 2)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 2)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 3)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 3)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 3)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 3)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 3)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 3)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 3)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 4)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 4)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 4)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 4)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 4)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 4)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 4)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 5)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 5)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 5)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 5)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 5)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 5)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 5)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 6)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 6)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 6)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 6)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 6)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 6)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 6)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 7)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 7)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 7)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 7)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 7)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 7)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 7)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 8)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 8)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 8)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 8)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 8)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 8)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 8)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 9)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 9)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 9)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 9)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 9)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 9)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 9)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 10)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 10)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 10)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 10)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 10)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 10)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 10)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 11)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 11)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 11)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 11)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 11)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 11)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 11)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 12)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 12)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 12)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 12)",
+          "example_sentence": "Nous cherchons un hôtel."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Daily Life for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Daily Life."
+      }
+    },
+    {
+      "moduleId": "fr_a2_m4",
+      "theme": "Travel",
+      "order": 14,
+      "vocabularyItems": [
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 1)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 1)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 1)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 1)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 1)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 1)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 1)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 2)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 2)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 2)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 2)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 2)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 2)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 2)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 3)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 3)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 3)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 3)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 3)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 3)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 3)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 4)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 4)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 4)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 4)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 4)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 4)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 4)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 5)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 5)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 5)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 5)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 5)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 5)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 5)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 6)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 6)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 6)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 6)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 6)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 6)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 6)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 7)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 7)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 7)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 7)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 7)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 7)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 7)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 8)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 8)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 8)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 8)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 8)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 8)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 8)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 9)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 9)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 9)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 9)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 9)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 9)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 9)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 10)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 10)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 10)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 10)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 10)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 10)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 10)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 11)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 11)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 11)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 11)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 11)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 11)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 11)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 12)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 12)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 12)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 12)",
+          "example_sentence": "Le voyage était long."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Travel for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Travel."
+      }
+    },
+    {
+      "moduleId": "fr_a2_m5",
+      "theme": "Socializing",
+      "order": 15,
+      "vocabularyItems": [
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 1)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 1)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 1)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 1)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 1)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 1)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 1)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 2)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 2)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 2)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 2)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 2)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 2)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 2)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 3)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 3)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 3)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 3)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 3)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 3)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 3)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 4)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 4)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 4)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 4)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 4)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 4)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 4)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 5)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 5)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 5)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 5)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 5)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 5)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 5)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 6)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 6)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 6)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 6)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 6)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 6)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 6)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 7)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 7)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 7)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 7)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 7)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 7)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 7)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 8)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 8)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 8)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 8)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 8)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 8)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 8)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 9)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 9)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 9)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 9)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 9)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 9)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 9)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 10)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 10)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 10)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 10)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 10)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 10)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 10)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 11)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 11)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 11)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 11)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 11)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 11)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 11)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 12)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 12)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 12)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 12)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Socializing for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Socializing."
+      }
+    },
+    {
+      "moduleId": "fr_a2_m6",
+      "theme": "Nature",
+      "order": 16,
+      "vocabularyItems": [
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 1)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 1)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 1)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 1)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 1)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 1)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 1)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 2)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 2)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 2)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 2)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 2)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 2)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 2)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 3)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 3)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 3)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 3)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 3)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 3)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 3)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 4)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 4)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 4)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 4)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 4)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 4)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 4)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 5)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 5)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 5)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 5)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 5)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 5)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 5)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 6)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 6)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 6)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 6)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 6)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 6)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 6)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 7)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 7)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 7)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 7)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 7)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 7)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 7)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 8)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 8)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 8)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 8)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 8)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 8)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 8)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 9)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 9)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 9)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 9)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 9)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 9)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 9)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 10)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 10)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 10)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 10)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 10)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 10)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 10)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 11)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 11)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 11)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 11)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 11)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 11)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 11)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 12)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 12)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 12)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 12)",
+          "example_sentence": "Le train part à midi."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Nature for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Nature."
+      }
+    },
+    {
+      "moduleId": "fr_a2_m7",
+      "theme": "Work & Study",
+      "order": 17,
+      "vocabularyItems": [
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 1)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 1)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 1)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 1)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 1)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 1)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 1)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 2)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 2)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 2)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 2)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 2)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 2)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 2)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 3)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 3)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 3)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 3)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 3)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 3)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 3)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 4)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 4)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 4)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 4)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 4)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 4)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 4)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 5)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 5)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 5)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 5)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 5)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 5)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 5)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 6)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 6)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 6)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 6)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 6)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 6)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 6)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 7)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 7)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 7)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 7)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 7)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 7)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 7)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 8)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 8)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 8)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 8)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 8)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 8)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 8)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 9)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 9)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 9)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 9)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 9)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 9)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 9)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 10)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 10)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 10)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 10)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 10)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 10)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 10)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 11)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 11)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 11)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 11)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 11)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 11)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 11)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 12)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 12)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 12)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 12)",
+          "example_sentence": "Je suis allé au cinéma."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Work & Study for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Work & Study."
+      }
+    },
+    {
+      "moduleId": "fr_a2_m8",
+      "theme": "Emotions",
+      "order": 18,
+      "vocabularyItems": [
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 1)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 1)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 1)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 1)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 1)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 1)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 1)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 2)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 2)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 2)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 2)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 2)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 2)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 2)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 3)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 3)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 3)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 3)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 3)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 3)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 3)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 4)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 4)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 4)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 4)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 4)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 4)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 4)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 5)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 5)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 5)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 5)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 5)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 5)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 5)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 6)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 6)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 6)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 6)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 6)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 6)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 6)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 7)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 7)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 7)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 7)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 7)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 7)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 7)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 8)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 8)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 8)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 8)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 8)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 8)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 8)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 9)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 9)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 9)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 9)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 9)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 9)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 9)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 10)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 10)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 10)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 10)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 10)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 10)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 10)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 11)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 11)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 11)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 11)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 11)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 11)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 11)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 12)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 12)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 12)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 12)",
+          "example_sentence": "Je veux visiter Paris."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Emotions for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Emotions."
+      }
+    },
+    {
+      "moduleId": "fr_a2_m9",
+      "theme": "Culture",
+      "order": 19,
+      "vocabularyItems": [
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 1)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 1)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 1)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 1)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 1)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 1)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 1)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 2)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 2)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 2)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 2)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 2)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 2)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 2)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 3)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 3)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 3)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 3)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 3)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 3)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 3)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 4)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 4)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 4)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 4)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 4)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 4)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 4)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 5)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 5)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 5)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 5)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 5)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 5)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 5)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 6)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 6)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 6)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 6)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 6)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 6)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 6)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 7)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 7)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 7)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 7)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 7)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 7)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 7)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 8)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 8)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 8)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 8)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 8)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 8)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 8)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 9)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 9)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 9)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 9)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 9)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 9)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 9)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 10)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 10)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 10)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 10)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 10)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 10)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 10)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 11)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 11)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 11)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 11)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 11)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 11)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 11)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 12)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 12)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 12)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 12)",
+          "example_sentence": "Où est ma valise ?"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Culture for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Culture."
+      }
+    },
+    {
+      "moduleId": "fr_a2_m10",
+      "theme": "Review",
+      "order": 20,
+      "vocabularyItems": [
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 1)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 1)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 1)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 1)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 1)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 1)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 1)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 2)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 2)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 2)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 2)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 2)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 2)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 2)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 3)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 3)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 3)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 3)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 3)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 3)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 3)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 4)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 4)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 4)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 4)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 4)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 4)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 4)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 5)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 5)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 5)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 5)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 5)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 5)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 5)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 6)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 6)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 6)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 6)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 6)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 6)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 6)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 7)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 7)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 7)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 7)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 7)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 7)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 7)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 8)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 8)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 8)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 8)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 8)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 8)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 8)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 9)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 9)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 9)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 9)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 9)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 9)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 9)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 10)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 10)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 10)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 10)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 10)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 10)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 10)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 11)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 11)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 11)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 11)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        },
+        {
+          "word": "Je suis allé",
+          "reading": null,
+          "meaning": "I went (Past) (Var 11)",
+          "example_sentence": "Je suis allé au cinéma."
+        },
+        {
+          "word": "Voyage",
+          "reading": null,
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "Le voyage était long."
+        },
+        {
+          "word": "Valise",
+          "reading": null,
+          "meaning": "Suitcase (Var 11)",
+          "example_sentence": "Où est ma valise ?"
+        },
+        {
+          "word": "Train",
+          "reading": null,
+          "meaning": "Train (Var 11)",
+          "example_sentence": "Le train part à midi."
+        },
+        {
+          "word": "Hôtel",
+          "reading": null,
+          "meaning": "Hotel (Var 12)",
+          "example_sentence": "Nous cherchons un hôtel."
+        },
+        {
+          "word": "Visiter",
+          "reading": null,
+          "meaning": "To visit (Var 12)",
+          "example_sentence": "Je veux visiter Paris."
+        },
+        {
+          "word": "Aujourd’hui",
+          "reading": null,
+          "meaning": "Today (Var 12)",
+          "example_sentence": "Aujourd’hui il fait beau."
+        },
+        {
+          "word": "J’ai mangé",
+          "reading": null,
+          "meaning": "I ate (Past) (Var 12)",
+          "example_sentence": "J’ai mangé une pomme hier."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Review for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Review."
+      }
+    }
+  ]
+}

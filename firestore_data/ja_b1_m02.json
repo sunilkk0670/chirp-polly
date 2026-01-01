@@ -1,0 +1,612 @@
+{
+    "moduleId": "ja_b1_m02",
+    "theme": "Business & Keigo",
+    "order": 2,
+    "vocabularyItems": [
+        {
+            "word": "復旧",
+            "reading": "fukkyuu",
+            "meaning": "Restoration",
+            "example_sentence": "障害から迅速に復旧することによって、サービス停止による経済的な損失を最小限に食い止めます。"
+        },
+        {
+            "word": "監視",
+            "reading": "kanshi",
+            "meaning": "Monitoring",
+            "example_sentence": "インフラの状態を24時間体制で監視するうちに、僅かな予兆からの故障予測が可能になりました。"
+        },
+        {
+            "word": "識別",
+            "reading": "shikibetsu",
+            "meaning": "Discrimination/Identification",
+            "example_sentence": "AIによって画像を識別するうちに、人間を上回る精度で癌細胞を発見できるようになりました。"
+        },
+        {
+            "word": "発行",
+            "reading": "hakkou",
+            "meaning": "Issue/Publication",
+            "example_sentence": "新しいデジタル証明書を発行する反面、その有効期限の管理を自動化するのが今後の課題です。"
+        },
+        {
+            "word": "遺棄",
+            "reading": "iki",
+            "meaning": "Abandonment/Discarding",
+            "example_sentence": "有害物質を不当に遺棄する反面、環境への壊滅的な打撃を考慮すべきです。"
+        },
+        {
+            "word": "譲渡",
+            "reading": "jouto",
+            "meaning": "Transfer/Assignment",
+            "example_sentence": "使わなくなったIT資産を譲渡するうちに、寄付という形での社会貢献の道が開けました。"
+        },
+        {
+            "word": "調達",
+            "reading": "choutatsu",
+            "meaning": "Procurement/Supply",
+            "example_sentence": "最新のパーツを迅速に調達することによって、競合他社に先んじて新製品を市場に投入できました。"
+        },
+        {
+            "word": "保持",
+            "reading": "hoji",
+            "meaning": "Retention/Maintenance",
+            "example_sentence": "温度を一定に保持する反面、消費電力を抑えるという二律背反の課題に挑んでいます。"
+        },
+        {
+            "word": "統括",
+            "reading": "toukatsu",
+            "meaning": "Generalization/Supervision",
+            "example_sentence": "プロジェクト全体を統括することによって、各部署間の連携を円滑にしています。"
+        },
+        {
+            "word": "操業",
+            "reading": "sougyou",
+            "meaning": "Operation",
+            "example_sentence": "工場の24時間操業を開始するうちに、生産能力が劇的に増加しました。"
+        },
+        {
+            "word": "各論",
+            "reading": "kakuron",
+            "meaning": "Detail/Particulars",
+            "example_sentence": "総論には賛成する反面、各論において意見が食い違うことが多々あります。"
+        },
+        {
+            "word": "対照",
+            "reading": "taishou",
+            "meaning": "Contrast",
+            "example_sentence": "実験群と対照群を比較することによって、新薬の有効性を科学的に立証しました。"
+        },
+        {
+            "word": "補正",
+            "reading": "hosei",
+            "meaning": "Correction/Compensation",
+            "example_sentence": "センサーの値を補正することによって、極めて正確な測定結果が得られました。"
+        },
+        {
+            "word": "着想",
+            "reading": "chakusou",
+            "meaning": "Idea/Conception",
+            "example_sentence": "日常のふとした出来事から着想を得るうちに、画期的な新製品のアイデアが浮かびました。"
+        },
+        {
+            "word": "認可",
+            "reading": "ninka",
+            "meaning": "Approval/Licensing",
+            "example_sentence": "当局の認可を待つうちに、サービスの開始時期を何度も後ろ倒しにしました。"
+        },
+        {
+            "word": "却下",
+            "reading": "kyakka",
+            "meaning": "Rejection",
+            "example_sentence": "画期的なアイデアだと思われましたが、予算の都合によって却下されるという苦い経験もしました。"
+        },
+        {
+            "word": "保留",
+            "reading": "horyuu",
+            "meaning": "Suspension/Reservation",
+            "example_sentence": "技術的な懸念がクリアされるまで、製品の出荷を保留にするうちに、さらなる不具合が発見されました。"
+        },
+        {
+            "word": "遂行",
+            "reading": "suikou",
+            "meaning": "Execution/Accomplishment",
+            "example_sentence": "困難な機密任務を遂行することによって、国家の安全が守られています。"
+        },
+        {
+            "word": "通報",
+            "reading": "tsuuhou",
+            "meaning": "Report/Notification",
+            "example_sentence": "異常をシステムが検知し、管理者へ自動で通報することによって迅速に対応できます。"
+        },
+        {
+            "word": "交信",
+            "reading": "koushin",
+            "meaning": "Communication/Contact",
+            "example_sentence": "衛星との交信が途絶えるうちに、位置を特定するための必死の捜索が始まりました。"
+        },
+        {
+            "word": "協議",
+            "reading": "kyougi",
+            "meaning": "Conference/Consultation",
+            "example_sentence": "技術仕様について協議を重ねるうちに、双方の主張の共通点が見つかりました。"
+        },
+        {
+            "word": "共有",
+            "reading": "kyouyuu",
+            "meaning": "Sharing",
+            "example_sentence": "得られたナレッジをチーム内で共有することによって、全体の技術力の底上げを図っています。"
+        },
+        {
+            "word": "引継ぎ",
+            "reading": "hikitsugi",
+            "meaning": "Handover",
+            "example_sentence": "担当者が変わる際、ドキュメントに詳細な引継ぎ事項を記しておくうちに、後のトラブルを防ぐことができます。"
+        },
+        {
+            "word": "講習",
+            "reading": "koushuu",
+            "meaning": "Short course/Training",
+            "example_sentence": "最新技術の講習会に参加する反面、現場での実践経験こそが真の力になると信じています。"
+        },
+        {
+            "word": "把握",
+            "reading": "haoku",
+            "meaning": "Grasp/Understanding",
+            "example_sentence": "現状の課題を正確に把握することによって、場当たり的でない抜本的な解決策を導き出すことが可能になります。"
+        },
+        {
+            "word": "走査",
+            "reading": "sousa",
+            "meaning": "Scan/Scanning",
+            "example_sentence": "レーザーで表面を走査するうちに、肉眼では見えない微細な亀裂を発見しました。"
+        },
+        {
+            "word": "採録",
+            "reading": "sairoku",
+            "meaning": "Recording/Collecting",
+            "example_sentence": "膨大な野外調査のデータを採録することによって、生態系の変化を詳細に追うことができます。"
+        },
+        {
+            "word": "確率",
+            "reading": "kakuritsu",
+            "meaning": "Probability",
+            "example_sentence": "システムが故障する確率を計算するうちに、予備装置を二重化することを決定しました。"
+        },
+        {
+            "word": "宣伝",
+            "reading": "senden",
+            "meaning": "Publicity/Advertising",
+            "example_sentence": "商品を大々的に宣伝する反面、過剰な誇張は消費者の不信を招きます。"
+        },
+        {
+            "word": "広報",
+            "reading": "kouhou",
+            "meaning": "Public relations",
+            "example_sentence": "企業の広報活動を強化するうちに、ブランドイメージが着実に向上していきました。"
+        },
+        {
+            "word": "偏向",
+            "reading": "henkou",
+            "meaning": "Bias/Slant",
+            "example_sentence": "報道に偏向があると批判される反面、完全な中立は現実的に困難です。"
+        },
+        {
+            "word": "捏造",
+            "reading": "netsuzou",
+            "meaning": "Fabrication",
+            "example_sentence": "事実を捏造することによって、メディアの信頼性は地に落ちました。"
+        },
+        {
+            "word": "誇張",
+            "reading": "kochou",
+            "meaning": "Exaggeration",
+            "example_sentence": "効果を誇張して伝えるうちに、実際の商品との乖離が問題視されました。"
+        },
+        {
+            "word": "煽動",
+            "reading": "sendou",
+            "meaning": "Incitement/Agitation",
+            "example_sentence": "大衆を煽動する反面、その責任の重さを自覚していない発信者もいます。"
+        },
+        {
+            "word": "扇動",
+            "reading": "sendou",
+            "meaning": "Instigation",
+            "example_sentence": "過激な言論で人々を扇動するうちに、社会の分断が深刻化していきました。"
+        },
+        {
+            "word": "流布",
+            "reading": "rufu",
+            "meaning": "Dissemination/Spread",
+            "example_sentence": "デマが瞬時に流布することによって、真実の検証が追いつかない状況が生まれています。"
+        },
+        {
+            "word": "炎上",
+            "reading": "enjou",
+            "meaning": "Flaming/Backlash",
+            "example_sentence": "不適切な発言によってSNSが炎上するうちに、企業の株価まで下落しました。"
+        },
+        {
+            "word": "誹謗",
+            "reading": "hibou",
+            "meaning": "Slander/Defamation",
+            "example_sentence": "他者を誹謗することによって、自らの評判も傷つけてしまいます。"
+        },
+        {
+            "word": "中傷",
+            "reading": "chuushou",
+            "meaning": "Defamation",
+            "example_sentence": "根拠のない中傷を受ける反面、法的措置を検討する必要があります。"
+        },
+        {
+            "word": "風評",
+            "reading": "fuuhyou",
+            "meaning": "Rumor/Reputation",
+            "example_sentence": "風評被害によって、無関係な企業まで打撃を受けました。"
+        },
+        {
+            "word": "憶測",
+            "reading": "okusoku",
+            "meaning": "Speculation/Conjecture",
+            "example_sentence": "事実に基づかない憶測が飛び交ううちに、真相が見えなくなってしまいました。"
+        },
+        {
+            "word": "推測",
+            "reading": "suisoku",
+            "meaning": "Inference/Guess",
+            "example_sentence": "限られた情報から推測する反面、断定的な表現は避けるべきです。"
+        },
+        {
+            "word": "裏付け",
+            "reading": "uradzuke",
+            "meaning": "Corroboration/Evidence",
+            "example_sentence": "主張の裏付けを取ることによって、報道の信頼性を確保します。"
+        },
+        {
+            "word": "取材",
+            "reading": "shuzai",
+            "meaning": "Coverage/Interview",
+            "example_sentence": "現地で取材を行う反面、取材対象のプライバシーにも配慮が必要です。"
+        },
+        {
+            "word": "潜入",
+            "reading": "sennyuu",
+            "meaning": "Infiltration/Undercover",
+            "example_sentence": "組織に潜入することによって、内部の実態を暴露する調査報道が行われました。"
+        },
+        {
+            "word": "暴露",
+            "reading": "bakuro",
+            "meaning": "Exposure/Revelation",
+            "example_sentence": "不正を暴露する反面、情報源の保護という倫理的ジレンマに直面します。"
+        },
+        {
+            "word": "暴く",
+            "reading": "abaku",
+            "meaning": "To expose/Uncover",
+            "example_sentence": "真実を暴くうちに、権力者からの圧力に晒されることもあります。"
+        },
+        {
+            "word": "糾弾",
+            "reading": "kyuudan",
+            "meaning": "Denunciation",
+            "example_sentence": "不祥事を糾弾する反面、過度なバッシングは新たな問題を生みます。"
+        },
+        {
+            "word": "擁護",
+            "reading": "yougo",
+            "meaning": "Defense/Advocacy",
+            "example_sentence": "被告を擁護する反面、世論の反発も覚悟しなければなりません。"
+        },
+        {
+            "word": "弁護",
+            "reading": "bengo",
+            "meaning": "Defense/Vindication",
+            "example_sentence": "容疑者の権利を弁護するうちに、真実の究明が進められます。"
+        },
+        {
+            "word": "反論",
+            "reading": "hanron",
+            "meaning": "Counterargument",
+            "example_sentence": "相手の主張に反論する反面、感情的にならず論理的に対応すべきです。"
+        },
+        {
+            "word": "論争",
+            "reading": "ronsou",
+            "meaning": "Controversy/Debate",
+            "example_sentence": "激しい論争を繰り広げるうちに、双方の立場が鮮明になりました。"
+        },
+        {
+            "word": "討論",
+            "reading": "touron",
+            "meaning": "Debate",
+            "example_sentence": "公開討論会を開催する反面、時間制限の中で十分な議論ができるか懸念があります。"
+        },
+        {
+            "word": "弁論",
+            "reading": "benron",
+            "meaning": "Argument/Plea",
+            "example_sentence": "最終弁論を行うことによって、裁判官の心証に影響を与えることを目指します。"
+        },
+        {
+            "word": "主張",
+            "reading": "shuchou",
+            "meaning": "Assertion/Claim",
+            "example_sentence": "自らの主張を貫くうちに、妥協点を見失ってしまうこともあります。"
+        },
+        {
+            "word": "訴え",
+            "reading": "uttae",
+            "meaning": "Appeal/Complaint",
+            "example_sentence": "被害者の訴えに耳を傾ける反面、客観的な証拠の確認も欠かせません。"
+        },
+        {
+            "word": "陳述",
+            "reading": "chinjutsu",
+            "meaning": "Statement/Testimony",
+            "example_sentence": "法廷で陳述することによって、事件の真相に一歩近づきました。"
+        },
+        {
+            "word": "供述",
+            "reading": "kyoujutsu",
+            "meaning": "Deposition/Statement",
+            "example_sentence": "容疑者の供述が変遷する反面、真実を見極めるのは容易ではありません。"
+        },
+        {
+            "word": "自白",
+            "reading": "jihaku",
+            "meaning": "Confession",
+            "example_sentence": "自白を強要することによって、冤罪が生まれる危険性があります。"
+        },
+        {
+            "word": "黙秘",
+            "reading": "mokuhi",
+            "meaning": "Silence/Refusal to testify",
+            "example_sentence": "黙秘権を行使する反面、世間からは疑いの目で見られることもあります。"
+        },
+        {
+            "word": "弁明",
+            "reading": "benmei",
+            "meaning": "Explanation/Excuse",
+            "example_sentence": "自らの行動を弁明するうちに、かえって疑惑が深まってしまいました。"
+        },
+        {
+            "word": "釈明",
+            "reading": "shakumei",
+            "meaning": "Explanation/Clarification",
+            "example_sentence": "誤解を釈明する反面、一度失った信頼を取り戻すのは困難です。"
+        },
+        {
+            "word": "陳謝",
+            "reading": "chinsha",
+            "meaning": "Apology/Expression of regret",
+            "example_sentence": "深く陳謝する反面、具体的な再発防止策を示さなければ意味がありません。"
+        },
+        {
+            "word": "詫び",
+            "reading": "wabi",
+            "meaning": "Apology",
+            "example_sentence": "心からの詫びを入れるうちに、相手の怒りも徐々に和らいでいきました。"
+        },
+        {
+            "word": "返還",
+            "reading": "henkan",
+            "meaning": "Return/Restitution",
+            "example_sentence": "不当に得た利益を返還する反面、それだけでは社会的制裁を免れません。"
+        },
+        {
+            "word": "配当",
+            "reading": "haitou",
+            "meaning": "Dividend",
+            "example_sentence": "株主に配当を支払ううちに、内部留保とのバランスを考慮します。"
+        },
+        {
+            "word": "分配",
+            "reading": "bunpai",
+            "meaning": "Distribution/Allocation",
+            "example_sentence": "資源を公平に分配する反面、効率性も同時に追求しなければなりません。"
+        },
+        {
+            "word": "割当",
+            "reading": "wariate",
+            "meaning": "Allocation/Quota",
+            "example_sentence": "各部署に予算を割当てることによって、計画的な運営を実現します。"
+        },
+        {
+            "word": "配分",
+            "reading": "haibun",
+            "meaning": "Distribution/Apportionment",
+            "example_sentence": "限られた資金を配分するうちに、優先順位の判断が求められます。"
+        },
+        {
+            "word": "按分",
+            "reading": "anbun",
+            "meaning": "Proportional division",
+            "example_sentence": "費用を按分する反面、各者の負担感に配慮することも大切です。"
+        },
+        {
+            "word": "均等",
+            "reading": "kintou",
+            "meaning": "Equality/Evenness",
+            "example_sentence": "機会を均等に与えることによって、公正な競争環境を整えます。"
+        },
+        {
+            "word": "公平",
+            "reading": "kouhei",
+            "meaning": "Fairness/Impartiality",
+            "example_sentence": "公平な判断を下すうちに、個人的な感情を排除する努力が必要です。"
+        },
+        {
+            "word": "公正",
+            "reading": "kousei",
+            "meaning": "Justice/Fairness",
+            "example_sentence": "公正な取引を実現する反面、市場の自由との調和も図らなければなりません。"
+        },
+        {
+            "word": "中立",
+            "reading": "chuuritsu",
+            "meaning": "Neutrality",
+            "example_sentence": "中立的な立場を保つことによって、双方から信頼を得ることができます。"
+        },
+        {
+            "word": "客観",
+            "reading": "kyakkan",
+            "meaning": "Objectivity",
+            "example_sentence": "客観的な視点で分析するうちに、自らの偏見に気づかされました。"
+        },
+        {
+            "word": "主観",
+            "reading": "shukan",
+            "meaning": "Subjectivity",
+            "example_sentence": "主観的な意見を述べる反面、それが絶対的な真実ではないことを認識すべきです。"
+        },
+        {
+            "word": "慣習",
+            "reading": "kanshuu",
+            "meaning": "Custom/Convention",
+            "example_sentence": "古い慣習を打破する反面、伝統の価値も尊重すべきです。"
+        },
+        {
+            "word": "前例",
+            "reading": "zenrei",
+            "meaning": "Precedent",
+            "example_sentence": "前例のない試みに挑戦するうちに、新たな道を切り開くことができました。"
+        },
+        {
+            "word": "規範",
+            "reading": "kihan",
+            "meaning": "Norm/Standard",
+            "example_sentence": "社会規範を守る反面、時代に合わない規範は見直す必要があります。"
+        },
+        {
+            "word": "良心",
+            "reading": "ryoushin",
+            "meaning": "Conscience",
+            "example_sentence": "良心に従って行動する反面、社会的な圧力に屈してしまうこともあります。"
+        },
+        {
+            "word": "誠意",
+            "reading": "seii",
+            "meaning": "Sincerity/Good faith",
+            "example_sentence": "誠意を持って対応することによって、相手の心を開くことができます。"
+        },
+        {
+            "word": "真摯",
+            "reading": "shinshi",
+            "meaning": "Earnest/Sincere",
+            "example_sentence": "真摯な態度で臨むうちに、周囲からの評価も高まっていきました。"
+        },
+        {
+            "word": "謙虚",
+            "reading": "kenkyo",
+            "meaning": "Humble/Modest",
+            "example_sentence": "謙虚な姿勢を保つ反面、自信を失わないバランスが大切です。"
+        },
+        {
+            "word": "謙遜",
+            "reading": "kenson",
+            "meaning": "Modesty/Humility",
+            "example_sentence": "謙遜の美徳を重んじるうちに、自己主張が弱くなりすぎることもあります。"
+        },
+        {
+            "word": "卑屈",
+            "reading": "hikutsu",
+            "meaning": "Servile/Obsequious",
+            "example_sentence": "卑屈な態度を取る反面、内心では強い反発を抱いていることもあります。"
+        },
+        {
+            "word": "横柄",
+            "reading": "ouhei",
+            "meaning": "Arrogant/Insolent",
+            "example_sentence": "横柄な振る舞いによって、多くの協力者を失ってしまいました。"
+        },
+        {
+            "word": "謙譲",
+            "reading": "kenjou",
+            "meaning": "Modesty/Humility",
+            "example_sentence": "謙譲の精神を持つ反面、自己主張すべき場面では堂々と意見を述べます。"
+        },
+        {
+            "word": "恭順",
+            "reading": "kyoujun",
+            "meaning": "Obedience/Submission",
+            "example_sentence": "権威に恭順を示すことによって、組織内での立場を守りました。"
+        },
+        {
+            "word": "服従",
+            "reading": "fukujuu",
+            "meaning": "Obedience/Submission",
+            "example_sentence": "命令に服従するうちに、自らの判断力が鈍ってしまうこともあります。"
+        },
+        {
+            "word": "従順",
+            "reading": "juujun",
+            "meaning": "Obedient/Docile",
+            "example_sentence": "従順な性格である反面、時には反抗する勇気も必要です。"
+        },
+        {
+            "word": "反抗",
+            "reading": "hankou",
+            "meaning": "Rebellion/Defiance",
+            "example_sentence": "不当な命令に反抗することによって、自らの尊厳を守りました。"
+        },
+        {
+            "word": "抵抗",
+            "reading": "teikou",
+            "meaning": "Resistance/Opposition",
+            "example_sentence": "圧力に抵抗するうちに、孤立してしまうリスクもあります。"
+        },
+        {
+            "word": "反発",
+            "reading": "hanpatsu",
+            "meaning": "Repulsion/Backlash",
+            "example_sentence": "急激な改革に反発する反面、変化の必要性は理解しています。"
+        },
+        {
+            "word": "反感",
+            "reading": "hankan",
+            "meaning": "Antipathy/Resentment",
+            "example_sentence": "一方的な決定に反感を抱くうちに、組織への忠誠心が薄れていきました。"
+        },
+        {
+            "word": "敵意",
+            "reading": "tekii",
+            "meaning": "Hostility/Animosity",
+            "example_sentence": "相手の敵意を感じる反面、対話の可能性を探り続けます。"
+        },
+        {
+            "word": "憎悪",
+            "reading": "zouo",
+            "meaning": "Hatred/Detestation",
+            "example_sentence": "憎悪の連鎖を断つことによって、平和への道が開けます。"
+        },
+        {
+            "word": "嫌悪",
+            "reading": "ken'o",
+            "meaning": "Disgust/Aversion",
+            "example_sentence": "不正に嫌悪感を抱くうちに、告発する決意を固めました。"
+        },
+        {
+            "word": "軽蔑",
+            "reading": "keibetsu",
+            "meaning": "Contempt/Scorn",
+            "example_sentence": "他者を軽蔑する反面、自らの欠点には目を向けていません。"
+        },
+        {
+            "word": "侮辱",
+            "reading": "bujoku",
+            "meaning": "Insult/Affront",
+            "example_sentence": "公然と侮辱されることによって、深い屈辱感を味わいました。"
+        },
+        {
+            "word": "冒涜",
+            "reading": "boutoku",
+            "meaning": "Blasphemy/Desecration",
+            "example_sentence": "神聖なものを冒涜する反面、表現の自由との境界線が問われます。"
+        }
+    ],
+    "liarGameData": {
+        "trap": "取引先の社長に会った時、「いつもの会社の人、来てますか？」と聞いた。(When meeting the client's CEO, I asked: 'Is the usual person from the company here?')",
+        "correctVersion": "「貴社の担当者様は、本日いらっしゃいますでしょうか？」と尋ねるべき。「いつもの会社」ではなく「貴社(きしゃ)」、「来てますか」ではなく「いらっしゃいますか」という尊敬語を使用する。(You should ask: 'Is your company's representative here today?' using honorific 'Kisha' instead of 'usual company' and 'Irassharu' instead of 'kuru').",
+        "explanation": "In Japanese business culture, hierarchy and respect are embedded in the language. Using casual terms like 'company person' or plain verbs like 'kuru' (to come) when speaking to a client's CEO is highly inappropriate. One must use 'Kisha' (貴社) or 'Onsha' (御社) to refer to the client's company and respectful forms like 'irassharu' to show deference."
+    }
+}

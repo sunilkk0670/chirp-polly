@@ -1,0 +1,612 @@
+{
+    "moduleId": "ja_a2_m16",
+    "theme": "Shopping & Fashion",
+    "order": 16,
+    "vocabularyItems": [
+        {
+            "word": "着回し",
+            "reading": "kimawashi",
+            "meaning": "Mix and match",
+            "example_sentence": "着回しのきく服を選びます。"
+        },
+        {
+            "word": "流行遅れ",
+            "reading": "ryuukou okure",
+            "meaning": "Out of fashion",
+            "example_sentence": "流行遅れの服は捨てます。"
+        },
+        {
+            "word": "身支度",
+            "reading": "mijitaku",
+            "meaning": "Preparation/Grooming",
+            "example_sentence": "朝の身支度をします。"
+        },
+        {
+            "word": "清潔感",
+            "reading": "seiketsukan",
+            "meaning": "Cleanliness/Fresh look",
+            "example_sentence": "清潔感のある服装をします。"
+        },
+        {
+            "word": "上品な",
+            "reading": "jouhin na",
+            "meaning": "Elegant/Refined",
+            "example_sentence": "上品なデザインのドレスです。"
+        },
+        {
+            "word": "ラフな",
+            "reading": "rafu na",
+            "meaning": "Rough/Casual",
+            "example_sentence": "今日はラフな格好で来ました。"
+        },
+        {
+            "word": "きちんとした",
+            "reading": "kichintoshita",
+            "meaning": "Proper/Formal",
+            "example_sentence": "きちんとした服で面接に行きます。"
+        },
+        {
+            "word": "よそ行き",
+            "reading": "yosoyuki",
+            "meaning": "Going-out clothes",
+            "example_sentence": "よそ行きの服を新調しました。"
+        },
+        {
+            "word": "普段着",
+            "reading": "fudangi",
+            "meaning": "Everyday clothes",
+            "example_sentence": "家では普段着で過ごします。"
+        },
+        {
+            "word": "お気に入り",
+            "reading": "okiniiri",
+            "meaning": "Favorite",
+            "example_sentence": "お気に入りの靴を履きます。"
+        },
+        {
+            "word": "ブランド",
+            "reading": "burando",
+            "meaning": "Brand",
+            "example_sentence": "有名なブランドのバッグです。"
+        },
+        {
+            "word": "憧れ",
+            "reading": "akogare",
+            "meaning": "Longing/Admiration",
+            "example_sentence": "憧れの時計を手に入れました。"
+        },
+        {
+            "word": "一生もの",
+            "reading": "isshoumono",
+            "meaning": "Lifetime item",
+            "example_sentence": "一生ものの鞄を大切にします。"
+        },
+        {
+            "word": "身体",
+            "reading": "karada",
+            "meaning": "Body/Physical",
+            "example_sentence": "身体にいいものを食べましょう。"
+        },
+        {
+            "word": "内臓",
+            "reading": "naizou",
+            "meaning": "Internal organs",
+            "example_sentence": "内臓の調子が悪いです。"
+        },
+        {
+            "word": "関節",
+            "reading": "kansetsu",
+            "meaning": "Joint",
+            "example_sentence": "膝の関節が痛みます。"
+        },
+        {
+            "word": "粘膜",
+            "reading": "nenmaku",
+            "meaning": "Mucous membrane",
+            "example_sentence": "鼻の粘膜が腫れています。"
+        },
+        {
+            "word": "自覚症状",
+            "reading": "jikaku shoujou",
+            "meaning": "Subjective symptoms",
+            "example_sentence": "自覚症状はありますか。"
+        },
+        {
+            "word": "初期症状",
+            "reading": "shoki shoujou",
+            "meaning": "Initial symptoms",
+            "example_sentence": "病気の初期症状を見逃さないでください。"
+        },
+        {
+            "word": "慢性的な",
+            "reading": "manseiteki na",
+            "meaning": "Chronic",
+            "example_sentence": "慢性的な腰痛に悩んでいます。"
+        },
+        {
+            "word": "急性な",
+            "reading": "kyuusei na",
+            "meaning": "Acute",
+            "example_sentence": "急性の胃炎になりました。"
+        },
+        {
+            "word": "悪化する",
+            "reading": "akka suru",
+            "meaning": "To worsen",
+            "example_sentence": "病状が悪化しました。"
+        },
+        {
+            "word": "回復する",
+            "reading": "kaifuku suru",
+            "meaning": "To recover",
+            "example_sentence": "体力が回復してきました。"
+        },
+        {
+            "word": "再発する",
+            "reading": "saihatsu suru",
+            "meaning": "To relapse/recur",
+            "example_sentence": "風邪が再発してしまいました。"
+        },
+        {
+            "word": "合併症",
+            "reading": "gappeishou",
+            "meaning": "Complications",
+            "example_sentence": "合併症に注意が必要です。"
+        },
+        {
+            "word": "後遺症",
+            "reading": "kouishou",
+            "meaning": "Aftereffects",
+            "example_sentence": "事故の後遺症が残りました。"
+        },
+        {
+            "word": "悪寒",
+            "reading": "okan",
+            "meaning": "Chills",
+            "example_sentence": "悪寒がするので熱が出るかもしれません。"
+        },
+        {
+            "word": "痒み",
+            "reading": "kayumi",
+            "meaning": "Itchiness",
+            "example_sentence": "虫刺されで痒みが止まりません。"
+        },
+        {
+            "word": "むくみ",
+            "reading": "mukumi",
+            "meaning": "Edema/Swelling",
+            "example_sentence": "夕方になると足がむくみます。"
+        },
+        {
+            "word": "貧血",
+            "reading": "hinketsu",
+            "meaning": "Anemia",
+            "example_sentence": "貧血で立ちくらみがしました。"
+        },
+        {
+            "word": "失神する",
+            "reading": "shisshin suru",
+            "meaning": "To faint",
+            "example_sentence": "暑さで失神しそうになりました。"
+        },
+        {
+            "word": "脱水症状",
+            "reading": "dassui shoujou",
+            "meaning": "Dehydration symptoms",
+            "example_sentence": "脱水症状にならないように水分を摂ります。"
+        },
+        {
+            "word": "熱中症",
+            "reading": "netchuushou",
+            "meaning": "Heatstroke",
+            "example_sentence": "夏は熱中症に気をつけてください。"
+        },
+        {
+            "word": "感染症",
+            "reading": "kansenshou",
+            "meaning": "Infectious disease",
+            "example_sentence": "感染症の予防をします。"
+        },
+        {
+            "word": "潜伏期間",
+            "reading": "senpuku kikan",
+            "meaning": "Incubation period",
+            "example_sentence": "ウイルスの潜伏期間を調べます。"
+        },
+        {
+            "word": "免疫力",
+            "reading": "men'ekiryoku",
+            "meaning": "Immunity",
+            "example_sentence": "免疫力を高める食事をします。"
+        },
+        {
+            "word": "予防接種",
+            "reading": "yobou sesshu",
+            "meaning": "Vaccination",
+            "example_sentence": "インフルエンザの予防接種を受けます。"
+        },
+        {
+            "word": "処方薬",
+            "reading": "shohouyaku",
+            "meaning": "Prescription drug",
+            "example_sentence": "処方薬を飲みました。"
+        },
+        {
+            "word": "市販薬",
+            "reading": "shihanyaku",
+            "meaning": "Over-the-counter drug",
+            "example_sentence": "ドラッグストアで市販薬を買います。"
+        },
+        {
+            "word": "頓服薬",
+            "reading": "tonpukuyaku",
+            "meaning": "Medicine to be taken when necessary",
+            "example_sentence": "痛い時にだけ頓服薬を飲みます。"
+        },
+        {
+            "word": "外用薬",
+            "reading": "gaiyouyaku",
+            "meaning": "External medicine",
+            "example_sentence": "これは飲み薬ではなく外用薬です。"
+        },
+        {
+            "word": "内服薬",
+            "reading": "naifukuyaku",
+            "meaning": "Internal medicine",
+            "example_sentence": "内服薬の種類を確認します。"
+        },
+        {
+            "word": "用法",
+            "reading": "youhou",
+            "meaning": "Usage",
+            "example_sentence": "用法・用量を守ってください。"
+        },
+        {
+            "word": "用量",
+            "reading": "youryou",
+            "meaning": "Dosage",
+            "example_sentence": "一回の用量は2錠です。"
+        },
+        {
+            "word": "服用する",
+            "reading": "fukuyou suru",
+            "meaning": "To take medicine",
+            "example_sentence": "食後に薬を服用します。"
+        },
+        {
+            "word": "常備薬",
+            "reading": "joubiyaku",
+            "meaning": "Household medicine",
+            "example_sentence": "旅行に常備薬を持って行きます。"
+        },
+        {
+            "word": "救急箱",
+            "reading": "kyuukyuubako",
+            "meaning": "First-aid kit",
+            "example_sentence": "救急箱から絆創膏を出します。"
+        },
+        {
+            "word": "応急処置",
+            "reading": "oukyuu shochi",
+            "meaning": "First aid",
+            "example_sentence": "怪我に応急処置をしました。"
+        },
+        {
+            "word": "止血",
+            "reading": "shiketsu",
+            "meaning": "Stop bleeding",
+            "example_sentence": "ガーゼで止血します。"
+        },
+        {
+            "word": "安静に",
+            "reading": "ansei ni",
+            "meaning": "To rest/stay quiet",
+            "example_sentence": "今日は一日安静にしてください。"
+        },
+        {
+            "word": "精密検査",
+            "reading": "seimitsu kensa",
+            "meaning": "Detailed examination",
+            "example_sentence": "再検査で精密検査を受けることになりました。"
+        },
+        {
+            "word": "健康診断",
+            "reading": "kenkou shindan",
+            "meaning": "Health checkup",
+            "example_sentence": "会社で健康診断を受けます。"
+        },
+        {
+            "word": "人間ドック",
+            "reading": "ningendokku",
+            "meaning": "Comprehensive health check",
+            "example_sentence": "一年に一度、人間ドックに行きます。"
+        },
+        {
+            "word": "視力検査",
+            "reading": "shiryoku kensa",
+            "meaning": "Vision test",
+            "example_sentence": "視力検査で目が悪くなっていると分かりました。"
+        },
+        {
+            "word": "聴力検査",
+            "reading": "chouryoku kensa",
+            "meaning": "Hearing test",
+            "example_sentence": "聴力検査に異常はありませんでした。"
+        },
+        {
+            "word": "尿検査",
+            "reading": "nyoukensa",
+            "meaning": "Urine test",
+            "example_sentence": "尿検査の結果を待ちます。"
+        },
+        {
+            "word": "便検査",
+            "reading": "benkensa",
+            "meaning": "Stool test",
+            "example_sentence": "便検査用の容器を受け取ります。"
+        },
+        {
+            "word": "歯周病",
+            "reading": "shishuubyou",
+            "meaning": "Periodontal disease",
+            "example_sentence": "歯周病の予防のために歯医者へ行きます。"
+        },
+        {
+            "word": "虫歯",
+            "reading": "mushiba",
+            "meaning": "Cavity/Decayed tooth",
+            "example_sentence": "虫歯の治療をしました。"
+        },
+        {
+            "word": "矯正",
+            "reading": "kyousei",
+            "meaning": "Orthodontics/Correction",
+            "example_sentence": "子供の歯の矯正を考えています。"
+        },
+        {
+            "word": "入れ歯",
+            "reading": "ireba",
+            "meaning": "Dentures",
+            "example_sentence": "祖母が入れ歯を失くしました。"
+        },
+        {
+            "word": "口内炎",
+            "reading": "kounaien",
+            "meaning": "Mouth ulcer/Canker sore",
+            "example_sentence": "口内炎ができて痛いです。"
+        },
+        {
+            "word": "充血する",
+            "reading": "juuketsu suru",
+            "meaning": "To be bloodshot",
+            "example_sentence": "目が充血しています。"
+        },
+        {
+            "word": "眼脂",
+            "reading": "me-yani",
+            "meaning": "Eye discharge",
+            "example_sentence": "朝起きたら眼脂が出ていました。"
+        },
+        {
+            "word": "ドライアイ",
+            "reading": "doraiai",
+            "meaning": "Dry eye",
+            "example_sentence": "PCの使いすぎでドライアイになりました。"
+        },
+        {
+            "word": "処置室",
+            "reading": "shochishitsu",
+            "meaning": "Treatment room",
+            "example_sentence": "処置室で傷の手当てをします。"
+        },
+        {
+            "word": "待合室",
+            "reading": "machiashitsu",
+            "meaning": "Waiting room",
+            "example_sentence": "待合室で雑誌を読んで待ちます。"
+        },
+        {
+            "word": "紹介状",
+            "reading": "shoukaijou",
+            "meaning": "Letter of introduction/Referral",
+            "example_sentence": "大きな病院への紹介状をもらいました。"
+        },
+        {
+            "word": "お薬手帳",
+            "reading": "okusuri techou",
+            "meaning": "Prescription record book",
+            "example_sentence": "薬局でお薬手帳を出します。"
+        },
+        {
+            "word": "持病",
+            "reading": "jibyou",
+            "meaning": "Chronic illness/Pre-existing condition",
+            "example_sentence": "持病がある場合は事前に伝えてください。"
+        },
+        {
+            "word": "アレルギー体質",
+            "reading": "arerugii taishitsu",
+            "meaning": "Allergic constitution",
+            "example_sentence": "私はアレルギー体質です。"
+        },
+        {
+            "word": "偏頭痛",
+            "reading": "henzutsuu",
+            "meaning": "Migraine",
+            "example_sentence": "偏頭痛で仕事ができません。"
+        },
+        {
+            "word": "鼻炎",
+            "reading": "bien",
+            "meaning": "Rhinitis",
+            "example_sentence": "アレルギー性鼻炎に悩んでいます。"
+        },
+        {
+            "word": "喉の腫れ",
+            "reading": "nodo no hare",
+            "meaning": "Swelling in the throat",
+            "example_sentence": "喉の腫れがひどいです。"
+        },
+        {
+            "word": "声が枯れる",
+            "reading": "koe ga kareru",
+            "meaning": "To lose one's voice",
+            "example_sentence": "歌いすぎて声が枯れました。"
+        },
+        {
+            "word": "息切れ",
+            "reading": "ikigire",
+            "meaning": "Shortness of breath",
+            "example_sentence": "階段で息切れがします。"
+        },
+        {
+            "word": "動悸",
+            "reading": "douki",
+            "meaning": "Palpitations",
+            "example_sentence": "急に動悸がし始めました。"
+        },
+        {
+            "word": "吐瀉物",
+            "reading": "toshabutsu",
+            "meaning": "Vomit",
+            "example_sentence": "吐瀉物を適切に処理します。"
+        },
+        {
+            "word": "下血",
+            "reading": "geketsu",
+            "meaning": "Bloody stool",
+            "example_sentence": "下血があったので病院へ行きます。"
+        },
+        {
+            "word": "吐血",
+            "reading": "toketsu",
+            "meaning": "Vomiting blood",
+            "example_sentence": "吐血は緊急事態です。"
+        },
+        {
+            "word": "腹腔鏡",
+            "reading": "fukuukyou",
+            "meaning": "Laparoscopy",
+            "example_sentence": "腹腔鏡手術を受けました。"
+        },
+        {
+            "word": "内視鏡",
+            "reading": "naishikyou",
+            "meaning": "Endoscopy",
+            "example_sentence": "胃の内視鏡検査を予約します。"
+        },
+        {
+            "word": "エコー検査",
+            "reading": "ekoo kensa",
+            "meaning": "Ultrasound scan",
+            "example_sentence": "エコー検査で心臓の状態を見ます。"
+        },
+        {
+            "word": "CTスキャン",
+            "reading": "shii tii sukyan",
+            "meaning": "CT scan",
+            "example_sentence": "CTスキャンの予約が取れました。"
+        },
+        {
+            "word": "MRI検査",
+            "reading": "emu aaru ai kensa",
+            "meaning": "MRI scan",
+            "example_sentence": "精密なMRI検査をします。"
+        },
+        {
+            "word": "転倒する",
+            "reading": "tentou suru",
+            "meaning": "To fall down",
+            "example_sentence": "階段で転倒して怪我をしました。"
+        },
+        {
+            "word": "捻挫",
+            "reading": "nenza",
+            "meaning": "Sprain",
+            "example_sentence": "足首を捻挫しました。"
+        },
+        {
+            "word": "脱臼",
+            "reading": "dakkyuu",
+            "meaning": "Dislocation",
+            "example_sentence": "肩を脱臼しました。"
+        },
+        {
+            "word": "打撲",
+            "reading": "daboku",
+            "meaning": "Bruise/Blow",
+            "example_sentence": "強く打撲したので青あざになっています。"
+        },
+        {
+            "word": "あざ",
+            "reading": "aza",
+            "meaning": "Bruise/Birthmark",
+            "example_sentence": "ぶつけた所があざになりました。"
+        },
+        {
+            "word": "切り傷",
+            "reading": "kirikizu",
+            "meaning": "Cut",
+            "example_sentence": "指の切り傷を消毒します。"
+        },
+        {
+            "word": "擦り傷",
+            "reading": "surikizu",
+            "meaning": "Scratch/Graze",
+            "example_sentence": "転んで擦り傷ができました。"
+        },
+        {
+            "word": "日焼け",
+            "reading": "hiyake",
+            "meaning": "Sunburn/Tan",
+            "example_sentence": "酷い日焼けで皮膚が真っ赤です。"
+        },
+        {
+            "word": "凍傷",
+            "reading": "toushou",
+            "meaning": "Frostbite",
+            "example_sentence": "雪山で凍傷になりかけました。"
+        },
+        {
+            "word": "救急",
+            "reading": "kyuukyuu",
+            "meaning": "First aid/Emergency relief",
+            "example_sentence": "救急病院に連絡してください。"
+        },
+        {
+            "word": "環境",
+            "reading": "kankyou",
+            "meaning": "Environment",
+            "example_sentence": "環境を守るためにゴミを減らします。"
+        },
+        {
+            "word": "地球",
+            "reading": "chikyuu",
+            "meaning": "Earth",
+            "example_sentence": "地球の未来について考えます。"
+        },
+        {
+            "word": "温暖化",
+            "reading": "ondanka",
+            "meaning": "Global warming",
+            "example_sentence": "地球温暖化が進んでいます。"
+        },
+        {
+            "word": "森林",
+            "reading": "shinrin",
+            "meaning": "Forest",
+            "example_sentence": "森林浴をするとリフレッシュできます。"
+        },
+        {
+            "word": "山脈",
+            "reading": "sanmyaku",
+            "meaning": "Mountain range",
+            "example_sentence": "遠くに美しい山脈が見えます。"
+        }
+    ],
+    "liarGameData": {
+        "trap": "試着した服のサイズが合わなかったので、そのまま試着室に置いて帰った。(Left the clothes in the fitting room because they didn't fit.)",
+        "correctVersion": "試着した後は、元の場所に戻すか店員に渡す。(After trying on, return items to their place or give them to a staff member.)",
+        "explanation": "In Japan, leaving items in the fitting room is considered poor manners. Usually, you should bring the items back to the staff members who often wait outside the fitting room to take them back for you or direct you on where to put them."
+    }
+}

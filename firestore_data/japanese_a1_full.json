@@ -1,0 +1,6134 @@
+{
+  "modules": [
+    {
+      "moduleId": "jp_a1_m1",
+      "theme": "Fundamentals",
+      "order": 1,
+      "vocabularyItems": [
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 1)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 1)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 1)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 2)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 2)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 2)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 3)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 3)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 3)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 4)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 4)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 4)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 5)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 5)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 5)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 6)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 6)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 6)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 7)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 7)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 7)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 8)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 8)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 8)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 9)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 9)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 9)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 10)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 10)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 10)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 11)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 11)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 11)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 12)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 12)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 12)",
+          "example_sentence": "私の家は東丬にあります。"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Fundamentals for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Fundamentals."
+      }
+    },
+    {
+      "moduleId": "jp_a1_m2",
+      "theme": "Communication",
+      "order": 2,
+      "vocabularyItems": [
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 1)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 1)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 1)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 2)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 2)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 2)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 3)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 3)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 3)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 4)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 4)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 4)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 5)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 5)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 5)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 6)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 6)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 6)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 7)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 7)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 7)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 8)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 8)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 8)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 9)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 9)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 9)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 10)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 10)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 10)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 11)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 11)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 11)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 12)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 12)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 12)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "こんにちは、元気ですか？"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Communication for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Communication."
+      }
+    },
+    {
+      "moduleId": "jp_a1_m3",
+      "theme": "Daily Life",
+      "order": 3,
+      "vocabularyItems": [
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 1)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 1)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 1)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 2)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 2)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 2)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 3)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 3)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 3)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 4)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 4)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 4)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 5)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 5)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 5)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 6)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 6)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 6)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 7)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 7)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 7)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 8)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 8)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 8)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 9)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 9)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 9)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 10)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 10)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 10)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 11)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 11)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 11)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 12)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 12)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 12)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 12)",
+          "example_sentence": "リンゴを食べます。"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Daily Life for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Daily Life."
+      }
+    },
+    {
+      "moduleId": "jp_a1_m4",
+      "theme": "Travel",
+      "order": 4,
+      "vocabularyItems": [
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 1)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 1)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 1)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 2)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 2)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 2)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 3)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 3)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 3)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 4)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 4)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 4)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 5)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 5)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 5)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 6)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 6)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 6)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 7)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 7)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 7)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 8)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 8)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 8)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 9)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 9)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 9)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 10)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 10)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 10)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 11)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 11)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 11)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 12)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 12)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 12)",
+          "example_sentence": "田中先生は優しいです。"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Travel for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Travel."
+      }
+    },
+    {
+      "moduleId": "jp_a1_m5",
+      "theme": "Socializing",
+      "order": 5,
+      "vocabularyItems": [
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 1)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 1)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 1)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 2)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 2)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 2)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 3)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 3)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 3)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 4)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 4)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 4)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 5)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 5)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 5)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 6)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 6)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 6)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 7)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 7)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 7)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 8)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 8)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 8)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 9)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 9)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 9)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 10)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 10)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 10)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 11)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 11)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 11)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 12)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 12)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 12)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 12)",
+          "example_sentence": "友達と遊びます。"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Socializing for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Socializing."
+      }
+    },
+    {
+      "moduleId": "jp_a1_m6",
+      "theme": "Nature",
+      "order": 6,
+      "vocabularyItems": [
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 1)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 1)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 1)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 2)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 2)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 2)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 3)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 3)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 3)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 4)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 4)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 4)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 5)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 5)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 5)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 6)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 6)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 6)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 7)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 7)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 7)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 8)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 8)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 8)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 9)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 9)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 9)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 10)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 10)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 10)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 11)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 11)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 11)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 12)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 12)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 12)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 12)",
+          "example_sentence": "犬が大好きです。"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Nature for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Nature."
+      }
+    },
+    {
+      "moduleId": "jp_a1_m7",
+      "theme": "Work & Study",
+      "order": 7,
+      "vocabularyItems": [
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 1)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 1)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 1)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 2)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 2)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 2)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 3)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 3)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 3)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 4)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 4)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 4)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 5)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 5)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 5)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 6)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 6)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 6)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 7)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 7)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 7)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 8)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 8)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 8)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 9)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 9)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 9)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 10)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 10)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 10)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 11)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 11)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 11)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 12)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 12)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 12)",
+          "example_sentence": "助けてくれてありがとう。"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Work & Study for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Work & Study."
+      }
+    },
+    {
+      "moduleId": "jp_a1_m8",
+      "theme": "Emotions",
+      "order": 8,
+      "vocabularyItems": [
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 1)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 1)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 1)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 2)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 2)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 2)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 3)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 3)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 3)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 4)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 4)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 4)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 5)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 5)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 5)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 6)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 6)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 6)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 7)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 7)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 7)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 8)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 8)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 8)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 9)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 9)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 9)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 10)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 10)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 10)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 11)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 11)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 11)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 12)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 12)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 12)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 12)",
+          "example_sentence": "水を飲みます。"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Emotions for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Emotions."
+      }
+    },
+    {
+      "moduleId": "jp_a1_m9",
+      "theme": "Culture",
+      "order": 9,
+      "vocabularyItems": [
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 1)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 1)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 1)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 2)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 2)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 2)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 3)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 3)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 3)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 4)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 4)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 4)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 5)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 5)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 5)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 6)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 6)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 6)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 7)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 7)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 7)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 8)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 8)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 8)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 9)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 9)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 9)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 10)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 10)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 10)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 11)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 11)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 11)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 12)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 12)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 12)",
+          "example_sentence": "私の家は東丬にあります。"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Culture for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Culture."
+      }
+    },
+    {
+      "moduleId": "jp_a1_m10",
+      "theme": "Review",
+      "order": 10,
+      "vocabularyItems": [
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 1)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 1)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 1)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 1)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 2)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 2)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 2)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 2)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 3)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 3)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 3)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 3)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 4)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 4)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 4)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 4)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 5)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 5)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 5)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 5)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 6)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 6)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 6)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 6)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 7)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 7)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 7)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 7)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 8)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 8)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 8)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 8)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 9)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 9)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 9)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 9)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 10)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 10)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 10)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 10)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 11)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "こんにちは、元気ですか？"
+        },
+        {
+          "word": "ありがとう",
+          "reading": "arigatou",
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "助けてくれてありがとう。"
+        },
+        {
+          "word": "先生",
+          "reading": "sensei",
+          "meaning": "Teacher (Var 11)",
+          "example_sentence": "田中先生は優しいです。"
+        },
+        {
+          "word": "家",
+          "reading": "ie",
+          "meaning": "House (Var 11)",
+          "example_sentence": "私の家は東丬にあります。"
+        },
+        {
+          "word": "犬",
+          "reading": "inu",
+          "meaning": "Dog (Var 11)",
+          "example_sentence": "犬が大好きです。"
+        },
+        {
+          "word": "食べる",
+          "reading": "taberu",
+          "meaning": "To eat (Var 12)",
+          "example_sentence": "リンゴを食べます。"
+        },
+        {
+          "word": "水",
+          "reading": "mizu",
+          "meaning": "Water (Var 12)",
+          "example_sentence": "水を飲みます。"
+        },
+        {
+          "word": "友達",
+          "reading": "tomodachi",
+          "meaning": "Friend (Var 12)",
+          "example_sentence": "友達と遊びます。"
+        },
+        {
+          "word": "こんにちは",
+          "reading": "konnichiwa",
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "こんにちは、元気ですか？"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Review for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Review."
+      }
+    }
+  ]
+}

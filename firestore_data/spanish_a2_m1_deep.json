@@ -1,0 +1,76 @@
+{
+    "modules": [
+        {
+            "moduleId": "spanish_a2_m1",
+            "theme": "Pretérito Indefinido: Verbos Regulares",
+            "order": 1,
+            "lessons": [
+                {
+                    "target_text": "Yo hablé",
+                    "english": "I spoke",
+                    "phonetic_transcription": "yo a-BLÉ",
+                    "radical_breakdown": "Verbo: Hablar (to speak)"
+                },
+                {
+                    "target_text": "Ella comió",
+                    "english": "She ate",
+                    "phonetic_transcription": "é-ya ko-MYÓ",
+                    "radical_breakdown": "Verbo: Comer (to eat)"
+                },
+                {
+                    "target_text": "Nosotros vivimos",
+                    "english": "We lived",
+                    "phonetic_transcription": "no-SO-tros bi-BÍ-mos",
+                    "radical_breakdown": "Verbo: Vivir (to live)"
+                },
+                {
+                    "target_text": "Tú trabajaste",
+                    "english": "You worked",
+                    "phonetic_transcription": "tu tra-ba-HÁS-te",
+                    "radical_breakdown": "Verbo: Trabajar (to work)"
+                },
+                {
+                    "target_text": "Ellos estudiaron",
+                    "english": "They studied",
+                    "phonetic_transcription": "é-yos es-tu-DYÁ-ron",
+                    "radical_breakdown": "Verbo: Estudiar (to study)"
+                },
+                {
+                    "target_text": "Usted caminó",
+                    "english": "You walked (formal)",
+                    "phonetic_transcription": "us-TED ka-mi-NÓ",
+                    "radical_breakdown": "Verbo: Caminar (to walk)"
+                },
+                {
+                    "target_text": "Nosotros escribimos",
+                    "english": "We wrote",
+                    "phonetic_transcription": "no-SO-tros es-kri-BÍ-mos",
+                    "radical_breakdown": "Verbo: Escribir (to write)"
+                },
+                {
+                    "target_text": "Tú bebiste",
+                    "english": "You drank",
+                    "phonetic_transcription": "tu be-BÍS-te",
+                    "radical_breakdown": "Verbo: Beber (to drink)"
+                },
+                {
+                    "target_text": "Ellas salieron",
+                    "english": "They went out",
+                    "phonetic_transcription": "é-yas sa-LYÉ-ron",
+                    "radical_breakdown": "Verbo: Salir (to go out)"
+                },
+                {
+                    "target_text": "Yo aprendí",
+                    "english": "I learned",
+                    "phonetic_transcription": "yo a-pren-DÍ",
+                    "radical_breakdown": "Verbo: Aprender (to learn)"
+                }
+            ],
+            "liar_game_data": {
+                "trap": "Ayer hablo con mi madre.",
+                "correct_version": "Ayer hablé con mi madre.",
+                "explanation": "With past time markers like 'ayer', use the preterite 'hablé', not the present 'hablo'."
+            }
+        }
+    ]
+}

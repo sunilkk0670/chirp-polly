@@ -1,0 +1,6074 @@
+{
+  "modules": [
+    {
+      "moduleId": "sanskrit_a1_m1",
+      "theme": "Fundamentals",
+      "order": 1,
+      "vocabularyItems": [
+        {
+          "word": "Namaste",
+          "meaning": "Hello",
+          "reading": "नमस्ते",
+          "example_sentence": "Namaste implies Hello"
+        },
+        {
+          "word": "Aham",
+          "meaning": "I",
+          "reading": "अहम्",
+          "example_sentence": "Aham implies I"
+        },
+        {
+          "word": "Tvam",
+          "meaning": "You",
+          "reading": "त्वम्",
+          "example_sentence": "Tvam implies You"
+        },
+        {
+          "word": "Sah",
+          "meaning": "He",
+          "reading": "सः",
+          "example_sentence": "Sah implies He"
+        },
+        {
+          "word": "Saa",
+          "meaning": "She",
+          "reading": "सा",
+          "example_sentence": "Saa implies She"
+        },
+        {
+          "word": "Tat",
+          "meaning": "That",
+          "reading": "तत्",
+          "example_sentence": "Tat implies That"
+        },
+        {
+          "word": "Kim",
+          "meaning": "What",
+          "reading": "किम्",
+          "example_sentence": "Kim implies What"
+        },
+        {
+          "word": "Na",
+          "meaning": "No",
+          "reading": "न",
+          "example_sentence": "Na implies No"
+        },
+        {
+          "word": "Aam",
+          "meaning": "Yes",
+          "reading": "आम्",
+          "example_sentence": "Aam implies Yes"
+        },
+        {
+          "word": "Asti",
+          "meaning": "Is",
+          "reading": "अस्ति",
+          "example_sentence": "Asti implies Is"
+        },
+        {
+          "word": "Nasti",
+          "meaning": "Is not",
+          "reading": "नास्ति",
+          "example_sentence": "Nasti implies Is not"
+        },
+        {
+          "word": "Katham",
+          "meaning": "How",
+          "reading": "कथम्",
+          "example_sentence": "Katham implies How"
+        },
+        {
+          "word": "Kutra",
+          "meaning": "Where",
+          "reading": "कुत्र",
+          "example_sentence": "Kutra implies Where"
+        },
+        {
+          "word": "Atra",
+          "meaning": "Here",
+          "reading": "अत्र",
+          "example_sentence": "Atra implies Here"
+        },
+        {
+          "word": "Tatra",
+          "meaning": "There",
+          "reading": "तत्र",
+          "example_sentence": "Tatra implies There"
+        },
+        {
+          "word": "Etad",
+          "meaning": "This",
+          "reading": "एतत्",
+          "example_sentence": "Etad implies This"
+        },
+        {
+          "word": "Kada",
+          "meaning": "When",
+          "reading": "कदा",
+          "example_sentence": "Kada implies When"
+        },
+        {
+          "word": "Kutah",
+          "meaning": "From where",
+          "reading": "कुतः",
+          "example_sentence": "Kutah implies From where"
+        },
+        {
+          "word": "Kimartham",
+          "meaning": "Why",
+          "reading": "किमर्थम्",
+          "example_sentence": "Kimartham implies Why"
+        },
+        {
+          "word": "Adya",
+          "meaning": "Today",
+          "reading": "अद्य",
+          "example_sentence": "Adya implies Today"
+        },
+        {
+          "word": "Shvah",
+          "meaning": "Tomorrow",
+          "reading": "श्वः",
+          "example_sentence": "Shvah implies Tomorrow"
+        },
+        {
+          "word": "Hyah",
+          "meaning": "Yesterday",
+          "reading": "ह्यः",
+          "example_sentence": "Hyah implies Yesterday"
+        },
+        {
+          "word": "Pratah",
+          "meaning": "Morning",
+          "reading": "प्रातः",
+          "example_sentence": "Pratah implies Morning"
+        },
+        {
+          "word": "Sayam",
+          "meaning": "Evening",
+          "reading": "सायम्",
+          "example_sentence": "Sayam implies Evening"
+        },
+        {
+          "word": "Ratri",
+          "meaning": "Night",
+          "reading": "रात्रिः",
+          "example_sentence": "Ratri implies Night"
+        },
+        {
+          "word": "Dinam",
+          "meaning": "Day",
+          "reading": "दिनम्",
+          "example_sentence": "Dinam implies Day"
+        },
+        {
+          "word": "Madhyahne",
+          "meaning": "Afternoon",
+          "reading": "मध्याह्ने",
+          "example_sentence": "Madhyahne implies Afternoon"
+        },
+        {
+          "word": "Idanim",
+          "meaning": "Now",
+          "reading": "इदानीम्",
+          "example_sentence": "Idanim implies Now"
+        },
+        {
+          "word": "Tada",
+          "meaning": "Then",
+          "reading": "तदा",
+          "example_sentence": "Tada implies Then"
+        },
+        {
+          "word": "Yada",
+          "meaning": "When (rel)",
+          "reading": "यदा",
+          "example_sentence": "Yada implies When (rel)"
+        },
+        {
+          "word": "Sarvada",
+          "meaning": "Always",
+          "reading": "सर्वदा",
+          "example_sentence": "Sarvada implies Always"
+        },
+        {
+          "word": "Ekada",
+          "meaning": "Once",
+          "reading": "एकदा",
+          "example_sentence": "Ekada implies Once"
+        },
+        {
+          "word": "Punah",
+          "meaning": "Again",
+          "reading": "पुनः",
+          "example_sentence": "Punah implies Again"
+        },
+        {
+          "word": "Api",
+          "meaning": "Also/Even",
+          "reading": "अपि",
+          "example_sentence": "Api implies Also/Even"
+        },
+        {
+          "word": "Eva",
+          "meaning": "Only",
+          "reading": "एव",
+          "example_sentence": "Eva implies Only"
+        },
+        {
+          "word": "Cha",
+          "meaning": "And",
+          "reading": "च",
+          "example_sentence": "Cha implies And"
+        },
+        {
+          "word": "Iti",
+          "meaning": "Thus",
+          "reading": "इति",
+          "example_sentence": "Iti implies Thus"
+        },
+        {
+          "word": "Yadi",
+          "meaning": "If",
+          "reading": "यदि",
+          "example_sentence": "Yadi implies If"
+        },
+        {
+          "word": "Tarhi",
+          "meaning": "Then (corr)",
+          "reading": "तर्हि",
+          "example_sentence": "Tarhi implies Then (corr)"
+        },
+        {
+          "word": "Athava",
+          "meaning": "Or",
+          "reading": "अथवा",
+          "example_sentence": "Athava implies Or"
+        },
+        {
+          "word": "Antah",
+          "meaning": "Inside",
+          "reading": "अन्तः",
+          "example_sentence": "Antah implies Inside"
+        },
+        {
+          "word": "Bahih",
+          "meaning": "Outside",
+          "reading": "बहिः",
+          "example_sentence": "Bahih implies Outside"
+        },
+        {
+          "word": "Upari",
+          "meaning": "Above",
+          "reading": "उपरि",
+          "example_sentence": "Upari implies Above"
+        },
+        {
+          "word": "Adhah",
+          "meaning": "Below",
+          "reading": "अधः",
+          "example_sentence": "Adhah implies Below"
+        },
+        {
+          "word": "Puratah",
+          "meaning": "In front",
+          "reading": "पुरतः",
+          "example_sentence": "Puratah implies In front"
+        },
+        {
+          "word": "Prishthatah",
+          "meaning": "Behind",
+          "reading": "पृष्ठतः",
+          "example_sentence": "Prishthatah implies Behind"
+        },
+        {
+          "word": "Vamatah",
+          "meaning": "Left",
+          "reading": "वामतः",
+          "example_sentence": "Vamatah implies Left"
+        },
+        {
+          "word": "Dakshinatah",
+          "meaning": "Right",
+          "reading": "दक्षिणतः",
+          "example_sentence": "Dakshinatah implies Right"
+        },
+        {
+          "word": "Samipe",
+          "meaning": "Near",
+          "reading": "समीपे",
+          "example_sentence": "Samipe implies Near"
+        },
+        {
+          "word": "Dure",
+          "meaning": "Far",
+          "reading": "दूरे",
+          "example_sentence": "Dure implies Far"
+        },
+        {
+          "word": "Shighram",
+          "meaning": "Fast",
+          "reading": "शीघ्रम्",
+          "example_sentence": "Shighram implies Fast"
+        },
+        {
+          "word": "Mandam",
+          "meaning": "Slow",
+          "reading": "मन्दम्",
+          "example_sentence": "Mandam implies Slow"
+        },
+        {
+          "word": "Uchchaih",
+          "meaning": "Loudly",
+          "reading": "उच्चैः",
+          "example_sentence": "Uchchaih implies Loudly"
+        },
+        {
+          "word": "Nichaih",
+          "meaning": "Softly/Low",
+          "reading": "नीचैः",
+          "example_sentence": "Nichaih implies Softly/Low"
+        },
+        {
+          "word": "Samyak",
+          "meaning": "Well/Good",
+          "reading": "सम्यक्",
+          "example_sentence": "Samyak implies Well/Good"
+        },
+        {
+          "word": "Bahuh",
+          "meaning": "Many",
+          "reading": "बहु",
+          "example_sentence": "Bahuh implies Many"
+        },
+        {
+          "word": "Alpam",
+          "meaning": "Little",
+          "reading": "अल्पम्",
+          "example_sentence": "Alpam implies Little"
+        },
+        {
+          "word": "Kinchit",
+          "meaning": "A little",
+          "reading": "किञ्चित्",
+          "example_sentence": "Kinchit implies A little"
+        },
+        {
+          "word": "Sarvam",
+          "meaning": "All",
+          "reading": "सर्वम्",
+          "example_sentence": "Sarvam implies All"
+        },
+        {
+          "word": "Kimapi",
+          "meaning": "Something",
+          "reading": "किमपि",
+          "example_sentence": "Kimapi implies Something"
+        },
+        {
+          "word": "Kashchit",
+          "meaning": "Someone",
+          "reading": "कश्चित्",
+          "example_sentence": "Kashchit implies Someone"
+        },
+        {
+          "word": "Kutrapi",
+          "meaning": "Anywhere",
+          "reading": "कुत्रापि",
+          "example_sentence": "Kutrapi implies Anywhere"
+        },
+        {
+          "word": "Kadapi",
+          "meaning": "Ever",
+          "reading": "कदापि",
+          "example_sentence": "Kadapi implies Ever"
+        },
+        {
+          "word": "Adhuna",
+          "meaning": "Right now",
+          "reading": "अधुना",
+          "example_sentence": "Adhuna implies Right now"
+        },
+        {
+          "word": "Agre",
+          "meaning": "Forward",
+          "reading": "अग्रे",
+          "example_sentence": "Agre implies Forward"
+        },
+        {
+          "word": "Paschat",
+          "meaning": "Afterwards",
+          "reading": "पश्चात्",
+          "example_sentence": "Paschat implies Afterwards"
+        },
+        {
+          "word": "Saha",
+          "meaning": "With",
+          "reading": "सह",
+          "example_sentence": "Saha implies With"
+        },
+        {
+          "word": "Vina",
+          "meaning": "Without",
+          "reading": "विना",
+          "example_sentence": "Vina implies Without"
+        },
+        {
+          "word": "Prati",
+          "meaning": "Towards",
+          "reading": "प्रति",
+          "example_sentence": "Prati implies Towards"
+        },
+        {
+          "word": "Namah",
+          "meaning": "Salutation",
+          "reading": "नमः",
+          "example_sentence": "Namah implies Salutation"
+        },
+        {
+          "word": "Svaha",
+          "meaning": "Avail/Hail",
+          "reading": "स्वाहा",
+          "example_sentence": "Svaha implies Avail/Hail"
+        },
+        {
+          "word": "Dhanyavadah",
+          "meaning": "Thank you",
+          "reading": "धन्यवादः",
+          "example_sentence": "Dhanyavadah implies Thank you"
+        },
+        {
+          "word": "Swagatam",
+          "meaning": "Welcome",
+          "reading": "स्वागतम्",
+          "example_sentence": "Swagatam implies Welcome"
+        },
+        {
+          "word": "Kshamyatam",
+          "meaning": "Sorry",
+          "reading": "क्षम्यताम्",
+          "example_sentence": "Kshamyatam implies Sorry"
+        },
+        {
+          "word": "Chinta Maastu",
+          "meaning": "Don't worry",
+          "reading": "चिन्ता मास्तु",
+          "example_sentence": "Chinta Maastu implies Don't worry"
+        },
+        {
+          "word": "Uttamam",
+          "meaning": "Excellent",
+          "reading": "उत्तमम्",
+          "example_sentence": "Uttamam implies Excellent"
+        },
+        {
+          "word": "Shobhanam",
+          "meaning": "Beautiful/Good",
+          "reading": "शोभनम्",
+          "example_sentence": "Shobhanam implies Beautiful/Good"
+        },
+        {
+          "word": "Satyam",
+          "meaning": "Truth",
+          "reading": "सत्यम्",
+          "example_sentence": "Satyam implies Truth"
+        },
+        {
+          "word": "Mithya",
+          "meaning": "Lie/False",
+          "reading": "मिथ्या",
+          "example_sentence": "Mithya implies Lie/False"
+        },
+        {
+          "word": "Dharmah",
+          "meaning": "Duty/Dharma",
+          "reading": "धर्मः",
+          "example_sentence": "Dharmah implies Duty/Dharma"
+        },
+        {
+          "word": "Karma",
+          "meaning": "Action",
+          "reading": "कर्म",
+          "example_sentence": "Karma implies Action"
+        },
+        {
+          "word": "Gnanam",
+          "meaning": "Knowledge",
+          "reading": "ज्ञानम्",
+          "example_sentence": "Gnanam implies Knowledge"
+        },
+        {
+          "word": "Bhakti",
+          "meaning": "Devotion",
+          "reading": "भक्तिः",
+          "example_sentence": "Bhakti implies Devotion"
+        },
+        {
+          "word": "Moksha",
+          "meaning": "Liberation",
+          "reading": "मोक्षः",
+          "example_sentence": "Moksha implies Liberation"
+        },
+        {
+          "word": "Shanti",
+          "meaning": "Peace",
+          "reading": "शान्तिः",
+          "example_sentence": "Shanti implies Peace"
+        },
+        {
+          "word": "Anandah",
+          "meaning": "Bliss",
+          "reading": "आनन्दः",
+          "example_sentence": "Anandah implies Bliss"
+        },
+        {
+          "word": "Sukham",
+          "meaning": "Happiness",
+          "reading": "सुखम्",
+          "example_sentence": "Sukham implies Happiness"
+        },
+        {
+          "word": "Duhkham",
+          "meaning": "Sorrow",
+          "reading": "दुःखम्",
+          "example_sentence": "Duhkham implies Sorrow"
+        },
+        {
+          "word": "Prem",
+          "meaning": "Love",
+          "reading": "प्रेम",
+          "example_sentence": "Prem implies Love"
+        },
+        {
+          "word": "Krodhah",
+          "meaning": "Anger",
+          "reading": "क्रोधः",
+          "example_sentence": "Krodhah implies Anger"
+        },
+        {
+          "word": "Bhayam",
+          "meaning": "Fear",
+          "reading": "भयम्",
+          "example_sentence": "Bhayam implies Fear"
+        },
+        {
+          "word": "Dhairyam",
+          "meaning": "Courage",
+          "reading": "धैर्यम्",
+          "example_sentence": "Dhairyam implies Courage"
+        },
+        {
+          "word": "Balam",
+          "meaning": "Strength",
+          "reading": "बलम्",
+          "example_sentence": "Balam implies Strength"
+        },
+        {
+          "word": "Mitram",
+          "meaning": "Friend (N)",
+          "reading": "मित्रम्",
+          "example_sentence": "Mitram implies Friend (N)"
+        },
+        {
+          "word": "Shatruh",
+          "meaning": "Enemy",
+          "reading": "शत्रुः",
+          "example_sentence": "Shatruh implies Enemy"
+        },
+        {
+          "word": "Jayah",
+          "meaning": "Victory",
+          "reading": "जयः",
+          "example_sentence": "Jayah implies Victory"
+        },
+        {
+          "word": "Parajayah",
+          "meaning": "Defeat",
+          "reading": "पराजयः",
+          "example_sentence": "Parajayah implies Defeat"
+        },
+        {
+          "word": "Labhah",
+          "meaning": "Profit/Gain",
+          "reading": "लाभः",
+          "example_sentence": "Labhah implies Profit/Gain"
+        },
+        {
+          "word": "Hanih",
+          "meaning": "Loss",
+          "reading": "हानिः",
+          "example_sentence": "Hanih implies Loss"
+        },
+        {
+          "word": "Jivanam",
+          "meaning": "Life",
+          "reading": "जीवनम्",
+          "example_sentence": "Jivanam implies Life"
+        }
+      ]
+    },
+    {
+      "moduleId": "sanskrit_a1_m2",
+      "theme": "Body & Daily Life",
+      "order": 2,
+      "vocabularyItems": [
+        {
+          "word": "Mukham",
+          "meaning": "Face",
+          "reading": "मुखम्",
+          "example_sentence": "Mukham implies Face"
+        },
+        {
+          "word": "Hastah",
+          "meaning": "Hand",
+          "reading": "हस्तः",
+          "example_sentence": "Hastah implies Hand"
+        },
+        {
+          "word": "Padah",
+          "meaning": "Foot",
+          "reading": "पादः",
+          "example_sentence": "Padah implies Foot"
+        },
+        {
+          "word": "Netram",
+          "meaning": "Eye",
+          "reading": "नेत्रम्",
+          "example_sentence": "Netram implies Eye"
+        },
+        {
+          "word": "Karnah",
+          "meaning": "Ear",
+          "reading": "कर्णः",
+          "example_sentence": "Karnah implies Ear"
+        },
+        {
+          "word": "Nasika",
+          "meaning": "Nose",
+          "reading": "नासिका",
+          "example_sentence": "Nasika implies Nose"
+        },
+        {
+          "word": "Dantah",
+          "meaning": "Tooth",
+          "reading": "दन्तः",
+          "example_sentence": "Dantah implies Tooth"
+        },
+        {
+          "word": "Jihva",
+          "meaning": "Tongue",
+          "reading": "जिह्वा",
+          "example_sentence": "Jihva implies Tongue"
+        },
+        {
+          "word": "Keshah",
+          "meaning": "Hair",
+          "reading": "केशः",
+          "example_sentence": "Keshah implies Hair"
+        },
+        {
+          "word": "Udaram",
+          "meaning": "Stomach",
+          "reading": "उदरम्",
+          "example_sentence": "Udaram implies Stomach"
+        },
+        {
+          "word": "Anguli",
+          "meaning": "Finger",
+          "reading": "अङ्गुली",
+          "example_sentence": "Anguli implies Finger"
+        },
+        {
+          "word": "Kanthah",
+          "meaning": "Throat",
+          "reading": "कण्ठः",
+          "example_sentence": "Kanthah implies Throat"
+        },
+        {
+          "word": "Hridayam",
+          "meaning": "Heart",
+          "reading": "हृदयम्",
+          "example_sentence": "Hridayam implies Heart"
+        },
+        {
+          "word": "Raktam",
+          "meaning": "Blood",
+          "reading": "रक्तम्",
+          "example_sentence": "Raktam implies Blood"
+        },
+        {
+          "word": "Mastakam",
+          "meaning": "Head",
+          "reading": "मस्तकम्",
+          "example_sentence": "Mastakam implies Head"
+        },
+        {
+          "word": "Lalatam",
+          "meaning": "Forehead",
+          "reading": "ललाटम्",
+          "example_sentence": "Lalatam implies Forehead"
+        },
+        {
+          "word": "Bhruh",
+          "meaning": "Eyebrow",
+          "reading": "भ्रूः",
+          "example_sentence": "Bhruh implies Eyebrow"
+        },
+        {
+          "word": "Kapolah",
+          "meaning": "Cheek",
+          "reading": "कपोलः",
+          "example_sentence": "Kapolah implies Cheek"
+        },
+        {
+          "word": "Oshthah",
+          "meaning": "Lip",
+          "reading": "ओष्ठः",
+          "example_sentence": "Oshthah implies Lip"
+        },
+        {
+          "word": "Chibukam",
+          "meaning": "Chin",
+          "reading": "चिबुकम्",
+          "example_sentence": "Chibukam implies Chin"
+        },
+        {
+          "word": "Skandhah",
+          "meaning": "Shoulder",
+          "reading": "स्कन्धः",
+          "example_sentence": "Skandhah implies Shoulder"
+        },
+        {
+          "word": "Vakshah",
+          "meaning": "Chest",
+          "reading": "वक्षः",
+          "example_sentence": "Vakshah implies Chest"
+        },
+        {
+          "word": "Prishtham",
+          "meaning": "Back",
+          "reading": "पृष्ठम्",
+          "example_sentence": "Prishtham implies Back"
+        },
+        {
+          "word": "Katih",
+          "meaning": "Waist",
+          "reading": "कटिः",
+          "example_sentence": "Katih implies Waist"
+        },
+        {
+          "word": "Janu",
+          "meaning": "Knee",
+          "reading": "जानु",
+          "example_sentence": "Janu implies Knee"
+        },
+        {
+          "word": "Nakhah",
+          "meaning": "Nail",
+          "reading": "नखः",
+          "example_sentence": "Nakhah implies Nail"
+        },
+        {
+          "word": "Twak",
+          "meaning": "Skin",
+          "reading": "त्वक्",
+          "example_sentence": "Twak implies Skin"
+        },
+        {
+          "word": "Asthi",
+          "meaning": "Bone",
+          "reading": "अस्थि",
+          "example_sentence": "Asthi implies Bone"
+        },
+        {
+          "word": "Mamsam",
+          "meaning": "Flesh",
+          "reading": "मांसम्",
+          "example_sentence": "Mamsam implies Flesh"
+        },
+        {
+          "word": "Shariram",
+          "meaning": "Body",
+          "reading": "शरीरम्",
+          "example_sentence": "Shariram implies Body"
+        },
+        {
+          "word": "Vastram",
+          "meaning": "Cloth",
+          "reading": "वस्त्रम्",
+          "example_sentence": "Vastram implies Cloth"
+        },
+        {
+          "word": "Yutakam",
+          "meaning": "Shirt",
+          "reading": "युतकम्",
+          "example_sentence": "Yutakam implies Shirt"
+        },
+        {
+          "word": "Urukam",
+          "meaning": "Trousers",
+          "reading": "ऊरुकम्",
+          "example_sentence": "Urukam implies Trousers"
+        },
+        {
+          "word": "Padatranam",
+          "meaning": "Shoe",
+          "reading": "पादत्राणम्",
+          "example_sentence": "Padatranam implies Shoe"
+        },
+        {
+          "word": "Upanietram",
+          "meaning": "Eyeglasses",
+          "reading": "उपनेत्रम्",
+          "example_sentence": "Upanietram implies Eyeglasses"
+        },
+        {
+          "word": "Ghati",
+          "meaning": "Clock/Watch",
+          "reading": "घटी",
+          "example_sentence": "Ghati implies Clock/Watch"
+        },
+        {
+          "word": "Kankanam",
+          "meaning": "Bangle",
+          "reading": "कङ्कणम्",
+          "example_sentence": "Kankanam implies Bangle"
+        },
+        {
+          "word": "Anguliyakam",
+          "meaning": "Ring",
+          "reading": "अङ्गुलीयकम्",
+          "example_sentence": "Anguliyakam implies Ring"
+        },
+        {
+          "word": "Harah",
+          "meaning": "Necklace",
+          "reading": "हारः",
+          "example_sentence": "Harah implies Necklace"
+        },
+        {
+          "word": "Dhanam",
+          "meaning": "Money/Wealth",
+          "reading": "धनम्",
+          "example_sentence": "Dhanam implies Money/Wealth"
+        },
+        {
+          "word": "Suvarnam",
+          "meaning": "Gold",
+          "reading": "सुवर्णम्",
+          "example_sentence": "Suvarnam implies Gold"
+        },
+        {
+          "word": "Rajatam",
+          "meaning": "Silver",
+          "reading": "रजतम्",
+          "example_sentence": "Rajatam implies Silver"
+        },
+        {
+          "word": "Tamram",
+          "meaning": "Copper",
+          "reading": "ताम्रम्",
+          "example_sentence": "Tamram implies Copper"
+        },
+        {
+          "word": "Loham",
+          "meaning": "Iron",
+          "reading": "लोहम्",
+          "example_sentence": "Loham implies Iron"
+        },
+        {
+          "word": "Kaachah",
+          "meaning": "Glass",
+          "reading": "काचः",
+          "example_sentence": "Kaachah implies Glass"
+        },
+        {
+          "word": "Darpanah",
+          "meaning": "Mirror",
+          "reading": "दर्पणः",
+          "example_sentence": "Darpanah implies Mirror"
+        },
+        {
+          "word": "Kankatam",
+          "meaning": "Comb",
+          "reading": "कङ्कतम्",
+          "example_sentence": "Kankatam implies Comb"
+        },
+        {
+          "word": "Tailam",
+          "meaning": "Oil",
+          "reading": "तैलम्",
+          "example_sentence": "Tailam implies Oil"
+        },
+        {
+          "word": "Phenakam",
+          "meaning": "Soap",
+          "reading": "फेनकम्",
+          "example_sentence": "Phenakam implies Soap"
+        },
+        {
+          "word": "Dantakurchah",
+          "meaning": "Toothbrush",
+          "reading": "दन्तकूर्चः",
+          "example_sentence": "Dantakurchah implies Toothbrush"
+        },
+        {
+          "word": "Snanam",
+          "meaning": "Bath",
+          "reading": "स्नानम्",
+          "example_sentence": "Snanam implies Bath"
+        },
+        {
+          "word": "Bhojanam",
+          "meaning": "Meal/Food",
+          "reading": "भोजनम्",
+          "example_sentence": "Bhojanam implies Meal/Food"
+        },
+        {
+          "word": "Shayanam",
+          "meaning": "Sleep/Bed",
+          "reading": "शयनम्",
+          "example_sentence": "Shayanam implies Sleep/Bed"
+        },
+        {
+          "word": "Nidra",
+          "meaning": "Sleep",
+          "reading": "निद्रा",
+          "example_sentence": "Nidra implies Sleep"
+        },
+        {
+          "word": "Jagaranam",
+          "meaning": "Waking",
+          "reading": "जागरणम्",
+          "example_sentence": "Jagaranam implies Waking"
+        },
+        {
+          "word": "Karyam",
+          "meaning": "Act/Work",
+          "reading": "कार्यम्",
+          "example_sentence": "Karyam implies Act/Work"
+        },
+        {
+          "word": "Vishramah",
+          "meaning": "Rest",
+          "reading": "विश्रामः",
+          "example_sentence": "Vishramah implies Rest"
+        },
+        {
+          "word": "Praatah-krityam",
+          "meaning": "Morning routine",
+          "reading": "प्रातःकृत्यम्",
+          "example_sentence": "Praatah-krityam implies Morning routine"
+        },
+        {
+          "word": "Vyayamah",
+          "meaning": "Exercise",
+          "reading": "व्यायामः",
+          "example_sentence": "Vyayamah implies Exercise"
+        },
+        {
+          "word": "Kreeda",
+          "meaning": "Sport/Play",
+          "reading": "क्रीडा",
+          "example_sentence": "Kreeda implies Sport/Play"
+        },
+        {
+          "word": "Pathanam",
+          "meaning": "Reading",
+          "reading": "पठनम्",
+          "example_sentence": "Pathanam implies Reading"
+        },
+        {
+          "word": "Lekhanam",
+          "meaning": "Writing",
+          "reading": "लेखनम्",
+          "example_sentence": "Lekhanam implies Writing"
+        },
+        {
+          "word": "Bhashanam",
+          "meaning": "Specch",
+          "reading": "भाषणम्",
+          "example_sentence": "Bhashanam implies Specch"
+        },
+        {
+          "word": "Shravanam",
+          "meaning": "Listening",
+          "reading": "श्रवणम्",
+          "example_sentence": "Shravanam implies Listening"
+        },
+        {
+          "word": "Darshanam",
+          "meaning": "Seeing",
+          "reading": "दर्शनम्",
+          "example_sentence": "Darshanam implies Seeing"
+        },
+        {
+          "word": "Sparshanam",
+          "meaning": "Touching",
+          "reading": "स्पर्शनम्",
+          "example_sentence": "Sparshanam implies Touching"
+        },
+        {
+          "word": "Ghranam",
+          "meaning": "Smelling",
+          "reading": "घ्राणम्",
+          "example_sentence": "Ghranam implies Smelling"
+        },
+        {
+          "word": "Rasanam",
+          "meaning": "Tasting",
+          "reading": "रसनम्",
+          "example_sentence": "Rasanam implies Tasting"
+        },
+        {
+          "word": "Chintanam",
+          "meaning": "Thinking",
+          "reading": "चिन्तनम्",
+          "example_sentence": "Chintanam implies Thinking"
+        },
+        {
+          "word": "Smaranam",
+          "meaning": "Remembering",
+          "reading": "स्मरणम्",
+          "example_sentence": "Smaranam implies Remembering"
+        },
+        {
+          "word": "Aarogyam",
+          "meaning": "Health",
+          "reading": "आरोग्यम्",
+          "example_sentence": "Aarogyam implies Health"
+        },
+        {
+          "word": "Rugnah",
+          "meaning": "Sick",
+          "reading": "रुग्णः",
+          "example_sentence": "Rugnah implies Sick"
+        },
+        {
+          "word": "Aushadham",
+          "meaning": "Medicine",
+          "reading": "औषधम्",
+          "example_sentence": "Aushadham implies Medicine"
+        },
+        {
+          "word": "Vaidyah",
+          "meaning": "Doctor",
+          "reading": "वैद्यः",
+          "example_sentence": "Vaidyah implies Doctor"
+        },
+        {
+          "word": "Chikitsa",
+          "meaning": "Treatment",
+          "reading": "चिकित्सा",
+          "example_sentence": "Chikitsa implies Treatment"
+        },
+        {
+          "word": "Jvarah",
+          "meaning": "Fever",
+          "reading": "ज्वरः",
+          "example_sentence": "Jvarah implies Fever"
+        },
+        {
+          "word": "Vedana",
+          "meaning": "Pain",
+          "reading": "वेदना",
+          "example_sentence": "Vedana implies Pain"
+        },
+        {
+          "word": "Pipasa",
+          "meaning": "Thirst",
+          "reading": "पिपासा",
+          "example_sentence": "Pipasa implies Thirst"
+        },
+        {
+          "word": "Bubhuksha",
+          "meaning": "Hunger",
+          "reading": "बुभुक्षा",
+          "example_sentence": "Bubhuksha implies Hunger"
+        },
+        {
+          "word": "Shramah",
+          "meaning": "Fatigue",
+          "reading": "श्रमः",
+          "example_sentence": "Shramah implies Fatigue"
+        },
+        {
+          "word": "Utsahah",
+          "meaning": "Enthusiasm",
+          "reading": "उत्साहः",
+          "example_sentence": "Utsahah implies Enthusiasm"
+        },
+        {
+          "word": "Alasyam",
+          "meaning": "Laziness",
+          "reading": "आलस्यम्",
+          "example_sentence": "Alasyam implies Laziness"
+        },
+        {
+          "word": "Snayu",
+          "meaning": "Muscle",
+          "reading": "स्नायुः",
+          "example_sentence": "Snayu implies Muscle"
+        },
+        {
+          "word": "Majjah",
+          "meaning": "Marrow",
+          "reading": "मज्जा",
+          "example_sentence": "Majjah implies Marrow"
+        },
+        {
+          "word": "Raktabindu",
+          "meaning": "Drop of blood",
+          "reading": "रक्तबिन्दुः",
+          "example_sentence": "Raktabindu implies Drop of blood"
+        },
+        {
+          "word": "Ashru",
+          "meaning": "Tear",
+          "reading": "अश्रु",
+          "example_sentence": "Ashru implies Tear"
+        },
+        {
+          "word": "Svedah",
+          "meaning": "Sweat",
+          "reading": "स्वेदः",
+          "example_sentence": "Svedah implies Sweat"
+        },
+        {
+          "word": "Malam",
+          "meaning": "Dirt/Waste",
+          "reading": "मलम्",
+          "example_sentence": "Malam implies Dirt/Waste"
+        },
+        {
+          "word": "Mutram",
+          "meaning": "Urine",
+          "reading": "मूत्रम्",
+          "example_sentence": "Mutram implies Urine"
+        },
+        {
+          "word": "Shvasah",
+          "meaning": "Breath",
+          "reading": "श्वासः",
+          "example_sentence": "Shvasah implies Breath"
+        },
+        {
+          "word": "Maha-Mukham",
+          "meaning": "Great/Big Face",
+          "reading": "महामुखम्",
+          "example_sentence": "MahaMukham asti (It is a big Face)"
+        },
+        {
+          "word": "Maha-Hastah",
+          "meaning": "Great/Big Hand",
+          "reading": "महाहस्तः",
+          "example_sentence": "MahaHastah asti (It is a big Hand)"
+        },
+        {
+          "word": "Maha-Padah",
+          "meaning": "Great/Big Foot",
+          "reading": "महापादः",
+          "example_sentence": "MahaPadah asti (It is a big Foot)"
+        },
+        {
+          "word": "Maha-Netram",
+          "meaning": "Great/Big Eye",
+          "reading": "महानेत्रम्",
+          "example_sentence": "MahaNetram asti (It is a big Eye)"
+        },
+        {
+          "word": "Maha-Karnah",
+          "meaning": "Great/Big Ear",
+          "reading": "महाकर्णः",
+          "example_sentence": "MahaKarnah asti (It is a big Ear)"
+        },
+        {
+          "word": "Maha-Nasika",
+          "meaning": "Great/Big Nose",
+          "reading": "महानासिका",
+          "example_sentence": "MahaNasika asti (It is a big Nose)"
+        },
+        {
+          "word": "Maha-Dantah",
+          "meaning": "Great/Big Tooth",
+          "reading": "महादन्तः",
+          "example_sentence": "MahaDantah asti (It is a big Tooth)"
+        },
+        {
+          "word": "Maha-Jihva",
+          "meaning": "Great/Big Tongue",
+          "reading": "महाजिह्वा",
+          "example_sentence": "MahaJihva asti (It is a big Tongue)"
+        },
+        {
+          "word": "Maha-Keshah",
+          "meaning": "Great/Big Hair",
+          "reading": "महाकेशः",
+          "example_sentence": "MahaKeshah asti (It is a big Hair)"
+        },
+        {
+          "word": "Maha-Udaram",
+          "meaning": "Great/Big Stomach",
+          "reading": "महाउदरम्",
+          "example_sentence": "MahaUdaram asti (It is a big Stomach)"
+        }
+      ]
+    },
+    {
+      "moduleId": "sanskrit_a1_m3",
+      "theme": "Family & People",
+      "order": 3,
+      "vocabularyItems": [
+        {
+          "word": "Mata",
+          "meaning": "Mother",
+          "reading": "माता",
+          "example_sentence": "Mata implies Mother"
+        },
+        {
+          "word": "Pita",
+          "meaning": "Father",
+          "reading": "पिता",
+          "example_sentence": "Pita implies Father"
+        },
+        {
+          "word": "Bhrata",
+          "meaning": "Brother",
+          "reading": "भ्राता",
+          "example_sentence": "Bhrata implies Brother"
+        },
+        {
+          "word": "Bhagini",
+          "meaning": "Sister",
+          "reading": "भगिनी",
+          "example_sentence": "Bhagini implies Sister"
+        },
+        {
+          "word": "Putrah",
+          "meaning": "Son",
+          "reading": "पुत्रः",
+          "example_sentence": "Putrah implies Son"
+        },
+        {
+          "word": "Putri",
+          "meaning": "Daughter",
+          "reading": "पुत्री",
+          "example_sentence": "Putri implies Daughter"
+        },
+        {
+          "word": "Pitamahah",
+          "meaning": "Grandfather (P)",
+          "reading": "पितामहः",
+          "example_sentence": "Pitamahah implies Grandfather (P)"
+        },
+        {
+          "word": "Pitamahi",
+          "meaning": "Grandmother (P)",
+          "reading": "पितामही",
+          "example_sentence": "Pitamahi implies Grandmother (P)"
+        },
+        {
+          "word": "Matamahah",
+          "meaning": "Grandfather (M)",
+          "reading": "मातामहः",
+          "example_sentence": "Matamahah implies Grandfather (M)"
+        },
+        {
+          "word": "Matamahi",
+          "meaning": "Grandmother (M)",
+          "reading": "मातामही",
+          "example_sentence": "Matamahi implies Grandmother (M)"
+        },
+        {
+          "word": "Patni",
+          "meaning": "Wife",
+          "reading": "पत्नी",
+          "example_sentence": "Patni implies Wife"
+        },
+        {
+          "word": "Patih",
+          "meaning": "Husband",
+          "reading": "पतिः",
+          "example_sentence": "Patih implies Husband"
+        },
+        {
+          "word": "Matulah",
+          "meaning": "Uncle (Maternal)",
+          "reading": "मातुलः",
+          "example_sentence": "Matulah implies Uncle (Maternal)"
+        },
+        {
+          "word": "Matulani",
+          "meaning": "Aunt (Maternal)",
+          "reading": "मातुलानी",
+          "example_sentence": "Matulani implies Aunt (Maternal)"
+        },
+        {
+          "word": "Pitrvya",
+          "meaning": "Uncle (Paternal)",
+          "reading": "पितृव्यः",
+          "example_sentence": "Pitrvya implies Uncle (Paternal)"
+        },
+        {
+          "word": "Pitrvyani",
+          "meaning": "Aunt (Paternal)",
+          "reading": "पितृव्यानी",
+          "example_sentence": "Pitrvyani implies Aunt (Paternal)"
+        },
+        {
+          "word": "Agrajah",
+          "meaning": "Elder Brother",
+          "reading": "अग्रजः",
+          "example_sentence": "Agrajah implies Elder Brother"
+        },
+        {
+          "word": "Anujah",
+          "meaning": "Younger Brother",
+          "reading": "अनुजः",
+          "example_sentence": "Anujah implies Younger Brother"
+        },
+        {
+          "word": "Agrajaa",
+          "meaning": "Elder Sister",
+          "reading": "अग्रजा",
+          "example_sentence": "Agrajaa implies Elder Sister"
+        },
+        {
+          "word": "Anujaa",
+          "meaning": "Younger Sister",
+          "reading": "अनुजा",
+          "example_sentence": "Anujaa implies Younger Sister"
+        },
+        {
+          "word": "Snusha",
+          "meaning": "Daughter-in-law",
+          "reading": "स्नुषा",
+          "example_sentence": "Snusha implies Daughter-in-law"
+        },
+        {
+          "word": "Jamata",
+          "meaning": "Son-in-law",
+          "reading": "जामाता",
+          "example_sentence": "Jamata implies Son-in-law"
+        },
+        {
+          "word": "Shvashurah",
+          "meaning": "Father-in-law",
+          "reading": "श्वशुरः",
+          "example_sentence": "Shvashurah implies Father-in-law"
+        },
+        {
+          "word": "Shvashruh",
+          "meaning": "Mother-in-law",
+          "reading": "श्वश्रूः",
+          "example_sentence": "Shvashruh implies Mother-in-law"
+        },
+        {
+          "word": "Pautrah",
+          "meaning": "Grandson",
+          "reading": "पौत्रः",
+          "example_sentence": "Pautrah implies Grandson"
+        },
+        {
+          "word": "Pautri",
+          "meaning": "Granddaughter",
+          "reading": "पौत्री",
+          "example_sentence": "Pautri implies Granddaughter"
+        },
+        {
+          "word": "Bandhuh",
+          "meaning": "Relative",
+          "reading": "बन्धुः",
+          "example_sentence": "Bandhuh implies Relative"
+        },
+        {
+          "word": "Kutumbam",
+          "meaning": "Family",
+          "reading": "कुटुम्बम्",
+          "example_sentence": "Kutumbam implies Family"
+        },
+        {
+          "word": "Kula",
+          "meaning": "Clan/Lineage",
+          "reading": "कुलम्",
+          "example_sentence": "Kula implies Clan/Lineage"
+        },
+        {
+          "word": "Vamsah",
+          "meaning": "Dynasty",
+          "reading": "वंशः",
+          "example_sentence": "Vamsah implies Dynasty"
+        },
+        {
+          "word": "Narah",
+          "meaning": "Man (Generic)",
+          "reading": "नरः",
+          "example_sentence": "Narah implies Man (Generic)"
+        },
+        {
+          "word": "Nari",
+          "meaning": "Woman (Generic)",
+          "reading": "नारी",
+          "example_sentence": "Nari implies Woman (Generic)"
+        },
+        {
+          "word": "Balakah",
+          "meaning": "Boy",
+          "reading": "बालकः",
+          "example_sentence": "Balakah implies Boy"
+        },
+        {
+          "word": "Balika",
+          "meaning": "Girl",
+          "reading": "बालिका",
+          "example_sentence": "Balika implies Girl"
+        },
+        {
+          "word": "Shishuh",
+          "meaning": "Baby",
+          "reading": "शिशुः",
+          "example_sentence": "Shishuh implies Baby"
+        },
+        {
+          "word": "Yuvakah",
+          "meaning": "Youth (M)",
+          "reading": "युवकः",
+          "example_sentence": "Yuvakah implies Youth (M)"
+        },
+        {
+          "word": "Yuvati",
+          "meaning": "Youth (F)",
+          "reading": "युवती",
+          "example_sentence": "Yuvati implies Youth (F)"
+        },
+        {
+          "word": "Vriddhah",
+          "meaning": "Old Man",
+          "reading": "वृद्धः",
+          "example_sentence": "Vriddhah implies Old Man"
+        },
+        {
+          "word": "Vriddha",
+          "meaning": "Old Woman",
+          "reading": "वृद्धा",
+          "example_sentence": "Vriddha implies Old Woman"
+        },
+        {
+          "word": "Manushyah",
+          "meaning": "Human",
+          "reading": "मनुष्यः",
+          "example_sentence": "Manushyah implies Human"
+        },
+        {
+          "word": "Janah",
+          "meaning": "Person/People",
+          "reading": "जनः",
+          "example_sentence": "Janah implies Person/People"
+        },
+        {
+          "word": "Praja",
+          "meaning": "Citizen/Subject",
+          "reading": "प्रजा",
+          "example_sentence": "Praja implies Citizen/Subject"
+        },
+        {
+          "word": "Raja",
+          "meaning": "King",
+          "reading": "राजा",
+          "example_sentence": "Raja implies King"
+        },
+        {
+          "word": "Rani",
+          "meaning": "Queen",
+          "reading": "राज्ञी",
+          "example_sentence": "Rani implies Queen"
+        },
+        {
+          "word": "Mantri",
+          "meaning": "Minister",
+          "reading": "मन्त्री",
+          "example_sentence": "Mantri implies Minister"
+        },
+        {
+          "word": "Sainikah",
+          "meaning": "Soldier",
+          "reading": "सैनिकः",
+          "example_sentence": "Sainikah implies Soldier"
+        },
+        {
+          "word": "Chorah",
+          "meaning": "Thief",
+          "reading": "चोरः",
+          "example_sentence": "Chorah implies Thief"
+        },
+        {
+          "word": "Sadhuh",
+          "meaning": "Saint",
+          "reading": "साधुः",
+          "example_sentence": "Sadhuh implies Saint"
+        },
+        {
+          "word": "Guruh",
+          "meaning": "Teacher/Guru",
+          "reading": "गुरुः",
+          "example_sentence": "Guruh implies Teacher/Guru"
+        },
+        {
+          "word": "Shishyah",
+          "meaning": "Disciple",
+          "reading": "शिष्यः",
+          "example_sentence": "Shishyah implies Disciple"
+        },
+        {
+          "word": "Adhyapakah",
+          "meaning": "Teacher (M)",
+          "reading": "अध्यापकः",
+          "example_sentence": "Adhyapakah implies Teacher (M)"
+        },
+        {
+          "word": "Adhyapika",
+          "meaning": "Teacher (F)",
+          "reading": "अध्यापिका",
+          "example_sentence": "Adhyapika implies Teacher (F)"
+        },
+        {
+          "word": "Chhatrah",
+          "meaning": "Student (M)",
+          "reading": "छात्रः",
+          "example_sentence": "Chhatrah implies Student (M)"
+        },
+        {
+          "word": "Chhatra",
+          "meaning": "Student (F)",
+          "reading": "छात्रा",
+          "example_sentence": "Chhatra implies Student (F)"
+        },
+        {
+          "word": "Lekhakah",
+          "meaning": "Writer",
+          "reading": "लेखकः",
+          "example_sentence": "Lekhakah implies Writer"
+        },
+        {
+          "word": "Kavih",
+          "meaning": "Poet",
+          "reading": "कविः",
+          "example_sentence": "Kavih implies Poet"
+        },
+        {
+          "word": "Gayakah",
+          "meaning": "Singer",
+          "reading": "गायकः",
+          "example_sentence": "Gayakah implies Singer"
+        },
+        {
+          "word": "Nartakah",
+          "meaning": "Dancer",
+          "reading": "नर्तकः",
+          "example_sentence": "Nartakah implies Dancer"
+        },
+        {
+          "word": "Chitrakarah",
+          "meaning": "Painter",
+          "reading": "चित्रकारः",
+          "example_sentence": "Chitrakarah implies Painter"
+        },
+        {
+          "word": "Kumbhakarah",
+          "meaning": "Potter",
+          "reading": "कुम्भकारः",
+          "example_sentence": "Kumbhakarah implies Potter"
+        },
+        {
+          "word": "Tantuwayah",
+          "meaning": "Weaver",
+          "reading": "तन्तुवायः",
+          "example_sentence": "Tantuwayah implies Weaver"
+        },
+        {
+          "word": "Swarnakarah",
+          "meaning": "Goldsmith",
+          "reading": "स्वर्णकारः",
+          "example_sentence": "Swarnakarah implies Goldsmith"
+        },
+        {
+          "word": "Lohakarah",
+          "meaning": "Blacksmith",
+          "reading": "लोहकारः",
+          "example_sentence": "Lohakarah implies Blacksmith"
+        },
+        {
+          "word": "Takshakah",
+          "meaning": "Carpenter",
+          "reading": "तक्षकः",
+          "example_sentence": "Takshakah implies Carpenter"
+        },
+        {
+          "word": "Krishakah",
+          "meaning": "Farmer",
+          "reading": "कृषकः",
+          "example_sentence": "Krishakah implies Farmer"
+        },
+        {
+          "word": "Vyaapaari",
+          "meaning": "Merchant",
+          "reading": "व्यापारी",
+          "example_sentence": "Vyaapaari implies Merchant"
+        },
+        {
+          "word": "Sevakah",
+          "meaning": "Servant",
+          "reading": "सेवकः",
+          "example_sentence": "Sevakah implies Servant"
+        },
+        {
+          "word": "Sevika",
+          "meaning": "Maid",
+          "reading": "सेविका",
+          "example_sentence": "Sevika implies Maid"
+        },
+        {
+          "word": "Atithi",
+          "meaning": "Guest",
+          "reading": "अतिथिः",
+          "example_sentence": "Atithi implies Guest"
+        },
+        {
+          "word": "Sujanah",
+          "meaning": "Good person",
+          "reading": "सुजनः",
+          "example_sentence": "Sujanah implies Good person"
+        },
+        {
+          "word": "Durjanah",
+          "meaning": "Bad person",
+          "reading": "दुर्जनः",
+          "example_sentence": "Durjanah implies Bad person"
+        },
+        {
+          "word": "Murkhah",
+          "meaning": "Fool",
+          "reading": "मूर्खः",
+          "example_sentence": "Murkhah implies Fool"
+        },
+        {
+          "word": "Panditah",
+          "meaning": "Scholar",
+          "reading": "पण्डितः",
+          "example_sentence": "Panditah implies Scholar"
+        },
+        {
+          "word": "Dhani",
+          "meaning": "Rich man",
+          "reading": "धनी",
+          "example_sentence": "Dhani implies Rich man"
+        },
+        {
+          "word": "Daridrah",
+          "meaning": "Poor man",
+          "reading": "दरिद्रः",
+          "example_sentence": "Daridrah implies Poor man"
+        },
+        {
+          "word": "Bhikhari",
+          "meaning": "Beggar",
+          "reading": "भिक्षुकः",
+          "example_sentence": "Bhikhari implies Beggar"
+        },
+        {
+          "word": "Pravasi",
+          "meaning": "Traveler",
+          "reading": "प्रवासी",
+          "example_sentence": "Pravasi implies Traveler"
+        },
+        {
+          "word": "Sakha",
+          "meaning": "Male Friend",
+          "reading": "सखा",
+          "example_sentence": "Sakha implies Male Friend"
+        },
+        {
+          "word": "Sakhi",
+          "meaning": "Female Friend",
+          "reading": "सखी",
+          "example_sentence": "Sakhi implies Female Friend"
+        },
+        {
+          "word": "Sahacharah",
+          "meaning": "Companion",
+          "reading": "सहचरः",
+          "example_sentence": "Sahacharah implies Companion"
+        },
+        {
+          "word": "Prativeshi",
+          "meaning": "Neighbor",
+          "reading": "प्रतिवेशी",
+          "example_sentence": "Prativeshi implies Neighbor"
+        },
+        {
+          "word": "Shatru",
+          "meaning": "Enemy (Repeated context)",
+          "reading": "रिपुः",
+          "example_sentence": "Shatru implies Enemy (Repeated context)"
+        },
+        {
+          "word": "Virodhi",
+          "meaning": "Opponent",
+          "reading": "विरोधी",
+          "example_sentence": "Virodhi implies Opponent"
+        },
+        {
+          "word": "Nayakah",
+          "meaning": "Leader/Hero",
+          "reading": "नायकः",
+          "example_sentence": "Nayakah implies Leader/Hero"
+        },
+        {
+          "word": "Maha-Mata",
+          "meaning": "Great/Big Mother",
+          "reading": "महामाता",
+          "example_sentence": "MahaMata asti (It is a big Mother)"
+        },
+        {
+          "word": "Maha-Pita",
+          "meaning": "Great/Big Father",
+          "reading": "महापिता",
+          "example_sentence": "MahaPita asti (It is a big Father)"
+        },
+        {
+          "word": "Maha-Bhrata",
+          "meaning": "Great/Big Brother",
+          "reading": "महाभ्राता",
+          "example_sentence": "MahaBhrata asti (It is a big Brother)"
+        },
+        {
+          "word": "Maha-Bhagini",
+          "meaning": "Great/Big Sister",
+          "reading": "महाभगिनी",
+          "example_sentence": "MahaBhagini asti (It is a big Sister)"
+        },
+        {
+          "word": "Maha-Putrah",
+          "meaning": "Great/Big Son",
+          "reading": "महापुत्रः",
+          "example_sentence": "MahaPutrah asti (It is a big Son)"
+        },
+        {
+          "word": "Maha-Putri",
+          "meaning": "Great/Big Daughter",
+          "reading": "महापुत्री",
+          "example_sentence": "MahaPutri asti (It is a big Daughter)"
+        },
+        {
+          "word": "Maha-Pitamahah",
+          "meaning": "Great/Big Grandfather (P)",
+          "reading": "महापितामहः",
+          "example_sentence": "MahaPitamahah asti (It is a big Grandfather (P))"
+        },
+        {
+          "word": "Maha-Pitamahi",
+          "meaning": "Great/Big Grandmother (P)",
+          "reading": "महापितामही",
+          "example_sentence": "MahaPitamahi asti (It is a big Grandmother (P))"
+        },
+        {
+          "word": "Maha-Matamahah",
+          "meaning": "Great/Big Grandfather (M)",
+          "reading": "महामातामहः",
+          "example_sentence": "MahaMatamahah asti (It is a big Grandfather (M))"
+        },
+        {
+          "word": "Maha-Matamahi",
+          "meaning": "Great/Big Grandmother (M)",
+          "reading": "महामातामही",
+          "example_sentence": "MahaMatamahi asti (It is a big Grandmother (M))"
+        },
+        {
+          "word": "Maha-Patni",
+          "meaning": "Great/Big Wife",
+          "reading": "महापत्नी",
+          "example_sentence": "MahaPatni asti (It is a big Wife)"
+        },
+        {
+          "word": "Maha-Patih",
+          "meaning": "Great/Big Husband",
+          "reading": "महापतिः",
+          "example_sentence": "MahaPatih asti (It is a big Husband)"
+        },
+        {
+          "word": "Maha-Matulah",
+          "meaning": "Great/Big Uncle (Maternal)",
+          "reading": "महामातुलः",
+          "example_sentence": "MahaMatulah asti (It is a big Uncle (Maternal))"
+        },
+        {
+          "word": "Maha-Matulani",
+          "meaning": "Great/Big Aunt (Maternal)",
+          "reading": "महामातुलानी",
+          "example_sentence": "MahaMatulani asti (It is a big Aunt (Maternal))"
+        },
+        {
+          "word": "Maha-Pitrvya",
+          "meaning": "Great/Big Uncle (Paternal)",
+          "reading": "महापितृव्यः",
+          "example_sentence": "MahaPitrvya asti (It is a big Uncle (Paternal))"
+        },
+        {
+          "word": "Maha-Pitrvyani",
+          "meaning": "Great/Big Aunt (Paternal)",
+          "reading": "महापितृव्यानी",
+          "example_sentence": "MahaPitrvyani asti (It is a big Aunt (Paternal))"
+        }
+      ]
+    },
+    {
+      "moduleId": "sanskrit_a1_m4",
+      "theme": "Nature & Elements",
+      "order": 4,
+      "vocabularyItems": [
+        {
+          "word": "Surya",
+          "meaning": "Sun",
+          "reading": "सूर्यः",
+          "example_sentence": "Surya implies Sun"
+        },
+        {
+          "word": "Chandra",
+          "meaning": "Moon",
+          "reading": "चन्द्रः",
+          "example_sentence": "Chandra implies Moon"
+        },
+        {
+          "word": "Nakshatram",
+          "meaning": "Star",
+          "reading": "नक्षत्रम्",
+          "example_sentence": "Nakshatram implies Star"
+        },
+        {
+          "word": "Akashah",
+          "meaning": "Sky",
+          "reading": "आकाशः",
+          "example_sentence": "Akashah implies Sky"
+        },
+        {
+          "word": "Meghah",
+          "meaning": "Cloud",
+          "reading": "मेघः",
+          "example_sentence": "Meghah implies Cloud"
+        },
+        {
+          "word": "Vayu",
+          "meaning": "Wind",
+          "reading": "वायुः",
+          "example_sentence": "Vayu implies Wind"
+        },
+        {
+          "word": "Agni",
+          "meaning": "Fire",
+          "reading": "अग्निः",
+          "example_sentence": "Agni implies Fire"
+        },
+        {
+          "word": "Jalam",
+          "meaning": "Water",
+          "reading": "जलम्",
+          "example_sentence": "Jalam implies Water"
+        },
+        {
+          "word": "Bhumi",
+          "meaning": "Earth",
+          "reading": "भूमिः",
+          "example_sentence": "Bhumi implies Earth"
+        },
+        {
+          "word": "Parvatah",
+          "meaning": "Mountain",
+          "reading": "पर्वतः",
+          "example_sentence": "Parvatah implies Mountain"
+        },
+        {
+          "word": "Nadi",
+          "meaning": "River",
+          "reading": "नदी",
+          "example_sentence": "Nadi implies River"
+        },
+        {
+          "word": "Samudrah",
+          "meaning": "Ocean",
+          "reading": "समुद्रः",
+          "example_sentence": "Samudrah implies Ocean"
+        },
+        {
+          "word": "Vrikshah",
+          "meaning": "Tree",
+          "reading": "वृक्षः",
+          "example_sentence": "Vrikshah implies Tree"
+        },
+        {
+          "word": "Latā",
+          "meaning": "Creeper/Vine",
+          "reading": "लता",
+          "example_sentence": "Latā implies Creeper/Vine"
+        },
+        {
+          "word": "Pushpam",
+          "meaning": "Flower",
+          "reading": "पुष्पम्",
+          "example_sentence": "Pushpam implies Flower"
+        },
+        {
+          "word": "Phalam",
+          "meaning": "Fruit",
+          "reading": "फलम्",
+          "example_sentence": "Phalam implies Fruit"
+        },
+        {
+          "word": "Patram",
+          "meaning": "Leaf",
+          "reading": "पत्रम्",
+          "example_sentence": "Patram implies Leaf"
+        },
+        {
+          "word": "Trinam",
+          "meaning": "Grass",
+          "reading": "तृणम्",
+          "example_sentence": "Trinam implies Grass"
+        },
+        {
+          "word": "Vanam",
+          "meaning": "Forest",
+          "reading": "वनम्",
+          "example_sentence": "Vanam implies Forest"
+        },
+        {
+          "word": "Udyanam",
+          "meaning": "Garden",
+          "reading": "उद्यानम्",
+          "example_sentence": "Udyanam implies Garden"
+        },
+        {
+          "word": "Aranyam",
+          "meaning": "Jungle",
+          "reading": "अरण्यम्",
+          "example_sentence": "Aranyam implies Jungle"
+        },
+        {
+          "word": "Sarovarah",
+          "meaning": "Lake",
+          "reading": "सरोवरः",
+          "example_sentence": "Sarovarah implies Lake"
+        },
+        {
+          "word": "Tadagah",
+          "meaning": "Pond",
+          "reading": "तडागः",
+          "example_sentence": "Tadagah implies Pond"
+        },
+        {
+          "word": "Kupah",
+          "meaning": "Well",
+          "reading": "कूपः",
+          "example_sentence": "Kupah implies Well"
+        },
+        {
+          "word": "Dhara",
+          "meaning": "Flow/Stream",
+          "reading": "धारा",
+          "example_sentence": "Dhara implies Flow/Stream"
+        },
+        {
+          "word": "Varsha",
+          "meaning": "Rain",
+          "reading": "वर्षा",
+          "example_sentence": "Varsha implies Rain"
+        },
+        {
+          "word": "Himam",
+          "meaning": "Snow/Ice",
+          "reading": "हिमम्",
+          "example_sentence": "Himam implies Snow/Ice"
+        },
+        {
+          "word": "Shita",
+          "meaning": "Cold",
+          "reading": "शीत",
+          "example_sentence": "Shita implies Cold"
+        },
+        {
+          "word": "Ushna",
+          "meaning": "Hot",
+          "reading": "उष्ण",
+          "example_sentence": "Ushna implies Hot"
+        },
+        {
+          "word": "Vasantah",
+          "meaning": "Spring",
+          "reading": "वसन्तः",
+          "example_sentence": "Vasantah implies Spring"
+        },
+        {
+          "word": "Grishma",
+          "meaning": "Summer",
+          "reading": "ग्रीष्मः",
+          "example_sentence": "Grishma implies Summer"
+        },
+        {
+          "word": "Sharad",
+          "meaning": "Autumn",
+          "reading": "शरद्",
+          "example_sentence": "Sharad implies Autumn"
+        },
+        {
+          "word": "Hemantah",
+          "meaning": "Pre-winter",
+          "reading": "हेमन्तः",
+          "example_sentence": "Hemantah implies Pre-winter"
+        },
+        {
+          "word": "Shishirah",
+          "meaning": "Winter",
+          "reading": "शिशिरः",
+          "example_sentence": "Shishirah implies Winter"
+        },
+        {
+          "word": "Prakriti",
+          "meaning": "Nature",
+          "reading": "प्रकृतिः",
+          "example_sentence": "Prakriti implies Nature"
+        },
+        {
+          "word": "Jagath",
+          "meaning": "World",
+          "reading": "जगत्",
+          "example_sentence": "Jagath implies World"
+        },
+        {
+          "word": "Deshah",
+          "meaning": "Country",
+          "reading": "देशः",
+          "example_sentence": "Deshah implies Country"
+        },
+        {
+          "word": "Gramah",
+          "meaning": "Village",
+          "reading": "ग्रामः",
+          "example_sentence": "Gramah implies Village"
+        },
+        {
+          "word": "Nagaram",
+          "meaning": "City",
+          "reading": "नगरम्",
+          "example_sentence": "Nagaram implies City"
+        },
+        {
+          "word": "Margah",
+          "meaning": "Path/Road",
+          "reading": "मार्गः",
+          "example_sentence": "Margah implies Path/Road"
+        },
+        {
+          "word": "Shila",
+          "meaning": "Rock/Stone",
+          "reading": "शिला",
+          "example_sentence": "Shila implies Rock/Stone"
+        },
+        {
+          "word": "Dhuli",
+          "meaning": "Dust",
+          "reading": "धूलिः",
+          "example_sentence": "Dhuli implies Dust"
+        },
+        {
+          "word": "Pankah",
+          "meaning": "Mud",
+          "reading": "पङ्कः",
+          "example_sentence": "Pankah implies Mud"
+        },
+        {
+          "word": "Valuka",
+          "meaning": "Sand",
+          "reading": "वालुका",
+          "example_sentence": "Valuka implies Sand"
+        },
+        {
+          "word": "Khanijam",
+          "meaning": "Mineral",
+          "reading": "खनिजम्",
+          "example_sentence": "Khanijam implies Mineral"
+        },
+        {
+          "word": "Guhā",
+          "meaning": "Cave",
+          "reading": "गुहा",
+          "example_sentence": "Guhā implies Cave"
+        },
+        {
+          "word": "Sikata",
+          "meaning": "Sand (Alt)",
+          "reading": "सिकता",
+          "example_sentence": "Sikata implies Sand (Alt)"
+        },
+        {
+          "word": "Dvipa",
+          "meaning": "Island",
+          "reading": "द्वीपः",
+          "example_sentence": "Dvipa implies Island"
+        },
+        {
+          "word": "Tira",
+          "meaning": "Bank/Shore",
+          "reading": "तीरम्",
+          "example_sentence": "Tira implies Bank/Shore"
+        },
+        {
+          "word": "Lahari",
+          "meaning": "Wave",
+          "reading": "लहरी",
+          "example_sentence": "Lahari implies Wave"
+        },
+        {
+          "word": "Prakashah",
+          "meaning": "Light",
+          "reading": "प्रकाशः",
+          "example_sentence": "Prakashah implies Light"
+        },
+        {
+          "word": "Andhakarah",
+          "meaning": "Darkness",
+          "reading": "अन्धकारः",
+          "example_sentence": "Andhakarah implies Darkness"
+        },
+        {
+          "word": "Chhaya",
+          "meaning": "Shadow",
+          "reading": "छाया",
+          "example_sentence": "Chhaya implies Shadow"
+        },
+        {
+          "word": "Pratidhvani",
+          "meaning": "Echo",
+          "reading": "प्रतिध्वनिः",
+          "example_sentence": "Pratidhvani implies Echo"
+        },
+        {
+          "word": "Shabdah",
+          "meaning": "Sound",
+          "reading": "शब्दः",
+          "example_sentence": "Shabdah implies Sound"
+        },
+        {
+          "word": "Gandhah",
+          "meaning": "Smell",
+          "reading": "गन्धः",
+          "example_sentence": "Gandhah implies Smell"
+        },
+        {
+          "word": "Rasah",
+          "meaning": "Juice/Essence",
+          "reading": "रसः",
+          "example_sentence": "Rasah implies Juice/Essence"
+        },
+        {
+          "word": "Vatavaranam",
+          "meaning": "Atmosphere",
+          "reading": "वातावरणम्",
+          "example_sentence": "Vatavaranam implies Atmosphere"
+        },
+        {
+          "word": "Ritu",
+          "meaning": "Season",
+          "reading": "ऋतुः",
+          "example_sentence": "Ritu implies Season"
+        },
+        {
+          "word": "Masa",
+          "meaning": "Month",
+          "reading": "मासः",
+          "example_sentence": "Masa implies Month"
+        },
+        {
+          "word": "Paksha",
+          "meaning": "Fortnight",
+          "reading": "पक्षः",
+          "example_sentence": "Paksha implies Fortnight"
+        },
+        {
+          "word": "Tithi",
+          "meaning": "Date",
+          "reading": "तिथिः",
+          "example_sentence": "Tithi implies Date"
+        },
+        {
+          "word": "Samvatsarah",
+          "meaning": "Year",
+          "reading": "संवत्सरः",
+          "example_sentence": "Samvatsarah implies Year"
+        },
+        {
+          "word": "Yuga",
+          "meaning": "Era",
+          "reading": "युगम्",
+          "example_sentence": "Yuga implies Era"
+        },
+        {
+          "word": "Kalah",
+          "meaning": "Time (Cosmic)",
+          "reading": "कालः",
+          "example_sentence": "Kalah implies Time (Cosmic)"
+        },
+        {
+          "word": "Dig",
+          "meaning": "Direction",
+          "reading": "दिक्",
+          "example_sentence": "Dig implies Direction"
+        },
+        {
+          "word": "Purva",
+          "meaning": "East",
+          "reading": "पूर्व",
+          "example_sentence": "Purva implies East"
+        },
+        {
+          "word": "Paschima",
+          "meaning": "West",
+          "reading": "पश्चिम",
+          "example_sentence": "Paschima implies West"
+        },
+        {
+          "word": "Uttara",
+          "meaning": "North",
+          "reading": "उत्तर",
+          "example_sentence": "Uttara implies North"
+        },
+        {
+          "word": "Dakshina",
+          "meaning": "South",
+          "reading": "दक्षिण",
+          "example_sentence": "Dakshina implies South"
+        },
+        {
+          "word": "Bhugolah",
+          "meaning": "Globe",
+          "reading": "भूगोलः",
+          "example_sentence": "Bhugolah implies Globe"
+        },
+        {
+          "word": "Khagolah",
+          "meaning": "Astronomy",
+          "reading": "खगोलः",
+          "example_sentence": "Khagolah implies Astronomy"
+        },
+        {
+          "word": "Graha",
+          "meaning": "Planet",
+          "reading": "ग्रहः",
+          "example_sentence": "Graha implies Planet"
+        },
+        {
+          "word": "Prithvi",
+          "meaning": "Earth (Planet)",
+          "reading": "पृथ्वी",
+          "example_sentence": "Prithvi implies Earth (Planet)"
+        },
+        {
+          "word": "Bhumikampa",
+          "meaning": "Earthquake",
+          "reading": "भूकम्पः",
+          "example_sentence": "Bhumikampa implies Earthquake"
+        },
+        {
+          "word": "Jvalamukhi",
+          "meaning": "Volcano",
+          "reading": "ज्वालामुखी",
+          "example_sentence": "Jvalamukhi implies Volcano"
+        },
+        {
+          "word": "Vidyut",
+          "meaning": "Lightning",
+          "reading": "विद्युत्",
+          "example_sentence": "Vidyut implies Lightning"
+        },
+        {
+          "word": "Garjanam",
+          "meaning": "Thunder",
+          "reading": "गर्जनम्",
+          "example_sentence": "Garjanam implies Thunder"
+        },
+        {
+          "word": "Indradhanuh",
+          "meaning": "Rainbow",
+          "reading": "इन्द्रधनुः",
+          "example_sentence": "Indradhanuh implies Rainbow"
+        },
+        {
+          "word": "Kujjhati",
+          "meaning": "Fog",
+          "reading": "कुज्झटी",
+          "example_sentence": "Kujjhati implies Fog"
+        },
+        {
+          "word": "Maha-Surya",
+          "meaning": "Great/Big Sun",
+          "reading": "महासूर्यः",
+          "example_sentence": "MahaSurya asti (It is a big Sun)"
+        },
+        {
+          "word": "Maha-Chandra",
+          "meaning": "Great/Big Moon",
+          "reading": "महाचन्द्रः",
+          "example_sentence": "MahaChandra asti (It is a big Moon)"
+        },
+        {
+          "word": "Maha-Nakshatram",
+          "meaning": "Great/Big Star",
+          "reading": "महानक्षत्रम्",
+          "example_sentence": "MahaNakshatram asti (It is a big Star)"
+        },
+        {
+          "word": "Maha-Akashah",
+          "meaning": "Great/Big Sky",
+          "reading": "महाआकाशः",
+          "example_sentence": "MahaAkashah asti (It is a big Sky)"
+        },
+        {
+          "word": "Maha-Meghah",
+          "meaning": "Great/Big Cloud",
+          "reading": "महामेघः",
+          "example_sentence": "MahaMeghah asti (It is a big Cloud)"
+        },
+        {
+          "word": "Maha-Vayu",
+          "meaning": "Great/Big Wind",
+          "reading": "महावायुः",
+          "example_sentence": "MahaVayu asti (It is a big Wind)"
+        },
+        {
+          "word": "Maha-Agni",
+          "meaning": "Great/Big Fire",
+          "reading": "महाअग्निः",
+          "example_sentence": "MahaAgni asti (It is a big Fire)"
+        },
+        {
+          "word": "Maha-Jalam",
+          "meaning": "Great/Big Water",
+          "reading": "महाजलम्",
+          "example_sentence": "MahaJalam asti (It is a big Water)"
+        },
+        {
+          "word": "Maha-Bhumi",
+          "meaning": "Great/Big Earth",
+          "reading": "महाभूमिः",
+          "example_sentence": "MahaBhumi asti (It is a big Earth)"
+        },
+        {
+          "word": "Maha-Parvatah",
+          "meaning": "Great/Big Mountain",
+          "reading": "महापर्वतः",
+          "example_sentence": "MahaParvatah asti (It is a big Mountain)"
+        },
+        {
+          "word": "Maha-Nadi",
+          "meaning": "Great/Big River",
+          "reading": "महानदी",
+          "example_sentence": "MahaNadi asti (It is a big River)"
+        },
+        {
+          "word": "Maha-Samudrah",
+          "meaning": "Great/Big Ocean",
+          "reading": "महासमुद्रः",
+          "example_sentence": "MahaSamudrah asti (It is a big Ocean)"
+        },
+        {
+          "word": "Maha-Vrikshah",
+          "meaning": "Great/Big Tree",
+          "reading": "महावृक्षः",
+          "example_sentence": "MahaVrikshah asti (It is a big Tree)"
+        },
+        {
+          "word": "Maha-Latā",
+          "meaning": "Great/Big Creeper/Vine",
+          "reading": "महालता",
+          "example_sentence": "MahaLatā asti (It is a big Creeper/Vine)"
+        },
+        {
+          "word": "Maha-Pushpam",
+          "meaning": "Great/Big Flower",
+          "reading": "महापुष्पम्",
+          "example_sentence": "MahaPushpam asti (It is a big Flower)"
+        },
+        {
+          "word": "Maha-Phalam",
+          "meaning": "Great/Big Fruit",
+          "reading": "महाफलम्",
+          "example_sentence": "MahaPhalam asti (It is a big Fruit)"
+        },
+        {
+          "word": "Maha-Patram",
+          "meaning": "Great/Big Leaf",
+          "reading": "महापत्रम्",
+          "example_sentence": "MahaPatram asti (It is a big Leaf)"
+        },
+        {
+          "word": "Maha-Trinam",
+          "meaning": "Great/Big Grass",
+          "reading": "महातृणम्",
+          "example_sentence": "MahaTrinam asti (It is a big Grass)"
+        },
+        {
+          "word": "Maha-Vanam",
+          "meaning": "Great/Big Forest",
+          "reading": "महावनम्",
+          "example_sentence": "MahaVanam asti (It is a big Forest)"
+        },
+        {
+          "word": "Maha-Udyanam",
+          "meaning": "Great/Big Garden",
+          "reading": "महाउद्यानम्",
+          "example_sentence": "MahaUdyanam asti (It is a big Garden)"
+        }
+      ]
+    },
+    {
+      "moduleId": "sanskrit_a1_m5",
+      "theme": "Animals & Birds",
+      "order": 5,
+      "vocabularyItems": [
+        {
+          "word": "Gajah",
+          "meaning": "Elephant",
+          "reading": "गजः",
+          "example_sentence": "Gajah implies Elephant"
+        },
+        {
+          "word": "Ashvah",
+          "meaning": "Horse",
+          "reading": "अश्वः",
+          "example_sentence": "Ashvah implies Horse"
+        },
+        {
+          "word": "Vrishabhah",
+          "meaning": "Bull",
+          "reading": "वृषभः",
+          "example_sentence": "Vrishabhah implies Bull"
+        },
+        {
+          "word": "Dhenu",
+          "meaning": "Cow",
+          "reading": "धेनुः",
+          "example_sentence": "Dhenu implies Cow"
+        },
+        {
+          "word": "Aja",
+          "meaning": "Goat",
+          "reading": "अजा",
+          "example_sentence": "Aja implies Goat"
+        },
+        {
+          "word": "Mesha",
+          "meaning": "Sheep",
+          "reading": "मेषः",
+          "example_sentence": "Mesha implies Sheep"
+        },
+        {
+          "word": "Kukkurah",
+          "meaning": "Dog",
+          "reading": "कुक्कुरः",
+          "example_sentence": "Kukkurah implies Dog"
+        },
+        {
+          "word": "Shunaka",
+          "meaning": "Dog (Alt)",
+          "reading": "शुनकः",
+          "example_sentence": "Shunaka implies Dog (Alt)"
+        },
+        {
+          "word": "Marjarah",
+          "meaning": "Cat",
+          "reading": "मार्जारः",
+          "example_sentence": "Marjarah implies Cat"
+        },
+        {
+          "word": "Bidalah",
+          "meaning": "Cat (Alt)",
+          "reading": "बिडालः",
+          "example_sentence": "Bidalah implies Cat (Alt)"
+        },
+        {
+          "word": "Mushakah",
+          "meaning": "Mouse",
+          "reading": "मूषकः",
+          "example_sentence": "Mushakah implies Mouse"
+        },
+        {
+          "word": "Simhah",
+          "meaning": "Lion",
+          "reading": "सिंहः",
+          "example_sentence": "Simhah implies Lion"
+        },
+        {
+          "word": "Vyaghrah",
+          "meaning": "Tiger",
+          "reading": "व्याघ्रः",
+          "example_sentence": "Vyaghrah implies Tiger"
+        },
+        {
+          "word": "Bhallukah",
+          "meaning": "Bear",
+          "reading": "भल्लूकः",
+          "example_sentence": "Bhallukah implies Bear"
+        },
+        {
+          "word": "Vrikah",
+          "meaning": "Wolf",
+          "reading": "वृकः",
+          "example_sentence": "Vrikah implies Wolf"
+        },
+        {
+          "word": "Shrigalah",
+          "meaning": "Jackal",
+          "reading": "शृगालः",
+          "example_sentence": "Shrigalah implies Jackal"
+        },
+        {
+          "word": "Vanarah",
+          "meaning": "Monkey",
+          "reading": "वानरः",
+          "example_sentence": "Vanarah implies Monkey"
+        },
+        {
+          "word": "Kapi",
+          "meaning": "Monkey (Alt)",
+          "reading": "कपिः",
+          "example_sentence": "Kapi implies Monkey (Alt)"
+        },
+        {
+          "word": "Harinah",
+          "meaning": "Deer",
+          "reading": "हरिणः",
+          "example_sentence": "Harinah implies Deer"
+        },
+        {
+          "word": "Shashakah",
+          "meaning": "Rabbit",
+          "reading": "शशकः",
+          "example_sentence": "Shashakah implies Rabbit"
+        },
+        {
+          "word": "Ushtrah",
+          "meaning": "Camel",
+          "reading": "उष्ट्रः",
+          "example_sentence": "Ushtrah implies Camel"
+        },
+        {
+          "word": "Gardabhah",
+          "meaning": "Donkey",
+          "reading": "गर्दभः",
+          "example_sentence": "Gardabhah implies Donkey"
+        },
+        {
+          "word": "Shukarah",
+          "meaning": "Pig",
+          "reading": "शूकरः",
+          "example_sentence": "Shukarah implies Pig"
+        },
+        {
+          "word": "Mahishah",
+          "meaning": "Buffalo",
+          "reading": "महिषः",
+          "example_sentence": "Mahishah implies Buffalo"
+        },
+        {
+          "word": "Gau",
+          "meaning": "Cow (Generic)",
+          "reading": "गौः",
+          "example_sentence": "Gau implies Cow (Generic)"
+        },
+        {
+          "word": "Vatsah",
+          "meaning": "Calf",
+          "reading": "वत्सः",
+          "example_sentence": "Vatsah implies Calf"
+        },
+        {
+          "word": "Nakulah",
+          "meaning": "Mongoose",
+          "reading": "नकुलः",
+          "example_sentence": "Nakulah implies Mongoose"
+        },
+        {
+          "word": "Sarpah",
+          "meaning": "Snake",
+          "reading": "सर्पः",
+          "example_sentence": "Sarpah implies Snake"
+        },
+        {
+          "word": "Ahir",
+          "meaning": "Snake (Alt)",
+          "reading": "अहिः",
+          "example_sentence": "Ahir implies Snake (Alt)"
+        },
+        {
+          "word": "Vrishchikah",
+          "meaning": "Scorpion",
+          "reading": "वृश्चिकः",
+          "example_sentence": "Vrishchikah implies Scorpion"
+        },
+        {
+          "word": "Kurmah",
+          "meaning": "Tortoise",
+          "reading": "कूर्मः",
+          "example_sentence": "Kurmah implies Tortoise"
+        },
+        {
+          "word": "Makarah",
+          "meaning": "Crocodile",
+          "reading": "मकरः",
+          "example_sentence": "Makarah implies Crocodile"
+        },
+        {
+          "word": "Matsyah",
+          "meaning": "Fish",
+          "reading": "मत्स्यः",
+          "example_sentence": "Matsyah implies Fish"
+        },
+        {
+          "word": "Minah",
+          "meaning": "Fish (Alt)",
+          "reading": "मीनः",
+          "example_sentence": "Minah implies Fish (Alt)"
+        },
+        {
+          "word": "Mandukah",
+          "meaning": "Frog",
+          "reading": "मण्डूकः",
+          "example_sentence": "Mandukah implies Frog"
+        },
+        {
+          "word": "Karkatah",
+          "meaning": "Crab",
+          "reading": "कर्कटः",
+          "example_sentence": "Karkatah implies Crab"
+        },
+        {
+          "word": "Pipilika",
+          "meaning": "Ant",
+          "reading": "पिपीलिका",
+          "example_sentence": "Pipilika implies Ant"
+        },
+        {
+          "word": "Makshika",
+          "meaning": "Fly",
+          "reading": "मक्षिका",
+          "example_sentence": "Makshika implies Fly"
+        },
+        {
+          "word": "Mashakah",
+          "meaning": "Mosquito",
+          "reading": "मशकः",
+          "example_sentence": "Mashakah implies Mosquito"
+        },
+        {
+          "word": "Luta",
+          "meaning": "Spider",
+          "reading": "लूता",
+          "example_sentence": "Luta implies Spider"
+        },
+        {
+          "word": "Bhramarah",
+          "meaning": "Bee",
+          "reading": "भ्रमरः",
+          "example_sentence": "Bhramarah implies Bee"
+        },
+        {
+          "word": "Madhumakshika",
+          "meaning": "Honeybee",
+          "reading": "मधुमक्षिका",
+          "example_sentence": "Madhumakshika implies Honeybee"
+        },
+        {
+          "word": "Patangah",
+          "meaning": "Moth/Insect",
+          "reading": "पतङ्गः",
+          "example_sentence": "Patangah implies Moth/Insect"
+        },
+        {
+          "word": "Chitrapatangah",
+          "meaning": "Butterfly",
+          "reading": "चित्रपतङ्गः",
+          "example_sentence": "Chitrapatangah implies Butterfly"
+        },
+        {
+          "word": "Khagah",
+          "meaning": "Bird",
+          "reading": "खगः",
+          "example_sentence": "Khagah implies Bird"
+        },
+        {
+          "word": "Pakshi",
+          "meaning": "Bird (Alt)",
+          "reading": "पक्षी",
+          "example_sentence": "Pakshi implies Bird (Alt)"
+        },
+        {
+          "word": "Mayurah",
+          "meaning": "Peacock",
+          "reading": "मयूरः",
+          "example_sentence": "Mayurah implies Peacock"
+        },
+        {
+          "word": "Shukah",
+          "meaning": "Parrot",
+          "reading": "शुकः",
+          "example_sentence": "Shukah implies Parrot"
+        },
+        {
+          "word": "Kakah",
+          "meaning": "Crow",
+          "reading": "काकः",
+          "example_sentence": "Kakah implies Crow"
+        },
+        {
+          "word": "Hamsah",
+          "meaning": "Swan",
+          "reading": "हंसः",
+          "example_sentence": "Hamsah implies Swan"
+        },
+        {
+          "word": "Bakah",
+          "meaning": "Crane",
+          "reading": "बकः",
+          "example_sentence": "Bakah implies Crane"
+        },
+        {
+          "word": "Gridhrah",
+          "meaning": "Vulture",
+          "reading": "गृध्रः",
+          "example_sentence": "Gridhrah implies Vulture"
+        },
+        {
+          "word": "Ulukah",
+          "meaning": "Owl",
+          "reading": "उलूकः",
+          "example_sentence": "Ulukah implies Owl"
+        },
+        {
+          "word": "Kapotah",
+          "meaning": "Pigeon",
+          "reading": "कपोतः",
+          "example_sentence": "Kapotah implies Pigeon"
+        },
+        {
+          "word": "Chatakah",
+          "meaning": "Sparrow",
+          "reading": "चटकः",
+          "example_sentence": "Chatakah implies Sparrow"
+        },
+        {
+          "word": "Kokilah",
+          "meaning": "Cuckoo",
+          "reading": "कोकिलः",
+          "example_sentence": "Kokilah implies Cuckoo"
+        },
+        {
+          "word": "Senah",
+          "meaning": "Hawk/Eagle",
+          "reading": "श्येनः",
+          "example_sentence": "Senah implies Hawk/Eagle"
+        },
+        {
+          "word": "Garudah",
+          "meaning": "Eagle",
+          "reading": "गरुडः",
+          "example_sentence": "Garudah implies Eagle"
+        },
+        {
+          "word": "Sarisripah",
+          "meaning": "Reptile",
+          "reading": "सरीसृपः",
+          "example_sentence": "Sarisripah implies Reptile"
+        },
+        {
+          "word": "Jantuh",
+          "meaning": "Animal/Creature",
+          "reading": "जन्तुः",
+          "example_sentence": "Jantuh implies Animal/Creature"
+        },
+        {
+          "word": "Pashuh",
+          "meaning": "Beast",
+          "reading": "पशुः",
+          "example_sentence": "Pashuh implies Beast"
+        },
+        {
+          "word": "Prani",
+          "meaning": "Living being",
+          "reading": "प्राणी",
+          "example_sentence": "Prani implies Living being"
+        },
+        {
+          "word": "Jivah",
+          "meaning": "Life/Soul",
+          "reading": "जीवः",
+          "example_sentence": "Jivah implies Life/Soul"
+        },
+        {
+          "word": "Loma",
+          "meaning": "Fur",
+          "reading": "लोम",
+          "example_sentence": "Loma implies Fur"
+        },
+        {
+          "word": "Puchchham",
+          "meaning": "Tail",
+          "reading": "पुच्छम्",
+          "example_sentence": "Puchchham implies Tail"
+        },
+        {
+          "word": "Shringam",
+          "meaning": "Horn",
+          "reading": "शृङ्गम",
+          "example_sentence": "Shringam implies Horn"
+        },
+        {
+          "word": "Khura",
+          "meaning": "Hoof",
+          "reading": "खुरः",
+          "example_sentence": "Khura implies Hoof"
+        },
+        {
+          "word": "Chanchuh",
+          "meaning": "Beak",
+          "reading": "चञ्चुः",
+          "example_sentence": "Chanchuh implies Beak"
+        },
+        {
+          "word": "Needam",
+          "meaning": "Nest",
+          "reading": "नीडम्",
+          "example_sentence": "Needam implies Nest"
+        },
+        {
+          "word": "Bilam",
+          "meaning": "Hole/Burrow",
+          "reading": "बिलम्",
+          "example_sentence": "Bilam implies Hole/Burrow"
+        },
+        {
+          "word": "Jaalam",
+          "meaning": "Web/Net",
+          "reading": "जालम्",
+          "example_sentence": "Jaalam implies Web/Net"
+        },
+        {
+          "word": "Ghosha",
+          "meaning": "Sound (Animal)",
+          "reading": "घोषः",
+          "example_sentence": "Ghosha implies Sound (Animal)"
+        },
+        {
+          "word": "Gabha",
+          "meaning": "Womb/Interior",
+          "reading": "गर्भः",
+          "example_sentence": "Gabha implies Womb/Interior"
+        },
+        {
+          "word": "Anda",
+          "meaning": "Egg",
+          "reading": "अण्डम्",
+          "example_sentence": "Anda implies Egg"
+        },
+        {
+          "word": "Shavah",
+          "meaning": "Cub/Young",
+          "reading": "शावकः",
+          "example_sentence": "Shavah implies Cub/Young"
+        },
+        {
+          "word": "Gajendrah",
+          "meaning": "King Elephant",
+          "reading": "गजेन्द्रः",
+          "example_sentence": "Gajendrah implies King Elephant"
+        },
+        {
+          "word": "Mrigarajah",
+          "meaning": "King of Beasts",
+          "reading": "मृगराजः",
+          "example_sentence": "Mrigarajah implies King of Beasts"
+        },
+        {
+          "word": "Vanrajah",
+          "meaning": "King of Forest",
+          "reading": "वनराजः",
+          "example_sentence": "Vanrajah implies King of Forest"
+        },
+        {
+          "word": "Vihagah",
+          "meaning": "Bird (Sky)",
+          "reading": "विहगः",
+          "example_sentence": "Vihagah implies Bird (Sky)"
+        },
+        {
+          "word": "Maha-Gajah",
+          "meaning": "Great/Big Elephant",
+          "reading": "महागजः",
+          "example_sentence": "MahaGajah asti (It is a big Elephant)"
+        },
+        {
+          "word": "Maha-Ashvah",
+          "meaning": "Great/Big Horse",
+          "reading": "महाअश्वः",
+          "example_sentence": "MahaAshvah asti (It is a big Horse)"
+        },
+        {
+          "word": "Maha-Vrishabhah",
+          "meaning": "Great/Big Bull",
+          "reading": "महावृषभः",
+          "example_sentence": "MahaVrishabhah asti (It is a big Bull)"
+        },
+        {
+          "word": "Maha-Dhenu",
+          "meaning": "Great/Big Cow",
+          "reading": "महाधेनुः",
+          "example_sentence": "MahaDhenu asti (It is a big Cow)"
+        },
+        {
+          "word": "Maha-Aja",
+          "meaning": "Great/Big Goat",
+          "reading": "महाअजा",
+          "example_sentence": "MahaAja asti (It is a big Goat)"
+        },
+        {
+          "word": "Maha-Mesha",
+          "meaning": "Great/Big Sheep",
+          "reading": "महामेषः",
+          "example_sentence": "MahaMesha asti (It is a big Sheep)"
+        },
+        {
+          "word": "Maha-Kukkurah",
+          "meaning": "Great/Big Dog",
+          "reading": "महाकुक्कुरः",
+          "example_sentence": "MahaKukkurah asti (It is a big Dog)"
+        },
+        {
+          "word": "Maha-Shunaka",
+          "meaning": "Great/Big Dog (Alt)",
+          "reading": "महाशुनकः",
+          "example_sentence": "MahaShunaka asti (It is a big Dog (Alt))"
+        },
+        {
+          "word": "Maha-Marjarah",
+          "meaning": "Great/Big Cat",
+          "reading": "महामार्जारः",
+          "example_sentence": "MahaMarjarah asti (It is a big Cat)"
+        },
+        {
+          "word": "Maha-Bidalah",
+          "meaning": "Great/Big Cat (Alt)",
+          "reading": "महाबिडालः",
+          "example_sentence": "MahaBidalah asti (It is a big Cat (Alt))"
+        },
+        {
+          "word": "Maha-Mushakah",
+          "meaning": "Great/Big Mouse",
+          "reading": "महामूषकः",
+          "example_sentence": "MahaMushakah asti (It is a big Mouse)"
+        },
+        {
+          "word": "Maha-Simhah",
+          "meaning": "Great/Big Lion",
+          "reading": "महासिंहः",
+          "example_sentence": "MahaSimhah asti (It is a big Lion)"
+        },
+        {
+          "word": "Maha-Vyaghrah",
+          "meaning": "Great/Big Tiger",
+          "reading": "महाव्याघ्रः",
+          "example_sentence": "MahaVyaghrah asti (It is a big Tiger)"
+        },
+        {
+          "word": "Maha-Bhallukah",
+          "meaning": "Great/Big Bear",
+          "reading": "महाभल्लूकः",
+          "example_sentence": "MahaBhallukah asti (It is a big Bear)"
+        },
+        {
+          "word": "Maha-Vrikah",
+          "meaning": "Great/Big Wolf",
+          "reading": "महावृकः",
+          "example_sentence": "MahaVrikah asti (It is a big Wolf)"
+        },
+        {
+          "word": "Maha-Shrigalah",
+          "meaning": "Great/Big Jackal",
+          "reading": "महाशृगालः",
+          "example_sentence": "MahaShrigalah asti (It is a big Jackal)"
+        },
+        {
+          "word": "Maha-Vanarah",
+          "meaning": "Great/Big Monkey",
+          "reading": "महावानरः",
+          "example_sentence": "MahaVanarah asti (It is a big Monkey)"
+        },
+        {
+          "word": "Maha-Kapi",
+          "meaning": "Great/Big Monkey (Alt)",
+          "reading": "महाकपिः",
+          "example_sentence": "MahaKapi asti (It is a big Monkey (Alt))"
+        },
+        {
+          "word": "Maha-Harinah",
+          "meaning": "Great/Big Deer",
+          "reading": "महाहरिणः",
+          "example_sentence": "MahaHarinah asti (It is a big Deer)"
+        },
+        {
+          "word": "Maha-Shashakah",
+          "meaning": "Great/Big Rabbit",
+          "reading": "महाशशकः",
+          "example_sentence": "MahaShashakah asti (It is a big Rabbit)"
+        },
+        {
+          "word": "Maha-Ushtrah",
+          "meaning": "Great/Big Camel",
+          "reading": "महाउष्ट्रः",
+          "example_sentence": "MahaUshtrah asti (It is a big Camel)"
+        }
+      ]
+    },
+    {
+      "moduleId": "sanskrit_a1_m6",
+      "theme": "School & Education",
+      "order": 6,
+      "vocabularyItems": [
+        {
+          "word": "Vidyalayah",
+          "meaning": "School",
+          "reading": "विद्यालयः",
+          "example_sentence": "Vidyalayah implies School"
+        },
+        {
+          "word": "Mahavidyalayah",
+          "meaning": "College",
+          "reading": "महाविद्यालयः",
+          "example_sentence": "Mahavidyalayah implies College"
+        },
+        {
+          "word": "Kaksha",
+          "meaning": "Classroom",
+          "reading": "कक्षा",
+          "example_sentence": "Kaksha implies Classroom"
+        },
+        {
+          "word": "Pustakam",
+          "meaning": "Book",
+          "reading": "पुस्तकम्",
+          "example_sentence": "Pustakam implies Book"
+        },
+        {
+          "word": "Granthah",
+          "meaning": "Scripture/Book",
+          "reading": "ग्रन्थः",
+          "example_sentence": "Granthah implies Scripture/Book"
+        },
+        {
+          "word": "Lekhani",
+          "meaning": "Pen",
+          "reading": "लेखनी",
+          "example_sentence": "Lekhani implies Pen"
+        },
+        {
+          "word": "Ankani",
+          "meaning": "Pencil",
+          "reading": "अङ्कनी",
+          "example_sentence": "Ankani implies Pencil"
+        },
+        {
+          "word": "Sudhakhandah",
+          "meaning": "Chalk",
+          "reading": "सुधाखण्डः",
+          "example_sentence": "Sudhakhandah implies Chalk"
+        },
+        {
+          "word": "Shyamapattah",
+          "meaning": "Blackboard",
+          "reading": "श्यामपट्टः",
+          "example_sentence": "Shyamapattah implies Blackboard"
+        },
+        {
+          "word": "Marjakah",
+          "meaning": "Duster/Eraser",
+          "reading": "मार्जकः",
+          "example_sentence": "Marjakah implies Duster/Eraser"
+        },
+        {
+          "word": "Syutah",
+          "meaning": "Bag",
+          "reading": "स्यूतः",
+          "example_sentence": "Syutah implies Bag"
+        },
+        {
+          "word": "Mapika",
+          "meaning": "Ruler",
+          "reading": "मापिका",
+          "example_sentence": "Mapika implies Ruler"
+        },
+        {
+          "word": "Sanchika",
+          "meaning": "File/Folder",
+          "reading": "सञ्चिका",
+          "example_sentence": "Sanchika implies File/Folder"
+        },
+        {
+          "word": "Kargadah",
+          "meaning": "Paper (Alt)",
+          "reading": "करगदः",
+          "example_sentence": "Kargadah implies Paper (Alt)"
+        },
+        {
+          "word": "Utpithika",
+          "meaning": "Table",
+          "reading": "उत्पीठिका",
+          "example_sentence": "Utpithika implies Table"
+        },
+        {
+          "word": "Asandah",
+          "meaning": "Chair",
+          "reading": "आसन्दः",
+          "example_sentence": "Asandah implies Chair"
+        },
+        {
+          "word": "Dvaram",
+          "meaning": "Door",
+          "reading": "द्वारम्",
+          "example_sentence": "Dvaram implies Door"
+        },
+        {
+          "word": "Vatyanam",
+          "meaning": "Window",
+          "reading": "वातायनम्",
+          "example_sentence": "Vatyanam implies Window"
+        },
+        {
+          "word": "Ghatika",
+          "meaning": "Clock",
+          "reading": "घटिका",
+          "example_sentence": "Ghatika implies Clock"
+        },
+        {
+          "word": "Deepah",
+          "meaning": "Lamp",
+          "reading": "दीपः",
+          "example_sentence": "Deepah implies Lamp"
+        },
+        {
+          "word": "Sanganakam",
+          "meaning": "Computer",
+          "reading": "सङ्गणकम्",
+          "example_sentence": "Sanganakam implies Computer"
+        },
+        {
+          "word": "Durabhashah",
+          "meaning": "Telephone",
+          "reading": "दूरभाषः",
+          "example_sentence": "Durabhashah implies Telephone"
+        },
+        {
+          "word": "Jangamadurabhashah",
+          "meaning": "Mobile",
+          "reading": "जङ्गमदूरभाषः",
+          "example_sentence": "Jangamadurabhashah implies Mobile"
+        },
+        {
+          "word": "Antarjalam",
+          "meaning": "Internet",
+          "reading": "अन्तर्जालम्",
+          "example_sentence": "Antarjalam implies Internet"
+        },
+        {
+          "word": "Pariksha",
+          "meaning": "Exam",
+          "reading": "परीक्षा",
+          "example_sentence": "Pariksha implies Exam"
+        },
+        {
+          "word": "Prashnah",
+          "meaning": "Question",
+          "reading": "प्रश्नः",
+          "example_sentence": "Prashnah implies Question"
+        },
+        {
+          "word": "Uttaram",
+          "meaning": "Answer",
+          "reading": "उत्तरम्",
+          "example_sentence": "Uttaram implies Answer"
+        },
+        {
+          "word": "Ankah",
+          "meaning": "Mark/Score",
+          "reading": "अङ्कः",
+          "example_sentence": "Ankah implies Mark/Score"
+        },
+        {
+          "word": "Phalitam",
+          "meaning": "Result",
+          "reading": "फलितम्",
+          "example_sentence": "Phalitam implies Result"
+        },
+        {
+          "word": "Pathah",
+          "meaning": "Lesson",
+          "reading": "पाठः",
+          "example_sentence": "Pathah implies Lesson"
+        },
+        {
+          "word": "Adhyayanam",
+          "meaning": "Study",
+          "reading": "अध्ययनम्",
+          "example_sentence": "Adhyayanam implies Study"
+        },
+        {
+          "word": "Adhyapanam",
+          "meaning": "Teaching",
+          "reading": "अध्यापनम्",
+          "example_sentence": "Adhyapanam implies Teaching"
+        },
+        {
+          "word": "Gyanam",
+          "meaning": "Knowledge",
+          "reading": "ज्ञानम्",
+          "example_sentence": "Gyanam implies Knowledge"
+        },
+        {
+          "word": "Vidya",
+          "meaning": "Education",
+          "reading": "विद्या",
+          "example_sentence": "Vidya implies Education"
+        },
+        {
+          "word": "Kala",
+          "meaning": "Art",
+          "reading": "कला",
+          "example_sentence": "Kala implies Art"
+        },
+        {
+          "word": "Vijnanam",
+          "meaning": "Science",
+          "reading": "विज्ञानम्",
+          "example_sentence": "Vijnanam implies Science"
+        },
+        {
+          "word": "Ganitam",
+          "meaning": "Math",
+          "reading": "गणितम्",
+          "example_sentence": "Ganitam implies Math"
+        },
+        {
+          "word": "Itihasah",
+          "meaning": "History",
+          "reading": "इतिहासः",
+          "example_sentence": "Itihasah implies History"
+        },
+        {
+          "word": "Sanskritam",
+          "meaning": "Sanskrit",
+          "reading": "संस्कृतम्",
+          "example_sentence": "Sanskritam implies Sanskrit"
+        },
+        {
+          "word": "Bhasha",
+          "meaning": "Language",
+          "reading": "भाषा",
+          "example_sentence": "Bhasha implies Language"
+        },
+        {
+          "word": "Shabdakosha",
+          "meaning": "Dictionary",
+          "reading": "शब्दकोशः",
+          "example_sentence": "Shabdakosha implies Dictionary"
+        },
+        {
+          "word": "Vyakaranam",
+          "meaning": "Grammar",
+          "reading": "व्याकरणम्",
+          "example_sentence": "Vyakaranam implies Grammar"
+        },
+        {
+          "word": "Kavyam",
+          "meaning": "Poetry",
+          "reading": "काव्यम्",
+          "example_sentence": "Kavyam implies Poetry"
+        },
+        {
+          "word": "Natakam",
+          "meaning": "Drama",
+          "reading": "नाटकम्",
+          "example_sentence": "Natakam implies Drama"
+        },
+        {
+          "word": "Katha",
+          "meaning": "Story",
+          "reading": "कथा",
+          "example_sentence": "Katha implies Story"
+        },
+        {
+          "word": "Slokah",
+          "meaning": "Verse",
+          "reading": "श्लोकः",
+          "example_sentence": "Slokah implies Verse"
+        },
+        {
+          "word": "Mantrah",
+          "meaning": "Mantra",
+          "reading": "मन्त्रः",
+          "example_sentence": "Mantrah implies Mantra"
+        },
+        {
+          "word": "Sutram",
+          "meaning": "Formula/Aphorism",
+          "reading": "सूत्रम्",
+          "example_sentence": "Sutram implies Formula/Aphorism"
+        },
+        {
+          "word": "Abhyasah",
+          "meaning": "Practice",
+          "reading": "अभ्यासः",
+          "example_sentence": "Abhyasah implies Practice"
+        },
+        {
+          "word": "Udaharanam",
+          "meaning": "Example",
+          "reading": "उदाहरणम्",
+          "example_sentence": "Udaharanam implies Example"
+        },
+        {
+          "word": "Suchi",
+          "meaning": "List/Index",
+          "reading": "सूची",
+          "example_sentence": "Suchi implies List/Index"
+        },
+        {
+          "word": "Varga",
+          "meaning": "Class/Category",
+          "reading": "वर्गः",
+          "example_sentence": "Varga implies Class/Category"
+        },
+        {
+          "word": "Samuhah",
+          "meaning": "Group",
+          "reading": "समूहः",
+          "example_sentence": "Samuhah implies Group"
+        },
+        {
+          "word": "Sahapathhi",
+          "meaning": "Classmate",
+          "reading": "सहपाठी",
+          "example_sentence": "Sahapathhi implies Classmate"
+        },
+        {
+          "word": "Acharyah",
+          "meaning": "Principal/Professor",
+          "reading": "आचार्यः",
+          "example_sentence": "Acharyah implies Principal/Professor"
+        },
+        {
+          "word": "Upadhyayah",
+          "meaning": "Teacher",
+          "reading": "उपाध्यायः",
+          "example_sentence": "Upadhyayah implies Teacher"
+        },
+        {
+          "word": "Chhatravasah",
+          "meaning": "Hostel",
+          "reading": "छात्रावासः",
+          "example_sentence": "Chhatravasah implies Hostel"
+        },
+        {
+          "word": "Kreedaanganam",
+          "meaning": "Playground",
+          "reading": "क्रीडाङ्गणम्",
+          "example_sentence": "Kreedaanganam implies Playground"
+        },
+        {
+          "word": "Pustakalayah",
+          "meaning": "Library",
+          "reading": "पुस्तकालयः",
+          "example_sentence": "Pustakalayah implies Library"
+        },
+        {
+          "word": "Prayogashala",
+          "meaning": "Laboratory",
+          "reading": "प्रयोगशाला",
+          "example_sentence": "Prayogashala implies Laboratory"
+        },
+        {
+          "word": "Sabhagriham",
+          "meaning": "Auditorium",
+          "reading": "सभागृहम्",
+          "example_sentence": "Sabhagriham implies Auditorium"
+        },
+        {
+          "word": "Vidyarthi",
+          "meaning": "Student",
+          "reading": "विद्यार्थी",
+          "example_sentence": "Vidyarthi implies Student"
+        },
+        {
+          "word": "Shikshakah",
+          "meaning": "Educator",
+          "reading": "शिक्षकः",
+          "example_sentence": "Shikshakah implies Educator"
+        },
+        {
+          "word": "Shiksha",
+          "meaning": "Instruction",
+          "reading": "शिक्षा",
+          "example_sentence": "Shiksha implies Instruction"
+        },
+        {
+          "word": "Anushasanam",
+          "meaning": "Discipline",
+          "reading": "अनुशासनम्",
+          "example_sentence": "Anushasanam implies Discipline"
+        },
+        {
+          "word": "Avadhan",
+          "meaning": "Attention",
+          "reading": "अवधानम्",
+          "example_sentence": "Avadhan implies Attention"
+        },
+        {
+          "word": "Medha",
+          "meaning": "Intellect",
+          "reading": "मेधा",
+          "example_sentence": "Medha implies Intellect"
+        },
+        {
+          "word": "Buddhi",
+          "meaning": "Intelligence",
+          "reading": "बुद्धिः",
+          "example_sentence": "Buddhi implies Intelligence"
+        },
+        {
+          "word": "Smriti",
+          "meaning": "Memory",
+          "reading": "स्मृतिः",
+          "example_sentence": "Smriti implies Memory"
+        },
+        {
+          "word": "Pratibha",
+          "meaning": "Talent",
+          "reading": "प्रतिभा",
+          "example_sentence": "Pratibha implies Talent"
+        },
+        {
+          "word": "Vivadah",
+          "meaning": "Debate",
+          "reading": "विवादः",
+          "example_sentence": "Vivadah implies Debate"
+        },
+        {
+          "word": "Sambhashanam",
+          "meaning": "Conversation",
+          "reading": "सम्भाषणम्",
+          "example_sentence": "Sambhashanam implies Conversation"
+        },
+        {
+          "word": "Vakh",
+          "meaning": "Speech",
+          "reading": "वाक्",
+          "example_sentence": "Vakh implies Speech"
+        },
+        {
+          "word": "Lekhah",
+          "meaning": "Article/Writing",
+          "reading": "लेखः",
+          "example_sentence": "Lekhah implies Article/Writing"
+        },
+        {
+          "word": "Nibandhah",
+          "meaning": "Essay",
+          "reading": "निबन्धः",
+          "example_sentence": "Nibandhah implies Essay"
+        },
+        {
+          "word": "Patralekhanam",
+          "meaning": "Letter writing",
+          "reading": "पत्रलेखनम्",
+          "example_sentence": "Patralekhanam implies Letter writing"
+        },
+        {
+          "word": "Chitram",
+          "meaning": "Picture",
+          "reading": "चित्रम्",
+          "example_sentence": "Chitram implies Picture"
+        },
+        {
+          "word": "Rekha",
+          "meaning": "Line",
+          "reading": "रेखा",
+          "example_sentence": "Rekha implies Line"
+        },
+        {
+          "word": "Maha-Vidyalayah",
+          "meaning": "Great/Big School",
+          "reading": "महाविद्यालयः",
+          "example_sentence": "MahaVidyalayah asti (It is a big School)"
+        },
+        {
+          "word": "Maha-Mahavidyalayah",
+          "meaning": "Great/Big College",
+          "reading": "महामहाविद्यालयः",
+          "example_sentence": "MahaMahavidyalayah asti (It is a big College)"
+        },
+        {
+          "word": "Maha-Kaksha",
+          "meaning": "Great/Big Classroom",
+          "reading": "महाकक्षा",
+          "example_sentence": "MahaKaksha asti (It is a big Classroom)"
+        },
+        {
+          "word": "Maha-Pustakam",
+          "meaning": "Great/Big Book",
+          "reading": "महापुस्तकम्",
+          "example_sentence": "MahaPustakam asti (It is a big Book)"
+        },
+        {
+          "word": "Maha-Granthah",
+          "meaning": "Great/Big Scripture/Book",
+          "reading": "महाग्रन्थः",
+          "example_sentence": "MahaGranthah asti (It is a big Scripture/Book)"
+        },
+        {
+          "word": "Maha-Lekhani",
+          "meaning": "Great/Big Pen",
+          "reading": "महालेखनी",
+          "example_sentence": "MahaLekhani asti (It is a big Pen)"
+        },
+        {
+          "word": "Maha-Ankani",
+          "meaning": "Great/Big Pencil",
+          "reading": "महाअङ्कनी",
+          "example_sentence": "MahaAnkani asti (It is a big Pencil)"
+        },
+        {
+          "word": "Maha-Sudhakhandah",
+          "meaning": "Great/Big Chalk",
+          "reading": "महासुधाखण्डः",
+          "example_sentence": "MahaSudhakhandah asti (It is a big Chalk)"
+        },
+        {
+          "word": "Maha-Shyamapattah",
+          "meaning": "Great/Big Blackboard",
+          "reading": "महाश्यामपट्टः",
+          "example_sentence": "MahaShyamapattah asti (It is a big Blackboard)"
+        },
+        {
+          "word": "Maha-Marjakah",
+          "meaning": "Great/Big Duster/Eraser",
+          "reading": "महामार्जकः",
+          "example_sentence": "MahaMarjakah asti (It is a big Duster/Eraser)"
+        },
+        {
+          "word": "Maha-Syutah",
+          "meaning": "Great/Big Bag",
+          "reading": "महास्यूतः",
+          "example_sentence": "MahaSyutah asti (It is a big Bag)"
+        },
+        {
+          "word": "Maha-Mapika",
+          "meaning": "Great/Big Ruler",
+          "reading": "महामापिका",
+          "example_sentence": "MahaMapika asti (It is a big Ruler)"
+        },
+        {
+          "word": "Maha-Sanchika",
+          "meaning": "Great/Big File/Folder",
+          "reading": "महासञ्चिका",
+          "example_sentence": "MahaSanchika asti (It is a big File/Folder)"
+        },
+        {
+          "word": "Maha-Kargadah",
+          "meaning": "Great/Big Paper (Alt)",
+          "reading": "महाकरगदः",
+          "example_sentence": "MahaKargadah asti (It is a big Paper (Alt))"
+        },
+        {
+          "word": "Maha-Utpithika",
+          "meaning": "Great/Big Table",
+          "reading": "महाउत्पीठिका",
+          "example_sentence": "MahaUtpithika asti (It is a big Table)"
+        },
+        {
+          "word": "Maha-Asandah",
+          "meaning": "Great/Big Chair",
+          "reading": "महाआसन्दः",
+          "example_sentence": "MahaAsandah asti (It is a big Chair)"
+        },
+        {
+          "word": "Maha-Dvaram",
+          "meaning": "Great/Big Door",
+          "reading": "महाद्वारम्",
+          "example_sentence": "MahaDvaram asti (It is a big Door)"
+        },
+        {
+          "word": "Maha-Vatyanam",
+          "meaning": "Great/Big Window",
+          "reading": "महावातायनम्",
+          "example_sentence": "MahaVatyanam asti (It is a big Window)"
+        },
+        {
+          "word": "Maha-Ghatika",
+          "meaning": "Great/Big Clock",
+          "reading": "महाघटिका",
+          "example_sentence": "MahaGhatika asti (It is a big Clock)"
+        },
+        {
+          "word": "Maha-Deepah",
+          "meaning": "Great/Big Lamp",
+          "reading": "महादीपः",
+          "example_sentence": "MahaDeepah asti (It is a big Lamp)"
+        },
+        {
+          "word": "Maha-Sanganakam",
+          "meaning": "Great/Big Computer",
+          "reading": "महासङ्गणकम्",
+          "example_sentence": "MahaSanganakam asti (It is a big Computer)"
+        },
+        {
+          "word": "Maha-Durabhashah",
+          "meaning": "Great/Big Telephone",
+          "reading": "महादूरभाषः",
+          "example_sentence": "MahaDurabhashah asti (It is a big Telephone)"
+        }
+      ]
+    },
+    {
+      "moduleId": "sanskrit_a1_m7",
+      "theme": "Food & Kitchen",
+      "order": 7,
+      "vocabularyItems": [
+        {
+          "word": "Annam",
+          "meaning": "Cooked Rice/Food",
+          "reading": "अन्नम्",
+          "example_sentence": "Annam implies Cooked Rice/Food"
+        },
+        {
+          "word": "Odanam",
+          "meaning": "Rice (Cooked)",
+          "reading": "ओदनम्",
+          "example_sentence": "Odanam implies Rice (Cooked)"
+        },
+        {
+          "word": "Tandulah",
+          "meaning": "Rice (Raw)",
+          "reading": "तण्डुलः",
+          "example_sentence": "Tandulah implies Rice (Raw)"
+        },
+        {
+          "word": "Godhumah",
+          "meaning": "Wheat",
+          "reading": "गोधूमः",
+          "example_sentence": "Godhumah implies Wheat"
+        },
+        {
+          "word": "Roti",
+          "meaning": "Bread",
+          "reading": "रोटिका",
+          "example_sentence": "Roti implies Bread"
+        },
+        {
+          "word": "Pupah",
+          "meaning": "Cake/Bun",
+          "reading": "पूपः",
+          "example_sentence": "Pupah implies Cake/Bun"
+        },
+        {
+          "word": "Modakah",
+          "meaning": "Sweet ball",
+          "reading": "मोदकः",
+          "example_sentence": "Modakah implies Sweet ball"
+        },
+        {
+          "word": "Laddukah",
+          "meaning": "Laddu",
+          "reading": "लड्डुकः",
+          "example_sentence": "Laddukah implies Laddu"
+        },
+        {
+          "word": "Sharkara",
+          "meaning": "Sugar",
+          "reading": "शर्करा",
+          "example_sentence": "Sharkara implies Sugar"
+        },
+        {
+          "word": "Gudah",
+          "meaning": "Jaggery",
+          "reading": "गुडः",
+          "example_sentence": "Gudah implies Jaggery"
+        },
+        {
+          "word": "Lavanam",
+          "meaning": "Salt",
+          "reading": "लवणम्",
+          "example_sentence": "Lavanam implies Salt"
+        },
+        {
+          "word": "Katu",
+          "meaning": "Spicy",
+          "reading": "कटु",
+          "example_sentence": "Katu implies Spicy"
+        },
+        {
+          "word": "Amla",
+          "meaning": "Sour",
+          "reading": "आम्ल",
+          "example_sentence": "Amla implies Sour"
+        },
+        {
+          "word": "Tikta",
+          "meaning": "Bitter",
+          "reading": "तिक्त",
+          "example_sentence": "Tikta implies Bitter"
+        },
+        {
+          "word": "Madhura",
+          "meaning": "Sweet",
+          "reading": "मधुर",
+          "example_sentence": "Madhura implies Sweet"
+        },
+        {
+          "word": "Kashaya",
+          "meaning": "Astringent",
+          "reading": "कषाय",
+          "example_sentence": "Kashaya implies Astringent"
+        },
+        {
+          "word": "Supah",
+          "meaning": "Soup/Dal",
+          "reading": "सूपः",
+          "example_sentence": "Supah implies Soup/Dal"
+        },
+        {
+          "word": "Shakam",
+          "meaning": "Vegetable",
+          "reading": "शाकम्",
+          "example_sentence": "Shakam implies Vegetable"
+        },
+        {
+          "word": "Aamram",
+          "meaning": "Mango",
+          "reading": "आम्रम्",
+          "example_sentence": "Aamram implies Mango"
+        },
+        {
+          "word": "Kadali",
+          "meaning": "Banana",
+          "reading": "कदली",
+          "example_sentence": "Kadali implies Banana"
+        },
+        {
+          "word": "Sevam",
+          "meaning": "Apple",
+          "reading": "सेवम्",
+          "example_sentence": "Sevam implies Apple"
+        },
+        {
+          "word": "Draksha",
+          "meaning": "Grape",
+          "reading": "द्राक्षा",
+          "example_sentence": "Draksha implies Grape"
+        },
+        {
+          "word": "Narikelah",
+          "meaning": "Coconut",
+          "reading": "नारिकेलः",
+          "example_sentence": "Narikelah implies Coconut"
+        },
+        {
+          "word": "Jambu",
+          "meaning": "Jamun fruit",
+          "reading": "जम्बू",
+          "example_sentence": "Jambu implies Jamun fruit"
+        },
+        {
+          "word": "Dadimam",
+          "meaning": "Pomegranate",
+          "reading": "दाडिमम्",
+          "example_sentence": "Dadimam implies Pomegranate"
+        },
+        {
+          "word": "Panasam",
+          "meaning": "Jackfruit",
+          "reading": "पनसम्",
+          "example_sentence": "Panasam implies Jackfruit"
+        },
+        {
+          "word": "Alukam",
+          "meaning": "Potato",
+          "reading": "आलुकम्",
+          "example_sentence": "Alukam implies Potato"
+        },
+        {
+          "word": "Palanduh",
+          "meaning": "Onion",
+          "reading": "पलाण्डुः",
+          "example_sentence": "Palanduh implies Onion"
+        },
+        {
+          "word": "Lashunam",
+          "meaning": "Garlic",
+          "reading": "लशुनम्",
+          "example_sentence": "Lashunam implies Garlic"
+        },
+        {
+          "word": "Grijanam",
+          "meaning": "Carrot",
+          "reading": "गृञ्जनम्",
+          "example_sentence": "Grijanam implies Carrot"
+        },
+        {
+          "word": "Moolakam",
+          "meaning": "Radish",
+          "reading": "मूलकम्",
+          "example_sentence": "Moolakam implies Radish"
+        },
+        {
+          "word": "Vartakah",
+          "meaning": "Brinjal",
+          "reading": "वार्ताकः",
+          "example_sentence": "Vartakah implies Brinjal"
+        },
+        {
+          "word": "Bhindi",
+          "meaning": "Okra",
+          "reading": "भिण्डिः",
+          "example_sentence": "Bhindi implies Okra"
+        },
+        {
+          "word": "Kushmandah",
+          "meaning": "Pumpkin",
+          "reading": "कूष्माण्डः",
+          "example_sentence": "Kushmandah implies Pumpkin"
+        },
+        {
+          "word": "Haritakam",
+          "meaning": "Green veg",
+          "reading": "हरितकम्",
+          "example_sentence": "Haritakam implies Green veg"
+        },
+        {
+          "word": "Maricham",
+          "meaning": "Chilli/Pepper",
+          "reading": "मरिचम्",
+          "example_sentence": "Maricham implies Chilli/Pepper"
+        },
+        {
+          "word": "Jirakam",
+          "meaning": "Cumin",
+          "reading": "जीरकम्",
+          "example_sentence": "Jirakam implies Cumin"
+        },
+        {
+          "word": "Haridra",
+          "meaning": "Turmeric",
+          "reading": "हरिद्रा",
+          "example_sentence": "Haridra implies Turmeric"
+        },
+        {
+          "word": "Hingu",
+          "meaning": "Asafoetida",
+          "reading": "हिङ्गु",
+          "example_sentence": "Hingu implies Asafoetida"
+        },
+        {
+          "word": "Dhanyakam",
+          "meaning": "Coriander",
+          "reading": "धान्यकम्",
+          "example_sentence": "Dhanyakam implies Coriander"
+        },
+        {
+          "word": "Ela",
+          "meaning": "Cardamom",
+          "reading": "एला",
+          "example_sentence": "Ela implies Cardamom"
+        },
+        {
+          "word": "Lavangam",
+          "meaning": "Clove",
+          "reading": "लवङ्गम",
+          "example_sentence": "Lavangam implies Clove"
+        },
+        {
+          "word": "Adrakam",
+          "meaning": "Ginger",
+          "reading": "आद्रकम्",
+          "example_sentence": "Adrakam implies Ginger"
+        },
+        {
+          "word": "Dugdham",
+          "meaning": "Milk",
+          "reading": "दुग्धम्",
+          "example_sentence": "Dugdham implies Milk"
+        },
+        {
+          "word": "Dadhi",
+          "meaning": "Yogurt",
+          "reading": "दधि",
+          "example_sentence": "Dadhi implies Yogurt"
+        },
+        {
+          "word": "Ghritam",
+          "meaning": "Ghee",
+          "reading": "घृतम्",
+          "example_sentence": "Ghritam implies Ghee"
+        },
+        {
+          "word": "Navanitam",
+          "meaning": "Butter",
+          "reading": "नवनीतम्",
+          "example_sentence": "Navanitam implies Butter"
+        },
+        {
+          "word": "Takram",
+          "meaning": "Buttermilk",
+          "reading": "तक्रम्",
+          "example_sentence": "Takram implies Buttermilk"
+        },
+        {
+          "word": "Panakam",
+          "meaning": "Drink/Juice",
+          "reading": "पानकम्",
+          "example_sentence": "Panakam implies Drink/Juice"
+        },
+        {
+          "word": "Chayah",
+          "meaning": "Tea",
+          "reading": "चायः",
+          "example_sentence": "Chayah implies Tea"
+        },
+        {
+          "word": "Sthalika",
+          "meaning": "Plate",
+          "reading": "स्थालिका",
+          "example_sentence": "Sthalika implies Plate"
+        },
+        {
+          "word": "Chamasah",
+          "meaning": "Spoon",
+          "reading": "चमसः",
+          "example_sentence": "Chamasah implies Spoon"
+        },
+        {
+          "word": "Katorah",
+          "meaning": "Bowl",
+          "reading": "कटोरः",
+          "example_sentence": "Katorah implies Bowl"
+        },
+        {
+          "word": "Ghatab",
+          "meaning": "Pot",
+          "reading": "घटः",
+          "example_sentence": "Ghatab implies Pot"
+        },
+        {
+          "word": "Kalashah",
+          "meaning": "Pitcher",
+          "reading": "कलशः",
+          "example_sentence": "Kalashah implies Pitcher"
+        },
+        {
+          "word": "Chullika",
+          "meaning": "Stove",
+          "reading": "चुल्लिका",
+          "example_sentence": "Chullika implies Stove"
+        },
+        {
+          "word": "Darvi",
+          "meaning": "Ladle",
+          "reading": "दर्वी",
+          "example_sentence": "Darvi implies Ladle"
+        },
+        {
+          "word": "Churnam",
+          "meaning": "Powder",
+          "reading": "चूर्णम्",
+          "example_sentence": "Churnam implies Powder"
+        },
+        {
+          "word": "Mishranam",
+          "meaning": "Mixture",
+          "reading": "मिश्रणम्",
+          "example_sentence": "Mishranam implies Mixture"
+        },
+        {
+          "word": "Pachati",
+          "meaning": "Cooks",
+          "reading": "पचति",
+          "example_sentence": "Pachati implies Cooks"
+        },
+        {
+          "word": "Khadati",
+          "meaning": "Eats",
+          "reading": "खादति",
+          "example_sentence": "Khadati implies Eats"
+        },
+        {
+          "word": "Pibati",
+          "meaning": "Drinks",
+          "reading": "पिबति",
+          "example_sentence": "Pibati implies Drinks"
+        },
+        {
+          "word": "Pariveshayati",
+          "meaning": "Serves",
+          "reading": "परिवेषयति",
+          "example_sentence": "Pariveshayati implies Serves"
+        },
+        {
+          "word": "Bhubhuksha",
+          "meaning": "Hunger",
+          "reading": "बुभुक्षा",
+          "example_sentence": "Bhubhuksha implies Hunger"
+        },
+        {
+          "word": "Tripti",
+          "meaning": "Satisfaction",
+          "reading": "तृप्तिः",
+          "example_sentence": "Tripti implies Satisfaction"
+        },
+        {
+          "word": "Ruchikara",
+          "meaning": "Tasty",
+          "reading": "रुचिकर",
+          "example_sentence": "Ruchikara implies Tasty"
+        },
+        {
+          "word": "Aharah",
+          "meaning": "Diet/Food",
+          "reading": "आहारः",
+          "example_sentence": "Aharah implies Diet/Food"
+        },
+        {
+          "word": "Pratarashah",
+          "meaning": "Breakfast",
+          "reading": "प्रातराशः",
+          "example_sentence": "Pratarashah implies Breakfast"
+        },
+        {
+          "word": "Madhyahnabhojanam",
+          "meaning": "Lunch",
+          "reading": "मध्याह्नभोजनम्",
+          "example_sentence": "Madhyahnabhojanam implies Lunch"
+        },
+        {
+          "word": "Ratribhojanam",
+          "meaning": "Dinner",
+          "reading": "रात्रिभोजनम्",
+          "example_sentence": "Ratribhojanam implies Dinner"
+        },
+        {
+          "word": "Bhojanalaya",
+          "meaning": "Dining Hall",
+          "reading": "भोजनालयः",
+          "example_sentence": "Bhojanalaya implies Dining Hall"
+        },
+        {
+          "word": "Mahanasam",
+          "meaning": "Kitchen",
+          "reading": "महानसम्",
+          "example_sentence": "Mahanasam implies Kitchen"
+        },
+        {
+          "word": "Pacakah",
+          "meaning": "Cook",
+          "reading": "पाचकः",
+          "example_sentence": "Pacakah implies Cook"
+        },
+        {
+          "word": "Annada",
+          "meaning": "Giver of Food",
+          "reading": "अन्नदा",
+          "example_sentence": "Annada implies Giver of Food"
+        },
+        {
+          "word": "Prasadah",
+          "meaning": "Blessed Food",
+          "reading": "प्रसादः",
+          "example_sentence": "Prasadah implies Blessed Food"
+        },
+        {
+          "word": "Maha-Annam",
+          "meaning": "Great/Big Cooked Rice/Food",
+          "reading": "महाअन्नम्",
+          "example_sentence": "MahaAnnam asti (It is a big Cooked Rice/Food)"
+        },
+        {
+          "word": "Maha-Odanam",
+          "meaning": "Great/Big Rice (Cooked)",
+          "reading": "महाओदनम्",
+          "example_sentence": "MahaOdanam asti (It is a big Rice (Cooked))"
+        },
+        {
+          "word": "Maha-Tandulah",
+          "meaning": "Great/Big Rice (Raw)",
+          "reading": "महातण्डुलः",
+          "example_sentence": "MahaTandulah asti (It is a big Rice (Raw))"
+        },
+        {
+          "word": "Maha-Godhumah",
+          "meaning": "Great/Big Wheat",
+          "reading": "महागोधूमः",
+          "example_sentence": "MahaGodhumah asti (It is a big Wheat)"
+        },
+        {
+          "word": "Maha-Roti",
+          "meaning": "Great/Big Bread",
+          "reading": "महारोटिका",
+          "example_sentence": "MahaRoti asti (It is a big Bread)"
+        },
+        {
+          "word": "Maha-Pupah",
+          "meaning": "Great/Big Cake/Bun",
+          "reading": "महापूपः",
+          "example_sentence": "MahaPupah asti (It is a big Cake/Bun)"
+        },
+        {
+          "word": "Maha-Modakah",
+          "meaning": "Great/Big Sweet ball",
+          "reading": "महामोदकः",
+          "example_sentence": "MahaModakah asti (It is a big Sweet ball)"
+        },
+        {
+          "word": "Maha-Laddukah",
+          "meaning": "Great/Big Laddu",
+          "reading": "महालड्डुकः",
+          "example_sentence": "MahaLaddukah asti (It is a big Laddu)"
+        },
+        {
+          "word": "Maha-Sharkara",
+          "meaning": "Great/Big Sugar",
+          "reading": "महाशर्करा",
+          "example_sentence": "MahaSharkara asti (It is a big Sugar)"
+        },
+        {
+          "word": "Maha-Gudah",
+          "meaning": "Great/Big Jaggery",
+          "reading": "महागुडः",
+          "example_sentence": "MahaGudah asti (It is a big Jaggery)"
+        },
+        {
+          "word": "Maha-Lavanam",
+          "meaning": "Great/Big Salt",
+          "reading": "महालवणम्",
+          "example_sentence": "MahaLavanam asti (It is a big Salt)"
+        },
+        {
+          "word": "Maha-Katu",
+          "meaning": "Great/Big Spicy",
+          "reading": "महाकटु",
+          "example_sentence": "MahaKatu asti (It is a big Spicy)"
+        },
+        {
+          "word": "Maha-Amla",
+          "meaning": "Great/Big Sour",
+          "reading": "महाआम्ल",
+          "example_sentence": "MahaAmla asti (It is a big Sour)"
+        },
+        {
+          "word": "Maha-Tikta",
+          "meaning": "Great/Big Bitter",
+          "reading": "महातिक्त",
+          "example_sentence": "MahaTikta asti (It is a big Bitter)"
+        },
+        {
+          "word": "Maha-Madhura",
+          "meaning": "Great/Big Sweet",
+          "reading": "महामधुर",
+          "example_sentence": "MahaMadhura asti (It is a big Sweet)"
+        },
+        {
+          "word": "Maha-Kashaya",
+          "meaning": "Great/Big Astringent",
+          "reading": "महाकषाय",
+          "example_sentence": "MahaKashaya asti (It is a big Astringent)"
+        },
+        {
+          "word": "Maha-Supah",
+          "meaning": "Great/Big Soup/Dal",
+          "reading": "महासूपः",
+          "example_sentence": "MahaSupah asti (It is a big Soup/Dal)"
+        },
+        {
+          "word": "Maha-Shakam",
+          "meaning": "Great/Big Vegetable",
+          "reading": "महाशाकम्",
+          "example_sentence": "MahaShakam asti (It is a big Vegetable)"
+        },
+        {
+          "word": "Maha-Aamram",
+          "meaning": "Great/Big Mango",
+          "reading": "महाआम्रम्",
+          "example_sentence": "MahaAamram asti (It is a big Mango)"
+        },
+        {
+          "word": "Maha-Kadali",
+          "meaning": "Great/Big Banana",
+          "reading": "महाकदली",
+          "example_sentence": "MahaKadali asti (It is a big Banana)"
+        },
+        {
+          "word": "Maha-Sevam",
+          "meaning": "Great/Big Apple",
+          "reading": "महासेवम्",
+          "example_sentence": "MahaSevam asti (It is a big Apple)"
+        },
+        {
+          "word": "Maha-Draksha",
+          "meaning": "Great/Big Grape",
+          "reading": "महाद्राक्षा",
+          "example_sentence": "MahaDraksha asti (It is a big Grape)"
+        },
+        {
+          "word": "Maha-Narikelah",
+          "meaning": "Great/Big Coconut",
+          "reading": "महानारिकेलः",
+          "example_sentence": "MahaNarikelah asti (It is a big Coconut)"
+        },
+        {
+          "word": "Maha-Jambu",
+          "meaning": "Great/Big Jamun fruit",
+          "reading": "महाजम्बू",
+          "example_sentence": "MahaJambu asti (It is a big Jamun fruit)"
+        },
+        {
+          "word": "Maha-Dadimam",
+          "meaning": "Great/Big Pomegranate",
+          "reading": "महादाडिमम्",
+          "example_sentence": "MahaDadimam asti (It is a big Pomegranate)"
+        }
+      ]
+    },
+    {
+      "moduleId": "sanskrit_a1_m8",
+      "theme": "Verbs & Actions",
+      "order": 8,
+      "vocabularyItems": [
+        {
+          "word": "Gam",
+          "meaning": "Go (Root)",
+          "reading": "गम्",
+          "example_sentence": "Gam implies Go (Root)"
+        },
+        {
+          "word": "Gachhati",
+          "meaning": "Goes",
+          "reading": "गच्छति",
+          "example_sentence": "Gachhati implies Goes"
+        },
+        {
+          "word": "Agachhati",
+          "meaning": "Comes",
+          "reading": "आगच्छति",
+          "example_sentence": "Agachhati implies Comes"
+        },
+        {
+          "word": "Path",
+          "meaning": "Read (Root)",
+          "reading": "पठ्",
+          "example_sentence": "Path implies Read (Root)"
+        },
+        {
+          "word": "Pathati",
+          "meaning": "Reads",
+          "reading": "पठति",
+          "example_sentence": "Pathati implies Reads"
+        },
+        {
+          "word": "Likh",
+          "meaning": "Write (Root)",
+          "reading": "लिख्",
+          "example_sentence": "Likh implies Write (Root)"
+        },
+        {
+          "word": "Likhati",
+          "meaning": "Writes",
+          "reading": "लिखति",
+          "example_sentence": "Likhati implies Writes"
+        },
+        {
+          "word": "Has",
+          "meaning": "Laugh (Root)",
+          "reading": "हस्",
+          "example_sentence": "Has implies Laugh (Root)"
+        },
+        {
+          "word": "Hasati",
+          "meaning": "Laughs",
+          "reading": "हसति",
+          "example_sentence": "Hasati implies Laughs"
+        },
+        {
+          "word": "Vad",
+          "meaning": "Speak (Root)",
+          "reading": "वद्",
+          "example_sentence": "Vad implies Speak (Root)"
+        },
+        {
+          "word": "Vadati",
+          "meaning": "Speaks",
+          "reading": "वदति",
+          "example_sentence": "Vadati implies Speaks"
+        },
+        {
+          "word": "Khād",
+          "meaning": "Eat (Root)",
+          "reading": "खाद्",
+          "example_sentence": "Khād implies Eat (Root)"
+        },
+        {
+          "word": "Pā",
+          "meaning": "Drink (Root)",
+          "reading": "पा",
+          "example_sentence": "Pā implies Drink (Root)"
+        },
+        {
+          "word": "Drish",
+          "meaning": "See (Root)",
+          "reading": "दृश्",
+          "example_sentence": "Drish implies See (Root)"
+        },
+        {
+          "word": "Pashyati",
+          "meaning": "Sees",
+          "reading": "पश्यति",
+          "example_sentence": "Pashyati implies Sees"
+        },
+        {
+          "word": "Shru",
+          "meaning": "Hear (Root)",
+          "reading": "श्रु",
+          "example_sentence": "Shru implies Hear (Root)"
+        },
+        {
+          "word": "Shrunoti",
+          "meaning": "Hears",
+          "reading": "शृणोति",
+          "example_sentence": "Shrunoti implies Hears"
+        },
+        {
+          "word": "Ghra",
+          "meaning": "Smell (Root)",
+          "reading": "घ्रा",
+          "example_sentence": "Ghra implies Smell (Root)"
+        },
+        {
+          "word": "Jighrati",
+          "meaning": "Smells",
+          "reading": "जिघ्रति",
+          "example_sentence": "Jighrati implies Smells"
+        },
+        {
+          "word": "Stha",
+          "meaning": "Stand (Root)",
+          "reading": "स्था",
+          "example_sentence": "Stha implies Stand (Root)"
+        },
+        {
+          "word": "Tishthati",
+          "meaning": "Stands",
+          "reading": "तिष्ठति",
+          "example_sentence": "Tishthati implies Stands"
+        },
+        {
+          "word": "Upavish",
+          "meaning": "Sit (Root)",
+          "reading": "उपविश्",
+          "example_sentence": "Upavish implies Sit (Root)"
+        },
+        {
+          "word": "Upavishati",
+          "meaning": "Sits",
+          "reading": "उपविशति",
+          "example_sentence": "Upavishati implies Sits"
+        },
+        {
+          "word": "Dhav",
+          "meaning": "Run (Root)",
+          "reading": "धाव्",
+          "example_sentence": "Dhav implies Run (Root)"
+        },
+        {
+          "word": "Dhavati",
+          "meaning": "Runs",
+          "reading": "धावति",
+          "example_sentence": "Dhavati implies Runs"
+        },
+        {
+          "word": "Khel",
+          "meaning": "Play (Root)",
+          "reading": "खेल्",
+          "example_sentence": "Khel implies Play (Root)"
+        },
+        {
+          "word": "Khelati",
+          "meaning": "Plays",
+          "reading": "खेलति",
+          "example_sentence": "Khelati implies Plays"
+        },
+        {
+          "word": "Kri",
+          "meaning": "Do (Root)",
+          "reading": "कृ",
+          "example_sentence": "Kri implies Do (Root)"
+        },
+        {
+          "word": "Karoti",
+          "meaning": "Does",
+          "reading": "करोति",
+          "example_sentence": "Karoti implies Does"
+        },
+        {
+          "word": "Kurvanti",
+          "meaning": "Do (Plural)",
+          "reading": "कुर्वन्ति",
+          "example_sentence": "Kurvanti implies Do (Plural)"
+        },
+        {
+          "word": "As",
+          "meaning": "Be (Root)",
+          "reading": "अस्",
+          "example_sentence": "As implies Be (Root)"
+        },
+        {
+          "word": "Santi",
+          "meaning": "Are",
+          "reading": "सन्ति",
+          "example_sentence": "Santi implies Are"
+        },
+        {
+          "word": "Bhu",
+          "meaning": "Become (Root)",
+          "reading": "भू",
+          "example_sentence": "Bhu implies Become (Root)"
+        },
+        {
+          "word": "Bhavati",
+          "meaning": "Becomes/Happens",
+          "reading": "भवति",
+          "example_sentence": "Bhavati implies Becomes/Happens"
+        },
+        {
+          "word": "Da",
+          "meaning": "Give (Root)",
+          "reading": "दा",
+          "example_sentence": "Da implies Give (Root)"
+        },
+        {
+          "word": "Dadati",
+          "meaning": "Gives",
+          "reading": "ददाति",
+          "example_sentence": "Dadati implies Gives"
+        },
+        {
+          "word": "Yachhati",
+          "meaning": "Gives (Alt)",
+          "reading": "यच्छति",
+          "example_sentence": "Yachhati implies Gives (Alt)"
+        },
+        {
+          "word": "Grih",
+          "meaning": "Take (Root)",
+          "reading": "ग्रह्",
+          "example_sentence": "Grih implies Take (Root)"
+        },
+        {
+          "word": "Grihnati",
+          "meaning": "Takes",
+          "reading": "गृह्णाति",
+          "example_sentence": "Grihnati implies Takes"
+        },
+        {
+          "word": "Ni",
+          "meaning": "Lead/Take (Root)",
+          "reading": "नी",
+          "example_sentence": "Ni implies Lead/Take (Root)"
+        },
+        {
+          "word": "Nayati",
+          "meaning": "Leads",
+          "reading": "नयति",
+          "example_sentence": "Nayati implies Leads"
+        },
+        {
+          "word": "Aanayati",
+          "meaning": "Brings",
+          "reading": "आनयति",
+          "example_sentence": "Aanayati implies Brings"
+        },
+        {
+          "word": "Chi",
+          "meaning": "Collect (Root)",
+          "reading": "चि",
+          "example_sentence": "Chi implies Collect (Root)"
+        },
+        {
+          "word": "Chinoti",
+          "meaning": "Collects",
+          "reading": "चिनोति",
+          "example_sentence": "Chinoti implies Collects"
+        },
+        {
+          "word": "Ji",
+          "meaning": "Conquer (Root)",
+          "reading": "जि",
+          "example_sentence": "Ji implies Conquer (Root)"
+        },
+        {
+          "word": "Jayati",
+          "meaning": "Conquers",
+          "reading": "जयति",
+          "example_sentence": "Jayati implies Conquers"
+        },
+        {
+          "word": "Muc",
+          "meaning": "Release (Root)",
+          "reading": "मुच्",
+          "example_sentence": "Muc implies Release (Root)"
+        },
+        {
+          "word": "Munchati",
+          "meaning": "Releases",
+          "reading": "मुञ्चति",
+          "example_sentence": "Munchati implies Releases"
+        },
+        {
+          "word": "Kship",
+          "meaning": "Throw (Root)",
+          "reading": "क्षिप्",
+          "example_sentence": "Kship implies Throw (Root)"
+        },
+        {
+          "word": "Kshipati",
+          "meaning": "Throws",
+          "reading": "क्षिपति",
+          "example_sentence": "Kshipati implies Throws"
+        },
+        {
+          "word": "Pat",
+          "meaning": "Fall (Root)",
+          "reading": "पत्",
+          "example_sentence": "Pat implies Fall (Root)"
+        },
+        {
+          "word": "Patati",
+          "meaning": "Falls",
+          "reading": "पतति",
+          "example_sentence": "Patati implies Falls"
+        },
+        {
+          "word": "Utpat",
+          "meaning": "Fly (Root)",
+          "reading": "उत्पत्",
+          "example_sentence": "Utpat implies Fly (Root)"
+        },
+        {
+          "word": "Utpatati",
+          "meaning": "Flies",
+          "reading": "उत्पतति",
+          "example_sentence": "Utpatati implies Flies"
+        },
+        {
+          "word": "Bhram",
+          "meaning": "Roam (Root)",
+          "reading": "भ्रम्",
+          "example_sentence": "Bhram implies Roam (Root)"
+        },
+        {
+          "word": "Bhramati",
+          "meaning": "Roams",
+          "reading": "भ्रमति",
+          "example_sentence": "Bhramati implies Roams"
+        },
+        {
+          "word": "Chal",
+          "meaning": "Walk (Root)",
+          "reading": "चल्",
+          "example_sentence": "Chal implies Walk (Root)"
+        },
+        {
+          "word": "Chalati",
+          "meaning": "Walks",
+          "reading": "चलति",
+          "example_sentence": "Chalati implies Walks"
+        },
+        {
+          "word": "Mil",
+          "meaning": "Meet (Root)",
+          "reading": "मिल्",
+          "example_sentence": "Mil implies Meet (Root)"
+        },
+        {
+          "word": "Milati",
+          "meaning": "Meets",
+          "reading": "मिलति",
+          "example_sentence": "Milati implies Meets"
+        },
+        {
+          "word": "Melayati",
+          "meaning": "Joins/Mixes",
+          "reading": "मेलयति",
+          "example_sentence": "Melayati implies Joins/Mixes"
+        },
+        {
+          "word": "Chint",
+          "meaning": "Think (Root)",
+          "reading": "चिन्त्",
+          "example_sentence": "Chint implies Think (Root)"
+        },
+        {
+          "word": "Chintayati",
+          "meaning": "Thinks",
+          "reading": "चिन्तयति",
+          "example_sentence": "Chintayati implies Thinks"
+        },
+        {
+          "word": "Smar",
+          "meaning": "Remember (Root)",
+          "reading": "स्मृ",
+          "example_sentence": "Smar implies Remember (Root)"
+        },
+        {
+          "word": "Smarati",
+          "meaning": "Remembers",
+          "reading": "स्मरति",
+          "example_sentence": "Smarati implies Remembers"
+        },
+        {
+          "word": "Jna",
+          "meaning": "Know (Root)",
+          "reading": "ज्ञा",
+          "example_sentence": "Jna implies Know (Root)"
+        },
+        {
+          "word": "Janati",
+          "meaning": "Knows",
+          "reading": "जानाति",
+          "example_sentence": "Janati implies Knows"
+        },
+        {
+          "word": "Kath",
+          "meaning": "Tell (Root)",
+          "reading": "कथ्",
+          "example_sentence": "Kath implies Tell (Root)"
+        },
+        {
+          "word": "Kathayati",
+          "meaning": "Tells",
+          "reading": "कथयति",
+          "example_sentence": "Kathayati implies Tells"
+        },
+        {
+          "word": "Pruch",
+          "meaning": "Ask (Root)",
+          "reading": "प्रच्छ्",
+          "example_sentence": "Pruch implies Ask (Root)"
+        },
+        {
+          "word": "Prichhati",
+          "meaning": "Asks",
+          "reading": "पृच्छति",
+          "example_sentence": "Prichhati implies Asks"
+        },
+        {
+          "word": "Spash",
+          "meaning": "Touch (Root)",
+          "reading": "स्पृश्",
+          "example_sentence": "Spash implies Touch (Root)"
+        },
+        {
+          "word": "Sprishati",
+          "meaning": "Touches",
+          "reading": "स्पृशति",
+          "example_sentence": "Sprishati implies Touches"
+        },
+        {
+          "word": "Krup",
+          "meaning": "Lament (Root)",
+          "reading": "कृप्",
+          "example_sentence": "Krup implies Lament (Root)"
+        },
+        {
+          "word": "Kripati",
+          "meaning": "Pities",
+          "reading": "कृपति",
+          "example_sentence": "Kripati implies Pities"
+        },
+        {
+          "word": "Kup",
+          "meaning": "Anger (Root)",
+          "reading": "कुप्",
+          "example_sentence": "Kup implies Anger (Root)"
+        },
+        {
+          "word": "Kupyati",
+          "meaning": "Gets angry",
+          "reading": "कुप्यति",
+          "example_sentence": "Kupyati implies Gets angry"
+        },
+        {
+          "word": "Snih",
+          "meaning": "Love (Root)",
+          "reading": "स्निह्",
+          "example_sentence": "Snih implies Love (Root)"
+        },
+        {
+          "word": "Snihyati",
+          "meaning": "Loves",
+          "reading": "स्निह्यति",
+          "example_sentence": "Snihyati implies Loves"
+        },
+        {
+          "word": "Raks",
+          "meaning": "Protect (Root)",
+          "reading": "रक्ष्",
+          "example_sentence": "Raks implies Protect (Root)"
+        },
+        {
+          "word": "Rakshati",
+          "meaning": "Protects",
+          "reading": "रक्षति",
+          "example_sentence": "Rakshati implies Protects"
+        },
+        {
+          "word": "Vah",
+          "meaning": "Carry (Root)",
+          "reading": "वह्",
+          "example_sentence": "Vah implies Carry (Root)"
+        },
+        {
+          "word": "Vahati",
+          "meaning": "Carries",
+          "reading": "वहति",
+          "example_sentence": "Vahati implies Carries"
+        },
+        {
+          "word": "Hri",
+          "meaning": "Steal (Root)",
+          "reading": "हृ",
+          "example_sentence": "Hri implies Steal (Root)"
+        },
+        {
+          "word": "Harati",
+          "meaning": "Steals/Takes",
+          "reading": "हरति",
+          "example_sentence": "Harati implies Steals/Takes"
+        },
+        {
+          "word": "Tyaj",
+          "meaning": "Abandon (Root)",
+          "reading": "त्यज्",
+          "example_sentence": "Tyaj implies Abandon (Root)"
+        },
+        {
+          "word": "Tyajati",
+          "meaning": "Abandons",
+          "reading": "त्यजति",
+          "example_sentence": "Tyajati implies Abandons"
+        },
+        {
+          "word": "Nash",
+          "meaning": "Perish (Root)",
+          "reading": "नश्",
+          "example_sentence": "Nash implies Perish (Root)"
+        },
+        {
+          "word": "Nashyati",
+          "meaning": "Perishes",
+          "reading": "नश्यति",
+          "example_sentence": "Nashyati implies Perishes"
+        },
+        {
+          "word": "Vas",
+          "meaning": "Dwell (Root)",
+          "reading": "वस्",
+          "example_sentence": "Vas implies Dwell (Root)"
+        },
+        {
+          "word": "Vasati",
+          "meaning": "Dwells",
+          "reading": "वसति",
+          "example_sentence": "Vasati implies Dwells"
+        },
+        {
+          "word": "Seva",
+          "meaning": "Serve (Root)",
+          "reading": "सेव्",
+          "example_sentence": "Seva implies Serve (Root)"
+        },
+        {
+          "word": "Sevate",
+          "meaning": "Serves",
+          "reading": "सेवते",
+          "example_sentence": "Sevate implies Serves"
+        },
+        {
+          "word": "Labh",
+          "meaning": "Obtain (Root)",
+          "reading": "लभ्",
+          "example_sentence": "Labh implies Obtain (Root)"
+        },
+        {
+          "word": "Labhate",
+          "meaning": "Obtains",
+          "reading": "लभते",
+          "example_sentence": "Labhate implies Obtains"
+        },
+        {
+          "word": "Vand",
+          "meaning": "Salute (Root)",
+          "reading": "वन्द्",
+          "example_sentence": "Vand implies Salute (Root)"
+        },
+        {
+          "word": "Vandate",
+          "meaning": "Salutes",
+          "reading": "वन्दते",
+          "example_sentence": "Vandate implies Salutes"
+        },
+        {
+          "word": "Mod",
+          "meaning": "Rejoice (Root)",
+          "reading": "मुद्",
+          "example_sentence": "Mod implies Rejoice (Root)"
+        },
+        {
+          "word": "Modate",
+          "meaning": "Rejoices",
+          "reading": "मोदते",
+          "example_sentence": "Modate implies Rejoices"
+        },
+        {
+          "word": "Maha-Gam",
+          "meaning": "Great/Big Go (Root)",
+          "reading": "महागम्",
+          "example_sentence": "MahaGam asti (It is a big Go (Root))"
+        }
+      ]
+    },
+    {
+      "moduleId": "sanskrit_a1_m9",
+      "theme": "Adjectives & Feelings",
+      "order": 9,
+      "vocabularyItems": [
+        {
+          "word": "Sundarah",
+          "meaning": "Beautiful (M)",
+          "reading": "सुन्दरः",
+          "example_sentence": "Sundarah implies Beautiful (M)"
+        },
+        {
+          "word": "Sundari",
+          "meaning": "Beautiful (F)",
+          "reading": "सुन्दरी",
+          "example_sentence": "Sundari implies Beautiful (F)"
+        },
+        {
+          "word": "Kurupa",
+          "meaning": "Ugly",
+          "reading": "कुरूप",
+          "example_sentence": "Kurupa implies Ugly"
+        },
+        {
+          "word": "Vishala",
+          "meaning": "Big/Large",
+          "reading": "विशाल",
+          "example_sentence": "Vishala implies Big/Large"
+        },
+        {
+          "word": "Laghu",
+          "meaning": "Small",
+          "reading": "लघु",
+          "example_sentence": "Laghu implies Small"
+        },
+        {
+          "word": "Dirgha",
+          "meaning": "Long",
+          "reading": "दीर्घ",
+          "example_sentence": "Dirgha implies Long"
+        },
+        {
+          "word": "Hrasva",
+          "meaning": "Short",
+          "reading": "ह्रस्व",
+          "example_sentence": "Hrasva implies Short"
+        },
+        {
+          "word": "Unnata",
+          "meaning": "High/Tall",
+          "reading": "उन्नत",
+          "example_sentence": "Unnata implies High/Tall"
+        },
+        {
+          "word": "Vamana",
+          "meaning": "Dwarf/Short",
+          "reading": "वामन",
+          "example_sentence": "Vamana implies Dwarf/Short"
+        },
+        {
+          "word": "Sthula",
+          "meaning": "Fat",
+          "reading": "स्थूल",
+          "example_sentence": "Sthula implies Fat"
+        },
+        {
+          "word": "Krisha",
+          "meaning": "Thin",
+          "reading": "कृश",
+          "example_sentence": "Krisha implies Thin"
+        },
+        {
+          "word": "Guru",
+          "meaning": "Heavy",
+          "reading": "गुरु",
+          "example_sentence": "Guru implies Heavy"
+        },
+        {
+          "word": "Kathina",
+          "meaning": "Hard",
+          "reading": "कठिन",
+          "example_sentence": "Kathina implies Hard"
+        },
+        {
+          "word": "Mridu",
+          "meaning": "Soft",
+          "reading": "मृदु",
+          "example_sentence": "Mridu implies Soft"
+        },
+        {
+          "word": "Tikshna",
+          "meaning": "Sharp",
+          "reading": "तीक्ष्ण",
+          "example_sentence": "Tikshna implies Sharp"
+        },
+        {
+          "word": "Kunthita",
+          "meaning": "Blunt",
+          "reading": "कुण्ठित",
+          "example_sentence": "Kunthita implies Blunt"
+        },
+        {
+          "word": "Shitala",
+          "meaning": "Cold",
+          "reading": "शीतल",
+          "example_sentence": "Shitala implies Cold"
+        },
+        {
+          "word": "Ardra",
+          "meaning": "Wet",
+          "reading": "आर्द्र",
+          "example_sentence": "Ardra implies Wet"
+        },
+        {
+          "word": "Shushka",
+          "meaning": "Dry",
+          "reading": "शुष्क",
+          "example_sentence": "Shushka implies Dry"
+        },
+        {
+          "word": "Navina",
+          "meaning": "New",
+          "reading": "नवीन",
+          "example_sentence": "Navina implies New"
+        },
+        {
+          "word": "Prachina",
+          "meaning": "Ancient",
+          "reading": "प्राचीन",
+          "example_sentence": "Prachina implies Ancient"
+        },
+        {
+          "word": "Purana",
+          "meaning": "Old",
+          "reading": "पुराण",
+          "example_sentence": "Purana implies Old"
+        },
+        {
+          "word": "Taruna",
+          "meaning": "Young",
+          "reading": "तरुण",
+          "example_sentence": "Taruna implies Young"
+        },
+        {
+          "word": "Rikta",
+          "meaning": "Empty",
+          "reading": "रिक्त",
+          "example_sentence": "Rikta implies Empty"
+        },
+        {
+          "word": "Purna",
+          "meaning": "Full",
+          "reading": "पूर्ण",
+          "example_sentence": "Purna implies Full"
+        },
+        {
+          "word": "Shuddha",
+          "meaning": "Pure",
+          "reading": "शुद्ध",
+          "example_sentence": "Shuddha implies Pure"
+        },
+        {
+          "word": "Malina",
+          "meaning": "Dirty",
+          "reading": "मलिन",
+          "example_sentence": "Malina implies Dirty"
+        },
+        {
+          "word": "Pavitra",
+          "meaning": "Holy",
+          "reading": "पवित्र",
+          "example_sentence": "Pavitra implies Holy"
+        },
+        {
+          "word": "Apavitra",
+          "meaning": "Unholy",
+          "reading": "अपवित्र",
+          "example_sentence": "Apavitra implies Unholy"
+        },
+        {
+          "word": "Sat",
+          "meaning": "True/Good",
+          "reading": "सत्",
+          "example_sentence": "Sat implies True/Good"
+        },
+        {
+          "word": "Asat",
+          "meaning": "False/Bad",
+          "reading": "असत्",
+          "example_sentence": "Asat implies False/Bad"
+        },
+        {
+          "word": "Uchita",
+          "meaning": "Proper",
+          "reading": "उचित",
+          "example_sentence": "Uchita implies Proper"
+        },
+        {
+          "word": "Anuchita",
+          "meaning": "Improper",
+          "reading": "अनुचित",
+          "example_sentence": "Anuchita implies Improper"
+        },
+        {
+          "word": "Priya",
+          "meaning": "Dear",
+          "reading": "प्रिय",
+          "example_sentence": "Priya implies Dear"
+        },
+        {
+          "word": "Apriya",
+          "meaning": "Disliked",
+          "reading": "अप्रिय",
+          "example_sentence": "Apriya implies Disliked"
+        },
+        {
+          "word": "Sukhada",
+          "meaning": "Pleasant",
+          "reading": "सुखद",
+          "example_sentence": "Sukhada implies Pleasant"
+        },
+        {
+          "word": "Duhkhada",
+          "meaning": "Painful",
+          "reading": "दुःखद",
+          "example_sentence": "Duhkhada implies Painful"
+        },
+        {
+          "word": "Uttama",
+          "meaning": "Best",
+          "reading": "उत्तम",
+          "example_sentence": "Uttama implies Best"
+        },
+        {
+          "word": "Madhyama",
+          "meaning": "Medium",
+          "reading": "मध्यम",
+          "example_sentence": "Madhyama implies Medium"
+        },
+        {
+          "word": "Adhama",
+          "meaning": "Worst/Low",
+          "reading": "अधम",
+          "example_sentence": "Adhama implies Worst/Low"
+        },
+        {
+          "word": "Shreshtha",
+          "meaning": "Superior",
+          "reading": "श्रेष्ठ",
+          "example_sentence": "Shreshtha implies Superior"
+        },
+        {
+          "word": "Jyeshtha",
+          "meaning": "Eldest",
+          "reading": "ज्येष्ठ",
+          "example_sentence": "Jyeshtha implies Eldest"
+        },
+        {
+          "word": "Kanishtha",
+          "meaning": "Youngest",
+          "reading": "कनिष्ठ",
+          "example_sentence": "Kanishtha implies Youngest"
+        },
+        {
+          "word": "Bahu",
+          "meaning": "Much",
+          "reading": "बहु",
+          "example_sentence": "Bahu implies Much"
+        },
+        {
+          "word": "Alpa",
+          "meaning": "Little",
+          "reading": "अल्प",
+          "example_sentence": "Alpa implies Little"
+        },
+        {
+          "word": "Samana",
+          "meaning": "Equal",
+          "reading": "समान",
+          "example_sentence": "Samana implies Equal"
+        },
+        {
+          "word": "Vibhina",
+          "meaning": "Different",
+          "reading": "विभिन्न",
+          "example_sentence": "Vibhina implies Different"
+        },
+        {
+          "word": "Vitra",
+          "meaning": "Safe?",
+          "reading": "??",
+          "example_sentence": "Vitra implies Safe?"
+        },
+        {
+          "word": "Bhita",
+          "meaning": "Afraid",
+          "reading": "भीत",
+          "example_sentence": "Bhita implies Afraid"
+        },
+        {
+          "word": "Abhaya",
+          "meaning": "Fearless",
+          "reading": "अभय",
+          "example_sentence": "Abhaya implies Fearless"
+        },
+        {
+          "word": "Vira",
+          "meaning": "Brave",
+          "reading": "वीर",
+          "example_sentence": "Vira implies Brave"
+        },
+        {
+          "word": "Kayara",
+          "meaning": "Cowardly",
+          "reading": "कायर",
+          "example_sentence": "Kayara implies Cowardly"
+        },
+        {
+          "word": "Chatura",
+          "meaning": "Clever",
+          "reading": "चतुर",
+          "example_sentence": "Chatura implies Clever"
+        },
+        {
+          "word": "Manda",
+          "meaning": "Dull/Slow",
+          "reading": "मन्द",
+          "example_sentence": "Manda implies Dull/Slow"
+        },
+        {
+          "word": "Dhirah",
+          "meaning": "Steady/Wise",
+          "reading": "धीरः",
+          "example_sentence": "Dhirah implies Steady/Wise"
+        },
+        {
+          "word": "Chanchala",
+          "meaning": "Fickle",
+          "reading": "चञ्चल",
+          "example_sentence": "Chanchala implies Fickle"
+        },
+        {
+          "word": "Prasanna",
+          "meaning": "Pleased",
+          "reading": "प्रसन्न",
+          "example_sentence": "Prasanna implies Pleased"
+        },
+        {
+          "word": "Khinna",
+          "meaning": "Depressed",
+          "reading": "खिन्न",
+          "example_sentence": "Khinna implies Depressed"
+        },
+        {
+          "word": "Krodhita",
+          "meaning": "Angry",
+          "reading": "क्रोधित",
+          "example_sentence": "Krodhita implies Angry"
+        },
+        {
+          "word": "Shanta",
+          "meaning": "Calm",
+          "reading": "शान्त",
+          "example_sentence": "Shanta implies Calm"
+        },
+        {
+          "word": "Tuṣhṭa",
+          "meaning": "Satisfied",
+          "reading": "तुष्ट",
+          "example_sentence": "Tuṣhṭa implies Satisfied"
+        },
+        {
+          "word": "Trishita",
+          "meaning": "Thirsty",
+          "reading": "तृषित",
+          "example_sentence": "Trishita implies Thirsty"
+        },
+        {
+          "word": "Kshudhita",
+          "meaning": "Hungry",
+          "reading": "क्षुधित",
+          "example_sentence": "Kshudhita implies Hungry"
+        },
+        {
+          "word": "Shranta",
+          "meaning": "Tired",
+          "reading": "श्रान्त",
+          "example_sentence": "Shranta implies Tired"
+        },
+        {
+          "word": "Nidrita",
+          "meaning": "Asleep",
+          "reading": "निद्रित",
+          "example_sentence": "Nidrita implies Asleep"
+        },
+        {
+          "word": "Jagrita",
+          "meaning": "Awake",
+          "reading": "जाग्रत",
+          "example_sentence": "Jagrita implies Awake"
+        },
+        {
+          "word": "Mrita",
+          "meaning": "Dead",
+          "reading": "मृत",
+          "example_sentence": "Mrita implies Dead"
+        },
+        {
+          "word": "Jivita",
+          "meaning": "Alive",
+          "reading": "जीवित",
+          "example_sentence": "Jivita implies Alive"
+        },
+        {
+          "word": "Swastha",
+          "meaning": "Healthy",
+          "reading": "स्वस्थ",
+          "example_sentence": "Swastha implies Healthy"
+        },
+        {
+          "word": "Ashakta",
+          "meaning": "Weak",
+          "reading": "अशक्त",
+          "example_sentence": "Ashakta implies Weak"
+        },
+        {
+          "word": "Shakta",
+          "meaning": "Able/Strong",
+          "reading": "शक्त",
+          "example_sentence": "Shakta implies Able/Strong"
+        },
+        {
+          "word": "Nira",
+          "meaning": "Watery?",
+          "reading": "??",
+          "example_sentence": "Nira implies Watery?"
+        },
+        {
+          "word": "Gambhirah",
+          "meaning": "Deep/Serious",
+          "reading": "गम्भीरः",
+          "example_sentence": "Gambhirah implies Deep/Serious"
+        },
+        {
+          "word": "Udara",
+          "meaning": "Generous",
+          "reading": "उदार",
+          "example_sentence": "Udara implies Generous"
+        },
+        {
+          "word": "Kripana",
+          "meaning": "Miserly",
+          "reading": "कृपण",
+          "example_sentence": "Kripana implies Miserly"
+        },
+        {
+          "word": "Kritajjna",
+          "meaning": "Grateful",
+          "reading": "कृतज्ञ",
+          "example_sentence": "Kritajjna implies Grateful"
+        },
+        {
+          "word": "Kritaghna",
+          "meaning": "Ungrateful",
+          "reading": "कृतघ्न",
+          "example_sentence": "Kritaghna implies Ungrateful"
+        },
+        {
+          "word": "Andha",
+          "meaning": "Blind",
+          "reading": "अन्ध",
+          "example_sentence": "Andha implies Blind"
+        },
+        {
+          "word": "Badhira",
+          "meaning": "Deaf",
+          "reading": "बधिर",
+          "example_sentence": "Badhira implies Deaf"
+        },
+        {
+          "word": "Muka",
+          "meaning": "Dumb/Mute",
+          "reading": "मूक",
+          "example_sentence": "Muka implies Dumb/Mute"
+        },
+        {
+          "word": "Pangu",
+          "meaning": "Lame",
+          "reading": "पङ्गु",
+          "example_sentence": "Pangu implies Lame"
+        },
+        {
+          "word": "Rasa",
+          "meaning": "Juicy",
+          "reading": "रस",
+          "example_sentence": "Rasa implies Juicy"
+        },
+        {
+          "word": "Maha-Sundarah",
+          "meaning": "Great/Big Beautiful (M)",
+          "reading": "महासुन्दरः",
+          "example_sentence": "MahaSundarah asti (It is a big Beautiful (M))"
+        },
+        {
+          "word": "Maha-Sundari",
+          "meaning": "Great/Big Beautiful (F)",
+          "reading": "महासुन्दरी",
+          "example_sentence": "MahaSundari asti (It is a big Beautiful (F))"
+        },
+        {
+          "word": "Maha-Kurupa",
+          "meaning": "Great/Big Ugly",
+          "reading": "महाकुरूप",
+          "example_sentence": "MahaKurupa asti (It is a big Ugly)"
+        },
+        {
+          "word": "Maha-Vishala",
+          "meaning": "Great/Big Big/Large",
+          "reading": "महाविशाल",
+          "example_sentence": "MahaVishala asti (It is a big Big/Large)"
+        },
+        {
+          "word": "Maha-Laghu",
+          "meaning": "Great/Big Small",
+          "reading": "महालघु",
+          "example_sentence": "MahaLaghu asti (It is a big Small)"
+        },
+        {
+          "word": "Maha-Dirgha",
+          "meaning": "Great/Big Long",
+          "reading": "महादीर्घ",
+          "example_sentence": "MahaDirgha asti (It is a big Long)"
+        },
+        {
+          "word": "Maha-Hrasva",
+          "meaning": "Great/Big Short",
+          "reading": "महाह्रस्व",
+          "example_sentence": "MahaHrasva asti (It is a big Short)"
+        },
+        {
+          "word": "Maha-Unnata",
+          "meaning": "Great/Big High/Tall",
+          "reading": "महाउन्नत",
+          "example_sentence": "MahaUnnata asti (It is a big High/Tall)"
+        },
+        {
+          "word": "Maha-Vamana",
+          "meaning": "Great/Big Dwarf/Short",
+          "reading": "महावामन",
+          "example_sentence": "MahaVamana asti (It is a big Dwarf/Short)"
+        },
+        {
+          "word": "Maha-Sthula",
+          "meaning": "Great/Big Fat",
+          "reading": "महास्थूल",
+          "example_sentence": "MahaSthula asti (It is a big Fat)"
+        },
+        {
+          "word": "Maha-Krisha",
+          "meaning": "Great/Big Thin",
+          "reading": "महाकृश",
+          "example_sentence": "MahaKrisha asti (It is a big Thin)"
+        },
+        {
+          "word": "Maha-Guru",
+          "meaning": "Great/Big Heavy",
+          "reading": "महागुरु",
+          "example_sentence": "MahaGuru asti (It is a big Heavy)"
+        },
+        {
+          "word": "Maha-Kathina",
+          "meaning": "Great/Big Hard",
+          "reading": "महाकठिन",
+          "example_sentence": "MahaKathina asti (It is a big Hard)"
+        },
+        {
+          "word": "Maha-Mridu",
+          "meaning": "Great/Big Soft",
+          "reading": "महामृदु",
+          "example_sentence": "MahaMridu asti (It is a big Soft)"
+        },
+        {
+          "word": "Maha-Tikshna",
+          "meaning": "Great/Big Sharp",
+          "reading": "महातीक्ष्ण",
+          "example_sentence": "MahaTikshna asti (It is a big Sharp)"
+        },
+        {
+          "word": "Maha-Kunthita",
+          "meaning": "Great/Big Blunt",
+          "reading": "महाकुण्ठित",
+          "example_sentence": "MahaKunthita asti (It is a big Blunt)"
+        },
+        {
+          "word": "Maha-Shitala",
+          "meaning": "Great/Big Cold",
+          "reading": "महाशीतल",
+          "example_sentence": "MahaShitala asti (It is a big Cold)"
+        },
+        {
+          "word": "Maha-Ardra",
+          "meaning": "Great/Big Wet",
+          "reading": "महाआर्द्र",
+          "example_sentence": "MahaArdra asti (It is a big Wet)"
+        }
+      ]
+    },
+    {
+      "moduleId": "sanskrit_a1_m10",
+      "theme": "Time, Numbers, Colors",
+      "order": 10,
+      "vocabularyItems": [
+        {
+          "word": "Ekam",
+          "meaning": "One",
+          "reading": "एकम्",
+          "example_sentence": "Ekam implies One"
+        },
+        {
+          "word": "Dve",
+          "meaning": "Two",
+          "reading": "द्वे",
+          "example_sentence": "Dve implies Two"
+        },
+        {
+          "word": "Trini",
+          "meaning": "Three",
+          "reading": "त्रीणि",
+          "example_sentence": "Trini implies Three"
+        },
+        {
+          "word": "Chatvari",
+          "meaning": "Four",
+          "reading": "चत्वारि",
+          "example_sentence": "Chatvari implies Four"
+        },
+        {
+          "word": "Pancha",
+          "meaning": "Five",
+          "reading": "पञ्च",
+          "example_sentence": "Pancha implies Five"
+        },
+        {
+          "word": "Shat",
+          "meaning": "Six",
+          "reading": "षट्",
+          "example_sentence": "Shat implies Six"
+        },
+        {
+          "word": "Sapta",
+          "meaning": "Seven",
+          "reading": "सप्त",
+          "example_sentence": "Sapta implies Seven"
+        },
+        {
+          "word": "Ashta",
+          "meaning": "Eight",
+          "reading": "अष्ट",
+          "example_sentence": "Ashta implies Eight"
+        },
+        {
+          "word": "Nava",
+          "meaning": "Nine",
+          "reading": "नव",
+          "example_sentence": "Nava implies Nine"
+        },
+        {
+          "word": "Dasha",
+          "meaning": "Ten",
+          "reading": "दश",
+          "example_sentence": "Dasha implies Ten"
+        },
+        {
+          "word": "Ekadasha",
+          "meaning": "Eleven",
+          "reading": "एकादश",
+          "example_sentence": "Ekadasha implies Eleven"
+        },
+        {
+          "word": "Dvadasha",
+          "meaning": "Twelve",
+          "reading": "द्वादश",
+          "example_sentence": "Dvadasha implies Twelve"
+        },
+        {
+          "word": "Trayodasha",
+          "meaning": "Thirteen",
+          "reading": "त्रयोदश",
+          "example_sentence": "Trayodasha implies Thirteen"
+        },
+        {
+          "word": "Chaturdasha",
+          "meaning": "Fourteen",
+          "reading": "चतुर्दश",
+          "example_sentence": "Chaturdasha implies Fourteen"
+        },
+        {
+          "word": "Panchadasha",
+          "meaning": "Fifteen",
+          "reading": "पञ्चदश",
+          "example_sentence": "Panchadasha implies Fifteen"
+        },
+        {
+          "word": "Shodasha",
+          "meaning": "Sixteen",
+          "reading": "षोडश",
+          "example_sentence": "Shodasha implies Sixteen"
+        },
+        {
+          "word": "Saptadasha",
+          "meaning": "Seventeen",
+          "reading": "सप्तदश",
+          "example_sentence": "Saptadasha implies Seventeen"
+        },
+        {
+          "word": "Ashtadasha",
+          "meaning": "Eighteen",
+          "reading": "अष्टादश",
+          "example_sentence": "Ashtadasha implies Eighteen"
+        },
+        {
+          "word": "Navadasha",
+          "meaning": "Nineteen",
+          "reading": "नवदश",
+          "example_sentence": "Navadasha implies Nineteen"
+        },
+        {
+          "word": "Vimshati",
+          "meaning": "Twenty",
+          "reading": "विंशतिः",
+          "example_sentence": "Vimshati implies Twenty"
+        },
+        {
+          "word": "Trimshat",
+          "meaning": "Thirty",
+          "reading": "त्रिंशत्",
+          "example_sentence": "Trimshat implies Thirty"
+        },
+        {
+          "word": "Chatvarimshat",
+          "meaning": "Forty",
+          "reading": "चत्वारिंशत्",
+          "example_sentence": "Chatvarimshat implies Forty"
+        },
+        {
+          "word": "Panchashat",
+          "meaning": "Fifty",
+          "reading": "पञ्चाशत्",
+          "example_sentence": "Panchashat implies Fifty"
+        },
+        {
+          "word": "Shashti",
+          "meaning": "Sixty",
+          "reading": "षष्टिः",
+          "example_sentence": "Shashti implies Sixty"
+        },
+        {
+          "word": "Saptati",
+          "meaning": "Seventy",
+          "reading": "सप्ततिः",
+          "example_sentence": "Saptati implies Seventy"
+        },
+        {
+          "word": "Ashiti",
+          "meaning": "Eighty",
+          "reading": "अशीतिः",
+          "example_sentence": "Ashiti implies Eighty"
+        },
+        {
+          "word": "Navati",
+          "meaning": "Ninety",
+          "reading": "नवतिः",
+          "example_sentence": "Navati implies Ninety"
+        },
+        {
+          "word": "Shatam",
+          "meaning": "Hundred",
+          "reading": "शतम्",
+          "example_sentence": "Shatam implies Hundred"
+        },
+        {
+          "word": "Sahasram",
+          "meaning": "Thousand",
+          "reading": "सहस्रम्",
+          "example_sentence": "Sahasram implies Thousand"
+        },
+        {
+          "word": "Laksham",
+          "meaning": "Lac/100k",
+          "reading": "लक्षम्",
+          "example_sentence": "Laksham implies Lac/100k"
+        },
+        {
+          "word": "Koti",
+          "meaning": "Crore/10M",
+          "reading": "कोटिः",
+          "example_sentence": "Koti implies Crore/10M"
+        },
+        {
+          "word": "Shunya",
+          "meaning": "Zero",
+          "reading": "शून्य",
+          "example_sentence": "Shunya implies Zero"
+        },
+        {
+          "word": "Prathama",
+          "meaning": "First",
+          "reading": "प्रथम",
+          "example_sentence": "Prathama implies First"
+        },
+        {
+          "word": "Dvitiya",
+          "meaning": "Second",
+          "reading": "द्वितीय",
+          "example_sentence": "Dvitiya implies Second"
+        },
+        {
+          "word": "Tritiya",
+          "meaning": "Third",
+          "reading": "तृतीय",
+          "example_sentence": "Tritiya implies Third"
+        },
+        {
+          "word": "Chaturtha",
+          "meaning": "Fourth",
+          "reading": "चतुर्थ",
+          "example_sentence": "Chaturtha implies Fourth"
+        },
+        {
+          "word": "Panchama",
+          "meaning": "Fifth",
+          "reading": "पञ्चम",
+          "example_sentence": "Panchama implies Fifth"
+        },
+        {
+          "word": "Raktah",
+          "meaning": "Red",
+          "reading": "रक्तः",
+          "example_sentence": "Raktah implies Red"
+        },
+        {
+          "word": "Peetah",
+          "meaning": "Yellow",
+          "reading": "पीतः",
+          "example_sentence": "Peetah implies Yellow"
+        },
+        {
+          "word": "Nilah",
+          "meaning": "Blue",
+          "reading": "नीलः",
+          "example_sentence": "Nilah implies Blue"
+        },
+        {
+          "word": "Haritah",
+          "meaning": "Green",
+          "reading": "हरितः",
+          "example_sentence": "Haritah implies Green"
+        },
+        {
+          "word": "Krishna",
+          "meaning": "Black",
+          "reading": "कृष्ण",
+          "example_sentence": "Krishna implies Black"
+        },
+        {
+          "word": "Shveta",
+          "meaning": "White",
+          "reading": "श्वेत",
+          "example_sentence": "Shveta implies White"
+        },
+        {
+          "word": "Dhusuara",
+          "meaning": "Grey",
+          "reading": "धूसर",
+          "example_sentence": "Dhusuara implies Grey"
+        },
+        {
+          "word": "Patala",
+          "meaning": "Pink",
+          "reading": "पाटल",
+          "example_sentence": "Patala implies Pink"
+        },
+        {
+          "word": "Naaranga",
+          "meaning": "Orange",
+          "reading": "नारङ्ग",
+          "example_sentence": "Naaranga implies Orange"
+        },
+        {
+          "word": "Babhru",
+          "meaning": "Brown",
+          "reading": "बभ्रु",
+          "example_sentence": "Babhru implies Brown"
+        },
+        {
+          "word": "Chitra",
+          "meaning": "Variegated",
+          "reading": "चित्र",
+          "example_sentence": "Chitra implies Variegated"
+        },
+        {
+          "word": "Suvarna",
+          "meaning": "Golden",
+          "reading": "सुवर्ण",
+          "example_sentence": "Suvarna implies Golden"
+        },
+        {
+          "word": "Rajata",
+          "meaning": "Silver",
+          "reading": "रजत",
+          "example_sentence": "Rajata implies Silver"
+        },
+        {
+          "word": "Ravi-vasara",
+          "meaning": "Sunday",
+          "reading": "रविवासरः",
+          "example_sentence": "Ravi-vasara implies Sunday"
+        },
+        {
+          "word": "Soma-vasara",
+          "meaning": "Monday",
+          "reading": "सोमवासरः",
+          "example_sentence": "Soma-vasara implies Monday"
+        },
+        {
+          "word": "Mangala-vasara",
+          "meaning": "Tuesday",
+          "reading": "मङ्गलवासरः",
+          "example_sentence": "Mangala-vasara implies Tuesday"
+        },
+        {
+          "word": "Budha-vasara",
+          "meaning": "Wednesday",
+          "reading": "बुधवासरः",
+          "example_sentence": "Budha-vasara implies Wednesday"
+        },
+        {
+          "word": "Guru-vasara",
+          "meaning": "Thursday",
+          "reading": "गुरुवासरः",
+          "example_sentence": "Guru-vasara implies Thursday"
+        },
+        {
+          "word": "Shukra-vasara",
+          "meaning": "Friday",
+          "reading": "शुक्रवासरः",
+          "example_sentence": "Shukra-vasara implies Friday"
+        },
+        {
+          "word": "Shani-vasara",
+          "meaning": "Saturday",
+          "reading": "शनिवासरः",
+          "example_sentence": "Shani-vasara implies Saturday"
+        },
+        {
+          "word": "Dina",
+          "meaning": "Day",
+          "reading": "दिन",
+          "example_sentence": "Dina implies Day"
+        },
+        {
+          "word": "Madhyahna",
+          "meaning": "Noon",
+          "reading": "मध्याह्न",
+          "example_sentence": "Madhyahna implies Noon"
+        },
+        {
+          "word": "Sayankala",
+          "meaning": "Evening",
+          "reading": "सायङ्काल",
+          "example_sentence": "Sayankala implies Evening"
+        },
+        {
+          "word": "Ghanta",
+          "meaning": "Hour/Bell",
+          "reading": "घण्टा",
+          "example_sentence": "Ghanta implies Hour/Bell"
+        },
+        {
+          "word": "Nimesha",
+          "meaning": "Minute",
+          "reading": "निमेष",
+          "example_sentence": "Nimesha implies Minute"
+        },
+        {
+          "word": "Kshana",
+          "meaning": "Moment",
+          "reading": "क्षण",
+          "example_sentence": "Kshana implies Moment"
+        },
+        {
+          "word": "Samaya",
+          "meaning": "Time",
+          "reading": "समय",
+          "example_sentence": "Samaya implies Time"
+        },
+        {
+          "word": "Parashvah",
+          "meaning": "Day after tomorrow",
+          "reading": "परश्वः",
+          "example_sentence": "Parashvah implies Day after tomorrow"
+        },
+        {
+          "word": "Praparashvah",
+          "meaning": "Day after +2",
+          "reading": "प्रपरश्वः",
+          "example_sentence": "Praparashvah implies Day after +2"
+        },
+        {
+          "word": "Anantaram",
+          "meaning": "After",
+          "reading": "अनन्तरम्",
+          "example_sentence": "Anantaram implies After"
+        },
+        {
+          "word": "Kati",
+          "meaning": "How many",
+          "reading": "कति",
+          "example_sentence": "Kati implies How many"
+        },
+        {
+          "word": "Ardhah",
+          "meaning": "Half",
+          "reading": "अर्धः",
+          "example_sentence": "Ardhah implies Half"
+        },
+        {
+          "word": "Pada",
+          "meaning": "Quarter",
+          "reading": "पाद",
+          "example_sentence": "Pada implies Quarter"
+        },
+        {
+          "word": "Sardha",
+          "meaning": "Half past",
+          "reading": "सार्ध",
+          "example_sentence": "Sardha implies Half past"
+        },
+        {
+          "word": "Maha-Ekam",
+          "meaning": "Great/Big One",
+          "reading": "महाएकम्",
+          "example_sentence": "MahaEkam asti (It is a big One)"
+        },
+        {
+          "word": "Maha-Dve",
+          "meaning": "Great/Big Two",
+          "reading": "महाद्वे",
+          "example_sentence": "MahaDve asti (It is a big Two)"
+        },
+        {
+          "word": "Maha-Trini",
+          "meaning": "Great/Big Three",
+          "reading": "महात्रीणि",
+          "example_sentence": "MahaTrini asti (It is a big Three)"
+        },
+        {
+          "word": "Maha-Chatvari",
+          "meaning": "Great/Big Four",
+          "reading": "महाचत्वारि",
+          "example_sentence": "MahaChatvari asti (It is a big Four)"
+        },
+        {
+          "word": "Maha-Pancha",
+          "meaning": "Great/Big Five",
+          "reading": "महापञ्च",
+          "example_sentence": "MahaPancha asti (It is a big Five)"
+        },
+        {
+          "word": "Maha-Shat",
+          "meaning": "Great/Big Six",
+          "reading": "महाषट्",
+          "example_sentence": "MahaShat asti (It is a big Six)"
+        },
+        {
+          "word": "Maha-Sapta",
+          "meaning": "Great/Big Seven",
+          "reading": "महासप्त",
+          "example_sentence": "MahaSapta asti (It is a big Seven)"
+        },
+        {
+          "word": "Maha-Ashta",
+          "meaning": "Great/Big Eight",
+          "reading": "महाअष्ट",
+          "example_sentence": "MahaAshta asti (It is a big Eight)"
+        },
+        {
+          "word": "Maha-Nava",
+          "meaning": "Great/Big Nine",
+          "reading": "महानव",
+          "example_sentence": "MahaNava asti (It is a big Nine)"
+        },
+        {
+          "word": "Maha-Dasha",
+          "meaning": "Great/Big Ten",
+          "reading": "महादश",
+          "example_sentence": "MahaDasha asti (It is a big Ten)"
+        },
+        {
+          "word": "Maha-Ekadasha",
+          "meaning": "Great/Big Eleven",
+          "reading": "महाएकादश",
+          "example_sentence": "MahaEkadasha asti (It is a big Eleven)"
+        },
+        {
+          "word": "Maha-Dvadasha",
+          "meaning": "Great/Big Twelve",
+          "reading": "महाद्वादश",
+          "example_sentence": "MahaDvadasha asti (It is a big Twelve)"
+        },
+        {
+          "word": "Maha-Trayodasha",
+          "meaning": "Great/Big Thirteen",
+          "reading": "महात्रयोदश",
+          "example_sentence": "MahaTrayodasha asti (It is a big Thirteen)"
+        },
+        {
+          "word": "Maha-Chaturdasha",
+          "meaning": "Great/Big Fourteen",
+          "reading": "महाचतुर्दश",
+          "example_sentence": "MahaChaturdasha asti (It is a big Fourteen)"
+        },
+        {
+          "word": "Maha-Panchadasha",
+          "meaning": "Great/Big Fifteen",
+          "reading": "महापञ्चदश",
+          "example_sentence": "MahaPanchadasha asti (It is a big Fifteen)"
+        },
+        {
+          "word": "Maha-Shodasha",
+          "meaning": "Great/Big Sixteen",
+          "reading": "महाषोडश",
+          "example_sentence": "MahaShodasha asti (It is a big Sixteen)"
+        },
+        {
+          "word": "Maha-Saptadasha",
+          "meaning": "Great/Big Seventeen",
+          "reading": "महासप्तदश",
+          "example_sentence": "MahaSaptadasha asti (It is a big Seventeen)"
+        },
+        {
+          "word": "Maha-Ashtadasha",
+          "meaning": "Great/Big Eighteen",
+          "reading": "महाअष्टादश",
+          "example_sentence": "MahaAshtadasha asti (It is a big Eighteen)"
+        },
+        {
+          "word": "Maha-Navadasha",
+          "meaning": "Great/Big Nineteen",
+          "reading": "महानवदश",
+          "example_sentence": "MahaNavadasha asti (It is a big Nineteen)"
+        },
+        {
+          "word": "Maha-Vimshati",
+          "meaning": "Great/Big Twenty",
+          "reading": "महाविंशतिः",
+          "example_sentence": "MahaVimshati asti (It is a big Twenty)"
+        },
+        {
+          "word": "Maha-Trimshat",
+          "meaning": "Great/Big Thirty",
+          "reading": "महात्रिंशत्",
+          "example_sentence": "MahaTrimshat asti (It is a big Thirty)"
+        },
+        {
+          "word": "Maha-Chatvarimshat",
+          "meaning": "Great/Big Forty",
+          "reading": "महाचत्वारिंशत्",
+          "example_sentence": "MahaChatvarimshat asti (It is a big Forty)"
+        },
+        {
+          "word": "Maha-Panchashat",
+          "meaning": "Great/Big Fifty",
+          "reading": "महापञ्चाशत्",
+          "example_sentence": "MahaPanchashat asti (It is a big Fifty)"
+        },
+        {
+          "word": "Maha-Shashti",
+          "meaning": "Great/Big Sixty",
+          "reading": "महाषष्टिः",
+          "example_sentence": "MahaShashti asti (It is a big Sixty)"
+        },
+        {
+          "word": "Maha-Saptati",
+          "meaning": "Great/Big Seventy",
+          "reading": "महासप्ततिः",
+          "example_sentence": "MahaSaptati asti (It is a big Seventy)"
+        },
+        {
+          "word": "Maha-Ashiti",
+          "meaning": "Great/Big Eighty",
+          "reading": "महाअशीतिः",
+          "example_sentence": "MahaAshiti asti (It is a big Eighty)"
+        },
+        {
+          "word": "Maha-Navati",
+          "meaning": "Great/Big Ninety",
+          "reading": "महानवतिः",
+          "example_sentence": "MahaNavati asti (It is a big Ninety)"
+        },
+        {
+          "word": "Maha-Shatam",
+          "meaning": "Great/Big Hundred",
+          "reading": "महाशतम्",
+          "example_sentence": "MahaShatam asti (It is a big Hundred)"
+        },
+        {
+          "word": "Maha-Sahasram",
+          "meaning": "Great/Big Thousand",
+          "reading": "महासहस्रम्",
+          "example_sentence": "MahaSahasram asti (It is a big Thousand)"
+        }
+      ]
+    }
+  ]
+}

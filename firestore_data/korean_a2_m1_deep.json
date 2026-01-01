@@ -1,0 +1,76 @@
+{
+    "modules": [
+        {
+            "moduleId": "korean_a2_m1",
+            "theme": "TOPIK II: Daily Routine & Past Tense Honorifics",
+            "order": 1,
+            "lessons": [
+                {
+                    "target_text": "했습니다",
+                    "english": "Did / Done (Formal)",
+                    "phonetic_transcription": "haess-seup-ni-da",
+                    "radical_breakdown": "Verb: 하다 (to do) | Past Tense + Formal Ending"
+                },
+                {
+                    "target_text": "먹었습니다",
+                    "english": "Ate (Formal)",
+                    "phonetic_transcription": "meog-eoss-seup-ni-da",
+                    "radical_breakdown": "Verb: 먹다 (to eat) | Past Tense + Formal Ending"
+                },
+                {
+                    "target_text": "잤습니다",
+                    "english": "Slept (Formal)",
+                    "phonetic_transcription": "jass-seup-ni-da",
+                    "radical_breakdown": "Verb: 자다 (to sleep) | Past Tense + Formal Ending"
+                },
+                {
+                    "target_text": "갔습니다",
+                    "english": "Went (Formal)",
+                    "phonetic_transcription": "gass-seup-ni-da",
+                    "radical_breakdown": "Verb: 가다 (to go) | Past Tense + Formal Ending"
+                },
+                {
+                    "target_text": "왔습니다",
+                    "english": "Came (Formal)",
+                    "phonetic_transcription": "wass-seup-ni-da",
+                    "radical_breakdown": "Verb: 오다 (to come) | Past Tense + Formal Ending"
+                },
+                {
+                    "target_text": "읽었습니다",
+                    "english": "Read (Formal)",
+                    "phonetic_transcription": "ilg-eoss-seup-ni-da",
+                    "radical_breakdown": "Verb: 읽다 (to read) | Past Tense + Formal Ending"
+                },
+                {
+                    "target_text": "썼습니다",
+                    "english": "Wrote / Used (Formal)",
+                    "phonetic_transcription": "sseoss-seup-ni-da",
+                    "radical_breakdown": "Verb: 쓰다 (to write/use) | Past Tense + Formal Ending"
+                },
+                {
+                    "target_text": "들었습니다",
+                    "english": "Heard / Listened (Formal)",
+                    "phonetic_transcription": "deul-eoss-seup-ni-da",
+                    "radical_breakdown": "Verb: 듣다 (to hear) | Past Tense + Formal Ending"
+                },
+                {
+                    "target_text": "만났습니다",
+                    "english": "Met (Formal)",
+                    "phonetic_transcription": "man-nass-seup-ni-da",
+                    "radical_breakdown": "Verb: 만나다 (to meet) | Past Tense + Formal Ending"
+                },
+                {
+                    "target_text": "일어났습니다",
+                    "english": "Woke up (Formal)",
+                    "phonetic_transcription": "il-eo-nass-seup-ni-da",
+                    "radical_breakdown": "Verb: 일어나다 (to wake up) | Past Tense + Formal Ending"
+                }
+            ],
+            "liar_game_data": {
+                "trap": "어제 학교에 가요.",
+                "correct_version": "어제 학교에 갔습니다.",
+                "explanation": "With '어제' (yesterday), you must use the past tense '갔습니다' (went), not the present tense '가요' (go)."
+            }
+        }
+    ]
+}

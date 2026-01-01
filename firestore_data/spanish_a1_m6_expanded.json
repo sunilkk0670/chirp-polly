@@ -1,0 +1,600 @@
+{
+    "moduleId": "spanish_a1_m6",
+    "theme": "Numbers, Time & Dates",
+    "order": 6,
+    "targetWordCount": 100,
+    "lessons": [
+        {
+            "lessonNumber": 1,
+            "title": "Numbers 1-20",
+            "vocabularyItems": [
+                {
+                    "targetText": "uno",
+                    "english": "one",
+                    "type": "number"
+                },
+                {
+                    "targetText": "dos",
+                    "english": "two",
+                    "type": "number"
+                },
+                {
+                    "targetText": "tres",
+                    "english": "three",
+                    "type": "number"
+                },
+                {
+                    "targetText": "cuatro",
+                    "english": "four",
+                    "type": "number"
+                },
+                {
+                    "targetText": "cinco",
+                    "english": "five",
+                    "type": "number"
+                },
+                {
+                    "targetText": "seis",
+                    "english": "six",
+                    "type": "number"
+                },
+                {
+                    "targetText": "siete",
+                    "english": "seven",
+                    "type": "number"
+                },
+                {
+                    "targetText": "ocho",
+                    "english": "eight",
+                    "type": "number"
+                },
+                {
+                    "targetText": "nueve",
+                    "english": "nine",
+                    "type": "number"
+                },
+                {
+                    "targetText": "diez",
+                    "english": "ten",
+                    "type": "number"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 2,
+            "title": "Numbers 11-30",
+            "vocabularyItems": [
+                {
+                    "targetText": "once",
+                    "english": "eleven",
+                    "type": "number"
+                },
+                {
+                    "targetText": "doce",
+                    "english": "twelve",
+                    "type": "number"
+                },
+                {
+                    "targetText": "trece",
+                    "english": "thirteen",
+                    "type": "number"
+                },
+                {
+                    "targetText": "catorce",
+                    "english": "fourteen",
+                    "type": "number"
+                },
+                {
+                    "targetText": "quince",
+                    "english": "fifteen",
+                    "type": "number"
+                },
+                {
+                    "targetText": "dieciséis",
+                    "english": "sixteen",
+                    "type": "number"
+                },
+                {
+                    "targetText": "diecisiete",
+                    "english": "seventeen",
+                    "type": "number"
+                },
+                {
+                    "targetText": "dieciocho",
+                    "english": "eighteen",
+                    "type": "number"
+                },
+                {
+                    "targetText": "diecinueve",
+                    "english": "nineteen",
+                    "type": "number"
+                },
+                {
+                    "targetText": "veinte",
+                    "english": "twenty",
+                    "type": "number"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 3,
+            "title": "Numbers 30-100",
+            "vocabularyItems": [
+                {
+                    "targetText": "treinta",
+                    "english": "thirty",
+                    "type": "number"
+                },
+                {
+                    "targetText": "cuarenta",
+                    "english": "forty",
+                    "type": "number"
+                },
+                {
+                    "targetText": "cincuenta",
+                    "english": "fifty",
+                    "type": "number"
+                },
+                {
+                    "targetText": "sesenta",
+                    "english": "sixty",
+                    "type": "number"
+                },
+                {
+                    "targetText": "setenta",
+                    "english": "seventy",
+                    "type": "number"
+                },
+                {
+                    "targetText": "ochenta",
+                    "english": "eighty",
+                    "type": "number"
+                },
+                {
+                    "targetText": "noventa",
+                    "english": "ninety",
+                    "type": "number"
+                },
+                {
+                    "targetText": "cien",
+                    "english": "one hundred",
+                    "type": "number"
+                },
+                {
+                    "targetText": "mil",
+                    "english": "one thousand",
+                    "type": "number"
+                },
+                {
+                    "targetText": "millón",
+                    "english": "one million",
+                    "type": "number"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 4,
+            "title": "Time Telling",
+            "vocabularyItems": [
+                {
+                    "targetText": "la hora",
+                    "english": "the hour/time",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "el minuto",
+                    "english": "the minute",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el segundo",
+                    "english": "the second",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "¿Qué hora es?",
+                    "english": "What time is it?",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Es la una",
+                    "english": "It's one o'clock",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Son las dos",
+                    "english": "It's two o'clock",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "y media",
+                    "english": "and a half/thirty",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "y cuarto",
+                    "english": "and a quarter/fifteen",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "menos cuarto",
+                    "english": "minus a quarter/fifteen to",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "en punto",
+                    "english": "on the dot/sharp",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 5,
+            "title": "Days & Months",
+            "vocabularyItems": [
+                {
+                    "targetText": "lunes",
+                    "english": "Monday",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "martes",
+                    "english": "Tuesday",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "miércoles",
+                    "english": "Wednesday",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "jueves",
+                    "english": "Thursday",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "viernes",
+                    "english": "Friday",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "sábado",
+                    "english": "Saturday",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "domingo",
+                    "english": "Sunday",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el día",
+                    "english": "the day",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "la semana",
+                    "english": "the week",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "el fin de semana",
+                    "english": "the weekend",
+                    "type": "noun",
+                    "gender": "m"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 6,
+            "title": "Months of Year",
+            "vocabularyItems": [
+                {
+                    "targetText": "enero",
+                    "english": "January",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "febrero",
+                    "english": "February",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "marzo",
+                    "english": "March",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "abril",
+                    "english": "April",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "mayo",
+                    "english": "May",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "junio",
+                    "english": "June",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "julio",
+                    "english": "July",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "agosto",
+                    "english": "August",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "septiembre",
+                    "english": "September",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "octubre",
+                    "english": "October",
+                    "type": "noun"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 7,
+            "title": "More Months & Seasons",
+            "vocabularyItems": [
+                {
+                    "targetText": "noviembre",
+                    "english": "November",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "diciembre",
+                    "english": "December",
+                    "type": "noun"
+                },
+                {
+                    "targetText": "el mes",
+                    "english": "the month",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el año",
+                    "english": "the year",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "la primavera",
+                    "english": "spring",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "el verano",
+                    "english": "summer",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el otoño",
+                    "english": "autumn/fall",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "el invierno",
+                    "english": "winter",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "la estación",
+                    "english": "the season",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "el calendario",
+                    "english": "the calendar",
+                    "type": "noun",
+                    "gender": "m"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 8,
+            "title": "Time Expressions",
+            "vocabularyItems": [
+                {
+                    "targetText": "hoy",
+                    "english": "today",
+                    "type": "adverb"
+                },
+                {
+                    "targetText": "ayer",
+                    "english": "yesterday",
+                    "type": "adverb"
+                },
+                {
+                    "targetText": "mañana",
+                    "english": "tomorrow",
+                    "type": "adverb"
+                },
+                {
+                    "targetText": "ahora",
+                    "english": "now",
+                    "type": "adverb"
+                },
+                {
+                    "targetText": "luego",
+                    "english": "later",
+                    "type": "adverb"
+                },
+                {
+                    "targetText": "después",
+                    "english": "after/afterwards",
+                    "type": "adverb"
+                },
+                {
+                    "targetText": "antes",
+                    "english": "before",
+                    "type": "adverb"
+                },
+                {
+                    "targetText": "siempre",
+                    "english": "always",
+                    "type": "adverb"
+                },
+                {
+                    "targetText": "nunca",
+                    "english": "never",
+                    "type": "adverb"
+                },
+                {
+                    "targetText": "a veces",
+                    "english": "sometimes",
+                    "type": "phrase"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 9,
+            "title": "Frequency Adverbs",
+            "vocabularyItems": [
+                {
+                    "targetText": "todos los días",
+                    "english": "every day",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "cada día",
+                    "english": "each day",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "una vez",
+                    "english": "once",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "dos veces",
+                    "english": "twice",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "muchas veces",
+                    "english": "many times",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "pocas veces",
+                    "english": "few times",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "a menudo",
+                    "english": "often",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "raramente",
+                    "english": "rarely",
+                    "type": "adverb"
+                },
+                {
+                    "targetText": "frecuentemente",
+                    "english": "frequently",
+                    "type": "adverb"
+                },
+                {
+                    "targetText": "normalmente",
+                    "english": "normally",
+                    "type": "adverb"
+                }
+            ]
+        },
+        {
+            "lessonNumber": 10,
+            "title": "Date Expressions",
+            "vocabularyItems": [
+                {
+                    "targetText": "¿Qué fecha es?",
+                    "english": "What's the date?",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "Es el 5 de mayo",
+                    "english": "It's May 5th",
+                    "type": "phrase"
+                },
+                {
+                    "targetText": "el primero",
+                    "english": "the first",
+                    "type": "ordinal"
+                },
+                {
+                    "targetText": "el segundo",
+                    "english": "the second",
+                    "type": "ordinal"
+                },
+                {
+                    "targetText": "el tercero",
+                    "english": "the third",
+                    "type": "ordinal"
+                },
+                {
+                    "targetText": "el último",
+                    "english": "the last",
+                    "type": "adjective"
+                },
+                {
+                    "targetText": "la fecha",
+                    "english": "the date",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "el cumpleaños",
+                    "english": "the birthday",
+                    "type": "noun",
+                    "gender": "m"
+                },
+                {
+                    "targetText": "la edad",
+                    "english": "the age",
+                    "type": "noun",
+                    "gender": "f"
+                },
+                {
+                    "targetText": "¿Cuándo es tu cumpleaños?",
+                    "english": "When is your birthday?",
+                    "type": "phrase"
+                }
+            ]
+        }
+    ],
+    "liarGameData": {
+        "question": "Son ___ tres",
+        "questionEnglish": "It's three o'clock",
+        "correctAnswer": "las",
+        "liarAnswer": "los",
+        "explanation": "Time uses LAS (feminine plural) because HORAS is feminine. 'Son las tres' = It's three (hours). Only 'Es la una' (one o'clock) is singular!",
+        "trapType": "gender_time"
+    }
+}

@@ -1,0 +1,612 @@
+{
+    "moduleId": "ja_b1_m05",
+    "theme": "Law & Justice",
+    "order": 5,
+    "vocabularyItems": [
+        {
+            "word": "会得",
+            "reading": "etoku",
+            "meaning": "Comprehension/Mastery",
+            "example_sentence": "技術を会得することによって、プロとしての自信が生まれました。"
+        },
+        {
+            "word": "察知",
+            "reading": "sacchi",
+            "meaning": "Perception/Detection",
+            "example_sentence": "相手の本心を察知するうちに、適切な対応ができるようになりました。"
+        },
+        {
+            "word": "釣合",
+            "reading": "tsuriai",
+            "meaning": "Balance/Harmony",
+            "example_sentence": "全体の釣合を考える反面、個々の特性も尊重します。"
+        },
+        {
+            "word": "目覚め",
+            "reading": "mezame",
+            "meaning": "Awakening",
+            "example_sentence": "社会問題への目覚めを経験するうちに、行動を起こす決意をしました。"
+        },
+        {
+            "word": "思い込み",
+            "reading": "omoikomi",
+            "meaning": "Assumption/Preconception",
+            "example_sentence": "思い込みを捨てるうちに、新たな視点が得られました。"
+        },
+        {
+            "word": "自認",
+            "reading": "jinin",
+            "meaning": "Self-recognition",
+            "example_sentence": "自らの役割を自認することによって、責任感が芽生えました。"
+        },
+        {
+            "word": "掌握",
+            "reading": "shouaku",
+            "meaning": "Grasp/Control",
+            "example_sentence": "状況を正確に掌握するうちに、適切な判断ができるようになりました。"
+        },
+        {
+            "word": "傾注",
+            "reading": "keichuu",
+            "meaning": "Devotion/Concentration",
+            "example_sentence": "研究に全精力を傾注する反面、健康管理も怠ってはなりません。"
+        },
+        {
+            "word": "求知欲",
+            "reading": "kyuuchiyo ku",
+            "meaning": "Thirst for knowledge",
+            "example_sentence": "求知欲を持ち続けることによって、新たな発見に繋がります。"
+        },
+        {
+            "word": "歩み寄り",
+            "reading": "ayumiyori",
+            "meaning": "Compromise/Concession",
+            "example_sentence": "双方が歩み寄ることによって、合意に達することができました。"
+        },
+        {
+            "word": "差異",
+            "reading": "sai",
+            "meaning": "Difference/Distinction",
+            "example_sentence": "個人差を認めつつ、不当な差異は是正すべきです。"
+        },
+        {
+            "word": "累積",
+            "reading": "ruiseki",
+            "meaning": "Accumulation/Buildup",
+            "example_sentence": "小さな不満が累積するうちに、大きな問題に発展しました。"
+        },
+        {
+            "word": "伝播",
+            "reading": "denpa",
+            "meaning": "Propagation/Spread",
+            "example_sentence": "情報が瞬時に伝播することによって、社会への影響が拡大します。"
+        },
+        {
+            "word": "軋轢",
+            "reading": "atsureki",
+            "meaning": "Friction/Discord",
+            "example_sentence": "組織内の軋轢が生じる反面、それを乗り越えることで結束が強まります。"
+        },
+        {
+            "word": "判別",
+            "reading": "hanbetsu",
+            "meaning": "Discrimination/Distinction",
+            "example_sentence": "真偽を判別するうちに、批判的思考力が養われます。"
+        },
+        {
+            "word": "先入見",
+            "reading": "sennyuuken",
+            "meaning": "Preconceived view",
+            "example_sentence": "先入見を捨てることによって、真の理解が生まれます。"
+        },
+        {
+            "word": "変貌",
+            "reading": "henbou",
+            "meaning": "Transformation",
+            "example_sentence": "街が急速に変貌するうちに、古き良き風景が失われていきました。"
+        },
+        {
+            "word": "崩壊",
+            "reading": "houkai",
+            "meaning": "Collapse/Breakdown",
+            "example_sentence": "信頼関係が崩壊することによって、組織全体が機能不全に陥りました。"
+        },
+        {
+            "word": "恒久",
+            "reading": "koukyuu",
+            "meaning": "Permanence",
+            "example_sentence": "恒久的な平和を願ううちに、現実の困難さに直面します。"
+        },
+        {
+            "word": "瞬間",
+            "reading": "shunkan",
+            "meaning": "Moment/Instant",
+            "example_sentence": "瞬間的な判断を迫られる反面、慎重さも失ってはなりません。"
+        },
+        {
+            "word": "無為",
+            "reading": "mui",
+            "meaning": "Inaction/Naturalness",
+            "example_sentence": "無為自然の境地に至るうちに、心の平安が得られました。"
+        },
+        {
+            "word": "煩悩",
+            "reading": "bonnou",
+            "meaning": "Worldly desires",
+            "example_sentence": "煩悩を断ち切ろうと努力するうちに、かえって執着が強まることもあります。"
+        },
+        {
+            "word": "悟性",
+            "reading": "gosei",
+            "meaning": "Intellect/Understanding",
+            "example_sentence": "悟性を磨く反面、感性も大切にすべきです。"
+        },
+        {
+            "word": "叡智",
+            "reading": "eichi",
+            "meaning": "Wisdom/Sagacity",
+            "example_sentence": "先人の叡智に学ぶことによって、同じ過ちを繰り返さずに済みます。"
+        },
+        {
+            "word": "戯曲",
+            "reading": "gikyoku",
+            "meaning": "Play/Drama",
+            "example_sentence": "戯曲を読み耽るうちに、作者の意図が次第に明らかになってきました。"
+        },
+        {
+            "word": "原作",
+            "reading": "gensaku",
+            "meaning": "Original work",
+            "example_sentence": "原作を忠実に再現する反面、映画独自の解釈も加えられています。"
+        },
+        {
+            "word": "画廊",
+            "reading": "garou",
+            "meaning": "Art gallery",
+            "example_sentence": "画廊を巡ることによって、現代アートの最前線に触れることができます。"
+        },
+        {
+            "word": "喜劇",
+            "reading": "kigeki",
+            "meaning": "Comedy",
+            "example_sentence": "喜劇を鑑賞するうちに、日常の悩みがちっぽけなものに感じられました。"
+        },
+        {
+            "word": "悲劇",
+            "reading": "higeki",
+            "meaning": "Tragedy",
+            "example_sentence": "悲劇的な結末を迎える反面、そこには深いカタルシスが存在します。"
+        },
+        {
+            "word": "傑作",
+            "reading": "kessaku",
+            "meaning": "Masterpiece",
+            "example_sentence": "傑作を生み出すことによって、芸術家の名は歴史に刻まれます。"
+        },
+        {
+            "word": "模写",
+            "reading": "mosha",
+            "meaning": "Copy/Replica",
+            "example_sentence": "名画を模写するうちに、筆致の細部まで理解が進みました。"
+        },
+        {
+            "word": "素描",
+            "reading": "sobyou",
+            "meaning": "Sketch/Drawing",
+            "example_sentence": "素描を繰り返すことによって、観察眼が養われていきます。"
+        },
+        {
+            "word": "抄録",
+            "reading": "shouroku",
+            "meaning": "Abstract/Summary",
+            "example_sentence": "抄録を作成する反面、重要なニュアンスが抜け落ちないよう注意します。"
+        },
+        {
+            "word": "古典",
+            "reading": "koten",
+            "meaning": "Classics",
+            "example_sentence": "古典作品を深く読み解くうちに、現代にも通じる普遍性を発見しました。"
+        },
+        {
+            "word": "名作",
+            "reading": "meisaku",
+            "meaning": "Masterpiece/Famous work",
+            "example_sentence": "名作に触れることによって、感性が豊かに磨かれていきます。"
+        },
+        {
+            "word": "大作",
+            "reading": "taisaku",
+            "meaning": "Epic/Large work",
+            "example_sentence": "大作を仕上げるうちに、体力的にも精神的にも限界を迎えそうでした。"
+        },
+        {
+            "word": "新作",
+            "reading": "shinzaku",
+            "meaning": "New work",
+            "example_sentence": "新作を発表する反面、過去の作品との比較にさらされる厳しさもあります。"
+        },
+        {
+            "word": "旧作",
+            "reading": "kyuusaku",
+            "meaning": "Old work",
+            "example_sentence": "旧作を見直すことによって、自身の進歩を客観的に評価できます。"
+        },
+        {
+            "word": "佳作",
+            "reading": "kasaku",
+            "meaning": "Fine work",
+            "example_sentence": "佳作として選ばれるうちに、創作への自信が少しずつ湧いてきました。"
+        },
+        {
+            "word": "駄作",
+            "reading": "dasaku",
+            "meaning": "Trash/Poor work",
+            "example_sentence": "駄作と批判される反面、それを糧に次作への意欲を燃やします。"
+        },
+        {
+            "word": "習作",
+            "reading": "shuusaku",
+            "meaning": "Study/Etude",
+            "example_sentence": "習作を描き続けることによって、技法の基礎を確立していきます。"
+        },
+        {
+            "word": "遺作",
+            "reading": "isaku",
+            "meaning": "Posthumous work",
+            "example_sentence": "遺作を整理するうちに、故人の芸術に対する情熱が伝わってきました。"
+        },
+        {
+            "word": "潤色",
+            "reading": "junshoku",
+            "meaning": "Adaptation/Embellishment",
+            "example_sentence": "史実に潤色を加える反面、物語としての面白さを追求します。"
+        },
+        {
+            "word": "翻案",
+            "reading": "hon'an",
+            "meaning": "Adaptation",
+            "example_sentence": "海外の戯曲を翻案することによって、日本の観客にも親しみやすくなりました。"
+        },
+        {
+            "word": "脱稿",
+            "reading": "dakkou",
+            "meaning": "Completion of manuscript",
+            "example_sentence": "ようやく脱稿した反面、修正が必要な箇所が次々と気になります。"
+        },
+        {
+            "word": "遺稿",
+            "reading": "ikou",
+            "meaning": "Posthumous manuscript",
+            "example_sentence": "遺稿を出版することによって、未完の思想が世に出ることになりました。"
+        },
+        {
+            "word": "草稿",
+            "reading": "soukou",
+            "meaning": "Draft/Manuscript",
+            "example_sentence": "草稿を練り直すうちに、文体がいっそう洗練されていきました。"
+        },
+        {
+            "word": "断章",
+            "reading": "danshou",
+            "meaning": "Fragment/Excerpt",
+            "example_sentence": "断章を繋ぎ合わせることによって、一つの壮大な物語が構築されます。"
+        },
+        {
+            "word": "序説",
+            "reading": "josetsu",
+            "meaning": "Introduction",
+            "example_sentence": "序説を述べる反面、結論への伏線も巧妙に配置しておきます。"
+        },
+        {
+            "word": "後記",
+            "reading": "kouki",
+            "meaning": "Postscript",
+            "example_sentence": "あとがきを書くうちに、執筆中の苦労が走馬灯のように蘇りました。"
+        },
+        {
+            "word": "跋文",
+            "reading": "batsubun",
+            "meaning": "Epilogue/Postscript",
+            "example_sentence": "跋文を寄せることによって、作品全体の意図がより明確に伝わります。"
+        },
+        {
+            "word": "序文",
+            "reading": "jobun",
+            "meaning": "Preface/Foreword",
+            "example_sentence": "序文を精読するうちに、著者の並々ならぬ覚悟が感じられました。"
+        },
+        {
+            "word": "凡例",
+            "reading": "hanrei",
+            "meaning": "Explanatory notes",
+            "example_sentence": "凡例を確認する反面、読み進めるうちに独自のルールに慣れていきます。"
+        },
+        {
+            "word": "目次",
+            "reading": "mokuji",
+            "meaning": "Table of contents",
+            "example_sentence": "目次を眺めることによって、全体の構成を俯瞰することができます。"
+        },
+        {
+            "word": "索引",
+            "reading": "sakuin",
+            "meaning": "Index",
+            "example_sentence": "索引を活用するうちに、必要な情報へ素早くアクセスできるようになりました。"
+        },
+        {
+            "word": "図解",
+            "reading": "zukai",
+            "meaning": "Diagram/Illustration",
+            "example_sentence": "図解を取り入れる反面、文章による説明も疎かにしてはなりません。"
+        },
+        {
+            "word": "挿絵",
+            "reading": "sashie",
+            "meaning": "Illustration",
+            "example_sentence": "挿絵を眺めることによって、登場人物のイメージがより鮮明になります。"
+        },
+        {
+            "word": "看板",
+            "reading": "kanban",
+            "meaning": "Signboard",
+            "example_sentence": "看板を描くうちに、公共の場における芸術の役割を考えさせられました。"
+        },
+        {
+            "word": "額縁",
+            "reading": "gakubuchi",
+            "meaning": "Picture frame",
+            "example_sentence": "額縁を選ぶ反面、作品そのものの魅力を引き立てることが最優先です。"
+        },
+        {
+            "word": "屏風",
+            "reading": "byoubu",
+            "meaning": "Folding screen",
+            "example_sentence": "屏風を広げることによって、部屋の雰囲気が一変し、厳かになりました。"
+        },
+        {
+            "word": "襖絵",
+            "reading": "fusumae",
+            "meaning": "Fusuma painting",
+            "example_sentence": "襖絵を鑑賞するうちに、日本の住空間と芸術の密接な関係を学びました。"
+        },
+        {
+            "word": "墨絵",
+            "reading": "sumie",
+            "meaning": "Ink wash painting",
+            "example_sentence": "墨絵を描く反面、余白の美しさを表現することの難しさを痛感します。"
+        },
+        {
+            "word": "版画",
+            "reading": "hanga",
+            "meaning": "Woodblock print",
+            "example_sentence": "版画を制作することによって、重ね刷りによる色彩の変化を学びます。"
+        },
+        {
+            "word": "拓本",
+            "reading": "takuhon",
+            "meaning": "Rubbing",
+            "example_sentence": "拓本を取るうちに、石に刻まれた歴史の息遣いが伝わってきました。"
+        },
+        {
+            "word": "写生",
+            "reading": "shasei",
+            "meaning": "Sketching from nature",
+            "example_sentence": "写生に励む反面、単なる模倣に陥らないよう独自の視点も持ちます。"
+        },
+        {
+            "word": "デッサン",
+            "reading": "dessan",
+            "meaning": "Dessin/Sketch",
+            "example_sentence": "デッサンを基礎から学ぶことによって、正確な形を捉える力が身につきます。"
+        },
+        {
+            "word": "コラージュ",
+            "reading": "koraaju",
+            "meaning": "Collage",
+            "example_sentence": "コラージュを制作するうちに、異質な要素が融合する面白さに気づきました。"
+        },
+        {
+            "word": "オブジェ",
+            "reading": "obuje",
+            "meaning": "Object/Art piece",
+            "example_sentence": "オブジェを配置する反面、周囲の空間との調和も慎重に検討します。"
+        },
+        {
+            "word": "彫像",
+            "reading": "chouzou",
+            "meaning": "Statue/Sculpture",
+            "example_sentence": "彫像を眺めることによって、古代の人々の美意識を追体験できます。"
+        },
+        {
+            "word": "塑像",
+            "reading": "suzou",
+            "meaning": "Clay figure/Model",
+            "example_sentence": "塑像を練り上げるうちに、生命感あふれるフォルムが生まれていきました。"
+        },
+        {
+            "word": "レリーフ",
+            "reading": "reriifu",
+            "meaning": "Relief",
+            "example_sentence": "レリーフを施す反面、壁面全体のバランスを損なわないよう注意します。"
+        },
+        {
+            "word": "記念碑",
+            "reading": "kinenhi",
+            "meaning": "Monument",
+            "example_sentence": "記念碑を建立することによって、歴史的な出来事を後世に語り継ぎます。"
+        },
+        {
+            "word": "建立",
+            "reading": "konryuu",
+            "meaning": "Erection/Building",
+            "example_sentence": "寺院を建立するうちに、当時の建築技術の高さに驚かされました。"
+        },
+        {
+            "word": "落成",
+            "reading": "rakusei",
+            "meaning": "Completion of building",
+            "example_sentence": "無事に落成した反面、維持管理のための新たな課題も生じました。"
+        },
+        {
+            "word": "除幕",
+            "reading": "jomaku",
+            "meaning": "Unveiling",
+            "example_sentence": "除幕式を行うことによって、ついに作品が一般に公開されることになりました。"
+        },
+        {
+            "word": "展示",
+            "reading": "tenji",
+            "meaning": "Exhibition/Display",
+            "example_sentence": "作品を展示するうちに、観客との対話の重要性を再認識しました。"
+        },
+        {
+            "word": "陳列",
+            "reading": "chinretsu",
+            "meaning": "Display/Exhibit",
+            "example_sentence": "陳列を工夫する反面、照明の当て方にも細心の注意を払わなければなりません。"
+        },
+        {
+            "word": "図録",
+            "reading": "zuroku",
+            "meaning": "Illustrated catalog",
+            "example_sentence": "図録を作成することによって、展覧会の記憶を形に残すことができます。"
+        },
+        {
+            "word": "目録",
+            "reading": "mokuroku",
+            "meaning": "Catalog/List",
+            "example_sentence": "目録を整理するうちに、収蔵品の膨大な数に圧倒されました。"
+        },
+        {
+            "word": "貸出",
+            "reading": "kashidashi",
+            "meaning": "Lending/Loan",
+            "example_sentence": "他館へ作品を貸し出す反面、輸送中の破損リスクには厳重に対処します。"
+        },
+        {
+            "word": "返却",
+            "reading": "henkyaku",
+            "meaning": "Return",
+            "example_sentence": "期限内に返却することによって、円滑な展示スケジュールを維持できます。"
+        },
+        {
+            "word": "閉館",
+            "reading": "heikan",
+            "meaning": "Closing (of building)",
+            "example_sentence": "閉館時間が近づくうちに、名残惜しそうに作品を眺める観客の姿がありました。"
+        },
+        {
+            "word": "休館",
+            "reading": "kyuukan",
+            "meaning": "Being closed",
+            "example_sentence": "月曜日は休館する反面、その間に作品の清掃やメンテナンスを行います。"
+        },
+        {
+            "word": "開館",
+            "reading": "kaikan",
+            "meaning": "Opening (of building)",
+            "example_sentence": "開館記念式典を行うことによって、地域の文化拠点としての歩みが始まりました。"
+        },
+        {
+            "word": "収蔵",
+            "reading": "shuuzou",
+            "meaning": "Storage/Collection",
+            "example_sentence": "貴重な資料を収蔵するうちに、適切な湿度管理の重要性を学びました。"
+        },
+        {
+            "word": "寄贈",
+            "reading": "kizou",
+            "meaning": "Donation/Gift",
+            "example_sentence": "個人邸宅から作品が寄贈される反面、相続の問題が複雑に絡むこともあります。"
+        },
+        {
+            "word": "寄託",
+            "reading": "kitaku",
+            "meaning": "Deposit/Consignment",
+            "example_sentence": "美術館に寄託することによって、専門的な環境での保存が可能になります。"
+        },
+        {
+            "word": "国宝",
+            "reading": "kokuhou",
+            "meaning": "National treasure",
+            "example_sentence": "国宝に指定されるうちに、保存のための制約もいっそう厳しくなりました。"
+        },
+        {
+            "word": "重要文化財",
+            "reading": "juuyoubunka za i",
+            "meaning": "Important Cultural Property",
+            "example_sentence": "重要文化財を守る反面、一般公開による活用も進めていく必要があります。"
+        },
+        {
+            "word": "指定",
+            "reading": "shitei",
+            "meaning": "Designation",
+            "example_sentence": "史跡に指定することによって、無秩序な開発から歴史を守ることができます。"
+        },
+        {
+            "word": "解除",
+            "reading": "kaijo",
+            "meaning": "Cancellation/Removal",
+            "example_sentence": "指定を解除する反面、再評価の声が上がることも少なくありません。"
+        },
+        {
+            "word": "修復",
+            "reading": "shuufuku",
+            "meaning": "Restoration/Repair",
+            "example_sentence": "古い仏像を修復するうちに、当時の職人の高い技術力に触れました。"
+        },
+        {
+            "word": "劣化",
+            "reading": "rekka",
+            "meaning": "Deterioration",
+            "example_sentence": "作品の劣化が進む反面、最新の科学技術を用いた修復も進歩しています。"
+        },
+        {
+            "word": "修築",
+            "reading": "shuuchiku",
+            "meaning": "Repair/Reconstruction",
+            "example_sentence": "石垣を修築することによって、城跡の威容が再び蘇りました。"
+        },
+        {
+            "word": "再建",
+            "reading": "saiken",
+            "meaning": "Reconstruction",
+            "example_sentence": "焼失した本堂を再建するうちに、人々の心の支えも戻ってきました。"
+        },
+        {
+            "word": "倒壊",
+            "reading": "toukai",
+            "meaning": "Collapse/Destruction",
+            "example_sentence": "地震で倒壊する反面、免震技術を取り入れた再建計画も進んでいます。"
+        },
+        {
+            "word": "類焼",
+            "reading": "ruishou",
+            "meaning": "Spreading fire",
+            "example_sentence": "類焼を防ぐことによって、貴重な文化財の全滅を食い止めることができました。"
+        },
+        {
+            "word": "灰燼",
+            "reading": "kaijin",
+            "meaning": "Ashes",
+            "example_sentence": "戦火で灰燼に帰すうちに、平和の尊さを改めて痛感せざるを得ません。"
+        },
+        {
+            "word": "散逸",
+            "reading": "san'itsu",
+            "meaning": "Scattered and lost",
+            "example_sentence": "史料が散逸する反面、一点でも多く回収しようとする研究者の努力も続いています。"
+        },
+        {
+            "word": "消失",
+            "reading": "shoushitsu",
+            "meaning": "Disappearance/Loss",
+            "example_sentence": "文化が消失することによって、人類共通の財産が損なわれてしまいます。"
+        }
+    ],
+    "liarGameData": {
+        "trap": "日本では裁判員制度がないため、一般市民は裁判に参加できません。(Japan has no jury system, so ordinary citizens cannot participate in trials.)",
+        "correctVersion": "日本には2009年から裁判員制度があり、重大な刑事事件において一般市民が裁判官と共に審理に参加します。(Japan has had the lay judge system (裁判員制度) since 2009, where ordinary citizens participate with professional judges in serious criminal cases.)",
+        "explanation": "The 裁判員制度 (saiban'in seido) is Japan's version of a jury system, though it differs from Western models. Six lay judges and three professional judges deliberate together on guilt and sentencing in serious criminal cases like murder or arson. This system was introduced to increase public participation in the judicial process."
+    }
+}

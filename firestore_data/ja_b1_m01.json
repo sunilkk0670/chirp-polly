@@ -1,0 +1,612 @@
+{
+    "moduleId": "ja_b1_m01",
+    "theme": "Abstract Concepts & Emotions",
+    "order": 1,
+    "vocabularyItems": [
+        {
+            "word": "合議",
+            "reading": "gougi",
+            "meaning": "Consultation",
+            "example_sentence": "重要な決定を合議制で行うことによって、一人の判断ミスによるリスクを分散します。"
+        },
+        {
+            "word": "独断",
+            "reading": "dokudan",
+            "meaning": "One's own decision",
+            "example_sentence": "リーダーが独断で物事を進めるうちに、部下の不満が蓄積し、離職者が増えました。"
+        },
+        {
+            "word": "忖度",
+            "reading": "sontaku",
+            "meaning": "Surmise/Guesswork",
+            "example_sentence": "上役の意向を忖度する反面、現場の実態を正しく伝える勇気も必要です。"
+        },
+        {
+            "word": "懐柔",
+            "reading": "kaijuu",
+            "meaning": "Conciliation",
+            "example_sentence": "反対派を懐柔することによって、困難と思われた改革案を可決に導きました。"
+        },
+        {
+            "word": "折衝",
+            "reading": "sesshou",
+            "meaning": "Negotiation",
+            "example_sentence": "各部署との利害を折衝するうちに、落とし所を見つけるのが彼の得意分野です。"
+        },
+        {
+            "word": "仲裁",
+            "reading": "chuuzai",
+            "meaning": "Arbitration",
+            "example_sentence": "第三者が仲裁に入ることによって、泥沼化していた争議はようやく終結しました。"
+        },
+        {
+            "word": "斡旋",
+            "reading": "assen",
+            "meaning": "Mediation",
+            "example_sentence": "新たな就職先を斡旋する反面、自力で道を探す人々も少なくありません。"
+        },
+        {
+            "word": "勧誘",
+            "reading": "kanyuu",
+            "meaning": "Invitation/Canvassing",
+            "example_sentence": "無理な勧誘を繰り返すことによって、長年の信頼を一日で失ってしまいました。"
+        },
+        {
+            "word": "督励",
+            "reading": "tokurei",
+            "meaning": "Exhortation/Urging",
+            "example_sentence": "部下を厳しく督励する反面、自らも先頭に立って困難な仕事に邁進しています。"
+        },
+        {
+            "word": "鼓舞",
+            "reading": "kobu",
+            "meaning": "Encouragement",
+            "example_sentence": "力強い言葉で社員を鼓舞することによって、達成不可能と思われた目標を完遂しました。"
+        },
+        {
+            "word": "叱咤",
+            "reading": "shitta",
+            "meaning": "Rebuking",
+            "example_sentence": "時には激しく叱咤するうちに、彼の中でプロとしての自覚が芽生え始めました。"
+        },
+        {
+            "word": "激励",
+            "reading": "gekirai",
+            "meaning": "Encouragement",
+            "example_sentence": "温かい言葉で激励を受ける反面、期待に応えなければというプレッシャーも感じます。"
+        },
+        {
+            "word": "査収",
+            "reading": "sashuu",
+            "meaning": "Checking/Receipt",
+            "example_sentence": "添付いたしました見積書をご査収のほど、何卒よろしくお願い申し上げます。"
+        },
+        {
+            "word": "拝領",
+            "reading": "hairyuu",
+            "meaning": "Receiving (from superior)",
+            "example_sentence": "社長から記念品を拝領いたしました。身に余る光栄である反面、今後も研鑽に励む所存です。"
+        },
+        {
+            "word": "拝顔",
+            "reading": "haigan",
+            "meaning": "Meeting (humble)",
+            "example_sentence": "久しぶりに先生のお顔を拝顔できました。お変わりないご様子によって、安心いたしました。"
+        },
+        {
+            "word": "拝聞",
+            "reading": "haibun",
+            "meaning": "Hearing (humble)",
+            "example_sentence": "ご高名を拝聞しておりました。実際にお会いできる喜びのうちに、緊張を隠せません。"
+        },
+        {
+            "word": "披露",
+            "reading": "hirou",
+            "meaning": "Announcement/Presentation",
+            "example_sentence": "新商品の魅力を披露する反面、開発の背景にある苦労話にも多くの共感が集まりました。"
+        },
+        {
+            "word": "拝辞",
+            "reading": "haiji",
+            "meaning": "Decline (humble)",
+            "example_sentence": "せっかくのお申し出ですが、今回は謹んで拝辞させていただきます。状況の変化によって、再考の余地はございます。"
+        },
+        {
+            "word": "拝謝",
+            "reading": "haisha",
+            "meaning": "Gratitude (humble)",
+            "example_sentence": "多大なるご支援を賜りましたこと、厚く拝謝申し上げます。皆様のおかげによって、今日がございます。"
+        },
+        {
+            "word": "閲覧",
+            "reading": "etsuran",
+            "meaning": "Inspection/View",
+            "example_sentence": "内部資料を閲覧する際は、適切な権限によってアクセス制限が行われます。"
+        },
+        {
+            "word": "進言",
+            "reading": "shingen",
+            "meaning": "Advice to superior",
+            "example_sentence": "上司に直接進言することによって、形骸化していた無駄な会議を廃止することに成功しました。"
+        },
+        {
+            "word": "建言",
+            "reading": "kengen",
+            "meaning": "Proposal",
+            "example_sentence": "新しい社内制度を建言する反面、反対派の意見にも真摯に耳を傾けています。"
+        },
+        {
+            "word": "具申",
+            "reading": "gushin",
+            "meaning": "Reporting an opinion",
+            "example_sentence": "現場の状況を具申するうちに、経営層も重い腰をようやく上げ始めました。"
+        },
+        {
+            "word": "上申",
+            "reading": "joushin",
+            "meaning": "Report to higher authority",
+            "example_sentence": "特別措置を上申することによって、窮地に立たされていた顧客を救うことができました。"
+        },
+        {
+            "word": "内奏",
+            "reading": "naisou",
+            "meaning": "Private report",
+            "example_sentence": "重要事項を内奏する反面、表向きは通常通りの業務を淡々とこなしていました。"
+        },
+        {
+            "word": "奏上",
+            "reading": "soujou",
+            "meaning": "Reporting to the Throne",
+            "example_sentence": "歴史的な成果を奏上するうちに、自らの職責の重さを改めて痛感いたしました。"
+        },
+        {
+            "word": "拝命",
+            "reading": "haimei",
+            "meaning": "Appointment (humble)",
+            "example_sentence": "この度、大役を拝命いたしました。及ばずながら、誠心誠意事に当たる決意のうちにおります。"
+        },
+        {
+            "word": "就任",
+            "reading": "shuunin",
+            "meaning": "Assumption of office",
+            "example_sentence": "新社長に就任することによって、企業のイメージを一新する抜本的な改革に着手します。"
+        },
+        {
+            "word": "退任",
+            "reading": "tainin",
+            "meaning": "Resignation from office",
+            "example_sentence": "長い任期の後に退任する反面、後進の育成という新たな喜びを見出しました。"
+        },
+        {
+            "word": "離任",
+            "reading": "rinin",
+            "meaning": "Leaving one's post",
+            "example_sentence": "この地を離任するうちに、お世話になった皆様のお顔が次々と脳裏に浮かんできました。"
+        },
+        {
+            "word": "脆弱性",
+            "reading": "zeijakusei",
+            "meaning": "Vulnerability",
+            "example_sentence": "システムの脆弱性を放置するうちに、重大なサイバー攻撃を受けるリスクが高まってしまいます。"
+        },
+        {
+            "word": "実装",
+            "reading": "jissou",
+            "meaning": "Implementation",
+            "example_sentence": "新機能をアプリに実装することによって、ユーザーの利便性が大幅に向上する反面、バグの発生も懸念されます。"
+        },
+        {
+            "word": "仮想化",
+            "reading": "kasouka",
+            "meaning": "Virtualization",
+            "example_sentence": "物理サーバーを仮想化するうちに、リソースの利用効率が格段に改善されたことを実感しています。"
+        },
+        {
+            "word": "基盤",
+            "reading": "kiban",
+            "meaning": "Infrastructure/Foundation",
+            "example_sentence": "強固なデジタル基盤を構築することによって、災害時でも安定した情報通信が可能になります。"
+        },
+        {
+            "word": "精度",
+            "reading": "seido",
+            "meaning": "Accuracy/Precision",
+            "example_sentence": "センサーの精度を追求するうちに、これまでは捉えられなかった微細な変化を検知できるようになりました。"
+        },
+        {
+            "word": "属性",
+            "reading": "zokusei",
+            "meaning": "Attribute",
+            "example_sentence": "各オブジェクトの属性を定義する反面、メソッドの実装との整合性を保つ作業に多くの時間を要しました。"
+        },
+        {
+            "word": "複号",
+            "reading": "fukugou",
+            "meaning": "Decryption",
+            "example_sentence": "暗号化されたデータを複号するうちに、隠されていた重大な事実が明らかになりました。"
+        },
+        {
+            "word": "膠着",
+            "reading": "kouchaku",
+            "meaning": "Stalemate/Agglutination",
+            "example_sentence": "開発が膠着状態に陥る反面、そこから新たな突破口を見出すべくチーム一丸となって取り組んでいます。"
+        },
+        {
+            "word": "抽出",
+            "reading": "chuushutsu",
+            "meaning": "Extraction",
+            "example_sentence": "サンプルから不純物を抽出することによって、純度の高い成分を得ることに成功しました。"
+        },
+        {
+            "word": "検証",
+            "reading": "kenshou",
+            "meaning": "Verification",
+            "example_sentence": "理論が正しいことを検証するうちに、予想外の副次的な発見があり、研究範囲が広がりました。"
+        },
+        {
+            "word": "制御",
+            "reading": "seigyo",
+            "meaning": "Control",
+            "example_sentence": "ロボットの動きを精密に制御することによって、人間には不可能な繊細な作業を代行させます。"
+        },
+        {
+            "word": "量子",
+            "reading": "ryoushi",
+            "meaning": "Quantum",
+            "example_sentence": "量子コンピュータの研究が進むうちに、従来の暗号技術の安全性が脅かされることが危惧されています。"
+        },
+        {
+            "word": "融合",
+            "reading": "yuugou",
+            "meaning": "Fusion/Integration",
+            "example_sentence": "異なる技術を融合させることによって、これまでにない革新的なデバイスが次々と誕生しています。"
+        },
+        {
+            "word": "伝導",
+            "reading": "dendou",
+            "meaning": "Conduction",
+            "example_sentence": "超伝導現象を利用する反面、極低温を維持するための膨大なエネルギーの消費も課題となります。"
+        },
+        {
+            "word": "磁場",
+            "reading": "jiba",
+            "meaning": "Magnetic field",
+            "example_sentence": "強力な磁場を発生させるうちに、周囲の電子機器への影響を防ぐ遮蔽技術の重要性を知りました。"
+        },
+        {
+            "word": "回路",
+            "reading": "kairo",
+            "meaning": "Circuit",
+            "example_sentence": "電子回路を小型化することによって、持ち運びに便利な高性能なウェアラブル端末が実現しました。"
+        },
+        {
+            "word": "波長",
+            "reading": "hachou",
+            "meaning": "Wavelength",
+            "example_sentence": "特定の波長の光を利用する反面、天候の変化によって通信品質が左右されるという弱点も克服すべき課題です。"
+        },
+        {
+            "word": "軌道",
+            "reading": "kidou",
+            "meaning": "Orbit/Track",
+            "example_sentence": "衛星を正しい軌道に乗せるうちに、重力のみならず太陽風の影響も考慮にいれる必要があります。"
+        },
+        {
+            "word": "推力",
+            "reading": "suiryoku",
+            "meaning": "Thrust",
+            "example_sentence": "エンジンの推力を増大させることによって、より重い物資を効率良く宇宙空間へ運ぶことが可能になります。"
+        },
+        {
+            "word": "絶縁",
+            "reading": "zetsuen",
+            "meaning": "Insulation",
+            "example_sentence": "高電圧の回路であっても、適切な絶縁を施すうちに、安全に電力を供給できるようになります。"
+        },
+        {
+            "word": "耐性",
+            "reading": "taisei",
+            "meaning": "Resistance/Tolerance",
+            "example_sentence": "過酷な環境下での使用に耐えうる耐性を持つ反面、定期的なメンテナンスを怠るわけにはいきません。"
+        },
+        {
+            "word": "蓄積",
+            "reading": "chikuseki",
+            "meaning": "Accumulation",
+            "example_sentence": "長年の研究データを蓄積することによって、統計的に有意な結論を導き出す準備が整いました。"
+        },
+        {
+            "word": "最適化",
+            "reading": "saitekika",
+            "meaning": "Optimization",
+            "example_sentence": "コードを最適化するうちに、アプリケーションの実行速度が著しく改善され、ユーザー満足度も向上しました。"
+        },
+        {
+            "word": "連動",
+            "reading": "rendou",
+            "meaning": "Linkage/Gearing",
+            "example_sentence": "センサーとカメラが連動することによって、異常が発生した瞬間に映像を記録するシステムを構築しました。"
+        },
+        {
+            "word": "同期",
+            "reading": "douki",
+            "meaning": "Synchronization",
+            "example_sentence": "複数の端末でデータを同期する反面、オフライン時のデータ不整合への対策も重要です。"
+        },
+        {
+            "word": "疎通",
+            "reading": "sotsuu",
+            "meaning": "Communication/Understanding",
+            "example_sentence": "ネットワークの疎通を確認するうちに、ルーターの設定ミスが発覚しました。"
+        },
+        {
+            "word": "圏内",
+            "reading": "kennai",
+            "meaning": "Within range",
+            "example_sentence": "通信圏内に移動することによって、止まっていたデータ転送が自動的に再開されました。"
+        },
+        {
+            "word": "干渉",
+            "reading": "kanshou",
+            "meaning": "Interference",
+            "example_sentence": "無線電波が干渉し合ううちに、通信速度が低下し、接続が不安定になる現象が報告されています。"
+        },
+        {
+            "word": "反射",
+            "reading": "hansha",
+            "meaning": "Reflection",
+            "example_sentence": "光の反射を利用する反面、角度の僅かなズレによって測定結果に大きな誤差が生じます。"
+        },
+        {
+            "word": "屈折",
+            "reading": "kussetsu",
+            "meaning": "Refraction",
+            "example_sentence": "レンズによる光の屈折を制御することによって、超微細な構造まで鮮明に観察できるようになりました。"
+        },
+        {
+            "word": "拡散",
+            "reading": "kakusan",
+            "meaning": "Diffusion",
+            "example_sentence": "熱が均一に拡散するうちに、装置全体の温度が安定し、精密な実験が持続できるようになります。"
+        },
+        {
+            "word": "凝縮",
+            "reading": "gyoushuku",
+            "meaning": "Condensation",
+            "example_sentence": "蒸気を凝縮させることによって得られるエネルギーを、動力源として再利用するシステムを設計しました。"
+        },
+        {
+            "word": "沸騰",
+            "reading": "futtou",
+            "meaning": "Boiling",
+            "example_sentence": "気圧が低い場所で液体が沸騰する反面、その温度は標準状態よりも低いことに驚かされます。"
+        },
+        {
+            "word": "溶解",
+            "reading": "youkai",
+            "meaning": "Melting/Dissolving",
+            "example_sentence": "高温の熱によって金属が溶解するうちに、あらかじめ用意された型へと流し込まれていきます。"
+        },
+        {
+            "word": "蒸発",
+            "reading": "jouhatsu",
+            "meaning": "Evaporation",
+            "example_sentence": "溶媒が蒸発することによって、結晶が高密度に析出する様子を顕微鏡で捉えました。"
+        },
+        {
+            "word": "摩擦",
+            "reading": "masatsu",
+            "meaning": "Friction",
+            "example_sentence": "部品間の摩擦を低減させる反面、必要な制動力が損なわれないレベルに調整されています。"
+        },
+        {
+            "word": "振動",
+            "reading": "shindou",
+            "meaning": "Vibration",
+            "example_sentence": "微かな振動を感知することによって、機械の故障の予兆を事前にキャッチすることが可能です。"
+        },
+        {
+            "word": "衝撃",
+            "reading": "shougeki",
+            "meaning": "Impact",
+            "example_sentence": "外部からの強い衝撃に備えるうちに、より軽量かつ堅牢な素材の選定が進みました。"
+        },
+        {
+            "word": "吸収",
+            "reading": "kyuushuu",
+            "meaning": "Absorption",
+            "example_sentence": "衝撃を効率良く吸収することによって、内部の精密機器を破損から守る設計が施されています。"
+        },
+        {
+            "word": "放出",
+            "reading": "houshutsu",
+            "meaning": "Release/Emission",
+            "example_sentence": "エネルギーを放出する反面、周囲の温度上昇を抑えるための冷却機能も不可欠です。"
+        },
+        {
+            "word": "遮蔽",
+            "reading": "shahei",
+            "meaning": "Shielding/Masking",
+            "example_sentence": "放射線を完全に遮蔽することによって、作業員の安全と環境保護を徹底しています。"
+        },
+        {
+            "word": "浸透",
+            "reading": "shintou",
+            "meaning": "Permeation/OSMOSIS",
+            "example_sentence": "新しい溶剤が細かな隙間に浸透するうちに、これまでは困難だった洗浄作業が可能になりました。"
+        },
+        {
+            "word": "吸着",
+            "reading": "kyuuchaku",
+            "meaning": "Adsorption",
+            "example_sentence": "活性炭が有害物質を吸着することによって、水の浄化を極めて効率的に行うことが可能です。"
+        },
+        {
+            "word": "脱離",
+            "reading": "datsuri",
+            "meaning": "Desorption/Elimination",
+            "example_sentence": "温度を上げることによって分子が表面から脱離し、成分分析の精度が格段に向上します。"
+        },
+        {
+            "word": "触媒",
+            "reading": "shokubai",
+            "meaning": "Catalyst",
+            "example_sentence": "適切な触媒を用いる反面、反応後の分離の手間を減らす工夫も凝らされています。"
+        },
+        {
+            "word": "合成",
+            "reading": "gousei",
+            "meaning": "Synthesis",
+            "example_sentence": "人工的なダイヤモンドを合成するうちに、天然のものと同等の硬度を実現できました。"
+        },
+        {
+            "word": "分解",
+            "reading": "bunkai",
+            "meaning": "Decomposition/Disassembly",
+            "example_sentence": "廃材を化学的に分解することによって、原料へと戻し、リサイクルの循環を作ります。"
+        },
+        {
+            "word": "培養",
+            "reading": "baiyou",
+            "meaning": "Cultivation/Culture",
+            "example_sentence": "細胞を大量に培養するうちに、一つ一つの増殖の過程に微妙な個体差があることに気付きました。"
+        },
+        {
+            "word": "変異",
+            "reading": "hen'i",
+            "meaning": "Mutation/Variation",
+            "example_sentence": "遺伝子が突然変異する反面、その多くは生存に不利な変化であることも判明しています。"
+        },
+        {
+            "word": "適応",
+            "reading": "tekiou",
+            "meaning": "Adaptation",
+            "example_sentence": "新しい環境に機器を適応させるうちに、ソフトウェア側の修正の必要性が見えてきました。"
+        },
+        {
+            "word": "伝承",
+            "reading": "denshou",
+            "meaning": "Transmission/Heritage",
+            "example_sentence": "古くから伝わる技術をデジタルアーカイブとして伝承することによって、文化の保存に貢献します。"
+        },
+        {
+            "word": "関数",
+            "reading": "kansuu",
+            "meaning": "Function",
+            "example_sentence": "複雑な計算を行う関数を定義するうちに、コードの可読性が格段に向上しました。"
+        },
+        {
+            "word": "定義",
+            "reading": "teigi",
+            "meaning": "Definition",
+            "example_sentence": "用語を明確に定義することによって、開発チーム内での認識の齟齬を最小限に抑えます。"
+        },
+        {
+            "word": "参照",
+            "reading": "sanshou",
+            "meaning": "Reference",
+            "example_sentence": "外部のライブラリを参照するうちに、システム全体の依存関係が複雑になっていくのを感じます。"
+        },
+        {
+            "word": "複製",
+            "reading": "fukusei",
+            "meaning": "Replication/Clone",
+            "example_sentence": "データを定期的に複製することによって、サーバーに物理的な障害が起きた際も即座に復旧が可能です。"
+        },
+        {
+            "word": "抹消",
+            "reading": "masshou",
+            "meaning": "Erasure/Deletion",
+            "example_sentence": "個人情報を完全に抹消することによって、プライバシー保護の徹底を図ります。"
+        },
+        {
+            "word": "照合",
+            "reading": "shougou",
+            "meaning": "Collation/Verification",
+            "example_sentence": "入力されたデータと原本を照合することによって、入力ミスの有無を自動的にチェックします。"
+        },
+        {
+            "word": "検知",
+            "reading": "kenchi",
+            "meaning": "Detection",
+            "example_sentence": "微弱な電流の変化を検知するうちに、回路の故障箇所の特定ができるようになりました。"
+        },
+        {
+            "word": "拡張",
+            "reading": "kakuchou",
+            "meaning": "Expansion",
+            "example_sentence": "システムの機能を拡張する反面、既存の処理への悪影響がないか、徹底的なテストを実施します。"
+        },
+        {
+            "word": "縮小",
+            "reading": "shukushou",
+            "meaning": "Reduction/Shrinkage",
+            "example_sentence": "プログラムのサイズを縮小することによって、動作が不安定だった旧型の端末でも快適に動作するようになりました。"
+        },
+        {
+            "word": "置換",
+            "reading": "chikan",
+            "meaning": "Substitution/Replacement",
+            "example_sentence": "古い部品を新型に置換するうちに、装置全体の消費電力が当初の半分にまで削減されました。"
+        },
+        {
+            "word": "否決",
+            "reading": "hiketsu",
+            "meaning": "Rejection/Voting down",
+            "example_sentence": "提案が否決されることによって、計画の見直しを余儀なくされました。"
+        },
+        {
+            "word": "検索",
+            "reading": "kensaku",
+            "meaning": "Search",
+            "example_sentence": "高速なハッシュ法を用いて検索するう反面、メモリの消費量をいかに抑えるかがエンジニアの腕の見せ所です。"
+        },
+        {
+            "word": "変換",
+            "reading": "henkan",
+            "meaning": "Conversion",
+            "example_sentence": "音声データをテキストに変換することによって、会議の議事録作成を劇的に効率化させました。"
+        },
+        {
+            "word": "圧縮",
+            "reading": "asshuku",
+            "meaning": "Compression",
+            "example_sentence": "巨大なファイルを圧縮するうちに、ネットワークを通じての送受信がスムーズに行えるようになりました。"
+        },
+        {
+            "word": "展開",
+            "reading": "tenkai",
+            "meaning": "Expansion/Deployment",
+            "example_sentence": "新しい環境にシステムを展開する反面、そこでの設定ファイルの不整合が原因でエラーが発生しました。"
+        },
+        {
+            "word": "遮断",
+            "reading": "shadan",
+            "meaning": "Blocking/Isolation",
+            "example_sentence": "不正な通信を自動で遮断することによって、外部からのハッキング行為を未然に防いでいます。"
+        },
+        {
+            "word": "許諾",
+            "reading": "kyodaku",
+            "meaning": "Consent/Permission",
+            "example_sentence": "ライセンスの許諾を得るうちに、製品化に向けた最終段階に入りました。"
+        },
+        {
+            "word": "連結",
+            "reading": "renketsu",
+            "meaning": "Connection/Link",
+            "example_sentence": "複数のデータベースを連結することによって、より大規模なデータ解析が可能になります。"
+        },
+        {
+            "word": "待機",
+            "reading": "taiki",
+            "meaning": "Standby",
+            "example_sentence": "予備のシステムを常に待機させる反面、その維持コストとの妥協点を見極める必要があります。"
+        }
+    ],
+    "liarGameData": {
+        "trap": "「もののあわれ」は、単に悲しい気持ちになることだ。(Mono no aware is simply about feeling sad.)",
+        "correctVersion": "「もののあわれ」は、物事の折々に触れて起こる、深くしみじみとした情緒や無常観のこと。美しさや儚さを理解し、味わう心を表す。(Mono no aware is a deep, poignant emotion or sense of impermanence felt in connection to things. It represents the heart that understands and savors beauty and transience.)",
+        "explanation": "Mono no aware (物の哀れ) is not just sadness; it's a profound aesthetic and spiritual concept in Japan. It's the capacity to be moved by the ephermeral nature of life, like falling cherry blossoms. It combines an awareness of transience with a sense of wonder and gentle sorrow."
+    }
+}

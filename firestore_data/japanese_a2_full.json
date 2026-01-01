@@ -1,0 +1,6134 @@
+{
+  "modules": [
+    {
+      "moduleId": "jp_a2_m1",
+      "theme": "Fundamentals",
+      "order": 11,
+      "vocabularyItems": [
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 1)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 1)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 1)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 1)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 1)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 1)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 2)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 2)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 2)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 2)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 2)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 2)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 3)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 3)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 3)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 3)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 3)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 3)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 4)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 4)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 4)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 4)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 4)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 4)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 5)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 5)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 5)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 5)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 5)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 5)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 6)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 6)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 6)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 6)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 6)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 6)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 7)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 7)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 7)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 7)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 7)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 7)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 8)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 8)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 8)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 8)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 8)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 8)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 9)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 9)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 9)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 9)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 9)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 9)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 10)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 10)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 10)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 10)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 10)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 10)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 11)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 11)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 11)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 11)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 11)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 11)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 12)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 12)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 12)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 12)",
+          "example_sentence": "荷物を渚備します。"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Fundamentals for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Fundamentals."
+      }
+    },
+    {
+      "moduleId": "jp_a2_m2",
+      "theme": "Communication",
+      "order": 12,
+      "vocabularyItems": [
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 1)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 1)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 1)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 1)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 1)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 1)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 2)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 2)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 2)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 2)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 2)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 2)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 3)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 3)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 3)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 3)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 3)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 3)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 4)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 4)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 4)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 4)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 4)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 4)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 5)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 5)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 5)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 5)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 5)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 5)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 6)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 6)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 6)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 6)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 6)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 6)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 7)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 7)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 7)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 7)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 7)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 7)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 8)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 8)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 8)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 8)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 8)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 8)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 9)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 9)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 9)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 9)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 9)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 9)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 10)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 10)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 10)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 10)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 10)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 10)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 11)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 11)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 11)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 11)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 11)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 11)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 12)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 12)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 12)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 12)",
+          "example_sentence": "朝ご飯を食べました。"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Communication for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Communication."
+      }
+    },
+    {
+      "moduleId": "jp_a2_m3",
+      "theme": "Daily Life",
+      "order": 13,
+      "vocabularyItems": [
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 1)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 1)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 1)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 1)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 1)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 1)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 2)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 2)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 2)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 2)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 2)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 2)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 3)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 3)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 3)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 3)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 3)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 3)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 4)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 4)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 4)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 4)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 4)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 4)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 5)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 5)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 5)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 5)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 5)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 5)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 6)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 6)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 6)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 6)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 6)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 6)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 7)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 7)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 7)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 7)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 7)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 7)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 8)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 8)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 8)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 8)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 8)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 8)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 9)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 9)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 9)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 9)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 9)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 9)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 10)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 10)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 10)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 10)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 10)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 10)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 11)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 11)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 11)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 11)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 11)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 11)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 12)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 12)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 12)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 12)",
+          "example_sentence": "飛行機が遅れています。"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Daily Life for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Daily Life."
+      }
+    },
+    {
+      "moduleId": "jp_a2_m4",
+      "theme": "Travel",
+      "order": 14,
+      "vocabularyItems": [
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 1)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 1)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 1)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 1)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 1)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 1)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 2)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 2)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 2)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 2)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 2)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 2)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 3)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 3)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 3)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 3)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 3)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 3)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 4)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 4)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 4)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 4)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 4)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 4)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 5)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 5)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 5)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 5)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 5)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 5)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 6)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 6)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 6)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 6)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 6)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 6)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 7)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 7)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 7)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 7)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 7)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 7)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 8)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 8)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 8)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 8)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 8)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 8)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 9)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 9)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 9)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 9)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 9)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 9)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 10)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 10)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 10)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 10)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 10)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 10)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 11)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 11)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 11)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 11)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 11)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 11)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 12)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 12)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 12)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 12)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Travel for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Travel."
+      }
+    },
+    {
+      "moduleId": "jp_a2_m5",
+      "theme": "Socializing",
+      "order": 15,
+      "vocabularyItems": [
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 1)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 1)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 1)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 1)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 1)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 1)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 2)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 2)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 2)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 2)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 2)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 2)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 3)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 3)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 3)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 3)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 3)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 3)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 4)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 4)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 4)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 4)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 4)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 4)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 5)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 5)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 5)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 5)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 5)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 5)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 6)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 6)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 6)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 6)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 6)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 6)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 7)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 7)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 7)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 7)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 7)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 7)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 8)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 8)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 8)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 8)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 8)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 8)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 9)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 9)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 9)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 9)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 9)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 9)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 10)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 10)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 10)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 10)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 10)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 10)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 11)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 11)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 11)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 11)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 11)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 11)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 12)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 12)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 12)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 12)",
+          "example_sentence": "昨日は雨でした。"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Socializing for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Socializing."
+      }
+    },
+    {
+      "moduleId": "jp_a2_m6",
+      "theme": "Nature",
+      "order": 16,
+      "vocabularyItems": [
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 1)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 1)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 1)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 1)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 1)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 1)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 2)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 2)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 2)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 2)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 2)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 2)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 3)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 3)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 3)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 3)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 3)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 3)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 4)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 4)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 4)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 4)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 4)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 4)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 5)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 5)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 5)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 5)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 5)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 5)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 6)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 6)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 6)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 6)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 6)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 6)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 7)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 7)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 7)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 7)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 7)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 7)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 8)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 8)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 8)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 8)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 8)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 8)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 9)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 9)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 9)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 9)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 9)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 9)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 10)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 10)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 10)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 10)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 10)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 10)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 11)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 11)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 11)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 11)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 11)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 11)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 12)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 12)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 12)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 12)",
+          "example_sentence": "駅で待っています。"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Nature for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Nature."
+      }
+    },
+    {
+      "moduleId": "jp_a2_m7",
+      "theme": "Work & Study",
+      "order": 17,
+      "vocabularyItems": [
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 1)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 1)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 1)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 1)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 1)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 1)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 2)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 2)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 2)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 2)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 2)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 2)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 3)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 3)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 3)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 3)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 3)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 3)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 4)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 4)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 4)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 4)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 4)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 4)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 5)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 5)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 5)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 5)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 5)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 5)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 6)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 6)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 6)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 6)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 6)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 6)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 7)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 7)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 7)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 7)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 7)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 7)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 8)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 8)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 8)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 8)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 8)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 8)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 9)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 9)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 9)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 9)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 9)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 9)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 10)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 10)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 10)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 10)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 10)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 10)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 11)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 11)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 11)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 11)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 11)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 11)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 12)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 12)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 12)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 12)",
+          "example_sentence": "東丬へ行きました。"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Work & Study for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Work & Study."
+      }
+    },
+    {
+      "moduleId": "jp_a2_m8",
+      "theme": "Emotions",
+      "order": 18,
+      "vocabularyItems": [
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 1)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 1)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 1)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 1)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 1)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 1)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 2)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 2)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 2)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 2)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 2)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 2)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 3)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 3)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 3)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 3)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 3)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 3)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 4)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 4)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 4)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 4)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 4)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 4)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 5)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 5)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 5)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 5)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 5)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 5)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 6)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 6)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 6)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 6)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 6)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 6)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 7)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 7)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 7)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 7)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 7)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 7)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 8)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 8)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 8)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 8)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 8)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 8)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 9)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 9)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 9)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 9)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 9)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 9)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 10)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 10)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 10)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 10)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 10)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 10)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 11)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 11)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 11)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 11)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 11)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 11)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 12)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 12)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 12)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 12)",
+          "example_sentence": "京都観光をします。"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Emotions for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Emotions."
+      }
+    },
+    {
+      "moduleId": "jp_a2_m9",
+      "theme": "Culture",
+      "order": 19,
+      "vocabularyItems": [
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 1)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 1)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 1)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 1)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 1)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 1)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 2)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 2)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 2)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 2)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 2)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 2)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 3)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 3)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 3)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 3)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 3)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 3)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 4)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 4)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 4)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 4)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 4)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 4)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 5)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 5)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 5)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 5)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 5)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 5)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 6)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 6)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 6)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 6)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 6)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 6)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 7)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 7)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 7)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 7)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 7)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 7)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 8)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 8)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 8)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 8)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 8)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 8)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 9)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 9)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 9)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 9)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 9)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 9)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 10)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 10)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 10)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 10)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 10)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 10)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 11)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 11)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 11)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 11)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 11)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 11)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 12)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 12)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 12)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 12)",
+          "example_sentence": "荷物を渚備します。"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Culture for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Culture."
+      }
+    },
+    {
+      "moduleId": "jp_a2_m10",
+      "theme": "Review",
+      "order": 20,
+      "vocabularyItems": [
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 1)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 1)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 1)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 1)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 1)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 1)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 1)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 2)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 2)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 2)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 2)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 2)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 2)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 2)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 3)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 3)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 3)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 3)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 3)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 3)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 3)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 4)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 4)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 4)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 4)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 4)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 4)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 4)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 5)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 5)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 5)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 5)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 5)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 5)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 5)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 6)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 6)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 6)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 6)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 6)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 6)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 6)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 7)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 7)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 7)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 7)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 7)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 7)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 7)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 8)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 8)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 8)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 8)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 8)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 8)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 8)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 9)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 9)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 9)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 9)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 9)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 9)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 9)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 10)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 10)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 10)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 10)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 10)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 10)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 10)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 11)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 11)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 11)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 11)",
+          "example_sentence": "朝ご飯を食べました。"
+        },
+        {
+          "word": "行きました",
+          "reading": "ikimashita",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "東丬へ行きました。"
+        },
+        {
+          "word": "旅行",
+          "reading": "ryokou",
+          "meaning": "Trip (Var 11)",
+          "example_sentence": "日本旅行は楽しかったです。"
+        },
+        {
+          "word": "荷物",
+          "reading": "nimotsu",
+          "meaning": "Luggage (Var 11)",
+          "example_sentence": "荷物を渚備します。"
+        },
+        {
+          "word": "駅",
+          "reading": "eki",
+          "meaning": "Station (Var 11)",
+          "example_sentence": "駅で待っています。"
+        },
+        {
+          "word": "飛行機",
+          "reading": "hikouki",
+          "meaning": "Plane (Var 12)",
+          "example_sentence": "飛行機が遅れています。"
+        },
+        {
+          "word": "観光",
+          "reading": "kankou",
+          "meaning": "Sightseeing (Var 12)",
+          "example_sentence": "京都観光をします。"
+        },
+        {
+          "word": "昨日",
+          "reading": "kinou",
+          "meaning": "Yesterday (Var 12)",
+          "example_sentence": "昨日は雨でした。"
+        },
+        {
+          "word": "食べました",
+          "reading": "tabemashita",
+          "meaning": "Ate (Past) (Var 12)",
+          "example_sentence": "朝ご飯を食べました。"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Review for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Review."
+      }
+    }
+  ]
+}

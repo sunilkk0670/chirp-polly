@@ -1,0 +1,610 @@
+{
+  "id": "fr_a2_m18",
+  "moduleId": "fr_a2_m18",
+  "name": "A2 French - Module 18: Arts & Culture",
+  "theme": "A2 French - Module 18: Arts & Culture",
+  "order": 18,
+  "count": 100,
+  "vocabularyItems": [
+    {
+      "word": "Culture",
+      "meaning": "Culture",
+      "reading": "kool-toor",
+      "example_sentence": "La culture française est riche."
+    },
+    {
+      "word": "Artiste",
+      "meaning": "Artist",
+      "reading": "ar-teest",
+      "example_sentence": "Un artiste talentueux."
+    },
+    {
+      "word": "Peintre",
+      "meaning": "Painter",
+      "reading": "pan-truh",
+      "example_sentence": "Mon frère est peintre."
+    },
+    {
+      "word": "Écrivain",
+      "meaning": "Writer",
+      "reading": "ay-kree-vah",
+      "example_sentence": "Un écrivain célèbre."
+    },
+    {
+      "word": "Musicien",
+      "meaning": "Musician",
+      "reading": "moo-zee-syah",
+      "example_sentence": "Elle est musicienne."
+    },
+    {
+      "word": "Acteur",
+      "meaning": "Actor",
+      "reading": "ak-tur",
+      "example_sentence": "Un acteur connu."
+    },
+    {
+      "word": "Actrice",
+      "meaning": "Actress",
+      "reading": "ak-trees",
+      "example_sentence": "Une excellente actrice."
+    },
+    {
+      "word": "Spectacle",
+      "meaning": "Show / Performance",
+      "reading": "spek-ta-kluh",
+      "example_sentence": "Quel beau spectacle !"
+    },
+    {
+      "word": "Théâtre",
+      "meaning": "Theater",
+      "reading": "tay-a-truh",
+      "example_sentence": "Aller au théâtre."
+    },
+    {
+      "word": "Cinéma",
+      "meaning": "Cinema / Movies",
+      "reading": "see-nay-ma",
+      "example_sentence": "Le septième art."
+    },
+    {
+      "word": "Musée",
+      "meaning": "Museum",
+      "reading": "moo-zay",
+      "example_sentence": "Visiter une galerie au musée."
+    },
+    {
+      "word": "Exposition",
+      "meaning": "Exhibition",
+      "reading": "ek-spoh-zee-syohn",
+      "example_sentence": "Une expo de photos."
+    },
+    {
+      "word": "Peinture",
+      "meaning": "Painting",
+      "reading": "pan-toor",
+      "example_sentence": "Une peinture à l'huile."
+    },
+    {
+      "word": "Dessin",
+      "meaning": "Drawing",
+      "reading": "day-sa",
+      "example_sentence": "Faire un dessin."
+    },
+    {
+      "word": "Sculpture",
+      "meaning": "Sculpture",
+      "reading": "skool-toor",
+      "example_sentence": "Une sculpture moderne."
+    },
+    {
+      "word": "Architecture",
+      "meaning": "Architecture",
+      "reading": "ar-shee-tek-toor",
+      "example_sentence": "L'architecture gothique."
+    },
+    {
+      "word": "Musique",
+      "meaning": "Music",
+      "reading": "moo-zeek",
+      "example_sentence": "Écouter de la musique classique."
+    },
+    {
+      "word": "Chanson",
+      "meaning": "Song",
+      "reading": "shahn-soh",
+      "example_sentence": "Une chanson d'amour."
+    },
+    {
+      "word": "Chanteur",
+      "meaning": "Singer",
+      "reading": "shahn-tur",
+      "example_sentence": "Un chanteur populaire."
+    },
+    {
+      "word": "Concert",
+      "meaning": "Concert",
+      "reading": "kohn-ser",
+      "example_sentence": "Le concert commence à 20h."
+    },
+    {
+      "word": "Instrument",
+      "meaning": "Instrument",
+      "reading": "an-stroo-mahn",
+      "example_sentence": "Jouer d'un instrument."
+    },
+    {
+      "word": "Piano",
+      "meaning": "Piano",
+      "reading": "pya-noh",
+      "example_sentence": "Jouer du piano."
+    },
+    {
+      "word": "Guitare",
+      "meaning": "Guitar",
+      "reading": "gee-tar",
+      "example_sentence": "Apprendre la guitare."
+    },
+    {
+      "word": "Violon",
+      "meaning": "Violin",
+      "reading": "vyoh-loh",
+      "example_sentence": "Un beau son de violon."
+    },
+    {
+      "word": "Batterie",
+      "meaning": "Drums",
+      "reading": "ba-tree",
+      "example_sentence": "Jouer de la batterie."
+    },
+    {
+      "word": "Danse",
+      "meaning": "Dance",
+      "reading": "dahns",
+      "example_sentence": "Prendre des cours de danse."
+    },
+    {
+      "word": "Ballet",
+      "meaning": "Ballet",
+      "reading": "ba-lay",
+      "example_sentence": "Une danseuse de ballet."
+    },
+    {
+      "word": "Opéra",
+      "meaning": "Opera",
+      "reading": "oh-pay-ra",
+      "example_sentence": "Aller à l'opéra."
+    },
+    {
+      "word": "Festival",
+      "meaning": "Festival",
+      "reading": "fes-tee-val",
+      "example_sentence": "Un festival de jazz."
+    },
+    {
+      "word": "Littérature",
+      "meaning": "Literature",
+      "reading": "lee-tay-ra-toor",
+      "example_sentence": "Aimer la littérature française."
+    },
+    {
+      "word": "Roman",
+      "meaning": "Novel",
+      "reading": "roh-mahn",
+      "example_sentence": "Lire un roman policier."
+    },
+    {
+      "word": "Poésie",
+      "meaning": "Poetry",
+      "reading": "poh-ay-zee",
+      "example_sentence": "Écrire de la poésie."
+    },
+    {
+      "word": "Poème",
+      "meaning": "Poem",
+      "reading": "poh-em",
+      "example_sentence": "Réciter un poème."
+    },
+    {
+      "word": "Livre",
+      "meaning": "Book",
+      "reading": "lee-vruh",
+      "example_sentence": "Un livre passionnant."
+    },
+    {
+      "word": "Bande dessinée",
+      "meaning": "Comic book",
+      "reading": "bahnd day-see-nay",
+      "example_sentence": "Lire une BD."
+    },
+    {
+      "word": "Histoire",
+      "meaning": "History / Story",
+      "reading": "ees-twahr",
+      "example_sentence": "Une histoire drôle."
+    },
+    {
+      "word": "Conte",
+      "meaning": "Tale / Story",
+      "reading": "kohnt",
+      "example_sentence": "Un conte de fées."
+    },
+    {
+      "word": "Bibliothèque",
+      "meaning": "Library",
+      "reading": "bee-blee-oh-tek",
+      "example_sentence": "Réviser à la bibliothèque."
+    },
+    {
+      "word": "Patrimoine",
+      "meaning": "Heritage",
+      "reading": "pa-tree-mwan",
+      "example_sentence": "Le patrimoine mondial."
+    },
+    {
+      "word": "Monument",
+      "meaning": "Monument",
+      "reading": "moh-noo-mahn",
+      "example_sentence": "Un monument historique."
+    },
+    {
+      "word": "Château",
+      "meaning": "Castle",
+      "reading": "sha-toh",
+      "example_sentence": "Visiter les châteaux de la Loire."
+    },
+    {
+      "word": "Cathédrale",
+      "meaning": "Cathedral",
+      "reading": "ka-tay-dral",
+      "example_sentence": "Une cathédrale immense."
+    },
+    {
+      "word": "Église",
+      "meaning": "Church",
+      "reading": "ay-gleez",
+      "example_sentence": "L'église du village."
+    },
+    {
+      "word": "Tradition",
+      "meaning": "Tradition",
+      "reading": "tra-dee-syohn",
+      "example_sentence": "Respecter les traditions."
+    },
+    {
+      "word": "Coutume",
+      "meaning": "Custom",
+      "reading": "koo-toom",
+      "example_sentence": "Une coutume locale."
+    },
+    {
+      "word": "Folklore",
+      "meaning": "Folklore",
+      "reading": "fohl-klor",
+      "example_sentence": "Le folklore régional."
+    },
+    {
+      "word": "Fête populaire",
+      "meaning": "Folk festival",
+      "reading": "fet poh-poo-ler",
+      "example_sentence": "Une fête populaire."
+    },
+    {
+      "word": "Gastronomie",
+      "meaning": "Gastronomy",
+      "reading": "gas-troh-noh-mee",
+      "example_sentence": "La gastronomie française."
+    },
+    {
+      "word": "Cuisine",
+      "meaning": "Cuisine / Kitchen",
+      "reading": "kwee-zeen",
+      "example_sentence": "La cuisine du monde."
+    },
+    {
+      "word": "Spécialité",
+      "meaning": "Specialty",
+      "reading": "spay-syah-lee-tay",
+      "example_sentence": "Quelle est la spécialité locale ?"
+    },
+    {
+      "word": "Recette",
+      "meaning": "Recipe",
+      "reading": "ruh-set",
+      "example_sentence": "Une recette de grand-mère."
+    },
+    {
+      "word": "Ingrédient",
+      "meaning": "Ingredient",
+      "reading": "an-gray-dyah",
+      "example_sentence": "Acheter les ingrédients."
+    },
+    {
+      "word": "Dégustation",
+      "meaning": "Tasting",
+      "reading": "day-goos-ta-syohn",
+      "example_sentence": "Une dégustation de vin."
+    },
+    {
+      "word": "Saveur",
+      "meaning": "Flavor",
+      "reading": "sa-vur",
+      "example_sentence": "Une saveur épicée."
+    },
+    {
+      "word": "Parfum",
+      "meaning": "Scent / Flavor",
+      "reading": "par-fa",
+      "example_sentence": "Une glace parfum vanille."
+    },
+    {
+      "word": "Élégance",
+      "meaning": "Elegance",
+      "reading": "ay-lay-gahns",
+      "example_sentence": "L'élégance à la française."
+    },
+    {
+      "word": "Mode",
+      "meaning": "Fashion",
+      "reading": "mohd",
+      "example_sentence": "La mode de Paris."
+    },
+    {
+      "word": "Style",
+      "meaning": "Style",
+      "reading": "steel",
+      "example_sentence": "Avoir du style."
+    },
+    {
+      "word": "Vêtement",
+      "meaning": "Clothing",
+      "reading": "vet-mahn",
+      "example_sentence": "Un vêtement de marque."
+    },
+    {
+      "word": "Créateur",
+      "meaning": "Creator / Designer",
+      "reading": "kray-a-tur",
+      "example_sentence": "Un créateur de mode."
+    },
+    {
+      "word": "Défilé",
+      "meaning": "Parade / Fashion show",
+      "reading": "day-fee-lay",
+      "example_sentence": "Assister à un défilé."
+    },
+    {
+      "word": "Luxe",
+      "meaning": "Luxury",
+      "reading": "looks",
+      "example_sentence": "Un hôtel de luxe."
+    },
+    {
+      "word": "Beauté",
+      "meaning": "Beauty",
+      "reading": "boh-tay",
+      "example_sentence": "La beauté d'un paysage."
+    },
+    {
+      "word": "Inspiration",
+      "meaning": "Inspiration",
+      "reading": "an-spee-ra-syohn",
+      "example_sentence": "Trouver l'inspiration."
+    },
+    {
+      "word": "Créativité",
+      "meaning": "Creativity",
+      "reading": "kray-a-tee-vee-tay",
+      "example_sentence": "Manquer de créativité."
+    },
+    {
+      "word": "Imagination",
+      "meaning": "Imagination",
+      "reading": "ee-ma-zhee-na-syohn",
+      "example_sentence": "Utiliser son imagination."
+    },
+    {
+      "word": "Talent",
+      "meaning": "Talent",
+      "reading": "ta-lah",
+      "example_sentence": "Un grand talent musical."
+    },
+    {
+      "word": "Don",
+      "meaning": "Gift / Talent",
+      "reading": "doh",
+      "example_sentence": "Elle a un don pour le dessin."
+    },
+    {
+      "word": "Apprécier",
+      "meaning": "To appreciate",
+      "reading": "a-pray-syay",
+      "example_sentence": "J'apprécie cet art."
+    },
+    {
+      "word": "Critiquer",
+      "meaning": "To criticize",
+      "reading": "kree-tee-kay",
+      "example_sentence": "Ne critiquez pas sans savoir."
+    },
+    {
+      "word": "Collection",
+      "meaning": "Collection",
+      "reading": "koh-lek-syohn",
+      "example_sentence": "Une collection d'art."
+    },
+    {
+      "word": "Objet d'art",
+      "meaning": "Work of art",
+      "reading": "ob-zhay dar",
+      "example_sentence": "Un bel objet d'art."
+    },
+    {
+      "word": "Original",
+      "meaning": "Original",
+      "reading": "oh-ree-zhee-nal",
+      "example_sentence": "Un tableau original."
+    },
+    {
+      "word": "Copie",
+      "meaning": "Copy",
+      "reading": "koh-pee",
+      "example_sentence": "C'est une simple copie."
+    },
+    {
+      "word": "Chef-d'œuvre",
+      "meaning": "Masterpiece",
+      "reading": "she-duh-vruh",
+      "example_sentence": "Le Louvre possède des chefs-d'œuvre."
+    },
+    {
+      "word": "Caduque",
+      "meaning": "Obsolete / Caducous",
+      "reading": "ka-dook",
+      "example_sentence": "Un style caduque."
+    },
+    {
+      "word": "Moderne",
+      "meaning": "Modern",
+      "reading": "moh-dern",
+      "example_sentence": "L'art moderne."
+    },
+    {
+      "word": "Contemporain",
+      "meaning": "Contemporary",
+      "reading": "kohn-tahm-poh-rah",
+      "example_sentence": "L'art contemporain."
+    },
+    {
+      "word": "Classique",
+      "meaning": "Classic",
+      "reading": "kla-seek",
+      "example_sentence": "La musique classique."
+    },
+    {
+      "word": "Populaire",
+      "meaning": "Popular / Folk",
+      "reading": "poh-poo-ler",
+      "example_sentence": "La culture populaire."
+    },
+    {
+      "word": "Élitiste",
+      "meaning": "Elitist",
+      "reading": "ay-lee-teest",
+      "example_sentence": "Un art élitiste."
+    },
+    {
+      "word": "Public",
+      "meaning": "Public / Audience",
+      "reading": "poo-bleek",
+      "example_sentence": "Le public applaudit."
+    },
+    {
+      "word": "Spectateur",
+      "meaning": "Spectator",
+      "reading": "spek-ta-tur",
+      "example_sentence": "Un spectateur attentif."
+    },
+    {
+      "word": "Auditeur",
+      "meaning": "Listener",
+      "reading": "oh-dee-tur",
+      "example_sentence": "Les auditeurs de la radio."
+    },
+    {
+      "word": "Lecteur",
+      "meaning": "Reader",
+      "reading": "lek-tur",
+      "example_sentence": "Un lecteur assidu."
+    },
+    {
+      "word": "Amateur",
+      "meaning": "Amateur / Lover of art",
+      "reading": "a-ma-tur",
+      "example_sentence": "Un amateur d'art."
+    },
+    {
+      "word": "Passionné",
+      "meaning": "Passionate / Fan",
+      "reading": "pa-syoh-nay",
+      "example_sentence": "Un passionné de cinéma."
+    },
+    {
+      "word": "Curieux",
+      "meaning": "Curious",
+      "reading": "koo-ryuh",
+      "example_sentence": "Soyez curieux de tout."
+    },
+    {
+      "word": "Ouverture d'esprit",
+      "meaning": "Open-mindedness",
+      "reading": "oo-ver-toor des-pree",
+      "example_sentence": "L'ouverture d'esprit est nécessaire."
+    },
+    {
+      "word": "Diversité",
+      "meaning": "Diversity",
+      "reading": "dee-ver-see-tay",
+      "example_sentence": "La diversité culturelle."
+    },
+    {
+      "word": "Échange",
+      "meaning": "Exchange",
+      "reading": "ay-shahnzh",
+      "example_sentence": "Un échange culturel."
+    },
+    {
+      "word": "Voyage",
+      "meaning": "Voyage / Travel",
+      "reading": "vwa-yazh",
+      "example_sentence": "Le voyage forme la jeunesse."
+    },
+    {
+      "word": "Découverte",
+      "meaning": "Discovery",
+      "reading": "day-koo-vert",
+      "example_sentence": "Une belle découverte."
+    },
+    {
+      "word": "Apprentissage",
+      "meaning": "Learning",
+      "reading": "a-prahn-tee-sazh",
+      "example_sentence": "L'apprentissage d'une langue."
+    },
+    {
+      "word": "Éducation",
+      "meaning": "Education",
+      "reading": "ay-doo-ka-syohn",
+      "example_sentence": "L'éducation artistique."
+    },
+    {
+      "word": "Savoir",
+      "meaning": "Knowledge / To know",
+      "reading": "sa-vwahr",
+      "example_sentence": "Le savoir est une richesse."
+    },
+    {
+      "word": "Connaissance",
+      "meaning": "Knowledge",
+      "reading": "koh-ne-sahns",
+      "example_sentence": "Approfondir ses connaissances."
+    },
+    {
+      "word": "Esprit",
+      "meaning": "Spirit / Mind",
+      "reading": "es-pree",
+      "example_sentence": "Un esprit critique."
+    },
+    {
+      "word": "Société",
+      "meaning": "Society",
+      "reading": "soh-syay-tay",
+      "example_sentence": "Vivre en société."
+    },
+    {
+      "word": "Valeur",
+      "meaning": "Value",
+      "reading": "va-lur",
+      "example_sentence": "Les valeurs morales."
+    }
+  ]
+}

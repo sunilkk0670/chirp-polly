@@ -1,0 +1,6134 @@
+{
+  "modules": [
+    {
+      "moduleId": "fr_a1_m1",
+      "theme": "Fundamentals",
+      "order": 1,
+      "vocabularyItems": [
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 1)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 1)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 1)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 1)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 2)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 2)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 2)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 2)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 3)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 3)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 3)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 3)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 4)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 4)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 4)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 4)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 5)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 5)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 5)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 5)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 6)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 6)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 6)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 6)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 7)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 7)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 7)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 7)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 8)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 8)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 8)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 8)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 9)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 9)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 9)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 9)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 10)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 10)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 10)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 10)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 11)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 11)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 11)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 11)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 12)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 12)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 12)",
+          "example_sentence": "Ma maison est petite."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Fundamentals for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Fundamentals."
+      }
+    },
+    {
+      "moduleId": "fr_a1_m2",
+      "theme": "Communication",
+      "order": 2,
+      "vocabularyItems": [
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 1)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 1)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 1)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 1)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 2)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 2)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 2)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 2)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 3)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 3)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 3)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 3)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 4)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 4)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 4)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 4)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 5)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 5)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 5)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 5)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 6)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 6)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 6)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 6)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 7)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 7)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 7)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 7)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 8)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 8)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 8)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 8)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 9)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 9)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 9)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 9)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 10)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 10)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 10)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 10)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 11)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 11)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 11)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 11)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 12)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 12)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 12)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Communication for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Communication."
+      }
+    },
+    {
+      "moduleId": "fr_a1_m3",
+      "theme": "Daily Life",
+      "order": 3,
+      "vocabularyItems": [
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 1)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 1)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 1)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 1)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 2)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 2)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 2)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 2)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 3)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 3)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 3)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 3)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 4)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 4)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 4)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 4)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 5)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 5)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 5)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 5)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 6)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 6)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 6)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 6)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 7)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 7)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 7)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 7)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 8)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 8)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 8)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 8)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 9)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 9)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 9)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 9)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 10)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 10)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 10)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 10)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 11)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 11)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 11)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 11)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 12)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 12)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 12)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 12)",
+          "example_sentence": "Je veux manger du pain."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Daily Life for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Daily Life."
+      }
+    },
+    {
+      "moduleId": "fr_a1_m4",
+      "theme": "Travel",
+      "order": 4,
+      "vocabularyItems": [
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 1)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 1)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 1)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 1)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 2)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 2)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 2)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 2)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 3)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 3)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 3)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 3)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 4)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 4)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 4)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 4)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 5)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 5)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 5)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 5)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 6)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 6)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 6)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 6)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 7)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 7)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 7)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 7)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 8)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 8)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 8)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 8)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 9)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 9)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 9)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 9)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 10)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 10)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 10)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 10)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 11)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 11)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 11)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 11)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 12)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 12)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 12)",
+          "example_sentence": "C’est mon meilleur ami."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Travel for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Travel."
+      }
+    },
+    {
+      "moduleId": "fr_a1_m5",
+      "theme": "Socializing",
+      "order": 5,
+      "vocabularyItems": [
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 1)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 1)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 1)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 1)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 2)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 2)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 2)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 2)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 3)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 3)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 3)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 3)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 4)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 4)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 4)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 4)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 5)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 5)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 5)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 5)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 6)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 6)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 6)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 6)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 7)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 7)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 7)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 7)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 8)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 8)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 8)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 8)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 9)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 9)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 9)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 9)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 10)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 10)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 10)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 10)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 11)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 11)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 11)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 11)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 12)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 12)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 12)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 12)",
+          "example_sentence": "J’aime ma famille."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Socializing for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Socializing."
+      }
+    },
+    {
+      "moduleId": "fr_a1_m6",
+      "theme": "Nature",
+      "order": 6,
+      "vocabularyItems": [
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 1)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 1)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 1)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 1)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 2)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 2)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 2)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 2)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 3)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 3)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 3)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 3)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 4)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 4)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 4)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 4)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 5)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 5)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 5)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 5)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 6)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 6)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 6)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 6)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 7)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 7)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 7)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 7)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 8)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 8)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 8)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 8)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 9)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 9)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 9)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 9)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 10)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 10)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 10)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 10)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 11)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 11)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 11)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 11)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 12)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 12)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 12)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 12)",
+          "example_sentence": "Le chat aime le lait."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Nature for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Nature."
+      }
+    },
+    {
+      "moduleId": "fr_a1_m7",
+      "theme": "Work & Study",
+      "order": 7,
+      "vocabularyItems": [
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 1)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 1)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 1)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 1)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 2)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 2)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 2)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 2)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 3)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 3)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 3)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 3)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 4)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 4)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 4)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 4)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 5)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 5)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 5)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 5)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 6)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 6)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 6)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 6)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 7)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 7)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 7)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 7)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 8)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 8)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 8)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 8)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 9)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 9)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 9)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 9)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 10)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 10)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 10)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 10)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 11)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 11)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 11)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 11)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 12)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 12)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 12)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Work & Study for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Work & Study."
+      }
+    },
+    {
+      "moduleId": "fr_a1_m8",
+      "theme": "Emotions",
+      "order": 8,
+      "vocabularyItems": [
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 1)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 1)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 1)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 1)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 2)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 2)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 2)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 2)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 3)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 3)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 3)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 3)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 4)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 4)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 4)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 4)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 5)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 5)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 5)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 5)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 6)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 6)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 6)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 6)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 7)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 7)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 7)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 7)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 8)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 8)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 8)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 8)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 9)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 9)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 9)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 9)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 10)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 10)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 10)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 10)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 11)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 11)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 11)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 11)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 12)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 12)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 12)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 12)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Emotions for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Emotions."
+      }
+    },
+    {
+      "moduleId": "fr_a1_m9",
+      "theme": "Culture",
+      "order": 9,
+      "vocabularyItems": [
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 1)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 1)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 1)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 1)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 2)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 2)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 2)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 2)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 3)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 3)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 3)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 3)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 4)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 4)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 4)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 4)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 5)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 5)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 5)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 5)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 6)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 6)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 6)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 6)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 7)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 7)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 7)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 7)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 8)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 8)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 8)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 8)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 9)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 9)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 9)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 9)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 10)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 10)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 10)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 10)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 11)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 11)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 11)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 11)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 12)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 12)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 12)",
+          "example_sentence": "Ma maison est petite."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Culture for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Culture."
+      }
+    },
+    {
+      "moduleId": "fr_a1_m10",
+      "theme": "Review",
+      "order": 10,
+      "vocabularyItems": [
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 1)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 1)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 1)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 1)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 1)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 1)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 1)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 1)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 2)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 2)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 2)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 2)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 2)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 2)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 2)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 2)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 3)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 3)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 3)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 3)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 3)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 3)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 3)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 3)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 4)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 4)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 4)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 4)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 4)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 4)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 4)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 4)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 5)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 5)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 5)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 5)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 5)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 5)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 5)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 5)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 6)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 6)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 6)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 6)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 6)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 6)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 6)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 6)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 7)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 7)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 7)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 7)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 7)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 7)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 7)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 7)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 8)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 8)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 8)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 8)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 8)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 8)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 8)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 8)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 9)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 9)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 9)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 9)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 9)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 9)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 9)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 9)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 10)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 10)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 10)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 10)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 10)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 10)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 10)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 10)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 11)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 11)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 11)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 11)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        },
+        {
+          "word": "Merci",
+          "reading": null,
+          "meaning": "Thank you (Var 11)",
+          "example_sentence": "Merci beaucoup pour votre aide."
+        },
+        {
+          "word": "Ami",
+          "reading": null,
+          "meaning": "Friend (Var 11)",
+          "example_sentence": "C’est mon meilleur ami."
+        },
+        {
+          "word": "Maison",
+          "reading": null,
+          "meaning": "House (Var 11)",
+          "example_sentence": "Ma maison est petite."
+        },
+        {
+          "word": "Chat",
+          "reading": null,
+          "meaning": "Cat (Var 11)",
+          "example_sentence": "Le chat aime le lait."
+        },
+        {
+          "word": "Manger",
+          "reading": null,
+          "meaning": "To eat (Var 12)",
+          "example_sentence": "Je veux manger du pain."
+        },
+        {
+          "word": "Eau",
+          "reading": null,
+          "meaning": "Water (Var 12)",
+          "example_sentence": "Je bois de l’eau fraîche."
+        },
+        {
+          "word": "Famille",
+          "reading": null,
+          "meaning": "Family (Var 12)",
+          "example_sentence": "J’aime ma famille."
+        },
+        {
+          "word": "Bonjour",
+          "reading": null,
+          "meaning": "Hello (Var 12)",
+          "example_sentence": "Bonjour, enchanté de vous rencontrer."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Review for A1",
+        "correctVersion": "The correct way to use these A1 concepts.",
+        "explanation": "Detailed linguistic focus for A1 learners in Review."
+      }
+    }
+  ]
+}

@@ -1,0 +1,6134 @@
+{
+  "modules": [
+    {
+      "moduleId": "kr_b1_m1",
+      "theme": "Fundamentals",
+      "order": 21,
+      "vocabularyItems": [
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to...",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 1)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 1)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 1)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 1)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 1)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 1)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 1)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 1)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 2)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 2)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 2)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 2)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 2)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 2)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 2)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 2)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 3)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 3)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 3)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 3)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 3)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 3)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 3)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 3)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 4)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 4)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 4)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 4)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 4)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 4)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 4)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 4)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 5)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 5)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 5)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 5)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 5)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 5)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 5)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 5)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 6)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 6)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 6)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 6)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 6)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 6)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 6)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 6)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 7)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 7)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 7)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 7)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 7)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 7)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 7)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 7)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 8)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 8)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 8)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 8)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 8)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 8)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 8)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 8)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 9)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 9)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 9)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 9)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 9)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 9)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 9)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 9)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 10)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 10)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 10)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 10)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 10)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 10)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 10)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 10)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 11)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 11)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 11)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 11)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 11)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 11)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 11)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 11)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 12)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 12)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 12)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 12)",
+          "example_sentence": "현대 사회의 문제점."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Fundamentals for B1",
+        "correctVersion": "The correct way to use these B1 concepts.",
+        "explanation": "Detailed linguistic focus for B1 learners in Fundamentals."
+      }
+    },
+    {
+      "moduleId": "kr_b1_m2",
+      "theme": "Communication",
+      "order": 22,
+      "vocabularyItems": [
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to...",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 1)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 1)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 1)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 1)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 1)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 1)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 1)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 1)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 2)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 2)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 2)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 2)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 2)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 2)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 2)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 2)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 3)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 3)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 3)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 3)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 3)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 3)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 3)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 3)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 4)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 4)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 4)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 4)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 4)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 4)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 4)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 4)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 5)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 5)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 5)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 5)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 5)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 5)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 5)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 5)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 6)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 6)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 6)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 6)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 6)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 6)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 6)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 6)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 7)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 7)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 7)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 7)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 7)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 7)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 7)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 7)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 8)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 8)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 8)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 8)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 8)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 8)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 8)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 8)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 9)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 9)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 9)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 9)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 9)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 9)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 9)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 9)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 10)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 10)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 10)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 10)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 10)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 10)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 10)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 10)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 11)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 11)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 11)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 11)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 11)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 11)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 11)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 11)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 12)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 12)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 12)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 12)",
+          "example_sentence": "한국에 가고 싶어요."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Communication for B1",
+        "correctVersion": "The correct way to use these B1 concepts.",
+        "explanation": "Detailed linguistic focus for B1 learners in Communication."
+      }
+    },
+    {
+      "moduleId": "kr_b1_m3",
+      "theme": "Daily Life",
+      "order": 23,
+      "vocabularyItems": [
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to...",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 1)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 1)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 1)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 1)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 1)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 1)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 1)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 1)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 2)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 2)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 2)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 2)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 2)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 2)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 2)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 2)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 3)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 3)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 3)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 3)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 3)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 3)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 3)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 3)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 4)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 4)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 4)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 4)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 4)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 4)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 4)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 4)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 5)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 5)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 5)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 5)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 5)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 5)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 5)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 5)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 6)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 6)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 6)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 6)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 6)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 6)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 6)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 6)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 7)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 7)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 7)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 7)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 7)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 7)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 7)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 7)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 8)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 8)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 8)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 8)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 8)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 8)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 8)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 8)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 9)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 9)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 9)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 9)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 9)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 9)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 9)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 9)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 10)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 10)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 10)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 10)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 10)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 10)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 10)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 10)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 11)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 11)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 11)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 11)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 11)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 11)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 11)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 11)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 12)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 12)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 12)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 12)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Daily Life for B1",
+        "correctVersion": "The correct way to use these B1 concepts.",
+        "explanation": "Detailed linguistic focus for B1 learners in Daily Life."
+      }
+    },
+    {
+      "moduleId": "kr_b1_m4",
+      "theme": "Travel",
+      "order": 24,
+      "vocabularyItems": [
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to...",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 1)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 1)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 1)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 1)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 1)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 1)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 1)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 1)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 2)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 2)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 2)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 2)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 2)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 2)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 2)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 2)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 3)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 3)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 3)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 3)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 3)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 3)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 3)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 3)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 4)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 4)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 4)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 4)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 4)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 4)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 4)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 4)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 5)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 5)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 5)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 5)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 5)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 5)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 5)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 5)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 6)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 6)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 6)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 6)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 6)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 6)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 6)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 6)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 7)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 7)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 7)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 7)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 7)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 7)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 7)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 7)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 8)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 8)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 8)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 8)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 8)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 8)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 8)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 8)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 9)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 9)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 9)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 9)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 9)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 9)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 9)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 9)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 10)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 10)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 10)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 10)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 10)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 10)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 10)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 10)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 11)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 11)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 11)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 11)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 11)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 11)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 11)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 11)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 12)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 12)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 12)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 12)",
+          "example_sentence": "제 의견은 다림니다."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Travel for B1",
+        "correctVersion": "The correct way to use these B1 concepts.",
+        "explanation": "Detailed linguistic focus for B1 learners in Travel."
+      }
+    },
+    {
+      "moduleId": "kr_b1_m5",
+      "theme": "Socializing",
+      "order": 25,
+      "vocabularyItems": [
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to...",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 1)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 1)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 1)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 1)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 1)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 1)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 1)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 1)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 2)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 2)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 2)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 2)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 2)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 2)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 2)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 2)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 3)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 3)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 3)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 3)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 3)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 3)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 3)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 3)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 4)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 4)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 4)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 4)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 4)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 4)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 4)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 4)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 5)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 5)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 5)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 5)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 5)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 5)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 5)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 5)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 6)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 6)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 6)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 6)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 6)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 6)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 6)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 6)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 7)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 7)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 7)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 7)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 7)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 7)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 7)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 7)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 8)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 8)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 8)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 8)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 8)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 8)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 8)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 8)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 9)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 9)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 9)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 9)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 9)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 9)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 9)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 9)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 10)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 10)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 10)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 10)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 10)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 10)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 10)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 10)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 11)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 11)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 11)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 11)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 11)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 11)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 11)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 11)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 12)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 12)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 12)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 12)",
+          "example_sentence": "자신을 믻으세요."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Socializing for B1",
+        "correctVersion": "The correct way to use these B1 concepts.",
+        "explanation": "Detailed linguistic focus for B1 learners in Socializing."
+      }
+    },
+    {
+      "moduleId": "kr_b1_m6",
+      "theme": "Nature",
+      "order": 26,
+      "vocabularyItems": [
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to...",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 1)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 1)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 1)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 1)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 1)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 1)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 1)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 1)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 2)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 2)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 2)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 2)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 2)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 2)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 2)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 2)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 3)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 3)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 3)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 3)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 3)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 3)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 3)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 3)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 4)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 4)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 4)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 4)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 4)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 4)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 4)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 4)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 5)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 5)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 5)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 5)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 5)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 5)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 5)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 5)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 6)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 6)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 6)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 6)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 6)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 6)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 6)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 6)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 7)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 7)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 7)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 7)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 7)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 7)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 7)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 7)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 8)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 8)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 8)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 8)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 8)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 8)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 8)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 8)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 9)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 9)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 9)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 9)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 9)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 9)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 9)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 9)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 10)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 10)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 10)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 10)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 10)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 10)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 10)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 10)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 11)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 11)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 11)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 11)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 11)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 11)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 11)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 11)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 12)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 12)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 12)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 12)",
+          "example_sentence": "감정 표현이 중요합니다."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Nature for B1",
+        "correctVersion": "The correct way to use these B1 concepts.",
+        "explanation": "Detailed linguistic focus for B1 learners in Nature."
+      }
+    },
+    {
+      "moduleId": "kr_b1_m7",
+      "theme": "Work & Study",
+      "order": 27,
+      "vocabularyItems": [
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to...",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 1)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 1)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 1)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 1)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 1)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 1)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 1)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 1)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 2)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 2)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 2)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 2)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 2)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 2)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 2)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 2)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 3)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 3)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 3)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 3)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 3)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 3)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 3)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 3)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 4)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 4)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 4)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 4)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 4)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 4)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 4)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 4)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 5)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 5)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 5)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 5)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 5)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 5)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 5)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 5)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 6)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 6)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 6)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 6)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 6)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 6)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 6)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 6)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 7)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 7)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 7)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 7)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 7)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 7)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 7)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 7)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 8)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 8)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 8)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 8)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 8)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 8)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 8)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 8)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 9)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 9)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 9)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 9)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 9)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 9)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 9)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 9)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 10)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 10)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 10)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 10)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 10)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 10)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 10)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 10)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 11)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 11)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 11)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 11)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 11)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 11)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 11)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 11)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 12)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 12)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 12)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 12)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Work & Study for B1",
+        "correctVersion": "The correct way to use these B1 concepts.",
+        "explanation": "Detailed linguistic focus for B1 learners in Work & Study."
+      }
+    },
+    {
+      "moduleId": "kr_b1_m8",
+      "theme": "Emotions",
+      "order": 28,
+      "vocabularyItems": [
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to...",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 1)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 1)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 1)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 1)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 1)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 1)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 1)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 1)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 2)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 2)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 2)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 2)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 2)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 2)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 2)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 2)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 3)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 3)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 3)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 3)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 3)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 3)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 3)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 3)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 4)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 4)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 4)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 4)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 4)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 4)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 4)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 4)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 5)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 5)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 5)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 5)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 5)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 5)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 5)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 5)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 6)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 6)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 6)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 6)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 6)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 6)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 6)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 6)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 7)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 7)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 7)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 7)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 7)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 7)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 7)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 7)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 8)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 8)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 8)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 8)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 8)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 8)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 8)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 8)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 9)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 9)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 9)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 9)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 9)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 9)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 9)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 9)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 10)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 10)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 10)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 10)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 10)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 10)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 10)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 10)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 11)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 11)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 11)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 11)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 11)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 11)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 11)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 11)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 12)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 12)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 12)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 12)",
+          "example_sentence": "희망을 밤지 만세요."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Emotions for B1",
+        "correctVersion": "The correct way to use these B1 concepts.",
+        "explanation": "Detailed linguistic focus for B1 learners in Emotions."
+      }
+    },
+    {
+      "moduleId": "kr_b1_m9",
+      "theme": "Culture",
+      "order": 29,
+      "vocabularyItems": [
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to...",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 1)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 1)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 1)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 1)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 1)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 1)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 1)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 1)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 2)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 2)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 2)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 2)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 2)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 2)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 2)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 2)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 3)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 3)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 3)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 3)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 3)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 3)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 3)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 3)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 4)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 4)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 4)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 4)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 4)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 4)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 4)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 4)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 5)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 5)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 5)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 5)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 5)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 5)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 5)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 5)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 6)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 6)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 6)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 6)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 6)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 6)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 6)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 6)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 7)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 7)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 7)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 7)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 7)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 7)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 7)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 7)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 8)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 8)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 8)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 8)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 8)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 8)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 8)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 8)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 9)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 9)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 9)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 9)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 9)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 9)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 9)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 9)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 10)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 10)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 10)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 10)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 10)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 10)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 10)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 10)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 11)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 11)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 11)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 11)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 11)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 11)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 11)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 11)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 12)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 12)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 12)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 12)",
+          "example_sentence": "현대 사회의 문제점."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Culture for B1",
+        "correctVersion": "The correct way to use these B1 concepts.",
+        "explanation": "Detailed linguistic focus for B1 learners in Culture."
+      }
+    },
+    {
+      "moduleId": "kr_b1_m10",
+      "theme": "Review",
+      "order": 30,
+      "vocabularyItems": [
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to...",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 1)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 1)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 1)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 1)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 1)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 1)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 1)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 1)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 2)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 2)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 2)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 2)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 2)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 2)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 2)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 2)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 3)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 3)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 3)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 3)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 3)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 3)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 3)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 3)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 4)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 4)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 4)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 4)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 4)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 4)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 4)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 4)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 5)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 5)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 5)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 5)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 5)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 5)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 5)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 5)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 6)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 6)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 6)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 6)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 6)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 6)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 6)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 6)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 7)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 7)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 7)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 7)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 7)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 7)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 7)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 7)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 8)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 8)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 8)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 8)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 8)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 8)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 8)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 8)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 9)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 9)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 9)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 9)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 9)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 9)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 9)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 9)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 10)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 10)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 10)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 10)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 10)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 10)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 10)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 10)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 11)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 11)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 11)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 11)",
+          "example_sentence": "한국에 가고 싶어요."
+        },
+        {
+          "word": "으면",
+          "reading": "umyeon",
+          "meaning": "If (Conditional) (Var 11)",
+          "example_sentence": "날씨가 좋으면 나갈게요."
+        },
+        {
+          "word": "의견",
+          "reading": "uigyeon",
+          "meaning": "Opinion (Var 11)",
+          "example_sentence": "제 의견은 다림니다."
+        },
+        {
+          "word": "사회",
+          "reading": "sahoe",
+          "meaning": "Society (Var 11)",
+          "example_sentence": "현대 사회의 문제점."
+        },
+        {
+          "word": "감정",
+          "reading": "gamjeong",
+          "meaning": "Emotion (Var 11)",
+          "example_sentence": "감정 표현이 중요합니다."
+        },
+        {
+          "word": "아마",
+          "reading": "ama",
+          "meaning": "Probably (Var 12)",
+          "example_sentence": "아마 내일 올 것 같아요."
+        },
+        {
+          "word": "희망",
+          "reading": "huimang",
+          "meaning": "Hope (Var 12)",
+          "example_sentence": "희망을 밤지 만세요."
+        },
+        {
+          "word": "믻다",
+          "reading": "mitda",
+          "meaning": "To believe (Var 12)",
+          "example_sentence": "자신을 믻으세요."
+        },
+        {
+          "word": "고 싶다",
+          "reading": "go sipda",
+          "meaning": "Want to... (Var 12)",
+          "example_sentence": "한국에 가고 싶어요."
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Review for B1",
+        "correctVersion": "The correct way to use these B1 concepts.",
+        "explanation": "Detailed linguistic focus for B1 learners in Review."
+      }
+    }
+  ]
+}

@@ -1,0 +1,6134 @@
+{
+  "modules": [
+    {
+      "moduleId": "sa_a2_m1",
+      "theme": "Fundamentals",
+      "order": 11,
+      "vocabularyItems": [
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 1)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 1)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 1)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 1)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 1)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 1)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 1)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 2)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 2)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 2)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 2)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 2)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 2)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 2)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 3)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 3)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 3)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 3)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 3)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 3)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 3)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 4)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 4)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 4)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 4)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 4)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 4)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 4)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 5)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 5)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 5)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 5)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 5)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 5)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 5)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 6)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 6)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 6)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 6)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 6)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 6)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 6)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 7)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 7)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 7)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 7)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 7)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 7)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 7)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 8)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 8)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 8)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 8)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 8)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 8)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 8)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 9)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 9)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 9)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 9)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 9)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 9)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 9)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 10)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 10)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 10)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 10)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 10)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 10)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 10)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 11)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 11)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 11)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 11)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 11)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 11)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 11)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 12)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 12)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 12)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 12)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Fundamentals for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Fundamentals."
+      }
+    },
+    {
+      "moduleId": "sa_a2_m2",
+      "theme": "Communication",
+      "order": 12,
+      "vocabularyItems": [
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 1)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 1)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 1)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 1)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 1)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 1)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 1)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 2)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 2)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 2)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 2)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 2)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 2)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 2)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 3)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 3)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 3)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 3)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 3)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 3)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 3)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 4)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 4)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 4)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 4)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 4)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 4)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 4)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 5)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 5)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 5)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 5)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 5)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 5)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 5)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 6)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 6)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 6)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 6)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 6)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 6)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 6)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 7)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 7)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 7)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 7)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 7)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 7)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 7)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 8)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 8)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 8)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 8)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 8)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 8)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 8)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 9)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 9)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 9)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 9)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 9)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 9)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 9)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 10)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 10)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 10)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 10)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 10)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 10)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 10)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 11)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 11)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 11)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 11)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 11)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 11)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 11)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 12)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 12)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 12)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 12)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Communication for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Communication."
+      }
+    },
+    {
+      "moduleId": "sa_a2_m3",
+      "theme": "Daily Life",
+      "order": 13,
+      "vocabularyItems": [
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 1)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 1)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 1)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 1)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 1)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 1)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 1)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 2)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 2)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 2)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 2)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 2)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 2)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 2)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 3)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 3)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 3)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 3)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 3)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 3)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 3)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 4)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 4)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 4)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 4)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 4)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 4)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 4)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 5)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 5)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 5)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 5)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 5)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 5)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 5)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 6)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 6)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 6)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 6)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 6)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 6)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 6)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 7)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 7)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 7)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 7)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 7)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 7)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 7)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 8)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 8)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 8)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 8)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 8)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 8)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 8)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 9)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 9)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 9)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 9)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 9)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 9)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 9)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 10)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 10)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 10)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 10)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 10)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 10)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 10)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 11)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 11)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 11)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 11)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 11)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 11)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 11)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 12)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 12)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 12)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 12)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Daily Life for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Daily Life."
+      }
+    },
+    {
+      "moduleId": "sa_a2_m4",
+      "theme": "Travel",
+      "order": 14,
+      "vocabularyItems": [
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 1)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 1)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 1)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 1)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 1)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 1)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 1)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 2)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 2)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 2)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 2)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 2)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 2)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 2)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 3)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 3)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 3)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 3)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 3)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 3)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 3)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 4)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 4)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 4)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 4)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 4)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 4)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 4)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 5)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 5)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 5)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 5)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 5)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 5)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 5)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 6)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 6)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 6)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 6)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 6)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 6)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 6)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 7)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 7)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 7)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 7)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 7)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 7)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 7)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 8)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 8)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 8)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 8)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 8)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 8)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 8)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 9)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 9)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 9)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 9)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 9)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 9)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 9)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 10)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 10)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 10)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 10)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 10)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 10)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 10)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 11)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 11)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 11)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 11)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 11)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 11)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 11)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 12)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 12)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 12)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 12)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Travel for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Travel."
+      }
+    },
+    {
+      "moduleId": "sa_a2_m5",
+      "theme": "Socializing",
+      "order": 15,
+      "vocabularyItems": [
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 1)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 1)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 1)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 1)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 1)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 1)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 1)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 2)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 2)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 2)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 2)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 2)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 2)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 2)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 3)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 3)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 3)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 3)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 3)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 3)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 3)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 4)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 4)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 4)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 4)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 4)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 4)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 4)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 5)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 5)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 5)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 5)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 5)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 5)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 5)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 6)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 6)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 6)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 6)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 6)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 6)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 6)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 7)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 7)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 7)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 7)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 7)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 7)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 7)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 8)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 8)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 8)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 8)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 8)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 8)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 8)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 9)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 9)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 9)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 9)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 9)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 9)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 9)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 10)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 10)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 10)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 10)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 10)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 10)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 10)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 11)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 11)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 11)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 11)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 11)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 11)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 11)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 12)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 12)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 12)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 12)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Socializing for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Socializing."
+      }
+    },
+    {
+      "moduleId": "sa_a2_m6",
+      "theme": "Nature",
+      "order": 16,
+      "vocabularyItems": [
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 1)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 1)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 1)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 1)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 1)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 1)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 1)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 2)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 2)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 2)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 2)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 2)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 2)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 2)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 3)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 3)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 3)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 3)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 3)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 3)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 3)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 4)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 4)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 4)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 4)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 4)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 4)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 4)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 5)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 5)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 5)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 5)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 5)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 5)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 5)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 6)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 6)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 6)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 6)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 6)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 6)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 6)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 7)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 7)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 7)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 7)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 7)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 7)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 7)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 8)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 8)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 8)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 8)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 8)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 8)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 8)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 9)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 9)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 9)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 9)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 9)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 9)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 9)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 10)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 10)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 10)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 10)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 10)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 10)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 10)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 11)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 11)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 11)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 11)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 11)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 11)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 11)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 12)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 12)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 12)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 12)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Nature for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Nature."
+      }
+    },
+    {
+      "moduleId": "sa_a2_m7",
+      "theme": "Work & Study",
+      "order": 17,
+      "vocabularyItems": [
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 1)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 1)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 1)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 1)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 1)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 1)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 1)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 2)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 2)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 2)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 2)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 2)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 2)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 2)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 3)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 3)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 3)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 3)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 3)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 3)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 3)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 4)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 4)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 4)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 4)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 4)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 4)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 4)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 5)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 5)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 5)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 5)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 5)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 5)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 5)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 6)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 6)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 6)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 6)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 6)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 6)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 6)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 7)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 7)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 7)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 7)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 7)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 7)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 7)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 8)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 8)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 8)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 8)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 8)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 8)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 8)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 9)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 9)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 9)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 9)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 9)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 9)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 9)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 10)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 10)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 10)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 10)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 10)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 10)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 10)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 11)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 11)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 11)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 11)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 11)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 11)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 11)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 12)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 12)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 12)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 12)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Work & Study for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Work & Study."
+      }
+    },
+    {
+      "moduleId": "sa_a2_m8",
+      "theme": "Emotions",
+      "order": 18,
+      "vocabularyItems": [
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 1)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 1)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 1)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 1)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 1)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 1)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 1)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 2)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 2)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 2)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 2)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 2)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 2)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 2)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 3)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 3)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 3)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 3)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 3)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 3)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 3)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 4)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 4)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 4)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 4)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 4)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 4)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 4)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 5)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 5)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 5)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 5)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 5)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 5)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 5)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 6)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 6)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 6)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 6)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 6)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 6)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 6)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 7)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 7)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 7)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 7)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 7)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 7)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 7)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 8)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 8)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 8)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 8)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 8)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 8)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 8)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 9)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 9)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 9)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 9)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 9)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 9)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 9)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 10)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 10)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 10)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 10)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 10)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 10)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 10)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 11)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 11)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 11)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 11)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 11)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 11)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 11)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 12)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 12)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 12)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 12)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Emotions for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Emotions."
+      }
+    },
+    {
+      "moduleId": "sa_a2_m9",
+      "theme": "Culture",
+      "order": 19,
+      "vocabularyItems": [
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 1)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 1)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 1)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 1)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 1)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 1)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 1)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 2)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 2)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 2)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 2)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 2)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 2)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 2)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 3)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 3)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 3)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 3)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 3)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 3)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 3)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 4)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 4)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 4)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 4)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 4)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 4)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 4)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 5)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 5)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 5)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 5)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 5)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 5)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 5)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 6)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 6)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 6)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 6)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 6)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 6)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 6)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 7)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 7)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 7)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 7)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 7)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 7)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 7)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 8)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 8)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 8)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 8)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 8)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 8)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 8)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 9)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 9)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 9)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 9)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 9)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 9)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 9)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 10)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 10)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 10)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 10)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 10)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 10)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 10)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 11)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 11)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 11)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 11)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 11)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 11)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 11)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 12)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 12)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 12)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 12)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Culture for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Culture."
+      }
+    },
+    {
+      "moduleId": "sa_a2_m10",
+      "theme": "Review",
+      "order": 20,
+      "vocabularyItems": [
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 1)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 1)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 1)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 1)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 1)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 1)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 1)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 1)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 2)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 2)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 2)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 2)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 2)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 2)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 2)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 2)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 3)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 3)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 3)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 3)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 3)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 3)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 3)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 3)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 4)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 4)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 4)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 4)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 4)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 4)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 4)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 4)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 5)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 5)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 5)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 5)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 5)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 5)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 5)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 5)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 6)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 6)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 6)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 6)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 6)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 6)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 6)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 6)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 7)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 7)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 7)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 7)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 7)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 7)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 7)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 7)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 8)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 8)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 8)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 8)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 8)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 8)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 8)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 8)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 9)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 9)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 9)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 9)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 9)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 9)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 9)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 9)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 10)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 10)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 10)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 10)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 10)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 10)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 10)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 10)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 11)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 11)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 11)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 11)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        },
+        {
+          "word": "अगच्छत्",
+          "reading": "agacchat",
+          "meaning": "Went (Past) (Var 11)",
+          "example_sentence": "रामः वनं अगच्छत्।"
+        },
+        {
+          "word": "वायुयानम्",
+          "reading": "vāyuyānam",
+          "meaning": "Aeroplane (Var 11)",
+          "example_sentence": "वायुयानं आकाशे डयते।"
+        },
+        {
+          "word": "प्रवासः",
+          "reading": "pravāsaḥ",
+          "meaning": "Journey (Var 11)",
+          "example_sentence": "मम प्रवासः सुखदः आसीत्।"
+        },
+        {
+          "word": "मार्गः",
+          "reading": "mārgaḥ",
+          "meaning": "Way / Path (Var 11)",
+          "example_sentence": "एषः मार्गः कुत्र गच्छति?"
+        },
+        {
+          "word": "भोजनालयः",
+          "reading": "bhojanālayaḥ",
+          "meaning": "Restaurant (Var 12)",
+          "example_sentence": "अत्र उत्तमः भोजनालयः अस्ति।"
+        },
+        {
+          "word": "अपराह्णः",
+          "reading": "aparāhṇaḥ",
+          "meaning": "Afternoon (Var 12)",
+          "example_sentence": "अपराह्णे वयं क्लान्ताः स्मः।"
+        },
+        {
+          "word": "विश्रामः",
+          "reading": "viśrāmaḥ",
+          "meaning": "Rest (Var 12)",
+          "example_sentence": "अधुना विश्रामं कुरु।"
+        },
+        {
+          "word": "अकरोत्",
+          "reading": "akarot",
+          "meaning": "Did (Past) (Var 12)",
+          "example_sentence": "सः कार्यं अकरोत्।"
+        }
+      ],
+      "count": 100,
+      "liarGameData": {
+        "trap": "Common mistake in Review for A2",
+        "correctVersion": "The correct way to use these A2 concepts.",
+        "explanation": "Detailed linguistic focus for A2 learners in Review."
+      }
+    }
+  ]
+}

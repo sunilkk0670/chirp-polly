@@ -1,0 +1,612 @@
+{
+    "moduleId": "ja_a2_m17",
+    "theme": "Health & Body",
+    "order": 17,
+    "vocabularyItems": [
+        {
+            "word": "河川",
+            "reading": "kasen",
+            "meaning": "Rivers",
+            "example_sentence": "大雨で河川が増水しています。"
+        },
+        {
+            "word": "海岸",
+            "reading": "kaigan",
+            "meaning": "Coast/Beach",
+            "example_sentence": "海岸で貝殻を拾いました。"
+        },
+        {
+            "word": "島国",
+            "reading": "shimaguni",
+            "meaning": "Island country",
+            "example_sentence": "日本は四方を海に囲まれた島国です。"
+        },
+        {
+            "word": "平野",
+            "reading": "heiya",
+            "meaning": "Plain",
+            "example_sentence": "広い平野で米を育てています。"
+        },
+        {
+            "word": "砂漠",
+            "reading": "sabaku",
+            "meaning": "Desert",
+            "example_sentence": "砂漠は昼夜の温度差が激しいです。"
+        },
+        {
+            "word": "気候",
+            "reading": "kikou",
+            "meaning": "Climate",
+            "example_sentence": "日本の気候は四季がはっきりしています。"
+        },
+        {
+            "word": "降水量",
+            "reading": "kousuuryou",
+            "meaning": "Precipitation",
+            "example_sentence": "この地域は年間降水量が多いです。"
+        },
+        {
+            "word": "大雨",
+            "reading": "ooame",
+            "meaning": "Heavy rain",
+            "example_sentence": "大雨警報が出されました。"
+        },
+        {
+            "word": "震度",
+            "reading": "shindo",
+            "meaning": "Seismic intensity",
+            "example_sentence": "震度4の地震を観測しました。"
+        },
+        {
+            "word": "氷河",
+            "reading": "hyouga",
+            "meaning": "Glacier",
+            "example_sentence": "氷河が溶けて海面が上昇しています。"
+        },
+        {
+            "word": "資源",
+            "reading": "shigen",
+            "meaning": "Resources",
+            "example_sentence": "限りあるエネルギー資源を大切にします。"
+        },
+        {
+            "word": "石油",
+            "reading": "sekiyu",
+            "meaning": "Petroleum/Oil",
+            "example_sentence": "石油の価格が上がっています。"
+        },
+        {
+            "word": "太陽光発電",
+            "reading": "taiyoukou hatsuden",
+            "meaning": "Solar power generation",
+            "example_sentence": "屋根に太陽光発電のパネルを設置しました。"
+        },
+        {
+            "word": "再生可能エネルギー",
+            "reading": "saisei kanou enerugii",
+            "meaning": "Renewable energy",
+            "example_sentence": "再生可能エネルギーの普及が必要です。"
+        },
+        {
+            "word": "リサイクル",
+            "reading": "risaikuru",
+            "meaning": "Recycle",
+            "example_sentence": "空き缶をリサイクルに出します。"
+        },
+        {
+            "word": "汚染",
+            "reading": "osen",
+            "meaning": "Pollution",
+            "example_sentence": "大気汚染が深刻な問題になっています。"
+        },
+        {
+            "word": "絶滅危惧種",
+            "reading": "zetsumetsu kigushu",
+            "meaning": "Endangered species",
+            "example_sentence": "パンダは絶滅危惧種に指定されています。"
+        },
+        {
+            "word": "保護",
+            "reading": "hogo",
+            "meaning": "Protection/Preservation",
+            "example_sentence": "野生動物の保護活動に参加します。"
+        },
+        {
+            "word": "エコ活動",
+            "reading": "eko katsudou",
+            "meaning": "Eco-friendly activities",
+            "example_sentence": "小さなエコ活動から始めましょう。"
+        },
+        {
+            "word": "節電",
+            "reading": "setsuden",
+            "meaning": "Saving electricity",
+            "example_sentence": "夏は節電に協力します。"
+        },
+        {
+            "word": "節水",
+            "reading": "sessui",
+            "meaning": "Saving water",
+            "example_sentence": "歯を磨く時は節水を心がけます。"
+        },
+        {
+            "word": "排気ガス",
+            "reading": "haiki gasu",
+            "meaning": "Exhaust gas",
+            "example_sentence": "排気ガスの少ない車を選びます。"
+        },
+        {
+            "word": "地層",
+            "reading": "chisou",
+            "meaning": "Geological stratum",
+            "example_sentence": "崖の地層を観察します。"
+        },
+        {
+            "word": "化石",
+            "reading": "kaseki",
+            "meaning": "Fossil",
+            "example_sentence": "恐竜の化石が発見されました。"
+        },
+        {
+            "word": "植物",
+            "reading": "shokubutsu",
+            "meaning": "Plant",
+            "example_sentence": "色々な種類の植物を育てています。"
+        },
+        {
+            "word": "湿地",
+            "reading": "shitchi",
+            "meaning": "Wetland",
+            "example_sentence": "湿地には珍しい鳥が集まります。"
+        },
+        {
+            "word": "高原",
+            "reading": "kougen",
+            "meaning": "Plateau/Highland",
+            "example_sentence": "夏は涼しい高原で過ごします。"
+        },
+        {
+            "word": "盆地",
+            "reading": "bonchi",
+            "meaning": "Basin",
+            "example_sentence": "この町は盆地なので夏はとても暑いです。"
+        },
+        {
+            "word": "半島",
+            "reading": "hantou",
+            "meaning": "Peninsula",
+            "example_sentence": "半島の先にある灯台までドライブしました。"
+        },
+        {
+            "word": "入江",
+            "reading": "irie",
+            "meaning": "Creek/Inlet",
+            "example_sentence": "静かな入江で釣りを楽しみました。"
+        },
+        {
+            "word": "満潮",
+            "reading": "manchou",
+            "meaning": "High tide",
+            "example_sentence": "満潮の時間を確認してから海へ行きます。"
+        },
+        {
+            "word": "干潮",
+            "reading": "kanchou",
+            "meaning": "Low tide",
+            "example_sentence": "干潮の時に磯遊びをします。"
+        },
+        {
+            "word": "潮流",
+            "reading": "chouryuu",
+            "meaning": "Tidal current",
+            "example_sentence": "ここの潮流はとても速いです。"
+        },
+        {
+            "word": "酸素",
+            "reading": "sanso",
+            "meaning": "Oxygen",
+            "example_sentence": "森林は酸素を供給してくれます。"
+        },
+        {
+            "word": "二酸化炭素",
+            "reading": "nisanka tanso",
+            "meaning": "Carbon dioxide",
+            "example_sentence": "二酸化炭素の排出量を削減します。"
+        },
+        {
+            "word": "オゾン層",
+            "reading": "ozon sou",
+            "meaning": "Ozone layer",
+            "example_sentence": "オゾン層の破壊を防ぎます。"
+        },
+        {
+            "word": "有害な",
+            "reading": "yuugai na",
+            "meaning": "Harmful",
+            "example_sentence": "有害な物質を川に流してはいけません。"
+        },
+        {
+            "word": "無害な",
+            "reading": "mugai na",
+            "meaning": "Harmless",
+            "example_sentence": "この洗剤は環境に無害です。"
+        },
+        {
+            "word": "微生物",
+            "reading": "bishuubutsu",
+            "meaning": "Microorganism",
+            "example_sentence": "土の中の微生物が葉を分解します。"
+        },
+        {
+            "word": "生態系",
+            "reading": "seitaikei",
+            "meaning": "Ecosystem",
+            "example_sentence": "生態系のバランスを崩してはいけません。"
+        },
+        {
+            "word": "多様性",
+            "reading": "tayousei",
+            "meaning": "Diversity",
+            "example_sentence": "生物の多様性を守ることが大切です。"
+        },
+        {
+            "word": "枯れる",
+            "reading": "kareru",
+            "meaning": "To wither/dry up",
+            "example_sentence": "水やりを忘れて花が枯れてしまいました。"
+        },
+        {
+            "word": "芽吹く",
+            "reading": "mebuku",
+            "meaning": "To bud/sprout",
+            "example_sentence": "春になり、木々が芽吹きました。"
+        },
+        {
+            "word": "開花",
+            "reading": "kaika",
+            "meaning": "Blooming",
+            "example_sentence": "桜の開花予想が発表されました。"
+        },
+        {
+            "word": "落葉",
+            "reading": "rakuyou",
+            "meaning": "Fallen leaves",
+            "example_sentence": "庭の落葉を掃除しました。"
+        },
+        {
+            "word": "積雪",
+            "reading": "sekisetsu",
+            "meaning": "Accumulated snow",
+            "example_sentence": "記録的な積雪になりました。"
+        },
+        {
+            "word": "氷結",
+            "reading": "hyouketsu",
+            "meaning": "Freezing",
+            "example_sentence": "道が氷結しているので注意してください。"
+        },
+        {
+            "word": "霜",
+            "reading": "shimo",
+            "meaning": "Frost",
+            "example_sentence": "今朝は霜が降りました。"
+        },
+        {
+            "word": "露",
+            "reading": "tsuyu",
+            "meaning": "Dew",
+            "example_sentence": "朝露が草の上で光っています。"
+        },
+        {
+            "word": "日照り",
+            "reading": "hideri",
+            "meaning": "Drought/Sunny spell",
+            "example_sentence": "日照り続きで野菜が育ちません。"
+        },
+        {
+            "word": "干ばつ",
+            "reading": "kanbatsu",
+            "meaning": "Drought",
+            "example_sentence": "干ばつで水不足になっています。"
+        },
+        {
+            "word": "雷雨",
+            "reading": "raiu",
+            "meaning": "Thunderstorm",
+            "example_sentence": "突然の激しい雷雨に見舞われました。"
+        },
+        {
+            "word": "夕立",
+            "reading": "yuudachi",
+            "meaning": "Evening shower",
+            "example_sentence": "夕立が通り過ぎて涼しくなりました。"
+        },
+        {
+            "word": "霞",
+            "reading": "kasumi",
+            "meaning": "Haze/Mist",
+            "example_sentence": "春の霞が山を包んでいます。"
+        },
+        {
+            "word": "猛暑",
+            "reading": "mousho",
+            "meaning": "Heatwave",
+            "example_sentence": "連日、猛暑が続いています。"
+        },
+        {
+            "word": "酷暑",
+            "reading": "kokusho",
+            "meaning": "Intense heat",
+            "example_sentence": "今年は酷暑になりそうです。"
+        },
+        {
+            "word": "厳冬",
+            "reading": "gentou",
+            "meaning": "Severe winter",
+            "example_sentence": "厳冬に備えて防寒具を揃えます。"
+        },
+        {
+            "word": "暖冬",
+            "reading": "dantou",
+            "meaning": "Mild winter",
+            "example_sentence": "暖冬の影響でスキー場に雪がありません。"
+        },
+        {
+            "word": "冷夏",
+            "reading": "reika",
+            "meaning": "Cool summer",
+            "example_sentence": "冷夏のせいで米が不作です。"
+        },
+        {
+            "word": "小春日和",
+            "reading": "koharubiyori",
+            "meaning": "Indian summer/Calm autumn day",
+            "example_sentence": "今日は小春日和のいい天気です。"
+        },
+        {
+            "word": "土砂崩れ",
+            "reading": "doshakuzure",
+            "meaning": "Landslide",
+            "example_sentence": "大雨で土砂崩れが発生しました。"
+        },
+        {
+            "word": "地滑り",
+            "reading": "jizuburi",
+            "meaning": "Landslide",
+            "example_sentence": "山の斜面で地滑りが起きました。"
+        },
+        {
+            "word": "溶岩",
+            "reading": "yougan",
+            "meaning": "Lava",
+            "example_sentence": "溶岩が流れてきました。"
+        },
+        {
+            "word": "火山灰",
+            "reading": "kazanbai",
+            "meaning": "Volcanic ash",
+            "example_sentence": "火山灰が屋根に積もりました。"
+        },
+        {
+            "word": "防災",
+            "reading": "bousai",
+            "meaning": "Disaster prevention",
+            "example_sentence": "防災バッグを準備しておきます。"
+        },
+        {
+            "word": "減災",
+            "reading": "gensai",
+            "meaning": "Disaster mitigation",
+            "example_sentence": "被害を最小限にする減災を学びます。"
+        },
+        {
+            "word": "非常食",
+            "reading": "hijoushoku",
+            "meaning": "Emergency food",
+            "example_sentence": "非常食の期限を確認します。"
+        },
+        {
+            "word": "避難所",
+            "reading": "hinanjou",
+            "meaning": "Shelter/Refuge",
+            "example_sentence": "小学校が避難所になりました。"
+        },
+        {
+            "word": "ハザードマップ",
+            "reading": "hazaado mappu",
+            "meaning": "Hazard map",
+            "example_sentence": "ハザードマップで危険な場所を確認します。"
+        },
+        {
+            "word": "地産地消",
+            "reading": "chisan chishou",
+            "meaning": "Local production for local consumption",
+            "example_sentence": "地産地消で環境負荷を減らします。"
+        },
+        {
+            "word": "オーガニック",
+            "reading": "ooganikku",
+            "meaning": "Organic",
+            "example_sentence": "オーガニックの野菜を選んで買います。"
+        },
+        {
+            "word": "無農薬",
+            "reading": "munouyaku",
+            "meaning": "Pesticide-free",
+            "example_sentence": "無農薬栽培の米は美味しいです。"
+        },
+        {
+            "word": "天然",
+            "reading": "tennen",
+            "meaning": "Natural",
+            "example_sentence": "天然の温泉で癒されました。"
+        },
+        {
+            "word": "人工",
+            "reading": "jinkou",
+            "meaning": "Artificial",
+            "example_sentence": "公園に人工の滝があります。"
+        },
+        {
+            "word": "破壊",
+            "reading": "hakai",
+            "meaning": "Destruction",
+            "example_sentence": "環境破壊を止めなければなりません。"
+        },
+        {
+            "word": "維持",
+            "reading": "iji",
+            "meaning": "Maintenance/Preservation",
+            "example_sentence": "豊かな自然を維持します。"
+        },
+        {
+            "word": "共生",
+            "reading": "kyousei",
+            "meaning": "Symbiosis/Coexistence",
+            "example_sentence": "自然と共生する社会を目指します。"
+        },
+        {
+            "word": "敬意",
+            "reading": "keii",
+            "meaning": "Respect",
+            "example_sentence": "大自然への敬意を忘れません。"
+        },
+        {
+            "word": "畏怖",
+            "reading": "ifu",
+            "meaning": "Awe/Fear",
+            "example_sentence": "自然の力に畏怖の念を抱きます。"
+        },
+        {
+            "word": "恵み",
+            "reading": "megumi",
+            "meaning": "Blessing/Bounty",
+            "example_sentence": "豊かな実りは自然の恵みです。"
+        },
+        {
+            "word": "求人",
+            "reading": "kyuujin",
+            "meaning": "Job offer/Recruitment",
+            "example_sentence": "インターネットで求人情報を探します。"
+        },
+        {
+            "word": "昇給",
+            "reading": "shoukyuu",
+            "meaning": "Salary increase",
+            "example_sentence": "実績が評価されて昇給しました。"
+        },
+        {
+            "word": "賞与",
+            "reading": "shouyo",
+            "meaning": "Bonus",
+            "example_sentence": "夏と冬に賞与が支給されます。"
+        },
+        {
+            "word": "休日出勤",
+            "reading": "kyuujitsu shukkin",
+            "meaning": "Working on a holiday",
+            "example_sentence": "急ぎの仕事で休日出勤をしました。"
+        },
+        {
+            "word": "定時",
+            "reading": "teiji",
+            "meaning": "Regular working hours",
+            "example_sentence": "今日は定時で帰ります。"
+        },
+        {
+            "word": "出勤",
+            "reading": "shukkin",
+            "meaning": "Going to work",
+            "example_sentence": "毎朝8時に出勤しています。"
+        },
+        {
+            "word": "欠勤",
+            "reading": "kekkin",
+            "meaning": "Absence from work",
+            "example_sentence": "風邪で欠勤の連絡をしました。"
+        },
+        {
+            "word": "報告書",
+            "reading": "houkokusho",
+            "meaning": "Report",
+            "example_sentence": "出張の報告書を提出します。"
+        },
+        {
+            "word": "企画書",
+            "reading": "kikakusho",
+            "meaning": "Proposal/Planning document",
+            "example_sentence": "新しいプロジェクトの企画書を書きます。"
+        },
+        {
+            "word": "予算",
+            "reading": "yosan",
+            "meaning": "Budget",
+            "example_sentence": "来年度の予算を検討します。"
+        },
+        {
+            "word": "実績",
+            "reading": "jisseki",
+            "meaning": "True record/Performance",
+            "example_sentence": "去年は素晴らしい実績を残しました。"
+        },
+        {
+            "word": "能率",
+            "reading": "nouritsu",
+            "meaning": "Efficiency",
+            "example_sentence": "仕事の能率を上げる工夫をします。"
+        },
+        {
+            "word": "担当者",
+            "reading": "tantousha",
+            "meaning": "Person in charge",
+            "example_sentence": "担当者が不在です。"
+        },
+        {
+            "word": "営業",
+            "reading": "eigyou",
+            "meaning": "Sales/Business promotion",
+            "example_sentence": "営業の仕事で外回りをします。"
+        },
+        {
+            "word": "事務",
+            "reading": "jimu",
+            "meaning": "Office work/Clerical work",
+            "example_sentence": "事務の仕事をしています。"
+        },
+        {
+            "word": "経理",
+            "reading": "keiri",
+            "meaning": "Accounting",
+            "example_sentence": "経理部で働いています。"
+        },
+        {
+            "word": "人事",
+            "reading": "jinji",
+            "meaning": "Human resources",
+            "example_sentence": "人事異動が発表されました。"
+        },
+        {
+            "word": "総務",
+            "reading": "soumu",
+            "meaning": "General affairs",
+            "example_sentence": "総務へ書類を取りに行きます。"
+        },
+        {
+            "word": "押印",
+            "reading": "ouin",
+            "meaning": "Applying a seal",
+            "example_sentence": "こちらに押印をお願いします。"
+        },
+        {
+            "word": "電話応対",
+            "reading": "denwa outai",
+            "meaning": "Telephone reception",
+            "example_sentence": "電話応対の基本を学びました。"
+        }
+    ],
+    "liarGameData": {
+        "trap": "処方箋をもらってから、1週間後に薬局へ行った。(Went to the pharmacy one week after getting the prescription.)",
+        "correctVersion": "日本の処方箋の有効期限は、発行日を含めて4日間。(Prescription validity is 4 days including the issue date.)",
+        "explanation": "In Japan, prescriptions expire very quickly—usually after just 4 days. If you wait longer, you'll have to go back to the clinic and pay again to get a new one. Don't delay your trip to the pharmacy!"
+    }
+}

@@ -1,0 +1,610 @@
+{
+  "id": "fr_a2_m17",
+  "moduleId": "fr_a2_m17",
+  "name": "A2 French - Module 17: Opinions & Emotions",
+  "theme": "A2 French - Module 17: Opinions & Emotions",
+  "order": 17,
+  "count": 100,
+  "vocabularyItems": [
+    {
+      "word": "Opinion",
+      "meaning": "Opinion",
+      "reading": "oh-pee-nyohn",
+      "example_sentence": "Donner son opinion."
+    },
+    {
+      "word": "Avis",
+      "meaning": "Opinion / Advice",
+      "reading": "a-vee",
+      "example_sentence": "À mon avis."
+    },
+    {
+      "word": "Penser",
+      "meaning": "To think",
+      "reading": "pahn-say",
+      "example_sentence": "Qu'est-ce que tu penses ?"
+    },
+    {
+      "word": "Croire",
+      "meaning": "To believe",
+      "reading": "krwahr",
+      "example_sentence": "Je le crois."
+    },
+    {
+      "word": "D'accord",
+      "meaning": "Agreed",
+      "reading": "da-kor",
+      "example_sentence": "Je suis d'accord."
+    },
+    {
+      "word": "Pas d'accord",
+      "meaning": "Not agreed",
+      "reading": "pa da-kor",
+      "example_sentence": "Je ne suis pas d'accord."
+    },
+    {
+      "word": "Vrai",
+      "meaning": "True",
+      "reading": "vray",
+      "example_sentence": "C'est vrai."
+    },
+    {
+      "word": "Faux",
+      "meaning": "False",
+      "reading": "foh",
+      "example_sentence": "C'est faux."
+    },
+    {
+      "word": "Juste",
+      "meaning": "Just / Right",
+      "reading": "zhoost",
+      "example_sentence": "C'est juste."
+    },
+    {
+      "word": "Injuste",
+      "meaning": "Unjust / Unfair",
+      "reading": "an-zhoost",
+      "example_sentence": "C'est injuste."
+    },
+    {
+      "word": "Possible",
+      "meaning": "Possible",
+      "reading": "poh-see-bluh",
+      "example_sentence": "C'est possible."
+    },
+    {
+      "word": "Impossible",
+      "meaning": "Impossible",
+      "reading": "am-poh-see-bluh",
+      "example_sentence": "C'est impossible."
+    },
+    {
+      "word": "Sûr",
+      "meaning": "Sure / Safe",
+      "reading": "soor",
+      "example_sentence": "J'en suis sûr."
+    },
+    {
+      "word": "Incertain",
+      "meaning": "Uncertain",
+      "reading": "an-ser-tah",
+      "example_sentence": "C'est incertain."
+    },
+    {
+      "word": "Peut-être",
+      "meaning": "Maybe",
+      "reading": "puh-tetruh",
+      "example_sentence": "Peut-être demain."
+    },
+    {
+      "word": "Sans doute",
+      "meaning": "Without doubt / probably",
+      "reading": "sahn doot",
+      "example_sentence": "Sans doute."
+    },
+    {
+      "word": "Probablement",
+      "meaning": "Probably",
+      "reading": "proh-ba-bluh-mahn",
+      "example_sentence": "Probablement oui."
+    },
+    {
+      "word": "Certes",
+      "meaning": "Certainly / Admittedly",
+      "reading": "sert",
+      "example_sentence": "Certes, mais..."
+    },
+    {
+      "word": "Bien sûr",
+      "meaning": "Of course",
+      "reading": "byahn soor",
+      "example_sentence": "Bien sûr !"
+    },
+    {
+      "word": "Évidemment",
+      "meaning": "Obviously",
+      "reading": "ay-vee-da-mahn",
+      "example_sentence": "Évidemment."
+    },
+    {
+      "word": "Sentiment",
+      "meaning": "Feeling",
+      "reading": "sahn-tee-mahn",
+      "example_sentence": "Un sentiment étrange."
+    },
+    {
+      "word": "Émotion",
+      "meaning": "Emotion",
+      "reading": "ay-moh-syohn",
+      "example_sentence": "Une forte émotion."
+    },
+    {
+      "word": "Bonheur",
+      "meaning": "Happiness",
+      "reading": "boh-noor",
+      "example_sentence": "Le vrai bonheur."
+    },
+    {
+      "word": "Joie",
+      "meaning": "Joy",
+      "reading": "zhwa",
+      "example_sentence": "Une grande joie."
+    },
+    {
+      "word": "Tristesse",
+      "meaning": "Sadness",
+      "reading": "trees-tes",
+      "example_sentence": "Une profonde tristesse."
+    },
+    {
+      "word": "Colère",
+      "meaning": "Anger",
+      "reading": "koh-ler",
+      "example_sentence": "Être en colère."
+    },
+    {
+      "word": "Peur",
+      "meaning": "Fear",
+      "reading": "pur",
+      "example_sentence": "J'ai peur."
+    },
+    {
+      "word": "Surprise",
+      "meaning": "Surprise",
+      "reading": "soor-preez",
+      "example_sentence": "Quelle surprise !"
+    },
+    {
+      "word": "Honte",
+      "meaning": "Shame",
+      "reading": "ohnt",
+      "example_sentence": "Avoir honte."
+    },
+    {
+      "word": "Envie",
+      "meaning": "Desire / Envy",
+      "reading": "ahn-vee",
+      "example_sentence": "Avoir envie de sortir."
+    },
+    {
+      "word": "Jalousie",
+      "meaning": "Jealousy",
+      "reading": "zha-loo-zee",
+      "example_sentence": "La jalousie est mauvaise."
+    },
+    {
+      "word": "Amour",
+      "meaning": "Love",
+      "reading": "a-moor",
+      "example_sentence": "L'amour est beau."
+    },
+    {
+      "word": "Haine",
+      "meaning": "Hate",
+      "reading": "en",
+      "example_sentence": "La haine ne sert à rien."
+    },
+    {
+      "word": "Amitié",
+      "meaning": "Friendship",
+      "reading": "a-mee-tyay",
+      "example_sentence": "Une amitié solide."
+    },
+    {
+      "word": "Confiance",
+      "meaning": "Trust / Confidence",
+      "reading": "kohn-fyahns",
+      "example_sentence": "Avoir confiance."
+    },
+    {
+      "word": "Espoir",
+      "meaning": "Hope",
+      "reading": "es-pwahr",
+      "example_sentence": "Garder l'espoir."
+    },
+    {
+      "word": "Déception",
+      "meaning": "Disappointment",
+      "reading": "day-sep-syohn",
+      "example_sentence": "Une grosse déception."
+    },
+    {
+      "word": "Regret",
+      "meaning": "Regret",
+      "reading": "ruh-gray",
+      "example_sentence": "Sans regret."
+    },
+    {
+      "word": "Curiosité",
+      "meaning": "Curiosity",
+      "reading": "koo-ryoh-zee-tay",
+      "example_sentence": "La curiosité est un défaut."
+    },
+    {
+      "word": "Ennui",
+      "meaning": "Boredom / Trouble",
+      "reading": "ahn-nwee",
+      "example_sentence": "C'est l'ennui."
+    },
+    {
+      "word": "Heureux",
+      "meaning": "Happy",
+      "reading": "uh-ruh",
+      "example_sentence": "Je suis heureux."
+    },
+    {
+      "word": "Malheureux",
+      "meaning": "Unhappy",
+      "reading": "ma-luh-ruh",
+      "example_sentence": "Il est malheureux."
+    },
+    {
+      "word": "Content",
+      "meaning": "Glad / Happy",
+      "reading": "kohn-tah",
+      "example_sentence": "Content de te voir."
+    },
+    {
+      "word": "Triste",
+      "meaning": "Sad",
+      "reading": "treest",
+      "example_sentence": "Pourquoi es-tu triste ?"
+    },
+    {
+      "word": "Fâché",
+      "meaning": "Angry",
+      "reading": "fa-shay",
+      "example_sentence": "Ne sois pas fâché."
+    },
+    {
+      "word": "Inquiet",
+      "meaning": "Worried",
+      "reading": "an-kyay",
+      "example_sentence": "Je suis inquiet pour toi."
+    },
+    {
+      "word": "Rassuré",
+      "meaning": "Reassured",
+      "reading": "ra-soo-ray",
+      "example_sentence": "Je suis rassuré."
+    },
+    {
+      "word": "Étonné",
+      "meaning": "Astonished",
+      "reading": "ay-toh-nay",
+      "example_sentence": "Je suis étonné."
+    },
+    {
+      "word": "Déçu",
+      "meaning": "Disappointed",
+      "reading": "day-soo",
+      "example_sentence": "Il est déçu."
+    },
+    {
+      "word": "Surpris",
+      "meaning": "Surprised",
+      "reading": "soor-pree",
+      "example_sentence": "Elle est surprise."
+    },
+    {
+      "word": "Fatigué",
+      "meaning": "Tired",
+      "reading": "fa-tee-gay",
+      "example_sentence": "Je suis très fatigué."
+    },
+    {
+      "word": "Épuisé",
+      "meaning": "Exhausted",
+      "reading": "ay-pwee-zay",
+      "example_sentence": "Il est épuisé."
+    },
+    {
+      "word": "Excité",
+      "meaning": "Excited / Aroused",
+      "reading": "ek-see-tay",
+      "example_sentence": "Elle est excitée par le voyage."
+    },
+    {
+      "word": "Calme",
+      "meaning": "Calm",
+      "reading": "kal-muh",
+      "example_sentence": "Reste calme."
+    },
+    {
+      "word": "Énervé",
+      "meaning": "Annoyed / Irritated",
+      "reading": "ay-ner-vay",
+      "example_sentence": "Je suis un peu énervé."
+    },
+    {
+      "word": "Stressé",
+      "meaning": "Stressed",
+      "reading": "stres-ay",
+      "example_sentence": "Trop stressé au travail."
+    },
+    {
+      "word": "Détendu",
+      "meaning": "Relaxed",
+      "reading": "day-tahn-doo",
+      "example_sentence": "Je suis détendu."
+    },
+    {
+      "word": "Sérieux",
+      "meaning": "Serious",
+      "reading": "say-ryuh",
+      "example_sentence": "Un homme sérieux."
+    },
+    {
+      "word": "Drôle",
+      "meaning": "Funny",
+      "reading": "droh-luh",
+      "example_sentence": "C'est très drôle !"
+    },
+    {
+      "word": "Sympa",
+      "meaning": "Nice / Friendly",
+      "reading": "sam-pa",
+      "example_sentence": "Elle est très sympa."
+    },
+    {
+      "word": "Gentil",
+      "meaning": "Kind / Nice",
+      "reading": "zhahn-tee",
+      "example_sentence": "Sois gentil."
+    },
+    {
+      "word": "Méchant",
+      "meaning": "Mean / Bad",
+      "reading": "may-shah",
+      "example_sentence": "Il est méchant."
+    },
+    {
+      "word": "Honnête",
+      "meaning": "Honest",
+      "reading": "oh-net",
+      "example_sentence": "Une personne honnête."
+    },
+    {
+      "word": "Malhonnête",
+      "meaning": "Dishonest",
+      "reading": "ma-loh-net",
+      "example_sentence": "C'est malhonnête."
+    },
+    {
+      "word": "Généreux",
+      "meaning": "Generous",
+      "reading": "zhay-nay-ruh",
+      "example_sentence": "Il est très généreux."
+    },
+    {
+      "word": "Avare",
+      "meaning": "Greedy / Stingy",
+      "reading": "a-var",
+      "example_sentence": "Un vieil avare."
+    },
+    {
+      "word": "Intelligent",
+      "meaning": "Intelligent",
+      "reading": "an-te-lee-zhah",
+      "example_sentence": "Un élève intelligent."
+    },
+    {
+      "word": "Bête",
+      "meaning": "Stupid / Silly",
+      "reading": "bet",
+      "example_sentence": "Ne sois pas bête."
+    },
+    {
+      "word": "Courageux",
+      "meaning": "Courageous / Brave",
+      "reading": "koo-ra-zhuh",
+      "example_sentence": "Un soldat courageux."
+    },
+    {
+      "word": "Lâche",
+      "meaning": "Cowardly",
+      "reading": "lahsh",
+      "example_sentence": "C'est un lâche."
+    },
+    {
+      "word": "Timide",
+      "meaning": "Shy",
+      "reading": "tee-meed",
+      "example_sentence": "Il est très timide."
+    },
+    {
+      "word": "Bavard",
+      "meaning": "Chatty",
+      "reading": "ba-var",
+      "example_sentence": "Elle est très bavarde."
+    },
+    {
+      "word": "Silencieux",
+      "meaning": "Silent / Quiet",
+      "reading": "see-lahn-syuh",
+      "example_sentence": "Un garçon silencieux."
+    },
+    {
+      "word": "Patient",
+      "meaning": "Patient",
+      "reading": "pa-syah",
+      "example_sentence": "Il faut être patient."
+    },
+    {
+      "word": "Impatient",
+      "meaning": "Impatient",
+      "reading": "am-pa-syah",
+      "example_sentence": "Elle est impatiente."
+    },
+    {
+      "word": "Optimiste",
+      "meaning": "Optimistic",
+      "reading": "op-tee-meest",
+      "example_sentence": "Rester optimiste."
+    },
+    {
+      "word": "Pessimiste",
+      "meaning": "Pessimistic",
+      "reading": "pe-see-meest",
+      "example_sentence": "Ne sois pas pessimiste."
+    },
+    {
+      "word": "Intéressant",
+      "meaning": "Interesting",
+      "reading": "an-tay-ray-sah",
+      "example_sentence": "Un livre intéressant."
+    },
+    {
+      "word": "Ennuyeux",
+      "meaning": "Boring",
+      "reading": "ahn-nwee-yuh",
+      "example_sentence": "Un film ennuyeux."
+    },
+    {
+      "word": "Important",
+      "meaning": "Important",
+      "reading": "am-por-tah",
+      "example_sentence": "C'est important."
+    },
+    {
+      "word": "Inutile",
+      "meaning": "Useless",
+      "reading": "oo-ne-teel",
+      "example_sentence": "C'est inutile."
+    },
+    {
+      "word": "Génial",
+      "meaning": "Great / Awesome",
+      "reading": "zhay-nyal",
+      "example_sentence": "C'est génial !"
+    },
+    {
+      "word": "Nul",
+      "meaning": "Bad / Rubbish",
+      "reading": "nool",
+      "example_sentence": "C'est nul."
+    },
+    {
+      "word": "Terrible",
+      "meaning": "Terrible / Dreadful",
+      "reading": "te-ree-bluh",
+      "example_sentence": "Une nouvelle terrible."
+    },
+    {
+      "word": "Formidable",
+      "meaning": "Wonderful",
+      "reading": "for-mee-da-bluh",
+      "example_sentence": "Tu es formidable."
+    },
+    {
+      "word": "Magnifique",
+      "meaning": "Magnificent",
+      "reading": "ma-nyee-feek",
+      "example_sentence": "C'est magnifique."
+    },
+    {
+      "word": "Moche",
+      "meaning": "Ugly (slang)",
+      "reading": "mohsh",
+      "example_sentence": "C'est moche."
+    },
+    {
+      "word": "Beau",
+      "meaning": "Beautiful / Handsome",
+      "reading": "boh",
+      "example_sentence": "Un beau garçon."
+    },
+    {
+      "word": "Belle",
+      "meaning": "Beautiful (fem.)",
+      "reading": "bel",
+      "example_sentence": "Une belle fille."
+    },
+    {
+      "word": "Préféré",
+      "meaning": "Preferred / Favorite",
+      "reading": "pray-fay-ray",
+      "example_sentence": "Mon plat préféré."
+    },
+    {
+      "word": "Favori",
+      "meaning": "Favorite",
+      "reading": "fa-voh-ree",
+      "example_sentence": "C'est mon film favori."
+    },
+    {
+      "word": "Étrange",
+      "meaning": "Strange / Odd",
+      "reading": "ay-trahnzh",
+      "example_sentence": "C'est étrange."
+    },
+    {
+      "word": "Bizarre",
+      "meaning": "Bizarre / Weird",
+      "reading": "bee-zar",
+      "example_sentence": "Un comportement bizarre."
+    },
+    {
+      "word": "Normal",
+      "meaning": "Normal",
+      "reading": "nor-mal",
+      "example_sentence": "C'est normal."
+    },
+    {
+      "word": "Exceptionnel",
+      "meaning": "Exceptional",
+      "reading": "ek-sep-syoh-nel",
+      "example_sentence": "Un talent exceptionnel."
+    },
+    {
+      "word": "Rare",
+      "meaning": "Rare",
+      "reading": "rar",
+      "example_sentence": "C'est un objet rare."
+    },
+    {
+      "word": "Commun",
+      "meaning": "Common",
+      "reading": "koh-mah",
+      "example_sentence": "C'est très commun."
+    },
+    {
+      "word": "Simple",
+      "meaning": "Simple",
+      "reading": "sam-pluh",
+      "example_sentence": "Une question simple."
+    },
+    {
+      "word": "Compliqué",
+      "meaning": "Complicated",
+      "reading": "kohm-plee-kay",
+      "example_sentence": "C'est trop compliqué."
+    },
+    {
+      "word": "Facile",
+      "meaning": "Easy",
+      "reading": "fa-seel",
+      "example_sentence": "C'est facile."
+    }
+  ]
+}

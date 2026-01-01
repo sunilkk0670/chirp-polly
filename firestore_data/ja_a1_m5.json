@@ -1,0 +1,529 @@
+{
+    "id": "ja_a1_m5",
+    "moduleId": "ja_a1_m5",
+    "name": "A1 Japanese - Module 5: Verbs and Daily Actions",
+    "theme": "Verbs and Daily Actions",
+    "order": 5,
+    "count": 100,
+    "vocabularyItems": [
+        {
+            "word": "食べる",
+            "reading": "taberu",
+            "meaning": "To eat"
+        },
+        {
+            "word": "飲む",
+            "reading": "nomu",
+            "meaning": "To drink"
+        },
+        {
+            "word": "行く",
+            "reading": "iku",
+            "meaning": "To go"
+        },
+        {
+            "word": "来る",
+            "reading": "kuru",
+            "meaning": "To come"
+        },
+        {
+            "word": "帰る",
+            "reading": "kaeru",
+            "meaning": "To return / go home"
+        },
+        {
+            "word": "見る",
+            "reading": "miru",
+            "meaning": "To see / watch"
+        },
+        {
+            "word": "聞く",
+            "reading": "kiku",
+            "meaning": "To listen / ask"
+        },
+        {
+            "word": "話す",
+            "reading": "hanasu",
+            "meaning": "To speak / talk"
+        },
+        {
+            "word": "書く",
+            "reading": "kaku",
+            "meaning": "To write"
+        },
+        {
+            "word": "読む",
+            "reading": "yomu",
+            "meaning": "To read"
+        },
+        {
+            "word": "買う",
+            "reading": "kau",
+            "meaning": "To buy"
+        },
+        {
+            "word": "売る",
+            "reading": "uru",
+            "meaning": "To sell"
+        },
+        {
+            "word": "貸す",
+            "reading": "kasu",
+            "meaning": "To lend"
+        },
+        {
+            "word": "借りる",
+            "reading": "kariru",
+            "meaning": "To borrow"
+        },
+        {
+            "word": "使う",
+            "reading": "tsukau",
+            "meaning": "To use"
+        },
+        {
+            "word": "作る",
+            "reading": "tsukuru",
+            "meaning": "To make / create"
+        },
+        {
+            "word": "待つ",
+            "reading": "matsu",
+            "meaning": "To wait"
+        },
+        {
+            "word": "持つ",
+            "reading": "motsu",
+            "meaning": "To hold / have"
+        },
+        {
+            "word": "会う",
+            "reading": "au",
+            "meaning": "To meet"
+        },
+        {
+            "word": "知る",
+            "reading": "shiru",
+            "meaning": "To know"
+        },
+        {
+            "word": "起きる",
+            "reading": "okiru",
+            "meaning": "To wake up"
+        },
+        {
+            "word": "寝る",
+            "reading": "neru",
+            "meaning": "To sleep"
+        },
+        {
+            "word": "洗う",
+            "reading": "arau",
+            "meaning": "To wash"
+        },
+        {
+            "word": "浴びる",
+            "reading": "abiru",
+            "meaning": "To take (a shower)"
+        },
+        {
+            "word": "磨く",
+            "reading": "migaku",
+            "meaning": "To brush (teeth) / polish"
+        },
+        {
+            "word": "着る",
+            "reading": "kiru",
+            "meaning": "To wear (upper body)"
+        },
+        {
+            "word": "履く",
+            "reading": "haku",
+            "meaning": "To wear (lower body)"
+        },
+        {
+            "word": "脱ぐ",
+            "reading": "nugu",
+            "meaning": "To take off (clothes)"
+        },
+        {
+            "word": "働く",
+            "reading": "hataraku",
+            "meaning": "To work"
+        },
+        {
+            "word": "勉強する",
+            "reading": "benkyou suru",
+            "meaning": "To study"
+        },
+        {
+            "word": "休む",
+            "reading": "yasumu",
+            "meaning": "To rest / take a break"
+        },
+        {
+            "word": "歩く",
+            "reading": "aruku",
+            "meaning": "To walk"
+        },
+        {
+            "word": "走る",
+            "reading": "hashiru",
+            "meaning": "To run"
+        },
+        {
+            "word": "泳ぐ",
+            "reading": "oyogu",
+            "meaning": "To swim"
+        },
+        {
+            "word": "遊ぶ",
+            "reading": "asobu",
+            "meaning": "To play / hang out"
+        },
+        {
+            "word": "歌う",
+            "reading": "utau",
+            "meaning": "To sing"
+        },
+        {
+            "word": "踊る",
+            "reading": "odoru",
+            "meaning": "To dance"
+        },
+        {
+            "word": "笑う",
+            "reading": "warau",
+            "meaning": "To laugh"
+        },
+        {
+            "word": "泣く",
+            "reading": "naku",
+            "meaning": "To cry"
+        },
+        {
+            "word": "怒る",
+            "reading": "okoru",
+            "meaning": "To get angry"
+        },
+        {
+            "word": "入る",
+            "reading": "hairu",
+            "meaning": "To enter"
+        },
+        {
+            "word": "出る",
+            "reading": "deru",
+            "meaning": "To exit / leave"
+        },
+        {
+            "word": "乗る",
+            "reading": "noru",
+            "meaning": "To ride / board"
+        },
+        {
+            "word": "降りる",
+            "reading": "oriru",
+            "meaning": "To get off"
+        },
+        {
+            "word": "止まる",
+            "reading": "tomaru",
+            "meaning": "To stop"
+        },
+        {
+            "word": "曲がる",
+            "reading": "magaru",
+            "meaning": "To turn"
+        },
+        {
+            "word": "渡る",
+            "reading": "wataru",
+            "meaning": "To cross"
+        },
+        {
+            "word": "運ぶ",
+            "reading": "hakobu",
+            "meaning": "To carry"
+        },
+        {
+            "word": "送る",
+            "reading": "okuru",
+            "meaning": "To send"
+        },
+        {
+            "word": "受ける",
+            "reading": "ukeru",
+            "meaning": "To receive / take (exam)"
+        },
+        {
+            "word": "渡す",
+            "reading": "watasu",
+            "meaning": "To hand over"
+        },
+        {
+            "word": "捨てる",
+            "reading": "suteru",
+            "meaning": "To throw away"
+        },
+        {
+            "word": "拾う",
+            "reading": "hirou",
+            "meaning": "To pick up"
+        },
+        {
+            "word": "教える",
+            "reading": "oshieru",
+            "meaning": "To teach / inform"
+        },
+        {
+            "word": "習う",
+            "reading": "narau",
+            "meaning": "To learn"
+        },
+        {
+            "word": "考える",
+            "reading": "kangaeru",
+            "meaning": "To think"
+        },
+        {
+            "word": "思い出す",
+            "reading": "omoidasu",
+            "meaning": "To remember"
+        },
+        {
+            "word": "忘れる",
+            "reading": "wasureru",
+            "meaning": "To forget"
+        },
+        {
+            "word": "決める",
+            "reading": "kimeru",
+            "meaning": "To decide"
+        },
+        {
+            "word": "祈る",
+            "reading": "inoru",
+            "meaning": "To pray"
+        },
+        {
+            "word": "ある",
+            "reading": "aru",
+            "meaning": "To exist (inanimate)"
+        },
+        {
+            "word": "いる",
+            "reading": "iru",
+            "meaning": "To exist (animate)"
+        },
+        {
+            "word": "住む",
+            "reading": "sumu",
+            "meaning": "To reside / live"
+        },
+        {
+            "word": "死ぬ",
+            "reading": "shinu",
+            "meaning": "To die"
+        },
+        {
+            "word": "生まれる",
+            "reading": "umareru",
+            "meaning": "To be born"
+        },
+        {
+            "word": "始まる",
+            "reading": "hajimaru",
+            "meaning": "To begin / start"
+        },
+        {
+            "word": "終わる",
+            "reading": "owaru",
+            "meaning": "To end / finish"
+        },
+        {
+            "word": "勝つ",
+            "reading": "katsu",
+            "meaning": "To win"
+        },
+        {
+            "word": "負ける",
+            "reading": "makeru",
+            "meaning": "To lose"
+        },
+        {
+            "word": "喜ぶ",
+            "reading": "yorokobu",
+            "meaning": "To be happy / rejoice"
+        },
+        {
+            "word": "驚く",
+            "reading": "odoroku",
+            "meaning": "To be surprised"
+        },
+        {
+            "word": "困る",
+            "reading": "komaru",
+            "meaning": "To be in trouble"
+        },
+        {
+            "word": "疲れる",
+            "reading": "tsukareru",
+            "meaning": "To get tired"
+        },
+        {
+            "word": "お腹が空く",
+            "reading": "onaka ga suku",
+            "meaning": "To get hungry"
+        },
+        {
+            "word": "喉が渇く",
+            "reading": "nodo ga kawaku",
+            "meaning": "To get thirsty"
+        },
+        {
+            "word": "匂う",
+            "reading": "niou",
+            "meaning": "To smell"
+        },
+        {
+            "word": "触る",
+            "reading": "sawaru",
+            "meaning": "To touch"
+        },
+        {
+            "word": "感じる",
+            "reading": "kanjiru",
+            "meaning": "To feel"
+        },
+        {
+            "word": "聞こえる",
+            "reading": "kikoeru",
+            "meaning": "To be audible"
+        },
+        {
+            "word": "見える",
+            "reading": "mieru",
+            "meaning": "To be visible"
+        },
+        {
+            "word": "言う",
+            "reading": "iu",
+            "meaning": "To say / tell"
+        },
+        {
+            "word": "呼ぶ",
+            "reading": "yobu",
+            "meaning": "To call"
+        },
+        {
+            "word": "探す",
+            "reading": "sagasu",
+            "meaning": "To search for"
+        },
+        {
+            "word": "見つける",
+            "reading": "mitsukeru",
+            "meaning": "To find"
+        },
+        {
+            "word": "払う",
+            "reading": "harau",
+            "meaning": "To pay"
+        },
+        {
+            "word": "頼む",
+            "reading": "tanomu",
+            "meaning": "To request / order"
+        },
+        {
+            "word": "断る",
+            "reading": "kotowaru",
+            "meaning": "To refuse"
+        },
+        {
+            "word": "手伝う",
+            "reading": "tetsudau",
+            "meaning": "To help"
+        },
+        {
+            "word": "選ぶ",
+            "reading": "erabu",
+            "meaning": "To choose"
+        },
+        {
+            "word": "並ぶ",
+            "reading": "narabu",
+            "meaning": "To line up"
+        },
+        {
+            "word": "座る",
+            "reading": "suwaru",
+            "meaning": "To sit"
+        },
+        {
+            "word": "立つ",
+            "reading": "tatsu",
+            "meaning": "To stand"
+        },
+        {
+            "word": "置く",
+            "reading": "oku",
+            "meaning": "To place / put"
+        },
+        {
+            "word": "動く",
+            "reading": "ugoku",
+            "meaning": "To move"
+        },
+        {
+            "word": "止める",
+            "reading": "tomeru",
+            "meaning": "To stop (something)"
+        },
+        {
+            "word": "始める",
+            "reading": "hajimeru",
+            "meaning": "To start (something)"
+        },
+        {
+            "word": "続ける",
+            "reading": "tsuzukeru",
+            "meaning": "To continue"
+        },
+        {
+            "word": "直す",
+            "reading": "naosu",
+            "meaning": "To repair / fix"
+        },
+        {
+            "word": "壊す",
+            "reading": "kowasu",
+            "meaning": "To break"
+        },
+        {
+            "word": "開ける",
+            "reading": "akeru",
+            "meaning": "To open"
+        }
+    ],
+    "liarGameData": {
+        "culturalTraps": [
+            {
+                "trap": "It is okay to walk inside a Japanese home with your outdoor shoes on if they are clean.",
+                "correctVersion": "Outdoor shoes must ALWAYS be removed at the genkan (entrance). Even clean shoes are a major taboo indoors.",
+                "explanation": "Japanese hygiene culture strictly separates outside dirt from inside living spaces. Slippers are often provided for indoor use."
+            },
+            {
+                "trap": "On Japanese trains, it is polite to talk loudly on your phone to show you are busy and productive.",
+                "correctVersion": "Talking on your phone on Japanese trains is considered extremely rude. Phones should be set to silent mode (manner mode).",
+                "explanation": "Trains are considered quiet public spaces. Loud conversations or phone calls disturb the harmony and other passengers."
+            },
+            {
+                "trap": "You can leave your chopsticks sticking vertically in your food if you need to take a break.",
+                "correctVersion": "Never stick chopsticks vertically into food (especially rice), as this is associated with funeral rituals.",
+                "explanation": "This is known as tate-bashi and is an auspicious sign associated with offering food to the dead."
+            }
+        ]
+    }
+}

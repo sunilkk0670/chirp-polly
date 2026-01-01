@@ -1,0 +1,629 @@
+{
+  "id": "fr_b1_m30",
+  "moduleId": "fr_b1_m30",
+  "name": "B1 French - Module 30: Advanced Synthesis",
+  "theme": "B1 French - Module 30: Advanced Synthesis",
+  "order": 30,
+  "count": 100,
+  "vocabularyItems": [
+    {
+      "word": "Synthèse",
+      "meaning": "Synthesis",
+      "reading": "san-tez",
+      "example_sentence": "Faire une synthèse."
+    },
+    {
+      "word": "Résumé",
+      "meaning": "Summary",
+      "reading": "ray-zoo-may",
+      "example_sentence": "Un résumé du texte."
+    },
+    {
+      "word": "Récapitulation",
+      "meaning": "Recapitulation",
+      "reading": "ray-ka-pee-too-la-syoh",
+      "example_sentence": "Une récapitulation des points."
+    },
+    {
+      "word": "Révision",
+      "meaning": "Revision / Review",
+      "reading": "ray-vee-zyoh",
+      "example_sentence": "La révision des leçons."
+    },
+    {
+      "word": "Réviser",
+      "meaning": "To revise / Review",
+      "reading": "ray-vee-zay",
+      "example_sentence": "Réviser pour l'examen."
+    },
+    {
+      "word": "Examen",
+      "meaning": "Exam",
+      "reading": "eg-za-ma",
+      "example_sentence": "Passer un examen."
+    },
+    {
+      "word": "Test",
+      "meaning": "Test",
+      "reading": "test",
+      "example_sentence": "Un test de niveau."
+    },
+    {
+      "word": "Épreuve",
+      "meaning": "Test / Trial",
+      "reading": "ay-pruhv",
+      "example_sentence": "Une épreuve difficile."
+    },
+    {
+      "word": "Évaluation",
+      "meaning": "Evaluation / Assessment",
+      "reading": "ay-va-loo-a-syoh",
+      "example_sentence": "L'évaluation des compétences."
+    },
+    {
+      "word": "Évaluer",
+      "meaning": "To evaluate / Assess",
+      "reading": "ay-va-loo-ay",
+      "example_sentence": "Évaluer les progrès."
+    },
+    {
+      "word": "Note",
+      "meaning": "Grade / Note",
+      "reading": "noht",
+      "example_sentence": "Avoir une bonne note."
+    },
+    {
+      "word": "Résultat",
+      "meaning": "Result",
+      "reading": "ray-zool-ta",
+      "example_sentence": "Les résultats de l'examen."
+    },
+    {
+      "word": "Réussite",
+      "meaning": "Success",
+      "reading": "ray-oo-seet",
+      "example_sentence": "La réussite scolaire."
+    },
+    {
+      "word": "Réussir",
+      "meaning": "To succeed",
+      "reading": "ray-oo-seer",
+      "example_sentence": "Réussir l'examen."
+    },
+    {
+      "word": "Échec",
+      "meaning": "Failure",
+      "reading": "ay-shek",
+      "example_sentence": "Éviter l'échec."
+    },
+    {
+      "word": "Échouer",
+      "meaning": "To fail",
+      "reading": "ay-shoo-ay",
+      "example_sentence": "Échouer à l'examen."
+    },
+    {
+      "word": "Progrès",
+      "meaning": "Progress",
+      "reading": "proh-gray",
+      "example_sentence": "Faire des progrès."
+    },
+    {
+      "word": "Progresser",
+      "meaning": "To progress",
+      "reading": "proh-gre-say",
+      "example_sentence": "Progresser rapidement."
+    },
+    {
+      "word": "Amélioration",
+      "meaning": "Improvement",
+      "reading": "a-may-lyoh-ra-syoh",
+      "example_sentence": "Une amélioration notable."
+    },
+    {
+      "word": "Améliorer",
+      "meaning": "To improve",
+      "reading": "a-may-lyoh-ray",
+      "example_sentence": "Améliorer ses compétences."
+    },
+    {
+      "word": "Développement",
+      "meaning": "Development",
+      "reading": "day-vuh-lohp-mah",
+      "example_sentence": "Le développement personnel."
+    },
+    {
+      "word": "Développer",
+      "meaning": "To develop",
+      "reading": "day-vuh-loh-pay",
+      "example_sentence": "Développer ses talents."
+    },
+    {
+      "word": "Apprentissage",
+      "meaning": "Learning",
+      "reading": "a-prahn-tee-sazh",
+      "example_sentence": "L'apprentissage des langues."
+    },
+    {
+      "word": "Apprendre",
+      "meaning": "To learn",
+      "reading": "a-prahn-druh",
+      "example_sentence": "Apprendre le français."
+    },
+    {
+      "word": "Étudier",
+      "meaning": "To study",
+      "reading": "ay-too-dyay",
+      "example_sentence": "Étudier sérieusement."
+    },
+    {
+      "word": "Étude",
+      "meaning": "Study",
+      "reading": "ay-tood",
+      "example_sentence": "Les études supérieures."
+    },
+    {
+      "word": "Pratique",
+      "meaning": "Practice",
+      "reading": "pra-teek",
+      "example_sentence": "La pratique régulière."
+    },
+    {
+      "word": "Pratiquer",
+      "meaning": "To practice",
+      "reading": "pra-tee-kay",
+      "example_sentence": "Pratiquer tous les jours."
+    },
+    {
+      "word": "Exercice",
+      "meaning": "Exercise",
+      "reading": "eg-zer-sees",
+      "example_sentence": "Faire un exercice."
+    },
+    {
+      "word": "S'exercer",
+      "meaning": "To practice / Exercise",
+      "reading": "seg-zer-say",
+      "example_sentence": "S'exercer régulièrement."
+    },
+    {
+      "word": "Entraînement",
+      "meaning": "Training",
+      "reading": "ahn-tren-mah",
+      "example_sentence": "L'entraînement quotidien."
+    },
+    {
+      "word": "S'entraîner",
+      "meaning": "To train",
+      "reading": "sahn-tre-nay",
+      "example_sentence": "S'entraîner chaque jour."
+    },
+    {
+      "word": "Répétition",
+      "meaning": "Repetition / Rehearsal",
+      "reading": "ray-pay-tee-syoh",
+      "example_sentence": "La répétition est essentielle."
+    },
+    {
+      "word": "Répéter",
+      "meaning": "To repeat / Rehearse",
+      "reading": "ray-pay-tay",
+      "example_sentence": "Répéter plusieurs fois."
+    },
+    {
+      "word": "Mémoriser",
+      "meaning": "To memorize",
+      "reading": "may-moh-ree-zay",
+      "example_sentence": "Mémoriser du vocabulaire."
+    },
+    {
+      "word": "Mémoire",
+      "meaning": "Memory",
+      "reading": "may-mwahr",
+      "example_sentence": "Avoir une bonne mémoire."
+    },
+    {
+      "word": "Retenir",
+      "meaning": "To remember / Retain",
+      "reading": "ruh-tuh-neer",
+      "example_sentence": "Retenir une information."
+    },
+    {
+      "word": "Se souvenir",
+      "meaning": "To remember",
+      "reading": "suh soo-vuh-neer",
+      "example_sentence": "Se souvenir de quelque chose."
+    },
+    {
+      "word": "Oublier",
+      "meaning": "To forget",
+      "reading": "oo-blee-ay",
+      "example_sentence": "Oublier un mot."
+    },
+    {
+      "word": "Rappeler",
+      "meaning": "To remind / Recall",
+      "reading": "ra-puh-lay",
+      "example_sentence": "Se rappeler un détail."
+    },
+    {
+      "word": "Compréhension",
+      "meaning": "Comprehension / Understanding",
+      "reading": "kohm-pray-ahn-syoh",
+      "example_sentence": "La compréhension orale."
+    },
+    {
+      "word": "Comprendre",
+      "meaning": "To understand",
+      "reading": "kohm-prahn-druh",
+      "example_sentence": "Comprendre le français."
+    },
+    {
+      "word": "Expression",
+      "meaning": "Expression",
+      "reading": "eks-pray-syoh",
+      "example_sentence": "L'expression écrite."
+    },
+    {
+      "word": "Exprimer",
+      "meaning": "To express",
+      "reading": "eks-pree-may",
+      "example_sentence": "S'exprimer clairement."
+    },
+    {
+      "word": "Communication",
+      "meaning": "Communication",
+      "reading": "koh-moo-nee-ka-syoh",
+      "example_sentence": "La communication efficace."
+    },
+    {
+      "word": "Communiquer",
+      "meaning": "To communicate",
+      "reading": "koh-moo-nee-kay",
+      "example_sentence": "Communiquer en français."
+    },
+    {
+      "word": "Conversation",
+      "meaning": "Conversation",
+      "reading": "kohn-ver-sa-syoh",
+      "example_sentence": "Une conversation intéressante."
+    },
+    {
+      "word": "Converser",
+      "meaning": "To converse",
+      "reading": "kohn-ver-say",
+      "example_sentence": "Converser avec des natifs."
+    },
+    {
+      "word": "Dialogue",
+      "meaning": "Dialogue",
+      "reading": "dya-lohg",
+      "example_sentence": "Un dialogue authentique."
+    },
+    {
+      "word": "Discuter",
+      "meaning": "To discuss",
+      "reading": "dees-koo-tay",
+      "example_sentence": "Discuter d'un sujet."
+    },
+    {
+      "word": "Discussion",
+      "meaning": "Discussion",
+      "reading": "dees-koo-syoh",
+      "example_sentence": "Une discussion animée."
+    },
+    {
+      "word": "Parler",
+      "meaning": "To speak",
+      "reading": "par-lay",
+      "example_sentence": "Parler couramment."
+    },
+    {
+      "word": "Dire",
+      "meaning": "To say / Tell",
+      "reading": "deer",
+      "example_sentence": "Dire la vérité."
+    },
+    {
+      "word": "Raconter",
+      "meaning": "To tell / Narrate",
+      "reading": "ra-kohn-tay",
+      "example_sentence": "Raconter une histoire."
+    },
+    {
+      "word": "Décrire",
+      "meaning": "To describe",
+      "reading": "day-kreer",
+      "example_sentence": "Décrire une situation."
+    },
+    {
+      "word": "Description",
+      "meaning": "Description",
+      "reading": "des-kreep-syoh",
+      "example_sentence": "Une description détaillée."
+    },
+    {
+      "word": "Expliquer",
+      "meaning": "To explain",
+      "reading": "eks-plee-kay",
+      "example_sentence": "Expliquer clairement."
+    },
+    {
+      "word": "Explication",
+      "meaning": "Explanation",
+      "reading": "eks-plee-ka-syoh",
+      "example_sentence": "Demander une explication."
+    },
+    {
+      "word": "Définir",
+      "meaning": "To define",
+      "reading": "day-fee-neer",
+      "example_sentence": "Définir un mot."
+    },
+    {
+      "word": "Définition",
+      "meaning": "Definition",
+      "reading": "day-fee-nee-syoh",
+      "example_sentence": "La définition exacte."
+    },
+    {
+      "word": "Signifier",
+      "meaning": "To mean / Signify",
+      "reading": "see-nyee-fyay",
+      "example_sentence": "Que signifie ce mot ?"
+    },
+    {
+      "word": "Signification",
+      "meaning": "Meaning",
+      "reading": "see-nyee-fee-ka-syoh",
+      "example_sentence": "La signification du terme."
+    },
+    {
+      "word": "Sens",
+      "meaning": "Meaning / Sense",
+      "reading": "sahns",
+      "example_sentence": "Le sens d'une phrase."
+    },
+    {
+      "word": "Contexte",
+      "meaning": "Context",
+      "reading": "kohn-tekst",
+      "example_sentence": "Comprendre le contexte."
+    },
+    {
+      "word": "Exemple",
+      "meaning": "Example",
+      "reading": "eg-zahm-pluh",
+      "example_sentence": "Donner un exemple."
+    },
+    {
+      "word": "Illustration",
+      "meaning": "Illustration",
+      "reading": "ee-loos-tra-syoh",
+      "example_sentence": "Une illustration concrète."
+    },
+    {
+      "word": "Démonstration",
+      "meaning": "Demonstration",
+      "reading": "day-mohn-stra-syoh",
+      "example_sentence": "Faire une démonstration."
+    },
+    {
+      "word": "Montrer",
+      "meaning": "To show",
+      "reading": "mohn-tray",
+      "example_sentence": "Montrer un exemple."
+    },
+    {
+      "word": "Indiquer",
+      "meaning": "To indicate",
+      "reading": "an-dee-kay",
+      "example_sentence": "Indiquer la direction."
+    },
+    {
+      "word": "Préciser",
+      "meaning": "To specify",
+      "reading": "pray-see-zay",
+      "example_sentence": "Préciser un point."
+    },
+    {
+      "word": "Clarifier",
+      "meaning": "To clarify",
+      "reading": "kla-ree-fyay",
+      "example_sentence": "Clarifier une idée."
+    },
+    {
+      "word": "Simplifier",
+      "meaning": "To simplify",
+      "reading": "sam-plee-fyay",
+      "example_sentence": "Simplifier l'explication."
+    },
+    {
+      "word": "Compliquer",
+      "meaning": "To complicate",
+      "reading": "kohm-plee-kay",
+      "example_sentence": "Ne pas compliquer les choses."
+    },
+    {
+      "word": "Faciliter",
+      "meaning": "To facilitate",
+      "reading": "fa-see-lee-tay",
+      "example_sentence": "Faciliter l'apprentissage."
+    },
+    {
+      "word": "Difficulté",
+      "meaning": "Difficulty",
+      "reading": "dee-fee-kool-tay",
+      "example_sentence": "Surmonter une difficulté."
+    },
+    {
+      "word": "Difficile",
+      "meaning": "Difficult",
+      "reading": "dee-fee-seel",
+      "example_sentence": "Un exercice difficile."
+    },
+    {
+      "word": "Facile",
+      "meaning": "Easy",
+      "reading": "fa-seel",
+      "example_sentence": "Un texte facile."
+    },
+    {
+      "word": "Simple",
+      "meaning": "Simple",
+      "reading": "sam-pluh",
+      "example_sentence": "Une explication simple."
+    },
+    {
+      "word": "Complexe",
+      "meaning": "Complex",
+      "reading": "kohm-pleks",
+      "example_sentence": "Une structure complexe."
+    },
+    {
+      "word": "Compliqué",
+      "meaning": "Complicated",
+      "reading": "kohm-plee-kay",
+      "example_sentence": "C'est compliqué."
+    },
+    {
+      "word": "Clair",
+      "meaning": "Clear",
+      "reading": "kler",
+      "example_sentence": "Une explication claire."
+    },
+    {
+      "word": "Évident",
+      "meaning": "Obvious / Evident",
+      "reading": "ay-vee-dah",
+      "example_sentence": "C'est évident."
+    },
+    {
+      "word": "Logique",
+      "meaning": "Logical",
+      "reading": "loh-zheek",
+      "example_sentence": "Un raisonnement logique."
+    },
+    {
+      "word": "Cohérent",
+      "meaning": "Coherent",
+      "reading": "koh-ay-rah",
+      "example_sentence": "Un discours cohérent."
+    },
+    {
+      "word": "Précis",
+      "meaning": "Precise",
+      "reading": "pray-see",
+      "example_sentence": "Une réponse précise."
+    },
+    {
+      "word": "Exact",
+      "meaning": "Exact",
+      "reading": "eg-zakt",
+      "example_sentence": "La réponse exacte."
+    },
+    {
+      "word": "Correct",
+      "meaning": "Correct",
+      "reading": "koh-rekt",
+      "example_sentence": "Une phrase correcte."
+    },
+    {
+      "word": "Incorrect",
+      "meaning": "Incorrect",
+      "reading": "an-koh-rekt",
+      "example_sentence": "Une réponse incorrecte."
+    },
+    {
+      "word": "Erreur",
+      "meaning": "Error / Mistake",
+      "reading": "ay-rur",
+      "example_sentence": "Corriger une erreur."
+    },
+    {
+      "word": "Faute",
+      "meaning": "Mistake / Fault",
+      "reading": "foht",
+      "example_sentence": "Une faute de grammaire."
+    },
+    {
+      "word": "Correction",
+      "meaning": "Correction",
+      "reading": "koh-rek-syoh",
+      "example_sentence": "La correction des erreurs."
+    },
+    {
+      "word": "Corriger",
+      "meaning": "To correct",
+      "reading": "koh-ree-zhay",
+      "example_sentence": "Corriger les fautes."
+    },
+    {
+      "word": "Perfectionner",
+      "meaning": "To perfect",
+      "reading": "per-fek-syoh-nay",
+      "example_sentence": "Perfectionner son français."
+    },
+    {
+      "word": "Maîtrise",
+      "meaning": "Mastery",
+      "reading": "may-treez",
+      "example_sentence": "La maîtrise de la langue."
+    },
+    {
+      "word": "Maîtriser",
+      "meaning": "To master",
+      "reading": "may-tree-zay",
+      "example_sentence": "Maîtriser le français."
+    },
+    {
+      "word": "Compétence",
+      "meaning": "Competence / Skill",
+      "reading": "kohm-pay-tahns",
+      "example_sentence": "Développer ses compétences."
+    },
+    {
+      "word": "Capacité",
+      "meaning": "Capacity / Ability",
+      "reading": "ka-pa-see-tay",
+      "example_sentence": "La capacité d'apprendre."
+    },
+    {
+      "word": "Aptitude",
+      "meaning": "Aptitude",
+      "reading": "ap-tee-tood",
+      "example_sentence": "Une aptitude naturelle."
+    },
+    {
+      "word": "Talent",
+      "meaning": "Talent",
+      "reading": "ta-lah",
+      "example_sentence": "Avoir du talent."
+    },
+    {
+      "word": "Don",
+      "meaning": "Gift / Talent",
+      "reading": "doh",
+      "example_sentence": "Un don pour les langues."
+    }
+  ],
+  "liarGameData": {
+    "culturalTraps": [
+      {
+        "trap": "Once you finish B1, you're fluent in French.",
+        "correctVersion": "B1 is intermediate. You can handle most situations, but fluency requires B2-C1. Native-like proficiency is C2.",
+        "explanation": "The CEFR levels are: A1-A2 (basic), B1-B2 (independent), C1-C2 (proficient). B1 is the midpoint, not the endpoint."
+      },
+      {
+        "trap": "'Réviser' means 'to revise' (change) in French like in English.",
+        "correctVersion": "'Réviser' means 'to review/study' in French. To revise (change) a text is 'modifier' or 'corriger'.",
+        "explanation": "This false friend trips up students. 'Réviser pour l'examen' means 'to study for the exam', not 'to change the exam'."
+      },
+      {
+        "trap": "French people will always correct your mistakes to help you learn.",
+        "correctVersion": "French people usually won't correct you unless asked. They prioritize communication over correction to avoid seeming rude.",
+        "explanation": "Unlike language teachers, native speakers generally let mistakes slide. If you want feedback, explicitly ask for it."
+      }
+    ]
+  }
+}

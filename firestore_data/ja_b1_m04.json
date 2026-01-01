@@ -1,0 +1,612 @@
+{
+    "moduleId": "ja_b1_m04",
+    "theme": "Media & Advertising",
+    "order": 4,
+    "vocabularyItems": [
+        {
+            "word": "債務",
+            "reading": "saimu",
+            "meaning": "Debt/Obligation",
+            "example_sentence": "債務を履行する反面、経済的困難に直面しています。"
+        },
+        {
+            "word": "破産",
+            "reading": "hasan",
+            "meaning": "Bankruptcy",
+            "example_sentence": "破産を申請することによって、債務から解放されます。"
+        },
+        {
+            "word": "再生",
+            "reading": "saisei",
+            "meaning": "Rehabilitation/Reconstruction",
+            "example_sentence": "民事再生を申請する反面、事業の継続を目指します。"
+        },
+        {
+            "word": "保護観察",
+            "reading": "hogokansatsu",
+            "meaning": "Probation",
+            "example_sentence": "保護観察下に置かれる反面、定期的な報告義務があります。"
+        },
+        {
+            "word": "少年法",
+            "reading": "shounenhou",
+            "meaning": "Juvenile law",
+            "example_sentence": "少年法によって保護されるうちに、更生の機会が与えられます。"
+        },
+        {
+            "word": "成人",
+            "reading": "seijin",
+            "meaning": "Adult/Coming of age",
+            "example_sentence": "成人として扱われることによって、刑事責任が重くなります。"
+        },
+        {
+            "word": "未成年",
+            "reading": "miseinen",
+            "meaning": "Minor/Underage",
+            "example_sentence": "未成年である反面、一定の犯罪には厳罰化の傾向もあります。"
+        },
+        {
+            "word": "約定",
+            "reading": "yakujou",
+            "meaning": "Agreement/Contract",
+            "example_sentence": "約定を遵守することによって、商取引の信頼性が保たれます。"
+        },
+        {
+            "word": "裁定",
+            "reading": "saitei",
+            "meaning": "Ruling/Decision",
+            "example_sentence": "第三者による裁定を仰ぐうちに、紛争の解決策が見えてきました。"
+        },
+        {
+            "word": "教化",
+            "reading": "kyouka",
+            "meaning": "Edification/Reformation",
+            "example_sentence": "受刑者を教化することによって、社会復帰を支援します。"
+        },
+        {
+            "word": "破綻",
+            "reading": "hatan",
+            "meaning": "Bankruptcy/Collapse",
+            "example_sentence": "経営が破綻するうちに、多くの債権者が損失を被りました。"
+        },
+        {
+            "word": "犯行",
+            "reading": "hankou",
+            "meaning": "Criminal act",
+            "example_sentence": "犯行の動機を解明することによって、再発防止策を講じます。"
+        },
+        {
+            "word": "公判",
+            "reading": "kouhan",
+            "meaning": "Public trial",
+            "example_sentence": "公判が開かれることによって、事件の詳細が明らかになります。"
+        },
+        {
+            "word": "検挙",
+            "reading": "kenkyo",
+            "meaning": "Arrest/Apprehension",
+            "example_sentence": "容疑者を検挙することによって、捜査が大きく前進しました。"
+        },
+        {
+            "word": "被疑者",
+            "reading": "higisha",
+            "meaning": "Suspect",
+            "example_sentence": "被疑者の権利を保護する反面、真実の究明も進めます。"
+        },
+        {
+            "word": "宣告",
+            "reading": "senkoku",
+            "meaning": "Sentence/Pronouncement",
+            "example_sentence": "刑を宣告されることによって、法的責任が確定します。"
+        },
+        {
+            "word": "改心",
+            "reading": "kaishin",
+            "meaning": "Reformation/Repentance",
+            "example_sentence": "罪を悔いて改心するうちに、新たな人生を歩み始めました。"
+        },
+        {
+            "word": "調整",
+            "reading": "chousei",
+            "meaning": "Mediation/Coordination",
+            "example_sentence": "利害を調整することによって、双方が納得できる解決策を見出します。"
+        },
+        {
+            "word": "弁済",
+            "reading": "bensai",
+            "meaning": "Repayment/Reimbursement",
+            "example_sentence": "債務を弁済するうちに、ようやく経済的な自由を取り戻しました。"
+        },
+        {
+            "word": "補完",
+            "reading": "hoken",
+            "meaning": "Complement/Supplementation",
+            "example_sentence": "不足分を補完することによって、全体のバランスが保たれます。"
+        },
+        {
+            "word": "配賦",
+            "reading": "haifu",
+            "meaning": "Allocation/Distribution",
+            "example_sentence": "費用を各部門に配賦することによって、正確な損益計算が可能になります。"
+        },
+        {
+            "word": "提訴",
+            "reading": "teiso",
+            "meaning": "Filing a lawsuit",
+            "example_sentence": "裁判所に提訴することによって、法的な解決を図ります。"
+        },
+        {
+            "word": "審査",
+            "reading": "shinsa",
+            "meaning": "Examination/Screening",
+            "example_sentence": "厳格な審査を経ることによって、公正性が担保されます。"
+        },
+        {
+            "word": "判定",
+            "reading": "hantei",
+            "meaning": "Judgment/Decision",
+            "example_sentence": "微妙な判定を下す反面、誤審の可能性もゼロではありません。"
+        },
+        {
+            "word": "裁く",
+            "reading": "sabaku",
+            "meaning": "To judge",
+            "example_sentence": "罪を裁くことによって、社会の秩序を保ちます。"
+        },
+        {
+            "word": "心理",
+            "reading": "shinri",
+            "meaning": "Psychology/Mentality",
+            "example_sentence": "人間の心理を理解することによって、より良いコミュニケーションが可能になります。"
+        },
+        {
+            "word": "精神",
+            "reading": "seishin",
+            "meaning": "Spirit/Mind",
+            "example_sentence": "精神的な健康を保つ反面、身体的なケアも怠ってはなりません。"
+        },
+        {
+            "word": "感情",
+            "reading": "kanjou",
+            "meaning": "Emotion/Feeling",
+            "example_sentence": "感情をコントロールするうちに、冷静な判断ができるようになりました。"
+        },
+        {
+            "word": "情緒",
+            "reading": "joucho",
+            "meaning": "Emotion/Sentiment",
+            "example_sentence": "情緒が安定している反面、時には感情を表に出すことも大切です。"
+        },
+        {
+            "word": "気質",
+            "reading": "kishitsu",
+            "meaning": "Temperament/Disposition",
+            "example_sentence": "生まれ持った気質によって、ストレスへの対処法が異なります。"
+        },
+        {
+            "word": "性格",
+            "reading": "seikaku",
+            "meaning": "Personality/Character",
+            "example_sentence": "性格を変えようと努力するうちに、自己理解が深まりました。"
+        },
+        {
+            "word": "人格",
+            "reading": "jinkaku",
+            "meaning": "Personality/Character",
+            "example_sentence": "人格を尊重する反面、問題行動には毅然と対応すべきです。"
+        },
+        {
+            "word": "個性",
+            "reading": "kosei",
+            "meaning": "Individuality",
+            "example_sentence": "個性を伸ばすことによって、独自の価値を生み出せます。"
+        },
+        {
+            "word": "特性",
+            "reading": "tokusei",
+            "meaning": "Characteristic/Trait",
+            "example_sentence": "各人の特性を理解するうちに、チームの協力体制が強化されました。"
+        },
+        {
+            "word": "傾向",
+            "reading": "keikou",
+            "meaning": "Tendency/Trend",
+            "example_sentence": "完璧主義の傾向がある反面、柔軟性に欠けることもあります。"
+        },
+        {
+            "word": "習性",
+            "reading": "shuusei",
+            "meaning": "Habit/Nature",
+            "example_sentence": "長年の習性を変えるうちに、新たな自分を発見しました。"
+        },
+        {
+            "word": "癖",
+            "reading": "kuse",
+            "meaning": "Habit/Quirk",
+            "example_sentence": "悪い癖を直す反面、それが個性の一部でもあることを認識します。"
+        },
+        {
+            "word": "本能",
+            "reading": "honnou",
+            "meaning": "Instinct",
+            "example_sentence": "本能に従って行動するうちに、理性との葛藤が生じます。"
+        },
+        {
+            "word": "欲求",
+            "reading": "yokkyuu",
+            "meaning": "Desire/Need",
+            "example_sentence": "承認欲求を満たす反面、他者への依存が強まるリスクもあります。"
+        },
+        {
+            "word": "欲望",
+            "reading": "yokubou",
+            "meaning": "Desire/Greed",
+            "example_sentence": "欲望をコントロールすることによって、精神的な安定が得られます。"
+        },
+        {
+            "word": "衝動",
+            "reading": "shoudou",
+            "meaning": "Impulse/Urge",
+            "example_sentence": "衝動的に行動する反面、後悔することも少なくありません。"
+        },
+        {
+            "word": "抑制",
+            "reading": "yokusei",
+            "meaning": "Suppression/Restraint",
+            "example_sentence": "感情を抑制するうちに、ストレスが蓄積していきました。"
+        },
+        {
+            "word": "抑圧",
+            "reading": "yokuatsu",
+            "meaning": "Repression/Suppression",
+            "example_sentence": "欲求を抑圧する反面、心の奥底で葛藤が続いています。"
+        },
+        {
+            "word": "発散",
+            "reading": "hassan",
+            "meaning": "Venting/Release",
+            "example_sentence": "ストレスを発散することによって、心身の健康を保ちます。"
+        },
+        {
+            "word": "解消",
+            "reading": "kaishou",
+            "meaning": "Resolution/Relief",
+            "example_sentence": "不安を解消するうちに、前向きな気持ちになれました。"
+        },
+        {
+            "word": "緩和",
+            "reading": "kanwa",
+            "meaning": "Mitigation/Alleviation",
+            "example_sentence": "痛みを緩和する反面、根本的な治療も必要です。"
+        },
+        {
+            "word": "軽減",
+            "reading": "keigen",
+            "meaning": "Reduction/Alleviation",
+            "example_sentence": "負担を軽減することによって、作業効率が向上します。"
+        },
+        {
+            "word": "増幅",
+            "reading": "zoufuku",
+            "meaning": "Amplification",
+            "example_sentence": "不安が増幅するうちに、冷静な判断ができなくなりました。"
+        },
+        {
+            "word": "増大",
+            "reading": "zoudai",
+            "meaning": "Increase/Growth",
+            "example_sentence": "ストレスが増大する反面、対処法を学ぶ機会でもあります。"
+        },
+        {
+            "word": "爆発",
+            "reading": "bakuhatsu",
+            "meaning": "Explosion/Outburst",
+            "example_sentence": "我慢の限界を超えて感情が爆発する反面、後悔が残ります。"
+        },
+        {
+            "word": "噴出",
+            "reading": "funshutsu",
+            "meaning": "Eruption/Outpouring",
+            "example_sentence": "抑えていた感情が噴出するうちに、周囲を驚かせました。"
+        },
+        {
+            "word": "表出",
+            "reading": "hyoushutsu",
+            "meaning": "Expression/Manifestation",
+            "example_sentence": "内面の葛藤が表出する反面、それを認識することが第一歩です。"
+        },
+        {
+            "word": "顕在",
+            "reading": "kenzai",
+            "meaning": "Manifestation/Actualization",
+            "example_sentence": "潜在的な問題が顕在化することによって、対策が可能になります。"
+        },
+        {
+            "word": "潜在",
+            "reading": "senzai",
+            "meaning": "Latent/Potential",
+            "example_sentence": "潜在能力を引き出すうちに、自己成長を実感できます。"
+        },
+        {
+            "word": "無意識",
+            "reading": "muishiki",
+            "meaning": "Unconscious",
+            "example_sentence": "無意識の行動を分析する反面、自己理解が深まります。"
+        },
+        {
+            "word": "意識",
+            "reading": "ishiki",
+            "meaning": "Consciousness/Awareness",
+            "example_sentence": "問題を意識することによって、改善への第一歩を踏み出せます。"
+        },
+        {
+            "word": "認知",
+            "reading": "ninchi",
+            "meaning": "Cognition/Recognition",
+            "example_sentence": "認知の歪みを修正する反面、長年の思考パターンを変えるのは困難です。"
+        },
+        {
+            "word": "知覚",
+            "reading": "chikaku",
+            "meaning": "Perception",
+            "example_sentence": "感覚的な知覚によって、世界を理解しています。"
+        },
+        {
+            "word": "錯覚",
+            "reading": "sakkaku",
+            "meaning": "Illusion/Misperception",
+            "example_sentence": "視覚的な錯覚に惑わされるうちに、真実が見えなくなります。"
+        },
+        {
+            "word": "幻覚",
+            "reading": "genkaku",
+            "meaning": "Hallucination",
+            "example_sentence": "極度のストレスによって幻覚が生じる反面、適切な治療が必要です。"
+        },
+        {
+            "word": "妄想",
+            "reading": "mousou",
+            "meaning": "Delusion/Fantasy",
+            "example_sentence": "妄想に囚われることによって、現実との乖離が深まります。"
+        },
+        {
+            "word": "区別",
+            "reading": "kubetsu",
+            "meaning": "Distinction/Differentiation",
+            "example_sentence": "差別と区別を明確にする反面、その境界線は曖昧です。"
+        },
+        {
+            "word": "直感",
+            "reading": "chokkan",
+            "meaning": "Intuition",
+            "example_sentence": "直感に従って行動することによって、思わぬ成功を収めることもあります。"
+        },
+        {
+            "word": "推理",
+            "reading": "suiri",
+            "meaning": "Reasoning/Inference",
+            "example_sentence": "論理的に推理するうちに、事件の真相に迫りました。"
+        },
+        {
+            "word": "思考",
+            "reading": "shikou",
+            "meaning": "Thinking/Thought",
+            "example_sentence": "批判的思考を養う反面、柔軟性も失わないようにします。"
+        },
+        {
+            "word": "思索",
+            "reading": "shisaku",
+            "meaning": "Speculation/Contemplation",
+            "example_sentence": "深く思索することによって、人生の意味を見出そうとしました。"
+        },
+        {
+            "word": "熟考",
+            "reading": "jukkou",
+            "meaning": "Deliberation/Careful thought",
+            "example_sentence": "十分に熟考するうちに、最善の選択肢が見えてきました。"
+        },
+        {
+            "word": "瞑想",
+            "reading": "meisou",
+            "meaning": "Meditation",
+            "example_sentence": "瞑想を実践する反面、雑念を払うのは容易ではありません。"
+        },
+        {
+            "word": "集中",
+            "reading": "shuuchuu",
+            "meaning": "Concentration/Focus",
+            "example_sentence": "一つのことに集中することによって、高い成果が得られます。"
+        },
+        {
+            "word": "注意",
+            "reading": "chuui",
+            "meaning": "Attention/Caution",
+            "example_sentence": "細部に注意を払ううちに、ミスを未然に防げます。"
+        },
+        {
+            "word": "注目",
+            "reading": "chuumoku",
+            "meaning": "Attention/Notice",
+            "example_sentence": "世間の注目を集める反面、プライバシーが失われます。"
+        },
+        {
+            "word": "関心",
+            "reading": "kanshin",
+            "meaning": "Interest/Concern",
+            "example_sentence": "社会問題に関心を持つことによって、市民意識が高まります。"
+        },
+        {
+            "word": "興味",
+            "reading": "kyoumi",
+            "meaning": "Interest",
+            "example_sentence": "新しいことに興味を持つうちに、視野が広がりました。"
+        },
+        {
+            "word": "探究",
+            "reading": "tankyuu",
+            "meaning": "Inquiry/Exploration",
+            "example_sentence": "真理を探究することによって、知的満足を得られます。"
+        },
+        {
+            "word": "追求",
+            "reading": "tsuikyuu",
+            "meaning": "Pursuit",
+            "example_sentence": "理想を追求するうちに、現実とのバランスを失いがちです。"
+        },
+        {
+            "word": "拘り",
+            "reading": "kodawari",
+            "meaning": "Commitment/Particularity",
+            "example_sentence": "品質への拘りを持つ反面、効率性とのバランスも考慮します。"
+        },
+        {
+            "word": "協調",
+            "reading": "kyouchou",
+            "meaning": "Cooperation/Harmony",
+            "example_sentence": "他者と協調する反面、自己主張も忘れてはなりません。"
+        },
+        {
+            "word": "均衡",
+            "reading": "kinkou",
+            "meaning": "Balance/Equilibrium",
+            "example_sentence": "仕事と私生活の均衡を取るうちに、充実した日々を過ごせるようになりました。"
+        },
+        {
+            "word": "バランス",
+            "reading": "baransu",
+            "meaning": "Balance",
+            "example_sentence": "様々な要素のバランスを考える反面、完璧を求めすぎないことも大切です。"
+        },
+        {
+            "word": "偏り",
+            "reading": "katayori",
+            "meaning": "Bias/Imbalance",
+            "example_sentence": "考え方に偏りがあることに気づくうちに、多様な視点を取り入れるようになりました。"
+        },
+        {
+            "word": "傾斜",
+            "reading": "keisha",
+            "meaning": "Inclination/Tendency",
+            "example_sentence": "特定の方向への傾斜が見られる反面、中立性を保つ努力も必要です。"
+        },
+        {
+            "word": "傾倒",
+            "reading": "keitou",
+            "meaning": "Devotion/Inclination",
+            "example_sentence": "ある思想に傾倒するうちに、批判的思考が失われることもあります。"
+        },
+        {
+            "word": "専念",
+            "reading": "sennen",
+            "meaning": "Devotion/Concentration",
+            "example_sentence": "一つの目標に専念することによって、大きな成果を上げられます。"
+        },
+        {
+            "word": "専心",
+            "reading": "senshin",
+            "meaning": "Devotion/Dedication",
+            "example_sentence": "仕事に専心するうちに、家族との時間が減ってしまいました。"
+        },
+        {
+            "word": "熱中",
+            "reading": "netchuu",
+            "meaning": "Enthusiasm/Absorption",
+            "example_sentence": "趣味に熱中する反面、本業が疎かにならないよう注意します。"
+        },
+        {
+            "word": "夢中",
+            "reading": "muchuu",
+            "meaning": "Absorption/Fascination",
+            "example_sentence": "何かに夢中になることによって、時間を忘れて没頭できます。"
+        },
+        {
+            "word": "陶酔",
+            "reading": "tousui",
+            "meaning": "Intoxication/Ecstasy",
+            "example_sentence": "成功に陶酔するうちに、謙虚さを失ってしまうこともあります。"
+        },
+        {
+            "word": "恍惚",
+            "reading": "koukotsu",
+            "meaning": "Ecstasy/Rapture",
+            "example_sentence": "恍惚とした表情を浮かべる反面、現実から逃避しているだけかもしれません。"
+        },
+        {
+            "word": "気づき",
+            "reading": "kidzuki",
+            "meaning": "Awareness/Realization",
+            "example_sentence": "小さな気づきを積み重ねる反面、大きな変化へと繋がります。"
+        },
+        {
+            "word": "共感",
+            "reading": "kyoukan",
+            "meaning": "Empathy/Sympathy",
+            "example_sentence": "他者に共感する反面、自己を見失わないよう注意が必要です。"
+        },
+        {
+            "word": "同情",
+            "reading": "doujou",
+            "meaning": "Sympathy/Compassion",
+            "example_sentence": "困っている人に同情することによって、支援の手を差し伸べます。"
+        },
+        {
+            "word": "同感",
+            "reading": "doukan",
+            "meaning": "Agreement/Sympathy",
+            "example_sentence": "意見に同感を示すうちに、信頼関係が深まりました。"
+        },
+        {
+            "word": "賛同",
+            "reading": "sandou",
+            "meaning": "Agreement/Support",
+            "example_sentence": "提案に賛同する反面、実現可能性についても検討します。"
+        },
+        {
+            "word": "反対",
+            "reading": "hantai",
+            "meaning": "Opposition/Objection",
+            "example_sentence": "計画に反対するうちに、代替案を提示する責任も生じます。"
+        },
+        {
+            "word": "対立",
+            "reading": "tairitsu",
+            "meaning": "Confrontation/Conflict",
+            "example_sentence": "意見が対立する反面、議論を通じて理解が深まることもあります。"
+        },
+        {
+            "word": "折衷",
+            "reading": "setchuu",
+            "meaning": "Compromise/Eclecticism",
+            "example_sentence": "両案を折衷することによって、双方が受け入れられる案を作成しました。"
+        },
+        {
+            "word": "固執",
+            "reading": "koshitsu",
+            "meaning": "Adherence/Persistence",
+            "example_sentence": "過去の成功に固執するうちに、新たな可能性を見逃してしまいました。"
+        },
+        {
+            "word": "道義",
+            "reading": "dougi",
+            "meaning": "Morality/Ethics",
+            "example_sentence": "道義的な責任を果たす反面、法的義務とは異なることもあります。"
+        },
+        {
+            "word": "高慢",
+            "reading": "kouman",
+            "meaning": "Pride/Arrogance",
+            "example_sentence": "高慢な態度を改めるうちに、周囲との関係が改善されました。"
+        },
+        {
+            "word": "哀憐",
+            "reading": "airen",
+            "meaning": "Pity/Compassion",
+            "example_sentence": "哀憐の情を抱く反面、相手の自立を妨げないよう配慮します。"
+        }
+    ],
+    "liarGameData": {
+        "trap": "日本のニュースは全て客観的で偏向報道はありません。(Japanese news is all objective with no biased reporting.)",
+        "correctVersion": "日本のメディアにも偏向報道や報道の自由度に関する課題が存在します。記者クラブ制度や政治的圧力によって、報道内容に影響が出ることもあります。(Japanese media also has issues with biased reporting and press freedom. The press club system and political pressure can influence coverage.)",
+        "explanation": "While Japan has a robust media landscape, it's not immune to bias. The 'kisha club' (記者クラブ) system gives exclusive access to certain journalists, potentially limiting diverse perspectives. International press freedom rankings have noted concerns about self-censorship and government influence on Japanese media."
+    }
+}

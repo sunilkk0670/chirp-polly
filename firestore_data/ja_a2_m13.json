@@ -1,0 +1,612 @@
+{
+    "moduleId": "ja_a2_m13",
+    "theme": "Health & Wellness",
+    "order": 13,
+    "vocabularyItems": [
+        {
+            "word": "薬剤師",
+            "reading": "yakuzaishi",
+            "meaning": "Pharmacist",
+            "example_sentence": "薬剤師に相談します。"
+        },
+        {
+            "word": "うがい",
+            "reading": "ugai",
+            "meaning": "Gargling",
+            "example_sentence": "うがいをして予防します。"
+        },
+        {
+            "word": "手洗い",
+            "reading": "tearai",
+            "meaning": "Hand washing",
+            "example_sentence": "こまめな手洗いが大切です。"
+        },
+        {
+            "word": "消毒",
+            "reading": "shoudoku",
+            "meaning": "Disinfection",
+            "example_sentence": "アルコールで消毒します。"
+        },
+        {
+            "word": "マスク",
+            "reading": "masuku",
+            "meaning": "Face mask",
+            "example_sentence": "外出時はマスクをします。"
+        },
+        {
+            "word": "検温",
+            "reading": "ken'on",
+            "meaning": "Measuring temperature",
+            "example_sentence": "毎朝、検温をしています。"
+        },
+        {
+            "word": "高血圧",
+            "reading": "kouketsuatsu",
+            "meaning": "High blood pressure",
+            "example_sentence": "高血圧なので塩分を控えます。"
+        },
+        {
+            "word": "糖尿病",
+            "reading": "tounyoubyou",
+            "meaning": "Diabetes",
+            "example_sentence": "糖尿病の治療中です。"
+        },
+        {
+            "word": "睡眠",
+            "reading": "suimin",
+            "meaning": "Sleep",
+            "example_sentence": "十分な睡眠をとります。"
+        },
+        {
+            "word": "不眠",
+            "reading": "fumin",
+            "meaning": "Insomnia",
+            "example_sentence": "最近、不眠が続いています。"
+        },
+        {
+            "word": "栄養",
+            "reading": "eiyou",
+            "meaning": "Nutrition",
+            "example_sentence": "バランスの良い栄養を摂ります。"
+        },
+        {
+            "word": "食事制限",
+            "reading": "shokuji seigen",
+            "meaning": "Dietary restriction",
+            "example_sentence": "医師から食事制限をされています。"
+        },
+        {
+            "word": "運動不足",
+            "reading": "undou busoku",
+            "meaning": "Lack of exercise",
+            "example_sentence": "運動不足を解消したいです。"
+        },
+        {
+            "word": "筋肉痛",
+            "reading": "kinnikutsuu",
+            "meaning": "Muscle pain",
+            "example_sentence": "ジムの翌日は筋肉痛です。"
+        },
+        {
+            "word": "肩こり",
+            "reading": "katakori",
+            "meaning": "Stiff shoulder",
+            "example_sentence": "肩こりがひどいです。"
+        },
+        {
+            "word": "疲れ",
+            "reading": "tsukare",
+            "meaning": "Fatigue",
+            "example_sentence": "疲れが溜まっています。"
+        },
+        {
+            "word": "過労",
+            "reading": "karou",
+            "meaning": "Overwork",
+            "example_sentence": "過労で入院しました。"
+        },
+        {
+            "word": "ストレス",
+            "reading": "sutoresu",
+            "meaning": "Stress",
+            "example_sentence": "ストレスを溜めないようにします。"
+        },
+        {
+            "word": "精神的",
+            "reading": "seishinteki",
+            "meaning": "Mental/Psychological",
+            "example_sentence": "精神的な疲れを感じます。"
+        },
+        {
+            "word": "悩み",
+            "reading": "nayami",
+            "meaning": "Worry/Trouble",
+            "example_sentence": "悩みがあって眠れません。"
+        },
+        {
+            "word": "不安",
+            "reading": "fuan",
+            "meaning": "Anxiety",
+            "example_sentence": "将来に不安を感じます。"
+        },
+        {
+            "word": "リラックス",
+            "reading": "rirakkusu",
+            "meaning": "Relax",
+            "example_sentence": "お風呂でリラックスします。"
+        },
+        {
+            "word": "サプリメント",
+            "reading": "sapurimento",
+            "meaning": "Supplement",
+            "example_sentence": "ビタミンのサプリメントを飲みます。"
+        },
+        {
+            "word": "漢方薬",
+            "reading": "kanpousuyu",
+            "meaning": "Herbal medicine",
+            "example_sentence": "漢方薬を試してみます。"
+        },
+        {
+            "word": "採血",
+            "reading": "saiketsu",
+            "meaning": "Blood collection",
+            "example_sentence": "採血をしました。"
+        },
+        {
+            "word": "血液検査",
+            "reading": "ketsueki kensa",
+            "meaning": "Blood test",
+            "example_sentence": "血液検査の結果を聞きます。"
+        },
+        {
+            "word": "レントゲン",
+            "reading": "rentogen",
+            "meaning": "X-ray",
+            "example_sentence": "胸のレントゲンを撮ります。"
+        },
+        {
+            "word": "入院",
+            "reading": "nyuuinn",
+            "meaning": "Hospitalization",
+            "example_sentence": "明日から1週間入院します。"
+        },
+        {
+            "word": "麻酔",
+            "reading": "masui",
+            "meaning": "Anesthesia",
+            "example_sentence": "麻酔が切れてきました。"
+        },
+        {
+            "word": "点滴",
+            "reading": "tenteki",
+            "meaning": "Intravenous drip",
+            "example_sentence": "点滴を打っています。"
+        },
+        {
+            "word": "お見舞い品",
+            "reading": "omimaihin",
+            "meaning": "Gift for a sick person",
+            "example_sentence": "お見舞い品を持って行きます。"
+        },
+        {
+            "word": "主治医",
+            "reading": "shujii",
+            "meaning": "Attending physician",
+            "example_sentence": "主治医に相談します。"
+        },
+        {
+            "word": "非常口",
+            "reading": "hijouguchi",
+            "meaning": "Emergency exit",
+            "example_sentence": "非常口を確認してください。"
+        },
+        {
+            "word": "避難",
+            "reading": "hinan",
+            "meaning": "Evacuation",
+            "example_sentence": "公園に避難しましょう。"
+        },
+        {
+            "word": "火災",
+            "reading": "kasai",
+            "meaning": "Fire",
+            "example_sentence": "火災報知器が鳴っています。"
+        },
+        {
+            "word": "冷やす",
+            "reading": "hiyasu",
+            "meaning": "To cool down",
+            "example_sentence": "氷で足を冷やします。"
+        },
+        {
+            "word": "温める",
+            "reading": "atatameru",
+            "meaning": "To warm up",
+            "example_sentence": "体を温めて休みます。"
+        },
+        {
+            "word": "食欲",
+            "reading": "shokuyoku",
+            "meaning": "Appetite",
+            "example_sentence": "食欲がありません。"
+        },
+        {
+            "word": "下痢",
+            "reading": "geri",
+            "meaning": "Diarrhea",
+            "example_sentence": "ひどい下痢をしています。"
+        },
+        {
+            "word": "便秘",
+            "reading": "benpi",
+            "meaning": "Constipation",
+            "example_sentence": "便秘で苦しいです。"
+        },
+        {
+            "word": "鼻水",
+            "reading": "hanamizu",
+            "meaning": "Runny nose",
+            "example_sentence": "鼻水が出ます。"
+        },
+        {
+            "word": "鼻づまり",
+            "reading": "hanazumari",
+            "meaning": "Nasal congestion",
+            "example_sentence": "鼻づまりで息がしにくいです。"
+        },
+        {
+            "word": "喉の痛み",
+            "reading": "nodo no itami",
+            "meaning": "Sore throat",
+            "example_sentence": "喉の痛みがあります。"
+        },
+        {
+            "word": "関節痛",
+            "reading": "kansetsutsuu",
+            "meaning": "Joint pain",
+            "example_sentence": "関節痛がつらいです。"
+        },
+        {
+            "word": "リハビリ",
+            "reading": "rihabiri",
+            "meaning": "Rehabilitation",
+            "example_sentence": "毎日リハビリをします。"
+        },
+        {
+            "word": "完治",
+            "reading": "kanchi",
+            "meaning": "Complete recovery",
+            "example_sentence": "やっと怪我が完治しました。"
+        },
+        {
+            "word": "退院",
+            "reading": "taiin",
+            "meaning": "Discharge from hospital",
+            "example_sentence": "来週、退院します。"
+        },
+        {
+            "word": "通院",
+            "reading": "tsuuin",
+            "meaning": "Commuting to hospital",
+            "example_sentence": "月に一度、通院しています。"
+        },
+        {
+            "word": "錠剤",
+            "reading": "jouzai",
+            "meaning": "Tablet/Pill",
+            "example_sentence": "小さな錠剤です。"
+        },
+        {
+            "word": "粉薬",
+            "reading": "konagusuri",
+            "meaning": "Powder medicine",
+            "example_sentence": "粉薬は苦手です。"
+        },
+        {
+            "word": "目薬",
+            "reading": "megusuri",
+            "meaning": "Eye drops",
+            "example_sentence": "目薬をさします。"
+        },
+        {
+            "word": "副作用",
+            "reading": "fukusayou",
+            "meaning": "Side effect",
+            "example_sentence": "副作用で眠くなります。"
+        },
+        {
+            "word": "効き目",
+            "reading": "kikime",
+            "meaning": "Effectiveness",
+            "example_sentence": "この薬は効き目があります。"
+        },
+        {
+            "word": "診察券",
+            "reading": "shinsatsuken",
+            "meaning": "Patient ID card",
+            "example_sentence": "診察券を出してください。"
+        },
+        {
+            "word": "保険証",
+            "reading": "hokenshou",
+            "meaning": "Insurance card",
+            "example_sentence": "保険証を提示します。"
+        },
+        {
+            "word": "お見舞い",
+            "reading": "omimai",
+            "meaning": "Visiting the sick",
+            "example_sentence": "上司のお見舞いに行きます。"
+        },
+        {
+            "word": "安静",
+            "reading": "ansei",
+            "meaning": "Rest/Quiet",
+            "example_sentence": "今日は家で安静にします。"
+        },
+        {
+            "word": "お大事に",
+            "reading": "odajini",
+            "meaning": "Get well soon",
+            "example_sentence": "どうぞお大事に。"
+        },
+        {
+            "word": "映画鑑賞",
+            "reading": "eiga kanshou",
+            "meaning": "Watching movies",
+            "example_sentence": "映画鑑賞が大好きです。"
+        },
+        {
+            "word": "音楽鑑賞",
+            "reading": "ongaku kanshou",
+            "meaning": "Listening to music",
+            "example_sentence": "クラシックの音楽鑑賞に行きます。"
+        },
+        {
+            "word": "演奏",
+            "reading": "ensou",
+            "meaning": "Musical performance",
+            "example_sentence": "ピアノを演奏します。"
+        },
+        {
+            "word": "絵画",
+            "reading": "kaiga",
+            "meaning": "Painting/Drawing",
+            "example_sentence": "絵画を鑑賞します。"
+        },
+        {
+            "word": "園芸",
+            "reading": "engei",
+            "meaning": "Gardening",
+            "example_sentence": "庭で園芸を楽しんでいます。"
+        },
+        {
+            "word": "手芸",
+            "reading": "shugei",
+            "meaning": "Handicrafts",
+            "example_sentence": "手芸でバッグを作りました。"
+        },
+        {
+            "word": "裁縫",
+            "reading": "saihou",
+            "meaning": "Sewing",
+            "example_sentence": "裁縫が得意です。"
+        },
+        {
+            "word": "陶芸",
+            "reading": "tougei",
+            "meaning": "Pottery",
+            "example_sentence": "陶芸体験に行きました。"
+        },
+        {
+            "word": "茶道",
+            "reading": "sadou",
+            "meaning": "Tea ceremony",
+            "example_sentence": "茶道を習い始めました。"
+        },
+        {
+            "word": "華道",
+            "reading": "kadou",
+            "meaning": "Flower arrangement",
+            "example_sentence": "華道の作品を飾ります。"
+        },
+        {
+            "word": "書道",
+            "reading": "shodou",
+            "meaning": "Calligraphy",
+            "example_sentence": "書道で文字を書きます。"
+        },
+        {
+            "word": "将棋",
+            "reading": "shougi",
+            "meaning": "Japanese chess",
+            "example_sentence": "祖父と将棋を指します。"
+        },
+        {
+            "word": "囲碁",
+            "reading": "igo",
+            "meaning": "Go (game)",
+            "example_sentence": "囲碁のルールを覚えます。"
+        },
+        {
+            "word": "麻雀",
+            "reading": "maajan",
+            "meaning": "Mahjong",
+            "example_sentence": "友達と麻雀をします。"
+        },
+        {
+            "word": "キャンプ",
+            "reading": "kyanpu",
+            "meaning": "Camping",
+            "example_sentence": "夏はキャンプに行きます。"
+        },
+        {
+            "word": "登山",
+            "reading": "tozan",
+            "meaning": "Mountain climbing",
+            "example_sentence": "富士山に登山します。"
+        },
+        {
+            "word": "ハイキング",
+            "reading": "haikingu",
+            "meaning": "Hiking",
+            "example_sentence": "近くの山へハイキングに行きます。"
+        },
+        {
+            "word": "釣り",
+            "reading": "tsuri",
+            "meaning": "Fishing",
+            "example_sentence": "川で釣りをします。"
+        },
+        {
+            "word": "筋トレ",
+            "reading": "kintore",
+            "meaning": "Weight training",
+            "example_sentence": "ジムで筋トレをします。"
+        },
+        {
+            "word": "ヨガ",
+            "reading": "yoga",
+            "meaning": "Yoga",
+            "example_sentence": "ヨガで体をほぐします。"
+        },
+        {
+            "word": "ダンス",
+            "reading": "dansu",
+            "meaning": "Dance",
+            "example_sentence": "ヒップホップダンスを習います。"
+        },
+        {
+            "word": "コスプレ",
+            "reading": "kosupure",
+            "meaning": "Cosplay",
+            "example_sentence": "イベントでコスプレをします。"
+        },
+        {
+            "word": "コンサート",
+            "reading": "konsaato",
+            "meaning": "Concert",
+            "example_sentence": "好きな歌手のコンサートに行きます。"
+        },
+        {
+            "word": "ライブ",
+            "reading": "raibu",
+            "meaning": "Live performance",
+            "example_sentence": "ライブハウスで盛り上がります。"
+        },
+        {
+            "word": "スポーツ鑑賞",
+            "reading": "supootsu kanshou",
+            "meaning": "Watching sports",
+            "example_sentence": "プロ野球のスポーツ鑑賞に行きます。"
+        },
+        {
+            "word": "競技",
+            "reading": "kyougi",
+            "meaning": "Competition/Game",
+            "example_sentence": "新しい競技に挑戦します。"
+        },
+        {
+            "word": "審判",
+            "reading": "shinpan",
+            "meaning": "Referee/Umpire",
+            "example_sentence": "審判が笛を吹きました。"
+        },
+        {
+            "word": "監督",
+            "reading": "kantoku",
+            "meaning": "Director/Coach",
+            "example_sentence": "チームの監督をしています。"
+        },
+        {
+            "word": "優勝",
+            "reading": "yuushou",
+            "meaning": "Victory/Championship",
+            "example_sentence": "大会で優勝しました。"
+        },
+        {
+            "word": "敗北",
+            "reading": "haiboku",
+            "meaning": "Defeat",
+            "example_sentence": "敗北から学びます。"
+        },
+        {
+            "word": "特訓",
+            "reading": "tokkun",
+            "meaning": "Special training",
+            "example_sentence": "試合に向けて特訓します。"
+        },
+        {
+            "word": "合宿",
+            "reading": "gasshuku",
+            "meaning": "Training camp",
+            "example_sentence": "夏休みに合宿があります。"
+        },
+        {
+            "word": "遠征",
+            "reading": "ensei",
+            "meaning": "Expedition/Away game",
+            "example_sentence": "隣の県へ遠征します。"
+        },
+        {
+            "word": "道場",
+            "reading": "doujou",
+            "meaning": "Dojo/Training hall",
+            "example_sentence": "柔道の道場に通います。"
+        },
+        {
+            "word": "作戦",
+            "reading": "sakusen",
+            "meaning": "Strategy/Tactic",
+            "example_sentence": "作戦を練りましょう。"
+        },
+        {
+            "word": "挑戦",
+            "reading": "chousen",
+            "meaning": "Challenge",
+            "example_sentence": "記録に挑戦します。"
+        },
+        {
+            "word": "努力",
+            "reading": "doryoku",
+            "meaning": "Effort",
+            "example_sentence": "努力は裏切りません。"
+        },
+        {
+            "word": "継続",
+            "reading": "keizoku",
+            "meaning": "Continuation",
+            "example_sentence": "継続は力なり。"
+        },
+        {
+            "word": "達成",
+            "reading": "tassei",
+            "meaning": "Achievement",
+            "example_sentence": "目標を達成しました。"
+        },
+        {
+            "word": "満足",
+            "reading": "manzoku",
+            "meaning": "Satisfaction",
+            "example_sentence": "結果に満足しています。"
+        },
+        {
+            "word": "感動",
+            "reading": "kandou",
+            "meaning": "Being moved/impressed",
+            "example_sentence": "素晴らしい演奏に感動しました。"
+        },
+        {
+            "word": "興奮",
+            "reading": "koufun",
+            "meaning": "Excitement",
+            "example_sentence": "試合を見て興奮しました。"
+        }
+    ],
+    "liarGameData": {
+        "trap": "病院の受付で、保険証を持たずに「現金で払います」と言った。(Tried to pay cash without an insurance card.)",
+        "correctVersion": "日本では必ず「保険証」を提示して、3割負担で支払う。(Always show your insurance card to pay 30% co-pay.)",
+        "explanation": "In Japan, showing your 'hokenshou' (Insurance Card) is mandatory. Without it, you may be charged 100% upfront. With it, the government covers 70%, and you only pay 30%."
+    }
+}

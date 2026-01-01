@@ -1,0 +1,620 @@
+{
+  "id": "fr_a1_m1",
+  "name": "A1 French - Module 1: Survival Basics",
+  "description": "Essential greetings, emergency words, and basic introductions.",
+  "count": 100,
+  "vocabularyItems": [
+    {
+      "word": "Bonjour",
+      "meaning": "Hello",
+      "reading": "bon-zhoor",
+      "example_sentence": "Bonjour, comment ça va ?"
+    },
+    {
+      "word": "Salut",
+      "meaning": "Hi / Bye",
+      "reading": "sa-loo",
+      "example_sentence": "Salut ! C'est Jean."
+    },
+    {
+      "word": "S'il vous plaît",
+      "meaning": "Please (formal)",
+      "reading": "seel voo pleh",
+      "example_sentence": "Un café, s'il vous plaît."
+    },
+    {
+      "word": "Merci",
+      "meaning": "Thank you",
+      "reading": "mer-see",
+      "example_sentence": "Merci beaucoup pour votre aide."
+    },
+    {
+      "word": "Oui",
+      "meaning": "Yes",
+      "reading": "wee",
+      "example_sentence": "Oui, je parle un peu français."
+    },
+    {
+      "word": "Non",
+      "meaning": "No",
+      "reading": "noh",
+      "example_sentence": "Non, je ne sais pas."
+    },
+    {
+      "word": "Pardon",
+      "meaning": "Excuse me",
+      "reading": "par-doh",
+      "example_sentence": "Pardon, est-ce que vous pouvez m'aider ?"
+    },
+    {
+      "word": "Désolé",
+      "meaning": "Sorry",
+      "reading": "day-zoh-lay",
+      "example_sentence": "Je suis désolé d'être en retard."
+    },
+    {
+      "word": "Comment",
+      "meaning": "How",
+      "reading": "ko-mah",
+      "example_sentence": "Comment ça s'appelle ?"
+    },
+    {
+      "word": "Quoi",
+      "meaning": "What",
+      "reading": "kwah",
+      "example_sentence": "C'est quoi ?"
+    },
+    {
+      "word": "Où",
+      "meaning": "Where",
+      "reading": "oo",
+      "example_sentence": "Où sont les toilettes ?"
+    },
+    {
+      "word": "Quand",
+      "meaning": "When",
+      "reading": "kah",
+      "example_sentence": "C'est pour quand ?"
+    },
+    {
+      "word": "Qui",
+      "meaning": "Who",
+      "reading": "kee",
+      "example_sentence": "Qui est cette personne ?"
+    },
+    {
+      "word": "Pourquoi",
+      "meaning": "Why",
+      "reading": "poor-kwah",
+      "example_sentence": "Pourquoi est-ce fermé ?"
+    },
+    {
+      "word": "Eau",
+      "meaning": "Water",
+      "reading": "oh",
+      "example_sentence": "Je voudrais de l'eau."
+    },
+    {
+      "word": "Pain",
+      "meaning": "Bread",
+      "reading": "pa",
+      "example_sentence": "Une baguette de pain, s'il vous plaît."
+    },
+    {
+      "word": "Manger",
+      "meaning": "To eat",
+      "reading": "mah-zhay",
+      "example_sentence": "Je veux manger."
+    },
+    {
+      "word": "Boire",
+      "meaning": "To drink",
+      "reading": "bwahr",
+      "example_sentence": "J'ai soif, je veux boire."
+    },
+    {
+      "word": "Toilettes",
+      "meaning": "Toilets",
+      "reading": "twah-let",
+      "example_sentence": "Où sont les toilettes ?"
+    },
+    {
+      "word": "Aide",
+      "meaning": "Help",
+      "reading": "ed",
+      "example_sentence": "J'ai besoin d'aide."
+    },
+    {
+      "word": "Médecin",
+      "meaning": "Doctor",
+      "reading": "mayd-sah",
+      "example_sentence": "Appelez un médecin."
+    },
+    {
+      "word": "Hôpital",
+      "meaning": "Hospital",
+      "reading": "oh-pee-tal",
+      "example_sentence": "L'hôpital est loin."
+    },
+    {
+      "word": "Police",
+      "meaning": "Police",
+      "reading": "poh-lees",
+      "example_sentence": "Appelez la police !"
+    },
+    {
+      "word": "Argent",
+      "meaning": "Money",
+      "reading": "ar-zhah",
+      "example_sentence": "Je n'ai pas d'argent."
+    },
+    {
+      "word": "Carte",
+      "meaning": "Map / Card",
+      "reading": "kart",
+      "example_sentence": "Où est la carte ?"
+    },
+    {
+      "word": "Train",
+      "meaning": "Train",
+      "reading": "treh",
+      "example_sentence": "Le train est à l'heure."
+    },
+    {
+      "word": "Bus",
+      "meaning": "Bus",
+      "reading": "boos",
+      "example_sentence": "Le bus s'arrête ici."
+    },
+    {
+      "word": "Taxi",
+      "meaning": "Taxi",
+      "reading": "tak-see",
+      "example_sentence": "Appelez un taxi."
+    },
+    {
+      "word": "Hôtel",
+      "meaning": "Hotel",
+      "reading": "oh-tel",
+      "example_sentence": "Je cherche l'hôtel."
+    },
+    {
+      "word": "Chambre",
+      "meaning": "Room",
+      "reading": "shah-bruh",
+      "example_sentence": "Une chambre pour deux."
+    },
+    {
+      "word": "Zéro",
+      "meaning": "Zero",
+      "reading": "zay-roh",
+      "example_sentence": "Zéro pointé."
+    },
+    {
+      "word": "Un",
+      "meaning": "One",
+      "reading": "uh",
+      "example_sentence": "Un café."
+    },
+    {
+      "word": "Deux",
+      "meaning": "Two",
+      "reading": "duh",
+      "example_sentence": "Deux personnes."
+    },
+    {
+      "word": "Trois",
+      "meaning": "Three",
+      "reading": "trwah",
+      "example_sentence": "Trois euros."
+    },
+    {
+      "word": "Quatre",
+      "meaning": "Four",
+      "reading": "kat-ruh",
+      "example_sentence": "Quatre amis."
+    },
+    {
+      "word": "Cinq",
+      "meaning": "Five",
+      "reading": "sank",
+      "example_sentence": "Cinq minutes."
+    },
+    {
+      "word": "Six",
+      "meaning": "Six",
+      "reading": "sees",
+      "example_sentence": "Six heures."
+    },
+    {
+      "word": "Sept",
+      "meaning": "Seven",
+      "reading": "set",
+      "example_sentence": "Sept jours."
+    },
+    {
+      "word": "Huit",
+      "meaning": "Eight",
+      "reading": "weet",
+      "example_sentence": "Huit pommes."
+    },
+    {
+      "word": "Neuf",
+      "meaning": "Nine",
+      "reading": "nuf",
+      "example_sentence": "Neuf livres."
+    },
+    {
+      "word": "Dix",
+      "meaning": "Ten",
+      "reading": "dees",
+      "example_sentence": "Dix heures."
+    },
+    {
+      "word": "Onze",
+      "meaning": "Eleven",
+      "reading": "oh-nz",
+      "example_sentence": "Onze heures du soir."
+    },
+    {
+      "word": "Douze",
+      "meaning": "Twelve",
+      "reading": "dooz",
+      "example_sentence": "Douze mois."
+    },
+    {
+      "word": "Treize",
+      "meaning": "Thirteen",
+      "reading": "trez",
+      "example_sentence": "Treize à table."
+    },
+    {
+      "word": "Quatorze",
+      "meaning": "Fourteen",
+      "reading": "ka-torz",
+      "example_sentence": "Quatorze juillet."
+    },
+    {
+      "word": "Quinze",
+      "meaning": "Fifteen",
+      "reading": "kanz",
+      "example_sentence": "Quinze jours."
+    },
+    {
+      "word": "Seize",
+      "meaning": "Sixteen",
+      "reading": "sez",
+      "example_sentence": "Seize ans."
+    },
+    {
+      "word": "Dix-sept",
+      "meaning": "Seventeen",
+      "reading": "dee-set",
+      "example_sentence": "Dix-sept euros."
+    },
+    {
+      "word": "Dix-huit",
+      "meaning": "Eighteen",
+      "reading": "dee-zweet",
+      "example_sentence": "Dix-huit kilomètres."
+    },
+    {
+      "word": "Dix-neuf",
+      "meaning": "Nineteen",
+      "reading": "deez-nuf",
+      "example_sentence": "Dix-neuf chats."
+    },
+    {
+      "word": "Vingt",
+      "meaning": "Twenty",
+      "reading": "vah",
+      "example_sentence": "Vingt minutes."
+    },
+    {
+      "word": "Moi",
+      "meaning": "Me",
+      "reading": "mwah",
+      "example_sentence": "C'est moi."
+    },
+    {
+      "word": "Toi",
+      "meaning": "You",
+      "reading": "twah",
+      "example_sentence": "Et toi ?"
+    },
+    {
+      "word": "Lui",
+      "meaning": "Him",
+      "reading": "lwee",
+      "example_sentence": "C'est lui."
+    },
+    {
+      "word": "Elle",
+      "meaning": "Her / She",
+      "reading": "el",
+      "example_sentence": "C'est elle."
+    },
+    {
+      "word": "Nous",
+      "meaning": "We / Us",
+      "reading": "noo",
+      "example_sentence": "Nous sommes ici."
+    },
+    {
+      "word": "Vous",
+      "meaning": "You (plural/formal)",
+      "reading": "voo",
+      "example_sentence": "Vous parlez français ?"
+    },
+    {
+      "word": "Eux",
+      "meaning": "Them",
+      "reading": "uh",
+      "example_sentence": "C'est pour eux."
+    },
+    {
+      "word": "Avoir",
+      "meaning": "To have",
+      "reading": "ah-vwahr",
+      "example_sentence": "J'ai un chien."
+    },
+    {
+      "word": "Être",
+      "meaning": "To be",
+      "reading": "et-ruh",
+      "example_sentence": "Je suis étudiant."
+    },
+    {
+      "word": "Aller",
+      "meaning": "To go",
+      "reading": "ah-lay",
+      "example_sentence": "Je vais à Paris."
+    },
+    {
+      "word": "Faire",
+      "meaning": "To do / make",
+      "reading": "fer",
+      "example_sentence": "Qu'est-ce que tu fais ?"
+    },
+    {
+      "word": "Dire",
+      "meaning": "To say",
+      "reading": "deer",
+      "example_sentence": "Qu'est-ce qu'il dit ?"
+    },
+    {
+      "word": "Pouvoir",
+      "meaning": "To be able to",
+      "reading": "poo-vwahr",
+      "example_sentence": "Je peux t'aider."
+    },
+    {
+      "word": "Vouloir",
+      "meaning": "To want",
+      "reading": "voo-lwahr",
+      "example_sentence": "Je veux un café."
+    },
+    {
+      "word": "Savoir",
+      "meaning": "To know",
+      "reading": "sah-vwahr",
+      "example_sentence": "Je ne sais pas."
+    },
+    {
+      "word": "Grand",
+      "meaning": "Big",
+      "reading": "grah",
+      "example_sentence": "Un grand hôtel."
+    },
+    {
+      "word": "Petit",
+      "meaning": "Small",
+      "reading": "puh-tee",
+      "example_sentence": "Un petit chien."
+    },
+    {
+      "word": "Bon",
+      "meaning": "Good",
+      "reading": "boh",
+      "example_sentence": "C'est bon."
+    },
+    {
+      "word": "Mauvais",
+      "meaning": "Bad",
+      "reading": "moh-vay",
+      "example_sentence": "C'est mauvais."
+    },
+    {
+      "word": "Beau",
+      "meaning": "Beautiful",
+      "reading": "boh",
+      "example_sentence": "Un beau paysage."
+    },
+    {
+      "word": "Chaud",
+      "meaning": "Hot",
+      "reading": "shoh",
+      "example_sentence": "Il fait chaud."
+    },
+    {
+      "word": "Froid",
+      "meaning": "Cold",
+      "reading": "frwah",
+      "example_sentence": "J'ai froid."
+    },
+    {
+      "word": "Nouveau",
+      "meaning": "New",
+      "reading": "noo-voh",
+      "example_sentence": "Un nouveau livre."
+    },
+    {
+      "word": "Vieux",
+      "meaning": "Old",
+      "reading": "vyuh",
+      "example_sentence": "Un vieux monsieur."
+    },
+    {
+      "word": "Rapide",
+      "meaning": "Fast",
+      "reading": "rah-peed",
+      "example_sentence": "C'est rapide."
+    },
+    {
+      "word": "Lent",
+      "meaning": "Slow",
+      "reading": "lah",
+      "example_sentence": "C'est trop lent."
+    },
+    {
+      "word": "Heureux",
+      "meaning": "Happy",
+      "reading": "uh-ruh",
+      "example_sentence": "Je suis heureux."
+    },
+    {
+      "word": "Triste",
+      "meaning": "Sad",
+      "reading": "treest",
+      "example_sentence": "Je suis triste."
+    },
+    {
+      "word": "Fatigué",
+      "meaning": "Tired",
+      "reading": "fah-tee-gay",
+      "example_sentence": "Je suis fatigué."
+    },
+    {
+      "word": "Faim",
+      "meaning": "Hungry",
+      "reading": "fah",
+      "example_sentence": "J'ai faim."
+    },
+    {
+      "word": "Soif",
+      "meaning": "Thirsty",
+      "reading": "swahf",
+      "example_sentence": "J'ai soif."
+    },
+    {
+      "word": "Ici",
+      "meaning": "Here",
+      "reading": "ee-see",
+      "example_sentence": "Je suis ici."
+    },
+    {
+      "word": "Là-bas",
+      "meaning": "Over there",
+      "reading": "la-bah",
+      "example_sentence": "Il est là-bas."
+    },
+    {
+      "word": "Maintenant",
+      "meaning": "Now",
+      "reading": "mah-tuh-nah",
+      "example_sentence": "Je pars maintenant."
+    },
+    {
+      "word": "Demain",
+      "meaning": "Tomorrow",
+      "reading": "duh-mah",
+      "example_sentence": "À demain !"
+    },
+    {
+      "word": "Hier",
+      "meaning": "Yesterday",
+      "reading": "yer",
+      "example_sentence": "Hier, j'étais là."
+    },
+    {
+      "word": "Aujourd'hui",
+      "meaning": "Today",
+      "reading": "oh-zhoor-dwee",
+      "example_sentence": "Aujourd'hui, il pleut."
+    },
+    {
+      "word": "Semaine",
+      "meaning": "Week",
+      "reading": "suh-men",
+      "example_sentence": "La semaine prochaine."
+    },
+    {
+      "word": "Mois",
+      "meaning": "Month",
+      "reading": "mwah",
+      "example_sentence": "Un mois de vacances."
+    },
+    {
+      "word": "Année",
+      "meaning": "Year",
+      "reading": "ah-nay",
+      "example_sentence": "Une année entière."
+    },
+    {
+      "word": "Matin",
+      "meaning": "Morning",
+      "reading": "ma-tah",
+      "example_sentence": "Bon matin."
+    },
+    {
+      "word": "Après-midi",
+      "meaning": "Afternoon",
+      "reading": "ah-pre-mee-dee",
+      "example_sentence": "Bon après-midi."
+    },
+    {
+      "word": "Soir",
+      "meaning": "Evening",
+      "reading": "swahr",
+      "example_sentence": "Bon soir."
+    },
+    {
+      "word": "Nuit",
+      "meaning": "Night",
+      "reading": "nwee",
+      "example_sentence": "Bonne nuit."
+    },
+    {
+      "word": "Lundi",
+      "meaning": "Monday",
+      "reading": "luh-dee",
+      "example_sentence": "Lundi prochain."
+    },
+    {
+      "word": "Mardi",
+      "meaning": "Tuesday",
+      "reading": "mar-dee",
+      "example_sentence": "Le mardi est calme."
+    },
+    {
+      "word": "Mercredi",
+      "meaning": "Wednesday",
+      "reading": "mer-kruh-dee",
+      "example_sentence": "C'est mercredi."
+    },
+    {
+      "word": "Jeudi",
+      "meaning": "Thursday",
+      "reading": "zhuh-dee",
+      "example_sentence": "Le jeudi soir."
+    },
+    {
+      "word": "Vendredi",
+      "meaning": "Friday",
+      "reading": "vah-druh-dee",
+      "example_sentence": "Enfin vendredi !"
+    },
+    {
+      "word": "Samedi",
+      "meaning": "Saturday",
+      "reading": "sam-dee",
+      "example_sentence": "Le samedi matin."
+    },
+    {
+      "word": "Dimanche",
+      "meaning": "Sunday",
+      "reading": "dee-mahsh",
+      "example_sentence": "C'est dimanche."
+    }
+  ]
+}

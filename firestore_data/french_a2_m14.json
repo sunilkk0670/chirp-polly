@@ -1,0 +1,610 @@
+{
+  "id": "fr_a2_m14",
+  "moduleId": "fr_a2_m14",
+  "name": "A2 French - Module 14: Social & Leisure",
+  "theme": "A2 French - Module 14: Social & Leisure",
+  "order": 14,
+  "count": 100,
+  "vocabularyItems": [
+    {
+      "word": "Loisir",
+      "meaning": "Leisure",
+      "reading": "lwa-zeer",
+      "example_sentence": "Le temps libre et les loisirs."
+    },
+    {
+      "word": "Passe-temps",
+      "meaning": "Hobby",
+      "reading": "pas-tahn",
+      "example_sentence": "Quel est ton passe-temps favori ?"
+    },
+    {
+      "word": "Sortie",
+      "meaning": "Outing",
+      "reading": "sor-tee",
+      "example_sentence": "Prévoir une sortie entre amis."
+    },
+    {
+      "word": "Soirée",
+      "meaning": "Evening / Party",
+      "reading": "swa-ray",
+      "example_sentence": "Organiser une soirée."
+    },
+    {
+      "word": "Invitation",
+      "meaning": "Invitation",
+      "reading": "an-vee-ta-syohn",
+      "example_sentence": "Envoyer une invitation."
+    },
+    {
+      "word": "Invité",
+      "meaning": "Guest",
+      "reading": "an-vee-tay",
+      "example_sentence": "Les invités arrivent."
+    },
+    {
+      "word": "Hôte",
+      "meaning": "Host",
+      "reading": "oht",
+      "example_sentence": "Merci à notre hôte."
+    },
+    {
+      "word": "Fête",
+      "meaning": "Party / Celebration",
+      "reading": "fet",
+      "example_sentence": "C'est la fête aujourd'hui !"
+    },
+    {
+      "word": "Anniversaire",
+      "meaning": "Birthday / Anniversary",
+      "reading": "a-nee-ver-ser",
+      "example_sentence": "Bon anniversaire !"
+    },
+    {
+      "word": "Cadeau",
+      "meaning": "Gift",
+      "reading": "ka-doh",
+      "example_sentence": "Acheter un cadeau."
+    },
+    {
+      "word": "Surprise",
+      "meaning": "Surprise",
+      "reading": "soor-preez",
+      "example_sentence": "Une bonne surprise."
+    },
+    {
+      "word": "Rencontre",
+      "meaning": "Meeting / Encounter",
+      "reading": "rahn-kohnt",
+      "example_sentence": "Une rencontre imprévue."
+    },
+    {
+      "word": "Ami",
+      "meaning": "Friend",
+      "reading": "a-mee",
+      "example_sentence": "Mon meilleur ami."
+    },
+    {
+      "word": "Copain",
+      "meaning": "Buddy / Boyfriend",
+      "reading": "koh-pa",
+      "example_sentence": "Sortir avec des copains."
+    },
+    {
+      "word": "Collègue",
+      "meaning": "Colleague",
+      "reading": "koh-leg",
+      "example_sentence": "Un collègue de bureau."
+    },
+    {
+      "word": "Voisin",
+      "meaning": "Neighbor",
+      "reading": "vwa-za",
+      "example_sentence": "Une voisine sympatique."
+    },
+    {
+      "word": "Connaissance",
+      "meaning": "Acquaintance",
+      "reading": "koh-ne-sahns",
+      "example_sentence": "C'est juste une connaissance."
+    },
+    {
+      "word": "Relation",
+      "meaning": "Relation / Connection",
+      "reading": "ruh-la-syohn",
+      "example_sentence": "Une relation amicale."
+    },
+    {
+      "word": "Rendez-vous",
+      "meaning": "Meeting / Date",
+      "reading": "rahn-day-voo",
+      "example_sentence": "Prendre rendez-vous."
+    },
+    {
+      "word": "Sortir",
+      "meaning": "To go out",
+      "reading": "sor-teer",
+      "example_sentence": "Sortir le samedi soir."
+    },
+    {
+      "word": "Danser",
+      "meaning": "To dance",
+      "reading": "dahn-say",
+      "example_sentence": "Aimer danser."
+    },
+    {
+      "word": "Chanter",
+      "meaning": "To sing",
+      "reading": "shahn-tay",
+      "example_sentence": "Chanter une chanson."
+    },
+    {
+      "word": "Rire",
+      "meaning": "To laugh",
+      "reading": "reer",
+      "example_sentence": "Rire aux éclats."
+    },
+    {
+      "word": "Sourire",
+      "meaning": "To smile",
+      "reading": "soo-reer",
+      "example_sentence": "Garder le sourire."
+    },
+    {
+      "word": "Discuter",
+      "meaning": "To discuss / chat",
+      "reading": "dees-koo-tay",
+      "example_sentence": "Discuter pendant des heures."
+    },
+    {
+      "word": "Bavarder",
+      "meaning": "To chat / gossip",
+      "reading": "ba-var-day",
+      "example_sentence": "Bavarder au téléphone."
+    },
+    {
+      "word": "Échanger",
+      "meaning": "To exchange",
+      "reading": "ay-shahn-zhay",
+      "example_sentence": "Échanger des idées."
+    },
+    {
+      "word": "Partager",
+      "meaning": "To share",
+      "reading": "par-ta-zhay",
+      "example_sentence": "Partager un bon moment."
+    },
+    {
+      "word": "Offrir",
+      "meaning": "To offer / give",
+      "reading": "oh-freer",
+      "example_sentence": "Offrir des fleurs."
+    },
+    {
+      "word": "Recevoir",
+      "meaning": "To receive",
+      "reading": "ruh-suh-vwahr",
+      "example_sentence": "Recevoir un message."
+    },
+    {
+      "word": "Accepter",
+      "meaning": "To accept",
+      "reading": "a-sep-tay",
+      "example_sentence": "Accepter une proposition."
+    },
+    {
+      "word": "Refuser",
+      "meaning": "To refuse",
+      "reading": "ruh-foo-zay",
+      "example_sentence": "Refuser poliment."
+    },
+    {
+      "word": "S'entendre",
+      "meaning": "To get along",
+      "reading": "sahn-tahn-druh",
+      "example_sentence": "Ils s'entendent bien."
+    },
+    {
+      "word": "Se disputer",
+      "meaning": "To argue",
+      "reading": "suh dees-poo-tay",
+      "example_sentence": "Ils se disputent souvent."
+    },
+    {
+      "word": "Se réconcilier",
+      "meaning": "To reconcile",
+      "reading": "suh ray-kohn-see-lyay",
+      "example_sentence": "Se réconcilier après une dispute."
+    },
+    {
+      "word": "Cinéma",
+      "meaning": "Cinema",
+      "reading": "see-nay-ma",
+      "example_sentence": "Aller au cinéma."
+    },
+    {
+      "word": "Film",
+      "meaning": "Movie",
+      "reading": "feelm",
+      "example_sentence": "Un film d'action."
+    },
+    {
+      "word": "Théâtre",
+      "meaning": "Theater",
+      "reading": "tay-a-truh",
+      "example_sentence": "Une pièce de théâtre."
+    },
+    {
+      "word": "Spectacle",
+      "meaning": "Show / Performance",
+      "reading": "spek-ta-kluh",
+      "example_sentence": "Un spectacle de magie."
+    },
+    {
+      "word": "Concert",
+      "meaning": "Concert",
+      "reading": "kohn-ser",
+      "example_sentence": "Un concert de rock."
+    },
+    {
+      "word": "Opéra",
+      "meaning": "Opera",
+      "reading": "oh-pay-ra",
+      "example_sentence": "Aimer l'opéra."
+    },
+    {
+      "word": "Ballet",
+      "meaning": "Ballet",
+      "reading": "ba-lay",
+      "example_sentence": "Un spectacle de ballet."
+    },
+    {
+      "word": "Musée",
+      "meaning": "Museum",
+      "reading": "moo-zay",
+      "example_sentence": "Visiter le musée du Louvre."
+    },
+    {
+      "word": "Exposition",
+      "meaning": "Exhibition",
+      "reading": "ek-spoh-zee-syohn",
+      "example_sentence": "Une exposition de peinture."
+    },
+    {
+      "word": "Peinture",
+      "meaning": "Painting",
+      "reading": "pan-toor",
+      "example_sentence": "La peinture moderne."
+    },
+    {
+      "word": "Sculpture",
+      "meaning": "Sculpture",
+      "reading": "skool-toor",
+      "example_sentence": "Une sculpture en bronze."
+    },
+    {
+      "word": "Galerie",
+      "meaning": "Gallery",
+      "reading": "ga-luh-ree",
+      "example_sentence": "Une galerie d'art."
+    },
+    {
+      "word": "Bibliothèque",
+      "meaning": "Library",
+      "reading": "bee-blee-oh-tek",
+      "example_sentence": "Emprunter des livres à la bibliothèque."
+    },
+    {
+      "word": "Librairie",
+      "meaning": "Bookstore",
+      "reading": "lee-brer-ree",
+      "example_sentence": "Acheter un livre à la librairie."
+    },
+    {
+      "word": "Lecture",
+      "meaning": "Reading",
+      "reading": "lek-toor",
+      "example_sentence": "La lecture est un plaisir."
+    },
+    {
+      "word": "Club",
+      "meaning": "Club",
+      "reading": "kloob",
+      "example_sentence": "Adhérer à un club de sport."
+    },
+    {
+      "word": "Association",
+      "meaning": "Association",
+      "reading": "a-soh-syah-syohn",
+      "example_sentence": "Une association caritative."
+    },
+    {
+      "word": "Bénévolat",
+      "meaning": "Volunteering",
+      "reading": "bay-nay-voh-la",
+      "example_sentence": "Faire du bénévolat."
+    },
+    {
+      "word": "Bénévole",
+      "meaning": "Volunteer",
+      "reading": "bay-nay-vohl",
+      "example_sentence": "Travailler comme bénévole."
+    },
+    {
+      "word": "Sport",
+      "meaning": "Sport",
+      "reading": "spor",
+      "example_sentence": "Pratiquer un sport."
+    },
+    {
+      "word": "Entraînement",
+      "meaning": "Training / Practice",
+      "reading": "ahn-treh-nuh-mahn",
+      "example_sentence": "Un entraînement intensif."
+    },
+    {
+      "word": "Match",
+      "meaning": "Match / Game",
+      "reading": "match",
+      "example_sentence": "Gagner le match."
+    },
+    {
+      "word": "Compétition",
+      "meaning": "Competition",
+      "reading": "kohm-pay-tee-syohn",
+      "example_sentence": "Participer à une compétition."
+    },
+    {
+      "word": "Stade",
+      "meaning": "Stadium",
+      "reading": "stad",
+      "example_sentence": "Aller au stade."
+    },
+    {
+      "word": "Équipe",
+      "meaning": "Team",
+      "reading": "ay-keep",
+      "example_sentence": "Mon équipe favorite."
+    },
+    {
+      "word": "Joueur",
+      "meaning": "Player",
+      "reading": "zhoo-ur",
+      "example_sentence": "Un joueur talentueux."
+    },
+    {
+      "word": "Arbitre",
+      "meaning": "Referee",
+      "reading": "ar-bee-truh",
+      "example_sentence": "L'arbitre siffle."
+    },
+    {
+      "word": "Victoire",
+      "meaning": "Victory",
+      "reading": "veek-twahr",
+      "example_sentence": "Une victoire historique."
+    },
+    {
+      "word": "Défaite",
+      "meaning": "Defeat",
+      "reading": "day-fet",
+      "example_sentence": "Accepter la défaite."
+    },
+    {
+      "word": "Score",
+      "meaning": "Score",
+      "reading": "skor",
+      "example_sentence": "Le score est de deux à zéro."
+    },
+    {
+      "word": "Championnat",
+      "meaning": "Championship",
+      "reading": "sham-pyoh-na",
+      "example_sentence": "Le championnat de France."
+    },
+    {
+      "word": "Randonnée",
+      "meaning": "Hiking",
+      "reading": "rahn-doh-nay",
+      "example_sentence": "Faire une randonnée en forêt."
+    },
+    {
+      "word": "Camping",
+      "meaning": "Camping",
+      "reading": "kahm-peeng",
+      "example_sentence": "Faire du camping l'été."
+    },
+    {
+      "word": "Pêche",
+      "meaning": "Fishing",
+      "reading": "pesh",
+      "example_sentence": "Aller à la pêche."
+    },
+    {
+      "word": "Chasse",
+      "meaning": "Hunting",
+      "reading": "shas",
+      "example_sentence": "La chasse est réglementée."
+    },
+    {
+      "word": "Baignade",
+      "meaning": "Swimming / Bathing",
+      "reading": "beh-nyad",
+      "example_sentence": "La baignade est surveillée."
+    },
+    {
+      "word": "Plage",
+      "meaning": "Beach",
+      "reading": "plazh",
+      "example_sentence": "Aller à la plage."
+    },
+    {
+      "word": "Piscine",
+      "meaning": "Swimming pool",
+      "reading": "pee-seen",
+      "example_sentence": "Aller à la piscine."
+    },
+    {
+      "word": "Montagne",
+      "meaning": "Mountain",
+      "reading": "mohn-ta-nyuh",
+      "example_sentence": "Faire du ski à la montagne."
+    },
+    {
+      "word": "Ski",
+      "meaning": "Skiing",
+      "reading": "skee",
+      "example_sentence": "Aimer le ski."
+    },
+    {
+      "word": "Voyage",
+      "meaning": "Travel / Trip",
+      "reading": "vwa-yazh",
+      "example_sentence": "Un voyage inoubliable."
+    },
+    {
+      "word": "Vacances",
+      "meaning": "Vacation",
+      "reading": "va-kahns",
+      "example_sentence": "Bonnes vacances !"
+    },
+    {
+      "word": "Tourisme",
+      "meaning": "Tourism",
+      "reading": "too-reez-muh",
+      "example_sentence": "Le tourisme de masse."
+    },
+    {
+      "word": "Guide",
+      "meaning": "Guide",
+      "reading": "geed",
+      "example_sentence": "Un guide touristique."
+    },
+    {
+      "word": "Visite",
+      "meaning": "Visit",
+      "reading": "vee-zeet",
+      "example_sentence": "Une visite guidée."
+    },
+    {
+      "word": "Circuit",
+      "meaning": "Tour / Circuit",
+      "reading": "seer-kwee",
+      "example_sentence": "Un circuit organisé."
+    },
+    {
+      "word": "Hôtel",
+      "meaning": "Hotel",
+      "reading": "oh-tel",
+      "example_sentence": "Réserver un hôtel."
+    },
+    {
+      "word": "Réservation",
+      "meaning": "Reservation",
+      "reading": "ray-zer-va-syohn",
+      "example_sentence": "Faire une réservation."
+    },
+    {
+      "word": "Chambre",
+      "meaning": "Room",
+      "reading": "shahm-bruh",
+      "example_sentence": "Une chambre double."
+    },
+    {
+      "word": "Hébergement",
+      "meaning": "Accommodation",
+      "reading": "ay-berzh-mahn",
+      "example_sentence": "Un hébergement confortable."
+    },
+    {
+      "word": "Restaurant",
+      "meaning": "Restaurant",
+      "reading": "res-toh-rahn",
+      "example_sentence": "Manger au restaurant."
+    },
+    {
+      "word": "Menu",
+      "meaning": "Menu",
+      "reading": "muh-noo",
+      "example_sentence": "Consulter le menu."
+    },
+    {
+      "word": "Carte",
+      "meaning": "Menu / Card",
+      "reading": "kart",
+      "example_sentence": "La carte des vins."
+    },
+    {
+      "word": "Plat",
+      "meaning": "Dish",
+      "reading": "pla",
+      "example_sentence": "Le plat du jour."
+    },
+    {
+      "word": "Dessert",
+      "meaning": "Dessert",
+      "reading": "day-ser",
+      "example_sentence": "Prendre un dessert."
+    },
+    {
+      "word": "Addition",
+      "meaning": "Bill / Check",
+      "reading": "a-dee-syohn",
+      "example_sentence": "Payer l'addition."
+    },
+    {
+      "word": "Pourboire",
+      "meaning": "Tip",
+      "reading": "poor-bwahr",
+      "example_sentence": "Laisser un pourboire."
+    },
+    {
+      "word": "Café",
+      "meaning": "Coffee / Cafe",
+      "reading": "ka-fay",
+      "example_sentence": "Se voir au café."
+    },
+    {
+      "word": "Bar",
+      "meaning": "Bar / Pub",
+      "reading": "bar",
+      "example_sentence": "Prendre un verre au bar."
+    },
+    {
+      "word": "Terrasse",
+      "meaning": "Terrace / Outdoor seating",
+      "reading": "te-rahs",
+      "example_sentence": "S'installer en terrasse."
+    },
+    {
+      "word": "Ambiance",
+      "meaning": "Atmosphere / Vibe",
+      "reading": "ahm-byahns",
+      "example_sentence": "Une ambiance chaleureuse."
+    },
+    {
+      "word": "Musique",
+      "meaning": "Music",
+      "reading": "moo-zeek",
+      "example_sentence": "Écouter de la musique."
+    },
+    {
+      "word": "Radio",
+      "meaning": "Radio",
+      "reading": "ra-dyoh",
+      "example_sentence": "Écouter la radio."
+    },
+    {
+      "word": "Télévision",
+      "meaning": "Television",
+      "reading": "tay-lay-vee-zyohn",
+      "example_sentence": "Regarder la télévision."
+    },
+    {
+      "word": "Actualité",
+      "meaning": "News / Current events",
+      "reading": "ak-too-a-lee-tay",
+      "example_sentence": "Suivre l'actualité."
+    }
+  ]
+}

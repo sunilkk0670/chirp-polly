@@ -1,0 +1,612 @@
+{
+    "moduleId": "ja_b1_m03",
+    "theme": "Science & Technology",
+    "order": 3,
+    "vocabularyItems": [
+        {
+            "word": "尊重",
+            "reading": "sonchou",
+            "meaning": "Respect/Esteem",
+            "example_sentence": "相手の意見を尊重することによって、建設的な対話が可能になります。"
+        },
+        {
+            "word": "弁解",
+            "reading": "benkai",
+            "meaning": "Excuse/Justification",
+            "example_sentence": "不適切な行動を弁解する反面、責任逃れと受け取られるリスクもあります。"
+        },
+        {
+            "word": "填補",
+            "reading": "tenpo",
+            "meaning": "Compensation/Filling",
+            "example_sentence": "損失を填補することによって、信頼回復を図ります。"
+        },
+        {
+            "word": "敬服",
+            "reading": "keifuku",
+            "meaning": "Admiration/Respect",
+            "example_sentence": "先輩の努力に敬服するうちに、自らも奮起しました。"
+        },
+        {
+            "word": "対等",
+            "reading": "taitou",
+            "meaning": "Equality/Parity",
+            "example_sentence": "対等な立場で交渉する反面、力関係の差は歴然としています。"
+        },
+        {
+            "word": "色眼鏡",
+            "reading": "iromegane",
+            "meaning": "Prejudice/Bias",
+            "example_sentence": "色眼鏡で見ることなく、公平に評価することが大切です。"
+        },
+        {
+            "word": "定説",
+            "reading": "teisetsu",
+            "meaning": "Established theory",
+            "example_sentence": "定説を覆す発見によって、学界が騒然としました。"
+        },
+        {
+            "word": "報じる",
+            "reading": "houjiru",
+            "meaning": "To report",
+            "example_sentence": "事件を速報で報じることによって、社会の注目が集まりました。"
+        },
+        {
+            "word": "償い",
+            "reading": "tsugunai",
+            "meaning": "Atonement/Compensation",
+            "example_sentence": "過ちの償いをするうちに、被害者との和解が進みました。"
+        },
+        {
+            "word": "訴追",
+            "reading": "sotsui",
+            "meaning": "Prosecution/Indictment",
+            "example_sentence": "不正を訴追することによって、組織の浄化を図ります。"
+        },
+        {
+            "word": "既成概念",
+            "reading": "kiseigainen",
+            "meaning": "Preconceived notion",
+            "example_sentence": "既成概念を打破するうちに、革新的なアイデアが生まれました。"
+        },
+        {
+            "word": "道徳観",
+            "reading": "doutokukan",
+            "meaning": "Moral sense",
+            "example_sentence": "道徳観が多様化するうちに、何が正しいかの判断が難しくなっています。"
+        },
+        {
+            "word": "尊大",
+            "reading": "sondai",
+            "meaning": "Arrogant/Pompous",
+            "example_sentence": "尊大な態度で接する反面、実力が伴わなければ信頼を失います。"
+        },
+        {
+            "word": "予断",
+            "reading": "yodan",
+            "meaning": "Prejudgment",
+            "example_sentence": "予断を持たずに接することによって、公平な評価ができます。"
+        },
+        {
+            "word": "裏取り",
+            "reading": "uradori",
+            "meaning": "Fact-checking",
+            "example_sentence": "情報の裏取りをすることによって、誤報を防ぎます。"
+        },
+        {
+            "word": "通念",
+            "reading": "tsuunen",
+            "meaning": "Common belief",
+            "example_sentence": "社会の通念に従ううちに、個性が失われてしまうこともあります。"
+        },
+        {
+            "word": "証言",
+            "reading": "shougen",
+            "meaning": "Testimony",
+            "example_sentence": "目撃者の証言を得るうちに、事件の全体像が徐々に明らかになりました。"
+        },
+        {
+            "word": "議論",
+            "reading": "giron",
+            "meaning": "Discussion/Argument",
+            "example_sentence": "建設的な議論を重ねることによって、より良い解決策が見えてきます。"
+        },
+        {
+            "word": "批判",
+            "reading": "hihan",
+            "meaning": "Criticism",
+            "example_sentence": "政策を批判することによって、民主主義社会の健全性が保たれます。"
+        },
+        {
+            "word": "通説",
+            "reading": "tsuusetsu",
+            "meaning": "Common theory",
+            "example_sentence": "通説を疑うことによって、新たな発見に繋がることもあります。"
+        },
+        {
+            "word": "偏重",
+            "reading": "henchou",
+            "meaning": "Overemphasis",
+            "example_sentence": "特定の視点を偏重する反面、全体像を見失ってしまうリスクがあります。"
+        },
+        {
+            "word": "歪曲",
+            "reading": "waikyoku",
+            "meaning": "Distortion",
+            "example_sentence": "事実を歪曲することによって、世論を誤った方向に導いてしまいます。"
+        },
+        {
+            "word": "偽装",
+            "reading": "gisou",
+            "meaning": "Camouflage/Disguise",
+            "example_sentence": "事実を偽装することによって、一時的に危機を逃れても、いずれ真実が明らかになります。"
+        },
+        {
+            "word": "空想",
+            "reading": "kuusou",
+            "meaning": "Fantasy/Imagination",
+            "example_sentence": "空想の世界に浸る反面、現実的な問題解決も忘れてはなりません。"
+        },
+        {
+            "word": "虚構",
+            "reading": "kyokou",
+            "meaning": "Fiction/Falsehood",
+            "example_sentence": "虚構の物語を楽しむ反面、現実との境界を見失わないよう注意します。"
+        },
+        {
+            "word": "真偽",
+            "reading": "shingi",
+            "meaning": "Truth or falsehood",
+            "example_sentence": "情報の真偽を見極めることによって、誤った判断を避けられます。"
+        },
+        {
+            "word": "法廷",
+            "reading": "houtei",
+            "meaning": "Courtroom",
+            "example_sentence": "法廷で証言するうちに、事件の真相が少しずつ明らかになっていきました。"
+        },
+        {
+            "word": "裁判員",
+            "reading": "saiban'in",
+            "meaning": "Lay judge",
+            "example_sentence": "裁判員として参加することによって、司法への理解が深まりました。"
+        },
+        {
+            "word": "判事",
+            "reading": "hanji",
+            "meaning": "Judge",
+            "example_sentence": "判事の公平な判断によって、正義が実現されることを期待します。"
+        },
+        {
+            "word": "裁判官",
+            "reading": "saibankan",
+            "meaning": "Judge",
+            "example_sentence": "裁判官として判断を下すうちに、その責任の重さを痛感しました。"
+        },
+        {
+            "word": "検察",
+            "reading": "kensatsu",
+            "meaning": "Prosecution",
+            "example_sentence": "検察が起訴する反面、証拠の十分性が問われることもあります。"
+        },
+        {
+            "word": "検事",
+            "reading": "kenji",
+            "meaning": "Prosecutor",
+            "example_sentence": "検事として真実を追求するうちに、時には無罪の可能性にも目を向けます。"
+        },
+        {
+            "word": "弁護士",
+            "reading": "bengoshi",
+            "meaning": "Lawyer/Attorney",
+            "example_sentence": "弁護士が依頼人を守る反面、真実の究明との板挟みになることもあります。"
+        },
+        {
+            "word": "被告",
+            "reading": "hikoku",
+            "meaning": "Defendant/Accused",
+            "example_sentence": "被告の権利を保障することによって、公正な裁判が実現されます。"
+        },
+        {
+            "word": "原告",
+            "reading": "genkoku",
+            "meaning": "Plaintiff",
+            "example_sentence": "原告として訴えを起こすうちに、長期戦を覚悟しなければなりません。"
+        },
+        {
+            "word": "犯人",
+            "reading": "hannin",
+            "meaning": "Culprit/Perpetrator",
+            "example_sentence": "真犯人を特定することによって、冤罪を防ぐことができます。"
+        },
+        {
+            "word": "罪状",
+            "reading": "zaijou",
+            "meaning": "Charges/Offense",
+            "example_sentence": "罪状を明確にする反面、過度な刑罰は避けるべきです。"
+        },
+        {
+            "word": "有罪",
+            "reading": "yuuzai",
+            "meaning": "Guilty",
+            "example_sentence": "有罪判決を受けることによって、社会的制裁が始まります。"
+        },
+        {
+            "word": "無罪",
+            "reading": "muzai",
+            "meaning": "Innocent/Not guilty",
+            "example_sentence": "無罪を勝ち取るうちに、失われた時間は戻ってきません。"
+        },
+        {
+            "word": "冤罪",
+            "reading": "enzai",
+            "meaning": "False charge/Wrongful conviction",
+            "example_sentence": "冤罪を防ぐ反面、真犯人を逃してしまうジレンマもあります。"
+        },
+        {
+            "word": "刑罰",
+            "reading": "keibatsu",
+            "meaning": "Punishment/Penalty",
+            "example_sentence": "適切な刑罰を科すことによって、犯罪の抑止力を高めます。"
+        },
+        {
+            "word": "刑期",
+            "reading": "keiki",
+            "meaning": "Prison term",
+            "example_sentence": "刑期を終えるうちに、社会復帰への準備を進めます。"
+        },
+        {
+            "word": "懲役",
+            "reading": "choueki",
+            "meaning": "Imprisonment/Penal servitude",
+            "example_sentence": "懲役刑を受ける反面、更生の機会も与えられるべきです。"
+        },
+        {
+            "word": "禁錮",
+            "reading": "kinko",
+            "meaning": "Imprisonment",
+            "example_sentence": "禁錮刑が科されることによって、自由が制限されます。"
+        },
+        {
+            "word": "罰金",
+            "reading": "bakkin",
+            "meaning": "Fine/Penalty",
+            "example_sentence": "罰金を支払ううちに、経済的な負担も大きくなります。"
+        },
+        {
+            "word": "執行",
+            "reading": "shikkou",
+            "meaning": "Execution/Enforcement",
+            "example_sentence": "判決を執行する反面、人道的配慮も必要です。"
+        },
+        {
+            "word": "執行猶予",
+            "reading": "shikkouyuuyo",
+            "meaning": "Suspended sentence",
+            "example_sentence": "執行猶予が付くことによって、更生のチャンスが与えられます。"
+        },
+        {
+            "word": "仮釈放",
+            "reading": "karishakuhou",
+            "meaning": "Parole",
+            "example_sentence": "仮釈放を認めるうちに、再犯防止の監視も強化されます。"
+        },
+        {
+            "word": "保釈",
+            "reading": "hoshaku",
+            "meaning": "Bail",
+            "example_sentence": "保釈金を納める反面、逃亡のリスクも考慮されます。"
+        },
+        {
+            "word": "拘留",
+            "reading": "kouryuu",
+            "meaning": "Detention",
+            "example_sentence": "容疑者を拘留することによって、証拠隠滅を防ぎます。"
+        },
+        {
+            "word": "拘置",
+            "reading": "kouchi",
+            "meaning": "Detention/Custody",
+            "example_sentence": "拘置所に収容されるうちに、裁判の準備を進めます。"
+        },
+        {
+            "word": "勾留",
+            "reading": "kouryuu",
+            "meaning": "Detention",
+            "example_sentence": "勾留期間が延長される反面、人権への配慮も求められます。"
+        },
+        {
+            "word": "起訴",
+            "reading": "kiso",
+            "meaning": "Indictment/Prosecution",
+            "example_sentence": "検察が起訴するうちに、十分な証拠の裏付けが必要です。"
+        },
+        {
+            "word": "不起訴",
+            "reading": "fukiso",
+            "meaning": "Non-prosecution",
+            "example_sentence": "不起訴処分となる反面、被害者の納得が得られないこともあります。"
+        },
+        {
+            "word": "略式",
+            "reading": "ryakushiki",
+            "meaning": "Summary/Simplified",
+            "example_sentence": "略式起訴によって、迅速な処理が可能になります。"
+        },
+        {
+            "word": "審理",
+            "reading": "shinri",
+            "meaning": "Trial/Hearing",
+            "example_sentence": "慎重に審理を進めるうちに、真実に近づいていきます。"
+        },
+        {
+            "word": "控訴",
+            "reading": "kouso",
+            "meaning": "Appeal",
+            "example_sentence": "判決に不服で控訴するうちに、新たな証拠を提出します。"
+        },
+        {
+            "word": "上告",
+            "reading": "joukoku",
+            "meaning": "Final appeal",
+            "example_sentence": "最高裁に上告する反面、認められる可能性は低いです。"
+        },
+        {
+            "word": "認容",
+            "reading": "ninyou",
+            "meaning": "Approval/Acceptance",
+            "example_sentence": "請求が認容されることによって、権利が回復されます。"
+        },
+        {
+            "word": "和解",
+            "reading": "wakai",
+            "meaning": "Settlement/Reconciliation",
+            "example_sentence": "裁判外で和解するうちに、双方の負担が軽減されます。"
+        },
+        {
+            "word": "調停",
+            "reading": "choutei",
+            "meaning": "Mediation/Conciliation",
+            "example_sentence": "調停委員が仲介する反面、強制力はありません。"
+        },
+        {
+            "word": "示談",
+            "reading": "jidan",
+            "meaning": "Out-of-court settlement",
+            "example_sentence": "示談金を支払ううちに、刑事責任が軽減されることもあります。"
+        },
+        {
+            "word": "慰謝料",
+            "reading": "isharyou",
+            "meaning": "Consolation money/Alimony",
+            "example_sentence": "慰謝料を受け取ることによって、精神的苦痛が償われます。"
+        },
+        {
+            "word": "違約金",
+            "reading": "iyakukin",
+            "meaning": "Penalty/Liquidated damages",
+            "example_sentence": "契約を破棄する反面、違約金の支払いが発生します。"
+        },
+        {
+            "word": "締結",
+            "reading": "teiketsu",
+            "meaning": "Conclusion/Signing",
+            "example_sentence": "条約を締結するうちに、国際関係が強化されます。"
+        },
+        {
+            "word": "履行",
+            "reading": "rikou",
+            "meaning": "Performance/Fulfillment",
+            "example_sentence": "契約を履行する反面、予期せぬ事態への対応も必要です。"
+        },
+        {
+            "word": "違反",
+            "reading": "ihan",
+            "meaning": "Violation/Breach",
+            "example_sentence": "法律に違反することによって、罰則が科されます。"
+        },
+        {
+            "word": "侵害",
+            "reading": "shingai",
+            "meaning": "Infringement/Violation",
+            "example_sentence": "権利を侵害する反面、その自覚がないこともあります。"
+        },
+        {
+            "word": "侵犯",
+            "reading": "shinpan",
+            "meaning": "Violation/Encroachment",
+            "example_sentence": "領域を侵犯することによって、国際問題に発展します。"
+        },
+        {
+            "word": "侵入",
+            "reading": "shinnyuu",
+            "meaning": "Intrusion/Trespass",
+            "example_sentence": "不法に侵入するうちに、住居侵入罪が成立します。"
+        },
+        {
+            "word": "窃盗",
+            "reading": "settou",
+            "meaning": "Theft/Larceny",
+            "example_sentence": "窃盗罪で起訴される反面、初犯であれば執行猶予もあり得ます。"
+        },
+        {
+            "word": "強盗",
+            "reading": "goutou",
+            "meaning": "Robbery",
+            "example_sentence": "強盗事件が発生することによって、地域の治安が悪化します。"
+        },
+        {
+            "word": "詐欺",
+            "reading": "sagi",
+            "meaning": "Fraud/Swindle",
+            "example_sentence": "巧妙な詐欺に遭ううちに、多額の財産を失いました。"
+        },
+        {
+            "word": "恐喝",
+            "reading": "kyoukatsu",
+            "meaning": "Extortion/Blackmail",
+            "example_sentence": "恐喝によって金銭を奪う反面、重い刑罰が待っています。"
+        },
+        {
+            "word": "脅迫",
+            "reading": "kyouhaku",
+            "meaning": "Threat/Intimidation",
+            "example_sentence": "脅迫状を送ることによって、相手を恐怖に陥れました。"
+        },
+        {
+            "word": "暴行",
+            "reading": "boukou",
+            "meaning": "Assault/Violence",
+            "example_sentence": "暴行を加える反面、正当防衛との境界が問われます。"
+        },
+        {
+            "word": "傷害",
+            "reading": "shougai",
+            "meaning": "Injury/Bodily harm",
+            "example_sentence": "傷害罪が成立することによって、民事責任も発生します。"
+        },
+        {
+            "word": "殺人",
+            "reading": "satsujin",
+            "meaning": "Murder/Homicide",
+            "example_sentence": "殺人事件を捜査するうちに、動機の解明が重要になります。"
+        },
+        {
+            "word": "過失",
+            "reading": "kashitsu",
+            "meaning": "Negligence/Fault",
+            "example_sentence": "過失によって事故を起こす反面、故意ではないため刑が軽減されます。"
+        },
+        {
+            "word": "故意",
+            "reading": "koi",
+            "meaning": "Intent/Willfulness",
+            "example_sentence": "故意に犯した犯罪である反面、情状酌量の余地もあります。"
+        },
+        {
+            "word": "未遂",
+            "reading": "misui",
+            "meaning": "Attempt/Unsuccessful attempt",
+            "example_sentence": "殺人未遂で逮捕されるうちに、既遂との刑の差を知りました。"
+        },
+        {
+            "word": "共犯",
+            "reading": "kyouhan",
+            "meaning": "Complicity/Accomplice",
+            "example_sentence": "共犯者として起訴される反面、主犯との量刑の差があります。"
+        },
+        {
+            "word": "教唆",
+            "reading": "kyousa",
+            "meaning": "Instigation/Incitement",
+            "example_sentence": "犯罪を教唆することによって、実行犯と同等の責任を負います。"
+        },
+        {
+            "word": "幇助",
+            "reading": "houjo",
+            "meaning": "Aiding/Abetting",
+            "example_sentence": "犯罪を幇助するうちに、自らも罪に問われることになります。"
+        },
+        {
+            "word": "正当防衛",
+            "reading": "seitoubouei",
+            "meaning": "Self-defense/Justifiable defense",
+            "example_sentence": "正当防衛が認められる反面、過剰防衛との線引きは難しいです。"
+        },
+        {
+            "word": "緊急避難",
+            "reading": "kinkyuuhinan",
+            "meaning": "Emergency evacuation/Necessity",
+            "example_sentence": "緊急避難として行動することによって、違法性が阻却されます。"
+        },
+        {
+            "word": "時効",
+            "reading": "jikou",
+            "meaning": "Statute of limitations",
+            "example_sentence": "時効が成立するうちに、犯人は罪を逃れました。"
+        },
+        {
+            "word": "公訴",
+            "reading": "kouso",
+            "meaning": "Public prosecution",
+            "example_sentence": "公訴時効が完成する反面、民事責任は残ります。"
+        },
+        {
+            "word": "告訴",
+            "reading": "kokuso",
+            "meaning": "Accusation/Complaint",
+            "example_sentence": "被害者が告訴することによって、捜査が開始されます。"
+        },
+        {
+            "word": "密告",
+            "reading": "mikkoku",
+            "meaning": "Informing/Denunciation",
+            "example_sentence": "密告者の情報によって、犯罪組織が摘発されました。"
+        },
+        {
+            "word": "摘発",
+            "reading": "tekihatsu",
+            "meaning": "Exposure/Crackdown",
+            "example_sentence": "違法行為を摘発するうちに、社会の浄化が進みます。"
+        },
+        {
+            "word": "取締",
+            "reading": "torishimari",
+            "meaning": "Control/Regulation",
+            "example_sentence": "厳しく取締まる反面、過度な規制は自由を損ないます。"
+        },
+        {
+            "word": "捜査",
+            "reading": "sousa",
+            "meaning": "Investigation",
+            "example_sentence": "徹底的に捜査することによって、真相が明らかになります。"
+        },
+        {
+            "word": "捜索",
+            "reading": "sousaku",
+            "meaning": "Search",
+            "example_sentence": "家宅捜索を行ううちに、決定的な証拠が発見されました。"
+        },
+        {
+            "word": "押収",
+            "reading": "oushuu",
+            "meaning": "Seizure/Confiscation",
+            "example_sentence": "証拠品を押収する反面、プライバシーへの配慮も必要です。"
+        },
+        {
+            "word": "没収",
+            "reading": "bosshuu",
+            "meaning": "Confiscation/Forfeiture",
+            "example_sentence": "違法な収益を没収することによって、犯罪の利益を剥奪します。"
+        },
+        {
+            "word": "差押",
+            "reading": "sashiosae",
+            "meaning": "Seizure/Attachment",
+            "example_sentence": "財産を差押えるうちに、債権の回収を図ります。"
+        },
+        {
+            "word": "仮差押",
+            "reading": "karisashiosae",
+            "meaning": "Provisional seizure",
+            "example_sentence": "仮差押えを申請する反面、担保の提供が求められます。"
+        },
+        {
+            "word": "強制執行",
+            "reading": "kyouseishikkou",
+            "meaning": "Compulsory execution",
+            "example_sentence": "強制執行によって、判決の実効性が確保されます。"
+        },
+        {
+            "word": "債権",
+            "reading": "saiken",
+            "meaning": "Credit/Claim",
+            "example_sentence": "債権を回収するうちに、法的手続きが必要になります。"
+        }
+    ],
+    "liarGameData": {
+        "trap": "人工衛星が軌道を外れることはありません。(Satellites never go off orbit.)",
+        "correctVersion": "大気の影響や重力バランスにより、人工衛星の軌道は徐々に変化します。これを修正するために「軌道維持」という操作が必要です。(Satellites orbits change gradually due to atmospheric friction/gravity. 'Station-keeping' is needed to correct this.)",
+        "explanation": "In aerospace technology, it's a common misconception that satellites stay in the same orbit forever. In reality, external forces like the Earth's atmosphere (even at high altitudes), solar radiation pressure, and non-uniform gravitational pulls cause 'orbital decay' or shifts. Engineers must actively manage the satellite's position using small thrusters to maintain its operational path."
+    }
+}

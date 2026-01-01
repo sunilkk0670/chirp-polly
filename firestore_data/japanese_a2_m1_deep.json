@@ -1,0 +1,76 @@
+{
+    "modules": [
+        {
+            "moduleId": "japanese_a2_m1",
+            "theme": "N4 Kanji: Time & Calendar",
+            "order": 1,
+            "lessons": [
+                {
+                    "target_text": "時",
+                    "english": "Time / Hour",
+                    "phonetic_transcription": "ジ / とき (ji / toki)",
+                    "radical_breakdown": "Radical: 日 (Sun/Day) | N4 Kanji"
+                },
+                {
+                    "target_text": "間",
+                    "english": "Interval / Between",
+                    "phonetic_transcription": "カン / あいだ (kan / aida)",
+                    "radical_breakdown": "Radical: 門 (Gate) | N4 Kanji"
+                },
+                {
+                    "target_text": "分",
+                    "english": "Minute / Part / Understand",
+                    "phonetic_transcription": "フン / わか-る (fun / waka-ru)",
+                    "radical_breakdown": "Radical: 刀 (Sword) | N4 Kanji"
+                },
+                {
+                    "target_text": "半",
+                    "english": "Half",
+                    "phonetic_transcription": "ハン / なか-ば (han / naka-ba)",
+                    "radical_breakdown": "Radical: 十 (Ten) | N4 Kanji"
+                },
+                {
+                    "target_text": "会",
+                    "english": "Meet / Society",
+                    "phonetic_transcription": "カイ / あ-う (kai / a-u)",
+                    "radical_breakdown": "Radical: 𠆢 (Person) | N4 Kanji"
+                },
+                {
+                    "target_text": "社",
+                    "english": "Company / Shrine",
+                    "phonetic_transcription": "シャ / やしろ (sha / yashiro)",
+                    "radical_breakdown": "Radical: 礻 (Spirit) | N4 Kanji"
+                },
+                {
+                    "target_text": "員",
+                    "english": "Member / Official",
+                    "phonetic_transcription": "イン (in)",
+                    "radical_breakdown": "Radical: 貝 (Shell) | N4 Kanji"
+                },
+                {
+                    "target_text": "会社",
+                    "english": "Company",
+                    "phonetic_transcription": "かいしゃ (kaisha)",
+                    "radical_breakdown": "Compound: 会 (Meet) + 社 (Shrine)"
+                },
+                {
+                    "target_text": "会社員",
+                    "english": "Office Worker",
+                    "phonetic_transcription": "かいしゃいん (kaishain)",
+                    "radical_breakdown": "Compound: 会 + 社 + 員 (Member)"
+                },
+                {
+                    "target_text": "時間",
+                    "english": "Time",
+                    "phonetic_transcription": "じかん (jikan)",
+                    "radical_breakdown": "Compound: 時 (Time) + 間 (Interval)"
+                }
+            ],
+            "liar_game_data": {
+                "trap": "3時分です。",
+                "correct_version": "3時半です。",
+                "explanation": "To say '3:30', use '半' (half), not '分' (minute) in this context."
+            }
+        }
+    ]
+}

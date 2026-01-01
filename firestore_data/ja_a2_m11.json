@@ -1,0 +1,612 @@
+{
+    "moduleId": "ja_a2_m11",
+    "theme": "Workplace & Business",
+    "order": 11,
+    "vocabularyItems": [
+        {
+            "word": "会議",
+            "reading": "kaigi",
+            "meaning": "Meeting",
+            "example_sentence": "午後から会議があります。"
+        },
+        {
+            "word": "出張",
+            "reading": "shucchou",
+            "meaning": "Business trip",
+            "example_sentence": "来週は大阪へ出張します。"
+        },
+        {
+            "word": "好況",
+            "reading": "koukyou",
+            "meaning": "Prosperity/Good times",
+            "example_sentence": "好況に沸くうちに、市場がバブル化しているという警鐘も鳴らされました。"
+        },
+        {
+            "word": "巧妙",
+            "reading": "koumyou",
+            "meaning": "Ingenious/Skilled",
+            "example_sentence": "巧妙な仕掛けを施すことによって、観客を最後まで飽きさせない演出です。"
+        },
+        {
+            "word": "功労",
+            "reading": "kourou",
+            "meaning": "Merit/Valuable service",
+            "example_sentence": "長年の功労を称える反面、後進の育成が滞っている現状も直視すべきです。"
+        },
+        {
+            "word": "残業",
+            "reading": "zangyou",
+            "meaning": "Overtime work",
+            "example_sentence": "今日は残業をします。"
+        },
+        {
+            "word": "給料",
+            "reading": "kyuuryou",
+            "meaning": "Salary",
+            "example_sentence": "給料日が楽しみです。"
+        },
+        {
+            "word": "名刺",
+            "reading": "meishi",
+            "meaning": "Business card",
+            "example_sentence": "名刺を交換しました。"
+        },
+        {
+            "word": "報告",
+            "reading": "houkoku",
+            "meaning": "Report",
+            "example_sentence": "進捗を報告します。"
+        },
+        {
+            "word": "連絡",
+            "reading": "renraku",
+            "meaning": "Contact/Communication",
+            "example_sentence": "お電話で連絡します。"
+        },
+        {
+            "word": "相談",
+            "reading": "soudan",
+            "meaning": "Consultation",
+            "example_sentence": "先輩に相談しました。"
+        },
+        {
+            "word": "締め切り",
+            "reading": "shimekiri",
+            "meaning": "Deadline",
+            "example_sentence": "締め切りは明日です。"
+        },
+        {
+            "word": "書類",
+            "reading": "shorui",
+            "meaning": "Documents",
+            "example_sentence": "書類を準備してください。"
+        },
+        {
+            "word": "資料",
+            "reading": "shiryou",
+            "meaning": "Materials/Data",
+            "example_sentence": "会議の資料を配ります。"
+        },
+        {
+            "word": "担当",
+            "reading": "tantou",
+            "meaning": "In charge of",
+            "example_sentence": "私がこの案件の担当です。"
+        },
+        {
+            "word": "部長",
+            "reading": "buchou",
+            "meaning": "Department manager",
+            "example_sentence": "部長に承認をもらいました。"
+        },
+        {
+            "word": "課長",
+            "reading": "kachou",
+            "meaning": "Section chief",
+            "example_sentence": "課長と面談しました。"
+        },
+        {
+            "word": "名刺交換",
+            "reading": "meishi koukan",
+            "meaning": "Exchange business cards",
+            "example_sentence": "初対面で名刺交換をします。"
+        },
+        {
+            "word": "取引先",
+            "reading": "torihikisaki",
+            "meaning": "Client/Business partner",
+            "example_sentence": "取引先のオフィスを訪問します。"
+        },
+        {
+            "word": "打ち合わせ",
+            "reading": "uchiawase",
+            "meaning": "Preparatory meeting",
+            "example_sentence": "事前に打ち合わせをしましょう。"
+        },
+        {
+            "word": "コピー",
+            "reading": "kopii",
+            "meaning": "Copy",
+            "example_sentence": "これを10部コピーしてください。"
+        },
+        {
+            "word": "印刷",
+            "reading": "insatsu",
+            "meaning": "Printing",
+            "example_sentence": "資料を印刷します。"
+        },
+        {
+            "word": "承認",
+            "reading": "shounin",
+            "meaning": "Approval",
+            "example_sentence": "上司の承認が必要です。"
+        },
+        {
+            "word": "許可",
+            "reading": "kyoka",
+            "meaning": "Permission",
+            "example_sentence": "休暇の許可をもらいました。"
+        },
+        {
+            "word": "有給休暇",
+            "reading": "yuukyuu kyuuka",
+            "meaning": "Paid leave",
+            "example_sentence": "来週、有給休暇を取ります。"
+        },
+        {
+            "word": "遅刻",
+            "reading": "chikoku",
+            "meaning": "Tardiness",
+            "example_sentence": "電車が遅れて遅刻しました。"
+        },
+        {
+            "word": "早退",
+            "reading": "soutai",
+            "meaning": "Leave early",
+            "example_sentence": "体調不良で早退します。"
+        },
+        {
+            "word": "欠席",
+            "reading": "kesseki",
+            "meaning": "Absence",
+            "example_sentence": "明日の会議は欠席します。"
+        },
+        {
+            "word": "出席",
+            "reading": "shusseki",
+            "meaning": "Attendance",
+            "example_sentence": "イベントに出席します。"
+        },
+        {
+            "word": "退職",
+            "reading": "taishoku",
+            "meaning": "Retirement/Resignation",
+            "example_sentence": "今月末で退職します。"
+        },
+        {
+            "word": "転職",
+            "reading": "tenshoku",
+            "meaning": "Job change",
+            "example_sentence": "転職活動をしています。"
+        },
+        {
+            "word": "就職",
+            "reading": "shuushoku",
+            "meaning": "Finding employment",
+            "example_sentence": "大学を卒業して就職しました。"
+        },
+        {
+            "word": "研修",
+            "reading": "kenshuu",
+            "meaning": "Training",
+            "example_sentence": "新入社員研修を受けます。"
+        },
+        {
+            "word": "昇進",
+            "reading": "shoushin",
+            "meaning": "Promotion",
+            "example_sentence": "係長に昇進しました。"
+        },
+        {
+            "word": "内定",
+            "reading": "naitei",
+            "meaning": "Job offer (unofficial)",
+            "example_sentence": "会社から内定をもらいました。"
+        },
+        {
+            "word": "履歴書",
+            "reading": "rirekisho",
+            "meaning": "Resume",
+            "example_sentence": "履歴書を送付しました。"
+        },
+        {
+            "word": "面接",
+            "reading": "mensetsu",
+            "meaning": "Interview",
+            "example_sentence": "明日は最終面接です。"
+        },
+        {
+            "word": "筆記試験",
+            "reading": "hikki shiken",
+            "meaning": "Written exam",
+            "example_sentence": "筆記試験の結果を待ちます。"
+        },
+        {
+            "word": "自己PR",
+            "reading": "jiko pii aru",
+            "meaning": "Self-promotion/introduction",
+            "example_sentence": "自分をしっかり自己PRします。"
+        },
+        {
+            "word": "志望動機",
+            "reading": "shibou douki",
+            "meaning": "Reason for applying",
+            "example_sentence": "志望動機を聞かれました。"
+        },
+        {
+            "word": "残業代",
+            "reading": "zangyoudai",
+            "meaning": "Overtime pay",
+            "example_sentence": "残業代が支給されます。"
+        },
+        {
+            "word": "交通費",
+            "reading": "koutsuuhi",
+            "meaning": "Travel expenses",
+            "example_sentence": "交通費は全額支給です。"
+        },
+        {
+            "word": "福利厚生",
+            "reading": "fukuri kousei",
+            "meaning": "Employee benefits",
+            "example_sentence": "福利厚生が充実しています。"
+        },
+        {
+            "word": "社会保険",
+            "reading": "shakai hoken",
+            "meaning": "Social insurance",
+            "example_sentence": "社会保険に加入します。"
+        },
+        {
+            "word": "定年",
+            "reading": "teinen",
+            "meaning": "Retirement age",
+            "example_sentence": "来年、定年を迎えます。"
+        },
+        {
+            "word": "ボーナス",
+            "reading": "boonasu",
+            "meaning": "Bonus",
+            "example_sentence": "ボーナスが楽しみです。"
+        },
+        {
+            "word": "職場",
+            "reading": "shokuba",
+            "meaning": "Workplace",
+            "example_sentence": "職場は活気があります。"
+        },
+        {
+            "word": "事務所在",
+            "reading": "jimusho",
+            "meaning": "Office",
+            "example_sentence": "事務所で仕事をします。"
+        },
+        {
+            "word": "現場",
+            "reading": "genba",
+            "meaning": "Actual site/Worksite",
+            "example_sentence": "現場の状況を確認します。"
+        },
+        {
+            "word": "責任",
+            "reading": "sekinin",
+            "meaning": "Responsibility",
+            "example_sentence": "大きな責任を感じます。"
+        },
+        {
+            "word": "成果",
+            "reading": "seika",
+            "meaning": "Result/Achievement",
+            "example_sentence": "仕事の成果を出します。"
+        },
+        {
+            "word": "協力",
+            "reading": "kyouryoku",
+            "meaning": "Cooperation",
+            "example_sentence": "チームで協力しましょう。"
+        },
+        {
+            "word": "交渉",
+            "reading": "koushou",
+            "meaning": "Negotiation",
+            "example_sentence": "価格の交渉をします。"
+        },
+        {
+            "word": "契約",
+            "reading": "keiyaku",
+            "meaning": "Contract",
+            "example_sentence": "契約書にサインします。"
+        },
+        {
+            "word": "依頼",
+            "reading": "irai",
+            "meaning": "Request",
+            "example_sentence": "仕事を依頼されました。"
+        },
+        {
+            "word": "承諾",
+            "reading": "shoudaku",
+            "meaning": "Consent/Acceptance",
+            "example_sentence": "依頼を承諾しました。"
+        },
+        {
+            "word": "辞退",
+            "reading": "jitai",
+            "meaning": "Declination/Withdrawal",
+            "example_sentence": "提案を辞退されました。"
+        },
+        {
+            "word": "見送り",
+            "reading": "miokuri",
+            "meaning": "Shelving/Postponing",
+            "example_sentence": "今回は見送りとします。"
+        },
+        {
+            "word": "提案",
+            "reading": "teian",
+            "meaning": "Proposal",
+            "example_sentence": "新しい提案をします。"
+        },
+        {
+            "word": "開発",
+            "reading": "kaihatsu",
+            "meaning": "Development",
+            "example_sentence": "新商品を開発中です。"
+        },
+        {
+            "word": "製造",
+            "reading": "seizou",
+            "meaning": "Manufacturing",
+            "example_sentence": "工場で車を製造します。"
+        },
+        {
+            "word": "販売",
+            "reading": "hanbai",
+            "meaning": "Sales",
+            "example_sentence": "商品を販売します。"
+        },
+        {
+            "word": "広告",
+            "reading": "koukoku",
+            "meaning": "Advertisement",
+            "example_sentence": "ネットに広告を出します。"
+        },
+        {
+            "word": "市場調査",
+            "reading": "shijou chousa",
+            "meaning": "Market research",
+            "example_sentence": "市場調査を行いました。"
+        },
+        {
+            "word": "競合",
+            "reading": "kyougou",
+            "meaning": "Competition",
+            "example_sentence": "競合他社を分析します。"
+        },
+        {
+            "word": "顧客",
+            "reading": "kyokaku",
+            "meaning": "Customer/Client",
+            "example_sentence": "顧客満足度を高めます。"
+        },
+        {
+            "word": "クレーム",
+            "reading": "kureemu",
+            "meaning": "Complaint",
+            "example_sentence": "クレーム対応をします。"
+        },
+        {
+            "word": "謝罪",
+            "reading": "shazai",
+            "meaning": "Apology",
+            "example_sentence": "お客様に謝罪しました。"
+        },
+        {
+            "word": "改善",
+            "reading": "kaizen",
+            "meaning": "Improvement",
+            "example_sentence": "業務の改善を図ります。"
+        },
+        {
+            "word": "効率",
+            "reading": "kouritsu",
+            "meaning": "Efficiency",
+            "example_sentence": "仕事の効率を上げます。"
+        },
+        {
+            "word": "IT技術",
+            "reading": "ai tii gijutsu",
+            "meaning": "IT technology",
+            "example_sentence": "IT技術を活用します。"
+        },
+        {
+            "word": "デジタル化",
+            "reading": "dejitaru ka",
+            "meaning": "Digitalization",
+            "example_sentence": "デジタル化を進めています。"
+        },
+        {
+            "word": "働き方改革",
+            "reading": "hatarakikata kaikaku",
+            "meaning": "Workstyle reform",
+            "example_sentence": "働き方改革に取り組んでいます。"
+        },
+        {
+            "word": "リモートワーク",
+            "reading": "rimooto waaku",
+            "meaning": "Remote work",
+            "example_sentence": "今日はリモートワークです。"
+        },
+        {
+            "word": "見積もり",
+            "reading": "mitsumori",
+            "meaning": "Estimate",
+            "example_sentence": "見積もりをお願いします。"
+        },
+        {
+            "word": "決算",
+            "reading": "kessan",
+            "meaning": "Financial settlement",
+            "example_sentence": "3月は決算期です。"
+        },
+        {
+            "word": "採用",
+            "reading": "saiyou",
+            "meaning": "Hiring",
+            "example_sentence": "新しい人材を採用します。"
+        },
+        {
+            "word": "失礼します",
+            "reading": "shitsurei shimasu",
+            "meaning": "Excuse me (polite)",
+            "example_sentence": "お先に失礼します。"
+        },
+        {
+            "word": "お疲れ様",
+            "reading": "otsukaresama",
+            "meaning": "Thank you for your work",
+            "example_sentence": "皆さん、お疲れ様でした。"
+        },
+        {
+            "word": "ご苦労様",
+            "reading": "gokurousama",
+            "meaning": "Good work (to subordinates)",
+            "example_sentence": "ご苦労様。助かったよ。"
+        },
+        {
+            "word": "敬語",
+            "reading": "keigo",
+            "meaning": "Honorific language",
+            "example_sentence": "職場では敬語を使います。"
+        },
+        {
+            "word": "丁寧語",
+            "reading": "teineigo",
+            "meaning": "Polite language",
+            "example_sentence": "です・ますは丁寧語です。"
+        },
+        {
+            "word": "いらっしゃる",
+            "reading": "irassharu",
+            "meaning": "To be (honorific)",
+            "example_sentence": "社長はいらっしゃいますか？"
+        },
+        {
+            "word": "おっしゃる",
+            "reading": "ossharu",
+            "meaning": "To say (honorific)",
+            "example_sentence": "先生がおっしゃいました。"
+        },
+        {
+            "word": "召し上がる",
+            "reading": "meshiagaru",
+            "meaning": "To eat (honorific)",
+            "example_sentence": "どうぞ召し上がってください。"
+        },
+        {
+            "word": "ご覧になる",
+            "reading": "goran ni naru",
+            "meaning": "To look (honorific)",
+            "example_sentence": "資料をご覧になりましたか？"
+        },
+        {
+            "word": "お帰りになる",
+            "reading": "okaeri ni naru",
+            "meaning": "To return (honorific)",
+            "example_sentence": "もうお帰りになりました。"
+        },
+        {
+            "word": "参る",
+            "reading": "mairu",
+            "meaning": "To go (humble)",
+            "example_sentence": "今から参ります。"
+        },
+        {
+            "word": "申す",
+            "reading": "mousu",
+            "meaning": "To say (humble)",
+            "example_sentence": "田中と申します。"
+        },
+        {
+            "word": "いただく",
+            "reading": "itadaku",
+            "meaning": "To receive (humble)",
+            "example_sentence": "お土産をいただきました。"
+        },
+        {
+            "word": "拝見する",
+            "reading": "haiken suru",
+            "meaning": "To look (humble)",
+            "example_sentence": "書類を拝見しました。"
+        },
+        {
+            "word": "お目にかかる",
+            "reading": "ome ni kakaru",
+            "meaning": "To meet (humble)",
+            "example_sentence": "初めてお目にかかります。"
+        },
+        {
+            "word": "存じる",
+            "reading": "zonjiru",
+            "meaning": "To know (humble)",
+            "example_sentence": "存じております。"
+        },
+        {
+            "word": "お世話になっております",
+            "reading": "osewa ni natte orimasu",
+            "meaning": "Thank you for your continued support",
+            "example_sentence": "いつもお世話になっております。"
+        },
+        {
+            "word": "承知いたしました",
+            "reading": "shouchi itashimashita",
+            "meaning": "Understood (humble)",
+            "example_sentence": "件、承知いたしました。"
+        },
+        {
+            "word": "航空券",
+            "reading": "koukuuken",
+            "meaning": "Plane ticket",
+            "example_sentence": "航空券を予約しました。"
+        },
+        {
+            "word": "搭乗券",
+            "reading": "toujouken",
+            "meaning": "Boarding pass",
+            "example_sentence": "搭乗券を拝見します。"
+        },
+        {
+            "word": "目的地",
+            "reading": "mokutekichi",
+            "meaning": "Destination",
+            "example_sentence": "目的地まであと少しです。"
+        },
+        {
+            "word": "出発",
+            "reading": "shuppatsu",
+            "meaning": "Departure",
+            "example_sentence": "朝8時に出発します。"
+        },
+        {
+            "word": "到着",
+            "reading": "touchaku",
+            "meaning": "Arrival",
+            "example_sentence": "飛行機が到着しました。"
+        }
+    ],
+    "liarGameData": {
+        "trap": "部下が上司に「ご苦労様です」と言った。(Subordinate said 'Gokurousama' to the boss.)",
+        "correctVersion": "部下が上司に「お疲れ様です」と言った。(Subordinate said 'Otsukaresama' to the boss.)",
+        "explanation": "「ご苦労様」(Gokurousama) is used by superiors to thank subordinates. Using it to your boss is disrespectful. Always use 「お疲れ様です」(Otsukaresama desu) for superiors or colleagues."
+    }
+}

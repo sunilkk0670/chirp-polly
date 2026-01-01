@@ -1,0 +1,529 @@
+{
+    "id": "ja_a1_m4",
+    "moduleId": "ja_a1_m4",
+    "name": "A1 Japanese - Module 4: Food and Drinks",
+    "theme": "Food and Drinks",
+    "order": 4,
+    "count": 100,
+    "vocabularyItems": [
+        {
+            "word": "食べ物",
+            "reading": "tabemono",
+            "meaning": "Food"
+        },
+        {
+            "word": "ご飯",
+            "reading": "gohan",
+            "meaning": "Meal / Cooked rice"
+        },
+        {
+            "word": "朝ご飯",
+            "reading": "asagohan",
+            "meaning": "Breakfast"
+        },
+        {
+            "word": "昼ご飯",
+            "reading": "hirugohan",
+            "meaning": "Lunch"
+        },
+        {
+            "word": "晩ご飯",
+            "reading": "bangohan",
+            "meaning": "Dinner"
+        },
+        {
+            "word": "おにぎり",
+            "reading": "onigiri",
+            "meaning": "Rice ball"
+        },
+        {
+            "word": "寿司",
+            "reading": "sushi",
+            "meaning": "Sushi"
+        },
+        {
+            "word": "刺身",
+            "reading": "sashimi",
+            "meaning": "Sashimi / Sliced raw fish"
+        },
+        {
+            "word": "天ぷら",
+            "reading": "tenpura",
+            "meaning": "Tempura"
+        },
+        {
+            "word": "ラーメン",
+            "reading": "raamen",
+            "meaning": "Ramen"
+        },
+        {
+            "word": "うどん",
+            "reading": "udon",
+            "meaning": "Udon noodles"
+        },
+        {
+            "word": "そば",
+            "reading": "soba",
+            "meaning": "Soba noodles"
+        },
+        {
+            "word": "パン",
+            "reading": "pan",
+            "meaning": "Bread"
+        },
+        {
+            "word": "卵",
+            "reading": "tamago",
+            "meaning": "Egg"
+        },
+        {
+            "word": "肉",
+            "reading": "niku",
+            "meaning": "Meat"
+        },
+        {
+            "word": "牛肉",
+            "reading": "gyuuniku",
+            "meaning": "Beef"
+        },
+        {
+            "word": "豚肉",
+            "reading": "butaniku",
+            "meaning": "Pork"
+        },
+        {
+            "word": "鶏肉",
+            "reading": "toriniku",
+            "meaning": "Chicken meat"
+        },
+        {
+            "word": "魚",
+            "reading": "sakana",
+            "meaning": "Fish"
+        },
+        {
+            "word": "野菜",
+            "reading": "yasai",
+            "meaning": "Vegetable"
+        },
+        {
+            "word": "果物",
+            "reading": "kudamono",
+            "meaning": "Fruit"
+        },
+        {
+            "word": "りんご",
+            "reading": "ringo",
+            "meaning": "Apple"
+        },
+        {
+            "word": "バナナ",
+            "reading": "banana",
+            "meaning": "Banana"
+        },
+        {
+            "word": "みかん",
+            "reading": "mikan",
+            "meaning": "Mandarin orange"
+        },
+        {
+            "word": "いちご",
+            "reading": "ichigo",
+            "meaning": "Strawberry"
+        },
+        {
+            "word": "キャベツ",
+            "reading": "kyabetsu",
+            "meaning": "Cabbage"
+        },
+        {
+            "word": "レタス",
+            "reading": "retasu",
+            "meaning": "Lettuce"
+        },
+        {
+            "word": "トマト",
+            "reading": "tomato",
+            "meaning": "Tomato"
+        },
+        {
+            "word": "胡瓜",
+            "reading": "kyuuri",
+            "meaning": "Cucumber"
+        },
+        {
+            "word": "茄子",
+            "reading": "nasu",
+            "meaning": "Eggplant"
+        },
+        {
+            "word": "大根",
+            "reading": "daikon",
+            "meaning": "Daikon radish"
+        },
+        {
+            "word": "人参",
+            "reading": "ninjin",
+            "meaning": "Carrot"
+        },
+        {
+            "word": "玉ねぎ",
+            "reading": "tamanegi",
+            "meaning": "Onion"
+        },
+        {
+            "word": "じゃがいも",
+            "reading": "jagaimo",
+            "meaning": "Potato"
+        },
+        {
+            "word": "茸",
+            "reading": "kinoko",
+            "meaning": "Mushroom"
+        },
+        {
+            "word": "海藻",
+            "reading": "kaisou",
+            "meaning": "Seaweed"
+        },
+        {
+            "word": "豆",
+            "reading": "mame",
+            "meaning": "Bean / Pea"
+        },
+        {
+            "word": "豆腐",
+            "reading": "toufu",
+            "meaning": "Tofu"
+        },
+        {
+            "word": "納豆",
+            "reading": "nattou",
+            "meaning": "Fermented soybeans"
+        },
+        {
+            "word": "味噌",
+            "reading": "miso",
+            "meaning": "Miso / Fermented soybean paste"
+        },
+        {
+            "word": "飲み物",
+            "reading": "nomimono",
+            "meaning": "Drink / Beverage"
+        },
+        {
+            "word": "水",
+            "reading": "mizu",
+            "meaning": "Water"
+        },
+        {
+            "word": "お茶",
+            "reading": "ocha",
+            "meaning": "Tea (green)"
+        },
+        {
+            "word": "紅茶",
+            "reading": "koucha",
+            "meaning": "Black tea"
+        },
+        {
+            "word": "コーヒー",
+            "reading": "koohii",
+            "meaning": "Coffee"
+        },
+        {
+            "word": "牛乳",
+            "reading": "gyuunyuu",
+            "meaning": "Milk"
+        },
+        {
+            "word": "ジュース",
+            "reading": "juusu",
+            "meaning": "Juice"
+        },
+        {
+            "word": "お酒",
+            "reading": "osake",
+            "meaning": "Alcohol / Sake"
+        },
+        {
+            "word": "ビール",
+            "reading": "biiru",
+            "meaning": "Beer"
+        },
+        {
+            "word": "ワイン",
+            "reading": "wain",
+            "meaning": "Wine"
+        },
+        {
+            "word": "コーラ",
+            "reading": "koora",
+            "meaning": "Cola"
+        },
+        {
+            "word": "炭酸水",
+            "reading": "tansansui",
+            "meaning": "Sparkling water"
+        },
+        {
+            "word": "甘酒",
+            "reading": "amazake",
+            "meaning": "Sweet fermented rice drink"
+        },
+        {
+            "word": "豆乳",
+            "reading": "tounyuu",
+            "meaning": "Soy milk"
+        },
+        {
+            "word": "麦茶",
+            "reading": "mugicha",
+            "meaning": "Barley tea"
+        },
+        {
+            "word": "抹茶",
+            "reading": "matcha",
+            "meaning": "Matcha / Powdered green tea"
+        },
+        {
+            "word": "ほうじ茶",
+            "reading": "houjicha",
+            "meaning": "Roasted green tea"
+        },
+        {
+            "word": "ウーロン茶",
+            "reading": "uuroncha",
+            "meaning": "Oolong tea"
+        },
+        {
+            "word": "カルピス",
+            "reading": "karupisu",
+            "meaning": "Calpis / Sweet milk-based drink"
+        },
+        {
+            "word": "ヤクルト",
+            "reading": "yakuruto",
+            "meaning": "Yakult / Probiotic drink"
+        },
+        {
+            "word": "料理",
+            "reading": "ryouri",
+            "meaning": "Cooking / Cuisine"
+        },
+        {
+            "word": "和食",
+            "reading": "washoku",
+            "meaning": "Japanese food"
+        },
+        {
+            "word": "洋食",
+            "reading": "youshoku",
+            "meaning": "Western food"
+        },
+        {
+            "word": "中華料理",
+            "reading": "chuukaryouri",
+            "meaning": "Chinese food"
+        },
+        {
+            "word": "調味料",
+            "reading": "choum ryou",
+            "meaning": "Seasoning / Condiment"
+        },
+        {
+            "word": "醤油",
+            "reading": "shouyu",
+            "meaning": "Soy sauce"
+        },
+        {
+            "word": "塩",
+            "reading": "shio",
+            "meaning": "Salt"
+        },
+        {
+            "word": "砂糖",
+            "reading": "satou",
+            "meaning": "Sugar"
+        },
+        {
+            "word": "酢",
+            "reading": "su",
+            "meaning": "Vinegar"
+        },
+        {
+            "word": "油",
+            "reading": "abura",
+            "meaning": "Oil"
+        },
+        {
+            "word": "わさび",
+            "reading": "wasabi",
+            "meaning": "Wasabi"
+        },
+        {
+            "word": "生姜",
+            "reading": "shouga",
+            "meaning": "Ginger"
+        },
+        {
+            "word": "味",
+            "reading": "aji",
+            "meaning": "Taste / Flavor"
+        },
+        {
+            "word": "美味しい",
+            "reading": "oishii",
+            "meaning": "Delicious"
+        },
+        {
+            "word": "不味い",
+            "reading": "mazui",
+            "meaning": "Tastes bad"
+        },
+        {
+            "word": "甘い",
+            "reading": "amai",
+            "meaning": "Sweet"
+        },
+        {
+            "word": "辛い",
+            "reading": "karai",
+            "meaning": "Spicy / Salty"
+        },
+        {
+            "word": "苦い",
+            "reading": "nigai",
+            "meaning": "Bitter"
+        },
+        {
+            "word": "酸っぱい",
+            "reading": "suppai",
+            "meaning": "Sour"
+        },
+        {
+            "word": "熱い",
+            "reading": "atsui",
+            "meaning": "Hot (temperature)"
+        },
+        {
+            "word": "冷たい",
+            "reading": "tsumetai",
+            "meaning": "Cold (temperature)"
+        },
+        {
+            "word": "お腹が空きました",
+            "reading": "onaka ga sukimashita",
+            "meaning": "I am hungry"
+        },
+        {
+            "word": "お腹がいっぱいです",
+            "reading": "onaka ga ippai desu",
+            "meaning": "I am full"
+        },
+        {
+            "word": "喉が渇きました",
+            "reading": "nodo ga kawakimashita",
+            "meaning": "I am thirsty"
+        },
+        {
+            "word": "いただきます",
+            "reading": "itadakimasu",
+            "meaning": "Thank you for the meal (before)"
+        },
+        {
+            "word": "ごちそうさまでした",
+            "reading": "gochisousama deshita",
+            "meaning": "Thank you for the meal (after)"
+        },
+        {
+            "word": "注文",
+            "reading": "chuumon",
+            "meaning": "Order"
+        },
+        {
+            "word": "メニュー",
+            "reading": "menyuu",
+            "meaning": "Menu"
+        },
+        {
+            "word": "お会計",
+            "reading": "okaikei",
+            "meaning": "The bill / check"
+        },
+        {
+            "word": "箸",
+            "reading": "hashi",
+            "meaning": "Chopsticks"
+        },
+        {
+            "word": "匙",
+            "reading": "saji / supuun",
+            "meaning": "Spoon"
+        },
+        {
+            "word": "皿",
+            "reading": "sara",
+            "meaning": "Plate / Dish"
+        },
+        {
+            "word": "茶碗",
+            "reading": "chawan",
+            "meaning": "Rice bowl / Teacup"
+        },
+        {
+            "word": "湯呑",
+            "reading": "yunomi",
+            "meaning": "Teacup"
+        },
+        {
+            "word": "コップ",
+            "reading": "koppu",
+            "meaning": "Glass / Cup"
+        },
+        {
+            "word": "レストラン",
+            "reading": "resutoran",
+            "meaning": "Restaurant"
+        },
+        {
+            "word": "居酒屋",
+            "reading": "izakaya",
+            "meaning": "Japanese style pub"
+        },
+        {
+            "word": "喫茶店",
+            "reading": "kissaten",
+            "meaning": "Coffee shop"
+        },
+        {
+            "word": "お弁当",
+            "reading": "obentou",
+            "meaning": "Lunch box"
+        },
+        {
+            "word": "コンビニ",
+            "reading": "konbini",
+            "meaning": "Convenience store"
+        }
+    ],
+    "liarGameData": {
+        "culturalTraps": [
+            {
+                "trap": "Sticking your chopsticks vertically into a bowl of rice is considered polite and convenient.",
+                "correctVersion": "Sticking chopsticks vertically into rice is a major taboo as it resembles incense at a funeral. Always place them on a rest or the edge of the bowl.",
+                "explanation": "Funerary associations are very strong in Japan. This act, called tate-bashi, is highly offensive."
+            },
+            {
+                "trap": "Slurping noodles is considered rude and noisy in Japan.",
+                "correctVersion": "Slurping noodles (ramen, soba, udon) is actually a sign of enjoyment and helps cool the hot noodles while enhancing the flavor.",
+                "explanation": "While Western etiquette frowns on noisy eating, in Japan, it is culturally accepted and even encouraged for noodle dishes."
+            },
+            {
+                "trap": "Rice is always served with soy sauce poured directly on top.",
+                "correctVersion": "In Japan, plain white rice is eaten as is to appreciate its natural flavor. Soy sauce is used for dipping or on specific toppings, not the rice itself.",
+                "explanation": "Adding soy sauce to plain rice is often seen as childish or indicative of not appreciating the quality of the rice."
+            }
+        ]
+    }
+}
