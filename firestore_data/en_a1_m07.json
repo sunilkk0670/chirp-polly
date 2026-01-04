@@ -1,0 +1,514 @@
+{
+    "moduleId": "en_a1_m07",
+    "theme": "Weather & Seasons",
+    "level": "A1",
+    "vocabularyItems": [
+        {
+            "word": "weather",
+            "phonetic": "/ˈweðər/",
+            "english": "The weather is beautiful today."
+        },
+        {
+            "word": "climate",
+            "phonetic": "/ˈklaɪmət/",
+            "english": "India has a tropical climate."
+        },
+        {
+            "word": "temperature",
+            "phonetic": "/ˈtemprətʃər/",
+            "english": "The temperature is rising quickly."
+        },
+        {
+            "word": "degree",
+            "phonetic": "/dɪˈɡriː/",
+            "english": "It's thirty degrees outside."
+        },
+        {
+            "word": "forecast",
+            "phonetic": "/ˈfɔːrkæst/",
+            "english": "Check the weather forecast."
+        },
+        {
+            "word": "sunny",
+            "phonetic": "/ˈsʌni/",
+            "english": "It's a sunny day today."
+        },
+        {
+            "word": "cloudy",
+            "phonetic": "/ˈklaʊdi/",
+            "english": "The sky is very cloudy."
+        },
+        {
+            "word": "rainy",
+            "phonetic": "/ˈreɪni/",
+            "english": "It's a rainy afternoon."
+        },
+        {
+            "word": "windy",
+            "phonetic": "/ˈwɪndi/",
+            "english": "It's too windy to go out."
+        },
+        {
+            "word": "stormy",
+            "phonetic": "/ˈstɔːrmi/",
+            "english": "We had a stormy night."
+        },
+        {
+            "word": "foggy",
+            "phonetic": "/ˈfɔːɡi/",
+            "english": "The morning was very foggy."
+        },
+        {
+            "word": "snowy",
+            "phonetic": "/ˈsnoʊi/",
+            "english": "It's a snowy winter day."
+        },
+        {
+            "word": "icy",
+            "phonetic": "/ˈaɪsi/",
+            "english": "The roads are icy today."
+        },
+        {
+            "word": "humid",
+            "phonetic": "/ˈhjuːmɪd/",
+            "english": "The weather is hot and humid."
+        },
+        {
+            "word": "dry",
+            "phonetic": "/draɪ/",
+            "english": "The climate here is very dry."
+        },
+        {
+            "word": "wet",
+            "phonetic": "/wet/",
+            "english": "Everything is wet from the rain."
+        },
+        {
+            "word": "sun",
+            "phonetic": "/sʌn/",
+            "english": "The sun is shining brightly."
+        },
+        {
+            "word": "moon",
+            "phonetic": "/muːn/",
+            "english": "The moon looks beautiful tonight."
+        },
+        {
+            "word": "star",
+            "phonetic": "/stɑːr/",
+            "english": "I can see many stars tonight."
+        },
+        {
+            "word": "sky",
+            "phonetic": "/skaɪ/",
+            "english": "The sky is clear today."
+        },
+        {
+            "word": "cloud",
+            "phonetic": "/klaʊd/",
+            "english": "There's not a cloud in the sky."
+        },
+        {
+            "word": "rain",
+            "phonetic": "/reɪn/",
+            "english": "It will rain this evening."
+        },
+        {
+            "word": "snow",
+            "phonetic": "/snoʊ/",
+            "english": "It rarely snows here."
+        },
+        {
+            "word": "ice",
+            "phonetic": "/aɪs/",
+            "english": "The lake is covered with ice."
+        },
+        {
+            "word": "wind",
+            "phonetic": "/wɪnd/",
+            "english": "The wind is very strong."
+        },
+        {
+            "word": "storm",
+            "phonetic": "/stɔːrm/",
+            "english": "A storm is coming tonight."
+        },
+        {
+            "word": "thunder",
+            "phonetic": "/ˈθʌndər/",
+            "english": "I can hear thunder in the distance."
+        },
+        {
+            "word": "lightning",
+            "phonetic": "/ˈlaɪtnɪŋ/",
+            "english": "Lightning struck the tree."
+        },
+        {
+            "word": "fog",
+            "phonetic": "/fɔːɡ/",
+            "english": "The fog is very thick."
+        },
+        {
+            "word": "mist",
+            "phonetic": "/mɪst/",
+            "english": "There's a light mist this morning."
+        },
+        {
+            "word": "rainbow",
+            "phonetic": "/ˈreɪnboʊ/",
+            "english": "Look at the beautiful rainbow!"
+        },
+        {
+            "word": "season",
+            "phonetic": "/ˈsiːzən/",
+            "english": "Summer is my favorite season."
+        },
+        {
+            "word": "spring",
+            "phonetic": "/sprɪŋ/",
+            "english": "Flowers bloom in spring."
+        },
+        {
+            "word": "summer",
+            "phonetic": "/ˈsʌmər/",
+            "english": "Summer is very hot here."
+        },
+        {
+            "word": "autumn",
+            "phonetic": "/ˈɔːtəm/",
+            "english": "Leaves fall in autumn."
+        },
+        {
+            "word": "fall",
+            "phonetic": "/fɔːl/",
+            "english": "Fall is a beautiful season."
+        },
+        {
+            "word": "winter",
+            "phonetic": "/ˈwɪntər/",
+            "english": "Winter is very cold here."
+        },
+        {
+            "word": "monsoon",
+            "phonetic": "/mɑːnˈsuːn/",
+            "english": "The monsoon brings heavy rain."
+        },
+        {
+            "word": "scorching",
+            "phonetic": "/ˈskɔːrtʃɪŋ/",
+            "english": "It's scorching hot today!"
+        },
+        {
+            "word": "balmy",
+            "phonetic": "/ˈbɑːmi/",
+            "english": "The evening is balmy and pleasant."
+        },
+        {
+            "word": "cool",
+            "phonetic": "/kuːl/",
+            "english": "The evening is nice and cool."
+        },
+        {
+            "word": "chilly",
+            "phonetic": "/ˈtʃɪli/",
+            "english": "It's quite chilly this morning."
+        },
+        {
+            "word": "freezing",
+            "phonetic": "/ˈfriːzɪŋ/",
+            "english": "It's freezing cold today!"
+        },
+        {
+            "word": "mild",
+            "phonetic": "/maɪld/",
+            "english": "We have mild winters here."
+        },
+        {
+            "word": "pleasant",
+            "phonetic": "/ˈplezənt/",
+            "english": "The weather is very pleasant."
+        },
+        {
+            "word": "terrible",
+            "phonetic": "/ˈterəbəl/",
+            "english": "The weather is terrible today."
+        },
+        {
+            "word": "awful",
+            "phonetic": "/ˈɔːfəl/",
+            "english": "What awful weather we're having!"
+        },
+        {
+            "word": "lovely",
+            "phonetic": "/ˈlʌvli/",
+            "english": "What lovely weather today!"
+        },
+        {
+            "word": "beautiful",
+            "phonetic": "/ˈbjuːtɪfəl/",
+            "english": "What beautiful weather!"
+        },
+        {
+            "word": "perfect",
+            "phonetic": "/ˈpɜːrfɪkt/",
+            "english": "The weather is perfect for a picnic."
+        },
+        {
+            "word": "shine",
+            "phonetic": "/ʃaɪn/",
+            "english": "The sun will shine tomorrow."
+        },
+        {
+            "word": "blow",
+            "phonetic": "/bloʊ/",
+            "english": "The wind blows strongly here."
+        },
+        {
+            "word": "cascade",
+            "phonetic": "/kæˈskeɪd/",
+            "english": "Rain cascaded down the roof."
+        },
+        {
+            "word": "drizzle",
+            "phonetic": "/ˈdrɪzəl/",
+            "english": "It's just a light drizzle."
+        },
+        {
+            "word": "downpour",
+            "phonetic": "/ˈdaʊnpɔːr/",
+            "english": "We got caught in a downpour."
+        },
+        {
+            "word": "flood",
+            "phonetic": "/flʌd/",
+            "english": "Heavy rain caused a flood."
+        },
+        {
+            "word": "drought",
+            "phonetic": "/draʊt/",
+            "english": "The drought lasted three months."
+        },
+        {
+            "word": "hail",
+            "phonetic": "/heɪl/",
+            "english": "Hail damaged many cars."
+        },
+        {
+            "word": "breeze",
+            "phonetic": "/briːz/",
+            "english": "There's a nice cool breeze."
+        },
+        {
+            "word": "gale",
+            "phonetic": "/ɡeɪl/",
+            "english": "The gale knocked down trees."
+        },
+        {
+            "word": "hurricane",
+            "phonetic": "/ˈhɜːrɪkeɪn/",
+            "english": "The hurricane caused massive damage."
+        },
+        {
+            "word": "tornado",
+            "phonetic": "/tɔːrˈneɪdoʊ/",
+            "english": "A tornado hit the town."
+        },
+        {
+            "word": "typhoon",
+            "phonetic": "/taɪˈfuːn/",
+            "english": "Typhoons are common in Asia."
+        },
+        {
+            "word": "cyclone",
+            "phonetic": "/ˈsaɪkloʊn/",
+            "english": "The cyclone destroyed many homes."
+        },
+        {
+            "word": "sunrise",
+            "phonetic": "/ˈsʌnraɪz/",
+            "english": "I love watching the sunrise."
+        },
+        {
+            "word": "sunset",
+            "phonetic": "/ˈsʌnset/",
+            "english": "The sunset was spectacular."
+        },
+        {
+            "word": "dawn",
+            "phonetic": "/dɔːn/",
+            "english": "We left at dawn."
+        },
+        {
+            "word": "dusk",
+            "phonetic": "/dʌsk/",
+            "english": "The birds sing at dusk."
+        },
+        {
+            "word": "shade",
+            "phonetic": "/ʃeɪd/",
+            "english": "Let's sit in the shade."
+        },
+        {
+            "word": "shadow",
+            "phonetic": "/ˈʃædoʊ/",
+            "english": "The tree casts a long shadow."
+        },
+        {
+            "word": "parasol",
+            "phonetic": "/ˈpærəsɔːl/",
+            "english": "She carried a parasol for shade."
+        },
+        {
+            "word": "raincoat",
+            "phonetic": "/ˈreɪnkoʊt/",
+            "english": "Wear your raincoat today."
+        },
+        {
+            "word": "sunglasses",
+            "phonetic": "/ˈsʌnɡlæsɪz/",
+            "english": "I need my sunglasses."
+        },
+        {
+            "word": "sunscreen",
+            "phonetic": "/ˈsʌnskriːn/",
+            "english": "Apply sunscreen before going out."
+        },
+        {
+            "word": "thermometer",
+            "phonetic": "/θərˈmɑːmɪtər/",
+            "english": "The thermometer shows thirty degrees."
+        },
+        {
+            "word": "barometer",
+            "phonetic": "/bəˈrɑːmɪtər/",
+            "english": "The barometer is falling."
+        },
+        {
+            "word": "humidity",
+            "phonetic": "/hjuːˈmɪdəti/",
+            "english": "The humidity is very high."
+        },
+        {
+            "word": "pressure",
+            "phonetic": "/ˈpreʃər/",
+            "english": "Low pressure brings rain."
+        },
+        {
+            "word": "visibility",
+            "phonetic": "/ˌvɪzəˈbɪləti/",
+            "english": "Visibility is poor in fog."
+        },
+        {
+            "word": "precipitation",
+            "phonetic": "/prɪˌsɪpɪˈteɪʃən/",
+            "english": "There's no precipitation expected."
+        },
+        {
+            "word": "evaporation",
+            "phonetic": "/ɪˌvæpəˈreɪʃən/",
+            "english": "Heat causes evaporation."
+        },
+        {
+            "word": "condensation",
+            "phonetic": "/ˌkɑːndenˈseɪʃən/",
+            "english": "Condensation forms on cold glass."
+        },
+        {
+            "word": "atmosphere",
+            "phonetic": "/ˈætməsfɪr/",
+            "english": "The atmosphere protects Earth."
+        },
+        {
+            "word": "pollution",
+            "phonetic": "/pəˈluːʃən/",
+            "english": "Air pollution is a serious problem."
+        },
+        {
+            "word": "smog",
+            "phonetic": "/smɑːɡ/",
+            "english": "The city has heavy smog."
+        },
+        {
+            "word": "haze",
+            "phonetic": "/heɪz/",
+            "english": "There's a haze over the mountains."
+        },
+        {
+            "word": "frost",
+            "phonetic": "/frɔːst/",
+            "english": "Frost covered the grass."
+        },
+        {
+            "word": "dew",
+            "phonetic": "/duː/",
+            "english": "Morning dew sparkles on leaves."
+        },
+        {
+            "word": "sleet",
+            "phonetic": "/sliːt/",
+            "english": "Sleet is falling today."
+        },
+        {
+            "word": "blizzard",
+            "phonetic": "/ˈblɪzərd/",
+            "english": "The blizzard closed all roads."
+        },
+        {
+            "word": "avalanche",
+            "phonetic": "/ˈævəlæntʃ/",
+            "english": "An avalanche blocked the road."
+        },
+        {
+            "word": "earthquake",
+            "phonetic": "/ˈɜːrθkweɪk/",
+            "english": "The earthquake was very strong."
+        },
+        {
+            "word": "tsunami",
+            "phonetic": "/tsuːˈnɑːmi/",
+            "english": "The tsunami hit the coast."
+        },
+        {
+            "word": "volcano",
+            "phonetic": "/vɑːlˈkeɪnoʊ/",
+            "english": "The volcano is still active."
+        },
+        {
+            "word": "disaster",
+            "phonetic": "/dɪˈzæstər/",
+            "english": "The flood was a natural disaster."
+        },
+        {
+            "word": "emergency",
+            "phonetic": "/ɪˈmɜːrdʒənsi/",
+            "english": "Call emergency services immediately."
+        },
+        {
+            "word": "overcast",
+            "phonetic": "/ˌoʊvərˈkæst/",
+            "english": "The sky is overcast today."
+        },
+        {
+            "word": "muggy",
+            "phonetic": "/ˈmʌɡi/",
+            "english": "It's hot and muggy outside."
+        },
+        {
+            "word": "crisp",
+            "phonetic": "/krɪsp/",
+            "english": "The autumn air is crisp."
+        },
+        {
+            "word": "breezy",
+            "phonetic": "/ˈbriːzi/",
+            "english": "It's a breezy afternoon."
+        }
+    ],
+    "liarGameData": {
+        "trap": "weather_clothing_vocabulary",
+        "targetLearners": "All learners",
+        "explanation": "This module focuses on weather-related vocabulary and appropriate clothing choices. Understanding weather terms helps learners discuss daily conditions and plan activities.",
+        "practice": "Match weather conditions with appropriate clothing: sunny→sunglasses, rainy→umbrella/raincoat, cold→coat/sweater, hot→light clothes",
+        "tip": "Learn to describe weather using adjectives (sunny, cloudy, rainy) and understand the difference between weather (daily conditions) and climate (long-term patterns)."
+    }
+}

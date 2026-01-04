@@ -1,0 +1,515 @@
+{
+    "moduleId": "en_a1_m04",
+    "theme": "Food & Dining",
+    "level": "A1",
+    "vocabularyItems": [
+        {
+            "word": "food",
+            "phonetic": "/fuːd/",
+            "english": "I love Indian food."
+        },
+        {
+            "word": "meal",
+            "phonetic": "/miːl/",
+            "english": "This is a delicious meal."
+        },
+        {
+            "word": "dish",
+            "phonetic": "/dɪʃ/",
+            "english": "What is your favorite dish?"
+        },
+        {
+            "word": "rice",
+            "phonetic": "/raɪs/",
+            "english": "I eat rice every day."
+        },
+        {
+            "word": "bread",
+            "phonetic": "/bred/",
+            "english": "I have bread for breakfast."
+        },
+        {
+            "word": "meat",
+            "phonetic": "/miːt/",
+            "english": "I don't eat meat."
+        },
+        {
+            "word": "chicken",
+            "phonetic": "/ˈtʃɪkɪn/",
+            "english": "Chicken curry is my favorite."
+        },
+        {
+            "word": "fish",
+            "phonetic": "/fɪʃ/",
+            "english": "Fresh fish is very healthy."
+        },
+        {
+            "word": "egg",
+            "phonetic": "/eɡ/",
+            "english": "I eat eggs for breakfast."
+        },
+        {
+            "word": "vegetable",
+            "phonetic": "/ˈvedʒtəbəl/",
+            "english": "Eat more vegetables for health."
+        },
+        {
+            "word": "fruit",
+            "phonetic": "/fruːt/",
+            "english": "Fresh fruit is very nutritious."
+        },
+        {
+            "word": "apple",
+            "phonetic": "/ˈæpəl/",
+            "english": "An apple a day keeps the doctor away."
+        },
+        {
+            "word": "banana",
+            "phonetic": "/bəˈnænə/",
+            "english": "I eat a banana every morning."
+        },
+        {
+            "word": "orange",
+            "phonetic": "/ˈɔːrɪndʒ/",
+            "english": "Orange juice is refreshing."
+        },
+        {
+            "word": "mango",
+            "phonetic": "/ˈmæŋɡoʊ/",
+            "english": "Mango is the king of fruits."
+        },
+        {
+            "word": "tomato",
+            "phonetic": "/təˈmeɪtoʊ/",
+            "english": "Add tomatoes to the salad."
+        },
+        {
+            "word": "potato",
+            "phonetic": "/pəˈteɪtoʊ/",
+            "english": "I love mashed potatoes."
+        },
+        {
+            "word": "onion",
+            "phonetic": "/ˈʌnjən/",
+            "english": "Chop the onions finely."
+        },
+        {
+            "word": "carrot",
+            "phonetic": "/ˈkærət/",
+            "english": "Carrots are good for your eyes."
+        },
+        {
+            "word": "salad",
+            "phonetic": "/ˈsæləd/",
+            "english": "I'll have a fresh salad."
+        },
+        {
+            "word": "soup",
+            "phonetic": "/suːp/",
+            "english": "Hot soup is perfect for winter."
+        },
+        {
+            "word": "sandwich",
+            "phonetic": "/ˈsænwɪtʃ/",
+            "english": "I made a cheese sandwich."
+        },
+        {
+            "word": "pizza",
+            "phonetic": "/ˈpiːtsə/",
+            "english": "Let's order pizza tonight."
+        },
+        {
+            "word": "pasta",
+            "phonetic": "/ˈpɑːstə/",
+            "english": "Italian pasta is delicious."
+        },
+        {
+            "word": "noodles",
+            "phonetic": "/ˈnuːdəlz/",
+            "english": "I love Chinese noodles."
+        },
+        {
+            "word": "curry",
+            "phonetic": "/ˈkɜːri/",
+            "english": "This curry is very spicy."
+        },
+        {
+            "word": "sauce",
+            "phonetic": "/sɔːs/",
+            "english": "Add some tomato sauce."
+        },
+        {
+            "word": "salt",
+            "phonetic": "/sɔːlt/",
+            "english": "Please pass the salt."
+        },
+        {
+            "word": "pepper",
+            "phonetic": "/ˈpepər/",
+            "english": "Add black pepper for flavor."
+        },
+        {
+            "word": "sugar",
+            "phonetic": "/ˈʃʊɡər/",
+            "english": "I take sugar in my tea."
+        },
+        {
+            "word": "oil",
+            "phonetic": "/ɔɪl/",
+            "english": "Use olive oil for cooking."
+        },
+        {
+            "word": "butter",
+            "phonetic": "/ˈbʌtər/",
+            "english": "Spread butter on the bread."
+        },
+        {
+            "word": "cheese",
+            "phonetic": "/tʃiːz/",
+            "english": "I love cheese pizza."
+        },
+        {
+            "word": "milk",
+            "phonetic": "/mɪlk/",
+            "english": "I drink milk every morning."
+        },
+        {
+            "word": "yogurt",
+            "phonetic": "/ˈjoʊɡərt/",
+            "english": "Yogurt is good for digestion."
+        },
+        {
+            "word": "water",
+            "phonetic": "/ˈwɔːtər/",
+            "english": "Drink plenty of water daily."
+        },
+        {
+            "word": "juice",
+            "phonetic": "/dʒuːs/",
+            "english": "Fresh orange juice is healthy."
+        },
+        {
+            "word": "tea",
+            "phonetic": "/tiː/",
+            "english": "Would you like some tea?"
+        },
+        {
+            "word": "coffee",
+            "phonetic": "/ˈkɔːfi/",
+            "english": "I need my morning coffee."
+        },
+        {
+            "word": "beer",
+            "phonetic": "/bɪr/",
+            "english": "He ordered a cold beer."
+        },
+        {
+            "word": "wine",
+            "phonetic": "/waɪn/",
+            "english": "Red wine goes well with meat."
+        },
+        {
+            "word": "bottle",
+            "phonetic": "/ˈbɑːtəl/",
+            "english": "Please open the bottle."
+        },
+        {
+            "word": "glass",
+            "phonetic": "/ɡlæs/",
+            "english": "Pour water in the glass."
+        },
+        {
+            "word": "cup",
+            "phonetic": "/kʌp/",
+            "english": "I need a cup of tea."
+        },
+        {
+            "word": "plate",
+            "phonetic": "/pleɪt/",
+            "english": "Put the food on the plate."
+        },
+        {
+            "word": "bowl",
+            "phonetic": "/boʊl/",
+            "english": "Serve the soup in a bowl."
+        },
+        {
+            "word": "spoon",
+            "phonetic": "/spuːn/",
+            "english": "I need a spoon for the soup."
+        },
+        {
+            "word": "fork",
+            "phonetic": "/fɔːrk/",
+            "english": "Use a fork to eat salad."
+        },
+        {
+            "word": "knife",
+            "phonetic": "/naɪf/",
+            "english": "Cut the meat with a knife."
+        },
+        {
+            "word": "table",
+            "phonetic": "/ˈteɪbəl/",
+            "english": "Please set the table."
+        },
+        {
+            "word": "chair",
+            "phonetic": "/tʃer/",
+            "english": "Sit on this chair."
+        },
+        {
+            "word": "restaurant",
+            "phonetic": "/ˈrestərɑːnt/",
+            "english": "Let's go to a restaurant."
+        },
+        {
+            "word": "cafe",
+            "phonetic": "/kæˈfeɪ/",
+            "english": "There's a nice cafe nearby."
+        },
+        {
+            "word": "menu",
+            "phonetic": "/ˈmenjuː/",
+            "english": "Can I see the menu?"
+        },
+        {
+            "word": "order",
+            "phonetic": "/ˈɔːrdər/",
+            "english": "I'd like to order now."
+        },
+        {
+            "word": "serve",
+            "phonetic": "/sɜːrv/",
+            "english": "They serve excellent food here."
+        },
+        {
+            "word": "taste",
+            "phonetic": "/teɪst/",
+            "english": "This dish tastes amazing!"
+        },
+        {
+            "word": "delicious",
+            "phonetic": "/dɪˈlɪʃəs/",
+            "english": "The food is absolutely delicious."
+        },
+        {
+            "word": "tasty",
+            "phonetic": "/ˈteɪsti/",
+            "english": "This curry is very tasty."
+        },
+        {
+            "word": "yummy",
+            "phonetic": "/ˈjʌmi/",
+            "english": "This cake is so yummy!"
+        },
+        {
+            "word": "sweet",
+            "phonetic": "/swiːt/",
+            "english": "This dessert is too sweet."
+        },
+        {
+            "word": "sour",
+            "phonetic": "/ˈsaʊər/",
+            "english": "Lemons taste sour."
+        },
+        {
+            "word": "bitter",
+            "phonetic": "/ˈbɪtər/",
+            "english": "This coffee is bitter."
+        },
+        {
+            "word": "spicy",
+            "phonetic": "/ˈspaɪsi/",
+            "english": "Indian food is often spicy."
+        },
+        {
+            "word": "salty",
+            "phonetic": "/ˈsɔːlti/",
+            "english": "This soup is too salty."
+        },
+        {
+            "word": "hot",
+            "phonetic": "/hɑːt/",
+            "english": "Be careful, the soup is hot!"
+        },
+        {
+            "word": "cold",
+            "phonetic": "/koʊld/",
+            "english": "I prefer cold drinks."
+        },
+        {
+            "word": "warm",
+            "phonetic": "/wɔːrm/",
+            "english": "The food is still warm."
+        },
+        {
+            "word": "fresh",
+            "phonetic": "/freʃ/",
+            "english": "I buy fresh vegetables daily."
+        },
+        {
+            "word": "frozen",
+            "phonetic": "/ˈfroʊzən/",
+            "english": "I keep frozen vegetables at home."
+        },
+        {
+            "word": "raw",
+            "phonetic": "/rɔː/",
+            "english": "Don't eat raw meat."
+        },
+        {
+            "word": "cooked",
+            "phonetic": "/kʊkt/",
+            "english": "The food is well cooked."
+        },
+        {
+            "word": "boil",
+            "phonetic": "/bɔɪl/",
+            "english": "Boil the water first."
+        },
+        {
+            "word": "fry",
+            "phonetic": "/fraɪ/",
+            "english": "Fry the onions until golden."
+        },
+        {
+            "word": "bake",
+            "phonetic": "/beɪk/",
+            "english": "I love to bake cakes."
+        },
+        {
+            "word": "grill",
+            "phonetic": "/ɡrɪl/",
+            "english": "Let's grill some vegetables."
+        },
+        {
+            "word": "mix",
+            "phonetic": "/mɪks/",
+            "english": "Mix all the ingredients well."
+        },
+        {
+            "word": "cut",
+            "phonetic": "/kʌt/",
+            "english": "Cut the vegetables into pieces."
+        },
+        {
+            "word": "slice",
+            "phonetic": "/slaɪs/",
+            "english": "Slice the bread thinly."
+        },
+        {
+            "word": "chop",
+            "phonetic": "/tʃɑːp/",
+            "english": "Chop the onions finely."
+        },
+        {
+            "word": "peel",
+            "phonetic": "/piːl/",
+            "english": "Peel the potatoes first."
+        },
+        {
+            "word": "add",
+            "phonetic": "/æd/",
+            "english": "Add salt to taste."
+        },
+        {
+            "word": "pour",
+            "phonetic": "/pɔːr/",
+            "english": "Pour the milk slowly."
+        },
+        {
+            "word": "stir",
+            "phonetic": "/stɜːr/",
+            "english": "Stir the mixture well."
+        },
+        {
+            "word": "hungry",
+            "phonetic": "/ˈhʌŋɡri/",
+            "english": "I'm very hungry now."
+        },
+        {
+            "word": "thirsty",
+            "phonetic": "/ˈθɜːrsti/",
+            "english": "I'm so thirsty!"
+        },
+        {
+            "word": "full",
+            "phonetic": "/fʊl/",
+            "english": "I'm full, thank you."
+        },
+        {
+            "word": "empty",
+            "phonetic": "/ˈempti/",
+            "english": "My stomach is empty."
+        },
+        {
+            "word": "reply",
+            "phonetic": "/rɪˈplaɪ/",
+            "english": "Please reply to my email."
+        },
+        {
+            "word": "respond",
+            "phonetic": "/rɪˈspɑːnd/",
+            "english": "I will respond to your message."
+        },
+        {
+            "word": "healthy",
+            "phonetic": "/ˈhelθi/",
+            "english": "Eating vegetables is healthy."
+        },
+        {
+            "word": "diet",
+            "phonetic": "/ˈdaɪət/",
+            "english": "I'm on a healthy diet."
+        },
+        {
+            "word": "recipe",
+            "phonetic": "/ˈresəpi/",
+            "english": "I found a great recipe online."
+        },
+        {
+            "word": "ingredient",
+            "phonetic": "/ɪnˈɡriːdiənt/",
+            "english": "What are the main ingredients?"
+        },
+        {
+            "word": "snack",
+            "phonetic": "/snæk/",
+            "english": "I need a quick snack."
+        },
+        {
+            "word": "dessert",
+            "phonetic": "/dɪˈzɜːrt/",
+            "english": "What's for dessert today?"
+        },
+        {
+            "word": "prefer",
+            "phonetic": "/prɪˈfɜːr/",
+            "english": "I prefer tea over coffee."
+        },
+        {
+            "word": "choose",
+            "phonetic": "/tʃuːz/",
+            "english": "Please choose your meal."
+        },
+        {
+            "word": "enjoy",
+            "phonetic": "/ɪnˈdʒɔɪ/",
+            "english": "I enjoy eating fresh fruit."
+        },
+        {
+            "word": "try",
+            "phonetic": "/traɪ/",
+            "english": "You should try this dish!"
+        }
+    ],
+    "liarGameData": {
+        "trap": "revert_back_redundancy",
+        "targetLearners": "Indian English speakers",
+        "explanation": "In Indian English, people often say 'revert back' which is redundant. 'Revert' already means 'to go back' or 'to return to a previous state'. The correct alternatives are 'reply', 'respond', or 'get back to'.",
+        "incorrectUsage": "Please revert back to me (INCORRECT - redundant)",
+        "correctUsage": "Please reply to my email / Please respond to my message / Please get back to me",
+        "note": "Use 'reply', 'respond', or 'get back to' in professional communication instead of 'revert back'."
+    }
+}

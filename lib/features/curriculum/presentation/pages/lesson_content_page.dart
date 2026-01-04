@@ -275,10 +275,10 @@ class _LessonContentPageState extends State<LessonContentPage> {
           final mapped = Map<String, dynamic>.from(rawItem);
           final standardized = {
             'target_text': mapped['word'] ?? mapped['targetText'] ?? mapped['target_text'] ?? mapped['target_text'] ?? mapped['kanji'] ?? '[LOADING ERROR]',
-            'english': mapped['meaning'] ?? mapped['english'] ?? mapped['translation'] ?? '[LOADING ERROR]',
+            'english': mapped['meaning'] ?? mapped['english'] ?? mapped['translation'] ?? mapped['usage'] ?? '[LOADING ERROR]',
             'phonetic_transcription': mapped['reading'] ?? mapped['phoneticTranscription'] ?? mapped['phonetic_transcription'] ?? mapped['romaji'] ?? mapped['phonetic'] ?? '',
             'radical_breakdown': mapped['radical_breakdown'] ?? mapped['radicalBreakdown'],
-            'example_sentence': mapped['example_sentence'] ?? mapped['example'] ?? '',
+            'example_sentence': mapped['example_sentence'] ?? mapped['example'] ?? mapped['usage'] ?? '',
           };
           items.add(standardized);
         } else if (rawItem is String) {

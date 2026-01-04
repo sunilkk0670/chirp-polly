@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'dart:math' as math;
 
 class ChirPollyLogo extends StatelessWidget {
   final double fontSize;
@@ -17,14 +16,13 @@ class ChirPollyLogo extends StatelessWidget {
       mainAxisSize: MainAxisSize.min,
       crossAxisAlignment: CrossAxisAlignment.center,
       children: [
-        // Parrot Emoji facing right
-        Transform(
-          alignment: Alignment.center,
-          transform: Matrix4.rotationY(math.pi), // Flips the emoji horizontally
-          child: Text(
-            '🦜',
-            style: TextStyle(fontSize: fontSize * 1.2),
-          ),
+        // Parrot mascot image
+        Image.asset(
+          'assets/images/parrot_transparent.png',
+          height: fontSize * 1.5,
+          errorBuilder: (context, error, stackTrace) {
+            return SizedBox(width: fontSize * 1.5, height: fontSize * 1.5);
+          },
         ),
         const SizedBox(width: 8),
         // ChirPolly Text

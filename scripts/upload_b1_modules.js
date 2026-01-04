@@ -1,63 +1,93 @@
+/**
+ * Upload English B1 Modules to Firestore
+ * Path: languages/english/levels/b1/modules/
+ */
+
 const admin = require('firebase-admin');
-const serviceAccount = require('./serviceAccountKey.json');
+const fs = require('fs');
+const path = require('path');
 
 // Initialize Firebase Admin
-if (!admin.apps.length) {
-    admin.initializeApp({
-        credential: admin.credential.cert(serviceAccount)
-    });
-}
+const serviceAccount = require('./serviceAccountKey.json');
+
+admin.initializeApp({
+    credential: admin.credential.cert(serviceAccount)
+});
 
 const db = admin.firestore();
 
-// Load the B1 module data
-const japaneseB1 = require('../firestore_data/japanese_b1_modules.json');
-const frenchB1 = require('../firestore_data/french_b1_modules.json');
-const hindiB1 = require('../firestore_data/hindi_b1_modules.json');
+const firestoreDataDir = path.join(__dirname, '..', 'firestore_data');
 
 async function uploadB1Modules() {
-    try {
-        console.log('Starting B1 modules upload...\n');
+    console.log('\n' + '='.repeat(80));
+    console.log('UPLOADING ENGLISH B1 MODULES TO FIRESTORE');
+    console.log('='.repeat(80) + '\n');
 
-        // Upload Japanese B1 modules
-        console.log('Uploading Japanese B1 modules...');
-        for (const module of japaneseB1.japanese_b1_modules) {
-            const docRef = db.collection('languages').doc('japanese')
-                .collection('levels').doc('b1')
-                .collection('modules').doc();
+    const modules = [
+        'en_b1_m01', 'en_b1_m02', 'en_b1_m03', 'en_b1_m04', 'en_b1_m05',
+        'en_b1_m06', 'en_b1_m07', 'en_b1_m08', 'en_b1_m09', 'en_b1_m10'
+    ];
 
-            await docRef.set(module);
-            console.log(`✓ Uploaded: ${module.theme}`);
-        }
+    for (const moduleId of modules) {
+        const filePath = path.join(firestoreDataDir, `${moduleId}.json`);
+        const moduleData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
 
-        // Upload French B1 modules
-        console.log('\nUploading French B1 modules...');
-        for (const module of frenchB1.french_b1_modules) {
-            const docRef = db.collection('languages').doc('french')
-                .collection('levels').doc('b1')
-                .collection('modules').doc();
+        console.log(`📤 Uploading ${moduleId}: ${moduleData.theme}`);
+        console.log(`   Words: ${moduleData.vocabularyItems.length}`);
 
-            await docRef.set(module);
-            console.log(`✓ Uploaded: ${module.theme}`);
-        }
+        // Upload to Firestore
+        const docRef = db.collection('languages')
+            .doc('english')
+            .collection('levels')
+            .doc('b1')
+            .collection('modules')
+            .doc(moduleId);
 
-        // Upload Hindi B1 modules
-        console.log('\nUploading Hindi B1 modules...');
-        for (const module of hindiB1.hindi_b1_modules) {
-            const docRef = db.collection('languages').doc('hindi')
-                .collection('levels').doc('b1')
-                .collection('modules').doc();
+        await docRef.set(moduleData, { merge: false });
 
-            await docRef.set(module);
-            console.log(`✓ Uploaded: ${module.theme}`);
-        }
-
-        console.log('\n✅ All B1 modules uploaded successfully!');
-        console.log('Total modules uploaded: 15 (5 per language)');
-
-    } catch (error) {
-        console.error('Error uploading modules:', error);
+        console.log(`   ✅ Uploaded successfully\n`);
     }
+
+    // Update B1 level metadata
+    console.log('📝 Updating B1 level metadata...');
+
+    const levelRef = db.collection('languages')
+        .doc('english')
+        .collection('levels')
+        .doc('b1');
+
+    await levelRef.set({
+        levelId: 'b1',
+        levelName: 'B1 - Intermediate',
+        moduleCount: 10,
+        status: 'Complete',
+        totalWords: 1000,
+        lastUpdated: admin.firestore.FieldValue.serverTimestamp()
+    }, { merge: true });
+
+    console.log('   ✅ Metadata updated\n');
+
+    // Ensure English is enabled
+    console.log('🌍 Ensuring English language is enabled...');
+    await db.collection('languages').doc('english').set({
+        enabled: true
+    }, { merge: true });
+    console.log('   ✅ English enabled\n');
+
+    console.log('='.repeat(80));
+    console.log('✅ UPLOAD COMPLETE');
+    console.log('='.repeat(80));
+    console.log('\nSummary:');
+    console.log('  • Modules uploaded: 10');
+    console.log('  • Total words: 1000');
+    console.log('  • Module count: 10');
+    console.log('  • Status: Complete');
+    console.log('  • Path: languages/english/levels/b1/modules/\n');
+
+    process.exit(0);
 }
 
-uploadB1Modules();
+uploadB1Modules().catch(error => {
+    console.error('❌ Upload failed:', error);
+    process.exit(1);
+});

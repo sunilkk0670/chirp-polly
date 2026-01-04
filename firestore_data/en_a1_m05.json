@@ -1,0 +1,514 @@
+{
+    "moduleId": "en_a1_m05",
+    "theme": "Places & Directions",
+    "level": "A1",
+    "vocabularyItems": [
+        {
+            "word": "place",
+            "phonetic": "/pleɪs/",
+            "english": "This is a beautiful place to visit."
+        },
+        {
+            "word": "metropolis",
+            "phonetic": "/məˈtrɑːpəlɪs/",
+            "english": "Mumbai is a major metropolis."
+        },
+        {
+            "word": "town",
+            "phonetic": "/taʊn/",
+            "english": "My hometown is very peaceful."
+        },
+        {
+            "word": "village",
+            "phonetic": "/ˈvɪlɪdʒ/",
+            "english": "She grew up in a small village."
+        },
+        {
+            "word": "nation",
+            "phonetic": "/ˈneɪʃən/",
+            "english": "India is a diverse nation."
+        },
+        {
+            "word": "street",
+            "phonetic": "/striːt/",
+            "english": "I live on Main Street."
+        },
+        {
+            "word": "road",
+            "phonetic": "/roʊd/",
+            "english": "This road leads to the airport."
+        },
+        {
+            "word": "avenue",
+            "phonetic": "/ˈævənjuː/",
+            "english": "The shop is on Fifth Avenue."
+        },
+        {
+            "word": "corner",
+            "phonetic": "/ˈkɔːrnər/",
+            "english": "Turn left at the corner."
+        },
+        {
+            "word": "building",
+            "phonetic": "/ˈbɪldɪŋ/",
+            "english": "That building is very tall."
+        },
+        {
+            "word": "house",
+            "phonetic": "/haʊs/",
+            "english": "I want to buy a house."
+        },
+        {
+            "word": "home",
+            "phonetic": "/hoʊm/",
+            "english": "Let's go home now."
+        },
+        {
+            "word": "apartment",
+            "phonetic": "/əˈpɑːrtmənt/",
+            "english": "I rent a small apartment."
+        },
+        {
+            "word": "room",
+            "phonetic": "/ruːm/",
+            "english": "This room is very spacious."
+        },
+        {
+            "word": "floor",
+            "phonetic": "/flɔːr/",
+            "english": "My office is on the third floor."
+        },
+        {
+            "word": "door",
+            "phonetic": "/dɔːr/",
+            "english": "Please knock on the door."
+        },
+        {
+            "word": "window",
+            "phonetic": "/ˈwɪndoʊ/",
+            "english": "Open the window for fresh air."
+        },
+        {
+            "word": "wall",
+            "phonetic": "/wɔːl/",
+            "english": "The wall needs painting."
+        },
+        {
+            "word": "roof",
+            "phonetic": "/ruːf/",
+            "english": "The roof is leaking."
+        },
+        {
+            "word": "garden",
+            "phonetic": "/ˈɡɑːrdən/",
+            "english": "We have a small garden."
+        },
+        {
+            "word": "park",
+            "phonetic": "/pɑːrk/",
+            "english": "Let's meet at the park."
+        },
+        {
+            "word": "beach",
+            "phonetic": "/biːtʃ/",
+            "english": "The beach is very crowded today."
+        },
+        {
+            "word": "mountain",
+            "phonetic": "/ˈmaʊntən/",
+            "english": "We climbed the mountain yesterday."
+        },
+        {
+            "word": "river",
+            "phonetic": "/ˈrɪvər/",
+            "english": "The river flows through the city."
+        },
+        {
+            "word": "lake",
+            "phonetic": "/leɪk/",
+            "english": "We went fishing at the lake."
+        },
+        {
+            "word": "bridge",
+            "phonetic": "/brɪdʒ/",
+            "english": "Cross the bridge to reach there."
+        },
+        {
+            "word": "hospital",
+            "phonetic": "/ˈhɑːspɪtəl/",
+            "english": "The hospital is near my house."
+        },
+        {
+            "word": "school",
+            "phonetic": "/skuːl/",
+            "english": "My children go to this school."
+        },
+        {
+            "word": "university",
+            "phonetic": "/ˌjuːnɪˈvɜːrsəti/",
+            "english": "She studies at the university."
+        },
+        {
+            "word": "library",
+            "phonetic": "/ˈlaɪbreri/",
+            "english": "I borrow books from the library."
+        },
+        {
+            "word": "museum",
+            "phonetic": "/mjuːˈziːəm/",
+            "english": "The museum has ancient artifacts."
+        },
+        {
+            "word": "theater",
+            "phonetic": "/ˈθiːətər/",
+            "english": "We watched a play at the theater."
+        },
+        {
+            "word": "cinema",
+            "phonetic": "/ˈsɪnəmə/",
+            "english": "Let's go to the cinema tonight."
+        },
+        {
+            "word": "bank",
+            "phonetic": "/bæŋk/",
+            "english": "I need to go to the bank."
+        },
+        {
+            "word": "post",
+            "phonetic": "/poʊst/",
+            "english": "The post office is closed today."
+        },
+        {
+            "word": "station",
+            "phonetic": "/ˈsteɪʃən/",
+            "english": "The train station is very busy."
+        },
+        {
+            "word": "airport",
+            "phonetic": "/ˈerpɔːrt/",
+            "english": "I'll pick you up at the airport."
+        },
+        {
+            "word": "bus",
+            "phonetic": "/bʌs/",
+            "english": "The bus stop is around the corner."
+        },
+        {
+            "word": "taxi",
+            "phonetic": "/ˈtæksi/",
+            "english": "Let's take a taxi home."
+        },
+        {
+            "word": "train",
+            "phonetic": "/treɪn/",
+            "english": "The train arrives at six."
+        },
+        {
+            "word": "ship",
+            "phonetic": "/ʃɪp/",
+            "english": "The ship sails at dawn."
+        },
+        {
+            "word": "sheep",
+            "phonetic": "/ʃiːp/",
+            "english": "The farmer has many sheep."
+        },
+        {
+            "word": "sit",
+            "phonetic": "/sɪt/",
+            "english": "Please sit down here."
+        },
+        {
+            "word": "seat",
+            "phonetic": "/siːt/",
+            "english": "Is this seat taken?"
+        },
+        {
+            "word": "bit",
+            "phonetic": "/bɪt/",
+            "english": "Wait a bit longer please."
+        },
+        {
+            "word": "beat",
+            "phonetic": "/biːt/",
+            "english": "Our team will beat them."
+        },
+        {
+            "word": "direction",
+            "phonetic": "/dɪˈrekʃən/",
+            "english": "Can you give me directions?"
+        },
+        {
+            "word": "left",
+            "phonetic": "/left/",
+            "english": "Turn left at the traffic light."
+        },
+        {
+            "word": "right",
+            "phonetic": "/raɪt/",
+            "english": "The shop is on your right."
+        },
+        {
+            "word": "straight",
+            "phonetic": "/streɪt/",
+            "english": "Go straight for two blocks."
+        },
+        {
+            "word": "turn",
+            "phonetic": "/tɜːrn/",
+            "english": "Turn right at the next corner."
+        },
+        {
+            "word": "north",
+            "phonetic": "/nɔːrθ/",
+            "english": "We are heading north."
+        },
+        {
+            "word": "south",
+            "phonetic": "/saʊθ/",
+            "english": "The beach is to the south."
+        },
+        {
+            "word": "east",
+            "phonetic": "/iːst/",
+            "english": "The sun rises in the east."
+        },
+        {
+            "word": "west",
+            "phonetic": "/west/",
+            "english": "The sun sets in the west."
+        },
+        {
+            "word": "near",
+            "phonetic": "/nɪr/",
+            "english": "The store is very near."
+        },
+        {
+            "word": "far",
+            "phonetic": "/fɑːr/",
+            "english": "Is it far from here?"
+        },
+        {
+            "word": "close",
+            "phonetic": "/kloʊs/",
+            "english": "The station is close by."
+        },
+        {
+            "word": "next",
+            "phonetic": "/nekst/",
+            "english": "It's next to the bank."
+        },
+        {
+            "word": "opposite",
+            "phonetic": "/ˈɑːpəzɪt/",
+            "english": "The cafe is opposite the park."
+        },
+        {
+            "word": "between",
+            "phonetic": "/bɪˈtwiːn/",
+            "english": "It's between the bank and post office."
+        },
+        {
+            "word": "behind",
+            "phonetic": "/bɪˈhaɪnd/",
+            "english": "The parking is behind the building."
+        },
+        {
+            "word": "front",
+            "phonetic": "/frʌnt/",
+            "english": "Wait in front of the entrance."
+        },
+        {
+            "word": "back",
+            "phonetic": "/bæk/",
+            "english": "The garden is at the back."
+        },
+        {
+            "word": "inside",
+            "phonetic": "/ɪnˈsaɪd/",
+            "english": "Please wait inside the lobby."
+        },
+        {
+            "word": "outside",
+            "phonetic": "/ˌaʊtˈsaɪd/",
+            "english": "I'll meet you outside."
+        },
+        {
+            "word": "upstairs",
+            "phonetic": "/ˌʌpˈsterz/",
+            "english": "My room is upstairs."
+        },
+        {
+            "word": "downstairs",
+            "phonetic": "/ˌdaʊnˈsterz/",
+            "english": "The kitchen is downstairs."
+        },
+        {
+            "word": "above",
+            "phonetic": "/əˈbʌv/",
+            "english": "The apartment above is noisy."
+        },
+        {
+            "word": "below",
+            "phonetic": "/bɪˈloʊ/",
+            "english": "The temperature is below zero."
+        },
+        {
+            "word": "across",
+            "phonetic": "/əˈkrɔːs/",
+            "english": "The shop is across the street."
+        },
+        {
+            "word": "along",
+            "phonetic": "/əˈlɔːŋ/",
+            "english": "Walk along this road."
+        },
+        {
+            "word": "around",
+            "phonetic": "/əˈraʊnd/",
+            "english": "There are shops around here."
+        },
+        {
+            "word": "through",
+            "phonetic": "/θruː/",
+            "english": "Go through the tunnel."
+        },
+        {
+            "word": "past",
+            "phonetic": "/pæst/",
+            "english": "Walk past the church."
+        },
+        {
+            "word": "toward",
+            "phonetic": "/tɔːrd/",
+            "english": "Walk toward the light."
+        },
+        {
+            "word": "away",
+            "phonetic": "/əˈweɪ/",
+            "english": "The station is five minutes away."
+        },
+        {
+            "word": "nearby",
+            "phonetic": "/ˌnɪrˈbaɪ/",
+            "english": "Is there a pharmacy nearby?"
+        },
+        {
+            "word": "yonder",
+            "phonetic": "/ˈjɑːndər/",
+            "english": "Look over yonder at that building."
+        },
+        {
+            "word": "location",
+            "phonetic": "/loʊˈkeɪʃən/",
+            "english": "What is your current location?"
+        },
+        {
+            "word": "map",
+            "phonetic": "/mæp/",
+            "english": "I need a map of the city."
+        },
+        {
+            "word": "address",
+            "phonetic": "/əˈdres/",
+            "english": "What is your home address?"
+        },
+        {
+            "word": "number",
+            "phonetic": "/ˈnʌmbər/",
+            "english": "The house number is twenty-five."
+        },
+        {
+            "word": "sign",
+            "phonetic": "/saɪn/",
+            "english": "Follow the road signs."
+        },
+        {
+            "word": "entrance",
+            "phonetic": "/ˈentrəns/",
+            "english": "The entrance is on the left."
+        },
+        {
+            "word": "exit",
+            "phonetic": "/ˈeksɪt/",
+            "english": "Use the emergency exit."
+        },
+        {
+            "word": "gate",
+            "phonetic": "/ɡeɪt/",
+            "english": "Close the gate behind you."
+        },
+        {
+            "word": "path",
+            "phonetic": "/pæθ/",
+            "english": "Follow this path to the lake."
+        },
+        {
+            "word": "way",
+            "phonetic": "/weɪ/",
+            "english": "Which way should I go?"
+        },
+        {
+            "word": "route",
+            "phonetic": "/ruːt/",
+            "english": "This is the fastest route."
+        },
+        {
+            "word": "distance",
+            "phonetic": "/ˈdɪstəns/",
+            "english": "What is the distance to Mumbai?"
+        },
+        {
+            "word": "mile",
+            "phonetic": "/maɪl/",
+            "english": "It's about five miles away."
+        },
+        {
+            "word": "kilometer",
+            "phonetic": "/kɪˈlɑːmɪtər/",
+            "english": "The airport is ten kilometers away."
+        },
+        {
+            "word": "meter",
+            "phonetic": "/ˈmiːtər/",
+            "english": "The building is fifty meters tall."
+        },
+        {
+            "word": "block",
+            "phonetic": "/blɑːk/",
+            "english": "Walk two blocks and turn left."
+        },
+        {
+            "word": "traffic",
+            "phonetic": "/ˈtræfɪk/",
+            "english": "The traffic is very heavy today."
+        },
+        {
+            "word": "light",
+            "phonetic": "/laɪt/",
+            "english": "Stop at the red light."
+        },
+        {
+            "word": "cross",
+            "phonetic": "/krɔːs/",
+            "english": "Cross the street carefully."
+        },
+        {
+            "word": "landmark",
+            "phonetic": "/ˈlændmɑːrk/",
+            "english": "The Taj Mahal is a famous landmark."
+        },
+        {
+            "word": "destination",
+            "phonetic": "/ˌdestɪˈneɪʃən/",
+            "english": "Paris is a popular tourist destination."
+        }
+    ],
+    "liarGameData": {
+        "trap": "ship_vs_sheep_phonetics",
+        "targetLearners": "Spanish speakers",
+        "explanation": "Spanish speakers often confuse /ɪ/ (short i) and /iː/ (long ee) sounds. Examples: ship (/ʃɪp/) vs sheep (/ʃiːp/), sit (/sɪt/) vs seat (/siːt/), bit (/bɪt/) vs beat (/biːt/).",
+        "practice": "ship/sheep, sit/seat, bit/beat, fill/feel, live/leave",
+        "tip": "The /ɪ/ sound is shorter and more relaxed. The /iː/ sound is longer and tenser."
+    }
+}

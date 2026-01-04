@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import '../widgets/chirpolly_logo.dart';
 import 'levels_page.dart';
 
 class HomePage extends ConsumerStatefulWidget {
@@ -96,9 +95,39 @@ class _HomePageState extends ConsumerState<HomePage> {
           backgroundColor: Colors.white,
           surfaceTintColor: Colors.white,
           toolbarHeight: 80,
-          title: const Padding(
-            padding: EdgeInsets.only(left: 16.0),
-            child: ChirPollyLogo(fontSize: 28),
+          centerTitle: false,
+          title: Padding(
+            padding: const EdgeInsets.only(left: 16.0),
+            child: Row(
+              mainAxisSize: MainAxisSize.min,
+              mainAxisAlignment: MainAxisAlignment.start,
+              children: [
+                // Parrot mascot image
+                Image.asset(
+                  'assets/images/parrot_transparent.png',
+                  height: 48.0,
+                  errorBuilder: (context, error, stackTrace) {
+                    return const SizedBox(width: 48, height: 48);
+                  },
+                ),
+                const SizedBox(width: 10.0),
+                // ChirPolly colorful text
+                Row(
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    _buildBrandLetter('C', Colors.blue.shade600),
+                    _buildBrandLetter('h', Colors.red.shade500),
+                    _buildBrandLetter('i', Colors.orange.shade600),
+                    _buildBrandLetter('r', Colors.amber.shade700),
+                    _buildBrandLetter('P', Colors.green.shade600),
+                    _buildBrandLetter('o', Colors.teal.shade600),
+                    _buildBrandLetter('l', Colors.purple.shade600),
+                    _buildBrandLetter('l', Colors.pink.shade600),
+                    _buildBrandLetter('y', Colors.deepPurple.shade600),
+                  ],
+                ),
+              ],
+            ),
           ),
           actions: [
             TextButton(
@@ -182,114 +211,141 @@ class _HomePageState extends ConsumerState<HomePage> {
   Widget _buildHeroSection() {
     return Container(
       width: double.infinity,
-      decoration: BoxDecoration(
+      decoration: const BoxDecoration(
         gradient: LinearGradient(
-          begin: Alignment.topLeft,
-          end: Alignment.bottomRight,
+          begin: Alignment.centerLeft,
+          end: Alignment.centerRight,
           colors: [
-            const Color(0xFF667EEA), // Vibrant purple-blue
-            const Color(0xFF764BA2), // Deep purple
-            const Color(0xFFF093FB), // Pink
-            const Color(0xFF4FACFE), // Bright blue
+            Color(0xFFD0E4FF), // Soft Sky Blue
+            Color(0xFFE0D7FF), // Light Lavender
           ],
-          stops: const [0.0, 0.3, 0.7, 1.0],
         ),
       ),
       child: Stack(
         children: [
-          // Animated Background Circles
-          Positioned(
-            top: -100,
-            right: -100,
-            child: Container(
-              width: 400,
-              height: 400,
-              decoration: BoxDecoration(
-                shape: BoxShape.circle,
-                gradient: RadialGradient(
-                  colors: [
-                    Colors.white.withOpacity(0.2),
-                    Colors.transparent,
-                  ],
-                ),
-              ),
-            ),
-          ),
-          Positioned(
-            bottom: -80,
-            left: -80,
-            child: Container(
-              width: 350,
-              height: 350,
-              decoration: BoxDecoration(
-                shape: BoxShape.circle,
-                gradient: RadialGradient(
-                  colors: [
-                    Colors.yellow.withOpacity(0.15),
-                    Colors.transparent,
-                  ],
-                ),
-              ),
-            ),
-          ),
-          
           // Content
           Padding(
-            padding: const EdgeInsets.symmetric(vertical: 100, horizontal: 32),
-            child: Column(
-              children: [
-                FittedBox(
-                  fit: BoxFit.scaleDown,
-                  child: ShaderMask(
-                    shaderCallback: (bounds) => const LinearGradient(
-                      colors: [Colors.white, Color(0xFFFFF59D)], // White to light yellow
-                    ).createShader(bounds),
-                    child: const Text(
-                      'Don\'t Just Learn.\nStart Chirping.',
-                      style: TextStyle(
-                        fontSize: 52,
-                        fontWeight: FontWeight.w900,
-                        color: Colors.white,
-                        height: 1.2,
-                        letterSpacing: -0.5,
-                      ),
-                      textAlign: TextAlign.center,
+            padding: const EdgeInsets.symmetric(vertical: 40, horizontal: 24),
+            child: LayoutBuilder(
+              builder: (context, constraints) {
+                // Responsive Breakpoint
+                bool isDesktop = constraints.maxWidth > 900;
+
+                return Center(
+                  child: ConstrainedBox(
+                    constraints: const BoxConstraints(maxWidth: 1200),
+                    child: Flex(
+                      direction: isDesktop ? Axis.horizontal : Axis.vertical,
+                      crossAxisAlignment: CrossAxisAlignment.center,
+                      mainAxisAlignment: MainAxisAlignment.center,
+                      children: [
+                        // Left Text Section (Flex 3)
+                        Expanded(
+                          flex: isDesktop ? 3 : 0,
+                          child: Column(
+                            crossAxisAlignment: isDesktop
+                                ? CrossAxisAlignment.start
+                                : CrossAxisAlignment.center,
+                            children: [
+                              FittedBox(
+                                fit: BoxFit.scaleDown,
+                                child: Text(
+                                  'Don\'t Just Learn.\nStart Chirping.',
+                                  style: TextStyle(
+                                    fontSize: isDesktop ? 64 : 42,
+                                    fontWeight: FontWeight.bold, // Bold
+                                    color: const Color(0xFF2E3192), // Deep Indigo
+                                    height: 1.1,
+                                    letterSpacing: -0.5, // Tight letter spacing
+                                  ),
+                                  textAlign: isDesktop
+                                      ? TextAlign.start
+                                      : TextAlign.center,
+                                ),
+                              ),
+                              const SizedBox(height: 24),
+                              Text(
+                                'Master 21 languages through immersive play,\ncultural insights, and real conversation.',
+                                style: TextStyle(
+                                  fontSize: 18, // Size 18
+                                  color: const Color(0xFF2E3192).withOpacity(0.8),
+                                  height: 1.5, // Line height 1.5
+                                  fontWeight: FontWeight.normal,
+                                ),
+                                textAlign: isDesktop
+                                    ? TextAlign.start
+                                    : TextAlign.center,
+                              ),
+                              const SizedBox(height: 48),
+                              
+                              // CTA Button
+                              Container(
+                                decoration: BoxDecoration(
+                                  borderRadius: BorderRadius.circular(50),
+                                  boxShadow: [
+                                    BoxShadow(
+                                      color: const Color(0xFF6A4CBC).withOpacity(0.3),
+                                      offset: const Offset(0, 4),
+                                      blurRadius: 10,
+                                    ),
+                                  ],
+                                ),
+                                child: ElevatedButton(
+                                  onPressed: () => _scrollToSection(_languagesKey),
+                                  style: ElevatedButton.styleFrom(
+                                    backgroundColor: const Color(0xFF6A4CBC), // Solid Purple
+                                    foregroundColor: Colors.white,
+                                    padding: const EdgeInsets.symmetric(
+                                        horizontal: 48, vertical: 24),
+                                    shape: const StadiumBorder(), // Fully rounded
+                                    elevation: 0, // Using Container shadow instead for specific look
+                                  ),
+                                  child: const Text(
+                                    'Start Learning Now',
+                                    style: TextStyle(
+                                      fontSize: 18,
+                                      fontWeight: FontWeight.bold,
+                                    ),
+                                  ),
+                                ),
+                              ),
+                              if (!isDesktop) const SizedBox(height: 40),
+                            ],
+                          ),
+                        ),
+                        
+                        // Right Image Section (Flex 2)
+                        if (isDesktop) const SizedBox(width: 20),
+                        
+                        Expanded( // Changed from Flexible to Expanded for strict 3:2 ratio implementation in flex
+                          flex: isDesktop ? 2 : 0,
+                          child: ConstrainedBox(
+                            constraints: BoxConstraints(
+                              maxHeight: isDesktop ? 600 : 400,
+                            ),
+                            child: Padding(
+                              padding: const EdgeInsets.only(right: 20.0), // Slight padding to right
+                              child: Image.asset(
+                                'assets/images/parrot_transparent.png',
+                                fit: BoxFit.contain,
+                                errorBuilder: (context, error, stackTrace) {
+                                  return const SizedBox(
+                                    height: 200,
+                                    child: Center(
+                                      child: Icon(Icons.image_not_supported,
+                                          size: 64, color: Colors.black26),
+                                    ),
+                                  );
+                                },
+                              ),
+                            ),
+                          ),
+                        ),
+                      ],
                     ),
                   ),
-                ),
-                const SizedBox(height: 24),
-                const Text(
-                  'Master 21 languages through immersive play,\ncultural insights, and real conversation.',
-                  style: TextStyle(
-                    fontSize: 20,
-                    color: Colors.white,
-                    height: 1.6,
-                    fontWeight: FontWeight.w500,
-                  ),
-                  textAlign: TextAlign.center,
-                ),
-                const SizedBox(height: 48),
-                ElevatedButton(
-                  onPressed: () => _scrollToSection(_languagesKey),
-                  style: ElevatedButton.styleFrom(
-                    backgroundColor: Colors.white,
-                    foregroundColor: const Color(0xFF667EEA),
-                    padding: const EdgeInsets.symmetric(horizontal: 48, vertical: 24),
-                    shape: RoundedRectangleBorder(
-                      borderRadius: BorderRadius.circular(30),
-                    ),
-                    elevation: 8,
-                    shadowColor: Colors.black.withOpacity(0.3),
-                  ),
-                  child: const Text(
-                    'Start Learning Now',
-                    style: TextStyle(
-                      fontSize: 18,
-                      fontWeight: FontWeight.bold,
-                    ),
-                  ),
-                ),
-              ],
+                );
+              },
             ),
           ),
         ],
@@ -613,5 +669,17 @@ class _HomePageState extends ConsumerState<HomePage> {
       case 'hindi': return Colors.orange;
       default: return Colors.blue;
     }
+  }
+
+  Widget _buildBrandLetter(String char, Color color) {
+    return Text(
+      char,
+      style: TextStyle(
+        fontSize: 28.0,
+        fontWeight: FontWeight.bold,
+        color: color,
+        letterSpacing: 0.5,
+      ),
+    );
   }
 }

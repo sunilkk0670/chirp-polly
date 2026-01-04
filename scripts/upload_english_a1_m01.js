@@ -45,6 +45,17 @@ async function uploadEnglishA1() {
         const filePath = path.join(__dirname, '../firestore_data/en_a1_m01.json');
         const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
 
+        // Transform vocabularyItems to match app's expected format
+        data.vocabularyItems = data.vocabularyItems.map(item => ({
+            word: item.word,
+            phonetic: item.phonetic,
+            english: item.usage,           // Map usage to english (what app expects)
+            example_sentence: item.usage   // Also keep as example_sentence
+        }));
+
+        // Add order field (required by app's query)
+        data.order = 1;
+
         console.log(`Uploading: ${data.moduleId} (${data.theme})`);
         await db.collection('languages').doc('english')
             .collection('levels').doc('a1')

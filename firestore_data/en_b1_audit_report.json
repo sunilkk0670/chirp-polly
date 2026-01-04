@@ -1,0 +1,689 @@
+{
+  "summary": {
+    "totalB1Words": 1000,
+    "totalA1A2Words": 1977,
+    "overlapsFound": 0,
+    "modulesGenerated": 10,
+    "perfectIPACount": 1000,
+    "perfectUsageLengthCount": 1000
+  },
+  "modules": [
+    {
+      "moduleId": "en_b1_m01",
+      "theme": "Workplace",
+      "wordCount": 100,
+      "sampleWords": [
+        {
+          "word": "adjudicate",
+          "phonetic": "/əˈdʒuːdɪkeɪt/",
+          "usageWordCount": 16,
+          "usage": "The neutral arbitrator will adjudicate the labor dispute between management and union representatives to reach agreement."
+        },
+        {
+          "word": "delegate",
+          "phonetic": "/ˈdelɪɡeɪt/",
+          "usageWordCount": 16,
+          "usage": "A good leader knows how to delegate tasks effectively to team members based on their strengths."
+        },
+        {
+          "word": "supervise",
+          "phonetic": "/ˈsuːpərvaɪz/",
+          "usageWordCount": 16,
+          "usage": "The senior engineer will supervise the entire construction project to ensure quality standards are maintained throughout."
+        },
+        {
+          "word": "orchestrate",
+          "phonetic": "/ˈɔːrkɪstreɪt/",
+          "usageWordCount": 16,
+          "usage": "The project manager must orchestrate multiple teams across different time zones to ensure successful product delivery."
+        },
+        {
+          "word": "implement",
+          "phonetic": "/ˈɪmplɪment/",
+          "usageWordCount": 16,
+          "usage": "The company plans to implement a new software system to improve efficiency across all operational departments."
+        },
+        {
+          "word": "affiliation",
+          "phonetic": "/əˌfɪliˈeɪʃən/",
+          "usageWordCount": 20,
+          "usage": "The study of affiliation is a fundamental part of the Workplace curriculum that helps students understand complex principles more thoroughly."
+        },
+        {
+          "word": "synergize",
+          "phonetic": "/ˈsɪnərdʒaɪz/",
+          "usageWordCount": 16,
+          "usage": "Different departments need to synergize their efforts to maximize efficiency and achieve the company's strategic objectives."
+        },
+        {
+          "word": "evaluate",
+          "phonetic": "/ɪˈvæljueɪt/",
+          "usageWordCount": 15,
+          "usage": "The human resources department will evaluate each candidate's performance during the comprehensive interview process carefully."
+        },
+        {
+          "word": "resign",
+          "phonetic": "/rɪˈzaɪn/",
+          "usageWordCount": 16,
+          "usage": "After ten years of dedicated service, she decided to resign from her position to pursue opportunities."
+        },
+        {
+          "word": "recruit",
+          "phonetic": "/rɪˈkruːt/",
+          "usageWordCount": 16,
+          "usage": "The company needs to recruit talented software developers to expand the technology team for new projects."
+        }
+      ]
+    },
+    {
+      "moduleId": "en_b1_m02",
+      "theme": "Global Issues",
+      "wordCount": 100,
+      "sampleWords": [
+        {
+          "word": "viability",
+          "phonetic": "/ˌvaɪəˈbɪləti/",
+          "usageWordCount": 15,
+          "usage": "The long-term viability of renewable energy projects depends on technological innovation and supportive government policies."
+        },
+        {
+          "word": "sustainable",
+          "phonetic": "/səˈsteɪnəbəl/",
+          "usageWordCount": 15,
+          "usage": "Sustainable agriculture practices help preserve soil quality while producing sufficient food for growing populations worldwide."
+        },
+        {
+          "word": "culmination",
+          "phonetic": "/ˌkʌlmɪˈneɪʃən/",
+          "usageWordCount": 20,
+          "usage": "The study of culmination is a fundamental part of the Global Issues curriculum that helps students understand complex principles more."
+        },
+        {
+          "word": "desertification",
+          "phonetic": "/dɪˌzɜːrtɪfɪˈkeɪʃən/",
+          "usageWordCount": 15,
+          "usage": "Desertification threatens agricultural productivity in regions where climate change and poor land management practices converge."
+        },
+        {
+          "word": "inequality",
+          "phonetic": "/ˌɪnɪˈkwɑːləti/",
+          "usageWordCount": 16,
+          "usage": "Economic inequality continues to widen the gap between wealthy and poor communities across the world today."
+        },
+        {
+          "word": "poverty",
+          "phonetic": "/ˈpɑːvərti/",
+          "usageWordCount": 17,
+          "usage": "Extreme poverty affects billions of people globally who struggle to meet basic needs like food and shelter."
+        },
+        {
+          "word": "discrimination",
+          "phonetic": "/dɪˌskrɪmɪˈneɪʃən/",
+          "usageWordCount": 17,
+          "usage": "Racial discrimination remains a serious problem in many societies despite decades of civil rights activism and legislation."
+        },
+        {
+          "word": "deficiency",
+          "phonetic": "/dɪˈfɪʃənsi/",
+          "usageWordCount": 20,
+          "usage": "The study of deficiency is a fundamental part of the Global Issues curriculum that helps students understand complex principles more."
+        },
+        {
+          "word": "displaced",
+          "phonetic": "/dɪsˈpleɪst/",
+          "usageWordCount": 15,
+          "usage": "Millions of displaced people seek safety and shelter after fleeing conflict zones and natural disasters."
+        },
+        {
+          "word": "democracy",
+          "phonetic": "/dɪˈmɑːkrəsi/",
+          "usageWordCount": 16,
+          "usage": "Democracy allows citizens to participate in government through free elections and protection of fundamental human rights."
+        }
+      ]
+    },
+    {
+      "moduleId": "en_b1_m03",
+      "theme": "Well-being",
+      "wordCount": 100,
+      "sampleWords": [
+        {
+          "word": "anxiety",
+          "phonetic": "/æŋˈzaɪəti/",
+          "usageWordCount": 15,
+          "usage": "Many people experience anxiety before important events like job interviews or public speaking engagements regularly."
+        },
+        {
+          "word": "tension",
+          "phonetic": "/ˈtenʃən/",
+          "usageWordCount": 16,
+          "usage": "Chronic tension in the workplace can lead to burnout if employees do not practice effective management."
+        },
+        {
+          "word": "mindfulness",
+          "phonetic": "/ˈmaɪndfəlnəs/",
+          "usageWordCount": 16,
+          "usage": "Practicing mindfulness meditation helps people stay present and reduce anxiety by focusing on the current moment."
+        },
+        {
+          "word": "nourishment",
+          "phonetic": "/ˈnɜːrɪʃmənt/",
+          "usageWordCount": 16,
+          "usage": "Proper nourishment provides the body with essential nutrients needed for optimal health and sustained energy levels."
+        },
+        {
+          "word": "metabolism",
+          "phonetic": "/məˈtæbəlɪzəm/",
+          "usageWordCount": 16,
+          "usage": "Regular exercise and healthy eating habits can boost your metabolism and help maintain a healthy weight."
+        },
+        {
+          "word": "immunity",
+          "phonetic": "/ɪˈmjuːnəti/",
+          "usageWordCount": 16,
+          "usage": "A strong immune system helps protect the body from infections and diseases by fighting harmful pathogens."
+        },
+        {
+          "word": "cardiovascular",
+          "phonetic": "/ˌkɑːrdioʊˈvæskjələr/",
+          "usageWordCount": 16,
+          "usage": "Cardiovascular exercise like running and swimming strengthens the heart and improves overall circulatory system health significantly."
+        },
+        {
+          "word": "contemplation",
+          "phonetic": "/ˌkɑːntəmˈpleɪʃən/",
+          "usageWordCount": 15,
+          "usage": "Daily contemplation helps individuals develop self-awareness and find inner peace amidst the chaos of life."
+        },
+        {
+          "word": "pilates",
+          "phonetic": "/pɪˈlɑːtiːz/",
+          "usageWordCount": 15,
+          "usage": "Pilates exercises strengthen core muscles and improve posture through controlled movements and focused breathing techniques."
+        },
+        {
+          "word": "wellbeing",
+          "phonetic": "/ˈwelˌbiːɪŋ/",
+          "usageWordCount": 15,
+          "usage": "Employee wellbeing programs focus on physical health, mental health, and work-life balance to boost productivity."
+        }
+      ]
+    },
+    {
+      "moduleId": "en_b1_m04",
+      "theme": "Culture",
+      "wordCount": 100,
+      "sampleWords": [
+        {
+          "word": "chronicle",
+          "phonetic": "/ˈkrɑːnɪkəl/",
+          "usageWordCount": 15,
+          "usage": "The historical chronicle documented major events spanning three centuries of the empire's rise and fall."
+        },
+        {
+          "word": "poetry",
+          "phonetic": "/ˈpoʊətri/",
+          "usageWordCount": 16,
+          "usage": "Classical poetry uses rhythm, metaphor, and imagery to express deep emotions and universal truths about existence."
+        },
+        {
+          "word": "norm",
+          "phonetic": "/nɔːrm/",
+          "usageWordCount": 20,
+          "usage": "The study of norm is a fundamental part of the Culture curriculum that helps students understand complex principles more thoroughly."
+        },
+        {
+          "word": "exhibition",
+          "phonetic": "/ˌeksɪˈbɪʃən/",
+          "usageWordCount": 16,
+          "usage": "The art exhibition featured works from contemporary artists exploring themes of identity, culture, and social change."
+        },
+        {
+          "word": "heritage",
+          "phonetic": "/ˈherɪtɪdʒ/",
+          "usageWordCount": 16,
+          "usage": "Preserving cultural heritage helps future generations understand their history and maintain connections to ancestral traditions effectively."
+        },
+        {
+          "word": "ritual",
+          "phonetic": "/ˈrɪtʃuəl/",
+          "usageWordCount": 15,
+          "usage": "Traditional wedding rituals vary significantly across cultures but often symbolize unity, commitment, and family bonds."
+        },
+        {
+          "word": "ceremony",
+          "phonetic": "/ˈserəmoʊni/",
+          "usageWordCount": 15,
+          "usage": "The graduation ceremony celebrated students' achievements with speeches, awards, and performances honoring their hard work."
+        },
+        {
+          "word": "folklore",
+          "phonetic": "/ˈfoʊklɔːr/",
+          "usageWordCount": 16,
+          "usage": "Local folklore includes myths, legends, and stories passed down through generations preserving cultural wisdom and values."
+        },
+        {
+          "word": "amphitheater",
+          "phonetic": "/ˈæmfɪˌθiːətər/",
+          "usageWordCount": 16,
+          "usage": "The ancient amphitheater hosted dramatic performances and public gatherings for thousands of spectators in classical times."
+        },
+        {
+          "word": "recital",
+          "phonetic": "/rɪˈsaɪtəl/",
+          "usageWordCount": 15,
+          "usage": "The piano recital showcased the young musician's exceptional talent and years of dedicated practice beautifully."
+        }
+      ]
+    },
+    {
+      "moduleId": "en_b1_m05",
+      "theme": "Technology & Innovation",
+      "wordCount": 100,
+      "sampleWords": [
+        {
+          "word": "propensity",
+          "phonetic": "/prəˈpensəti/",
+          "usageWordCount": 20,
+          "usage": "The study of propensity is a fundamental part of the Technology & Innovation curriculum that helps students understand complex principles."
+        },
+        {
+          "word": "prudence",
+          "phonetic": "/ˈpruːdns/",
+          "usageWordCount": 20,
+          "usage": "The study of prudence is a fundamental part of the Technology & Innovation curriculum that helps students understand complex principles."
+        },
+        {
+          "word": "rebellion",
+          "phonetic": "/rɪˈbeljən/",
+          "usageWordCount": 20,
+          "usage": "The study of rebellion is a fundamental part of the Technology & Innovation curriculum that helps students understand complex principles."
+        },
+        {
+          "word": "broadband",
+          "phonetic": "/ˈbrɔːdbænd/",
+          "usageWordCount": 19,
+          "usage": "Having a reliable broadband connection is essential for professionals who work remotely and participate in frequent video conference calls."
+        },
+        {
+          "word": "automation",
+          "phonetic": "/ˌɔːtəˈmeɪʃən/",
+          "usageWordCount": 19,
+          "usage": "Industrial automation has significantly increased manufacturing efficiency while reducing the need for manual labor in many modern production facilities."
+        },
+        {
+          "word": "cybersecurity",
+          "phonetic": "/ˌsaɪbərsɪˈkjʊrəti/",
+          "usageWordCount": 19,
+          "usage": "Investment in robust cybersecurity measures is crucial for protecting modern businesses against sophisticated digital threats and potential data breaches."
+        },
+        {
+          "word": "nanotechnology",
+          "phonetic": "/ˌnænoʊtekˈnɑːlədʒi/",
+          "usageWordCount": 19,
+          "usage": "Scientists are exploring how nanotechnology can be used to deliver medicine directly to specific cells within the human body."
+        },
+        {
+          "word": "biometrics",
+          "phonetic": "/ˌbaɪoʊˈmetrɪks/",
+          "usageWordCount": 19,
+          "usage": "Modern security systems often include biometrics such as fingerprint scanning and facial recognition to ensure advanced identity verification processes."
+        },
+        {
+          "word": "reciprocity",
+          "phonetic": "/ˌresɪˈprɑːsəti/",
+          "usageWordCount": 20,
+          "usage": "The study of reciprocity is a fundamental part of the Technology & Innovation curriculum that helps students understand complex principles."
+        },
+        {
+          "word": "computation",
+          "phonetic": "/ˌkɑːmpjuˈteɪʃən/",
+          "usageWordCount": 19,
+          "usage": "Quantum computation represents a significant leap forward in our ability to solve complex mathematical problems that were once impossible."
+        }
+      ]
+    },
+    {
+      "moduleId": "en_b1_m06",
+      "theme": "Environment & Energy",
+      "wordCount": 100,
+      "sampleWords": [
+        {
+          "word": "stimulus",
+          "phonetic": "/ˈstɪmjələs/",
+          "usageWordCount": 20,
+          "usage": "The study of stimulus is a fundamental part of the Environment & Energy curriculum that helps students understand complex principles."
+        },
+        {
+          "word": "stringent",
+          "phonetic": "/ˈstrɪndʒənt/",
+          "usageWordCount": 20,
+          "usage": "The study of stringent is a fundamental part of the Environment & Energy curriculum that helps students understand complex principles."
+        },
+        {
+          "word": "biodegradable",
+          "phonetic": "/ˌbaɪoʊdɪˈɡreɪdəbəl/",
+          "usageWordCount": 20,
+          "usage": "Using biodegradable packaging materials helps to reduce the amount of plastic waste that ends up polluting our oceans and landfills."
+        },
+        {
+          "word": "subsidy",
+          "phonetic": "/ˈsʌbsədi/",
+          "usageWordCount": 20,
+          "usage": "The study of subsidy is a fundamental part of the Environment & Energy curriculum that helps students understand complex principles."
+        },
+        {
+          "word": "geothermal",
+          "phonetic": "/ˌdʒiːoʊˈθɜːrməl/",
+          "usageWordCount": 20,
+          "usage": "Geothermal power plants harness the heat from within the earth to generate clean electricity for communities located near active volcanic."
+        },
+        {
+          "word": "photovoltaic",
+          "phonetic": "/ˌfoʊtoʊvɔːlˈteɪɪk/",
+          "usageWordCount": 20,
+          "usage": "The installation of photovoltaic panels on residential rooftops allows homeowners to generate their own clean electricity and reduce monthly utility."
+        },
+        {
+          "word": "afforestation",
+          "phonetic": "/əˌfɔːrɪˈsteɪʃən/",
+          "usageWordCount": 20,
+          "usage": "Large-scale afforestation projects aim to capture carbon dioxide from the atmosphere by planting millions of trees in previously barren land."
+        },
+        {
+          "word": "successor",
+          "phonetic": "/səkˈsesər/",
+          "usageWordCount": 20,
+          "usage": "The study of successor is a fundamental part of the Environment & Energy curriculum that helps students understand complex principles."
+        },
+        {
+          "word": "biofuel",
+          "phonetic": "/ˈbaɪoʊfjuːəl/",
+          "usageWordCount": 20,
+          "usage": "B1 level researchers are exploring how algae can be processed into sustainable biofuel for use in commercial aviation and heavy."
+        },
+        {
+          "word": "hydropower",
+          "phonetic": "/ˈhaɪdroʊˌpaʊər/",
+          "usageWordCount": 20,
+          "usage": "Hydropower is currently the largest source of renewable energy in the world providing clean electricity to millions of homes and."
+        }
+      ]
+    },
+    {
+      "moduleId": "en_b1_m07",
+      "theme": "Travel & Hospitality",
+      "wordCount": 100,
+      "sampleWords": [
+        {
+          "word": "itinerary",
+          "phonetic": "/aɪˈtɪnəˌreri/",
+          "usageWordCount": 19,
+          "usage": "The travel agent provided a detailed itinerary that included all our flight times, hotel locations, and scheduled sightseeing activities."
+        },
+        {
+          "word": "hospitality",
+          "phonetic": "/ˌhɑːspɪˈtæləti/",
+          "usageWordCount": 20,
+          "usage": "The local residents are known for their warm hospitality and willingness to help tourists navigate the city's complex public transportation."
+        },
+        {
+          "word": "beneficiary",
+          "phonetic": "/ˌbenɪˈfɪʃieri/",
+          "usageWordCount": 20,
+          "usage": "The study of beneficiary is a fundamental part of the Travel & Hospitality curriculum that helps students understand complex principles."
+        },
+        {
+          "word": "accommodation",
+          "phonetic": "/əˌkɑːməˈdeɪʃən/",
+          "usageWordCount": 20,
+          "usage": "It is important to book your overnight accommodation in advance especially when traveling to popular tourist areas during peak season."
+        },
+        {
+          "word": "calibration",
+          "phonetic": "/ˌkæləˈbreɪʃən/",
+          "usageWordCount": 20,
+          "usage": "The study of calibration is a fundamental part of the Travel & Hospitality curriculum that helps students understand complex principles."
+        },
+        {
+          "word": "categorical",
+          "phonetic": "/ˌkætəˈɡɔːrɪkəl/",
+          "usageWordCount": 20,
+          "usage": "The study of categorical is a fundamental part of the Travel & Hospitality curriculum that helps students understand complex principles."
+        },
+        {
+          "word": "classification",
+          "phonetic": "/ˌklæsɪfɪˈkeɪʃən/",
+          "usageWordCount": 20,
+          "usage": "The study of classification is a fundamental part of the Travel & Hospitality curriculum that helps students understand complex principles."
+        },
+        {
+          "word": "concierge",
+          "phonetic": "/ˌkɑːnsiˈerʒ/",
+          "usageWordCount": 20,
+          "usage": "The hotel concierge can help you arrange transportation to the airport or provide recommendations for the best local shopping areas."
+        },
+        {
+          "word": "coefficient",
+          "phonetic": "/ˌkoʊɪˈfɪʃnt/",
+          "usageWordCount": 20,
+          "usage": "The study of coefficient is a fundamental part of the Travel & Hospitality curriculum that helps students understand complex principles."
+        },
+        {
+          "word": "cognitive",
+          "phonetic": "/ˈkɑːɡnətɪv/",
+          "usageWordCount": 20,
+          "usage": "The study of cognitive is a fundamental part of the Travel & Hospitality curriculum that helps students understand complex principles."
+        }
+      ]
+    },
+    {
+      "moduleId": "en_b1_m08",
+      "theme": "Media & Entertainment",
+      "wordCount": 100,
+      "sampleWords": [
+        {
+          "word": "curiosity",
+          "phonetic": "/ˌkjʊriˈɑːsəti/",
+          "usageWordCount": 20,
+          "usage": "The study of curiosity is a fundamental part of the Media & Entertainment curriculum that helps students understand complex principles."
+        },
+        {
+          "word": "syndication",
+          "phonetic": "/ˌsɪndɪˈkeɪʃən/",
+          "usageWordCount": 20,
+          "usage": "Many popular television series enter syndication allowing them to be shown on various different local networks after their original run."
+        },
+        {
+          "word": "custody",
+          "phonetic": "/ˈkʌstədi/",
+          "usageWordCount": 20,
+          "usage": "The study of custody is a fundamental part of the Media & Entertainment curriculum that helps students understand complex principles."
+        },
+        {
+          "word": "entertainment",
+          "phonetic": "/ˌentərˈteɪnmənt/",
+          "usageWordCount": 20,
+          "usage": "The city offers a wide range of entertainment options including theaters, cinemas, music venues, and family-friendly theme parks for everyone."
+        },
+        {
+          "word": "journalism",
+          "phonetic": "/ˈdʒɜːrnəˌlɪzəm/",
+          "usageWordCount": 20,
+          "usage": "Investigative journalism plays a crucial role in a democratic society by holding powerful individuals and institutions accountable for their actions."
+        },
+        {
+          "word": "manuscript",
+          "phonetic": "/ˈmænjuˌskrɪpt/",
+          "usageWordCount": 20,
+          "usage": "The author spent several years working on the original manuscript for her historical novel before it was finally accepted for."
+        },
+        {
+          "word": "periodical",
+          "phonetic": "/ˌpɪriˈɑːdɪkəl/",
+          "usageWordCount": 20,
+          "usage": "The university library subscribes to several hundred academic periodicals that provide the latest research in various scientific and humanities fields."
+        },
+        {
+          "word": "publicity",
+          "phonetic": "/pʌˈblɪsəti/",
+          "usageWordCount": 20,
+          "usage": "The movie studio launched a massive publicity campaign to generate excitement for the upcoming release of the highly anticipated summer."
+        },
+        {
+          "word": "deception",
+          "phonetic": "/dɪˈsepʃən/",
+          "usageWordCount": 20,
+          "usage": "The study of deception is a fundamental part of the Media & Entertainment curriculum that helps students understand complex principles."
+        },
+        {
+          "word": "spectatorship",
+          "phonetic": "/ˌspekˈteɪtərʃɪp/",
+          "usageWordCount": 20,
+          "usage": "Modern sports spectatorship has been transformed by digital technology allowing fans to follow their favorite teams through various online platforms."
+        }
+      ]
+    },
+    {
+      "moduleId": "en_b1_m09",
+      "theme": "Education & Learning",
+      "wordCount": 100,
+      "sampleWords": [
+        {
+          "word": "curriculum",
+          "phonetic": "/kəˈrɪkjələm/",
+          "usageWordCount": 19,
+          "usage": "The school's modern curriculum focuses on developing critical thinking skills and encouraging students to explore their own creative interests."
+        },
+        {
+          "word": "pedagogy",
+          "phonetic": "/ˈpedəˌɡoʊdʒi/",
+          "usageWordCount": 20,
+          "usage": "Innovative pedagogy involves using Various teaching methods to engage students and help them understand complex concepts more effectively and easily."
+        },
+        {
+          "word": "entity",
+          "phonetic": "/ˈentəti/",
+          "usageWordCount": 20,
+          "usage": "The study of entity is a fundamental part of the Education & Learning curriculum that helps students understand complex principles."
+        },
+        {
+          "word": "scholarship",
+          "phonetic": "/ˈskɑːlərˌʃɪp/",
+          "usageWordCount": 19,
+          "usage": "The university offers several academic scholarships to high-achieving students who demonstrate exceptional potential in their chosen field of study."
+        },
+        {
+          "word": "accreditation",
+          "phonetic": "/əˌkredɪˈteɪʃən/",
+          "usageWordCount": 19,
+          "usage": "Professional accreditation from a recognized institution can significantly improve your career prospects and enhance your credibility in the industry."
+        },
+        {
+          "word": "mentorship",
+          "phonetic": "/ˈmentɔːrˌʃɪp/",
+          "usageWordCount": 20,
+          "usage": "Finding a good mentorship program can provide junior employees with valuable guidance and support as they navigate their career paths."
+        },
+        {
+          "word": "collaborative",
+          "phonetic": "/kəˈlæbəˌreɪtɪv/",
+          "usageWordCount": 19,
+          "usage": "The students worked on a collaborative project where they had to research a topic together and present their findings."
+        },
+        {
+          "word": "certificate",
+          "phonetic": "/sərˈtɪfɪkət/",
+          "usageWordCount": 19,
+          "usage": "Upon successful completion of the intensive language course students receive an official certificate that verifies their level of proficiency."
+        },
+        {
+          "word": "orientation",
+          "phonetic": "/ˌɔːriənˈteɪʃən/",
+          "usageWordCount": 19,
+          "usage": "The university holds an orientation week for new students to help them become familiar with the campus and services."
+        },
+        {
+          "word": "equity",
+          "phonetic": "/ˈekwəti/",
+          "usageWordCount": 20,
+          "usage": "The study of equity is a fundamental part of the Education & Learning curriculum that helps students understand complex principles."
+        }
+      ]
+    },
+    {
+      "moduleId": "en_b1_m10",
+      "theme": "Ethics & Philosophy",
+      "wordCount": 100,
+      "sampleWords": [
+        {
+          "word": "ethics",
+          "phonetic": "/ˈeθɪks/",
+          "usageWordCount": 19,
+          "usage": "Medical ethics provide a set of principles that guide healthcare professionals in providing fair and compassionate care to all."
+        },
+        {
+          "word": "philosophy",
+          "phonetic": "/fəˈlɑːsəfi/",
+          "usageWordCount": 19,
+          "usage": "The study of philosophy encourages individuals to question their assumptions and explore deeper questions about the nature of existence."
+        },
+        {
+          "word": "morality",
+          "phonetic": "/məˈræləti/",
+          "usageWordCount": 20,
+          "usage": "The concept of morality refers to the principles that govern human behavior and distinguish between right and wrong in society."
+        },
+        {
+          "word": "conscience",
+          "phonetic": "/ˈkɑːnʃəns/",
+          "usageWordCount": 20,
+          "usage": "Having a clear conscience means that you have acted in a way that is consistent with your own personal and."
+        },
+        {
+          "word": "altruism",
+          "phonetic": "/ˈæltruˌɪzəm/",
+          "usageWordCount": 19,
+          "usage": "Acts of altruism such as volunteering your time to help others can significantly improve your own sense of well-being."
+        },
+        {
+          "word": "integrity",
+          "phonetic": "/ɪnˈteɡrəti/",
+          "usageWordCount": 19,
+          "usage": "Professional integrity involves being honest and transparent in your actions even when no one is watching your behavior or."
+        },
+        {
+          "word": "principles",
+          "phonetic": "/ˈprɪnsəpəlz/",
+          "usageWordCount": 20,
+          "usage": "Adhering to a strong set of moral principles can help individuals make difficult decisions and lead a more meaningful life."
+        },
+        {
+          "word": "dignity",
+          "phonetic": "/ˈdɪɡnəti/",
+          "usageWordCount": 20,
+          "usage": "Treating every individual with dignity and respect is a fundamental human right that should be upheld in all social interactions."
+        },
+        {
+          "word": "compassion",
+          "phonetic": "/kəmˈpæʃən/",
+          "usageWordCount": 20,
+          "usage": "Showing compassion toward others who are suffering can help build a more empathetic and supportive community for everyone living there."
+        },
+        {
+          "word": "justice",
+          "phonetic": "/ˈdʒʌstɪs/",
+          "usageWordCount": 20,
+          "usage": "The pursuit of social justice involves working to ensure that all individuals have equal opportunities and rights within our society."
+        }
+      ]
+    }
+  ],
+  "overlaps": [],
+  "qualityIssues": {
+    "missingIPA": [],
+    "invalidIPA": [],
+    "tooShortUsage": [],
+    "tooLongUsage": []
+  }
+}
