@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import '../services/tts_service.dart';
+import '../services/web_tts_service.dart';
 import '../widgets/chirpolly_logo.dart';
 import 'liar_game_page.dart';
 
@@ -61,12 +61,12 @@ class _LessonContentPageState extends State<LessonContentPage> {
   }
 
   void _speak(String text) {
-    TtsService.speak(text, languageCode);
+    WebTtsService.speak(text, languageCode);
   }
 
   @override
   void dispose() {
-    TtsService.stop();
+    WebTtsService.stop();
     super.dispose();
   }
 
@@ -150,7 +150,7 @@ class _LessonContentPageState extends State<LessonContentPage> {
                 final index = entry.key;
                 final item = entry.value;
                 return _buildVocabularyCard(context, item, index + 1);
-              }).toList(),
+              }),
 
               const SizedBox(height: 32),
 
@@ -275,10 +275,10 @@ class _LessonContentPageState extends State<LessonContentPage> {
           final mapped = Map<String, dynamic>.from(rawItem);
           final standardized = {
             'target_text': mapped['word'] ?? mapped['targetText'] ?? mapped['target_text'] ?? mapped['target_text'] ?? mapped['kanji'] ?? '[LOADING ERROR]',
-            'english': mapped['meaning'] ?? mapped['english'] ?? mapped['translation'] ?? mapped['usage'] ?? '[LOADING ERROR]',
+            'english': mapped['meaning'] ?? mapped['english'] ?? mapped['translation'] ?? '[LOADING ERROR]',
             'phonetic_transcription': mapped['reading'] ?? mapped['phoneticTranscription'] ?? mapped['phonetic_transcription'] ?? mapped['romaji'] ?? mapped['phonetic'] ?? '',
             'radical_breakdown': mapped['radical_breakdown'] ?? mapped['radicalBreakdown'],
-            'example_sentence': mapped['example_sentence'] ?? mapped['example'] ?? mapped['usage'] ?? '',
+            'example_sentence': mapped['example_sentence'] ?? mapped['example'] ?? '',
           };
           items.add(standardized);
         } else if (rawItem is String) {
@@ -426,7 +426,9 @@ class _LessonContentPageState extends State<LessonContentPage> {
               size: 32,
               color: Colors.deepPurple.shade400,
             ),
-            onPressed: () => _speak(lesson['target_text'] ?? ''),
+            onPressed: () => _speak(
+              lesson['target_text'] ?? ''
+            ),
           ),
         ],
       ),
