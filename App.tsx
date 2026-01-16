@@ -2,12 +2,12 @@
 import React, { useState, useMemo } from 'react';
 import { BATCH_1_DATA } from './curriculumData';
 import { LanguageCurriculum, Module, Lesson } from './types';
-import { 
-  BookOpen, 
-  ChevronRight, 
-  Search, 
-  Globe, 
-  AlertTriangle, 
+import {
+  BookOpen,
+  ChevronRight,
+  Search,
+  Globe,
+  AlertTriangle,
   Info,
   Layers,
   Award
@@ -18,17 +18,17 @@ const App: React.FC = () => {
   const [activeModuleId, setActiveModuleId] = useState<string>(BATCH_1_DATA[0].modules[0].id);
   const [searchTerm, setSearchTerm] = useState('');
 
-  const currentLanguageData = useMemo(() => 
+  const currentLanguageData = useMemo(() =>
     BATCH_1_DATA.find(l => l.language === selectedLang) || BATCH_1_DATA[0]
-  , [selectedLang]);
+    , [selectedLang]);
 
-  const currentModule = useMemo(() => 
+  const currentModule = useMemo(() =>
     currentLanguageData.modules.find(m => m.id === activeModuleId) || currentLanguageData.modules[0]
-  , [currentLanguageData, activeModuleId]);
+    , [currentLanguageData, activeModuleId]);
 
   const filteredModules = useMemo(() => {
     if (!searchTerm) return currentLanguageData.modules;
-    return currentLanguageData.modules.filter(m => 
+    return currentLanguageData.modules.filter(m =>
       m.theme.toLowerCase().includes(searchTerm.toLowerCase()) ||
       m.lessons.some(l => l.english.toLowerCase().includes(searchTerm.toLowerCase()))
     );
@@ -37,24 +37,25 @@ const App: React.FC = () => {
   return (
     <div className="min-h-screen bg-slate-50 text-slate-900">
       {/* Header */}
-      <header className="sticky top-0 z-50 bg-white border-b border-slate-200 px-6 py-4">
-        <div className="max-w-7xl mx-auto flex flex-col md:flex-row md:items-center justify-between gap-4">
-          <div className="flex items-center gap-2">
-            <div className="bg-indigo-600 p-2 rounded-lg text-white">
-              <BookOpen size={24} />
+      <header className="sticky top-0 z-50 bg-white border-b border-slate-200 px-4 md:px-6 py-3 md:py-4">
+        <div className="max-w-7xl mx-auto flex flex-col md:flex-row md:items-center justify-between gap-3 md:gap-4">
+          <div className="flex items-center gap-2 min-w-0">
+            <div className="bg-indigo-600 p-1.5 md:p-2 rounded-lg text-white flex-shrink-0">
+              <BookOpen size={20} className="md:hidden" />
+              <BookOpen size={24} className="hidden md:block" />
             </div>
-            <div>
-              <h1 className="text-xl font-bold tracking-tight">Curriculum Architect</h1>
-              <p className="text-xs text-slate-500 font-medium">BATCH 1: JP, HI, FR | 2025 EDITION</p>
+            <div className="min-w-0 flex-1">
+              <h1 className="text-base md:text-xl font-bold tracking-tight truncate">Curriculum Architect</h1>
+              <p className="text-[10px] md:text-xs text-slate-500 font-medium truncate">BATCH 1: JP, HI, FR | 2025 EDITION</p>
             </div>
           </div>
 
-          <div className="flex items-center bg-slate-100 rounded-full px-4 py-2 border border-slate-200">
-            <Search size={18} className="text-slate-400 mr-2" />
-            <input 
-              type="text" 
+          <div className="flex items-center bg-slate-100 rounded-full px-3 md:px-4 py-2 border border-slate-200 w-full md:w-auto">
+            <Search size={16} className="text-slate-400 mr-2 flex-shrink-0 md:w-[18px] md:h-[18px]" />
+            <input
+              type="text"
               placeholder="Search modules or lessons..."
-              className="bg-transparent border-none outline-none text-sm w-48 md:w-64"
+              className="bg-transparent border-none outline-none text-sm w-full md:w-64"
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
             />
@@ -77,16 +78,14 @@ const App: React.FC = () => {
                     setSelectedLang(lang.language);
                     setActiveModuleId(lang.modules[0].id);
                   }}
-                  className={`flex items-center justify-between px-4 py-3 rounded-xl transition-all ${
-                    selectedLang === lang.language 
-                      ? 'bg-indigo-600 text-white shadow-lg shadow-indigo-200 translate-x-1' 
+                  className={`flex items-center justify-between px-4 py-3 rounded-xl transition-all ${selectedLang === lang.language
+                      ? 'bg-indigo-600 text-white shadow-lg shadow-indigo-200 translate-x-1'
                       : 'bg-white hover:bg-slate-100 border border-slate-200'
-                  }`}
+                    }`}
                 >
                   <span className="font-semibold">{lang.language}</span>
-                  <span className={`text-[10px] px-1.5 py-0.5 rounded-full ${
-                    selectedLang === lang.language ? 'bg-indigo-500' : 'bg-slate-200 text-slate-600'
-                  }`}>
+                  <span className={`text-[10px] px-1.5 py-0.5 rounded-full ${selectedLang === lang.language ? 'bg-indigo-500' : 'bg-slate-200 text-slate-600'
+                    }`}>
                     {lang.level}
                   </span>
                 </button>
@@ -103,15 +102,13 @@ const App: React.FC = () => {
                 <button
                   key={m.id}
                   onClick={() => setActiveModuleId(m.id)}
-                  className={`flex items-start gap-3 p-3 rounded-xl transition-all text-left ${
-                    activeModuleId === m.id 
-                      ? 'bg-white border-2 border-indigo-600 ring-4 ring-indigo-50' 
+                  className={`flex items-start gap-3 p-3 rounded-xl transition-all text-left ${activeModuleId === m.id
+                      ? 'bg-white border-2 border-indigo-600 ring-4 ring-indigo-50'
                       : 'bg-white border border-slate-200 hover:border-indigo-300'
-                  }`}
+                    }`}
                 >
-                  <div className={`mt-1 h-5 w-5 rounded-full flex items-center justify-center text-[10px] font-bold ${
-                    activeModuleId === m.id ? 'bg-indigo-600 text-white' : 'bg-slate-200 text-slate-500'
-                  }`}>
+                  <div className={`mt-1 h-5 w-5 rounded-full flex items-center justify-center text-[10px] font-bold ${activeModuleId === m.id ? 'bg-indigo-600 text-white' : 'bg-slate-200 text-slate-500'
+                    }`}>
                     {idx + 1}
                   </div>
                   <div>
@@ -202,7 +199,7 @@ const App: React.FC = () => {
                 <p className="text-emerald-900 font-bold">{currentModule.liar_game_data.correct_version}</p>
               </div>
             </div>
-            
+
             <div className="mt-6 p-4 bg-white/50 rounded-xl">
               <h4 className="text-xs font-bold text-amber-900 uppercase tracking-wider mb-2 flex items-center gap-2">
                 <Info size={12} /> Architect's Explanation
