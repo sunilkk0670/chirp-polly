@@ -1,0 +1,627 @@
+{
+  "moduleId": "ko_a2_m05",
+  "theme": "Health & Body",
+  "title": "Health & Body",
+  "level": "a2",
+  "language": "korean",
+  "order": 5,
+  "lessons": [
+    {
+      "order": 1,
+      "vocabularyItems": [
+        {
+          "word": "정수리",
+          "reading": "Jeongsuri",
+          "meaning": "Crown of the head",
+          "example_sentence": "정수리에 햇볕이 직접 닿아요. (The sunlight hits the crown of my head directly.)"
+        },
+        {
+          "word": "날개뼈",
+          "reading": "Nalgaeppyeo",
+          "meaning": "Shoulder blade",
+          "example_sentence": "날개뼈 부근이 뻐근해요. (The area near the shoulder blade is stiff.)"
+        },
+        {
+          "word": "무릎관절",
+          "reading": "Mureupgwanjeol",
+          "meaning": "Knee joint",
+          "example_sentence": "무릎관절을 보호해야 해요. (You need to protect your knee joints.)"
+        },
+        {
+          "word": "발뒤꿈치",
+          "reading": "Baldwikkumchi",
+          "meaning": "Heel",
+          "example_sentence": "신발 때문에 발뒤꿈치가 아파요. (My heel hurts because of the shoes.)"
+        },
+        {
+          "word": "약방",
+          "reading": "Yakbang",
+          "meaning": "Traditional pharmacy / Medicine shop",
+          "example_sentence": "오래된 약방에서 약을 샀어요. (I bought medicine at an old traditional pharmacy.)"
+        },
+        {
+          "word": "통증",
+          "reading": "Tongjeung",
+          "meaning": "Pain / Ache",
+          "example_sentence": "허리에 심한 통증이 있어요. (I have severe pain in my back.)"
+        },
+        {
+          "word": "독감",
+          "reading": "Dokgam",
+          "meaning": "Flu / Influenza",
+          "example_sentence": "독감 예방 주사를 맞으세요. (Please get a flu shot.)"
+        },
+        {
+          "word": "열",
+          "reading": "Yeol",
+          "meaning": "Fever",
+          "example_sentence": "열이 나요. (I have a fever.)"
+        },
+        {
+          "word": "기침",
+          "reading": "Gichim",
+          "meaning": "Cough",
+          "example_sentence": "기침이 심해요. (The cough is severe.)"
+        },
+        {
+          "word": "콧물",
+          "reading": "Konmul",
+          "meaning": "Runny nose",
+          "example_sentence": "콧물이 나요. (I have a runny nose.)"
+        },
+        {
+          "word": "재채기",
+          "reading": "Jaechaegi",
+          "meaning": "Sneeze",
+          "example_sentence": "재채기가 나와요. (I'm sneezing.)"
+        },
+        {
+          "word": "지끈거리다",
+          "reading": "Jigeungeoerida",
+          "meaning": "To be throbbing (headache)",
+          "example_sentence": "머리가 지끈거려서 누워 있어요. (I'm lying down because my head is throbbing.)"
+        },
+        {
+          "word": "속쓰림",
+          "reading": "Sok sseurim",
+          "meaning": "Heartburn / Sour stomach",
+          "example_sentence": "매운 음식을 먹고 속쓰림이 생겼어요. (I got heartburn after eating spicy food.)"
+        },
+        {
+          "word": "잇몸",
+          "reading": "Inmom",
+          "meaning": "Gums",
+          "example_sentence": "잇몸이 부어서 치과에 가요. (I'm going to the dentist because my gums are swollen.)"
+        },
+        {
+          "word": "근육통",
+          "reading": "Geunnyuktong",
+          "meaning": "Muscle pain",
+          "example_sentence": "운동 후 근육통이 있어요. (I have muscle pain after exercise.)"
+        },
+        {
+          "word": "관절염",
+          "reading": "Gwanjeol-yeom",
+          "meaning": "Arthritis",
+          "example_sentence": "관절염 때문에 힘들어요. (It's hard because of arthritis.)"
+        },
+        {
+          "word": "과민반응",
+          "reading": "Gwaminbaneung",
+          "meaning": "Hypersensitivity / Overreaction",
+          "example_sentence": "피부 과민반응이 일어났어요. (A skin hypersensitivity reaction occurred.)"
+        },
+        {
+          "word": "천식",
+          "reading": "Cheonsik",
+          "meaning": "Asthma",
+          "example_sentence": "천식이 있어서 조심해요. (I'm careful because I have asthma.)"
+        },
+        {
+          "word": "당뇨병",
+          "reading": "Dangnyobyeong",
+          "meaning": "Diabetes",
+          "example_sentence": "당뇨병을 관리하고 있어요. (I'm managing diabetes.)"
+        },
+        {
+          "word": "고혈압",
+          "reading": "Gohyeorap",
+          "meaning": "High blood pressure",
+          "example_sentence": "고혈압 약을 먹어요. (I take high blood pressure medication.)"
+        },
+        {
+          "word": "저혈압",
+          "reading": "Jeohyeorap",
+          "meaning": "Low blood pressure",
+          "example_sentence": "저혈압이라서 어지러워요. (I'm dizzy because of low blood pressure.)"
+        },
+        {
+          "word": "빈혈",
+          "reading": "Binhyeol",
+          "meaning": "Anemia",
+          "example_sentence": "빈혈이 있어요. (I have anemia.)"
+        },
+        {
+          "word": "골절",
+          "reading": "Goljeol",
+          "meaning": "Fracture / Broken bone",
+          "example_sentence": "팔이 골절됐어요. (My arm is fractured.)"
+        },
+        {
+          "word": "염좌",
+          "reading": "Yeomjwa",
+          "meaning": "Sprain",
+          "example_sentence": "발목을 염좌했어요. (I sprained my ankle.)"
+        },
+        {
+          "word": "타박상",
+          "reading": "Tabaksang",
+          "meaning": "Bruise / Contusion",
+          "example_sentence": "타박상을 입었어요. (I got a bruise.)"
+        },
+        {
+          "word": "화상",
+          "reading": "Hwasang",
+          "meaning": "Burn",
+          "example_sentence": "화상을 입었어요. (I got burned.)"
+        },
+        {
+          "word": "상처",
+          "reading": "Sangcheo",
+          "meaning": "Wound / Injury",
+          "example_sentence": "상처가 아물었어요. (The wound healed.)"
+        },
+        {
+          "word": "혈액",
+          "reading": "Hyeoraek",
+          "meaning": "Blood (formal/anatomical)",
+          "example_sentence": "혈액 순환이 잘 안 돼요. (Blood circulation is not good.)"
+        },
+        {
+          "word": "압박붕대",
+          "reading": "Appakbungdae",
+          "meaning": "Elastic bandage / Compression bandage",
+          "example_sentence": "발목에 압박붕대를 감았어요. (I wrapped an elastic bandage on my ankle.)"
+        },
+        {
+          "word": "습윤밴드",
+          "reading": "Seubyunbaendeu",
+          "meaning": "Hydrocolloid bandage",
+          "example_sentence": "상처에 습윤밴드를 붙였어요. (I put a hydrocolloid bandage on the wound.)"
+        },
+        {
+          "word": "소독",
+          "reading": "Sodok",
+          "meaning": "Disinfection / Sterilization",
+          "example_sentence": "상처를 소독했어요. (I disinfected the wound.)"
+        },
+        {
+          "word": "예방주사",
+          "reading": "Yebangjusa",
+          "meaning": "Vaccination shot / Inoculation",
+          "example_sentence": "오늘 예방주사를 맞으러 가요. (I'm going to get a vaccination shot today.)"
+        },
+        {
+          "word": "링거",
+          "reading": "Ringgeo",
+          "meaning": "IV drip",
+          "example_sentence": "링거를 맞고 있어요. (I'm getting an IV drip.)"
+        },
+        {
+          "word": "시술",
+          "reading": "Sisul",
+          "meaning": "Procedure / Minor surgery",
+          "example_sentence": "간단한 레이저 시술을 받았어요. (I had a simple laser procedure.)"
+        },
+        {
+          "word": "입원",
+          "reading": "Ibwon",
+          "meaning": "Hospitalization",
+          "example_sentence": "입원했어요. (I was hospitalized.)"
+        },
+        {
+          "word": "퇴원",
+          "reading": "Toegwon",
+          "meaning": "Discharge from hospital",
+          "example_sentence": "내일 퇴원해요. (I'm being discharged tomorrow.)"
+        },
+        {
+          "word": "검진",
+          "reading": "Geomjin",
+          "meaning": "Medical examination / Checkup",
+          "example_sentence": "정기 검진을 받는 것이 좋아요. (It's good to have regular checkups.)"
+        },
+        {
+          "word": "진단",
+          "reading": "Jindan",
+          "meaning": "Diagnosis",
+          "example_sentence": "진단을 받았어요. (I was diagnosed.)"
+        },
+        {
+          "word": "처방",
+          "reading": "Cheobang",
+          "meaning": "Prescription",
+          "example_sentence": "처방전을 받았어요. (I received a prescription.)"
+        },
+        {
+          "word": "의약품",
+          "reading": "Uiyakpum",
+          "meaning": "Pharmaceuticals / Medicine",
+          "example_sentence": "의약품을 안전하게 보관하세요. (Store pharmaceuticals safely.)"
+        },
+        {
+          "word": "알약",
+          "reading": "Alyak",
+          "meaning": "Pill / Tablet",
+          "example_sentence": "알약을 삼켰어요. (I swallowed the pill.)"
+        },
+        {
+          "word": "가루약",
+          "reading": "Garuyak",
+          "meaning": "Powder medicine",
+          "example_sentence": "가루약을 물에 타서 먹어요. (I mix powder medicine with water and drink it.)"
+        },
+        {
+          "word": "물약",
+          "reading": "Mulyak",
+          "meaning": "Liquid medicine / Syrup",
+          "example_sentence": "물약을 먹었어요. (I took liquid medicine.)"
+        },
+        {
+          "word": "크림",
+          "reading": "Keurim",
+          "meaning": "Cream / Ointment",
+          "example_sentence": "피부에 보습 크림을 발랐어요. (I applied moisturizing cream to my skin.)"
+        },
+        {
+          "word": "파스",
+          "reading": "Paseu",
+          "meaning": "Pain relief patch",
+          "example_sentence": "파스를 붙였어요. (I put on a pain relief patch.)"
+        },
+        {
+          "word": "진정제",
+          "reading": "Jinjeongje",
+          "meaning": "Sedative / Calming agent",
+          "example_sentence": "진정제를 먹고 안정을 취하세요. (Take a sedative and rest.)"
+        },
+        {
+          "word": "해열제",
+          "reading": "Haeyeolje",
+          "meaning": "Fever reducer / Antipyretic",
+          "example_sentence": "해열제를 먹었어요. (I took a fever reducer.)"
+        },
+        {
+          "word": "소화제",
+          "reading": "Sohwaje",
+          "meaning": "Digestive medicine",
+          "example_sentence": "소화제를 먹었어요. (I took digestive medicine.)"
+        },
+        {
+          "word": "항생제",
+          "reading": "Hangsaengje",
+          "meaning": "Antibiotic",
+          "example_sentence": "항생제를 처방받았어요. (I was prescribed antibiotics.)"
+        },
+        {
+          "word": "멀티비타민",
+          "reading": "Meoltibitamin",
+          "meaning": "Multivitamin",
+          "example_sentence": "멀티비타민을 챙겨 먹어요. (I make sure to take multivitamins.)"
+        },
+        {
+          "word": "보충제",
+          "reading": "Bochungje",
+          "meaning": "Supplement",
+          "example_sentence": "단백질 보충제를 마셔요. (I drink protein supplements.)"
+        },
+        {
+          "word": "종합검진",
+          "reading": "Jonghapgeomjin",
+          "meaning": "Comprehensive checkup",
+          "example_sentence": "내일 종합검진 예약이 있어요. (I have a comprehensive checkup appointment tomorrow.)"
+        },
+        {
+          "word": "혈액검사",
+          "reading": "Hyeoraekgeomsa",
+          "meaning": "Blood test",
+          "example_sentence": "혈액검사를 했어요. (I had a blood test.)"
+        },
+        {
+          "word": "소변검사",
+          "reading": "Sobyeongeomsa",
+          "meaning": "Urine test",
+          "example_sentence": "소변검사를 했어요. (I had a urine test.)"
+        },
+        {
+          "word": "엑스레이",
+          "reading": "Ekseulei",
+          "meaning": "X-ray",
+          "example_sentence": "엑스레이를 찍었어요. (I had an X-ray.)"
+        },
+        {
+          "word": "CT",
+          "reading": "CT",
+          "meaning": "CT scan",
+          "example_sentence": "CT 촬영을 했어요. (I had a CT scan.)"
+        },
+        {
+          "word": "MRI",
+          "reading": "MRI",
+          "meaning": "MRI scan",
+          "example_sentence": "MRI를 찍었어요. (I had an MRI.)"
+        },
+        {
+          "word": "초음파",
+          "reading": "Cho-eumpa",
+          "meaning": "Ultrasound",
+          "example_sentence": "초음파 검사를 받았어요. (I had an ultrasound.)"
+        },
+        {
+          "word": "심전도",
+          "reading": "Simjeondo",
+          "meaning": "Electrocardiogram (ECG)",
+          "example_sentence": "심전도 검사를 했어요. (I had an ECG.)"
+        },
+        {
+          "word": "혈압계",
+          "reading": "Hyeorapgye",
+          "meaning": "Blood pressure monitor",
+          "example_sentence": "혈압계로 혈압을 쟀어요. (I measured my blood pressure with a monitor.)"
+        },
+        {
+          "word": "체온",
+          "reading": "Che-on",
+          "meaning": "Body temperature",
+          "example_sentence": "체온을 쟀어요. (I took my temperature.)"
+        },
+        {
+          "word": "맥박",
+          "reading": "Maekbak",
+          "meaning": "Pulse",
+          "example_sentence": "맥박이 빨라요. (My pulse is fast.)"
+        },
+        {
+          "word": "호흡",
+          "reading": "Hoheup",
+          "meaning": "Breathing / Respiration",
+          "example_sentence": "호흡이 가빠요. (My breathing is rapid.)"
+        },
+        {
+          "word": "체중",
+          "reading": "Chejung",
+          "meaning": "Body weight",
+          "example_sentence": "체중이 늘었어요. (My weight increased.)"
+        },
+        {
+          "word": "신장",
+          "reading": "Sinjang",
+          "meaning": "Height / Stature",
+          "example_sentence": "신장이 170cm예요. (My height is 170cm.)"
+        },
+        {
+          "word": "시력",
+          "reading": "Siryeok",
+          "meaning": "Eyesight / Vision",
+          "example_sentence": "시력이 나빠졌어요. (My eyesight got worse.)"
+        },
+        {
+          "word": "청력",
+          "reading": "Cheongnyeok",
+          "meaning": "Hearing",
+          "example_sentence": "청력 검사를 받았어요. (I had a hearing test.)"
+        },
+        {
+          "word": "치과",
+          "reading": "Chigwa",
+          "meaning": "Dentist / Dental clinic",
+          "example_sentence": "치과에 갔어요. (I went to the dentist.)"
+        },
+        {
+          "word": "안과",
+          "reading": "Angwa",
+          "meaning": "Ophthalmology / Eye clinic",
+          "example_sentence": "안과에서 검진받았어요. (I had an eye exam at the ophthalmology clinic.)"
+        },
+        {
+          "word": "이비인후과",
+          "reading": "Ibiinhugwa",
+          "meaning": "ENT (Ear, Nose, Throat)",
+          "example_sentence": "이비인후과에 갔어요. (I went to the ENT clinic.)"
+        },
+        {
+          "word": "피부과",
+          "reading": "Pibugwa",
+          "meaning": "Dermatology / Skin clinic",
+          "example_sentence": "피부과에서 치료받았어요. (I received treatment at the dermatology clinic.)"
+        },
+        {
+          "word": "정형외과",
+          "reading": "Jeonghyeong-oegwa",
+          "meaning": "Orthopedics",
+          "example_sentence": "정형외과에 갔어요. (I went to orthopedics.)"
+        },
+        {
+          "word": "내과",
+          "reading": "Naegwa",
+          "meaning": "Internal medicine",
+          "example_sentence": "내과에서 진료받았어요. (I was treated at internal medicine.)"
+        },
+        {
+          "word": "외과",
+          "reading": "Oegwa",
+          "meaning": "Surgery department",
+          "example_sentence": "외과에서 수술받았어요. (I had surgery at the surgery department.)"
+        },
+        {
+          "word": "산부인과",
+          "reading": "Sanbuingwa",
+          "meaning": "Obstetrics and gynecology",
+          "example_sentence": "산부인과에 갔어요. (I went to the OB-GYN.)"
+        },
+        {
+          "word": "소아과",
+          "reading": "Soagwa",
+          "meaning": "Pediatrics",
+          "example_sentence": "소아과에 아이를 데려갔어요. (I took my child to pediatrics.)"
+        },
+        {
+          "word": "권역응급센터",
+          "reading": "Gwonyeokeunggeub sjeonteo",
+          "meaning": "Regional emergency center",
+          "example_sentence": "권역응급센터로 이송되었어요. (Patient was moved to the regional emergency center.)"
+        },
+        {
+          "word": "구급대원",
+          "reading": "Gugeupdaeweon",
+          "meaning": "Paramedic / First responder",
+          "example_sentence": "구급대원이 응급처치를 했어요. (The paramedic gave first aid.)"
+        },
+        {
+          "word": "119",
+          "reading": "Ilil-gu",
+          "meaning": "Emergency number (Korea)",
+          "example_sentence": "119에 신고했어요. (I called 119.)"
+        },
+        {
+          "word": "응급처치",
+          "reading": "Eunggeupcheoichi",
+          "meaning": "First aid / Emergency treatment",
+          "example_sentence": "응급처치를 했어요. (I gave first aid.)"
+        },
+        {
+          "word": "심폐소생술",
+          "reading": "Simpyesosaengsul",
+          "meaning": "CPR (Cardiopulmonary resuscitation)",
+          "example_sentence": "심폐소생술을 배웠어요. (I learned CPR.)"
+        },
+        {
+          "word": "회복",
+          "reading": "Hoebog",
+          "meaning": "Recovery",
+          "example_sentence": "빠른 회복을 바래요. (I wish you a speedy recovery.)"
+        },
+        {
+          "word": "완치",
+          "reading": "Wanchi",
+          "meaning": "Complete recovery / Cure",
+          "example_sentence": "완치됐어요. (I'm completely cured.)"
+        },
+        {
+          "word": "재발",
+          "reading": "Jaebal",
+          "meaning": "Recurrence / Relapse",
+          "example_sentence": "재발하지 않도록 조심해요. (I'm careful not to have a recurrence.)"
+        },
+        {
+          "word": "예방",
+          "reading": "Yebang",
+          "meaning": "Prevention",
+          "example_sentence": "예방이 중요해요. (Prevention is important.)"
+        },
+        {
+          "word": "백신",
+          "reading": "Baeksin",
+          "meaning": "Vaccine",
+          "example_sentence": "백신을 맞았어요. (I got vaccinated.)"
+        },
+        {
+          "word": "예방접종",
+          "reading": "Yebangjeop-jong",
+          "meaning": "Vaccination / Immunization",
+          "example_sentence": "예방접종을 받았어요. (I got vaccinated.)"
+        },
+        {
+          "word": "면역",
+          "reading": "Myeonyeok",
+          "meaning": "Immunity",
+          "example_sentence": "면역력을 키워야 해요. (You need to build immunity.)"
+        },
+        {
+          "word": "전염",
+          "reading": "Jeonyeom",
+          "meaning": "Infection / Contagion",
+          "example_sentence": "전염될 수 있어요. (It can be contagious.)"
+        },
+        {
+          "word": "격리",
+          "reading": "Gyeongni",
+          "meaning": "Quarantine / Isolation",
+          "example_sentence": "격리되었어요. (I was quarantined.)"
+        },
+        {
+          "word": "방역마스크",
+          "reading": "Bangyeogmaseukeu",
+          "meaning": "Quarantine mask",
+          "example_sentence": "방역마스크를 착용해 주세요. (Please wear a quarantine mask.)"
+        },
+        {
+          "word": "손씻기",
+          "reading": "Sonsshitgi",
+          "meaning": "Hand washing",
+          "example_sentence": "손씻기를 자주 하세요. (Wash your hands frequently.)"
+        },
+        {
+          "word": "위생",
+          "reading": "Wisaeng",
+          "meaning": "Hygiene / Sanitation",
+          "example_sentence": "위생 관리가 중요해요. (Hygiene management is important.)"
+        },
+        {
+          "word": "컨디션",
+          "reading": "Keondisyeon",
+          "meaning": "Physical condition",
+          "example_sentence": "오늘 컨디션이 아주 좋아요. (My physical condition is very good today.)"
+        },
+        {
+          "word": "체육",
+          "reading": "Cheyuk",
+          "meaning": "Physical education / Athletics",
+          "example_sentence": "체육관에서 농구를 했어요. (I played basketball in the gym.)"
+        },
+        {
+          "word": "식단",
+          "reading": "Sikdan",
+          "meaning": "Diet / Meal plan",
+          "example_sentence": "식단을 조절해요. (I control my diet.)"
+        },
+        {
+          "word": "수면",
+          "reading": "Sumyeon",
+          "meaning": "Sleep",
+          "example_sentence": "충분한 수면이 필요해요. (Sufficient sleep is necessary.)"
+        },
+        {
+          "word": "스트레스",
+          "reading": "Seuteureseu",
+          "meaning": "Stress",
+          "example_sentence": "스트레스를 받아요. (I'm stressed.)"
+        },
+        {
+          "word": "휴식",
+          "reading": "Hyusik",
+          "meaning": "Rest / Break",
+          "example_sentence": "휴식이 필요해요. (I need rest.)"
+        },
+        {
+          "word": "유산소운동",
+          "reading": "Yusanso-undong",
+          "meaning": "Aerobic exercise",
+          "example_sentence": "유산소운동은 심장에 좋아요. (Aerobic exercise is good for the heart.)"
+        }
+      ]
+    }
+  ],
+  "liar_game_data": {
+    "topic": "Korean Word 머리 (Meori)",
+    "question": "In Korean, the word 머리 (meori) can mean both 'head' and 'hair'. Which sentence uses 머리 to mean 'hair'?",
+    "options": [
+      "머리가 아파요. (Meori-ga apayo.)",
+      "머리를 감았어요. (Meori-reul gamasseoyo.)",
+      "머리를 부딪혔어요. (Meori-reul budichyeosseoyo.)",
+      "머리가 무거워요. (Meori-ga mugeoweoyo.)"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "머리를 감았어요 means 'I washed my hair.' The verb 감다 (gamda) specifically means to wash hair, so 머리 here refers to hair. In contrast: 머리가 아파요 (head hurts), 머리를 부딪혔어요 (bumped my head), and 머리가 무거워요 (head feels heavy) all use 머리 to mean 'head'. This dual meaning is common in Korean!"
+  }
+}

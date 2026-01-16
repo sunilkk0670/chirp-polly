@@ -1,0 +1,627 @@
+{
+  "moduleId": "ko_a2_m07",
+  "theme": "Entertainment & Media",
+  "title": "Entertainment & Media",
+  "level": "a2",
+  "language": "korean",
+  "order": 7,
+  "lessons": [
+    {
+      "order": 1,
+      "vocabularyItems": [
+        {
+          "word": "멀티플렉스",
+          "reading": "Meoltipullekseu",
+          "meaning": "Multiplex / Cinema complex",
+          "example_sentence": "멀티플렉스에서 영화를 골라 봐요. (Choose a movie at the multiplex.)"
+        },
+        {
+          "word": "예매",
+          "reading": "Yemae",
+          "meaning": "Advance booking / Ticketing",
+          "example_sentence": "영화표를 미리 예매했어요. (I booked the movie tickets in advance.)"
+        },
+        {
+          "word": "음악",
+          "reading": "Eumak",
+          "meaning": "Music",
+          "example_sentence": "클래식 음악을 듣는 것을 좋아해요. (I like listening to classical music.)"
+        },
+        {
+          "word": "소절",
+          "reading": "Sojeol",
+          "meaning": "Verse / Stanza / Phrase",
+          "example_sentence": "노래의 첫 소절이 인상적이에요. (The first verse of the song is impressive.)"
+        },
+        {
+          "word": "소셜미디어",
+          "reading": "Sosyeol midieo",
+          "meaning": "Social Media",
+          "example_sentence": "소셜미디어로 소식을 전해요. (Share news via social media.)"
+        },
+        {
+          "word": "스트리밍",
+          "reading": "Seuteureiming",
+          "meaning": "Streaming",
+          "example_sentence": "음악 스트리밍 서비스를 이용해요. (I use a music streaming service.)"
+        },
+        {
+          "word": "구독",
+          "reading": "Gudok",
+          "meaning": "Subscription",
+          "example_sentence": "유튜브 채널을 구독했어요. (I subscribed to the YouTube channel.)"
+        },
+        {
+          "word": "좋아요",
+          "reading": "Joayo",
+          "meaning": "Like (on social media)",
+          "example_sentence": "좋아요 버튼을 눌러 주세요. (Please press the Like button.)"
+        },
+        {
+          "word": "댓글",
+          "reading": "Daetgeul",
+          "meaning": "Comment",
+          "example_sentence": "동영상에 댓글을 남겼어요. (I left a comment on the video.)"
+        },
+        {
+          "word": "공유",
+          "reading": "Gongyu",
+          "meaning": "Share",
+          "example_sentence": "재미있는 기사를 공유했어요. (I shared an interesting article.)"
+        },
+        {
+          "word": "게시물",
+          "reading": "Gesimul",
+          "meaning": "Post / Content",
+          "example_sentence": "새 게시물이 올라왔어요. (A new post has been uploaded.)"
+        },
+        {
+          "word": "팔로워",
+          "reading": "Pallowo",
+          "meaning": "Follower",
+          "example_sentence": "팔로워 수가 늘었어요. (The number of followers increased.)"
+        },
+        {
+          "word": "슈퍼스타",
+          "reading": "Syupeoseuta",
+          "meaning": "Superstar",
+          "example_sentence": "그는 세계적인 슈퍼스타예요. (He is a global superstar.)"
+        },
+        {
+          "word": "연습생",
+          "reading": "Yeonseupsaeng",
+          "meaning": "Trainee",
+          "example_sentence": "오랫동안 연습생 생활을 했어요. (I was a trainee for a long time.)"
+        },
+        {
+          "word": "드라마",
+          "reading": "Deurama",
+          "meaning": "Drama / TV Series",
+          "example_sentence": "한국 드라마를 즐겨 봐요. (I enjoy watching Korean dramas.)"
+        },
+        {
+          "word": "예능",
+          "reading": "Yeneung",
+          "meaning": "Variety show",
+          "example_sentence": "주말에 예능 프로그램을 봐요. (I watch variety shows on weekends.)"
+        },
+        {
+          "word": "월드투어",
+          "reading": "Woldeutueo",
+          "meaning": "World tour",
+          "example_sentence": "월드투어 공연을 보러 가요. (I'm going to see a world tour performance.)"
+        },
+        {
+          "word": "티켓",
+          "reading": "Tiket",
+          "meaning": "Ticket",
+          "example_sentence": "티켓이 매진되었어요. (The tickets are sold out.)"
+        },
+        {
+          "word": "팬미팅",
+          "reading": "Paenmiting",
+          "meaning": "Fan meeting",
+          "example_sentence": "이번 주에 팬미팅이 열려요. (A fan meeting will be held this week.)"
+        },
+        {
+          "word": "응원",
+          "reading": "Eungwon",
+          "meaning": "Cheering / Support",
+          "example_sentence": "야구 경기에서 응원을 했어요. (I cheered at the baseball game.)"
+        },
+        {
+          "word": "영화감독",
+          "reading": "Yeonghwagamdok",
+          "meaning": "Film director",
+          "example_sentence": "유명한 영화감독을 만났어요. (I met a famous film director.)"
+        },
+        {
+          "word": "시나리오",
+          "reading": "Sinario",
+          "meaning": "Scenario / Script",
+          "example_sentence": "시나리오 작가가 되고 싶어요. (I want to be a scenario writer.)"
+        },
+        {
+          "word": "자막",
+          "reading": "Jamak",
+          "meaning": "Subtitles",
+          "example_sentence": "자막 없이 영화를 봐요. (I watch movies without subtitles.)"
+        },
+        {
+          "word": "더빙",
+          "reading": "Deobing",
+          "meaning": "Dubbing",
+          "example_sentence": "한국어 더빙판 애니메이션이에요. (It's a Korean dubbed animation.)"
+        },
+        {
+          "word": "장르",
+          "reading": "Jangreu",
+          "meaning": "Genre",
+          "example_sentence": "어떤 영화 장르를 좋아해요? (What movie genre do you like?)"
+        },
+        {
+          "word": "로맨틱코미디",
+          "reading": "Romaentik komidi",
+          "meaning": "Romantic comedy",
+          "example_sentence": "로맨틱 코미디 영화를 봤어요. (I watched a romantic comedy movie.)"
+        },
+        {
+          "word": "공포영화",
+          "reading": "Gongpoyeonghwa",
+          "meaning": "Horror movie",
+          "example_sentence": "공포영화는 너무 무서워요. (Horror movies are too scary.)"
+        },
+        {
+          "word": "액션영화",
+          "reading": "Aeksyeonyeonghwa",
+          "meaning": "Action movie",
+          "example_sentence": "액션영화는 긴장감이 넘쳐요. (Action movies are full of tension.)"
+        },
+        {
+          "word": "SF영화",
+          "reading": "SF yeonghwa",
+          "meaning": "SF / Sci-fi movie",
+          "example_sentence": "SF 영화에서 우주가 나와요. (Outer space appears in SF movies.)"
+        },
+        {
+          "word": "다큐멘터리",
+          "reading": "Dakyumenteori",
+          "meaning": "Documentary",
+          "example_sentence": "자연 다큐멘터리를 시청해요. (I watch nature documentaries.)"
+        },
+        {
+          "word": "시사회",
+          "reading": "Sisahoe",
+          "meaning": "Preview / Premiere",
+          "example_sentence": "영화 시사회에 초대받았어요. (I was invited to a movie premiere.)"
+        },
+        {
+          "word": "영화제",
+          "reading": "Yeonghwaje",
+          "meaning": "Film festival",
+          "example_sentence": "부산 국제 영화제에 가고 싶어요. (I want to go to the Busan International Film Festival.)"
+        },
+        {
+          "word": "레드카펫",
+          "reading": "Redeukapet",
+          "meaning": "Red carpet",
+          "example_sentence": "배우들이 레드카펫을 걸어요. (Actors walk the red carpet.)"
+        },
+        {
+          "word": "컴백",
+          "reading": "Keombaek",
+          "meaning": "Comeback",
+          "example_sentence": "가수가 새 앨범으로 컴백해요. (The singer is making a comeback with a new album.)"
+        },
+        {
+          "word": "음원차트",
+          "reading": "Eumwonichateu",
+          "meaning": "Music chart",
+          "example_sentence": "음원 차트 1위를 했어요. (It topped the music charts.)"
+        },
+        {
+          "word": "멜로디",
+          "reading": "Mellodi",
+          "meaning": "Melody",
+          "example_sentence": "멜로디가 정말 감미로워요. (The melody is very sweet.)"
+        },
+        {
+          "word": "박자",
+          "reading": "Bakja",
+          "meaning": "Beat / Time",
+          "example_sentence": "박자에 맞춰 춤을 춰요. (Dance to the beat.)"
+        },
+        {
+          "word": "리듬",
+          "reading": "Rideum",
+          "meaning": "Rhythm",
+          "example_sentence": "리듬감이 아주 좋아요. (The sense of rhythm is great.)"
+        },
+        {
+          "word": "작곡",
+          "reading": "Jakkok",
+          "meaning": "Composition",
+          "example_sentence": "직접 곡을 작곡했어요. (I composed the song myself.)"
+        },
+        {
+          "word": "프로듀서",
+          "reading": "Peurodyuseo",
+          "meaning": "Producer",
+          "example_sentence": "음반 프로듀서가 되고 싶어요. (I want to be a record producer.)"
+        },
+        {
+          "word": "현악기",
+          "reading": "Hyeon-akgi",
+          "meaning": "String instrument",
+          "example_sentence": "바이올린은 대표적인 현악기예요. (The violin is a representative string instrument.)"
+        },
+        {
+          "word": "베이스기타",
+          "reading": "Beiseu gita",
+          "meaning": "Bass guitar",
+          "example_sentence": "밴드에서 베이스 기타를 쳐요. (I play the bass guitar in the band.)"
+        },
+        {
+          "word": "신디사이저",
+          "reading": "Sindisaijeo",
+          "meaning": "Synthesizer / Keyboard",
+          "example_sentence": "신디사이저로 다양한 소리를 내요. (Make various sounds with a synthesizer.)"
+        },
+        {
+          "word": "드럼",
+          "reading": "Deureom",
+          "meaning": "Drum",
+          "example_sentence": "드럼 소리가 웅장해요. (The drum sound is grand.)"
+        },
+        {
+          "word": "바이올린",
+          "reading": "Baiollin",
+          "meaning": "Violin",
+          "example_sentence": "바이올린을 켜는 모습이 멋져요. (It looks cool playing the violin.)"
+        },
+        {
+          "word": "오케스트라",
+          "reading": "Okeseuteura",
+          "meaning": "Orchestra",
+          "example_sentence": "오케스트라 공연을 관람했어요. (I watched an orchestra performance.)"
+        },
+        {
+          "word": "뮤지컬",
+          "reading": "Myujikeol",
+          "meaning": "Musical",
+          "example_sentence": "뮤지컬 배우의 노래가 대단해요. (The musical actor's singing is amazing.)"
+        },
+        {
+          "word": "인플루언서",
+          "reading": "Inpeullueonseo",
+          "meaning": "Influencer",
+          "example_sentence": "인플루언서 마케팅이 유행이에요. (Influencer marketing is in vogue.)"
+        },
+        {
+          "word": "스트리머",
+          "reading": "Seuteurimeo",
+          "meaning": "Streamer",
+          "example_sentence": "좋아하는 스트리머의 방송을 봐요. (I watch my favorite streamer's broadcast.)"
+        },
+        {
+          "word": "브이로그",
+          "reading": "Beuilogeu",
+          "meaning": "Vlog",
+          "example_sentence": "일상 브이로그를 찍어 올려요. (I film and upload daily vlogs.)"
+        },
+        {
+          "word": "썸네일",
+          "reading": "Sseomneil",
+          "meaning": "Thumbnail",
+          "example_sentence": "썸네일이 자극적이에요. (The thumbnail is provocative.)"
+        },
+        {
+          "word": "업로드",
+          "reading": "Eobeurodeu",
+          "meaning": "Upload",
+          "example_sentence": "동영상을 업로드하는 데 시간이 걸려요. (It takes time to upload the video.)"
+        },
+        {
+          "word": "다운로드",
+          "reading": "Daunrodeu",
+          "meaning": "Download",
+          "example_sentence": "파일을 다운로드 받았어요. (I downloaded the file.)"
+        },
+        {
+          "word": "로그인",
+          "reading": "Logeu-in",
+          "meaning": "Login",
+          "example_sentence": "사이트에 로그인을 하세요. (Please log in to the site.)"
+        },
+        {
+          "word": "회원가입",
+          "reading": "Hoewongayip",
+          "meaning": "Sign up / Registration",
+          "example_sentence": "회원가입을 하면 혜택이 있어요. (There are benefits if you sign up.)"
+        },
+        {
+          "word": "비밀번호",
+          "reading": "Bimilbeonho",
+          "meaning": "Password",
+          "example_sentence": "비밀번호를 잊어버렸어요. (I forgot my password.)"
+        },
+        {
+          "word": "계정",
+          "reading": "Gyejeong",
+          "meaning": "Account",
+          "example_sentence": "계정을 새로 만들었어요. (I created a new account.)"
+        },
+        {
+          "word": "해킹",
+          "reading": "Haeking",
+          "meaning": "Hacking",
+          "example_sentence": "계정이 해킹당하지 않게 조심하세요. (Be careful not to get your account hacked.)"
+        },
+        {
+          "word": "어플",
+          "reading": "Eopeul",
+          "meaning": "App / Application",
+          "example_sentence": "유용한 어플을 추천해 주세요. (Please recommend a useful app.)"
+        },
+        {
+          "word": "웹사이트",
+          "reading": "Wepsaiteu",
+          "meaning": "Website",
+          "example_sentence": "공식 웹사이트를 방문하세요. (Visit the official website.)"
+        },
+        {
+          "word": "솜씨",
+          "reading": "Somssi",
+          "meaning": "Skill / Dexterity / Workmanship",
+          "example_sentence": "요리 솜씨가 정말 대단해요. (Your cooking skills are truly amazing.)"
+        },
+        {
+          "word": "여가시간",
+          "reading": "Yeogasigan",
+          "meaning": "Leisure time",
+          "example_sentence": "여가 시간에 운동을 해요. (I exercise in my leisure time.)"
+        },
+        {
+          "word": "희곡",
+          "reading": "Heigok",
+          "meaning": "Play / Drama script",
+          "example_sentence": "셰익스피어의 희곡을 읽었어요. (I read a play by Shakespeare.)"
+        },
+        {
+          "word": "특별전",
+          "reading": "Teukbyeoljeon",
+          "meaning": "Special exhibition",
+          "example_sentence": "박물관에서 특별전을 해요. (The museum is holding a special exhibition.)"
+        },
+        {
+          "word": "기념관",
+          "reading": "Ginyeomgwan",
+          "meaning": "Memorial hall",
+          "example_sentence": "역사 기념관을 방문했어요. (I visited the history memorial hall.)"
+        },
+        {
+          "word": "화랑",
+          "reading": "Hwarang",
+          "meaning": "Art gallery / Gallery (traditional term)",
+          "example_sentence": "인사동 화랑에서 그림을 봐요. (View paintings at a gallery in Insadong.)"
+        },
+        {
+          "word": "팝업스토어",
+          "reading": "Pabeopseuto-eo",
+          "meaning": "Pop-up store",
+          "example_sentence": "성수동 팝업스토어에 가봤어요. (I went to a pop-up store in Seongsu-dong.)"
+        },
+        {
+          "word": "수공예",
+          "reading": "Sugongye",
+          "meaning": "Handicraft / Hand-made craft",
+          "example_sentence": "수공예 박람회에 참석했어요. (I attended a handicraft fair.)"
+        },
+        {
+          "word": "티켓팅",
+          "reading": "Tiketting",
+          "meaning": "Ticketing",
+          "example_sentence": "티켓팅에 성공했어요. (I succeeded in ticketing.)"
+        },
+        {
+          "word": "굿즈",
+          "reading": "Gutjeu",
+          "meaning": "Merchandise / Goods",
+          "example_sentence": "공식 굿즈를 샀어요. (I bought official merchandise.)"
+        },
+        {
+          "word": "포토카드",
+          "reading": "Potokadeu",
+          "meaning": "Photo card",
+          "example_sentence": "아이돌 포토카드를 모아요. (I collect idol photo cards.)"
+        },
+        {
+          "word": "채널",
+          "reading": "Chaeneol",
+          "meaning": "Channel",
+          "example_sentence": "채널을 고정해 주세요. (Please keep the channel fixed.)"
+        },
+        {
+          "word": "방송",
+          "reading": "Bangsong",
+          "meaning": "Broadcast",
+          "example_sentence": "라디오 방송을 들어요. (I listen to the radio broadcast.)"
+        },
+        {
+          "word": "생방송",
+          "reading": "Saengbangsong",
+          "meaning": "Live broadcast",
+          "example_sentence": "내일 생방송이 있어요. (There is a live broadcast tomorrow.)"
+        },
+        {
+          "word": "녹화",
+          "reading": "Nokhwa",
+          "meaning": "Recording",
+          "example_sentence": "프로그램을 녹화해 두었어요. (I recorded the program.)"
+        },
+        {
+          "word": "대본",
+          "reading": "Daebon",
+          "meaning": "Script",
+          "example_sentence": "배우가 대본을 외워요. (The actor memorizes the script.)"
+        },
+        {
+          "word": "연출",
+          "reading": "Yeonchul",
+          "meaning": "Direction / Production",
+          "example_sentence": "연출이 아주 세련되었어요. (The direction is very sophisticated.)"
+        },
+        {
+          "word": "막장드라마",
+          "reading": "Makjang deurama",
+          "meaning": "Over-the-top drama",
+          "example_sentence": "요즘 막장 드라마가 인기예요. (Over-the-top dramas are popular lately.)"
+        },
+        {
+          "word": "사극",
+          "reading": "Sageuk",
+          "meaning": "Historical drama",
+          "example_sentence": "사극은 복장이 아주 화려해요. (Historical dramas have very fancy costumes.)"
+        },
+        {
+          "word": "시트콤",
+          "reading": "Siteukom",
+          "meaning": "Sitcom",
+          "example_sentence": "웃긴 시트콤을 보고 웃었어요. (I laughed watching a funny sitcom.)"
+        },
+        {
+          "word": "웹툰",
+          "reading": "Weptun",
+          "meaning": "Webtoon",
+          "example_sentence": "매일 웹툰을 챙겨 봐요. (I make sure to watch webtoons every day.)"
+        },
+        {
+          "word": "만화책",
+          "reading": "Manhwachaek",
+          "meaning": "Comic book",
+          "example_sentence": "만화책을 빌려 봤어요. (I borrowed and read a comic book.)"
+        },
+        {
+          "word": "소설",
+          "reading": "Soseol",
+          "meaning": "Novel",
+          "example_sentence": "장편 소설을 읽고 있어요. (I'm reading a full-length novel.)"
+        },
+        {
+          "word": "베스트셀러",
+          "reading": "Beseuteoselleo",
+          "meaning": "Bestseller",
+          "example_sentence": "서점에서 베스트셀러를 샀어요. (I bought a bestseller at the bookstore.)"
+        },
+        {
+          "word": "서점",
+          "reading": "Seojeom",
+          "meaning": "Bookstore",
+          "example_sentence": "서점에서 책을 골라요. (I pick out books at the bookstore.)"
+        },
+        {
+          "word": "열람실",
+          "reading": "Yeollamsil",
+          "meaning": "Reading room",
+          "example_sentence": "열람실에서 조용히 공부해요. (Study quietly in the reading room.)"
+        },
+        {
+          "word": "대출",
+          "reading": "Daechul",
+          "meaning": "Loan / Borrowing",
+          "example_sentence": "책 세 권을 대출했어요. (I borrowed three books.)"
+        },
+        {
+          "word": "반납",
+          "reading": "Bannap",
+          "meaning": "Return",
+          "example_sentence": "도서관에 책을 반납해요. (Return the book to the library.)"
+        },
+        {
+          "word": "잡지",
+          "reading": "Japji",
+          "meaning": "Magazine",
+          "example_sentence": "패션 잡지를 읽어요. (I read a fashion magazine.)"
+        },
+        {
+          "word": "신문",
+          "reading": "Sinmun",
+          "meaning": "Newspaper",
+          "example_sentence": "아침마다 신문을 봐요. (I read the newspaper every morning.)"
+        },
+        {
+          "word": "뉴스",
+          "reading": "Nyuseu",
+          "meaning": "News",
+          "example_sentence": "뉴스를 시청하고 있어요. (I am watching the news.)"
+        },
+        {
+          "word": "기자",
+          "reading": "Gija",
+          "meaning": "Reporter / Journalist",
+          "example_sentence": "기자가 사건을 취재해요. (The reporter covers the incident.)"
+        },
+        {
+          "word": "아나운서",
+          "reading": "Anaunseo",
+          "meaning": "Announcer",
+          "example_sentence": "아나운서의 발음이 정확해요. (The announcer's pronunciation is accurate.)"
+        },
+        {
+          "word": "광고",
+          "reading": "Gwanggo",
+          "meaning": "Advertisement",
+          "example_sentence": "과장 광고를 조심해야 해요. (You must be careful of exaggerated advertisements.)"
+        },
+        {
+          "word": "홍보",
+          "reading": "Hongbo",
+          "meaning": "Publicity / Promotion",
+          "example_sentence": "신제품 홍보 영상을 만들어요. (I'm making a promotional video for the new product.)"
+        },
+        {
+          "word": "축제",
+          "reading": "Chukje",
+          "meaning": "Festival",
+          "example_sentence": "마을 축제가 열렸어요. (A village festival was held.)"
+        },
+        {
+          "word": "이스포츠",
+          "reading": "I-seubocheu",
+          "meaning": "E-sports",
+          "example_sentence": "이스포츠 경기를 관람했어요. (I watched an E-sports match.)"
+        },
+        {
+          "word": "피시방",
+          "reading": "Pisibang",
+          "meaning": "PC Bang / Internet Cafe",
+          "example_sentence": "피시방에서 게임을 했어요. (I played games at the PC bang.)"
+        },
+        {
+          "word": "노래방",
+          "reading": "Noraebang",
+          "meaning": "Noraebang / Karaoke",
+          "example_sentence": "노래방에서 노래를 불러요. (I sing at the noraebang.)"
+        },
+        {
+          "word": "취미생활",
+          "reading": "Chwimisaenghwal",
+          "meaning": "Hobby life",
+          "example_sentence": "다양한 취미생활을 즐겨요. (I enjoy various hobbies.)"
+        }
+      ]
+    }
+  ],
+  "liar_game_data": {
+    "topic": "K-Drama Tropes",
+    "question": "Which of these common K-drama tropes involves a main character suddenly finding out they are from a wealthy family?",
+    "options": [
+      "The Love Triangle",
+      "The Amnesia Twist",
+      "The Hidden Heir / Secret Chaebol",
+      "The Contract Marriage"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "The 'Hidden Heir' or 'Secret Chaebol' trope is very popular in K-dramas, where a lead character living a humble life turns out to be the child of a wealthy business tycoon (Chaebol). Other tropes include Amnesia, Contract Marriages, and persistent Love Triangles!"
+  }
+}

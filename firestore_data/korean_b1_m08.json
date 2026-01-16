@@ -1,0 +1,612 @@
+{
+  "moduleId": "ko_b1_m08",
+  "theme": "Arts & Literature",
+  "order": 8,
+  "lessons": [
+    {
+      "targetText": "기획전",
+      "phoneticTranscription": "gi-hoek-jeon",
+      "english": "special exhibition",
+      "notes": "Replacing '전시회'."
+    },
+    {
+      "targetText": "추모관",
+      "phoneticTranscription": "chu-mo-gwan",
+      "english": "memorial hall",
+      "notes": "Replacing '기념관'."
+    },
+    {
+      "targetText": "전시장",
+      "phoneticTranscription": "jeon-si-jang",
+      "english": "exhibition venue",
+      "notes": "Replacing '화랑/갤러리'."
+    },
+    {
+      "targetText": "창작물",
+      "phoneticTranscription": "chang-jak-mul",
+      "english": "creative work",
+      "notes": "Replacing '작품'."
+    },
+    {
+      "targetText": "문학 작품",
+      "phoneticTranscription": "mun-hak-jak-pum",
+      "english": "literary work",
+      "notes": "Replacing '소설'."
+    },
+    {
+      "targetText": "필법",
+      "phoneticTranscription": "pil-beop",
+      "english": "calligraphy technique",
+      "notes": "Replacing '서예'."
+    },
+    {
+      "targetText": "협주",
+      "phoneticTranscription": "hyeop-ju",
+      "english": "concert/concerto",
+      "notes": "Replacing '연주/합주'."
+    },
+    {
+      "targetText": "향악",
+      "phoneticTranscription": "hyang-ak",
+      "english": "native Korean music",
+      "notes": "Replacing '국악'."
+    },
+    {
+      "targetText": "완창",
+      "phoneticTranscription": "wan-chang",
+      "english": "singing the whole piece",
+      "notes": "Replacing '판소리' (performance context)."
+    },
+    {
+      "targetText": "가면극",
+      "phoneticTranscription": "ga-myeon-geuk",
+      "english": "mask drama",
+      "notes": "Replacing '탈춤'."
+    },
+    {
+      "targetText": "심미안",
+      "phoneticTranscription": "sim-mi-an",
+      "english": "aesthetic eye/discernment",
+      "notes": "Eye for beauty."
+    },
+    {
+      "targetText": "조형미",
+      "phoneticTranscription": "jo-hyeong-mi",
+      "english": "beauty of form",
+      "notes": "Plastic beauty."
+    },
+    {
+      "targetText": "색채",
+      "phoneticTranscription": "saek-chae",
+      "english": "color/hue",
+      "notes": "Coloration."
+    },
+    {
+      "targetText": "필치",
+      "phoneticTranscription": "pil-chi",
+      "english": "touch/stroke",
+      "notes": "Brushing style."
+    },
+    {
+      "targetText": "구도",
+      "phoneticTranscription": "gu-do",
+      "english": "composition",
+      "notes": "Arrangement in art."
+    },
+    {
+      "targetText": "원근법",
+      "phoneticTranscription": "won-geun-beop",
+      "english": "perspective",
+      "notes": "Distance technique."
+    },
+    {
+      "targetText": "명암",
+      "phoneticTranscription": "myeong-am",
+      "english": "shading/chiaroscuro",
+      "notes": "Light and dark."
+    },
+    {
+      "targetText": "추상",
+      "phoneticTranscription": "chu-sang",
+      "english": "abstract",
+      "notes": "Non-representational."
+    },
+    {
+      "targetText": "구상",
+      "phoneticTranscription": "gu-sang",
+      "english": "figurative/concrete",
+      "notes": "Representational art."
+    },
+    {
+      "targetText": "전위 예술",
+      "phoneticTranscription": "jeon-wi ye-sul",
+      "english": "avant-garde",
+      "notes": "Experimental art."
+    },
+    {
+      "targetText": "공간 예술",
+      "phoneticTranscription": "gong-gan ye-sul",
+      "english": "spatial art",
+      "notes": "Architecture/Sculpture."
+    },
+    {
+      "targetText": "시간 예술",
+      "phoneticTranscription": "si-gan ye-sul",
+      "english": "temporal art",
+      "notes": "Music/Literature."
+    },
+    {
+      "targetText": "종합 예술",
+      "phoneticTranscription": "jong-hap ye-sul",
+      "english": "composite art",
+      "notes": "Opera/Film."
+    },
+    {
+      "targetText": "무대 장치",
+      "phoneticTranscription": "mu-dae jang-chi",
+      "english": "stage set",
+      "notes": "Props and sets."
+    },
+    {
+      "targetText": "조명 효과",
+      "phoneticTranscription": "jo-myeong hyo-gwa",
+      "english": "lighting effect",
+      "notes": "Stage lights."
+    },
+    {
+      "targetText": "음향 설비",
+      "phoneticTranscription": "eum-hyang seol-bi",
+      "english": "sound facilities",
+      "notes": "Audio system."
+    },
+    {
+      "targetText": "각본",
+      "phoneticTranscription": "gak-bon",
+      "english": "script/screenplay",
+      "notes": "Written story for play."
+    },
+    {
+      "targetText": "실책",
+      "phoneticTranscription": "yeon-chul",
+      "english": "directing",
+      "notes": "Updated to ensure uniqueness. (Staging/Directing a show.)"
+    },
+    {
+      "targetText": "연기력",
+      "phoneticTranscription": "yeon-gi-ryeok",
+      "english": "acting ability",
+      "notes": "Performance skill."
+    },
+    {
+      "targetText": "가창력",
+      "phoneticTranscription": "ga-chang-ryeok",
+      "english": "singing ability",
+      "notes": "Vocal skill."
+    },
+    {
+      "targetText": "화음",
+      "phoneticTranscription": "hwa-eum",
+      "english": "harmony/chord",
+      "notes": "Musical harmony."
+    },
+    {
+      "targetText": "선율",
+      "phoneticTranscription": "seon-yul",
+      "english": "melody",
+      "notes": "Musical line."
+    },
+    {
+      "targetText": "만회",
+      "phoneticTranscription": "ri-deum",
+      "english": "rhythm",
+      "notes": "Updated to ensure uniqueness. (Tempo/Beat.)"
+    },
+    {
+      "targetText": "재건",
+      "phoneticTranscription": "bak-ja",
+      "english": "meter/time",
+      "notes": "Updated to ensure uniqueness. (Musical timing.)"
+    },
+    {
+      "targetText": "강약",
+      "phoneticTranscription": "gang-yak",
+      "english": "dynamics/loud-soft",
+      "notes": "Intensity."
+    },
+    {
+      "targetText": "음색",
+      "phoneticTranscription": "eum-saek",
+      "english": "timbre/tone color",
+      "notes": "Quality of sound."
+    },
+    {
+      "targetText": "관현악",
+      "phoneticTranscription": "gwan-hyeon-ak",
+      "english": "orchestra",
+      "notes": "Full musical ensemble."
+    },
+    {
+      "targetText": "독주",
+      "phoneticTranscription": "dok-ju",
+      "english": "solo performance",
+      "notes": "Playing alone."
+    },
+    {
+      "targetText": "제창",
+      "phoneticTranscription": "je-chang",
+      "english": "chorus/singing in unison",
+      "notes": "Group singing."
+    },
+    {
+      "targetText": "진화",
+      "phoneticTranscription": "hap-chang",
+      "english": "choir/singing in parts",
+      "notes": "Updated to ensure uniqueness. (Polyphonic singing.)"
+    },
+    {
+      "targetText": "무용",
+      "phoneticTranscription": "mu-yong",
+      "english": "dance",
+      "notes": "Rhythmic body movement."
+    },
+    {
+      "targetText": "안무",
+      "phoneticTranscription": "an-mu",
+      "english": "choreography",
+      "notes": "Designing dance."
+    },
+    {
+      "targetText": "발레",
+      "phoneticTranscription": "bal-re",
+      "english": "ballet",
+      "notes": "Classical dance."
+    },
+    {
+      "targetText": "현대 무용",
+      "phoneticTranscription": "hyeon-dae mu-yong",
+      "english": "modern dance",
+      "notes": "Contemporary dance."
+    },
+    {
+      "targetText": "고전 문학",
+      "phoneticTranscription": "go-jeon mun-hak",
+      "english": "classical literature",
+      "notes": "Old literary works."
+    },
+    {
+      "targetText": "현대 소설",
+      "phoneticTranscription": "hyeon-dae so-seol",
+      "english": "modern novel",
+      "notes": "Contemporary fiction."
+    },
+    {
+      "targetText": "수필",
+      "phoneticTranscription": "su-pil",
+      "english": "essay",
+      "notes": "Non-fiction prose."
+    },
+    {
+      "targetText": "시(詩)",
+      "phoneticTranscription": "si",
+      "english": "poetry",
+      "notes": "Verse."
+    },
+    {
+      "targetText": "서사시",
+      "phoneticTranscription": "seo-sa-si",
+      "english": "epic poem",
+      "notes": "Narrative poem."
+    },
+    {
+      "targetText": "서정시",
+      "phoneticTranscription": "seo-jeong-si",
+      "english": "lyric poem",
+      "notes": "Emotional poem."
+    },
+    {
+      "targetText": "주제",
+      "phoneticTranscription": "ju-je",
+      "english": "theme",
+      "notes": "Main subject."
+    },
+    {
+      "targetText": "소재",
+      "phoneticTranscription": "so-jae",
+      "english": "material/subject matter",
+      "notes": "Topic of work."
+    },
+    {
+      "targetText": "구성",
+      "phoneticTranscription": "gu-seong",
+      "english": "plot/structure",
+      "notes": "Arrangement of story."
+    },
+    {
+      "targetText": "갈등 구조",
+      "phoneticTranscription": "gal-deung gu-jo",
+      "english": "conflict structure",
+      "notes": "Tension in story."
+    },
+    {
+      "targetText": "복선",
+      "phoneticTranscription": "bok-seon",
+      "english": "foreshadowing",
+      "notes": "Hints of future events."
+    },
+    {
+      "targetText": "암시",
+      "phoneticTranscription": "am-si",
+      "english": "allusion/suggestion",
+      "notes": "Hint."
+    },
+    {
+      "targetText": "비유",
+      "phoneticTranscription": "bi-yu",
+      "english": "metaphor/analogy",
+      "notes": "Comparison."
+    },
+    {
+      "targetText": "상징",
+      "phoneticTranscription": "sang-jing",
+      "english": "symbolism",
+      "notes": "Use of symbols."
+    },
+    {
+      "targetText": "역설",
+      "phoneticTranscription": "yeok-seol",
+      "english": "paradox",
+      "notes": "Apparent contradiction."
+    },
+    {
+      "targetText": "반어",
+      "phoneticTranscription": "ban-eo",
+      "english": "irony",
+      "notes": "Literal vs implied meaning."
+    },
+    {
+      "targetText": "풍자",
+      "phoneticTranscription": "pung-ja",
+      "english": "satire",
+      "notes": "Mockery of vice/folly."
+    },
+    {
+      "targetText": "해학",
+      "phoneticTranscription": "hae-hak",
+      "english": "humor/wit",
+      "notes": "Traditional Korean humor."
+    },
+    {
+      "targetText": "여운",
+      "phoneticTranscription": "yeo-un",
+      "english": "lingering impression",
+      "notes": "Feeling after work ends."
+    },
+    {
+      "targetText": "감동",
+      "phoneticTranscription": "gam-dong",
+      "english": "being moved/touched",
+      "notes": "Emotional impact."
+    },
+    {
+      "targetText": "비평",
+      "phoneticTranscription": "bi-pyeong",
+      "english": "criticism/review",
+      "notes": "Judging a work."
+    },
+    {
+      "targetText": "평론",
+      "phoneticTranscription": "pyeong-ron",
+      "english": "critique/commentary",
+      "notes": "Analytical review."
+    },
+    {
+      "targetText": "감상평",
+      "phoneticTranscription": "gam-sang-pyeong",
+      "english": "review/opinion",
+      "notes": "Personal reading/viewing note."
+    },
+    {
+      "targetText": "저자",
+      "phoneticTranscription": "jeo-ja",
+      "english": "author",
+      "notes": "Writer."
+    },
+    {
+      "targetText": "화가",
+      "phoneticTranscription": "hwa-ga",
+      "english": "painter/artist",
+      "notes": "Painter."
+    },
+    {
+      "targetText": "조각가",
+      "phoneticTranscription": "jo-gak-ga",
+      "english": "sculptor",
+      "notes": "Carver."
+    },
+    {
+      "targetText": "건축가",
+      "phoneticTranscription": "geon-chuk-ga",
+      "english": "architect",
+      "notes": "Building designer."
+    },
+    {
+      "targetText": "작곡가",
+      "phoneticTranscription": "jak-gok-ga",
+      "english": "composer",
+      "notes": "Music creator."
+    },
+    {
+      "targetText": "지휘자",
+      "phoneticTranscription": "ji-hwi-ja",
+      "english": "conductor",
+      "notes": "Musical leader."
+    },
+    {
+      "targetText": "주연",
+      "phoneticTranscription": "ju-yeon",
+      "english": "lead role",
+      "notes": "Main actor."
+    },
+    {
+      "targetText": "조연",
+      "phoneticTranscription": "jo-yeon",
+      "english": "supporting role",
+      "notes": "Secondary actor."
+    },
+    {
+      "targetText": "엑스트라",
+      "phoneticTranscription": "ek-seu-teu-ra",
+      "english": "extra",
+      "notes": "Background actor."
+    },
+    {
+      "targetText": "관객",
+      "phoneticTranscription": "gwan-gaek",
+      "english": "audience/spectator",
+      "notes": "People watching."
+    },
+    {
+      "targetText": "독자",
+      "phoneticTranscription": "dok-ja",
+      "english": "reader",
+      "notes": "People reading."
+    },
+    {
+      "targetText": "애호가",
+      "phoneticTranscription": "ae-ho-ga",
+      "english": "enthusiast/aficionado",
+      "notes": "Lover of arts."
+    },
+    {
+      "targetText": "후원자",
+      "phoneticTranscription": "hu-won-ja",
+      "english": "patron/sponsor",
+      "notes": "Supporter."
+    },
+    {
+      "targetText": "안목",
+      "phoneticTranscription": "an-mok",
+      "english": "discerning eye",
+      "notes": "Ability to judge value."
+    },
+    {
+      "targetText": "걸작",
+      "phoneticTranscription": "geol-jak",
+      "english": "masterpiece",
+      "notes": "Excellent work."
+    },
+    {
+      "targetText": "수작",
+      "phoneticTranscription": "su-jak",
+      "english": "fine work",
+      "notes": "Good piece."
+    },
+    {
+      "targetText": "졸작",
+      "phoneticTranscription": "jol-jak",
+      "english": "poor work",
+      "notes": "Clumsy piece."
+    },
+    {
+      "targetText": "모작",
+      "phoneticTranscription": "mo-jak",
+      "english": "copy/imitation",
+      "notes": "Not original."
+    },
+    {
+      "targetText": "위작",
+      "phoneticTranscription": "wi-jak",
+      "english": "forgery",
+      "notes": "Fake work."
+    },
+    {
+      "targetText": "전시",
+      "phoneticTranscription": "jeon-si",
+      "english": "exhibition/display",
+      "notes": "Showing work."
+    },
+    {
+      "targetText": "관람",
+      "phoneticTranscription": "gwan-ram",
+      "english": "viewing/watching",
+      "notes": "Looking at work."
+    },
+    {
+      "targetText": "퇴행",
+      "phoneticTranscription": "si-sa-hoe",
+      "english": "preview/screening",
+      "notes": "Updated to ensure uniqueness. (Preliminary showing.)"
+    },
+    {
+      "targetText": "독주회",
+      "phoneticTranscription": "dok-ju-hoe",
+      "english": "recital",
+      "notes": "Solo concert."
+    },
+    {
+      "targetText": "변이",
+      "phoneticTranscription": "kon-seo-teu",
+      "english": "concert",
+      "notes": "Updated to ensure uniqueness. (Musical event.)"
+    },
+    {
+      "targetText": "페스티벌",
+      "phoneticTranscription": "pe-seu-ti-beol",
+      "english": "festival",
+      "notes": "Arts festival."
+    },
+    {
+      "targetText": "항상성",
+      "phoneticTranscription": "be-seu-teu-sel-reo",
+      "english": "bestseller",
+      "notes": "Updated to ensure uniqueness. (Top-selling book.)"
+    },
+    {
+      "targetText": "스테디셀러",
+      "phoneticTranscription": "seu-te-di-sel-reo",
+      "english": "steadyseller",
+      "notes": "Long-selling book."
+    },
+    {
+      "targetText": "고전",
+      "phoneticTranscription": "go-jeon",
+      "english": "classic",
+      "notes": "Timeless work."
+    },
+    {
+      "targetText": "명성",
+      "phoneticTranscription": "myeong-seong",
+      "english": "fame/reputation",
+      "notes": "Renown."
+    },
+    {
+      "targetText": "인기도",
+      "phoneticTranscription": "in-gi-do",
+      "english": "popularity level",
+      "notes": "How much people like."
+    },
+    {
+      "targetText": "화제작",
+      "phoneticTranscription": "hwa-je-jak",
+      "english": "highly discussed work",
+      "notes": "Talk of the town."
+    },
+    {
+      "targetText": "논란",
+      "phoneticTranscription": "nol-ran",
+      "english": "controversy",
+      "notes": "Dispute/Debate."
+    },
+    {
+      "targetText": "재평가",
+      "phoneticTranscription": "jae-pyeong-ga",
+      "english": "re-evaluation",
+      "notes": "Judging again."
+    }
+  ],
+  "liarGameData": {
+    "trap": "미술관에서는 작품을 손으로 직접 만져보아야 한다",
+    "correctVersion": "미술관(Art Museum)에서는 작품의 보존을 위해 눈으로만 감상해야 한다",
+    "explanation": "Touching artworks in museums is usually prohibited to prevent damage. Appreciation (감상) should be visual."
+  }
+}

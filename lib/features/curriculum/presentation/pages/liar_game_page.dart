@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../services/web_tts_service.dart';
+import '../services/tts_service.dart';
 import '../widgets/chirpolly_logo.dart';
 
 class LiarGamePage extends StatefulWidget {
@@ -62,12 +62,12 @@ class _LiarGamePageState extends State<LiarGamePage> {
   }
 
   void _speak(String text) {
-    WebTtsService.speak(text, languageCode);
+    TtsService.speak(text, languageCode);
   }
 
   @override
   void dispose() {
-    WebTtsService.stop();
+    TtsService.stop();
     super.dispose();
   }
 

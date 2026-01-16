@@ -1,0 +1,627 @@
+{
+  "moduleId": "ko_a1_m04",
+  "title": "Shopping & Counters",
+  "level": "a1",
+  "language": "korean",
+  "order": 4,
+  "lessons": [
+    {
+      "order": 1,
+      "vocabularyItems": [
+        {
+          "word": "쇼핑",
+          "reading": "Syoping",
+          "meaning": "Shopping",
+          "example_sentence": "주말에 백화점에 쇼핑을 가요. (I go shopping at the department store on weekends.)"
+        },
+        {
+          "word": "가게",
+          "reading": "Gage",
+          "meaning": "Shop / Store",
+          "example_sentence": "동네 작은 가게에서 빵을 샀어요. (I bought bread at a small shop in the neighborhood.)"
+        },
+        {
+          "word": "백화점",
+          "reading": "Baekhwajeom",
+          "meaning": "Department store",
+          "example_sentence": "백화점은 항상 사람들로 붐벼요. (The department store is always crowded with people.)"
+        },
+        {
+          "word": "시장",
+          "reading": "Sijang",
+          "meaning": "Market",
+          "example_sentence": "남대문 시장은 볼거리가 많아요. (Namdaemun market has a lot to see.)"
+        },
+        {
+          "word": "마트",
+          "reading": "Mateu",
+          "meaning": "Mart / Supermarket",
+          "example_sentence": "마트에서 식재료를 장봤어요. (I bought groceries at the mart.)"
+        },
+        {
+          "word": "물건",
+          "reading": "Mulgeon",
+          "meaning": "Item / Stuff / Thing",
+          "example_sentence": "필요한 물건을 다 샀어요? (Did you buy all the items you needed?)"
+        },
+        {
+          "word": "돈",
+          "reading": "Don",
+          "meaning": "Money",
+          "example_sentence": "돈을 아껴 써야 해요. (You should use money sparingly.)"
+        },
+        {
+          "word": "지갑",
+          "reading": "Jigap",
+          "meaning": "Wallet",
+          "example_sentence": "가방 안에 지갑이 없어요. (There is no wallet in the bag.)"
+        },
+        {
+          "word": "가격",
+          "reading": "Gagyeok",
+          "meaning": "Price",
+          "example_sentence": "가격이 생각보다 비싸요. (The price is more expensive than I thought.)"
+        },
+        {
+          "word": "원",
+          "reading": "Won",
+          "meaning": "Won (Unit of Korean Currency) - Uses Sino-Korean numbers",
+          "example_sentence": "이 사과는 천 원이에요. (This apple is 1,000 Won.)"
+        },
+        {
+          "word": "현금",
+          "reading": "Hyeongeum",
+          "meaning": "Cash",
+          "example_sentence": "현금으로 계산하면 할인해 주나요? (Do you give a discount if I pay with cash?)"
+        },
+        {
+          "word": "카드",
+          "reading": "Kadeu",
+          "meaning": "Card (Credit/Debit)",
+          "example_sentence": "카드로 결제해도 됩니다. (You may pay by card.)"
+        },
+        {
+          "word": "영수증",
+          "reading": "Yeongsujeung",
+          "meaning": "Receipt",
+          "example_sentence": "영수증을 버리지 마세요. (Please don't throw away the receipt.)"
+        },
+        {
+          "word": "할인",
+          "reading": "Harin",
+          "meaning": "Discount",
+          "example_sentence": "지금 세일 기간이라 할인이 돼요. (It's on sale now, so there's a discount.)"
+        },
+        {
+          "word": "봉투",
+          "reading": "Bongtu",
+          "meaning": "Bag / Envelope",
+          "example_sentence": "봉투 필요하세요? (Do you need a bag?)"
+        },
+        {
+          "word": "사다",
+          "reading": "Sada",
+          "meaning": "To buy",
+          "example_sentence": "동생 줄 선물을 샀어요. (I bought a gift for my younger sibling.)"
+        },
+        {
+          "word": "팔다",
+          "reading": "Palda",
+          "meaning": "To sell",
+          "example_sentence": "그 가게는 신선한 과일을 팔아요. (That shop sells fresh fruit.)"
+        },
+        {
+          "word": "비싸다",
+          "reading": "Bissada",
+          "meaning": "To be expensive",
+          "example_sentence": "물가가 너무 비싸졌어요. (Prices have become too expensive.)"
+        },
+        {
+          "word": "싸다",
+          "reading": "Ssada",
+          "meaning": "To be cheap",
+          "example_sentence": "전통 시장은 채소가 싸요. (Vegetables are cheap at traditional markets.)"
+        },
+        {
+          "word": "고르다",
+          "reading": "Goreuda",
+          "meaning": "To choose / select",
+          "example_sentence": "마음에 드는 걸로 고르세요. (Please choose the one you like.)"
+        },
+        {
+          "word": "찾다",
+          "reading": "Chatda",
+          "meaning": "To look for / find",
+          "example_sentence": "어떤 옷을 찾으세요? (What kind of clothes are you looking for?)"
+        },
+        {
+          "word": "옷",
+          "reading": "Ot",
+          "meaning": "Clothes",
+          "example_sentence": "따뜻한 옷을 입어야 해요. (You should wear warm clothes.)"
+        },
+        {
+          "word": "바지",
+          "reading": "Baji",
+          "meaning": "Pants",
+          "example_sentence": "청바지가 잘 어울려요. (Blue jeans look good on you.)"
+        },
+        {
+          "word": "치마",
+          "reading": "Chima",
+          "meaning": "Skirt",
+          "example_sentence": "예쁜 꽃무늬 치마를 샀어요. (I bought a pretty floral skirt.)"
+        },
+        {
+          "word": "티셔츠",
+          "reading": "Tisyocheu",
+          "meaning": "T-shirt",
+          "example_sentence": "흰 티셔츠를 하나 샀어요. (I bought a white T-shirt.)"
+        },
+        {
+          "word": "코트",
+          "reading": "Koteu",
+          "meaning": "Coat",
+          "example_sentence": "겨울에는 코트가 필수예요. (A coat is essential in winter.)"
+        },
+        {
+          "word": "신발",
+          "reading": "Sinbal",
+          "meaning": "Shoes",
+          "example_sentence": "신발 사이즈가 어떻게 되세요? (What is your shoe size?)"
+        },
+        {
+          "word": "운동화",
+          "reading": "Undonghwa",
+          "meaning": "Sneakers / Sports shoes",
+          "example_sentence": "매일 운동화를 신어요. (I wear sneakers every day.)"
+        },
+        {
+          "word": "가방",
+          "reading": "Gabang",
+          "meaning": "Bag / Backpack",
+          "example_sentence": "가방이 너무 무거워요. (The bag is too heavy.)"
+        },
+        {
+          "word": "모자",
+          "reading": "Moja",
+          "meaning": "Hat / Cap",
+          "example_sentence": "여름에는 모자를 써야 해요. (You should wear a hat in summer.)"
+        },
+        {
+          "word": "안경",
+          "reading": "Angyeong",
+          "meaning": "Glasses",
+          "example_sentence": "안경을 새로 맞췄어요. (I got new glasses.)"
+        },
+        {
+          "word": "선글라스",
+          "reading": "Seonggeullaseu",
+          "meaning": "Sunglasses",
+          "example_sentence": "햇빛이 강해서 선글라스를 썼어요. (The sun was strong, so I wore sunglasses.)"
+        },
+        {
+          "word": "화장품",
+          "reading": "Hwajangpum",
+          "meaning": "Cosmetics",
+          "example_sentence": "한국 화장품은 정말 유명해요. (Korean cosmetics are very famous.)"
+        },
+        {
+          "word": "세수",
+          "reading": "Sesu",
+          "meaning": "Washing one's face",
+          "example_sentence": "일어나서 세수를 했어요. (I washed my face after waking up.)"
+        },
+        {
+          "word": "비누",
+          "reading": "Binu",
+          "meaning": "Soap",
+          "example_sentence": "비누 향기가 좋아요. (The scent of the soap is nice.)"
+        },
+        {
+          "word": "수건",
+          "reading": "Sugeon",
+          "meaning": "Towel",
+          "example_sentence": "수건 좀 가져다 주세요. (Please bring me a towel.)"
+        },
+        {
+          "word": "치약",
+          "reading": "Chiyak",
+          "meaning": "Toothpaste",
+          "example_sentence": "치약이 다 떨어졌어요. (The toothpaste is all gone.)"
+        },
+        {
+          "word": "칫솔",
+          "reading": "Chitsol",
+          "meaning": "Toothbrush",
+          "example_sentence": "칫솔을 바꿀 때가 됐어요. (It's time to change the toothbrush.)"
+        },
+        {
+          "word": "책",
+          "reading": "Chaek",
+          "meaning": "Book",
+          "example_sentence": "도서관에서 책을 빌렸어요. (I borrowed a book from the library.)"
+        },
+        {
+          "word": "연필",
+          "reading": "Yeonpil",
+          "meaning": "Pencil",
+          "example_sentence": "연필로 글씨를 써요. (I write with a pencil.)"
+        },
+        {
+          "word": "공책",
+          "reading": "Gongchaek",
+          "meaning": "Notebook",
+          "example_sentence": "공책에 메모를 했어요. (I took notes in the notebook.)"
+        },
+        {
+          "word": "볼펜",
+          "reading": "Bolpen",
+          "meaning": "Ballpoint pen",
+          "example_sentence": "볼펜 한 자루만 빌려주세요. (Please lend me a ballpoint pen.)"
+        },
+        {
+          "word": "선물하다",
+          "reading": "Seonmulhada",
+          "meaning": "To give a gift",
+          "example_sentence": "친구에게 생일 선물을 했어요. (I gave a birthday gift to my friend.)"
+        },
+        {
+          "word": "교환하다",
+          "reading": "Gyohwanhada",
+          "meaning": "To exchange",
+          "example_sentence": "사이즈가 안 맞아서 교환하고 싶어요. (It doesn't fit, so I want to exchange it.)"
+        },
+        {
+          "word": "환불하다",
+          "reading": "Hwanbulhada",
+          "meaning": "To refund",
+          "example_sentence": "영수증이 있으면 환불이 가능해요. (Refund is possible if you have the receipt.)"
+        },
+        {
+          "word": "깎다",
+          "reading": "Kkakkda",
+          "meaning": "To cut down / reduce price (Haggle)",
+          "example_sentence": "조금만 깎아 주세요. (Please give me a small discount/cut the price a bit.)"
+        },
+        {
+          "word": "덤",
+          "reading": "Deom",
+          "meaning": "Something extra for free",
+          "example_sentence": "시장에서 덤으로 사과 한 개를 더 받았어요. (I got an extra apple for free at the market.)"
+        },
+        {
+          "word": "개",
+          "reading": "Gae",
+          "meaning": "Counter for general objects - Uses Native Korean numbers",
+          "example_sentence": "사과 두 개 주세요. (Please give me two apples.)"
+        },
+        {
+          "word": "명",
+          "reading": "Myeong",
+          "meaning": "Counter for people - Uses Native Korean numbers",
+          "example_sentence": "식당에 손님이 열 명 있어요. (There are ten customers in the restaurant.)"
+        },
+        {
+          "word": "병",
+          "reading": "Byeong",
+          "meaning": "Counter for bottles - Uses Native Korean numbers",
+          "example_sentence": "맥주 세 병 주세요. (Please give me three bottles of beer.)"
+        },
+        {
+          "word": "권",
+          "reading": "Gwon",
+          "meaning": "Counter for books/magazines - Uses Native Korean numbers",
+          "example_sentence": "책 다섯 권을 샀어요. (I bought five books.)"
+        },
+        {
+          "word": "장",
+          "reading": "Jang",
+          "meaning": "Counter for flat objects (paper, photos, tickets) - Uses Native Korean numbers",
+          "example_sentence": "표 두 장 예매했어요. (I reserved two tickets.)"
+        },
+        {
+          "word": "마리",
+          "reading": "Mari",
+          "meaning": "Counter for animals - Uses Native Korean numbers",
+          "example_sentence": "강아지 한 마리를 키워요. (I have one puppy.)"
+        },
+        {
+          "word": "대",
+          "reading": "Dae",
+          "meaning": "Counter for machinery, cars, appliances - Uses Native Korean numbers",
+          "example_sentence": "집에 컴퓨터가 두 대 있어요. (There are two computers at home.)"
+        },
+        {
+          "word": "잔",
+          "reading": "Jan",
+          "meaning": "Counter for cups/glasses/drinks - Uses Native Korean numbers",
+          "example_sentence": "커피 한 잔 마셨어요. (I drank a cup of coffee.)"
+        },
+        {
+          "word": "살",
+          "reading": "Sal",
+          "meaning": "Counter for years of age - Uses Native Korean numbers",
+          "example_sentence": "저는 스무 살이에요. (I am twenty years old.)"
+        },
+        {
+          "word": "번",
+          "reading": "Beon",
+          "meaning": "Counter for times / occurrences",
+          "example_sentence": "한 번 더 말씀해 주세요. (Please say it one more time.)"
+        },
+        {
+          "word": "층",
+          "reading": "Cheung",
+          "meaning": "Counter for floors of a building - Uses Sino-Korean numbers",
+          "example_sentence": "우리 집은 삼 층이에요. (My house is on the third floor.)"
+        },
+        {
+          "word": "일",
+          "reading": "Il",
+          "meaning": "Counter for days (e.g. 1st, 2nd) - Uses Sino-Korean numbers",
+          "example_sentence": "오늘이 오 일이에요? (Is today the 5th?)"
+        },
+        {
+          "word": "월",
+          "reading": "Wol",
+          "meaning": "Counter for months (e.g. January, February) - Uses Sino-Korean numbers",
+          "example_sentence": "일 월은 아주 추워요. (January is very cold.)"
+        },
+        {
+          "word": "년",
+          "reading": "Nyeon",
+          "meaning": "Counter for years - Uses Sino-Korean numbers",
+          "example_sentence": "천 구백 팔십 칠 년에 태어났어요. (I was born in 1987.)"
+        },
+        {
+          "word": "분",
+          "reading": "Bun",
+          "meaning": "Counter for minutes - Uses Sino-Korean numbers",
+          "example_sentence": "십 분만 기다려 주세요. (Please wait for just ten minutes.)"
+        },
+        {
+          "word": "시간",
+          "reading": "Sigan",
+          "meaning": "Counter for duration of hours - Uses Native Korean numbers",
+          "example_sentence": "두 시간 동안 공부했어요. (I studied for two hours.)"
+        },
+        {
+          "word": "시",
+          "reading": "Si",
+          "meaning": "Counter for telling the hour of time - Uses Native Korean numbers",
+          "example_sentence": "지금은 오후 세 시예요. (It is 3 PM now.)"
+        },
+        {
+          "word": "쪽",
+          "reading": "Jjok",
+          "meaning": "Counter for pages / side",
+          "example_sentence": "백 쪽까지 읽었어요. (I read up to page 100.)"
+        },
+        {
+          "word": "벌",
+          "reading": "Beol",
+          "meaning": "Counter for clothes (sets/items)",
+          "example_sentence": "양복 한 벌을 맞췄어요. (I had a suit made.)"
+        },
+        {
+          "word": "켤레",
+          "reading": "Kyeolle",
+          "meaning": "Counter for pairs (shoes, socks, gloves)",
+          "example_sentence": "양말 세 켤레를 샀어요. (I bought three pairs of socks.)"
+        },
+        {
+          "word": "포기",
+          "reading": "Pogi",
+          "meaning": "Counter for heads of lettuce/cabbage",
+          "example_sentence": "배추 세 포기를 샀어요. (I bought three heads of cabbage.)"
+        },
+        {
+          "word": "송이",
+          "reading": "Song-i",
+          "meaning": "Counter for flowers / bunches (grapes/bananas)",
+          "example_sentence": "장미 열 송이를 선물했어요. (I gave ten roses as a gift.)"
+        },
+        {
+          "word": "상자",
+          "reading": "Sangja",
+          "meaning": "Counter for boxes",
+          "example_sentence": "귤 한 상자를 샀어요. (I bought a box of tangerines.)"
+        },
+        {
+          "word": "거스름돈",
+          "reading": "Geoseureumdon",
+          "meaning": "Change (money returned)",
+          "example_sentence": "거스름돈 여기 있습니다. (Here is your change.)"
+        },
+        {
+          "word": "조각",
+          "reading": "Jogak",
+          "meaning": "Counter for pieces / slices",
+          "example_sentence": "케이크 한 조각 먹을래요? (Do you want to eat a slice of cake?)"
+        },
+        {
+          "word": "알",
+          "reading": "Al",
+          "meaning": "Counter for small round objects (eggs, pills, grapes)",
+          "example_sentence": "달걀 세 알을 삶았어요. (I boiled three eggs.)"
+        },
+        {
+          "word": "그루",
+          "reading": "Geuru",
+          "meaning": "Counter for trees",
+          "example_sentence": "마당에 나무 한 그루를 심었어요. (I planted a tree in the yard.)"
+        },
+        {
+          "word": "다발",
+          "reading": "Dabal",
+          "meaning": "Counter for bundles / bouquets",
+          "example_sentence": "꽃다발을 받았어요. (I received a bouquet of flowers.)"
+        },
+        {
+          "word": "일시불",
+          "reading": "Ilsibul",
+          "meaning": "One-time payment / Lumpsum",
+          "example_sentence": "일시불로 결제해 주세요. (Please process it as a one-time payment.)"
+        },
+        {
+          "word": "점",
+          "reading": "Jeom",
+          "meaning": "Counter for pieces of meat/art, or points/marks",
+          "example_sentence": "고기 한 점 드셔 보세요. (Try a piece of meat.)"
+        },
+        {
+          "word": "개수",
+          "reading": "Gaesu",
+          "meaning": "Number of items",
+          "example_sentence": "사과의 개수를 세어 봐요. (Let's count the number of apples.)"
+        },
+        {
+          "word": "전화기",
+          "reading": "Jeonhwagi",
+          "meaning": "Telephone",
+          "example_sentence": "전화기 소리가 들려요. (I hear the phone ringing.)"
+        },
+        {
+          "word": "휴대폰",
+          "reading": "Hyudaepon",
+          "meaning": "Cell phone",
+          "example_sentence": "휴대폰을 잃어버렸어요. (I lost my cell phone.)"
+        },
+        {
+          "word": "컴퓨터",
+          "reading": "Keompyuteo",
+          "meaning": "Computer",
+          "example_sentence": "컴퓨터로 영화를 봐요. (I watch movies on the computer.)"
+        },
+        {
+          "word": "시계",
+          "reading": "Sigye",
+          "meaning": "Clock / Watch",
+          "example_sentence": "벽에 시계가 걸려 있어요. (A clock is hanging on the wall.)"
+        },
+        {
+          "word": "카메라",
+          "reading": "Kamera",
+          "meaning": "Camera",
+          "example_sentence": "카메라로 사진을 찍어요. (I take photos with a camera.)"
+        },
+        {
+          "word": "텔레비전",
+          "reading": "Tellebijeon",
+          "meaning": "Television",
+          "example_sentence": "텔레비전을 껐어요. (I turned off the television.)"
+        },
+        {
+          "word": "전자제품",
+          "reading": "Jeonjajepum",
+          "meaning": "Electronic appliances",
+          "example_sentence": "전자제품 매장에 갔어요. (I went to an electronic appliance store.)"
+        },
+        {
+          "word": "품질",
+          "reading": "Pumjil",
+          "meaning": "Quality",
+          "example_sentence": "품질이 아주 좋아요. (The quality is very good.)"
+        },
+        {
+          "word": "무게",
+          "reading": "Muge",
+          "meaning": "Weight",
+          "example_sentence": "짐의 무게가 얼마나 돼요? (How much does the luggage weigh?)"
+        },
+        {
+          "word": "길이",
+          "reading": "Giri",
+          "meaning": "Length",
+          "example_sentence": "치마 길이를 줄였어요. (I shortened the length of the skirt.)"
+        },
+        {
+          "word": "크기",
+          "reading": "Keugi",
+          "meaning": "Size (Volume)",
+          "example_sentence": "상자의 크기가 커요. (The size of the box is large.)"
+        },
+        {
+          "word": "색깔",
+          "reading": "Saekkal",
+          "meaning": "Color",
+          "example_sentence": "어떤 색깔을 좋아하세요? (What color do you like?)"
+        },
+        {
+          "word": "모양",
+          "reading": "Moyang",
+          "meaning": "Shape",
+          "example_sentence": "별 모양 쿠키를 만들었어요. (I made star-shaped cookies.)"
+        },
+        {
+          "word": "포장",
+          "reading": "Pojang",
+          "meaning": "Packaging / Wrapping",
+          "example_sentence": "선물 포장을 예쁘게 했어요. (I wrapped the gift nicely.)"
+        },
+        {
+          "word": "배달",
+          "reading": "Baedal",
+          "meaning": "Delivery",
+          "example_sentence": "음식 배달을 시켰어요. (I ordered food delivery.)"
+        },
+        {
+          "word": "쿠폰",
+          "reading": "Kupon",
+          "meaning": "Coupon",
+          "example_sentence": "쿠폰을 사용해서 싸게 샀어요. (I bought it cheaply using a coupon.)"
+        },
+        {
+          "word": "적립",
+          "reading": "Jeongnip",
+          "meaning": "Accumulation (of points)",
+          "example_sentence": "포인트 적립해 드릴까요? (Shall I accumulate points for you?)"
+        },
+        {
+          "word": "편의점",
+          "reading": "Pyonuijeom",
+          "meaning": "Convenience store",
+          "example_sentence": "편의점에서 음료수를 샀어요. (I bought a drink at the convenience store.)"
+        },
+        {
+          "word": "영업",
+          "reading": "Yeongeop",
+          "meaning": "Business / Sales",
+          "example_sentence": "오늘 영업 하나요? (Are you open for business today?)"
+        },
+        {
+          "word": "손님",
+          "reading": "Sonnim",
+          "meaning": "Guest / Customer",
+          "example_sentence": "손님이 오셨어요. (A guest has arrived.)"
+        },
+        {
+          "word": "주인",
+          "reading": "Juin",
+          "meaning": "Owner / Host",
+          "example_sentence": "가게 주인이 친절해요. (The shop owner is kind.)"
+        },
+        {
+          "word": "직원",
+          "reading": "Jigwon",
+          "meaning": "Employee / Staff",
+          "example_sentence": "직원이 안내를 도와주었어요. (The employee helped with the guidance.)"
+        }
+      ]
+    }
+  ],
+  "liar_game_data": {
+    "topic": "Market Haggling & Currency",
+    "question": "In a traditional Korean market (Sijang), what is a common and polite way to ask for a small discount while building rapport with the owner?",
+    "options": [
+      "Saying 'I won't pay the full price.'",
+      "Using the phrase 'Jom kkakk-a juseyo' (Please cut the price a bit) with a friendly smile.",
+      "Just walking away without saying anything.",
+      "Demanding a 50% discount immediately."
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Haggling is part of the traditional market experience in Korea. The phrase 'Kkakk-a juseyo' is commonly used. If the owner can't lower the price, they might give you 'Deom' (something extra for free) instead."
+  },
+  "theme": "Shopping & Counters"
+}

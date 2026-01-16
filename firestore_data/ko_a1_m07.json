@@ -1,0 +1,627 @@
+{
+  "moduleId": "ko_a1_m07",
+  "title": "Hobbies & Interests",
+  "level": "a1",
+  "language": "korean",
+  "order": 7,
+  "lessons": [
+    {
+      "order": 1,
+      "vocabularyItems": [
+        {
+          "word": "취미",
+          "reading": "Chwimi",
+          "meaning": "Hobby",
+          "example_sentence": "취미가 뭐예요? (What is your hobby?)"
+        },
+        {
+          "word": "관심사",
+          "reading": "Gwansimsa",
+          "meaning": "Interest",
+          "example_sentence": "요즘 관심사가 뭐예요? (What is your interest these days?)"
+        },
+        {
+          "word": "운동",
+          "reading": "Undong",
+          "meaning": "Exercise / Sports",
+          "example_sentence": "매일 운동을 해요. (I exercise every day.)"
+        },
+        {
+          "word": "축구",
+          "reading": "Chukgu",
+          "meaning": "Soccer",
+          "example_sentence": "축구 경기를 봤어요. (I watched a soccer match.)"
+        },
+        {
+          "word": "야구",
+          "reading": "Yagu",
+          "meaning": "Baseball",
+          "example_sentence": "야구장에 응원하러 가요. (I'm going to the baseball stadium to cheer.)"
+        },
+        {
+          "word": "농구",
+          "reading": "Nonggu",
+          "meaning": "Basketball",
+          "example_sentence": "친구들과 농구를 했어요. (I played basketball with friends.)"
+        },
+        {
+          "word": "배구",
+          "reading": "Baegu",
+          "meaning": "Volleyball",
+          "example_sentence": "배구 팀에서 활동해요. (I'm active in a volleyball team.)"
+        },
+        {
+          "word": "테니스",
+          "reading": "Teniseu",
+          "meaning": "Tennis",
+          "example_sentence": "테니스를 배우기 시작했어요. (I started learning tennis.)"
+        },
+        {
+          "word": "수영",
+          "reading": "Suyeong",
+          "meaning": "Swimming",
+          "example_sentence": "여름에는 수영이 최고예요. (Swimming is the best in summer.)"
+        },
+        {
+          "word": "조깅",
+          "reading": "Joging",
+          "meaning": "Jogging",
+          "example_sentence": "아침마다 조깅을 해요. (I go jogging every morning.)"
+        },
+        {
+          "word": "등산",
+          "reading": "Deungsan",
+          "meaning": "Hiking / Climbing",
+          "example_sentence": "주말에 산으로 등산을 가요. (I go hiking in the mountains on weekends.)"
+        },
+        {
+          "word": "독서",
+          "reading": "Dokseo",
+          "meaning": "Reading",
+          "example_sentence": "독서는 제 마음의 양식이에요. (Reading is food for my soul.)"
+        },
+        {
+          "word": "음악 감상",
+          "reading": "Eumak gamsang",
+          "meaning": "Listening to music",
+          "example_sentence": "음악 감상을 즐겨요. (I enjoy listening to music.)"
+        },
+        {
+          "word": "영화 감상",
+          "reading": "Yeonghwa gamsang",
+          "meaning": "Watching movies",
+          "example_sentence": "영화 감상이 제 취미예요. (Watching movies is my hobby.)"
+        },
+        {
+          "word": "여행",
+          "reading": "Yeohaeng",
+          "meaning": "Travel",
+          "example_sentence": "해외 여행을 가고 싶어요. (I want to go on an overseas trip.)"
+        },
+        {
+          "word": "사진 찍기",
+          "reading": "Sajin jikki",
+          "meaning": "Taking photos",
+          "example_sentence": "사진 찍기를 좋아해요. (I like taking photos.)"
+        },
+        {
+          "word": "그림 그리기",
+          "reading": "Geurim geurigi",
+          "meaning": "Drawing / Painting",
+          "example_sentence": "주말마다 그림 그리기를 해요. (I do drawing every weekend.)"
+        },
+        {
+          "word": "낚시",
+          "reading": "Naksi",
+          "meaning": "Fishing",
+          "example_sentence": "강에서 낚시를 했어요. (I went fishing in the river.)"
+        },
+        {
+          "word": "게임",
+          "reading": "Geim",
+          "meaning": "Game / Gaming",
+          "example_sentence": "컴퓨터 게임을 즐겨 해요. (I enjoy playing computer games.)"
+        },
+        {
+          "word": "춤",
+          "reading": "Chum",
+          "meaning": "Dance",
+          "example_sentence": "춤추는 걸 좋아하세요? (Do you like dancing?)"
+        },
+        {
+          "word": "노래",
+          "reading": "Norae",
+          "meaning": "Song / Singing",
+          "example_sentence": "노래 부르는 걸 잘해요. (I'm good at singing songs.)"
+        },
+        {
+          "word": "피아노",
+          "reading": "Piano",
+          "meaning": "Piano",
+          "example_sentence": "피아노를 연주해요. (I play the piano.)"
+        },
+        {
+          "word": "기타",
+          "reading": "Gita",
+          "meaning": "Guitar",
+          "example_sentence": "기타를 배우고 싶어요. (I want to learn the guitar.)"
+        },
+        {
+          "word": "공연",
+          "reading": "Gongyeon",
+          "meaning": "Performance / Show",
+          "example_sentence": "연극 공연을 봤어요. (I watched a theater performance.)"
+        },
+        {
+          "word": "콘서트",
+          "reading": "Konseoteu",
+          "meaning": "Concert",
+          "example_sentence": "좋아하는 가수의 콘서트에 가요. (I'm going to my favorite singer's concert.)"
+        },
+        {
+          "word": "전시회",
+          "reading": "Jeonsihoe",
+          "meaning": "Exhibition / Art show",
+          "example_sentence": "전시회 관람을 갔어요. (I went to see an exhibition.)"
+        },
+        {
+          "word": "동아리",
+          "reading": "Dong-ari",
+          "meaning": "Club (at school/work)",
+          "example_sentence": "대학교 동아리 활동을 해요. (I'm active in a university club.)"
+        },
+        {
+          "word": "가드닝",
+          "reading": "Gadeuning",
+          "meaning": "Gardening",
+          "example_sentence": "정원에서 가드닝을 해요. (I do gardening in the garden.)"
+        },
+        {
+          "word": "수집",
+          "reading": "Sujip",
+          "meaning": "Collection / Collecting",
+          "example_sentence": "우표 수집이 취미예요. (Collecting stamps is my hobby.)"
+        },
+        {
+          "word": "캠핑",
+          "reading": "Kaemping",
+          "meaning": "Camping",
+          "example_sentence": "산으로 캠핑을 떠나요. (Let's go camping in the mountains.)"
+        },
+        {
+          "word": "자전거 타기",
+          "reading": "Jajeongeo tagi",
+          "meaning": "Bicycle riding",
+          "example_sentence": "공원에서 자전거 타기를 좋아해요. (I like riding my bicycle in the park.)"
+        },
+        {
+          "word": "골프",
+          "reading": "Golpeu",
+          "meaning": "Golf",
+          "example_sentence": "아버지는 골프를 치세요. (My father plays golf.)"
+        },
+        {
+          "word": "당구",
+          "reading": "Danggu",
+          "meaning": "Billiards / Pool",
+          "example_sentence": "친구들과 당구를 쳤어요. (I played billiards with friends.)"
+        },
+        {
+          "word": "체스",
+          "reading": "Cheseu",
+          "meaning": "Chess",
+          "example_sentence": "체스를 두면 집중력이 좋아져요. (Playing chess improves your concentration.)"
+        },
+        {
+          "word": "바둑",
+          "reading": "Baduk",
+          "meaning": "Go (Board game)",
+          "example_sentence": "할아버지와 바둑을 두었어요. (I played Go with my grandfather.)"
+        },
+        {
+          "word": "요가",
+          "reading": "Yoga",
+          "meaning": "Yoga",
+          "example_sentence": "몸이 유연해지기 위해 요가를 해요. (I do yoga to become flexible.)"
+        },
+        {
+          "word": "필라테스",
+          "reading": "Pillateseu",
+          "meaning": "Pilates",
+          "example_sentence": "필라테스를 배우기 시작했어요. (I started learning pilates.)"
+        },
+        {
+          "word": "볼링",
+          "reading": "Bolling",
+          "meaning": "Bowling",
+          "example_sentence": "볼링장에서 점수를 많이 냈어요. (I scored high at the bowling center.)"
+        },
+        {
+          "word": "스키",
+          "reading": "Seuki",
+          "meaning": "Ski / Skiing",
+          "example_sentence": "겨울에 스키장에 가요. (I'm going to the ski resort in winter.)"
+        },
+        {
+          "word": "스노보드",
+          "reading": "Seunobodeu",
+          "meaning": "Snowboard",
+          "example_sentence": "스노보드 타는 걸 좋아해요. (I like snowboarding.)"
+        },
+        {
+          "word": "서핑",
+          "reading": "Seoping",
+          "meaning": "Surfing",
+          "example_sentence": "파도를 타며 서핑을 해요. (I go surfing while riding the waves.)"
+        },
+        {
+          "word": "드라이브",
+          "reading": "Deuraibeu",
+          "meaning": "Driving / A drive",
+          "example_sentence": "주말에 교외로 드라이브를 가요. (I go for a drive to the suburbs on weekends.)"
+        },
+        {
+          "word": "등용문",
+          "reading": "Deung-yongmun",
+          "meaning": "Gateway to success",
+          "example_sentence": "이 대회는 가수의 등용문이에요. (This competition is a gateway to success for singers.)"
+        },
+        {
+          "word": "열광하다",
+          "reading": "Yeol-gwanghada",
+          "meaning": "To be enthusiastic / fanatic",
+          "example_sentence": "팬들이 가수의 노래에 열광해요. (Fans are enthusiastic about the singer's song.)"
+        },
+        {
+          "word": "즐기다",
+          "reading": "Jeulgida",
+          "meaning": "To enjoy",
+          "example_sentence": "순간을 즐겁게 즐기세요. (Please enjoy the moment happily.)"
+        },
+        {
+          "word": "시도하다",
+          "reading": "Sidohada",
+          "meaning": "To try / attempt",
+          "example_sentence": "새로운 취미를 시도해 보세요. (Please try a new hobby.)"
+        },
+        {
+          "word": "익히다",
+          "reading": "Ikhida",
+          "meaning": "To master / learn / ripen",
+          "example_sentence": "기술을 익히는 데 시간이 걸려요. (It takes time to master a skill.)"
+        },
+        {
+          "word": "참여하다",
+          "reading": "Chamyeohada",
+          "meaning": "To participate",
+          "example_sentence": "마라톤 대회에 참여했어요. (I participated in a marathon competition.)"
+        },
+        {
+          "word": "활동",
+          "reading": "Hwal-dong",
+          "meaning": "Activity",
+          "example_sentence": "야외 활동을 좋아해요. (I like outdoor activities.)"
+        },
+        {
+          "word": "가입하다",
+          "reading": "Ga-iphada",
+          "meaning": "To join / sign up",
+          "example_sentence": "수영 동호회에 가입했어요. (I joined a swimming club.)"
+        },
+        {
+          "word": "탈퇴하다",
+          "reading": "Taltoehada",
+          "meaning": "To leave / withdraw (club)",
+          "example_sentence": "너무 바빠서 동아리를 탈퇴했어요. (I left the club because I was too busy.)"
+        },
+        {
+          "word": "대회",
+          "reading": "Daehoe",
+          "meaning": "Competition / Tournament",
+          "example_sentence": "노래 대회에서 1등을 했어요. (I won 1st place in the singing competition.)"
+        },
+        {
+          "word": "응원하다",
+          "reading": "Eung-wonhada",
+          "meaning": "To cheer / support",
+          "example_sentence": "우리 팀을 열심히 응원해요. (I cheer hard for our team.)"
+        },
+        {
+          "word": "팬",
+          "reading": "Paen",
+          "meaning": "Fan",
+          "example_sentence": "저는 BTS의 팬이에요. (I am a fan of BTS.)"
+        },
+        {
+          "word": "스타",
+          "reading": "Seuta",
+          "meaning": "Star (Celebrity)",
+          "example_sentence": "월드 스타를 직접 봤어요. (I saw a world star in person.)"
+        },
+        {
+          "word": "연예인",
+          "reading": "Yeonye-in",
+          "meaning": "Entertainer / Celebrity",
+          "example_sentence": "연예인 광고가 많이 보여요. (I see many celebrity advertisements.)"
+        },
+        {
+          "word": "아이돌",
+          "reading": "Aidol",
+          "meaning": "Idol (K-pop star)",
+          "example_sentence": "K-pop 아이돌은 인기가 많아요. (K-pop idols are very popular.)"
+        },
+        {
+          "word": "전문가",
+          "reading": "Jeonmungga",
+          "meaning": "Expert",
+          "example_sentence": "그분은 요리 전문가예요. (He is a cooking expert.)"
+        },
+        {
+          "word": "아마추어",
+          "reading": "Amachueo",
+          "meaning": "Amateur",
+          "example_sentence": "아마추어 화가지만 그림을 아주 잘 그려요. (He's an amateur painter, but he draws very well.)"
+        },
+        {
+          "word": "취향",
+          "reading": "Chwihyang",
+          "meaning": "Taste / Preference",
+          "example_sentence": "각자의 취향을 존중해요. (I respect everyone's tastes.)"
+        },
+        {
+          "word": "열정",
+          "reading": "Yeoljeong",
+          "meaning": "Passion",
+          "example_sentence": "취미에 대한 열정이 대단해요. (The passion for the hobby is great.)"
+        },
+        {
+          "word": "재능",
+          "reading": "Jaeneung",
+          "meaning": "Talent",
+          "example_sentence": "노래에 천부적인 재능이 있어요. (He has a natural talent for singing.)"
+        },
+        {
+          "word": "특기",
+          "reading": "Teukgi",
+          "meaning": "Specialty / Special talent",
+          "example_sentence": "그녀의 특기는 피아노 연주예요. (Her specialty is playing the piano.)"
+        },
+        {
+          "word": "동기",
+          "reading": "Donggi",
+          "meaning": "Motivation / Motive",
+          "example_sentence": "새로운 취미를 시작한 동기가 뭐예요? (What was the motivation for starting a new hobby?)"
+        },
+        {
+          "word": "목표",
+          "reading": "Mokpyo",
+          "meaning": "Goal / Objective",
+          "example_sentence": "올해 목표는 마라톤 완주예요. (My goal for this year is to finish a marathon.)"
+        },
+        {
+          "word": "성취감",
+          "reading": "Seongchwigam",
+          "meaning": "Sense of accomplishment",
+          "example_sentence": "운동 후에 느끼는 성취감이 좋아요. (I like the sense of accomplishment I feel after exercising.)"
+        },
+        {
+          "word": "스트레스 해소",
+          "reading": "Seuteureseu haeso",
+          "meaning": "Stress relief",
+          "example_sentence": "등산은 스트레스 해소에 도움이 돼요. (Hiking helps with stress relief.)"
+        },
+        {
+          "word": "여가 시간",
+          "reading": "Yeoga sigan",
+          "meaning": "Leisure time",
+          "example_sentence": "여가 시간에 무엇을 하세요? (What do you do in your leisure time?)"
+        },
+        {
+          "word": "기분 전환",
+          "reading": "Gibun jeonhwan",
+          "meaning": "Change of mood / Refreshment",
+          "example_sentence": "기분 전환을 위해 꽃을 샀어요. (I bought flowers to change my mood.)"
+        },
+        {
+          "word": "활력소",
+          "reading": "Hwallyeokso",
+          "meaning": "Source of energy / Vitality",
+          "example_sentence": "취미는 제 삶의 활력소예요. (My hobby is the source of energy in my life.)"
+        },
+        {
+          "word": "꾸준히",
+          "reading": "Kkujun-hi",
+          "meaning": "Consistently / Steadily",
+          "example_sentence": "영어 공부를 꾸준히 해야 해요. (You should study English consistently.)"
+        },
+        {
+          "word": "진지하다",
+          "reading": "Jinjihada",
+          "meaning": "To be serious",
+          "example_sentence": "취미지만 아주 진지하게 임해요. (It's a hobby, but I take it very seriously.)"
+        },
+        {
+          "word": "몰입하다",
+          "reading": "Moriphada",
+          "meaning": "To be immersed in",
+          "example_sentence": "게임에 너무 몰입하면 안 돼요. (You shouldn't be too immersed in the game.)"
+        },
+        {
+          "word": "도전하다",
+          "reading": "Dojeonhada",
+          "meaning": "To challenge oneself",
+          "example_sentence": "새로운 운동에 도전해 보세요. (Try challenging yourself with a new sport.)"
+        },
+        {
+          "word": "경험",
+          "reading": "Gyeong-heom",
+          "meaning": "Experience",
+          "example_sentence": "다양한 경험을 쌓는 게 중요해요. (Accumulating various experiences is important.)"
+        },
+        {
+          "word": "성장하다",
+          "reading": "Seongjanghada",
+          "meaning": "To grow",
+          "example_sentence": "취미 활동을 통해 더 성장했어요. (I grew more through hobby activities.)"
+        },
+        {
+          "word": "만족하다",
+          "reading": "Manjokhada",
+          "meaning": "To be satisfied",
+          "example_sentence": "현재 생활에 만족하세요? (Are you satisfied with your current life?)"
+        },
+        {
+          "word": "도구",
+          "reading": "Dogu",
+          "meaning": "Tool / Equipment",
+          "example_sentence": "낚시 도구를 챙겨서 떠나요. (Let's pack the fishing gear and leave.)"
+        },
+        {
+          "word": "장비",
+          "reading": "Jangbi",
+          "meaning": "Equipment / Gear",
+          "example_sentence": "등산 장비가 아주 비싸요. (Hiking gear is very expensive.)"
+        },
+        {
+          "word": "재료",
+          "reading": "Jaeryo",
+          "meaning": "Material / Ingredients",
+          "example_sentence": "그림 재료를 사러 화방에 갔어요. (I went to the art supply store to buy drawing materials.)"
+        },
+        {
+          "word": "악기",
+          "reading": "Akgi",
+          "meaning": "Musical instrument",
+          "example_sentence": "다룰 줄 아는 악기가 있나요? (Is there a musical instrument you can play?)"
+        },
+        {
+          "word": "작품",
+          "reading": "Jakpum",
+          "meaning": "Work (of art/literature)",
+          "example_sentence": "멋진 예술 작품을 감상했어요. (I enjoyed a wonderful work of art.)"
+        },
+        {
+          "word": "연주",
+          "reading": "Yeonju",
+          "meaning": "Performance (Musical)",
+          "example_sentence": "피아노 연주가 정말 감동적이에요. (The piano performance is truly moving.)"
+        },
+        {
+          "word": "합창",
+          "reading": "Hapchang",
+          "meaning": "Chorus / Choir",
+          "example_sentence": "동아리에서 합창 연습을 해요. (I practice choir in the club.)"
+        },
+        {
+          "word": "공예",
+          "reading": "Gong-ye",
+          "meaning": "Craft / Craftsmanship",
+          "example_sentence": "도자기 공예를 배우고 있어요. (I'm learning pottery craft.)"
+        },
+        {
+          "word": "서예",
+          "reading": "Seoye",
+          "meaning": "Calligraphy",
+          "example_sentence": "붓글씨 서예를 연습해요. (I practice brush calligraphy.)"
+        },
+        {
+          "word": "뜨개질",
+          "reading": "Tteugaejil",
+          "meaning": "Knitting",
+          "example_sentence": "겨울에는 뜨개질이 재미있어요. (Knitting is fun in winter.)"
+        },
+        {
+          "word": "십자수",
+          "reading": "Sipjasu",
+          "meaning": "Cross-stitch",
+          "example_sentence": "십자수로 선물용 쿠션을 만들었어요. (I made a gift cushion with cross-stitch.)"
+        },
+        {
+          "word": "요트",
+          "reading": "Yoteu",
+          "meaning": "Yacht",
+          "example_sentence": "바다에서 요트를 타는 게 꿈이에요. (Riding a yacht on the sea is my dream.)"
+        },
+        {
+          "word": "카누",
+          "reading": "Kanu",
+          "meaning": "Canoe",
+          "example_sentence": "강에서 카누를 타며 풍경을 즐겨요. (I enjoy the scenery while canoeing on the river.)"
+        },
+        {
+          "word": "패러글라이딩",
+          "reading": "Paereogeullaiding",
+          "meaning": "Paragliding",
+          "example_sentence": "하늘을 나는 패러글라이딩에 도전했어요. (I challenged myself with paragliding through the sky.)"
+        },
+        {
+          "word": "암벽 등반",
+          "reading": "Ambyeok deungban",
+          "meaning": "Rock climbing",
+          "example_sentence": "암벽 등반은 아주 박진감 넘쳐요. (Rock climbing is very thrilling/exciting.)"
+        },
+        {
+          "word": "마라톤",
+          "reading": "Maraton",
+          "meaning": "Marathon",
+          "example_sentence": "마라톤 대회 준비를 하고 있어요. (I'm preparing for a marathon competition.)"
+        },
+        {
+          "word": "명상",
+          "reading": "Myeongsang",
+          "meaning": "Meditation",
+          "example_sentence": "매일 아침 명상으로 하루를 시작해요. (I start the day with meditation every morning.)"
+        },
+        {
+          "word": "봉사 활동",
+          "reading": "Bongsa hwal-dong",
+          "meaning": "Volunteer activity",
+          "example_sentence": "주말마다 유기견 봉사 활동을 해요. (I do rescue dog volunteering every weekend.)"
+        },
+        {
+          "word": "SNS",
+          "reading": "Aeseu-ane-ae-seu",
+          "meaning": "Social Network Service",
+          "example_sentence": "취미 사진을 SNS에 올렸어요. (I uploaded hobby photos on SNS.)"
+        },
+        {
+          "word": "연기",
+          "reading": "Yeon-gi",
+          "meaning": "Acting",
+          "example_sentence": "연기 학원에 다니고 있어요. (I'm attending an acting academy.)"
+        },
+        {
+          "word": "연극",
+          "reading": "Yeongeuk",
+          "meaning": "Play / Drama",
+          "example_sentence": "주말에 소극장에서 연극을 봤어요. (I watched a play at a small theater on the weekend.)"
+        },
+        {
+          "word": "도자기",
+          "reading": "Dojagi",
+          "meaning": "Ceramics / Pottery",
+          "example_sentence": "직접 도자기를 빚어 봤어요. (I tried making pottery myself.)"
+        },
+        {
+          "word": "서핑보드",
+          "reading": "Seoping-bodeu",
+          "meaning": "Surfboard",
+          "example_sentence": "새 서핑보드를 샀어요. (I bought a new surfboard.)"
+        }
+      ]
+    }
+  ],
+  "liar_game_data": {
+    "topic": "PC Bang (Gaming) Culture",
+    "question": "In Korea, where do young people frequently go to play high-quality video games together while ordering food from their seats?",
+    "options": [
+      "The Public Library",
+      "The PC Bang (Internet Cafe)",
+      "The Traditional Market",
+      "The Movie Theater"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "PC Bangs (Internet Cafes) are a cornerstone of Korean gaming culture. They offer high-spec computers and have a built-in system where you can order food (like Ramyun or snacks) directly to your desk while gaming."
+  },
+  "theme": "Hobbies & Interests"
+}

@@ -1,0 +1,627 @@
+{
+  "moduleId": "ko_a2_m09",
+  "theme": "Technology & Communication",
+  "title": "Technology & Communication",
+  "level": "a2",
+  "language": "korean",
+  "order": 9,
+  "lessons": [
+    {
+      "order": 1,
+      "vocabularyItems": [
+        {
+          "word": "인공지능",
+          "reading": "In-gong-jineung",
+          "meaning": "Artificial Intelligence (AI)",
+          "example_sentence": "인공지능 기술이 빠르게 발전하고 있어요. (AI technology is developing rapidly.)"
+        },
+        {
+          "word": "단톡방",
+          "reading": "Dantokbang",
+          "meaning": "Group chatroom",
+          "example_sentence": "친구들과 단톡방에서 약속을 정했어요. (We made an appointment with friends in the group chat.)"
+        },
+        {
+          "word": "충전기",
+          "reading": "Chungjeon-gi",
+          "meaning": "Charger",
+          "example_sentence": "휴대폰 충전기를 빌려줄 수 있나요? (Can you lend me a phone charger?)"
+        },
+        {
+          "word": "접속하다",
+          "reading": "Jeopsok-hada",
+          "meaning": "To connect / To log in",
+          "example_sentence": "와이파이에 접속했어요. (I connected to the WiFi.)"
+        },
+        {
+          "word": "검색하다",
+          "reading": "Geomsaek-hada",
+          "meaning": "To search",
+          "example_sentence": "궁금한 것을 인터넷으로 검색해요. (I search for things I'm curious about on the internet.)"
+        },
+        {
+          "word": "공유하다",
+          "reading": "Gongyu-hada",
+          "meaning": "To share",
+          "example_sentence": "좋은 정보를 친구와 공유했어요. (I shared good information with a friend.)"
+        },
+        {
+          "word": "동영상",
+          "reading": "Dong-yeongsang",
+          "meaning": "Video",
+          "example_sentence": "재미있는 동영상을 시청해요. (I watch an interesting video.)"
+        },
+        {
+          "word": "악플",
+          "reading": "Akple",
+          "meaning": "Malicious comment",
+          "example_sentence": "악플은 사람에게 상처를 줘요. (Malicious comments hurt people.)"
+        },
+        {
+          "word": "문자",
+          "reading": "Munja",
+          "meaning": "Text message",
+          "example_sentence": "엄마에게 문자를 보냈어요. (I sent a text to my mom.)"
+        },
+        {
+          "word": "통화하다",
+          "reading": "Tonghwa-hada",
+          "meaning": "To talk on the phone",
+          "example_sentence": "집에 가는 길에 친구와 통화했어요. (I talked on the phone with a friend on the way home.)"
+        },
+        {
+          "word": "데이터",
+          "reading": "Deiteo",
+          "meaning": "Data",
+          "example_sentence": "이번 달 데이터를 다 썼어요. (I used up all my data for this month.)"
+        },
+        {
+          "word": "무선",
+          "reading": "Museon",
+          "meaning": "Wireless",
+          "example_sentence": "무선 이어폰을 쓰고 있어요. (I'm using wireless earphones.)"
+        },
+        {
+          "word": "유선",
+          "reading": "Yuseon",
+          "meaning": "Wired",
+          "example_sentence": "유선 인터넷이 더 안정적이에요. (Wired internet is more stable.)"
+        },
+        {
+          "word": "휴대용PC",
+          "reading": "Hyudaeyong PC",
+          "meaning": "Portable PC",
+          "example_sentence": "이 휴대용 PC는 가벼워요. (This portable PC is lightweight.)"
+        },
+        {
+          "word": "본체",
+          "reading": "Bonche",
+          "meaning": "Main body / PC case",
+          "example_sentence": "컴퓨터 본체에서 소리가 나요. (There is a sound coming from the PC case.)"
+        },
+        {
+          "word": "최신단말기",
+          "reading": "Choesin-danmalgi",
+          "meaning": "Latest terminal / Handset",
+          "example_sentence": "최신 단말기로 교체했어요. (I switched to the latest handset.)"
+        },
+        {
+          "word": "배터리",
+          "reading": "Baeteori",
+          "meaning": "Battery",
+          "example_sentence": "배터리가 부족해요. (The battery is low.)"
+        },
+        {
+          "word": "화면",
+          "reading": "Hwamyeon",
+          "meaning": "Screen",
+          "example_sentence": "컴퓨터 화면이 안 나와요. (The computer screen is not appearing.)"
+        },
+        {
+          "word": "고장",
+          "reading": "Gojang",
+          "meaning": "Breakdown / Out of order",
+          "example_sentence": "복사기가 고장 났어요. (The copier is out of order.)"
+        },
+        {
+          "word": "수선",
+          "reading": "Suseon",
+          "meaning": "Repair / Mending (clothes/etc)",
+          "example_sentence": "망가진 가방을 수선했어요. (I repaired the broken bag.)"
+        },
+        {
+          "word": "프로그램",
+          "reading": "Peurogeuraem",
+          "meaning": "Program",
+          "example_sentence": "새로운 프로그램을 설치했어요. (I installed a new program.)"
+        },
+        {
+          "word": "파일",
+          "reading": "Pail",
+          "meaning": "File",
+          "example_sentence": "파일을 이메일로 보냈습니다. (I sent the file via email.)"
+        },
+        {
+          "word": "저장",
+          "reading": "Jeojang",
+          "meaning": "Save / Storage",
+          "example_sentence": "문서를 꼭 저장하세요. (Be sure to save the document.)"
+        },
+        {
+          "word": "삭제",
+          "reading": "Sakje",
+          "meaning": "Delete",
+          "example_sentence": "필요 없는 앱을 삭제했어요. (I deleted unnecessary apps.)"
+        },
+        {
+          "word": "복사",
+          "reading": "Boksa",
+          "meaning": "Copy",
+          "example_sentence": "글자를 복사해서 붙여넣으세요. (Copy and paste the letters.)"
+        },
+        {
+          "word": "붙여넣기",
+          "reading": "Butyeoneotgi",
+          "meaning": "Paste",
+          "example_sentence": "링크를 붙여넣기 하세요. (Please paste the link.)"
+        },
+        {
+          "word": "게시",
+          "reading": "Gesi",
+          "meaning": "Posting / Notice",
+          "example_sentence": "공지사항을 게시했어요. (Posted an announcement.)"
+        },
+        {
+          "word": "내려받기",
+          "reading": "Naeryeobatgi",
+          "meaning": "Download (native term)",
+          "example_sentence": "앱을 내려받기 하세요. (Please download the app.)"
+        },
+        {
+          "word": "앱",
+          "reading": "Aep",
+          "meaning": "App / Application",
+          "example_sentence": "지하철 앱을 자주 써요. (I often use the subway app.)"
+        },
+        {
+          "word": "인증번호",
+          "reading": "Injeung-beonho",
+          "meaning": "Verification code",
+          "example_sentence": "인증 번호를 문자로 받았어요. (I received a verification code via text.)"
+        },
+        {
+          "word": "사용자접속",
+          "reading": "Sayongja-jeopsok",
+          "meaning": "User access",
+          "example_sentence": "사용자 접속이 지연되고 있어요. (User access is being delayed.)"
+        },
+        {
+          "word": "로그아웃",
+          "reading": "Logeu-aut",
+          "meaning": "Logout",
+          "example_sentence": "공용 컴퓨터는 꼭 로그아웃하세요. (Be sure to log out of public computers.)"
+        },
+        {
+          "word": "신규등록",
+          "reading": "Sin-gyu-deungnok",
+          "meaning": "New registration",
+          "example_sentence": "신규 등록 회원에게 혜택을 줘요. (Give benefits to newly registered members.)"
+        },
+        {
+          "word": "개인정보",
+          "reading": "Gaein-jeongbo",
+          "meaning": "Personal information / Privacy",
+          "example_sentence": "개인 정보를 보호하세요. (Protect your personal information.)"
+        },
+        {
+          "word": "계정탈취",
+          "reading": "Gyejeong-talchwi",
+          "meaning": "Account hijacking",
+          "example_sentence": "계정 탈취를 조심하세요. (Be careful of account hijacking.)"
+        },
+        {
+          "word": "해킹방지",
+          "reading": "Haeking-bangji",
+          "meaning": "Hacking prevention",
+          "example_sentence": "해킹 방지 프로그램을 설치하세요. (Install a hacking prevention program.)"
+        },
+        {
+          "word": "바이러스",
+          "reading": "Baireoseu",
+          "meaning": "Virus",
+          "example_sentence": "컴퓨터가 바이러스에 걸렸어요. (The computer is infected with a virus.)"
+        },
+        {
+          "word": "클라우드",
+          "reading": "Keulla-udeu",
+          "meaning": "Cloud (computing)",
+          "example_sentence": "클라우드 저장소를 이용해요. (I use cloud storage.)"
+        },
+        {
+          "word": "스마트워치",
+          "reading": "Seumateu-woichi",
+          "meaning": "Smartwatch",
+          "example_sentence": "스마트워치로 건강을 체크해요. (I check my health with a smartwatch.)"
+        },
+        {
+          "word": "태블릿",
+          "reading": "Taebeullit",
+          "meaning": "Tablet",
+          "example_sentence": "태블릿으로 그림을 그려요. (I draw pictures with a tablet.)"
+        },
+        {
+          "word": "메모리",
+          "reading": "Memori",
+          "meaning": "Memory",
+          "example_sentence": "메모리가 가득 찼어요. (The memory is full.)"
+        },
+        {
+          "word": "용량",
+          "reading": "Yongnyang",
+          "meaning": "Capacity / Volume",
+          "example_sentence": "용량이 큰 파일을 다운로드해요. (Downloading a high-capacity file.)"
+        },
+        {
+          "word": "속도",
+          "reading": "Sokdo",
+          "meaning": "Speed",
+          "example_sentence": "인터넷 속도가 너무 느려요. (Internet speed is too slow.)"
+        },
+        {
+          "word": "와이파이",
+          "reading": "Waipai",
+          "meaning": "WiFi",
+          "example_sentence": "무료 와이파이가 되나요? (Is there free WiFi?)"
+        },
+        {
+          "word": "비행기모드",
+          "reading": "Bihaenggi-modeu",
+          "meaning": "Airplane mode",
+          "example_sentence": "비행기 모드로 전환해 주세요. (Switch to airplane mode, please.)"
+        },
+        {
+          "word": "진동",
+          "reading": "Jindong",
+          "meaning": "Vibration",
+          "example_sentence": "휴대폰을 진동으로 해 두었어요. (I put my phone on vibration.)"
+        },
+        {
+          "word": "무음",
+          "reading": "Mueum",
+          "meaning": "Silent mode",
+          "example_sentence": "회의 중에는 무음으로 해 주세요. (Set it to silent during the meeting.)"
+        },
+        {
+          "word": "벨소리",
+          "reading": "Bel-sori",
+          "meaning": "Ringtone",
+          "example_sentence": "좋아하는 노래를 벨소리로 설정했어요. (I set my favorite song as the ringtone.)"
+        },
+        {
+          "word": "전자우편",
+          "reading": "Jeonja-upyeon",
+          "meaning": "E-mail (standard term)",
+          "example_sentence": "전자우편으로 서류를 보냈어요. (Sent the document by e-mail.)"
+        },
+        {
+          "word": "메시지",
+          "reading": "Mesiji",
+          "meaning": "Message",
+          "example_sentence": "상대방에게 메시지를 남겼어요. (I left a message for the other person.)"
+        },
+        {
+          "word": "블로그",
+          "reading": "Beullogeu",
+          "meaning": "Blog",
+          "example_sentence": "맛집 블로그를 운영해요. (I run a restaurant blog.)"
+        },
+        {
+          "word": "웹진",
+          "reading": "Wepjin",
+          "meaning": "Webzine / E-magazine",
+          "example_sentence": "웹진 기사를 읽었어요. (I read a webzine article.)"
+        },
+        {
+          "word": "스팸메일",
+          "reading": "Seupaem-meil",
+          "meaning": "Spam email",
+          "example_sentence": "스팸 메일이 너무 많이 와요. (There are too many spam emails.)"
+        },
+        {
+          "word": "전자책",
+          "reading": "Jeonjachaek",
+          "meaning": "E-book",
+          "example_sentence": "전자책으로 소설을 읽어요. (I read novels as e-books.)"
+        },
+        {
+          "word": "온라인",
+          "reading": "Onrain",
+          "meaning": "Online",
+          "example_sentence": "온라인 쇼핑이 편리해요. (Online shopping is convenient.)"
+        },
+        {
+          "word": "오프라인",
+          "reading": "Opeurain",
+          "meaning": "Offline",
+          "example_sentence": "오프라인 매장에 직접 갔어요. (I went to the offline store myself.)"
+        },
+        {
+          "word": "정보기술",
+          "reading": "Jeongbo-gisul",
+          "meaning": "Information Technology (IT)",
+          "example_sentence": "정보기술 강국이에요. (It is a powerhouse in IT.)"
+        },
+        {
+          "word": "로봇",
+          "reading": "Robot",
+          "meaning": "Robot",
+          "example_sentence": "청소 로봇이 바닥을 닦아요. (The cleaning robot wipes the floor.)"
+        },
+        {
+          "word": "코딩",
+          "reading": "Koding",
+          "meaning": "Coding",
+          "example_sentence": "코딩을 배우기 시작했어요. (I started learning coding.)"
+        },
+        {
+          "word": "알고리즘",
+          "reading": "Algorijeum",
+          "meaning": "Algorithm",
+          "example_sentence": "유튜브 알고리즘이 추천해 줬어요. (The YouTube algorithm recommended it.)"
+        },
+        {
+          "word": "서버",
+          "reading": "Seobeo",
+          "meaning": "Server",
+          "example_sentence": "서버 점검 중이라 접속이 안 돼요. (Cannot connect as the server is under maintenance.)"
+        },
+        {
+          "word": "클릭",
+          "reading": "Keullik",
+          "meaning": "Click",
+          "example_sentence": "버튼을 클릭하세요. (Click the button.)"
+        },
+        {
+          "word": "스크롤",
+          "reading": "Seukeuroll",
+          "meaning": "Scroll",
+          "example_sentence": "화면을 아래로 스크롤해요. (Scroll down the screen.)"
+        },
+        {
+          "word": "드래그",
+          "reading": "Deuraegu",
+          "meaning": "Drag",
+          "example_sentence": "아이콘을 드래그해서 옮기세요. (Drag and move the icon.)"
+        },
+        {
+          "word": "새로고침",
+          "reading": "Saerogochim",
+          "meaning": "Refresh",
+          "example_sentence": "화면을 새로고침 해 보세요. (Try refreshing the screen.)"
+        },
+        {
+          "word": "전원",
+          "reading": "Jeonwon",
+          "meaning": "Power (on/off)",
+          "example_sentence": "전원 버튼을 꾹 누르세요. (Press and hold the power button.)"
+        },
+        {
+          "word": "부팅",
+          "reading": "Buting",
+          "meaning": "Booting",
+          "example_sentence": "부팅 속도가 아주 빨라요. (Booting speed is very fast.)"
+        },
+        {
+          "word": "키보드",
+          "reading": "Kibodeu",
+          "meaning": "Keyboard",
+          "example_sentence": "기계식 키보드를 좋아해요. (I like mechanical keyboards.)"
+        },
+        {
+          "word": "마우스",
+          "reading": "Mauseu",
+          "meaning": "Mouse",
+          "example_sentence": "마우스가 잘 안 움직여요. (The mouse doesn't move well.)"
+        },
+        {
+          "word": "헤드폰",
+          "reading": "Hedeupon",
+          "meaning": "Headphones",
+          "example_sentence": "헤드폰으로 크게 음악을 들어요. (Listen to music loudly with headphones.)"
+        },
+        {
+          "word": "헤드셋",
+          "reading": "Hedeuset",
+          "meaning": "Headset",
+          "example_sentence": "헤드셋을 쓰고 게임을 해요. (Wear a headset and play games.)"
+        },
+        {
+          "word": "스피커",
+          "reading": "Seupikeo",
+          "meaning": "Speaker",
+          "example_sentence": "스피커 소리를 좀 줄여주세요. (Turn down the speaker sound, please.)"
+        },
+        {
+          "word": "마이크",
+          "reading": "Maikeu",
+          "meaning": "Microphone",
+          "example_sentence": "마이크 테스트를 하고 있어요. (I'm doing a microphone test.)"
+        },
+        {
+          "word": "웹캠",
+          "reading": "Wepkaem",
+          "meaning": "Webcam",
+          "example_sentence": "화상 회의를 위해 웹캠을 켰어요. (Turned on the webcam for a video con.)"
+        },
+        {
+          "word": "스캐너",
+          "reading": "Seukaeneo",
+          "meaning": "Scanner",
+          "example_sentence": "문서를 스캐너로 읽었어요. (Scanned the document with a scanner.)"
+        },
+        {
+          "word": "출력기",
+          "reading": "Chullyeokgi",
+          "meaning": "Output device / Printer",
+          "example_sentence": "출력기의 상태를 확인하세요. (Check the status of the output device.)"
+        },
+        {
+          "word": "토너",
+          "reading": "Toneo",
+          "meaning": "Toner",
+          "example_sentence": "레이저 프린터 토너를 갈았어요. (Changed the laser printer toner.)"
+        },
+        {
+          "word": "인쇄용지",
+          "reading": "Inswae-yongji",
+          "meaning": "Printing paper",
+          "example_sentence": "인쇄 용지가 부족해요. (Printing paper is insufficient.)"
+        },
+        {
+          "word": "스마트티비",
+          "reading": "Seumateutibi",
+          "meaning": "Smart TV",
+          "example_sentence": "스마트 티비로 넷플릭스를 봐요. (Watch Netflix on a Smart TV.)"
+        },
+        {
+          "word": "리모컨",
+          "reading": "Rimokeon",
+          "meaning": "Remote control",
+          "example_sentence": "리모컨이 어디 있는지 모르겠어요. (I don't know where the remote is.)"
+        },
+        {
+          "word": "셋톱박스",
+          "reading": "Settopbagseu",
+          "meaning": "Set-top box",
+          "example_sentence": "셋톱박스 전원을 껐어요. (Turned off the set-top box power.)"
+        },
+        {
+          "word": "인공위성",
+          "reading": "In-gong-wiseong",
+          "meaning": "Satellite",
+          "example_sentence": "인공위성 사진을 봤어요. (I saw satellite photos.)"
+        },
+        {
+          "word": "길도우미",
+          "reading": "Gildoumi",
+          "meaning": "Road helper / Navigation",
+          "example_sentence": "길도우미 어플을 켰어요. (Turned on the road helper app.)"
+        },
+        {
+          "word": "위치기반",
+          "reading": "Wichigiban",
+          "meaning": "Location-based",
+          "example_sentence": "위치 기반 서비스를 사용해요. (I use location-based services.)"
+        },
+        {
+          "word": "빅데이터",
+          "reading": "Bikdeiteo",
+          "meaning": "Big Data",
+          "example_sentence": "빅데이터 분석이 중요해졌어요. (Big data analysis became important.)"
+        },
+        {
+          "word": "메타버스",
+          "reading": "Metabeoseu",
+          "meaning": "Metaverse",
+          "example_sentence": "메타버스 세상을 체험해요. (Experience the metaverse world.)"
+        },
+        {
+          "word": "가상현실",
+          "reading": "Gasang-hyeonsil",
+          "meaning": "Virtual Reality (VR)",
+          "example_sentence": "가상 현실 게임을 즐겨요. (Enjoy virtual reality games.)"
+        },
+        {
+          "word": "증강현실",
+          "reading": "Jeung-gang-hyeonsil",
+          "meaning": "Augmented Reality (AR)",
+          "example_sentence": "증강 현실 기술을 적용했어요. (Applied augmented reality technology.)"
+        },
+        {
+          "word": "드론",
+          "reading": "Deuron",
+          "meaning": "Drone",
+          "example_sentence": "드론으로 항공 촬영을 해요. (Doing aerial filming with a drone.)"
+        },
+        {
+          "word": "유튜버",
+          "reading": "Yutyubeo",
+          "meaning": "Youtuber",
+          "example_sentence": "인기 유튜버를 구독 중이에요. (Subscribed to a popular Youtuber.)"
+        },
+        {
+          "word": "크리에이터",
+          "reading": "Keurieiteo",
+          "meaning": "Creator",
+          "example_sentence": "콘텐츠 크리에이터로 활동해요. (Active as a content creator.)"
+        },
+        {
+          "word": "플랫폼",
+          "reading": "Peullaetpom",
+          "meaning": "Platform",
+          "example_sentence": "다양한 플랫폼을 활용해요. (Use various platforms.)"
+        },
+        {
+          "word": "디지털",
+          "reading": "Dijiteol",
+          "meaning": "Digital",
+          "example_sentence": "디지털 혁명이 일어났어요. (A digital revolution has occurred.)"
+        },
+        {
+          "word": "아날로그",
+          "reading": "Anallogeu",
+          "meaning": "Analog",
+          "example_sentence": "아날로그 감성을 좋아해요. (I like the analog sentiment.)"
+        },
+        {
+          "word": "시스템",
+          "reading": "Siseutem",
+          "meaning": "System",
+          "example_sentence": "운영 체제 시스템을 업그레이드해요. (Upgrade the OS system.)"
+        },
+        {
+          "word": "업데이트",
+          "reading": "Eopdeiteu",
+          "meaning": "Update",
+          "example_sentence": "최신 버전으로 업데이트 완료! (Update to latest version complete!)"
+        },
+        {
+          "word": "설정",
+          "reading": "Seoljeong",
+          "meaning": "Settings",
+          "example_sentence": "밝기 설정을 조절하세요. (Adjust the brightness settings.)"
+        },
+        {
+          "word": "알림",
+          "reading": "Allim",
+          "meaning": "Notification",
+          "example_sentence": "새로운 글 알림이 왔어요. (A new post notification arrived.)"
+        },
+        {
+          "word": "차단",
+          "reading": "Chadan",
+          "meaning": "Block",
+          "example_sentence": "스팸 번호를 차단했어요. (I blocked the spam number.)"
+        },
+        {
+          "word": "신고",
+          "reading": "Sin-go",
+          "meaning": "Report",
+          "example_sentence": "불량 유저를 신고했어요. (I reported a bad user.)"
+        }
+      ]
+    }
+  ],
+  "liar_game_data": {
+    "topic": "KakaoTalk Etiquette (읽씹 & 1)",
+    "question": "In the popular Korean messenger KakaoTalk, what does it mean when the number '1' next to your message disappears?",
+    "options": [
+      "The message was deleted by the server.",
+      "The recipient has read the message.",
+      "The message has been liked by someone.",
+      "The message is still being sent."
+    ],
+    "correct_answer_index": 1,
+    "explanation": "In KakaoTalk, a '1' appears next to an unread message. When the recipient opens the chat and reads it, the '1' disappears. '읽씹' (Ik-ssip) is a slang term for 'Reading and Ignoring'—when the '1' disappears but the person doesn't reply. It's considered a bit rude in Korean social culture!"
+  }
+}

@@ -1,0 +1,508 @@
+{
+    "module_id": "es_a2_m05",
+    "language": "es",
+    "level": "A2",
+    "theme": "Health, Wellness & The Mind",
+    "vocabulary": [
+        {
+            "word": "Bienestar",
+            "translation": "Wellness / Well-being",
+            "phonetic": "byen-es-TAR"
+        },
+        {
+            "word": "Saludable",
+            "translation": "Healthy",
+            "phonetic": "sa-lu-DA-ble"
+        },
+        {
+            "word": "Ejercicio físico",
+            "translation": "Physical exercise",
+            "phonetic": "e-her-SEE-syo FEE-see-ko"
+        },
+        {
+            "word": "Gimnasio",
+            "translation": "Gym",
+            "phonetic": "heem-NA-syo"
+        },
+        {
+            "word": "Entrenar",
+            "translation": "To train / workout",
+            "phonetic": "en-tre-NAR"
+        },
+        {
+            "word": "Dieta equilibrada",
+            "translation": "Balanced diet",
+            "phonetic": "DYE-ta e-kee-lee-BRA-da"
+        },
+        {
+            "word": "Nutrición",
+            "translation": "Nutrition",
+            "phonetic": "nu-tree-SYON"
+        },
+        {
+            "word": "Vitaminas",
+            "translation": "Vitamins",
+            "phonetic": "bee-ta-MEE-nas"
+        },
+        {
+            "word": "Energía",
+            "translation": "Energy",
+            "phonetic": "e-ner-HEE-a"
+        },
+        {
+            "word": "Descanso",
+            "translation": "Rest / Break",
+            "phonetic": "des-KAN-so"
+        },
+        {
+            "word": "Sueño",
+            "translation": "Sleep",
+            "phonetic": "SWE-nyo"
+        },
+        {
+            "word": "Estrés",
+            "translation": "Stress",
+            "phonetic": "es-TRES"
+        },
+        {
+            "word": "Relajación",
+            "translation": "Relaxation",
+            "phonetic": "re-la-ha-SYON"
+        },
+        {
+            "word": "Meditación",
+            "translation": "Meditation",
+            "phonetic": "me-dee-ta-SYON"
+        },
+        {
+            "word": "Salud mental",
+            "translation": "Mental health",
+            "phonetic": "sa-LUD men-TAL"
+        },
+        {
+            "word": "Emoción",
+            "translation": "Emotion",
+            "phonetic": "e-mo-SYON"
+        },
+        {
+            "word": "Estado de ánimo",
+            "translation": "Mood",
+            "phonetic": "es-TA-do de A-nee-mo"
+        },
+        {
+            "word": "Ansiedad",
+            "translation": "Anxiety",
+            "phonetic": "an-sye-DAD"
+        },
+        {
+            "word": "Depresión",
+            "translation": "Depression",
+            "phonetic": "de-pre-SYON"
+        },
+        {
+            "word": "Terapia",
+            "translation": "Therapy",
+            "phonetic": "te-RA-pya"
+        },
+        {
+            "word": "Psicólogo",
+            "translation": "Psychologist",
+            "phonetic": "psee-KO-lo-go"
+        },
+        {
+            "word": "Cita médica",
+            "translation": "Doctor's appointment",
+            "phonetic": "SEE-ta ME-dee-ka"
+        },
+        {
+            "word": "Síntoma",
+            "translation": "Symptom",
+            "phonetic": "SEEN-to-ma"
+        },
+        {
+            "word": "Diagnóstico",
+            "translation": "Diagnosis",
+            "phonetic": "dya-GNOS-tee-ko"
+        },
+        {
+            "word": "Tratamiento",
+            "translation": "Treatment",
+            "phonetic": "tra-ta-MYEN-to"
+        },
+        {
+            "word": "Receta",
+            "translation": "Prescription",
+            "phonetic": "re-SE-ta"
+        },
+        {
+            "word": "Pastilla",
+            "translation": "Pill",
+            "phonetic": "pas-TEE-ya"
+        },
+        {
+            "word": "Jarabe",
+            "translation": "Syrup",
+            "phonetic": "ha-RA-be"
+        },
+        {
+            "word": "Dolor de cabeza",
+            "translation": "Headache",
+            "phonetic": "do-LOR de ka-BE-sa"
+        },
+        {
+            "word": "Resfriado",
+            "translation": "Cold",
+            "phonetic": "res-FRYA-do"
+        },
+        {
+            "word": "Gripe",
+            "translation": "Flu",
+            "phonetic": "GREE-pe"
+        },
+        {
+            "word": "Fiebre",
+            "translation": "Fever",
+            "phonetic": "FYE-bre"
+        },
+        {
+            "word": "Tos",
+            "translation": "Cough",
+            "phonetic": "Tos"
+        },
+        {
+            "word": "Estornudo",
+            "translation": "Sneeze",
+            "phonetic": "es-tor-NU-do"
+        },
+        {
+            "word": "Alergia",
+            "translation": "Allergy",
+            "phonetic": "a-LER-hya"
+        },
+        {
+            "word": "Inflamación",
+            "translation": "Inflammation",
+            "phonetic": "een-fla-ma-SYON"
+        },
+        {
+            "word": "Herida",
+            "translation": "Wound / Injury",
+            "phonetic": "e-REE-da"
+        },
+        {
+            "word": "Sangre",
+            "translation": "Blood",
+            "phonetic": "SAN-gre"
+        },
+        {
+            "word": "Presión arterial",
+            "translation": "Blood pressure",
+            "phonetic": "pre-SYON ar-te-RYAL"
+        },
+        {
+            "word": "Corazón",
+            "translation": "Heart",
+            "phonetic": "ko-ra-SON"
+        },
+        {
+            "word": "Pulmones",
+            "translation": "Lungs",
+            "phonetic": "pul-MO-nes"
+        },
+        {
+            "word": "Cerebro",
+            "translation": "Brain",
+            "phonetic": "se-RE-bro"
+        },
+        {
+            "word": "Músculos",
+            "translation": "Muscles",
+            "phonetic": "MOOS-ku-los"
+        },
+        {
+            "word": "Huesos",
+            "translation": "Bones",
+            "phonetic": "WE-sos"
+        },
+        {
+            "word": "Articulaciones",
+            "translation": "Joints",
+            "phonetic": "ar-tee-ku-la-SYO-nes"
+        },
+        {
+            "word": "Piel",
+            "translation": "Skin",
+            "phonetic": "Pyel"
+        },
+        {
+            "word": "Digestión",
+            "translation": "Digestion",
+            "phonetic": "dee-hes-TYON"
+        },
+        {
+            "word": "Inmunidad",
+            "translation": "Immunity",
+            "phonetic": "een-mu-nee-DAD"
+        },
+        {
+            "word": "Prevención",
+            "translation": "Prevention",
+            "phonetic": "pre-ben-SYON"
+        },
+        {
+            "word": "Vacuna",
+            "translation": "Vaccine",
+            "phonetic": "ba-KU-na"
+        },
+        {
+            "word": "Cuerpo sano",
+            "translation": "Healthy body",
+            "phonetic": "KWER-po SA-no"
+        },
+        {
+            "word": "Mente sana",
+            "translation": "Healthy mind",
+            "phonetic": "MEN-te SA-na"
+        },
+        {
+            "word": "Hábitos",
+            "translation": "Habits",
+            "phonetic": "A-bee-tos"
+        },
+        {
+            "word": "Fumar",
+            "translation": "To smoke",
+            "phonetic": "foo-MAR"
+        },
+        {
+            "word": "Alcohol",
+            "translation": "Alcohol",
+            "phonetic": "al-KO-ol"
+        },
+        {
+            "word": "Adicción",
+            "translation": "Addiction",
+            "phonetic": "a-deek-SYON"
+        },
+        {
+            "word": "Recuperación",
+            "translation": "Recovery",
+            "phonetic": "re-ku-pe-ra-SYON"
+        },
+        {
+            "word": "Fuerza",
+            "translation": "Strength",
+            "phonetic": "FWER-sa"
+        },
+        {
+            "word": "Resistencia",
+            "translation": "Endurance",
+            "phonetic": "re-sees-TEN-sya"
+        },
+        {
+            "word": "Flexibilidad",
+            "translation": "Flexibility",
+            "phonetic": "flek-see-bee-lee-DAD"
+        },
+        {
+            "word": "Yoga",
+            "translation": "Yoga",
+            "phonetic": "YO-ga"
+        },
+        {
+            "word": "Respiración",
+            "translation": "Breathing",
+            "phonetic": "res-pee-ra-SYON"
+        },
+        {
+            "word": "Oxígeno",
+            "translation": "Oxygen",
+            "phonetic": "ok-SEE-he-no"
+        },
+        {
+            "word": "Hidratación",
+            "translation": "Hydration",
+            "phonetic": "ee-dra-ta-SYON"
+        },
+        {
+            "word": "Sed",
+            "translation": "Thirst",
+            "phonetic": "Sed"
+        },
+        {
+            "word": "Apetito",
+            "translation": "Appetite",
+            "phonetic": "a-pe-TEE-to"
+        },
+        {
+            "word": "Peso",
+            "translation": "Weight",
+            "phonetic": "PE-so"
+        },
+        {
+            "word": "Altura",
+            "translation": "Height",
+            "phonetic": "al-TU-ra"
+        },
+        {
+            "word": "Grasa",
+            "translation": "Fat",
+            "phonetic": "GRA-sa"
+        },
+        {
+            "word": "Proteína",
+            "translation": "Protein",
+            "phonetic": "pro-te-EE-na"
+        },
+        {
+            "word": "Carbohidratos",
+            "translation": "Carbohydrates",
+            "phonetic": "kar-bo-ee-DRA-tos"
+        },
+        {
+            "word": "Azúcar",
+            "translation": "Sugar",
+            "phonetic": "a-SU-kar"
+        },
+        {
+            "word": "Fibra",
+            "translation": "Fiber",
+            "phonetic": "FEE-bra"
+        },
+        {
+            "word": "Calorías",
+            "translation": "Calories",
+            "phonetic": "ka-lo-REE-as"
+        },
+        {
+            "word": "Metabolismo",
+            "translation": "Metabolism",
+            "phonetic": "me-ta-bo-LEES-mo"
+        },
+        {
+            "word": "Equilibrio",
+            "translation": "Balance",
+            "phonetic": "e-kee-LEE-bryo"
+        },
+        {
+            "word": "Armonía",
+            "translation": "Harmony",
+            "phonetic": "ar-mo-NEE-a"
+        },
+        {
+            "word": "Paz interior",
+            "translation": "Inner peace",
+            "phonetic": "Pas een-te-RYOR"
+        },
+        {
+            "word": "Autoestima",
+            "translation": "Self-esteem",
+            "phonetic": "a-u-to-es-TEE-ma"
+        },
+        {
+            "word": "Confianza",
+            "translation": "Confidence",
+            "phonetic": "kon-FYAN-sa"
+        },
+        {
+            "word": "Motivación",
+            "translation": "Motivation",
+            "phonetic": "mo-tee-ba-SYON"
+        },
+        {
+            "word": "Pensamiento positivo",
+            "translation": "Positive thinking",
+            "phonetic": "pen-sa-MYEN-to po-see-TEE-bo"
+        },
+        {
+            "word": "Optimismo",
+            "translation": "Optimism",
+            "phonetic": "op-tee-MEES-mo"
+        },
+        {
+            "word": "Pesimismo",
+            "translation": "Pessimism",
+            "phonetic": "pe-see-MEES-mo"
+        },
+        {
+            "word": "Gratitud",
+            "translation": "Gratitude",
+            "phonetic": "gra-tee-TUD"
+        },
+        {
+            "word": "Perdón",
+            "translation": "Forgiveness",
+            "phonetic": "per-DON"
+        },
+        {
+            "word": "Compasión",
+            "translation": "Compassion",
+            "phonetic": "kom-pa-SYON"
+        },
+        {
+            "word": "Empatía",
+            "translation": "Empathy",
+            "phonetic": "em-pa-TEE-a"
+        },
+        {
+            "word": "Relaciones sanas",
+            "translation": "Healthy relationships",
+            "phonetic": "re-la-SYO-nes SA-nas"
+        },
+        {
+            "word": "Apoyo social",
+            "translation": "Social support",
+            "phonetic": "a-PO-yo so-SYAL"
+        },
+        {
+            "word": "Soledad",
+            "translation": "Loneliness",
+            "phonetic": "so-le-DAD"
+        },
+        {
+            "word": "Felicidad",
+            "translation": "Happiness",
+            "phonetic": "fe-lee-see-DAD"
+        },
+        {
+            "word": "Propósito de vida",
+            "translation": "Life purpose",
+            "phonetic": "pro-PO-see-to de BEE-da"
+        },
+        {
+            "word": "Conciencia",
+            "translation": "Consciousness",
+            "phonetic": "kon-SYEN-sya"
+        },
+        {
+            "word": "Sabiduría",
+            "translation": "Wisdom",
+            "phonetic": "sa-bee-du-REE-a"
+        },
+        {
+            "word": "Aprendizaje",
+            "translation": "Learning",
+            "phonetic": "a-pren-dee-SA-he"
+        },
+        {
+            "word": "Crecimiento",
+            "translation": "Growth",
+            "phonetic": "kre-see-MYEN-to"
+        },
+        {
+            "word": "Transformación",
+            "translation": "Transformation",
+            "phonetic": "trans-for-ma-SYON"
+        },
+        {
+            "word": "Poder personal",
+            "translation": "Personal power",
+            "phonetic": "po-DER per-so-NAL"
+        },
+        {
+            "word": "Vida plena",
+            "translation": "Full life",
+            "phonetic": "BEE-da PLE-na"
+        }
+    ]
+}

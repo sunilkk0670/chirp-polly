@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import '../services/web_tts_service.dart';
+import '../services/tts_service.dart';
 import '../widgets/chirpolly_logo.dart';
 import 'liar_game_page.dart';
 
@@ -61,12 +61,12 @@ class _LessonContentPageState extends State<LessonContentPage> {
   }
 
   void _speak(String text) {
-    WebTtsService.speak(text, languageCode);
+    TtsService.speak(text, languageCode);
   }
 
   @override
   void dispose() {
-    WebTtsService.stop();
+    TtsService.stop();
     super.dispose();
   }
 
@@ -426,9 +426,7 @@ class _LessonContentPageState extends State<LessonContentPage> {
               size: 32,
               color: Colors.deepPurple.shade400,
             ),
-            onPressed: () => _speak(
-              lesson['target_text'] ?? ''
-            ),
+            onPressed: () => _speak(lesson['target_text'] ?? ''),
           ),
         ],
       ),

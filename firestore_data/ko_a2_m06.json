@@ -1,0 +1,627 @@
+{
+  "moduleId": "ko_a2_m06",
+  "theme": "Shopping & Daily Life",
+  "title": "Shopping & Daily Life",
+  "level": "a2",
+  "language": "korean",
+  "order": 6,
+  "lessons": [
+    {
+      "order": 1,
+      "vocabularyItems": [
+        {
+          "word": "전통시장",
+          "reading": "Jeontongsijang",
+          "meaning": "Traditional market",
+          "example_sentence": "전통시장에서 반찬을 샀어요. (I bought side dishes at the traditional market.)"
+        },
+        {
+          "word": "창고형매장",
+          "reading": "Changgohyeongmaejang",
+          "meaning": "Warehouse store",
+          "example_sentence": "창고형매장에서 대용량으로 샀어요. (I bought in bulk at the warehouse store.)"
+        },
+        {
+          "word": "가맹점",
+          "reading": "Gamaengjeom",
+          "meaning": "Franchise store / Member store",
+          "example_sentence": "이 카드는 가맹점에서만 사용 가능해요. (This card can only be used at member stores.)"
+        },
+        {
+          "word": "구매하다",
+          "reading": "Gumaehada",
+          "meaning": "To purchase (formal)",
+          "example_sentence": "온라인으로 티켓을 구매했어요. (I purchased the tickets online.)"
+        },
+        {
+          "word": "판매하다",
+          "reading": "Panmaehada",
+          "meaning": "To sell (formal)",
+          "example_sentence": "신제품을 판매하기 시작했습니다. (They started selling new products.)"
+        },
+        {
+          "word": "결제취소",
+          "reading": "Gyeoljechwiso",
+          "meaning": "Payment cancellation",
+          "example_sentence": "단순 변심으로 인한 결제취소예요. (It's a payment cancellation due to a simple change of mind.)"
+        },
+        {
+          "word": "매출전표",
+          "reading": "Maechuljeonpyo",
+          "meaning": "Sales slip / Transaction report",
+          "example_sentence": "매출전표를 확인해 보세요. (Please check the sales slip.)"
+        },
+        {
+          "word": "에누리",
+          "reading": "Enuri",
+          "meaning": "Haggling / Discounting",
+          "example_sentence": "시장의 묘미는 에누리예요. (The charm of the market is haggling.)"
+        },
+        {
+          "word": "비닐봉지",
+          "reading": "Binilbongji",
+          "meaning": "Plastic bag",
+          "example_sentence": "비닐봉지 사용을 줄여야 해요. (We should reduce the use of plastic bags.)"
+        },
+        {
+          "word": "종량제봉투",
+          "reading": "Jongnyangjebongtu",
+          "meaning": "Standard government trash bag",
+          "example_sentence": "종량제 봉투를 사야 해요. (I need to buy standard trash bags.)"
+        },
+        {
+          "word": "에코백",
+          "reading": "Ekobaek",
+          "meaning": "Eco-bag / Reusable bag",
+          "example_sentence": "에코백을 들고 쇼핑해요. (I shop carrying an eco-bag.)"
+        },
+        {
+          "word": "계산대",
+          "reading": "Gyesandae",
+          "meaning": "Checkout counter",
+          "example_sentence": "계산대는 저쪽에 있어요. (The checkout counter is over there.)"
+        },
+        {
+          "word": "화폐",
+          "reading": "Hwapye",
+          "meaning": "Currency / Money",
+          "example_sentence": "위조 화폐를 조심하세요. (Be careful of counterfeit currency.)"
+        },
+        {
+          "word": "신용카드",
+          "reading": "Sinyongkadeu",
+          "meaning": "Credit card",
+          "example_sentence": "신용카드로 결제해도 돼요? (Can I pay with a credit card?)"
+        },
+        {
+          "word": "할부",
+          "reading": "Halbu",
+          "meaning": "Installment payment",
+          "example_sentence": "3개월 할부로 해주세요. (Please make it a 3-month installment payment.)"
+        },
+        {
+          "word": "완불",
+          "reading": "Wanbul",
+          "meaning": "Full payment / Payment in full",
+          "example_sentence": "잔금을 오늘 완불했습니다. (I paid the balance in full today.)"
+        },
+        {
+          "word": "포인트",
+          "reading": "Pointeu",
+          "meaning": "Points (reward points)",
+          "example_sentence": "포인트를 적립해 드릴까요? (Should I add points for you?)"
+        },
+        {
+          "word": "마일리지",
+          "reading": "Mailliji",
+          "meaning": "Mileage / Reward points",
+          "example_sentence": "항공사 마일리지를 쌓았어요. (I accumulated airline mileage.)"
+        },
+        {
+          "word": "복합쇼핑몰",
+          "reading": "Bokhap syopingmol",
+          "meaning": "Complex shopping mall",
+          "example_sentence": "복합쇼핑몰에 모든 가게가 다 있어요. (The complex mall has every store.)"
+        },
+        {
+          "word": "면세점",
+          "reading": "Myeonsejeom",
+          "meaning": "Duty-free shop",
+          "example_sentence": "면세점에서 화장품을 샀어요. (I bought cosmetics at the duty-free shop.)"
+        },
+        {
+          "word": "온라인쇼핑",
+          "reading": "Onrain syoping",
+          "meaning": "Online shopping",
+          "example_sentence": "온라인 쇼핑몰에서 주문했어요. (I ordered from an online shopping mall.)"
+        },
+        {
+          "word": "배송",
+          "reading": "Baesong",
+          "meaning": "Delivery / Shipping",
+          "example_sentence": "무료 배송 혜택이 있어요. (There is a free shipping benefit.)"
+        },
+        {
+          "word": "택배",
+          "reading": "Taekbae",
+          "meaning": "Parcel delivery service",
+          "example_sentence": "택배가 오늘 도착할 예정이에요. (The parcel is scheduled to arrive today.)"
+        },
+        {
+          "word": "송장번호",
+          "reading": "Songjanbeonho",
+          "meaning": "Tracking number",
+          "example_sentence": "송장 번호를 확인해 보세요. (Please check the tracking number.)"
+        },
+        {
+          "word": "교환",
+          "reading": "Gyohwan",
+          "meaning": "Exchange",
+          "example_sentence": "다른 색상으로 교환하고 싶어요. (I want to exchange it for a different color.)"
+        },
+        {
+          "word": "품절",
+          "reading": "Pumjeol",
+          "meaning": "Out of stock / Sold out",
+          "example_sentence": "그 제품은 이미 품절되었습니다. (That product is already out of stock.)"
+        },
+        {
+          "word": "신상품",
+          "reading": "Sinsangpum",
+          "meaning": "New arrival / New product",
+          "example_sentence": "신상품이 출시되었어요. (New products have been released.)"
+        },
+        {
+          "word": "중고",
+          "reading": "Junggo",
+          "meaning": "Used / Second-hand",
+          "example_sentence": "중고 장터에서 샀어요. (I bought it at a second-hand market.)"
+        },
+        {
+          "word": "벼룩시장",
+          "reading": "Byeoruksijang",
+          "meaning": "Flea market",
+          "example_sentence": "주말에 벼룩시장이 열려요. (A flea market is held on weekends.)"
+        },
+        {
+          "word": "정찰제",
+          "reading": "Jeongchalje",
+          "meaning": "Fixed price system",
+          "example_sentence": "이곳은 정찰제 매장입니다. (This is a fixed-price store.)"
+        },
+        {
+          "word": "특가",
+          "reading": "Teukga",
+          "meaning": "Special price",
+          "example_sentence": "한정 수량 특가 판매 중이에요. (It's on sale at a special price for a limited quantity.)"
+        },
+        {
+          "word": "세일",
+          "reading": "Seil",
+          "meaning": "Sale",
+          "example_sentence": "대박 세일 중이에요. (A huge sale is ongoing.)"
+        },
+        {
+          "word": "증정품",
+          "reading": "Jeungjeongpum",
+          "meaning": "Free gift / Promotional giveaway",
+          "example_sentence": "화장품을 사고 증정품을 받았어요. (I bought cosmetics and received a free gift.)"
+        },
+        {
+          "word": "1+1",
+          "reading": "Won peulleoseu won",
+          "meaning": "Buy one get one free",
+          "example_sentence": "이 음료수는 1+1 행사 중이에요. (This drink is on a buy-one-get-one-free promotion.)"
+        },
+        {
+          "word": "유통기한",
+          "reading": "Yutonggihan",
+          "meaning": "Expiration date",
+          "example_sentence": "유통기한을 꼭 확인하세요. (Be sure to check the expiration date.)"
+        },
+        {
+          "word": "신선도",
+          "reading": "Sinseondo",
+          "meaning": "Freshness",
+          "example_sentence": "식재료의 신선도가 중요해요. (The freshness of ingredients is important.)"
+        },
+        {
+          "word": "유기농",
+          "reading": "Yuginong",
+          "meaning": "Organic",
+          "example_sentence": "유기농 채소가 더 비싸요. (Organic vegetables are more expensive.)"
+        },
+        {
+          "word": "가성비",
+          "reading": "Gaseongbi",
+          "meaning": "Cost-effectiveness / Value for money",
+          "example_sentence": "가성비가 아주 좋은 제품이에요. (It's a product with very good value for money.)"
+        },
+        {
+          "word": "지출",
+          "reading": "Jichul",
+          "meaning": "Spending / Expenditure",
+          "example_sentence": "이번 달 지출이 많았어요. (Spending was high this month.)"
+        },
+        {
+          "word": "소비",
+          "reading": "Sobi",
+          "meaning": "Consumption / Spending",
+          "example_sentence": "계획적인 소비가 필요해요. (Planned spending is necessary.)"
+        },
+        {
+          "word": "낭비",
+          "reading": "Nangbi",
+          "meaning": "Waste",
+          "example_sentence": "돈 낭비를 하지 마세요. (Don't waste money.)"
+        },
+        {
+          "word": "절약",
+          "reading": "Jeoryak",
+          "meaning": "Frugality / Saving",
+          "example_sentence": "전기 에너지를 절약해요. (Save electric energy.)"
+        },
+        {
+          "word": "저금",
+          "reading": "Jeogeum",
+          "meaning": "Saving money",
+          "example_sentence": "매달 일정 금액을 저금해요. (I save a certain amount of money every month.)"
+        },
+        {
+          "word": "통장",
+          "reading": "Tongjang",
+          "meaning": "Bankbook / Savings account",
+          "example_sentence": "새로운 통장을 만들었어요. (I opened a new savings account.)"
+        },
+        {
+          "word": "입금",
+          "reading": "Ipgum",
+          "meaning": "Deposit",
+          "example_sentence": "계좌에 돈을 입금했어요. (I deposited money into the account.)"
+        },
+        {
+          "word": "출금",
+          "reading": "Chulgum",
+          "meaning": "Withdrawal",
+          "example_sentence": "ATM에서 현금을 출금했어요. (I withdrew cash from the ATM.)"
+        },
+        {
+          "word": "송금",
+          "reading": "Songgum",
+          "meaning": "Remittance / Wire transfer",
+          "example_sentence": "친구에게 돈을 송금했어요. (I transferred money to a friend.)"
+        },
+        {
+          "word": "공과금",
+          "reading": "Gonggwageum",
+          "meaning": "Utility bills / Public charges",
+          "example_sentence": "공과금을 납부해야 해요. (I need to pay the utility bills.)"
+        },
+        {
+          "word": "수수료",
+          "reading": "Susuryeo",
+          "meaning": "Fee / Commission",
+          "example_sentence": "이체 수수료가 없어요. (There is no transfer fee.)"
+        },
+        {
+          "word": "자동이체",
+          "reading": "Jadong-iche",
+          "meaning": "Automatic transfer / Direct debit",
+          "example_sentence": "월세를 자동이체로 설정했어요. (I set the rent to automatic transfer.)"
+        },
+        {
+          "word": "의류",
+          "reading": "Uiryu",
+          "meaning": "Clothing / Apparel",
+          "example_sentence": "의류 매장에서 쇼핑을 했어요. (I shopped at a clothing store.)"
+        },
+        {
+          "word": "상의",
+          "reading": "Sang-ui",
+          "meaning": "Top / Upper garment",
+          "example_sentence": "어떤 상의를 입을까요? (Which top should I wear?)"
+        },
+        {
+          "word": "하의",
+          "reading": "Ha-ui",
+          "meaning": "Bottom / Lower garment",
+          "example_sentence": "이 하의와 잘 어울려요. (It goes well with these bottoms.)"
+        },
+        {
+          "word": "속옷",
+          "reading": "Sogot",
+          "meaning": "Underwear / Lingerie",
+          "example_sentence": "속옷을 새로 샀어요. (I bought new underwear.)"
+        },
+        {
+          "word": "양말",
+          "reading": "Yangmal",
+          "meaning": "Socks",
+          "example_sentence": "양말 한 켤레를 샀어요. (I bought a pair of socks.)"
+        },
+        {
+          "word": "수제화",
+          "reading": "Sujehwa",
+          "meaning": "Handmade shoes",
+          "example_sentence": "성수동에서 수제화를 맞췄어요. (I got handmade shoes in Seongsu-dong.)"
+        },
+        {
+          "word": "러닝화",
+          "reading": "Reoning-hwa",
+          "meaning": "Running shoes",
+          "example_sentence": "가벼운 러닝화를 신고 뛰어요. (Run wearing lightweight running shoes.)"
+        },
+        {
+          "word": "구두",
+          "reading": "Gudu",
+          "meaning": "Dress shoes",
+          "example_sentence": "정장에 구두를 신었어요. (I wore dress shoes with my suit.)"
+        },
+        {
+          "word": "등산가방",
+          "reading": "Deungsangabang",
+          "meaning": "Hiking bag / Trekking backpack",
+          "example_sentence": "산에 갈 때 등산가방을 챙겨요. (I pack a hiking bag when going to the mountains.)"
+        },
+        {
+          "word": "비니",
+          "reading": "Bini",
+          "meaning": "Beanie / Knit cap",
+          "example_sentence": "겨울이라서 따뜻한 비니를 썼어요. (I wore a warm beanie since it's winter.)"
+        },
+        {
+          "word": "돋보기",
+          "reading": "Dotbogi",
+          "meaning": "Reading glasses / Magnifier",
+          "example_sentence": "할머니께 돋보기를 선물해 드렸어요. (I gave my grandmother reading glasses as a gift.)"
+        },
+        {
+          "word": "고글",
+          "reading": "Gogeul",
+          "meaning": "Goggles",
+          "example_sentence": "스키 탈 때 고글을 써야 해요. (You should wear goggles when skiing.)"
+        },
+        {
+          "word": "장신구",
+          "reading": "Jangsinggu",
+          "meaning": "Accessory / Jewelry",
+          "example_sentence": "화려한 장신구를 좋아해요. (I like fancy accessories.)"
+        },
+        {
+          "word": "손목시계",
+          "reading": "Sonmoksigye",
+          "meaning": "Wristwatch",
+          "example_sentence": "손목시계 배터리를 갈았어요. (I changed the wristwatch battery.)"
+        },
+        {
+          "word": "기초화장품",
+          "reading": "Gichohwajangpum",
+          "meaning": "Skincare cosmetics / Basic cosmetics",
+          "example_sentence": "피부에 맞는 기초화장품을 써요. (I use skincare cosmetics that suit my skin.)"
+        },
+        {
+          "word": "향수",
+          "reading": "Hyangsu",
+          "meaning": "Perfume",
+          "example_sentence": "향수 냄새가 좋아요. (The perfume smells good.)"
+        },
+        {
+          "word": "샴푸",
+          "reading": "Syampu",
+          "meaning": "Shampoo",
+          "example_sentence": "샴푸가 다 떨어졌어요. (We're out of shampoo.)"
+        },
+        {
+          "word": "린스",
+          "reading": "Rinseu",
+          "meaning": "Conditioner",
+          "example_sentence": "린스를 사용하면 머릿결이 좋아져요. (Conditioning makes your hair smoother.)"
+        },
+        {
+          "word": "가글",
+          "reading": "Gageul",
+          "meaning": "Mouthwash / Gargle",
+          "example_sentence": "양치 후에 가글을 했어요. (I used mouthwash after brushing.)"
+        },
+        {
+          "word": "전동칫솔",
+          "reading": "Jeondongchitsol",
+          "meaning": "Electric toothbrush",
+          "example_sentence": "전동칫솔이 더 깨끗하게 닦여요. (Electric toothbrushes clean more effectively.)"
+        },
+        {
+          "word": "바디클렌저",
+          "reading": "Badikeullenjeo",
+          "meaning": "Body cleanser / Body wash",
+          "example_sentence": "향이 좋은 바디클렌저를 샀어요. (I bought a good-smelling body wash.)"
+        },
+        {
+          "word": "타월",
+          "reading": "Tawol",
+          "meaning": "Towel (loanword)",
+          "example_sentence": "샤워 후 비치 타월을 썼어요. (I used a beach towel after showering.)"
+        },
+        {
+          "word": "화장지",
+          "reading": "Hwajangji",
+          "meaning": "Toilet paper / Tissue",
+          "example_sentence": "화장지가 부족해요. (We're running low on toilet paper.)"
+        },
+        {
+          "word": "세제",
+          "reading": "Seje",
+          "meaning": "Detergent / Cleaning agent",
+          "example_sentence": "주방 세제를 샀어요. (I bought dish detergent.)"
+        },
+        {
+          "word": "디지털기기",
+          "reading": "Dijiteolgigi",
+          "meaning": "Digital devices",
+          "example_sentence": "다양한 디지털기기를 활용해요. (I use various digital devices.)"
+        },
+        {
+          "word": "스마트폰",
+          "reading": "Seumateupon",
+          "meaning": "Smartphone",
+          "example_sentence": "스마트폰으로 영화를 봐요. (I watch movies on my smartphone.)"
+        },
+        {
+          "word": "노트북",
+          "reading": "Notebuk",
+          "meaning": "Laptop",
+          "example_sentence": "노트북으로 업무를 봐요. (I work on my laptop.)"
+        },
+        {
+          "word": "이어폰",
+          "reading": "Ieopon",
+          "meaning": "Earphones",
+          "example_sentence": "이어폰으로 음악을 들어요. (I listen to music with earphones.)"
+        },
+        {
+          "word": "캠코더",
+          "reading": "Kaemkodeo",
+          "meaning": "Camcorder / Video camera",
+          "example_sentence": "캠코더로 아이의 영상을 찍었어요. (I filmed the child with a camcorder.)"
+        },
+        {
+          "word": "문구",
+          "reading": "Munggu",
+          "meaning": "Stationery",
+          "example_sentence": "문구점에서 펜을 샀어요. (I bought a pen at the stationery store.)"
+        },
+        {
+          "word": "연습장",
+          "reading": "Yeonseupjang",
+          "meaning": "Exercise book / Scratchpad",
+          "example_sentence": "연습장에 수학 문제를 풀었어요. (I solved math problems on the scratchpad.)"
+        },
+        {
+          "word": "사인펜",
+          "reading": "Sainpen",
+          "meaning": "Sign pen / Felt-tip pen / Marker",
+          "example_sentence": "중요한 내용은 사인펜으로 써요. (Write important content with a sign pen.)"
+        },
+        {
+          "word": "샤프",
+          "reading": "Syapu",
+          "meaning": "Mechanical pencil",
+          "example_sentence": "샤프심이 다 됐어요. (I'm out of mechanical pencil leads.)"
+        },
+        {
+          "word": "지우개",
+          "reading": "Jiugae",
+          "meaning": "Eraser",
+          "example_sentence": "지우개로 글씨를 지웠어요. (I erased the letters with an eraser.)"
+        },
+        {
+          "word": "가위",
+          "reading": "Gawi",
+          "meaning": "Scissors",
+          "example_sentence": "가위로 종이를 잘랐어요. (I cut paper with scissors.)"
+        },
+        {
+          "word": "풀",
+          "reading": "Pul",
+          "meaning": "Glue / Paste",
+          "example_sentence": "풀로 종이를 붙였어요. (I glued the paper together.)"
+        },
+        {
+          "word": "테이프",
+          "reading": "Teipeu",
+          "meaning": "Tape",
+          "example_sentence": "테이프로 고정하세요. (Fix it with tape.)"
+        },
+        {
+          "word": "가전제품",
+          "reading": "Gajeonjepum",
+          "meaning": "Home appliances",
+          "example_sentence": "가전제품 매장에 갔어요. (I went to the home appliance store.)"
+        },
+        {
+          "word": "청소기",
+          "reading": "Cheongsogi",
+          "meaning": "Vacuum cleaner",
+          "example_sentence": "청소기로 바닥을 밀었어요. (I vacuumed the floor.)"
+        },
+        {
+          "word": "다리미",
+          "reading": "Darimi",
+          "meaning": "Iron",
+          "example_sentence": "다리미로 옷을 다렸어요. (I ironed the clothes.)"
+        },
+        {
+          "word": "전자레인지",
+          "reading": "Jeonjareinji",
+          "meaning": "Microwave oven",
+          "example_sentence": "전자레인지로 음식을 데웠어요. (I heated food in the microwave.)"
+        },
+        {
+          "word": "전기밥솥",
+          "reading": "Jeongibapsot",
+          "meaning": "Electric rice cooker",
+          "example_sentence": "전기밥솥으로 밥을 했어요. (I cooked rice with the electric rice cooker.)"
+        },
+        {
+          "word": "커피머신",
+          "reading": "Keopimeosin",
+          "meaning": "Coffee machine",
+          "example_sentence": "커피머신으로 커피를 내려요. (I brew coffee with the coffee machine.)"
+        },
+        {
+          "word": "정수기",
+          "reading": "Jeongsugi",
+          "meaning": "Water purifier / Dispenser",
+          "example_sentence": "정수기 물을 받아 마셔요. (I drink water from the purifier.)"
+        },
+        {
+          "word": "공기청정기",
+          "reading": "Gonggicheongjeonggi",
+          "meaning": "Air purifier",
+          "example_sentence": "공기청정기를 가동 중이에요. (The air purifier is running.)"
+        },
+        {
+          "word": "드라이기",
+          "reading": "Deuraigi",
+          "meaning": "Hairdryer",
+          "example_sentence": "드라이기로 머리를 말려요. (I dry my hair with a hairdryer.)"
+        },
+        {
+          "word": "면도기",
+          "reading": "Myeondogi",
+          "meaning": "Razor / Shaver",
+          "example_sentence": "전기 면도기를 사용해요. (I use an electric shaver.)"
+        },
+        {
+          "word": "가습기",
+          "reading": "Gaseupgi",
+          "meaning": "Humidifier",
+          "example_sentence": "겨울에는 가습기가 필요해요. (A humidifier is needed in winter.)"
+        },
+        {
+          "word": "전기장판",
+          "reading": "Jeongijangpan",
+          "meaning": "Electric heating pad / blanket",
+          "example_sentence": "전기장판 덕분에 따뜻해요. (It's warm thanks to the electric heating pad.)"
+        },
+        {
+          "word": "손전등",
+          "reading": "Sonjeondeung",
+          "meaning": "Flashlight",
+          "example_sentence": "정전이 돼서 손전등을 켰어요. (There was a power outage, so I turned on the flashlight.)"
+        }
+      ]
+    }
+  ],
+  "liar_game_data": {
+    "topic": "Korean 종량제 봉투 (Standard Waste Bag)",
+    "question": "In Korea, what is a unique use for the '종량제 봉투' (Jongnyangje bongtu) at convenience stores or supermarkets?",
+    "options": [
+      "It is a luxury shopping bag for high-end items.",
+      "It can be used as a shopping bag and then later as a mandatory trash bag at home.",
+      "It is a free gift bag given to regular customers.",
+      "It is a specialized bag for holding fresh fish only."
+    ],
+    "correct_answer_index": 1,
+    "explanation": "In Korea, to reduce plastic waste, stores offer the '종량제 봉투' (Standard Volume-rate Waste Bag) as a shopping bag for a small fee. This bag is specifically designed to be used later at home as the mandatory government-mandated bag for general trash disposal. This is a very efficient and unique recycling system in Korea!"
+  }
+}

@@ -1,0 +1,627 @@
+{
+  "moduleId": "ko_a1_m06",
+  "title": "Directions & Location",
+  "level": "a1",
+  "language": "korean",
+  "order": 6,
+  "lessons": [
+    {
+      "order": 1,
+      "vocabularyItems": [
+        {
+          "word": "위치",
+          "reading": "Wichi",
+          "meaning": "Location / Position",
+          "example_sentence": "현재 위치를 확인해 보세요. (Please check your current location.)"
+        },
+        {
+          "word": "방향",
+          "reading": "Banghyang",
+          "meaning": "Direction",
+          "example_sentence": "어느 방향으로 가야 해요? (In which direction should I go?)"
+        },
+        {
+          "word": "장소",
+          "reading": "Jangso",
+          "meaning": "Place / Venue",
+          "example_sentence": "모임 장소가 어디예요? (Where is the meeting place?)"
+        },
+        {
+          "word": "길",
+          "reading": "Gil",
+          "meaning": "Road / Path / Way",
+          "example_sentence": "길을 잃어버렸어요. (I lost my way / I am lost.)"
+        },
+        {
+          "word": "근처",
+          "reading": "Geuncheo",
+          "meaning": "Nearby / Vicinity",
+          "example_sentence": "은행이 이 근처에 있나요? (Is there a bank near here?)"
+        },
+        {
+          "word": "주변",
+          "reading": "Jubyeon",
+          "meaning": "Surroundings",
+          "example_sentence": "학교 주변에 식당이 많아요. (There are many restaurants around the school.)"
+        },
+        {
+          "word": "사이",
+          "reading": "Sai",
+          "meaning": "Between",
+          "example_sentence": "건물 사이에 공원이 있어요. (There is a park between the buildings.)"
+        },
+        {
+          "word": "건너편",
+          "reading": "Geonneopyeon",
+          "meaning": "Across from / Opposite side",
+          "example_sentence": "병원 건너편에 약국이 있어요. (There is a pharmacy across from the hospital.)"
+        },
+        {
+          "word": "맞은편",
+          "reading": "Majeunpyeon",
+          "meaning": "Facing / Opposite side",
+          "example_sentence": "우리 집 맞은편에 마트가 있어요. (There is a mart facing my house.)"
+        },
+        {
+          "word": "옆",
+          "reading": "Yeop",
+          "meaning": "Beside / Next to",
+          "example_sentence": "우체국 옆에 카페가 있어요. (There is a cafe next to the post office.)"
+        },
+        {
+          "word": "뒤",
+          "reading": "Dwi",
+          "meaning": "Behind / Back",
+          "example_sentence": "텔레비전 뒤에 전선이 많아요. (There are many wires behind the TV.)"
+        },
+        {
+          "word": "앞",
+          "reading": "Ap",
+          "meaning": "In front of",
+          "example_sentence": "학교 앞에서 만나요. (Let's meet in front of the school.)"
+        },
+        {
+          "word": "위",
+          "reading": "Wi",
+          "meaning": "On / Above / Up",
+          "example_sentence": "책상 위에 책이 있어요. (There is a book on the desk.)"
+        },
+        {
+          "word": "아래",
+          "reading": "Arae",
+          "meaning": "Under / Below / Down",
+          "example_sentence": "의자 아래에 가방이 있어요. (There is a bag under the chair.)"
+        },
+        {
+          "word": "안",
+          "reading": "An",
+          "meaning": "Inside",
+          "example_sentence": "가방 안에 지갑이 없어요. (There is no wallet in the bag.)"
+        },
+        {
+          "word": "밖",
+          "reading": "Bak",
+          "meaning": "Outside",
+          "example_sentence": "비가 오니까 밖으로 나가지 마세요. (It's raining, so don't go outside.)"
+        },
+        {
+          "word": "왼쪽",
+          "reading": "Oenjjok",
+          "meaning": "Left side",
+          "example_sentence": "사거리에서 왼쪽으로 가세요. (Go left at the intersection.)"
+        },
+        {
+          "word": "오른쪽",
+          "reading": "Oreunjjok",
+          "meaning": "Right side",
+          "example_sentence": "오른쪽으로 돌면 편의점이 보여요. (If you turn right, you'll see a convenience store.)"
+        },
+        {
+          "word": "직진",
+          "reading": "Jikjin",
+          "meaning": "Straight ahead",
+          "example_sentence": "여기서 쭉 직진하세요. (Go straight ahead from here.)"
+        },
+        {
+          "word": "후진",
+          "reading": "Hujin",
+          "meaning": "Backward / Reverse",
+          "example_sentence": "차가 후진하고 있어요. (The car is moving backward.)"
+        },
+        {
+          "word": "동쪽",
+          "reading": "Dongjjok",
+          "meaning": "East",
+          "example_sentence": "해는 동쪽에서 떠요. (The sun rises in the east.)"
+        },
+        {
+          "word": "서쪽",
+          "reading": "Seojjok",
+          "meaning": "West",
+          "example_sentence": "해는 서쪽으로 져요. (The sun sets in the west.)"
+        },
+        {
+          "word": "남쪽",
+          "reading": "Namjjok",
+          "meaning": "South",
+          "example_sentence": "남쪽으로 내려가면 바다가 있어요. (There is a sea if you go south.)"
+        },
+        {
+          "word": "북쪽",
+          "reading": "Bukjjok",
+          "meaning": "North",
+          "example_sentence": "북쪽은 날씨가 아주 추워요. (The weather is very cold in the north.)"
+        },
+        {
+          "word": "건물",
+          "reading": "Geonmul",
+          "meaning": "Building",
+          "example_sentence": "이 건물은 아주 높아요. (This building is very tall.)"
+        },
+        {
+          "word": "계단",
+          "reading": "Gyedan",
+          "meaning": "Stairs",
+          "example_sentence": "계단을 조심해서 내려오세요. (Please be careful coming down the stairs.)"
+        },
+        {
+          "word": "엘리베이터",
+          "reading": "Ellibeiteo",
+          "meaning": "Elevator",
+          "example_sentence": "엘리베이터를 타고 올라가요. (I'm going up in the elevator.)"
+        },
+        {
+          "word": "에스컬레이터",
+          "reading": "Eoseukeolleiteo",
+          "meaning": "Escalator",
+          "example_sentence": "백화점에 에스컬레이터가 있어요. (There is an escalator in the department store.)"
+        },
+        {
+          "word": "입구",
+          "reading": "Ipgu",
+          "meaning": "Entrance",
+          "example_sentence": "정문 입구에서 기다릴게요. (I'll wait at the main entrance.)"
+        },
+        {
+          "word": "출구",
+          "reading": "Chulgu",
+          "meaning": "Exit",
+          "example_sentence": "삼 번 출구로 나오세요. (Please come out through exit number 3.)"
+        },
+        {
+          "word": "비상구",
+          "reading": "Bisanggu",
+          "meaning": "Emergency exit",
+          "example_sentence": "비상구 위치를 확인하세요. (Check the location of the emergency exit.)"
+        },
+        {
+          "word": "화장실",
+          "reading": "Hwajangsil",
+          "meaning": "Bathroom / Toilet",
+          "example_sentence": "화장실이 어디에 있어요? (Where is the bathroom?)"
+        },
+        {
+          "word": "사거리",
+          "reading": "Sageori",
+          "meaning": "Crossroads / Intersection",
+          "example_sentence": "사거리에서 신호등을 보세요. (Look at the traffic light at the intersection.)"
+        },
+        {
+          "word": "삼거리",
+          "reading": "Samgeori",
+          "meaning": "T-junction / Three-way intersection",
+          "example_sentence": "저 삼거리에서 오른쪽으로 꺾으세요. (Please turn right at that T-junction.)"
+        },
+        {
+          "word": "횡단보도",
+          "reading": "Hoengdanbodo",
+          "meaning": "Crosswalk",
+          "example_sentence": "횡단보도를 건널 때 조심하세요. (Be careful when crossing the crosswalk.)"
+        },
+        {
+          "word": "신호등",
+          "reading": "Sinhodeung",
+          "meaning": "Traffic light",
+          "example_sentence": "신호등이 빨간색이에요. (The traffic light is red.)"
+        },
+        {
+          "word": "지하철역",
+          "reading": "Jihacheolyeok",
+          "meaning": "Subway station",
+          "example_sentence": "강남역은 큰 지하철역이에요. (Gangnam station is a big subway station.)"
+        },
+        {
+          "word": "버스 정류장",
+          "reading": "Beoseu Jeongnyujang",
+          "meaning": "Bus stop",
+          "example_sentence": "집 앞에 버스 정류장이 있어요. (There is a bus stop in front of the house.)"
+        },
+        {
+          "word": "정거장",
+          "reading": "Jeonggeojang",
+          "meaning": "Stop (Station)",
+          "example_sentence": "두 정거장 뒤에 내리세요. (Please get off two stops later.)"
+        },
+        {
+          "word": "마을",
+          "reading": "Maeul",
+          "meaning": "Village / Town",
+          "example_sentence": "조용한 시골 마을에 살고 싶어요. (I want to live in a quiet countryside village.)"
+        },
+        {
+          "word": "도시",
+          "reading": "Dosi",
+          "meaning": "City",
+          "example_sentence": "서울은 아주 복잡한 도시예요. (Seoul is a very complex city.)"
+        },
+        {
+          "word": "수도",
+          "reading": "Sudo",
+          "meaning": "Capital city",
+          "example_sentence": "한국의 수도는 서울이에요. (The capital of Korea is Seoul.)"
+        },
+        {
+          "word": "지도",
+          "reading": "Jido",
+          "meaning": "Map",
+          "example_sentence": "지도를 보면서 길을 찾아요. (I look for the way while looking at the map.)"
+        },
+        {
+          "word": "내비게이션",
+          "reading": "Naebigeisyeon",
+          "meaning": "Navigation system",
+          "example_sentence": "내비게이션을 켜고 운전해요. (I drive with the navigation system on.)"
+        },
+        {
+          "word": "택시 승강장",
+          "reading": "Taeksi Seunggangjang",
+          "meaning": "Taxi stand",
+          "example_sentence": "택시 승강장에 택시가 없어요. (There are no taxis at the taxi stand.)"
+        },
+        {
+          "word": "주차장",
+          "reading": "Juchajang",
+          "meaning": "Parking lot",
+          "example_sentence": "지하 주차장에 차를 세웠어요. (I parked the car in the underground parking lot.)"
+        },
+        {
+          "word": "공항",
+          "reading": "Gonghang",
+          "meaning": "Airport",
+          "example_sentence": "인천공항은 아주 넓어요. (Incheon Airport is very spacious.)"
+        },
+        {
+          "word": "항구",
+          "reading": "Hanggu",
+          "meaning": "Port / Harbor",
+          "example_sentence": "부산항에 큰 배들이 많아요. (There are many big ships in Busan Port.)"
+        },
+        {
+          "word": "기차역",
+          "reading": "Gichayeok",
+          "meaning": "Train station",
+          "example_sentence": "기차역까지 데려다 줄게요. (I'll take you to the train station.)"
+        },
+        {
+          "word": "매표소",
+          "reading": "Maepyoso",
+          "meaning": "Ticket office",
+          "example_sentence": "매표소에서 티켓을 샀어요. (I bought tickets at the ticket office.)"
+        },
+        {
+          "word": "안내소",
+          "reading": "Annaeso",
+          "meaning": "Information desk",
+          "example_sentence": "궁금한 게 있으면 안내소에 물어보세요. (If you have questions, ask at the information desk.)"
+        },
+        {
+          "word": "약국",
+          "reading": "Yakguk",
+          "meaning": "Pharmacy",
+          "example_sentence": "약국에서 감기약을 샀어요. (I bought cold medicine at the pharmacy.)"
+        },
+        {
+          "word": "병원",
+          "reading": "Byeongwon",
+          "meaning": "Hospital",
+          "example_sentence": "몸이 아파서 병원에 갔어요. (I went to the hospital because I was sick.)"
+        },
+        {
+          "word": "은행",
+          "reading": "Eunhaeng",
+          "meaning": "Bank",
+          "example_sentence": "은행에서 돈을 찾았어요. (I withdrew money from the bank.)"
+        },
+        {
+          "word": "우체국",
+          "reading": "Ucheguk",
+          "meaning": "Post office",
+          "example_sentence": "우체국에서 소포를 보냈어요. (I sent a package at the post office.)"
+        },
+        {
+          "word": "경찰서",
+          "reading": "Gyeongchalseo",
+          "meaning": "Police station",
+          "example_sentence": "경찰서 위치를 아세요? (Do you know the location of the police station?)"
+        },
+        {
+          "word": "소방서",
+          "reading": "Sobangseo",
+          "meaning": "Fire station",
+          "example_sentence": "우리 동네에 소방서가 새로 생겼어요. (A new fire station was built in our neighborhood.)"
+        },
+        {
+          "word": "도서관",
+          "reading": "Doseogwan",
+          "meaning": "Library",
+          "example_sentence": "도서관에서 시험 공부를 해요. (I study for tests in the library.)"
+        },
+        {
+          "word": "미술관",
+          "reading": "Misulgwan",
+          "meaning": "Art museum",
+          "example_sentence": "주말에 미술관 관람을 갔어요. (I went to see an art museum on the weekend.)"
+        },
+        {
+          "word": "박물관",
+          "reading": "Bangmulgwan",
+          "meaning": "Museum",
+          "example_sentence": "박물관에서 옛날 물건을 봤어요. (I saw old objects in the museum.)"
+        },
+        {
+          "word": "영화관",
+          "reading": "Yeonghwagwan",
+          "meaning": "Movie theater",
+          "example_sentence": "영화관에서 팝콘을 먹었어요. (I ate popcorn at the movie theater.)"
+        },
+        {
+          "word": "카페",
+          "reading": "Kape",
+          "meaning": "Cafe",
+          "example_sentence": "카페에서 커피를 마셔요. (I drink coffee at a cafe.)"
+        },
+        {
+          "word": "커피숍",
+          "reading": "Keopisyop",
+          "meaning": "Coffee shop",
+          "example_sentence": "조용한 커피숍을 찾고 있어요. (I'm looking for a quiet coffee shop.)"
+        },
+        {
+          "word": "빵집",
+          "reading": "Ppangjip",
+          "meaning": "Bakery",
+          "example_sentence": "빵집에서 갓 구운 빵을 샀어요. (I bought freshly baked bread at the bakery.)"
+        },
+        {
+          "word": "세탁소",
+          "reading": "Setakso",
+          "meaning": "Laundry / Dry cleaners",
+          "example_sentence": "세탁소에 코트를 맡겼어요. (I left my coat at the dry cleaners.)"
+        },
+        {
+          "word": "미용실",
+          "reading": "Miyongsil",
+          "meaning": "Hair salon",
+          "example_sentence": "미용실에서 파마를 했어요. (I got a perm at the hair salon.)"
+        },
+        {
+          "word": "약속 장소",
+          "reading": "Yaksok Jangso",
+          "meaning": "Meeting place",
+          "example_sentence": "여기가 우리 약속 장소예요. (This is our meeting place.)"
+        },
+        {
+          "word": "지름길",
+          "reading": "Jireumgil",
+          "meaning": "Short cut",
+          "example_sentence": "지름길로 가면 더 빨라요. (It's faster if you go by a short cut.)"
+        },
+        {
+          "word": "골목",
+          "reading": "Golmok",
+          "meaning": "Alleyway",
+          "example_sentence": "작은 골목에 예쁜 카페가 많아요. (There are many pretty cafes in the small alleyway.)"
+        },
+        {
+          "word": "육교",
+          "reading": "Yukgyo",
+          "meaning": "Pedestrian overpass",
+          "example_sentence": "육교를 건너서 가세요. (Please go by crossing the pedestrian overpass.)"
+        },
+        {
+          "word": "지하도",
+          "reading": "Jihado",
+          "meaning": "Underground passage / Tunnel",
+          "example_sentence": "지하도로 내려가면 시원해요. (It's cool if you go down to the underground passage.)"
+        },
+        {
+          "word": "산",
+          "reading": "San",
+          "meaning": "Mountain",
+          "example_sentence": "친구와 함께 산에 올라갔어요. (I climbed a mountain with my friend.)"
+        },
+        {
+          "word": "바다",
+          "reading": "Bada",
+          "meaning": "Sea / Ocean",
+          "example_sentence": "여름에 바다에 가고 싶어요. (I want to go to the sea in summer.)"
+        },
+        {
+          "word": "강",
+          "reading": "Gang",
+          "meaning": "River",
+          "example_sentence": "한강은 야경이 정말 예뻐요. (The night view of the Han River is really pretty.)"
+        },
+        {
+          "word": "섬",
+          "reading": "Seom",
+          "meaning": "Island",
+          "example_sentence": "제주도는 아주 아름다운 섬이에요. (Jeju Island is a very beautiful island.)"
+        },
+        {
+          "word": "호수",
+          "reading": "Hosu",
+          "meaning": "Lake",
+          "example_sentence": "호수 주변을 산책했어요. (I took a walk around the lake.)"
+        },
+        {
+          "word": "다리",
+          "reading": "Dari",
+          "meaning": "Bridge",
+          "example_sentence": "다리를 건너면 바로 보여요. (You'll see it as soon as you cross the bridge.)"
+        },
+        {
+          "word": "거리",
+          "reading": "Geori",
+          "meaning": "Street / Distance",
+          "example_sentence": "집에서 학교까지 거리가 가까워요. (The distance from home to school is close.)"
+        },
+        {
+          "word": "장바구니",
+          "reading": "Jangbaguni",
+          "meaning": "Shopping basket",
+          "example_sentence": "장바구니를 들고 시장에 가요. (I go to the market with a shopping basket.)"
+        },
+        {
+          "word": "방문하다",
+          "reading": "Bangmunhada",
+          "meaning": "To visit",
+          "example_sentence": "할머니 댁을 방문했어요. (I visited grandmother's house.)"
+        },
+        {
+          "word": "길을 묻다",
+          "reading": "Gireul mutda",
+          "meaning": "To ask for directions",
+          "example_sentence": "모르는 사람에게 길을 물었어요. (I asked a stranger for directions.)"
+        },
+        {
+          "word": "길을 가르쳐주다",
+          "reading": "Gireul gareuchyeojuda",
+          "meaning": "To give directions",
+          "example_sentence": "친절하게 길을 가르쳐주었어요. (They kindly gave me directions.)"
+        },
+        {
+          "word": "찾아가다",
+          "reading": "Chajagada",
+          "meaning": "To go and find / visit",
+          "example_sentence": "지도를 보고 식당을 찾아갔어요. (I looked at the map and found the restaurant.)"
+        },
+        {
+          "word": "헤매다",
+          "reading": "Hemaeda",
+          "meaning": "To wander / stagger",
+          "example_sentence": "처음 오는 길이라 한참 헤맸어요. (I wandered for a while as it was my first time on this road.)"
+        },
+        {
+          "word": "모퉁이",
+          "reading": "Motungi",
+          "meaning": "Corner",
+          "example_sentence": "모퉁이를 돌면 우체국이 나와요. (If you turn the corner, the post office will appear.)"
+        },
+        {
+          "word": "가로등",
+          "reading": "Garodeung",
+          "meaning": "Street lamp",
+          "example_sentence": "밤길에 가로등이 켜져 있어요. (Street lamps are on along the night road.)"
+        },
+        {
+          "word": "표지판",
+          "reading": "Pyojipan",
+          "meaning": "Signboard / Traffic sign",
+          "example_sentence": "표지판을 잘 확인하세요. (Please check the signs carefully.)"
+        },
+        {
+          "word": "정문",
+          "reading": "Jeongmun",
+          "meaning": "Main gate",
+          "example_sentence": "학교 정문에서 기다릴게요. (I'll wait at the school's main gate.)"
+        },
+        {
+          "word": "후문",
+          "reading": "Humun",
+          "meaning": "Back gate",
+          "example_sentence": "식당은 학교 후문 옆에 있어요. (The restaurant is next to the school's back gate.)"
+        },
+        {
+          "word": "옥상",
+          "reading": "Oksang",
+          "meaning": "Rooftop",
+          "example_sentence": "옥상에서 야경을 봤어요. (I watched the night view from the rooftop.)"
+        },
+        {
+          "word": "지하실",
+          "reading": "Jihasil",
+          "meaning": "Basement",
+          "example_sentence": "지하실에 물건을 보관해요. (I store items in the basement.)"
+        },
+        {
+          "word": "고가도로",
+          "reading": "Gogado-ro",
+          "meaning": "Overpass (Road)",
+          "example_sentence": "고가도로 위는 차가 많이 막혀요. (Traffic is very heavy on the overpass.)"
+        },
+        {
+          "word": "터널",
+          "reading": "Teoneol",
+          "meaning": "Tunnel",
+          "example_sentence": "터널 안이 아주 어두워요. (It is very dark inside the tunnel.)"
+        },
+        {
+          "word": "인도",
+          "reading": "Indo",
+          "meaning": "Sidewalk / Pavement",
+          "example_sentence": "인도로 걸어 다니세요. (Please walk on the sidewalk.)"
+        },
+        {
+          "word": "차도",
+          "reading": "Chado",
+          "meaning": "Carriageway / Road for cars",
+          "example_sentence": "차도로 뛰어들면 위험해요. (It's dangerous to run onto the road.)"
+        },
+        {
+          "word": "건너다",
+          "reading": "Geonneoda",
+          "meaning": "To cross",
+          "example_sentence": "길을 건널 때 좌우를 살피세요. (Look left and right when crossing the road.)"
+        },
+        {
+          "word": "오르막길",
+          "reading": "Oreumakgil",
+          "meaning": "Uphill road",
+          "example_sentence": "오르막길이라 걷기 힘들어요. (It's hard to walk because it's an uphill road.)"
+        },
+        {
+          "word": "내리막길",
+          "reading": "Naerimakgil",
+          "meaning": "Downhill road",
+          "example_sentence": "내리막길에서는 자전거 속도가 빨라요. (Bicycle speed is fast on downhill roads.)"
+        },
+        {
+          "word": "일방통행",
+          "reading": "Ilbangtonghaeng",
+          "meaning": "One-way street",
+          "example_sentence": "이 길은 일방통행로예요. (This road is a one-way street.)"
+        },
+        {
+          "word": "지하상가",
+          "reading": "Jihasangga",
+          "meaning": "Underground shopping center",
+          "example_sentence": "강남역 지하상가에 옷이 많아요. (There are many clothes in the Gangnam station underground shopping center.)"
+        }
+      ]
+    }
+  ],
+  "liar_game_data": {
+    "topic": "Giving Directions & Politeness",
+    "question": "When someone asks you for directions in Korea and you are not sure where the place is, what is the most polite and common response?",
+    "options": [
+      "Just ignore them and walk away.",
+      "Say 'Joesonghamnida, jal moreugetseumnida' (I'm sorry, I don't know well) with a small bow.",
+      "Point in a random direction so they don't think you are unhelpful.",
+      "Tell them to find it on their own using a phone."
+    ],
+    "correct_answer_index": 1,
+    "explanation": "If you cannot help with directions, it is polite to apologize. Using honorifics and a slight bow shows respect. Many Koreans will even try to help by searching on their own phones if they have time."
+  },
+  "theme": "Directions & Location"
+}

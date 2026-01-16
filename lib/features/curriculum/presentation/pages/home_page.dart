@@ -3,6 +3,7 @@ import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'levels_page.dart';
+import '../../../auth/presentation/providers/auth_providers.dart';
 
 class HomePage extends ConsumerStatefulWidget {
   const HomePage({super.key});
@@ -11,10 +12,11 @@ class HomePage extends ConsumerStatefulWidget {
   ConsumerState<HomePage> createState() => _HomePageState();
 }
 
-class _HomePageState extends ConsumerState<HomePage> {
+class _HomePageState extends ConsumerState<HomePage> with SingleTickerProviderStateMixin {
   final ScrollController _scrollController = ScrollController();
   final GlobalKey _languagesKey = GlobalKey();
-  final GlobalKey _aboutKey = GlobalKey();
+  late AnimationController _parrotController;
+  late Animation<double> _parrotAnimation;
 
   void _scrollToSection(GlobalKey key) {
     final context = key.currentContext;
@@ -28,8 +30,22 @@ class _HomePageState extends ConsumerState<HomePage> {
   }
 
   @override
+  void initState() {
+    super.initState();
+    _parrotController = AnimationController(
+      duration: const Duration(seconds: 3),
+      vsync: this,
+    )..repeat(reverse: true);
+    
+    _parrotAnimation = Tween<double>(begin: -10, end: 10).animate(
+      CurvedAnimation(parent: _parrotController, curve: Curves.easeInOut),
+    );
+  }
+
+  @override
   void dispose() {
     _scrollController.dispose();
+    _parrotController.dispose();
     super.dispose();
   }
 
@@ -90,6 +106,44 @@ class _HomePageState extends ConsumerState<HomePage> {
       },
       child: Scaffold(
         backgroundColor: Colors.white,
+        persistentFooterButtons: [
+          Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              TextButton(
+                onPressed: () {
+                  Navigator.pushNamed(context, '/compliance');
+                },
+                child: Text(
+                  'Terms of Service',
+                  style: TextStyle(
+                    color: Colors.grey.shade600,
+                    fontSize: 12,
+                  ),
+                ),
+              ),
+              Text(
+                '•',
+                style: TextStyle(
+                  color: Colors.grey.shade400,
+                  fontSize: 12,
+                ),
+              ),
+              TextButton(
+                onPressed: () {
+                  Navigator.pushNamed(context, '/compliance');
+                },
+                child: Text(
+                  'Privacy Policy',
+                  style: TextStyle(
+                    color: Colors.grey.shade600,
+                    fontSize: 12,
+                  ),
+                ),
+              ),
+            ],
+          ),
+        ],
         appBar: AppBar(
           elevation: 0,
           backgroundColor: Colors.white,
@@ -98,33 +152,53 @@ class _HomePageState extends ConsumerState<HomePage> {
           centerTitle: false,
           title: Padding(
             padding: const EdgeInsets.only(left: 16.0),
-            child: Row(
+                        child: Column(
               mainAxisSize: MainAxisSize.min,
-              mainAxisAlignment: MainAxisAlignment.start,
+              crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                // Parrot mascot image
-                Image.asset(
-                  'assets/images/parrot_transparent.png',
-                  height: 48.0,
-                  errorBuilder: (context, error, stackTrace) {
-                    return const SizedBox(width: 48, height: 48);
-                  },
-                ),
-                const SizedBox(width: 10.0),
-                // ChirPolly colorful text
                 Row(
                   mainAxisSize: MainAxisSize.min,
+                  mainAxisAlignment: MainAxisAlignment.start,
                   children: [
-                    _buildBrandLetter('C', Colors.blue.shade600),
-                    _buildBrandLetter('h', Colors.red.shade500),
-                    _buildBrandLetter('i', Colors.orange.shade600),
-                    _buildBrandLetter('r', Colors.amber.shade700),
-                    _buildBrandLetter('P', Colors.green.shade600),
-                    _buildBrandLetter('o', Colors.teal.shade600),
-                    _buildBrandLetter('l', Colors.purple.shade600),
-                    _buildBrandLetter('l', Colors.pink.shade600),
-                    _buildBrandLetter('y', Colors.deepPurple.shade600),
+                    // Parrot mascot image
+                    Image.asset(
+                      'assets/images/parrot_transparent.png',
+                      height: 48.0,
+                      errorBuilder: (context, error, stackTrace) {
+                        return const SizedBox(width: 48, height: 48);
+                      },
+                    ),
+                    const SizedBox(width: 20.0),
+                    // ChirPolly colorful text
+                    Row(
+                      mainAxisSize: MainAxisSize.min,
+                      children: [
+                        _buildBrandLetter('C', Colors.blue.shade600),
+                        _buildBrandLetter('h', Colors.red.shade500),
+                        _buildBrandLetter('i', Colors.orange.shade600),
+                        _buildBrandLetter('r', Colors.amber.shade700),
+                        _buildBrandLetter('P', Colors.green.shade600),
+                        _buildBrandLetter('o', Colors.teal.shade600),
+                        _buildBrandLetter('l', Colors.purple.shade600),
+                        _buildBrandLetter('l', Colors.pink.shade600),
+                        _buildBrandLetter('y', Colors.deepPurple.shade600),
+                      ],
+                    ),
                   ],
+                ),
+                ShaderMask(
+                  shaderCallback: (bounds) => const LinearGradient(
+                    colors: [Color(0xFF6A4CBC), Color(0xFF2E3192), Color(0xFFFF6B6B)],
+                  ).createShader(bounds),
+                  child: const Text(
+                    'Every voice. Every language. One world !',
+                    style: TextStyle(
+                      fontSize: 12,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.white,
+                      letterSpacing: 0.5,
+                    ),
+                  ),
                 ),
               ],
             ),
@@ -143,7 +217,7 @@ class _HomePageState extends ConsumerState<HomePage> {
             ),
             const SizedBox(width: 16),
             TextButton(
-              onPressed: () => _scrollToSection(_aboutKey),
+              onPressed: () => Navigator.pushNamed(context, '/about'),
               child: Text(
                 'About',
                 style: TextStyle(
@@ -152,6 +226,100 @@ class _HomePageState extends ConsumerState<HomePage> {
                   fontWeight: FontWeight.w600,
                 ),
               ),
+            ),
+            const SizedBox(width: 16),
+            // Login/Logout button
+            Consumer(
+              builder: (context, ref, child) {
+                final currentUser = ref.watch(currentUserProvider);
+                
+                if (currentUser != null) {
+                  // User is logged in - show logout button
+                  return PopupMenuButton<String>(
+                    offset: const Offset(0, 50),
+                    child: Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                      decoration: BoxDecoration(
+                        color: const Color(0xFF6A4CBC).withOpacity(0.1),
+                        borderRadius: BorderRadius.circular(8),
+                      ),
+                      child: Row(
+                        mainAxisSize: MainAxisSize.min,
+                        children: [
+                          Icon(
+                            Icons.account_circle,
+                            color: const Color(0xFF6A4CBC),
+                            size: 20,
+                          ),
+                          const SizedBox(width: 6),
+                          Text(
+                            currentUser.email.split('@')[0],
+                            style: const TextStyle(
+                              color: Color(0xFF6A4CBC),
+                              fontSize: 14,
+                              fontWeight: FontWeight.w600,
+                            ),
+                          ),
+                          const SizedBox(width: 4),
+                          Icon(
+                            Icons.arrow_drop_down,
+                            color: const Color(0xFF6A4CBC),
+                            size: 20,
+                          ),
+                        ],
+                      ),
+                    ),
+                    itemBuilder: (context) => [
+                      PopupMenuItem<String>(
+                        value: 'logout',
+                        child: Row(
+                          children: [
+                            Icon(Icons.logout, size: 18, color: Colors.grey.shade700),
+                            const SizedBox(width: 8),
+                            const Text('Sign Out'),
+                          ],
+                        ),
+                      ),
+                      PopupMenuItem<String>(
+                        value: 'delete_account',
+                        child: Row(
+                          children: [
+                            Icon(Icons.person_remove_outlined, size: 18, color: Colors.red.shade400),
+                            const SizedBox(width: 8),
+                            Text(
+                              'Delete Account',
+                              style: TextStyle(color: Colors.red.shade400),
+                            ),
+                          ],
+                        ),
+                      ),
+                    ],
+                    onSelected: (value) async {
+                      if (value == 'logout') {
+                        await ref.read(authControllerProvider.notifier).signOut();
+                      } else if (value == 'delete_account') {
+                        _showDeleteAccountConfirmation(context, ref);
+                      }
+                    },
+                  );
+                } else {
+                  // User is not logged in - this shouldn't happen due to AuthGate
+                  // but we'll show login button just in case
+                  return TextButton(
+                    onPressed: () {
+                      Navigator.pushNamed(context, '/login');
+                    },
+                    child: Text(
+                      'Login',
+                      style: TextStyle(
+                        color: Colors.grey.shade800,
+                        fontSize: 16,
+                        fontWeight: FontWeight.w600,
+                      ),
+                    ),
+                  );
+                }
+              },
             ),
             const SizedBox(width: 32),
           ],
@@ -178,7 +346,6 @@ class _HomePageState extends ConsumerState<HomePage> {
                 children: [
                   _buildHeroSection(),
                   _buildLanguagesSection(languages),
-                  _buildAboutSection(),
                   _buildFooter(),
                 ],
               ),
@@ -247,34 +414,47 @@ class _HomePageState extends ConsumerState<HomePage> {
                                 ? CrossAxisAlignment.start
                                 : CrossAxisAlignment.center,
                             children: [
-                              FittedBox(
-                                fit: BoxFit.scaleDown,
+                              Padding(
+                                padding: const EdgeInsets.only(bottom: 20),
+                                child: FittedBox(
+                                  fit: BoxFit.scaleDown,
+                                  child: ShaderMask(
+                                    shaderCallback: (bounds) => const LinearGradient(
+                                      colors: [Color(0xFF2E3192), Color(0xFF6A4CBC)],
+                                    ).createShader(bounds),
+                                    child: Text(
+                                      'Don\'t Just Learn.\nStart Chirping.',
+                                      style: TextStyle(
+                                        fontSize: isDesktop ? 64 : 42,
+                                        fontWeight: FontWeight.bold, // Bold
+                                        color: Colors.white,
+                                        height: 1.25,
+                                        letterSpacing: -0.5, // Tight letter spacing
+                                      ),
+                                      textAlign: isDesktop
+                                          ? TextAlign.start
+                                          : TextAlign.center,
+                                    ),
+                                  ),
+                                ),
+                              ),
+                              const SizedBox(height: 24),
+                              ShaderMask(
+                                shaderCallback: (bounds) => const LinearGradient(
+                                  colors: [Color(0xFF2E3192), Color(0xFF4A90E2)],
+                                ).createShader(bounds),
                                 child: Text(
-                                  'Don\'t Just Learn.\nStart Chirping.',
+                                  'Break barriers. Preserve heritage.\nConnect with the world—one conversation at a time.',
                                   style: TextStyle(
-                                    fontSize: isDesktop ? 64 : 42,
-                                    fontWeight: FontWeight.bold, // Bold
-                                    color: const Color(0xFF2E3192), // Deep Indigo
-                                    height: 1.1,
-                                    letterSpacing: -0.5, // Tight letter spacing
+                                    fontSize: 18, // Size 18
+                                    color: Colors.white,
+                                    height: 1.5, // Line height 1.5
+                                    fontWeight: FontWeight.w600,
                                   ),
                                   textAlign: isDesktop
                                       ? TextAlign.start
                                       : TextAlign.center,
                                 ),
-                              ),
-                              const SizedBox(height: 24),
-                              Text(
-                                'Master 21 languages through immersive play,\ncultural insights, and real conversation.',
-                                style: TextStyle(
-                                  fontSize: 18, // Size 18
-                                  color: const Color(0xFF2E3192).withOpacity(0.8),
-                                  height: 1.5, // Line height 1.5
-                                  fontWeight: FontWeight.normal,
-                                ),
-                                textAlign: isDesktop
-                                    ? TextAlign.start
-                                    : TextAlign.center,
                               ),
                               const SizedBox(height: 48),
                               
@@ -325,18 +505,27 @@ class _HomePageState extends ConsumerState<HomePage> {
                             ),
                             child: Padding(
                               padding: const EdgeInsets.only(right: 20.0), // Slight padding to right
-                              child: Image.asset(
-                                'assets/images/parrot_transparent.png',
-                                fit: BoxFit.contain,
-                                errorBuilder: (context, error, stackTrace) {
-                                  return const SizedBox(
-                                    height: 200,
-                                    child: Center(
-                                      child: Icon(Icons.image_not_supported,
-                                          size: 64, color: Colors.black26),
-                                    ),
+                              child: AnimatedBuilder(
+                                animation: _parrotAnimation,
+                                builder: (context, child) {
+                                  return Transform.translate(
+                                    offset: Offset(0, _parrotAnimation.value),
+                                    child: child,
                                   );
                                 },
+                                child: Image.asset(
+                                  'assets/images/parrot_transparent.png',
+                                  fit: BoxFit.contain,
+                                  errorBuilder: (context, error, stackTrace) {
+                                    return const SizedBox(
+                                      height: 200,
+                                      child: Center(
+                                        child: Icon(Icons.image_not_supported,
+                                            size: 64, color: Colors.black26),
+                                      ),
+                                    );
+                                  },
+                                ),
                               ),
                             ),
                           ),
@@ -409,222 +598,41 @@ class _HomePageState extends ConsumerState<HomePage> {
           // Grid
           Container(
             constraints: const BoxConstraints(maxWidth: 1200),
-            child: GridView.builder(
-              shrinkWrap: true,
-              physics: const NeverScrollableScrollPhysics(),
-              gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-                crossAxisCount: 3,
-                crossAxisSpacing: 24,
-                mainAxisSpacing: 24,
-                childAspectRatio: 1.5,
-              ),
-              itemCount: languages.length,
-              itemBuilder: (context, index) {
-                final languageDoc = languages[index];
-                final languageData = languageDoc.data() as Map<String, dynamic>;
-                
-                return _buildLanguageCard(
-                  context,
-                  languageId: languageDoc.id,
-                  flag: languageData['flag'] ?? '🌍',
-                  name: languageData['name'] ?? 'Unknown',
-                  nativeScript: languageData['nativeScript'] ?? '',
+            child: LayoutBuilder(
+              builder: (context, constraints) {
+                final width = constraints.maxWidth;
+                final crossAxisCount = width < 600 ? 1 : (width < 900 ? 2 : 3);
+                // Lower ratio = taller cards. Mobile needs height for Flag + Name + Native Name.
+                // 0.9 ensures plenty of room for 2-3 lines of text.
+                final childAspectRatio = width < 600 ? 0.9 : 1.3;
+
+                return GridView.builder(
+                  shrinkWrap: true,
+                  physics: const NeverScrollableScrollPhysics(),
+                  gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+                    crossAxisCount: crossAxisCount,
+                    crossAxisSpacing: 24,
+                    mainAxisSpacing: 24,
+                    childAspectRatio: childAspectRatio,
+                  ),
+                  itemCount: languages.length,
+                  itemBuilder: (context, index) {
+                    final languageDoc = languages[index];
+                    final languageData = languageDoc.data() as Map<String, dynamic>;
+                    
+                    return _LanguageCard(
+                      languageId: languageDoc.id,
+                      flag: languageData['flag'] ?? '🌍',
+                      name: languageData['name'] ?? 'Unknown',
+                      nativeScript: languageData['nativeScript'] ?? languageData['nativeName'] ?? '',
+                      color: _getLanguageColor(languageData['name'] ?? 'Unknown'),
+                    );
+                  },
                 );
               },
             ),
           ),
         ],
-      ),
-    );
-  }
-
-  Widget _buildLanguageCard(
-    BuildContext context, {
-    required String languageId,
-    required String flag,
-    required String name,
-    required String nativeScript,
-  }) {
-    return Card(
-      elevation: 4,
-      shadowColor: _getLanguageColor(name).withOpacity(0.4),
-      shape: RoundedRectangleBorder(
-        borderRadius: BorderRadius.circular(20),
-      ),
-      child: Container(
-        decoration: BoxDecoration(
-          borderRadius: BorderRadius.circular(20),
-          gradient: LinearGradient(
-            begin: Alignment.topLeft,
-            end: Alignment.bottomRight,
-            colors: [
-              _getLanguageColor(name).withOpacity(0.1),
-              _getLanguageColor(name).withOpacity(0.3),
-            ],
-          ),
-          border: Border.all(
-            color: _getLanguageColor(name).withOpacity(0.5),
-            width: 2,
-          ),
-        ),
-        child: InkWell(
-          onTap: () {
-            Navigator.push(
-              context,
-              MaterialPageRoute(
-                builder: (context) => LevelsPage(
-                  languageId: languageId,
-                  languageName: name,
-                  flag: flag,
-                ),
-              ),
-            );
-          },
-          borderRadius: BorderRadius.circular(20),
-          child: Padding(
-            padding: const EdgeInsets.all(24),
-            child: Column(
-              mainAxisAlignment: MainAxisAlignment.center,
-              children: [
-                Container(
-                  padding: const EdgeInsets.all(12),
-                  decoration: BoxDecoration(
-                    color: Colors.white,
-                    shape: BoxShape.circle,
-                    boxShadow: [
-                      BoxShadow(
-                        color: _getLanguageColor(name).withOpacity(0.3),
-                        blurRadius: 12,
-                        spreadRadius: 2,
-                      ),
-                    ],
-                  ),
-                  child: Text(
-                    flag,
-                    style: const TextStyle(fontSize: 48),
-                  ),
-                ),
-                const SizedBox(height: 16),
-                Text(
-                  name,
-                  style: TextStyle(
-                    fontSize: 20,
-                    fontWeight: FontWeight.bold,
-                    color: Colors.grey.shade900,
-                  ),
-                ),
-                if (nativeScript.isNotEmpty) ...[
-                  const SizedBox(height: 8),
-                  Text(
-                    nativeScript,
-                    style: TextStyle(
-                      fontSize: 16,
-                      color: Colors.grey.shade700,
-                      fontWeight: FontWeight.w500,
-                    ),
-                  ),
-                ],
-              ],
-            ),
-          ),
-        ),
-      ),
-    );
-  }
-
-  Widget _buildAboutSection() {
-    return Container(
-      key: _aboutKey,
-      width: double.infinity,
-      decoration: BoxDecoration(
-        gradient: LinearGradient(
-          begin: Alignment.topLeft,
-          end: Alignment.bottomRight,
-          colors: [
-            const Color(0xFFFFE5E5), // Light pink
-            const Color(0xFFE5F5FF), // Light blue
-            const Color(0xFFFFF5E5), // Light peach
-          ],
-        ),
-      ),
-      padding: const EdgeInsets.symmetric(vertical: 80, horizontal: 24),
-      child: Center(
-        child: Container(
-          constraints: const BoxConstraints(maxWidth: 800),
-          child: Column(
-            children: [
-              Container(
-                padding: const EdgeInsets.all(20),
-                decoration: BoxDecoration(
-                  gradient: const LinearGradient(
-                    colors: [Color(0xFF667EEA), Color(0xFF764BA2)],
-                  ),
-                  shape: BoxShape.circle,
-                  boxShadow: [
-                    BoxShadow(
-                      color: const Color(0xFF667EEA).withOpacity(0.4),
-                      blurRadius: 20,
-                      spreadRadius: 5,
-                    ),
-                  ],
-                ),
-                child: const Icon(Icons.auto_stories, size: 40, color: Colors.white),
-              ),
-              const SizedBox(height: 24),
-              ShaderMask(
-                shaderCallback: (bounds) => const LinearGradient(
-                  colors: [Color(0xFFFF6B6B), Color(0xFF4ECDC4)],
-                ).createShader(bounds),
-                child: const Text(
-                  'About ChirpPolly',
-                  style: TextStyle(
-                    fontSize: 36,
-                    fontWeight: FontWeight.bold,
-                    color: Colors.white,
-                  ),
-                ),
-              ),
-              const SizedBox(height: 32),
-              Container(
-                padding: const EdgeInsets.all(24),
-                decoration: BoxDecoration(
-                  color: Colors.white.withOpacity(0.8),
-                  borderRadius: BorderRadius.circular(20),
-                  boxShadow: [
-                    BoxShadow(
-                      color: Colors.black.withOpacity(0.1),
-                      blurRadius: 20,
-                      offset: const Offset(0, 10),
-                    ),
-                  ],
-                ),
-                child: Column(
-                  children: [
-                    Text(
-                      'ChirpPolly is a next-generation language learning platform designed to make polyglotism accessible to everyone. Unlike traditional apps that lock advanced content behind paywalls, we believe in free, open access to high-quality education.',
-                      style: TextStyle(
-                        fontSize: 18,
-                        height: 1.6,
-                        color: Colors.grey.shade800,
-                      ),
-                      textAlign: TextAlign.center,
-                    ),
-                    const SizedBox(height: 24),
-                    Text(
-                      'Our curriculum covers everything from survival basics (A1) to advanced philosophical debates (B1+), with a special focus on Japanese N3 preparation, Spanish fluency, and Indian languages like Sanskrit and Hindi. We combine rigorous spaced repetition with fun, game-like mechanics to keep you chirping.',
-                      style: TextStyle(
-                        fontSize: 18,
-                        height: 1.6,
-                        color: Colors.grey.shade800,
-                      ),
-                      textAlign: TextAlign.center,
-                    ),
-                  ],
-                ),
-              ),
-            ],
-          ),
-        ),
       ),
     );
   }
@@ -679,6 +687,162 @@ class _HomePageState extends ConsumerState<HomePage> {
         fontWeight: FontWeight.bold,
         color: color,
         letterSpacing: 0.5,
+      ),
+    );
+  }
+
+  void _showDeleteAccountConfirmation(BuildContext context, WidgetRef ref) {
+    showDialog(
+      context: context,
+      builder: (context) => AlertDialog(
+        title: const Text('Delete Account?'),
+        content: const Text(
+          'This action is permanent and will delete all your progress and data. '
+          'For security reasons, you may need to log in again before this action can be completed.',
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.pop(context),
+            child: Text(
+              'Cancel',
+              style: TextStyle(color: Colors.grey.shade600),
+            ),
+          ),
+          ElevatedButton(
+            onPressed: () async {
+              Navigator.pop(context); // Close dialog
+              await ref.read(authControllerProvider.notifier).deleteAccount();
+            },
+            style: ElevatedButton.styleFrom(
+              backgroundColor: Colors.red.shade400,
+              foregroundColor: Colors.white,
+            ),
+            child: const Text('Delete Permanently'),
+          ),
+        ],
+      ),
+    );
+  }
+}
+
+class _LanguageCard extends StatefulWidget {
+  final String languageId;
+  final String flag;
+  final String name;
+  final String nativeScript;
+  final Color color;
+
+  const _LanguageCard({
+    required this.languageId,
+    required this.flag,
+    required this.name,
+    required this.nativeScript,
+    required this.color,
+  });
+
+  @override
+  State<_LanguageCard> createState() => _LanguageCardState();
+}
+
+class _LanguageCardState extends State<_LanguageCard> {
+  bool _isHovered = false;
+
+  @override
+  Widget build(BuildContext context) {
+    return MouseRegion(
+      onEnter: (_) => setState(() => _isHovered = true),
+      onExit: (_) => setState(() => _isHovered = false),
+      child: AnimatedContainer(
+        duration: const Duration(milliseconds: 200),
+        transform: Matrix4.identity()
+          ..translate(0, _isHovered ? -10.0 : 0.0),
+          child: Card(
+            elevation: _isHovered ? 12 : 4,
+            shadowColor: widget.color.withOpacity(0.4),
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(20),
+          ),
+          child: Container(
+            decoration: BoxDecoration(
+              borderRadius: BorderRadius.circular(20),
+              gradient: LinearGradient(
+                begin: Alignment.topLeft,
+                end: Alignment.bottomRight,
+                colors: [
+                  widget.color.withOpacity(0.1),
+                  widget.color.withOpacity(0.3),
+                ],
+              ),
+              border: Border.all(
+                color: widget.color.withOpacity(_isHovered ? 0.8 : 0.5),
+                width: 2,
+              ),
+            ),
+            child: InkWell(
+              onTap: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => LevelsPage(
+                      languageId: widget.languageId,
+                      languageName: widget.name,
+                      flag: widget.flag,
+                    ),
+                  ),
+                );
+              },
+              borderRadius: BorderRadius.circular(20),
+              child: Padding(
+                padding: const EdgeInsets.all(24),
+                child: Column(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    Container(
+                      padding: const EdgeInsets.all(12),
+                      decoration: BoxDecoration(
+                        color: Colors.white,
+                        shape: BoxShape.circle,
+                        boxShadow: [
+                          BoxShadow(
+                            color: widget.color.withOpacity(0.3),
+                            blurRadius: 12,
+                            spreadRadius: 2,
+                          ),
+                        ],
+                      ),
+                      child: Text(
+                        widget.flag,
+                        style: const TextStyle(fontSize: 48),
+                      ),
+                    ),
+                    const SizedBox(height: 16),
+                    Text(
+                      widget.name,
+                      textAlign: TextAlign.center,
+                      style: TextStyle(
+                        fontSize: 20,
+                        fontWeight: FontWeight.bold,
+                        color: Colors.grey.shade900,
+                      ),
+                    ),
+                    const SizedBox(height: 8),
+                    if (widget.nativeScript.isNotEmpty) ...[
+                      Text(
+                        widget.nativeScript,
+                        textAlign: TextAlign.center,
+                        style: TextStyle(
+                          fontSize: 16,
+                          color: Colors.grey.shade700,
+                          fontWeight: FontWeight.w500,
+                        ),
+                      ),
+                    ],
+                  ],
+                ),
+              ),
+            ),
+          ),
+        ),
       ),
     );
   }

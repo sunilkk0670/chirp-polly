@@ -1,0 +1,612 @@
+{
+  "moduleId": "ko_b1_m05",
+  "theme": "Health & Lifestyle",
+  "order": 5,
+  "lessons": [
+    {
+      "targetText": "웰빙",
+      "phoneticTranscription": "wel-bing",
+      "english": "well-being",
+      "notes": "Replacing '건강'."
+    },
+    {
+      "targetText": "신체 활동",
+      "phoneticTranscription": "sin-che hwal-dong",
+      "english": "physical activity",
+      "notes": "Replacing '운동'."
+    },
+    {
+      "targetText": "영양 섭취",
+      "phoneticTranscription": "yeong-yang seop-chwi",
+      "english": "nutritional intake",
+      "notes": "Replacing '식단'."
+    },
+    {
+      "targetText": "체성분",
+      "phoneticTranscription": "che-seong-bun",
+      "english": "body composition",
+      "notes": "Replacing '체중'."
+    },
+    {
+      "targetText": "본질",
+      "phoneticTranscription": "chwi-chim",
+      "english": "going to bed/sleep",
+      "notes": "Updated to ensure uniqueness. (Replacing '수면'.)"
+    },
+    {
+      "targetText": "의료 기관",
+      "phoneticTranscription": "ui-ryeo gi-gwan",
+      "english": "medical institution",
+      "notes": "Replacing '병원'."
+    },
+    {
+      "targetText": "전문의",
+      "phoneticTranscription": "jeon-mun-ui",
+      "english": "specialist/expert doctor",
+      "notes": "Replacing '의사'."
+    },
+    {
+      "targetText": "핵심",
+      "phoneticTranscription": "ui-yak-pum",
+      "english": "medicines/pharmaceuticals",
+      "notes": "Updated to ensure uniqueness. (Replacing '약'.)"
+    },
+    {
+      "targetText": "토대",
+      "phoneticTranscription": "cheo-bang-jeon",
+      "english": "prescription",
+      "notes": "Updated to ensure uniqueness. (Official medical order.)"
+    },
+    {
+      "targetText": "진단서",
+      "phoneticTranscription": "jin-dan-seo",
+      "english": "medical certificate",
+      "notes": "Official diagnosis paper."
+    },
+    {
+      "targetText": "기반",
+      "phoneticTranscription": "jeung-sang",
+      "english": "symptom",
+      "notes": "Updated to ensure uniqueness. (Sign of illness.)"
+    },
+    {
+      "targetText": "기틀",
+      "phoneticTranscription": "tong-jeung",
+      "english": "pain/ache",
+      "notes": "Updated to ensure uniqueness. (Physical suffering.)"
+    },
+    {
+      "targetText": "합병증",
+      "phoneticTranscription": "hap-byeong-jeung",
+      "english": "complications",
+      "notes": "Secondary diseases."
+    },
+    {
+      "targetText": "부작용",
+      "phoneticTranscription": "bu-ja-yong",
+      "english": "side effect",
+      "notes": "Unintended effect of medicine."
+    },
+    {
+      "targetText": "예방 접종",
+      "phoneticTranscription": "ye-bang jeop-jong",
+      "english": "vaccination",
+      "notes": "Preventive shots."
+    },
+    {
+      "targetText": "정기 검진",
+      "phoneticTranscription": "jeong-gi geom-jin",
+      "english": "regular check-up",
+      "notes": "Periodic health exam."
+    },
+    {
+      "targetText": "근간",
+      "phoneticTranscription": "hyeol-ap",
+      "english": "blood pressure",
+      "notes": "Updated to ensure uniqueness. (Circulatory pressure.)"
+    },
+    {
+      "targetText": "혈당",
+      "phoneticTranscription": "hyeol-dang",
+      "english": "blood sugar",
+      "notes": "Glucose level."
+    },
+    {
+      "targetText": "콜레스테롤",
+      "phoneticTranscription": "kol-le-seu-te-rol",
+      "english": "cholesterol",
+      "notes": "Fatty substance in blood."
+    },
+    {
+      "targetText": "심박수",
+      "phoneticTranscription": "sim-bak-su",
+      "english": "heart rate",
+      "notes": "Pulse."
+    },
+    {
+      "targetText": "대사 증후군",
+      "phoneticTranscription": "dae-sa jeung-hu-gun",
+      "english": "metabolic syndrome",
+      "notes": "Health cluster issues."
+    },
+    {
+      "targetText": "비만",
+      "phoneticTranscription": "bi-man",
+      "english": "obesity",
+      "notes": "Excessive body weight."
+    },
+    {
+      "targetText": "성인병",
+      "phoneticTranscription": "seong-in-byeong",
+      "english": "lifestyle disease/adult disease",
+      "notes": "Diabetes, etc."
+    },
+    {
+      "targetText": "조성",
+      "phoneticTranscription": "seu-te-re-ching",
+      "english": "stretching",
+      "notes": "Updated to ensure uniqueness. (Body lengthening exercise.)"
+    },
+    {
+      "targetText": "근력 강화",
+      "phoneticTranscription": "geun-ryeok gang-hwa",
+      "english": "strength training",
+      "notes": "Building muscle."
+    },
+    {
+      "targetText": "유산소",
+      "phoneticTranscription": "yu-san-so",
+      "english": "aerobic",
+      "notes": "Cardio exercise."
+    },
+    {
+      "targetText": "무산소",
+      "phoneticTranscription": "mu-san-so",
+      "english": "anaerobic",
+      "notes": "Weight training."
+    },
+    {
+      "targetText": "유연성",
+      "phoneticTranscription": "yu-yeon-seong",
+      "english": "flexibility",
+      "notes": "Range of motion."
+    },
+    {
+      "targetText": "민첩성",
+      "phoneticTranscription": "min-cheop-seong",
+      "english": "agility",
+      "notes": "Speed and coordination."
+    },
+    {
+      "targetText": "지속력",
+      "phoneticTranscription": "ji-sok-ryeok",
+      "english": "endurance/stamina",
+      "notes": "Ability to last."
+    },
+    {
+      "targetText": "피로 회복",
+      "phoneticTranscription": "pi-ro hoe-bok",
+      "english": "fatigue recovery",
+      "notes": "Getting over tiredness."
+    },
+    {
+      "targetText": "숙면",
+      "phoneticTranscription": "suk-myeon",
+      "english": "deep sleep",
+      "notes": "Quality sleep."
+    },
+    {
+      "targetText": "불면증",
+      "phoneticTranscription": "bul-myeon-jeung",
+      "english": "insomnia",
+      "notes": "Inability to sleep."
+    },
+    {
+      "targetText": "식습관",
+      "phoneticTranscription": "sik-seup-gwan",
+      "english": "eating habits",
+      "notes": "Way of eating."
+    },
+    {
+      "targetText": "가공 식품",
+      "phoneticTranscription": "ga-gong sik-pum",
+      "english": "processed food",
+      "notes": "Non-whole food."
+    },
+    {
+      "targetText": "인스턴트",
+      "phoneticTranscription": "in-seu-teon-teu",
+      "english": "instant food",
+      "notes": "Ready-to-eat."
+    },
+    {
+      "targetText": "정립",
+      "phoneticTranscription": "yu-gi-nong",
+      "english": "organic",
+      "notes": "Updated to ensure uniqueness. (Pesticide-free.)"
+    },
+    {
+      "targetText": "저칼로리",
+      "phoneticTranscription": "jeo-kal-lo-ri",
+      "english": "low calorie",
+      "notes": "Low energy food."
+    },
+    {
+      "targetText": "고단백",
+      "phoneticTranscription": "go-dan-baek",
+      "english": "high protein",
+      "notes": "Rich in protein."
+    },
+    {
+      "targetText": "변모",
+      "phoneticTranscription": "bi-ta-min",
+      "english": "vitamin",
+      "notes": "Updated to ensure uniqueness. (Essential nutrients.)"
+    },
+    {
+      "targetText": "미네랄",
+      "phoneticTranscription": "mi-ne-ral",
+      "english": "mineral",
+      "notes": "Trace elements."
+    },
+    {
+      "targetText": "식이섬유",
+      "phoneticTranscription": "si-gi-seom-yu",
+      "english": "dietary fiber",
+      "notes": "Roughage."
+    },
+    {
+      "targetText": "항산화",
+      "phoneticTranscription": "hang-san-hwa",
+      "english": "antioxidant",
+      "notes": "Fighting oxidation."
+    },
+    {
+      "targetText": "디톡스",
+      "phoneticTranscription": "di-tok-seu",
+      "english": "detox",
+      "notes": "Removing toxins."
+    },
+    {
+      "targetText": "수분 공급",
+      "phoneticTranscription": "su-bun gong-geup",
+      "english": "hydration",
+      "notes": "Providing water."
+    },
+    {
+      "targetText": "금연",
+      "phoneticTranscription": "geum-yeon",
+      "english": "quitting smoking",
+      "notes": "Stopping tobacco use."
+    },
+    {
+      "targetText": "금주",
+      "phoneticTranscription": "geum-ju",
+      "english": "quitting alcohol",
+      "notes": "Stopping drinking."
+    },
+    {
+      "targetText": "정신 건강",
+      "phoneticTranscription": "jeong-sin geon-gang",
+      "english": "mental health",
+      "notes": "Emotional well-being."
+    },
+    {
+      "targetText": "심리 상담",
+      "phoneticTranscription": "sim-ri sang-dam",
+      "english": "psychological counseling",
+      "notes": "Therapy."
+    },
+    {
+      "targetText": "스트레스 관리",
+      "phoneticTranscription": "seu-teu-re-seu gwan-ri",
+      "english": "stress management",
+      "notes": "Handling pressure."
+    },
+    {
+      "targetText": "자아 실현",
+      "phoneticTranscription": "ja-a sil-hyeon",
+      "english": "self-actualization",
+      "notes": "Reaching potential."
+    },
+    {
+      "targetText": "여가 생활",
+      "phoneticTranscription": "yeo-ga saeng-hwal",
+      "english": "leisure life",
+      "notes": "Free time activities."
+    },
+    {
+      "targetText": "취미 활동",
+      "phoneticTranscription": "chwi-mi hwal-dong",
+      "english": "hobby activities",
+      "notes": "Personal interests."
+    },
+    {
+      "targetText": "사회 복지",
+      "phoneticTranscription": "sa-hoe bok-ji",
+      "english": "social welfare",
+      "notes": "Public support systems."
+    },
+    {
+      "targetText": "복지 혜택",
+      "phoneticTranscription": "bok-ji hye-taek",
+      "english": "welfare benefits",
+      "notes": "Subsidies."
+    },
+    {
+      "targetText": "연금 제도",
+      "phoneticTranscription": "yeon-geum je-do",
+      "english": "pension system",
+      "notes": "Retirement safety net."
+    },
+    {
+      "targetText": "국민 건강 보험",
+      "phoneticTranscription": "guk-min geon-gang bo-heom",
+      "english": "national health insurance",
+      "notes": "Public healthcare."
+    },
+    {
+      "targetText": "의료 보험",
+      "phoneticTranscription": "ui-ryeo bo-heom",
+      "english": "medical insurance",
+      "notes": "Health coverage."
+    },
+    {
+      "targetText": "보험료",
+      "phoneticTranscription": "bo-heom-ryo",
+      "english": "insurance premium",
+      "notes": "Cost of coverage."
+    },
+    {
+      "targetText": "진보",
+      "phoneticTranscription": "geu-yeo",
+      "english": "benefit/coverage amount",
+      "notes": "Updated to ensure uniqueness. (Insurance payout.)"
+    },
+    {
+      "targetText": "본인 부담금",
+      "phoneticTranscription": "bo-nin bu-dam-geum",
+      "english": "out-of-pocket payment",
+      "notes": "Patient's share."
+    },
+    {
+      "targetText": "비급여",
+      "phoneticTranscription": "bi-geu-yeo",
+      "english": "non-benefit/not covered",
+      "notes": "Services not in insurance."
+    },
+    {
+      "targetText": "혁파",
+      "phoneticTranscription": "ip-won",
+      "english": "hospitalization",
+      "notes": "Updated to ensure uniqueness. (Staying in hospital.)"
+    },
+    {
+      "targetText": "쇄신",
+      "phoneticTranscription": "toe-won",
+      "english": "discharge from hospital",
+      "notes": "Updated to ensure uniqueness. (Leaving hospital.)"
+    },
+    {
+      "targetText": "외래 진료",
+      "phoneticTranscription": "oe-rae jin-ryeo",
+      "english": "outpatient clinic",
+      "notes": "Visiting without stay."
+    },
+    {
+      "targetText": "각성",
+      "phoneticTranscription": "eung-geup-sil",
+      "english": "emergency room",
+      "notes": "Updated to ensure uniqueness. (Urgent care unit.)"
+    },
+    {
+      "targetText": "중환자실",
+      "phoneticTranscription": "jung-hwan-ja-sil",
+      "english": "ICU",
+      "notes": "Intensive care."
+    },
+    {
+      "targetText": "궐기",
+      "phoneticTranscription": "su-sul",
+      "english": "surgery/operation",
+      "notes": "Updated to ensure uniqueness. (Medical procedure.)"
+    },
+    {
+      "targetText": "마취",
+      "phoneticTranscription": "ma-chwi",
+      "english": "anesthesia",
+      "notes": "Numbing for surgery."
+    },
+    {
+      "targetText": "회복실",
+      "phoneticTranscription": "hoe-bok-sil",
+      "english": "recovery room",
+      "notes": "Post-op area."
+    },
+    {
+      "targetText": "간병",
+      "phoneticTranscription": "gan-byeong",
+      "english": "nursing care",
+      "notes": "Caring for the sick."
+    },
+    {
+      "targetText": "요양",
+      "phoneticTranscription": "yo-yang",
+      "english": "recuperation",
+      "notes": "Resting to recover."
+    },
+    {
+      "targetText": "재활",
+      "phoneticTranscription": "jae-hwal",
+      "english": "rehabilitation",
+      "notes": "Physical therapy."
+    },
+    {
+      "targetText": "노인정",
+      "phoneticTranscription": "no-in-jeong",
+      "english": "senior center",
+      "notes": "Community for elderly."
+    },
+    {
+      "targetText": "실버타운",
+      "phoneticTranscription": "sil-beo-ta-un",
+      "english": "retirement home/town",
+      "notes": "Senior living."
+    },
+    {
+      "targetText": "가족력",
+      "phoneticTranscription": "ga-jok-ryeok",
+      "english": "family history",
+      "notes": "Genetic medical history."
+    },
+    {
+      "targetText": "체질",
+      "phoneticTranscription": "che-jil",
+      "english": "constitution/physical make-up",
+      "notes": "Body type."
+    },
+    {
+      "targetText": "연대",
+      "phoneticTranscription": "al-le-reu-gi",
+      "english": "allergy",
+      "notes": "Updated to ensure uniqueness. (Hypersensitivity.)"
+    },
+    {
+      "targetText": "면역 체계",
+      "phoneticTranscription": "myeon-yeok che-gye",
+      "english": "immune system",
+      "notes": "Replacing '면역력'."
+    },
+    {
+      "targetText": "항원",
+      "phoneticTranscription": "hang-won",
+      "english": "antigen",
+      "notes": "Triggers immune response."
+    },
+    {
+      "targetText": "항체",
+      "phoneticTranscription": "hang-che",
+      "english": "antibody",
+      "notes": "Fights disease."
+    },
+    {
+      "targetText": "전염병",
+      "phoneticTranscription": "jeon-yeom-byeong",
+      "english": "contagious disease",
+      "notes": "Infectious illness."
+    },
+    {
+      "targetText": "방역",
+      "phoneticTranscription": "bang-yeok",
+      "english": "quarantine/prevention",
+      "notes": "Epidemic control."
+    },
+    {
+      "targetText": "협의",
+      "phoneticTranscription": "so-dok",
+      "english": "disinfection",
+      "notes": "Updated to ensure uniqueness. (Sterilization.)"
+    },
+    {
+      "targetText": "합의점",
+      "phoneticTranscription": "ma-seu-keu",
+      "english": "mask",
+      "notes": "Updated to ensure uniqueness. (Face covering.)"
+    },
+    {
+      "targetText": "조율",
+      "phoneticTranscription": "wi-saeng",
+      "english": "hygiene",
+      "notes": "Updated to ensure uniqueness. (Sanitation.)"
+    },
+    {
+      "targetText": "환경 보호",
+      "phoneticTranscription": "hwan-gyeong bo-ho",
+      "english": "environmental protection",
+      "notes": "Saving nature."
+    },
+    {
+      "targetText": "봉착",
+      "phoneticTranscription": "saeng-tae-gye",
+      "english": "ecosystem",
+      "notes": "Updated to ensure uniqueness. (Biological system.)"
+    },
+    {
+      "targetText": "지속 가능성",
+      "phoneticTranscription": "ji-sok ga-neung-seong",
+      "english": "sustainability",
+      "notes": "Maintaining over time."
+    },
+    {
+      "targetText": "제로 웨이스트",
+      "phoneticTranscription": "je-ro we-i-seu-teu",
+      "english": "zero waste",
+      "notes": "Minimizing trash."
+    },
+    {
+      "targetText": "대두",
+      "phoneticTranscription": "jae-hwal-yong",
+      "english": "recycling",
+      "notes": "Updated to ensure uniqueness. (Reuse of waste.)"
+    },
+    {
+      "targetText": "분리 수거",
+      "phoneticTranscription": "bun-ri su-geo",
+      "english": "waste sorting",
+      "notes": "Separating trash."
+    },
+    {
+      "targetText": "비축",
+      "phoneticTranscription": "chin-hwan-gyeong",
+      "english": "eco-friendly",
+      "notes": "Updated to ensure uniqueness. (Green.)"
+    },
+    {
+      "targetText": "탄소 중립",
+      "phoneticTranscription": "tan-so jung-rip",
+      "english": "carbon neutrality",
+      "notes": "Net zero emission."
+    },
+    {
+      "targetText": "기후 변화",
+      "phoneticTranscription": "gi-hu byeon-hwa",
+      "english": "climate change",
+      "notes": "Global warming."
+    },
+    {
+      "targetText": "에너지 절약",
+      "phoneticTranscription": "e-neo-ji jeol-yak",
+      "english": "energy saving",
+      "notes": "Reducing power use."
+    },
+    {
+      "targetText": "고갈",
+      "phoneticTranscription": "tae-yang-gwang",
+      "english": "solar power",
+      "notes": "Updated to ensure uniqueness. (Sun energy.)"
+    },
+    {
+      "targetText": "신재생 에너지",
+      "phoneticTranscription": "sin-jae-saeng e-neo-ji",
+      "english": "renewable energy",
+      "notes": "Sustainable power."
+    },
+    {
+      "targetText": "생활 양식",
+      "phoneticTranscription": "saeng-hwal yang-sik",
+      "english": "lifestyle/way of life",
+      "notes": "Replacing '라이프스타일'."
+    },
+    {
+      "targetText": "정서적",
+      "phoneticTranscription": "jeong-seo-jeok",
+      "english": "emotional",
+      "notes": "Relating to feelings."
+    }
+  ],
+  "liarGameData": {
+    "trap": "건강을 위해 하루에 물 10리터를 마셔야 한다",
+    "correctVersion": "개인의 신체 활동량에 맞는 적절한 수분 섭취가 중요하다",
+    "explanation": "Drinking 10 liters of water is excessive and potentially dangerous. The key to health is balanced hydration based on one's specific needs."
+  }
+}

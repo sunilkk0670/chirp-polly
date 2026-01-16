@@ -1,0 +1,627 @@
+{
+    "moduleId": "ko_a2_m01",
+    "theme": "Advanced Social Interactions",
+    "title": "Advanced Social Interactions",
+    "level": "a2",
+    "language": "korean",
+    "order": 1,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "회장님",
+                    "reading": "Hoejangnim",
+                    "meaning": "Chairman (honorific)",
+                    "example_sentence": "회장님께서 연설을 하셨습니다. (The chairman gave a speech.)"
+                },
+                {
+                    "word": "이사님",
+                    "reading": "Isanim",
+                    "meaning": "Director (honorific)",
+                    "example_sentence": "이사님께 보고서를 제출했습니다. (I submitted the report to the director.)"
+                },
+                {
+                    "word": "부사장",
+                    "reading": "Busajang",
+                    "meaning": "Vice President",
+                    "example_sentence": "부사장님이 프로젝트를 승인하셨어요. (The vice president approved the project.)"
+                },
+                {
+                    "word": "팀장님",
+                    "reading": "Timjangnim",
+                    "meaning": "Team Leader (honorific)",
+                    "example_sentence": "팀장님께서 오늘 휴가이십니다. (The team leader is on vacation today.)"
+                },
+                {
+                    "word": "과장님",
+                    "reading": "Gwajangnim",
+                    "meaning": "Section Chief (honorific)",
+                    "example_sentence": "과장님께 질문이 있습니다. (I have a question for the section chief.)"
+                },
+                {
+                    "word": "대리님",
+                    "reading": "Daerinim",
+                    "meaning": "Assistant Manager (honorific)",
+                    "example_sentence": "대리님이 저를 도와주셨어요. (The assistant manager helped me.)"
+                },
+                {
+                    "word": "사원",
+                    "reading": "Sawon",
+                    "meaning": "Employee / Staff member",
+                    "example_sentence": "신입 사원 교육이 다음 주에 시작됩니다. (New employee training starts next week.)"
+                },
+                {
+                    "word": "높임말",
+                    "reading": "Nopimmal",
+                    "meaning": "Honorific language",
+                    "example_sentence": "높임말을 정확히 사용해야 해요. (You must use honorific language correctly.)"
+                },
+                {
+                    "word": "하대",
+                    "reading": "Hadae",
+                    "meaning": "Speaking down / Condescension",
+                    "example_sentence": "하대하는 말투는 실례예요. (A condescending tone is rude.)"
+                },
+                {
+                    "word": "송구스럽다",
+                    "reading": "Songguseureopda",
+                    "meaning": "To be deeply sorry (formal)",
+                    "example_sentence": "송구스럽지만 부탁드립니다. (I'm deeply sorry, but I ask this favor.)"
+                },
+                {
+                    "word": "미안해요",
+                    "reading": "Mianhaeyo",
+                    "meaning": "I'm sorry (polite)",
+                    "example_sentence": "실수해서 미안해요. (I'm sorry for making a mistake.)"
+                },
+                {
+                    "word": "용서하다",
+                    "reading": "Yongseohada",
+                    "meaning": "To forgive",
+                    "example_sentence": "제 잘못을 용서해 주세요. (Please forgive my mistake.)"
+                },
+                {
+                    "word": "사과하다",
+                    "reading": "Sagwahada",
+                    "meaning": "To apologize",
+                    "example_sentence": "직접 만나서 사과하고 싶어요. (I want to apologize in person.)"
+                },
+                {
+                    "word": "부탁하다",
+                    "reading": "Butakhada",
+                    "meaning": "To request / ask a favor",
+                    "example_sentence": "한 가지 부탁해도 될까요? (May I ask you a favor?)"
+                },
+                {
+                    "word": "도와주시다",
+                    "reading": "Dowajusida",
+                    "meaning": "To help (honorific)",
+                    "example_sentence": "이 일을 도와주시겠어요? (Would you help me with this task?)"
+                },
+                {
+                    "word": "허락",
+                    "reading": "Heorak",
+                    "meaning": "Permission / Approval",
+                    "example_sentence": "부모님의 허락을 받았어요. (I received my parents' permission.)"
+                },
+                {
+                    "word": "양해",
+                    "reading": "Yanghae",
+                    "meaning": "Understanding / Consideration",
+                    "example_sentence": "양해 부탁드립니다. (I ask for your understanding.)"
+                },
+                {
+                    "word": "감사드립니다",
+                    "reading": "Gamsadeurimnida",
+                    "meaning": "Thank you (very formal)",
+                    "example_sentence": "도움 주셔서 감사드립니다. (Thank you very much for your help.)"
+                },
+                {
+                    "word": "고맙다",
+                    "reading": "Gomapda",
+                    "meaning": "To be thankful",
+                    "example_sentence": "정말 고마워요. (I'm really thankful.)"
+                },
+                {
+                    "word": "천만에요",
+                    "reading": "Cheonmaneyo",
+                    "meaning": "You're welcome",
+                    "example_sentence": "천만에요, 별말씀을요. (You're welcome, don't mention it.)"
+                },
+                {
+                    "word": "실례지만",
+                    "reading": "Sillyejiman",
+                    "meaning": "Excuse me but / Pardon me",
+                    "example_sentence": "실례지만 질문 하나 해도 될까요? (Excuse me, but may I ask a question?)"
+                },
+                {
+                    "word": "괜찮아요",
+                    "reading": "Gwaenchanayo",
+                    "meaning": "It's okay / No problem",
+                    "example_sentence": "괜찮아요, 걱정하지 마세요. (It's okay, don't worry.)"
+                },
+                {
+                    "word": "정중하다",
+                    "reading": "Jeongjunghada",
+                    "meaning": "To be polite / courteous",
+                    "example_sentence": "그 사람은 항상 정중해요. (That person is always polite.)"
+                },
+                {
+                    "word": "품격",
+                    "reading": "Pumgyeok",
+                    "meaning": "Dignity / Class",
+                    "example_sentence": "품격 있는 행동을 해야 합니다. (You must act with dignity.)"
+                },
+                {
+                    "word": "격식",
+                    "reading": "Gyeoksik",
+                    "meaning": "Formality / Ceremony",
+                    "example_sentence": "격식을 차린 행사예요. (It's a formal event.)"
+                },
+                {
+                    "word": "인사드리다",
+                    "reading": "Insadeurida",
+                    "meaning": "To greet (humble)",
+                    "example_sentence": "먼저 인사드리겠습니다. (I will greet you first.)"
+                },
+                {
+                    "word": "절하다",
+                    "reading": "Jeolhada",
+                    "meaning": "To bow",
+                    "example_sentence": "설날에 어른들께 절을 해요. (We bow to elders on New Year's Day.)"
+                },
+                {
+                    "word": "악수",
+                    "reading": "Aksu",
+                    "meaning": "Handshake",
+                    "example_sentence": "악수를 청했습니다. (I offered a handshake.)"
+                },
+                {
+                    "word": "포옹",
+                    "reading": "Po-ong",
+                    "meaning": "Hug / Embrace",
+                    "example_sentence": "오랜만에 만나서 포옹했어요. (We hugged after meeting for a long time.)"
+                },
+                {
+                    "word": "눈인사",
+                    "reading": "Nunninsa",
+                    "meaning": "Eye contact greeting",
+                    "example_sentence": "복도에서 눈인사를 나눴어요. (We exchanged eye contact greetings in the hallway.)"
+                },
+                {
+                    "word": "공손하다",
+                    "reading": "Gongsonhada",
+                    "meaning": "To be respectful / deferential",
+                    "example_sentence": "손님에게 공손하게 대해야 해요. (You must treat guests respectfully.)"
+                },
+                {
+                    "word": "겸손하다",
+                    "reading": "Gyeomsonhada",
+                    "meaning": "To be humble / modest",
+                    "example_sentence": "성공해도 겸손해야 합니다. (You must remain humble even after success.)"
+                },
+                {
+                    "word": "배려",
+                    "reading": "Baeryeo",
+                    "meaning": "Consideration / Thoughtfulness",
+                    "example_sentence": "다른 사람에 대한 배려가 중요해요. (Consideration for others is important.)"
+                },
+                {
+                    "word": "체면",
+                    "reading": "Chemyeon",
+                    "meaning": "Face / Dignity",
+                    "example_sentence": "체면을 지키려고 노력했어요. (I tried to save face.)"
+                },
+                {
+                    "word": "위계",
+                    "reading": "Wigye",
+                    "meaning": "Hierarchy / Rank",
+                    "example_sentence": "회사의 위계 구조를 이해해야 해요. (You need to understand the company's hierarchy.)"
+                },
+                {
+                    "word": "선임",
+                    "reading": "Seonim",
+                    "meaning": "Senior member",
+                    "example_sentence": "선임에게 배워야 합니다. (You must learn from senior members.)"
+                },
+                {
+                    "word": "신입",
+                    "reading": "Sinip",
+                    "meaning": "Newcomer / New employee",
+                    "example_sentence": "신입 직원 환영회가 있어요. (There's a welcome party for new employees.)"
+                },
+                {
+                    "word": "동료",
+                    "reading": "Dongryo",
+                    "meaning": "Colleague / Coworker",
+                    "example_sentence": "동료들과 협력해서 일했어요. (I worked in cooperation with my colleagues.)"
+                },
+                {
+                    "word": "상사",
+                    "reading": "Sangsa",
+                    "meaning": "Superior / Boss",
+                    "example_sentence": "상사의 지시를 따라야 합니다. (You must follow your superior's instructions.)"
+                },
+                {
+                    "word": "부하",
+                    "reading": "Buha",
+                    "meaning": "Subordinate",
+                    "example_sentence": "부하 직원들을 관리해요. (I manage subordinate employees.)"
+                },
+                {
+                    "word": "직급",
+                    "reading": "Jikgeup",
+                    "meaning": "Job rank / Position",
+                    "example_sentence": "직급이 올라갔어요. (My job rank went up.)"
+                },
+                {
+                    "word": "승진",
+                    "reading": "Seungjin",
+                    "meaning": "Promotion",
+                    "example_sentence": "올해 승진을 기대하고 있어요. (I'm expecting a promotion this year.)"
+                },
+                {
+                    "word": "강등",
+                    "reading": "Gangdeung",
+                    "meaning": "Demotion",
+                    "example_sentence": "실수로 인해 강등되었어요. (I was demoted due to a mistake.)"
+                },
+                {
+                    "word": "회의실",
+                    "reading": "Hoeui-sil",
+                    "meaning": "Conference room",
+                    "example_sentence": "회의실을 예약했습니다. (I reserved the conference room.)"
+                },
+                {
+                    "word": "보고",
+                    "reading": "Bogo",
+                    "meaning": "Report / Briefing",
+                    "example_sentence": "매주 월요일에 보고를 해요. (I give a report every Monday.)"
+                },
+                {
+                    "word": "지시",
+                    "reading": "Jisi",
+                    "meaning": "Instruction / Order",
+                    "example_sentence": "상사의 지시를 받았습니다. (I received instructions from my superior.)"
+                },
+                {
+                    "word": "명령",
+                    "reading": "Myeongryeong",
+                    "meaning": "Command / Order",
+                    "example_sentence": "명령에 따라 행동했어요. (I acted according to the command.)"
+                },
+                {
+                    "word": "제안",
+                    "reading": "Jean",
+                    "meaning": "Proposal / Suggestion",
+                    "example_sentence": "새로운 제안을 했습니다. (I made a new proposal.)"
+                },
+                {
+                    "word": "의견",
+                    "reading": "Uigyeon",
+                    "meaning": "Opinion / View",
+                    "example_sentence": "의견을 말씀해 주세요. (Please share your opinion.)"
+                },
+                {
+                    "word": "동의",
+                    "reading": "Dongui",
+                    "meaning": "Agreement / Consent",
+                    "example_sentence": "모두의 동의를 얻었어요. (I obtained everyone's agreement.)"
+                },
+                {
+                    "word": "반대",
+                    "reading": "Bandae",
+                    "meaning": "Opposition / Objection",
+                    "example_sentence": "그 계획에 반대합니다. (I oppose that plan.)"
+                },
+                {
+                    "word": "협력",
+                    "reading": "Hyeomnyeok",
+                    "meaning": "Cooperation / Collaboration",
+                    "example_sentence": "팀 간의 협력이 필요해요. (Cooperation between teams is necessary.)"
+                },
+                {
+                    "word": "갈등",
+                    "reading": "Galdeung",
+                    "meaning": "Conflict / Discord",
+                    "example_sentence": "갈등을 해결해야 합니다. (We need to resolve the conflict.)"
+                },
+                {
+                    "word": "타협",
+                    "reading": "Tahyeop",
+                    "meaning": "Compromise",
+                    "example_sentence": "서로 타협점을 찾았어요. (We found a compromise with each other.)"
+                },
+                {
+                    "word": "양보",
+                    "reading": "Yangbo",
+                    "meaning": "Concession / Yielding",
+                    "example_sentence": "한 발 양보하는 게 좋아요. (It's good to make a concession.)"
+                },
+                {
+                    "word": "주장",
+                    "reading": "Jujang",
+                    "meaning": "Assertion / Claim",
+                    "example_sentence": "자신의 주장을 펼쳤어요. (I presented my assertion.)"
+                },
+                {
+                    "word": "설득",
+                    "reading": "Seoldeuk",
+                    "meaning": "Persuasion / Convincing",
+                    "example_sentence": "설득하는 데 성공했어요. (I succeeded in persuading them.)"
+                },
+                {
+                    "word": "거절",
+                    "reading": "Geojeol",
+                    "meaning": "Refusal / Rejection",
+                    "example_sentence": "정중하게 거절했습니다. (I politely refused.)"
+                },
+                {
+                    "word": "수락",
+                    "reading": "Surak",
+                    "meaning": "Acceptance / Approval",
+                    "example_sentence": "제안을 수락했어요. (I accepted the proposal.)"
+                },
+                {
+                    "word": "초대",
+                    "reading": "Chodae",
+                    "meaning": "Invitation",
+                    "example_sentence": "파티에 초대받았어요. (I was invited to the party.)"
+                },
+                {
+                    "word": "방문",
+                    "reading": "Bangmun",
+                    "meaning": "Visit",
+                    "example_sentence": "내일 사무실을 방문할 예정이에요. (I plan to visit the office tomorrow.)"
+                },
+                {
+                    "word": "환영",
+                    "reading": "Hwanyeong",
+                    "meaning": "Welcome",
+                    "example_sentence": "따뜻한 환영을 받았어요. (I received a warm welcome.)"
+                },
+                {
+                    "word": "환송",
+                    "reading": "Hwansong",
+                    "meaning": "Farewell / Send-off",
+                    "example_sentence": "환송회를 열었습니다. (We held a farewell party.)"
+                },
+                {
+                    "word": "소개",
+                    "reading": "Sogae",
+                    "meaning": "Introduction",
+                    "example_sentence": "새 직원을 소개합니다. (I introduce the new employee.)"
+                },
+                {
+                    "word": "인사말",
+                    "reading": "Insamal",
+                    "meaning": "Greeting words",
+                    "example_sentence": "간단한 인사말을 했어요. (I gave a brief greeting.)"
+                },
+                {
+                    "word": "축하",
+                    "reading": "Chukha",
+                    "meaning": "Congratulations",
+                    "example_sentence": "승진을 축하합니다. (Congratulations on your promotion.)"
+                },
+                {
+                    "word": "위로",
+                    "reading": "Wiro",
+                    "meaning": "Consolation / Comfort",
+                    "example_sentence": "위로의 말을 전했어요. (I conveyed words of comfort.)"
+                },
+                {
+                    "word": "격려",
+                    "reading": "Gyeongnyeo",
+                    "meaning": "Encouragement",
+                    "example_sentence": "격려해 주셔서 감사해요. (Thank you for encouraging me.)"
+                },
+                {
+                    "word": "칭찬",
+                    "reading": "Chingchan",
+                    "meaning": "Praise / Compliment",
+                    "example_sentence": "상사에게 칭찬을 들었어요. (I received praise from my superior.)"
+                },
+                {
+                    "word": "비난",
+                    "reading": "Binan",
+                    "meaning": "Criticism / Blame",
+                    "example_sentence": "부당한 비난을 받았어요. (I received unfair criticism.)"
+                },
+                {
+                    "word": "충고",
+                    "reading": "Chunggo",
+                    "meaning": "Advice / Counsel",
+                    "example_sentence": "선배의 충고를 따랐어요. (I followed my senior's advice.)"
+                },
+                {
+                    "word": "조언",
+                    "reading": "Joan",
+                    "meaning": "Advice / Suggestion",
+                    "example_sentence": "좋은 조언 감사합니다. (Thank you for the good advice.)"
+                },
+                {
+                    "word": "경고",
+                    "reading": "Gyeonggo",
+                    "meaning": "Warning / Caution",
+                    "example_sentence": "경고를 받았습니다. (I received a warning.)"
+                },
+                {
+                    "word": "경계",
+                    "reading": "Gyeonggyae",
+                    "meaning": "Boundary / Caution",
+                    "example_sentence": "경계를 유지해야 해요. (You must maintain boundaries.)"
+                },
+                {
+                    "word": "통보",
+                    "reading": "Tongbo",
+                    "meaning": "Notification / Notice",
+                    "example_sentence": "사전에 통보했어요. (I notified in advance.)"
+                },
+                {
+                    "word": "공지",
+                    "reading": "Gongji",
+                    "meaning": "Announcement / Notice",
+                    "example_sentence": "중요한 공지가 있습니다. (There is an important announcement.)"
+                },
+                {
+                    "word": "전달",
+                    "reading": "Jeondal",
+                    "meaning": "Delivery / Conveyance",
+                    "example_sentence": "메시지를 전달했어요. (I delivered the message.)"
+                },
+                {
+                    "word": "응답",
+                    "reading": "Eungdap",
+                    "meaning": "Response / Reply",
+                    "example_sentence": "빠른 응답 부탁드립니다. (I request a quick response.)"
+                },
+                {
+                    "word": "답변",
+                    "reading": "Dapbyeon",
+                    "meaning": "Answer / Response",
+                    "example_sentence": "빠른 답변 부탁드립니다. (I request a quick response.)"
+                },
+                {
+                    "word": "질의",
+                    "reading": "Jirui",
+                    "meaning": "Inquiry / Question",
+                    "example_sentence": "질의 사항이 있으신가요? (Do you have any inquiries?)"
+                },
+                {
+                    "word": "문의",
+                    "reading": "Munui",
+                    "meaning": "Inquiry / Query",
+                    "example_sentence": "고객 문의에 답변했어요. (I responded to customer inquiries.)"
+                },
+                {
+                    "word": "상담",
+                    "reading": "Sangdam",
+                    "meaning": "Consultation / Counseling",
+                    "example_sentence": "전문가와 상담했습니다. (I consulted with an expert.)"
+                },
+                {
+                    "word": "논의",
+                    "reading": "Nonui",
+                    "meaning": "Discussion / Deliberation",
+                    "example_sentence": "중요한 사안을 논의했어요. (We discussed an important matter.)"
+                },
+                {
+                    "word": "토론",
+                    "reading": "Toron",
+                    "meaning": "Debate / Discussion",
+                    "example_sentence": "열띤 토론이 벌어졌어요. (A heated debate took place.)"
+                },
+                {
+                    "word": "대화",
+                    "reading": "Daehwa",
+                    "meaning": "Conversation / Dialogue",
+                    "example_sentence": "진솔한 대화를 나눴어요. (We had a sincere conversation.)"
+                },
+                {
+                    "word": "면담",
+                    "reading": "Myeondam",
+                    "meaning": "Interview / Meeting",
+                    "example_sentence": "인사 면담이 예정되어 있어요. (A personnel interview is scheduled.)"
+                },
+                {
+                    "word": "약정",
+                    "reading": "Yakjeong",
+                    "meaning": "Agreement / Contract",
+                    "example_sentence": "약정서에 서명했어요. (I signed the agreement.)"
+                },
+                {
+                    "word": "예약",
+                    "reading": "Yeyak",
+                    "meaning": "Reservation / Booking",
+                    "example_sentence": "식당을 예약했어요. (I made a restaurant reservation.)"
+                },
+                {
+                    "word": "스케줄",
+                    "reading": "Seukejeul",
+                    "meaning": "Schedule",
+                    "example_sentence": "스케줄을 확인해 주세요. (Please check the schedule.)"
+                },
+                {
+                    "word": "계획",
+                    "reading": "Gyehoek",
+                    "meaning": "Plan / Project",
+                    "example_sentence": "새로운 계획을 세웠어요. (I made a new plan.)"
+                },
+                {
+                    "word": "준비",
+                    "reading": "Junbi",
+                    "meaning": "Preparation",
+                    "example_sentence": "회의 준비를 마쳤습니다. (I finished preparing for the meeting.)"
+                },
+                {
+                    "word": "진행",
+                    "reading": "Jinhaeng",
+                    "meaning": "Progress / Proceeding",
+                    "example_sentence": "프로젝트가 순조롭게 진행되고 있어요. (The project is progressing smoothly.)"
+                },
+                {
+                    "word": "완료",
+                    "reading": "Wallyo",
+                    "meaning": "Completion / Finish",
+                    "example_sentence": "작업을 완료했습니다. (I completed the work.)"
+                },
+                {
+                    "word": "마감",
+                    "reading": "Magam",
+                    "meaning": "Deadline / Closing",
+                    "example_sentence": "마감 시간을 지켜야 해요. (You must meet the deadline.)"
+                },
+                {
+                    "word": "보류",
+                    "reading": "Boryu",
+                    "meaning": "Postponement / Pending",
+                    "example_sentence": "결정을 보류했습니다. (I postponed the decision.)"
+                },
+                {
+                    "word": "임원",
+                    "reading": "Imwon",
+                    "meaning": "Executive / Officer",
+                    "example_sentence": "임원 회의가 진행 중입니다. (The executive meeting is in progress.)"
+                },
+                {
+                    "word": "인맥",
+                    "reading": "Inmaek",
+                    "meaning": "Personal connections / Network",
+                    "example_sentence": "인맥이 중요한 자산이에요. (Personal connections are an important asset.)"
+                },
+                {
+                    "word": "관계",
+                    "reading": "Gwangye",
+                    "meaning": "Relationship / Connection",
+                    "example_sentence": "좋은 관계를 유지하세요. (Maintain good relationships.)"
+                },
+                {
+                    "word": "친분",
+                    "reading": "Chinbun",
+                    "meaning": "Friendship / Acquaintance",
+                    "example_sentence": "친분을 쌓는 데 시간이 걸려요. (It takes time to build friendships.)"
+                },
+                {
+                    "word": "유대",
+                    "reading": "Yudae",
+                    "meaning": "Bond / Tie",
+                    "example_sentence": "팀원 간의 유대가 강해요. (The bond between team members is strong.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Korean Bowing Etiquette",
+        "question": "In Korean business culture, what is the proper bowing angle when greeting your company CEO (사장님)?",
+        "options": [
+            "15 degrees (slight nod)",
+            "30 degrees (standard bow)",
+            "45 degrees (deep bow)",
+            "90 degrees (full bow)"
+        ],
+        "correct_answer_index": 2,
+        "explanation": "When greeting a CEO or high-ranking executive in Korean business culture, a 45-degree bow shows proper respect for their position in the hierarchy. A 30-degree bow is standard for colleagues or customers, while 15 degrees is too casual. A 90-degree bow is reserved for extremely formal situations like traditional ceremonies or showing deep apology."
+    }
+}

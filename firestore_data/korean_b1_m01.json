@@ -1,0 +1,612 @@
+{
+    "moduleId": "ko_b1_m01",
+    "theme": "Social Issues & News",
+    "order": 1,
+    "lessons": [
+        {
+            "targetText": "경제",
+            "phoneticTranscription": "gyeong-je",
+            "english": "economy",
+            "notes": "General term for economy."
+        },
+        {
+            "targetText": "사회",
+            "phoneticTranscription": "sa-hoe",
+            "english": "society",
+            "notes": "General term for society."
+        },
+        {
+            "targetText": "기사",
+            "phoneticTranscription": "gi-sa",
+            "english": "article/news report",
+            "notes": "News article."
+        },
+        {
+            "targetText": "권위자",
+            "phoneticTranscription": "gwon-wi-ja",
+            "english": "authority/expert",
+            "notes": "Replacing '전문가'."
+        },
+        {
+            "targetText": "정치",
+            "phoneticTranscription": "jeong-chi",
+            "english": "politics",
+            "notes": "Political matters."
+        },
+        {
+            "targetText": "여건",
+            "phoneticTranscription": "yeo-geon",
+            "english": "conditions/circumstances",
+            "notes": "Replacing '환경'."
+        },
+        {
+            "targetText": "문제",
+            "phoneticTranscription": "mun-je",
+            "english": "problem/issue",
+            "notes": "Social problems."
+        },
+        {
+            "targetText": "해결",
+            "phoneticTranscription": "hae-gyeol",
+            "english": "solution/resolution",
+            "notes": "Fixing problems."
+        },
+        {
+            "targetText": "발제",
+            "phoneticTranscription": "bal-je",
+            "english": "presentation/topic opening",
+            "notes": "Replacing '발표'."
+        },
+        {
+            "targetText": "실태",
+            "phoneticTranscription": "sil-tae",
+            "english": "actual state/conditions",
+            "notes": "Replacing '조사'."
+        },
+        {
+            "targetText": "귀결",
+            "phoneticTranscription": "gwi-gyeol",
+            "english": "conclusion/outcome",
+            "notes": "Replacing '결과'."
+        },
+        {
+            "targetText": "영향",
+            "phoneticTranscription": "yeong-hyang",
+            "english": "influence/impact",
+            "notes": "Impact of events."
+        },
+        {
+            "targetText": "증가",
+            "phoneticTranscription": "jeung-ga",
+            "english": "increase/rise",
+            "notes": "Statistical increase."
+        },
+        {
+            "targetText": "감소",
+            "phoneticTranscription": "gam-so",
+            "english": "decrease/reduction",
+            "notes": "Statistical decrease."
+        },
+        {
+            "targetText": "변화",
+            "phoneticTranscription": "byeon-hwa",
+            "english": "change/transformation",
+            "notes": "Social change."
+        },
+        {
+            "targetText": "개선",
+            "phoneticTranscription": "gae-seon",
+            "english": "improvement/reform",
+            "notes": "Making things better."
+        },
+        {
+            "targetText": "정책",
+            "phoneticTranscription": "jeong-chaek",
+            "english": "policy",
+            "notes": "Government policy."
+        },
+        {
+            "targetText": "시민",
+            "phoneticTranscription": "si-min",
+            "english": "citizen",
+            "notes": "Member of society."
+        },
+        {
+            "targetText": "견해",
+            "phoneticTranscription": "gyeon-hae",
+            "english": "view/opinion",
+            "notes": "Replacing '의견'."
+        },
+        {
+            "targetText": "공론",
+            "phoneticTranscription": "gong-ron",
+            "english": "public discussion",
+            "notes": "Replacing '토론'."
+        },
+        {
+            "targetText": "요지",
+            "phoneticTranscription": "yo-ji",
+            "english": "main point/gist",
+            "notes": "Replacing '주장'."
+        },
+        {
+            "targetText": "이견",
+            "phoneticTranscription": "i-gyeon",
+            "english": "dissenting opinion",
+            "notes": "Replacing '반대'."
+        },
+        {
+            "targetText": "찬성",
+            "phoneticTranscription": "chan-seong",
+            "english": "approval/agreement",
+            "notes": "Supporting a plan."
+        },
+        {
+            "targetText": "투표",
+            "phoneticTranscription": "tu-pyo",
+            "english": "vote/voting",
+            "notes": "Democratic process."
+        },
+        {
+            "targetText": "선거",
+            "phoneticTranscription": "seon-geo",
+            "english": "election",
+            "notes": "Political election."
+        },
+        {
+            "targetText": "후보",
+            "phoneticTranscription": "hu-bo",
+            "english": "candidate",
+            "notes": "Election candidate."
+        },
+        {
+            "targetText": "당선",
+            "phoneticTranscription": "dang-seon",
+            "english": "election victory",
+            "notes": "Winning an election."
+        },
+        {
+            "targetText": "법률",
+            "phoneticTranscription": "beom-nyul",
+            "english": "law/legislation",
+            "notes": "Legal term."
+        },
+        {
+            "targetText": "규정",
+            "phoneticTranscription": "gyu-jeong",
+            "english": "regulation/rule",
+            "notes": "Official rules."
+        },
+        {
+            "targetText": "위반",
+            "phoneticTranscription": "wi-ban",
+            "english": "violation/breach",
+            "notes": "Breaking rules."
+        },
+        {
+            "targetText": "처벌",
+            "phoneticTranscription": "cheo-beol",
+            "english": "punishment/penalty",
+            "notes": "Legal penalty."
+        },
+        {
+            "targetText": "범죄",
+            "phoneticTranscription": "beom-joe",
+            "english": "crime",
+            "notes": "Criminal acts."
+        },
+        {
+            "targetText": "안전",
+            "phoneticTranscription": "an-jeon",
+            "english": "safety/security",
+            "notes": "Public safety."
+        },
+        {
+            "targetText": "위험",
+            "phoneticTranscription": "wi-heom",
+            "english": "danger/risk",
+            "notes": "Hazardous situation."
+        },
+        {
+            "targetText": "사안",
+            "phoneticTranscription": "sa-an",
+            "english": "issue/matter",
+            "notes": "Replacing '사고'."
+        },
+        {
+            "targetText": "피해",
+            "phoneticTranscription": "pi-hae",
+            "english": "damage/harm",
+            "notes": "Loss or harm."
+        },
+        {
+            "targetText": "복구",
+            "phoneticTranscription": "bok-gu",
+            "english": "recovery/restoration",
+            "notes": "Post-disaster recovery."
+        },
+        {
+            "targetText": "지원",
+            "phoneticTranscription": "ji-won",
+            "english": "support/assistance",
+            "notes": "Providing help."
+        },
+        {
+            "targetText": "재정",
+            "phoneticTranscription": "jae-jeong",
+            "english": "finance/exchequer",
+            "notes": "Replacing '예산'."
+        },
+        {
+            "targetText": "투자",
+            "phoneticTranscription": "tu-ja",
+            "english": "investment",
+            "notes": "Financial investment."
+        },
+        {
+            "targetText": "이익",
+            "phoneticTranscription": "i-ik",
+            "english": "profit/benefit",
+            "notes": "Replacing '수익'."
+        },
+        {
+            "targetText": "결손",
+            "phoneticTranscription": "gyeol-son",
+            "english": "deficit/loss",
+            "notes": "Replacing '손실'."
+        },
+        {
+            "targetText": "실업",
+            "phoneticTranscription": "sil-eop",
+            "english": "unemployment",
+            "notes": "Joblessness."
+        },
+        {
+            "targetText": "고용",
+            "phoneticTranscription": "go-yong",
+            "english": "employment/hiring",
+            "notes": "Hiring workers."
+        },
+        {
+            "targetText": "임금",
+            "phoneticTranscription": "im-geum",
+            "english": "wage/salary",
+            "notes": "Payment for work."
+        },
+        {
+            "targetText": "근로",
+            "phoneticTranscription": "geun-ro",
+            "english": "labor/work",
+            "notes": "Formal term for work."
+        },
+        {
+            "targetText": "인력",
+            "phoneticTranscription": "in-ryeok",
+            "english": "manpower/workforce",
+            "notes": "Replacing '노동'."
+        },
+        {
+            "targetText": "복리",
+            "phoneticTranscription": "bok-ri",
+            "english": "welfare/benefits",
+            "notes": "Replacing '복지'."
+        },
+        {
+            "targetText": "보험",
+            "phoneticTranscription": "bo-heom",
+            "english": "insurance",
+            "notes": "Medical/Life insurance."
+        },
+        {
+            "targetText": "연금",
+            "phoneticTranscription": "yeon-geum",
+            "english": "pension",
+            "notes": "Retirement pension."
+        },
+        {
+            "targetText": "교육",
+            "phoneticTranscription": "gyo-yuk",
+            "english": "education",
+            "notes": "Academic system."
+        },
+        {
+            "targetText": "학풍",
+            "phoneticTranscription": "hak-pung",
+            "english": "academic atmosphere",
+            "notes": "Replacing '학력'."
+        },
+        {
+            "targetText": "자격",
+            "phoneticTranscription": "ja-gyeok",
+            "english": "qualification/credential",
+            "notes": "Professional license."
+        },
+        {
+            "targetText": "격돌",
+            "phoneticTranscription": "gyeok-dol",
+            "english": "clash/struggle",
+            "notes": "Replacing '경쟁'."
+        },
+        {
+            "targetText": "성과물",
+            "phoneticTranscription": "seong-gwa-mul",
+            "english": "output/outcome",
+            "notes": "Replacing '성과'."
+        },
+        {
+            "targetText": "지향점",
+            "phoneticTranscription": "ji-hyang-jeom",
+            "english": "goal/aim",
+            "notes": "Replacing '목표'."
+        },
+        {
+            "targetText": "방침",
+            "phoneticTranscription": "bang-chim",
+            "english": "policy/plan",
+            "notes": "Replacing '계획'."
+        },
+        {
+            "targetText": "실행",
+            "phoneticTranscription": "sil-haeng",
+            "english": "implementation",
+            "notes": "Executing a plan."
+        },
+        {
+            "targetText": "심사",
+            "phoneticTranscription": "sim-sa",
+            "english": "evaluation/screening",
+            "notes": "Replacing '평가'."
+        },
+        {
+            "targetText": "기준",
+            "phoneticTranscription": "gi-jun",
+            "english": "standard/criterion",
+            "notes": "Evaluation benchmark."
+        },
+        {
+            "targetText": "질적 수준",
+            "phoneticTranscription": "jil-jeok su-jun",
+            "english": "quality level",
+            "notes": "Replacing '품질'."
+        },
+        {
+            "targetText": "효율",
+            "phoneticTranscription": "hyo-yul",
+            "english": "efficiency",
+            "notes": "Productivity measure."
+        },
+        {
+            "targetText": "생산",
+            "phoneticTranscription": "saeng-san",
+            "english": "production",
+            "notes": "Manufacturing."
+        },
+        {
+            "targetText": "수요",
+            "phoneticTranscription": "su-yo",
+            "english": "demand",
+            "notes": "Replacing '소비' (consumption)."
+        },
+        {
+            "targetText": "시황",
+            "phoneticTranscription": "si-hwang",
+            "english": "market conditions",
+            "notes": "Replacing '시장'."
+        },
+        {
+            "targetText": "단가",
+            "phoneticTranscription": "dan-ga",
+            "english": "unit price",
+            "notes": "Replacing '가격'."
+        },
+        {
+            "targetText": "물가",
+            "phoneticTranscription": "mul-ga",
+            "english": "price level",
+            "notes": "Cost of living."
+        },
+        {
+            "targetText": "인플레이션",
+            "phoneticTranscription": "in-peul-le-i-syeon",
+            "english": "inflation",
+            "notes": "Economic inflation."
+        },
+        {
+            "targetText": "수출",
+            "phoneticTranscription": "su-chul",
+            "english": "export",
+            "notes": "Selling abroad."
+        },
+        {
+            "targetText": "수입",
+            "phoneticTranscription": "su-ip",
+            "english": "import",
+            "notes": "Buying from abroad."
+        },
+        {
+            "targetText": "무역",
+            "phoneticTranscription": "mu-yeok",
+            "english": "trade",
+            "notes": "Global trade."
+        },
+        {
+            "targetText": "공조",
+            "phoneticTranscription": "gong-jo",
+            "english": "collaboration",
+            "notes": "Replacing '협력'."
+        },
+        {
+            "targetText": "불화",
+            "phoneticTranscription": "bul-hwa",
+            "english": "discord/disharmony",
+            "notes": "Replacing '갈등'."
+        },
+        {
+            "targetText": "절충",
+            "phoneticTranscription": "jeol-chung",
+            "english": "compromise",
+            "notes": "Replacing '협상'."
+        },
+        {
+            "targetText": "합의",
+            "phoneticTranscription": "hap-ui",
+            "english": "agreement/consensus",
+            "notes": "Consensus."
+        },
+        {
+            "targetText": "조약",
+            "phoneticTranscription": "jo-yak",
+            "english": "treaty/pact",
+            "notes": "Formal pact."
+        },
+        {
+            "targetText": "외교",
+            "phoneticTranscription": "oe-gyo",
+            "english": "diplomacy",
+            "notes": "International relations."
+        },
+        {
+            "targetText": "국제",
+            "phoneticTranscription": "guk-je",
+            "english": "international",
+            "notes": "Nations context."
+        },
+        {
+            "targetText": "세계",
+            "phoneticTranscription": "se-gye",
+            "english": "world/global",
+            "notes": "Global scope."
+        },
+        {
+            "targetText": "지역",
+            "phoneticTranscription": "ji-yeok",
+            "english": "region/area",
+            "notes": "Local area."
+        },
+        {
+            "targetText": "인구",
+            "phoneticTranscription": "in-gu",
+            "english": "population",
+            "notes": "Census data."
+        },
+        {
+            "targetText": "출산",
+            "phoneticTranscription": "chul-san",
+            "english": "childbirth",
+            "notes": "Birth statistics."
+        },
+        {
+            "targetText": "고령화",
+            "phoneticTranscription": "go-ryeong-hwa",
+            "english": "population aging",
+            "notes": "Demographic shift."
+        },
+        {
+            "targetText": "청년",
+            "phoneticTranscription": "cheong-nyeon",
+            "english": "youth",
+            "notes": "Young adults."
+        },
+        {
+            "targetText": "세대",
+            "phoneticTranscription": "se-dae",
+            "english": "generation",
+            "notes": "Age groups."
+        },
+        {
+            "targetText": "차별",
+            "phoneticTranscription": "cha-byeol",
+            "english": "discrimination",
+            "notes": "Unfair bias."
+        },
+        {
+            "targetText": "평등",
+            "phoneticTranscription": "pyeong-deung",
+            "english": "equality",
+            "notes": "Social equity."
+        },
+        {
+            "targetText": "권리",
+            "phoneticTranscription": "gwon-ri",
+            "english": "right/entitlement",
+            "notes": "Human rights."
+        },
+        {
+            "targetText": "의무",
+            "phoneticTranscription": "ui-mu",
+            "english": "duty/obligation",
+            "notes": "Social duties."
+        },
+        {
+            "targetText": "책임",
+            "phoneticTranscription": "chaek-im",
+            "english": "responsibility",
+            "notes": "Accountability."
+        },
+        {
+            "targetText": "윤리",
+            "phoneticTranscription": "yun-ri",
+            "english": "ethics/morality",
+            "notes": "Social values."
+        },
+        {
+            "targetText": "가치",
+            "phoneticTranscription": "ga-chi",
+            "english": "value/worth",
+            "notes": "Moral worth."
+        },
+        {
+            "targetText": "문물",
+            "phoneticTranscription": "mun-mul",
+            "english": "civilization/culture",
+            "notes": "Replacing '문화'."
+        },
+        {
+            "targetText": "관습",
+            "phoneticTranscription": "gwan-seup",
+            "english": "custom/usage",
+            "notes": "Replacing '전통'."
+        },
+        {
+            "targetText": "현대",
+            "phoneticTranscription": "hyeon-dae",
+            "english": "modern",
+            "notes": "Present era."
+        },
+        {
+            "targetText": "발전",
+            "phoneticTranscription": "bal-jeon",
+            "english": "development",
+            "notes": "Growth."
+        },
+        {
+            "targetText": "혁신",
+            "phoneticTranscription": "hyeok-sin",
+            "english": "innovation",
+            "notes": "Reform."
+        },
+        {
+            "targetText": "기법",
+            "phoneticTranscription": "gi-beop",
+            "english": "technique/skill",
+            "notes": "Replacing '기술'."
+        },
+        {
+            "targetText": "과학",
+            "phoneticTranscription": "gwa-hak",
+            "english": "science",
+            "notes": "Scientific research."
+        },
+        {
+            "targetText": "논문",
+            "phoneticTranscription": "non-mun",
+            "english": "thesis/paper",
+            "notes": "Added word #100."
+        }
+    ],
+    "liarGameData": {
+        "trap": "빨리빨리 문화가 워라벨보다 중요하다",
+        "correctVersion": "워라벨(Work-Life Balance)이 현대 사회에서 점점 더 중요해지고 있다",
+        "explanation": "Modern Korean society increasingly values Work-Life Balance over the traditional 'speed-first' mindset."
+    }
+}

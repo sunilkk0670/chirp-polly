@@ -1,0 +1,508 @@
+{
+    "module_id": "es_a2_m09",
+    "language": "es",
+    "level": "A2",
+    "theme": "Hobbies, Leisure & Social",
+    "vocabulary": [
+        {
+            "word": "Tiempo libre",
+            "translation": "Free time",
+            "phonetic": "TYEM-po LEE-bre"
+        },
+        {
+            "word": "Ocio",
+            "translation": "Leisure",
+            "phonetic": "O-syo"
+        },
+        {
+            "word": "Pasatiempo",
+            "translation": "Hobby",
+            "phonetic": "pa-sa-TYEM-po"
+        },
+        {
+            "word": "Interés",
+            "translation": "Interest",
+            "phonetic": "een-te-RES"
+        },
+        {
+            "word": "Diversión",
+            "translation": "Fun",
+            "phonetic": "dee-ber-SYON"
+        },
+        {
+            "word": "Entretenimiento",
+            "translation": "Entertainment",
+            "phonetic": "en-tre-te-nee-MYEN-to"
+        },
+        {
+            "word": "Aficionado",
+            "translation": "Fan / Amateur",
+            "phonetic": "a-fee-syo-NA-do"
+        },
+        {
+            "word": "Coleccionar",
+            "translation": "To collect",
+            "phonetic": "ko-lek-syo-NAR"
+        },
+        {
+            "word": "Fotografía",
+            "translation": "Photography",
+            "phonetic": "fo-to-gra-FEE-a"
+        },
+        {
+            "word": "Cine",
+            "translation": "Cinema",
+            "phonetic": "SEE-ne"
+        },
+        {
+            "word": "Película",
+            "translation": "Movie",
+            "phonetic": "pe-LEE-koo-la"
+        },
+        {
+            "word": "Teatro",
+            "translation": "Theater",
+            "phonetic": "te-A-tro"
+        },
+        {
+            "word": "Concierto",
+            "translation": "Concert",
+            "phonetic": "kon-SYER-to"
+        },
+        {
+            "word": "Música en vivo",
+            "translation": "Live music",
+            "phonetic": "MOO-see-ka en BEE-bo"
+        },
+        {
+            "word": "Baile",
+            "translation": "Dance",
+            "phonetic": "BAY-le"
+        },
+        {
+            "word": "Cantar",
+            "translation": "To sing",
+            "phonetic": "kan-TAR"
+        },
+        {
+            "word": "Instrumento",
+            "translation": "Instrument",
+            "phonetic": "een-stroo-MEN-to"
+        },
+        {
+            "word": "Tocar",
+            "translation": "To play (instrument)",
+            "phonetic": "to-KAR"
+        },
+        {
+            "word": "Pintura",
+            "translation": "Painting",
+            "phonetic": "peen-TOO-ra"
+        },
+        {
+            "word": "Dibujo",
+            "translation": "Drawing",
+            "phonetic": "dee-BOO-ho"
+        },
+        {
+            "word": "Manualidades",
+            "translation": "Crafts",
+            "phonetic": "ma-nwa-lee-DA-des"
+        },
+        {
+            "word": "Cocinar",
+            "translation": "To cook",
+            "phonetic": "ko-see-NAR"
+        },
+        {
+            "word": "Repostería",
+            "translation": "Baking",
+            "phonetic": "re-pos-te-REE-a"
+        },
+        {
+            "word": "Jardinería",
+            "translation": "Gardening",
+            "phonetic": "har-dee-ne-REE-a"
+        },
+        {
+            "word": "Lectura",
+            "translation": "Reading",
+            "phonetic": "lek-TOO-ra"
+        },
+        {
+            "word": "Escritura",
+            "translation": "Writing",
+            "phonetic": "es-kree-TOO-ra"
+        },
+        {
+            "word": "Deporte",
+            "translation": "Sport",
+            "phonetic": "de-POR-te"
+        },
+        {
+            "word": "Ejercicio",
+            "translation": "Exercise",
+            "phonetic": "e-her-SEE-syo"
+        },
+        {
+            "word": "Gimnasio",
+            "translation": "Gym",
+            "phonetic": "heem-NA-syo"
+        },
+        {
+            "word": "Yoga",
+            "translation": "Yoga",
+            "phonetic": "YO-ga"
+        },
+        {
+            "word": "Nadar",
+            "translation": "To swim",
+            "phonetic": "na-DAR"
+        },
+        {
+            "word": "Correr",
+            "translation": "To run / jogging",
+            "phonetic": "ko-RRER"
+        },
+        {
+            "word": "Ciclismo",
+            "translation": "Cycling",
+            "phonetic": "see-KLEES-mo"
+        },
+        {
+            "word": "Senderismo",
+            "translation": "Hiking",
+            "phonetic": "sen-de-REES-mo"
+        },
+        {
+            "word": "Viajar",
+            "translation": "To travel",
+            "phonetic": "bya-HAR"
+        },
+        {
+            "word": "Turismo",
+            "translation": "Tourism",
+            "phonetic": "too-REES-mo"
+        },
+        {
+            "word": "Videojuegos",
+            "translation": "Video games",
+            "phonetic": "bee-de-o-HWE-gos"
+        },
+        {
+            "word": "Juegos de mesa",
+            "translation": "Board games",
+            "phonetic": "HWE-gos de ME-sa"
+        },
+        {
+            "word": "Ajedrez",
+            "translation": "Chess",
+            "phonetic": "a-he-DRES"
+        },
+        {
+            "word": "Cartas",
+            "translation": "Cards",
+            "phonetic": "KAR-tas"
+        },
+        {
+            "word": "Vida social",
+            "translation": "Social life",
+            "phonetic": "BEE-da so-SYAL"
+        },
+        {
+            "word": "Salir con amigos",
+            "translation": "To go out with friends",
+            "phonetic": "sa-LEER kon a-MEE-gos"
+        },
+        {
+            "word": "Fiesta",
+            "translation": "Party",
+            "phonetic": "FYES-ta"
+        },
+        {
+            "word": "Celebración",
+            "translation": "Celebration",
+            "phonetic": "se-le-bra-SYON"
+        },
+        {
+            "word": "Cumpleaños",
+            "translation": "Birthday",
+            "phonetic": "koom-ple-A-nyos"
+        },
+        {
+            "word": "Regalo",
+            "translation": "Gift",
+            "phonetic": "re-GA-lo"
+        },
+        {
+            "word": "Invitación",
+            "translation": "Invitation",
+            "phonetic": "een-bee-ta-SYON"
+        },
+        {
+            "word": "Anfitrión",
+            "translation": "Host",
+            "phonetic": "an-fee-TRYON"
+        },
+        {
+            "word": "Invitado",
+            "translation": "Guest",
+            "phonetic": "een-bee-TA-do"
+        },
+        {
+            "word": "Reunión",
+            "translation": "Meeting / Gathering",
+            "phonetic": "re-oo-NYON"
+        },
+        {
+            "word": "Cena",
+            "translation": "Dinner",
+            "phonetic": "SE-na"
+        },
+        {
+            "word": "Restaurante",
+            "translation": "Restaurant",
+            "phonetic": "res-ta-oo-RAN-te"
+        },
+        {
+            "word": "Bar",
+            "translation": "Bar / Pub",
+            "phonetic": "Bar"
+        },
+        {
+            "word": "Cafetería",
+            "translation": "Cafeteria / Coffee shop",
+            "phonetic": "ka-fe-te-REE-a"
+        },
+        {
+            "word": "Tomar algo",
+            "translation": "To have a drink",
+            "phonetic": "to-MAR AL-go"
+        },
+        {
+            "word": "Charlar",
+            "translation": "To chat",
+            "phonetic": "char-LAR"
+        },
+        {
+            "word": "Conversación",
+            "translation": "Conversation",
+            "phonetic": "kon-ber-sa-SYON"
+        },
+        {
+            "word": "Risas",
+            "translation": "Laughter",
+            "phonetic": "REE-sas"
+        },
+        {
+            "word": "Broma",
+            "translation": "Joke",
+            "phonetic": "BRO-ma"
+        },
+        {
+            "word": "Divertido",
+            "translation": "Funny / Fun",
+            "phonetic": "dee-ber-TEE-do"
+        },
+        {
+            "word": "Aburrido",
+            "translation": "Boring",
+            "phonetic": "a-boo-RREE-do"
+        },
+        {
+            "word": "Planear",
+            "translation": "To plan",
+            "phonetic": "pla-ne-AR"
+        },
+        {
+            "word": "Cita",
+            "translation": "Date / Appointment",
+            "phonetic": "SEE-ta"
+        },
+        {
+            "word": "Pareja",
+            "translation": "Partner / Couple",
+            "phonetic": "pa-RE-ha"
+        },
+        {
+            "word": "Amistad",
+            "translation": "Friendship",
+            "phonetic": "a-mees-TAD"
+        },
+        {
+            "word": "Confianza",
+            "translation": "Trust",
+            "phonetic": "kon-FYAN-sa"
+        },
+        {
+            "word": "Apoyo",
+            "translation": "Support",
+            "phonetic": "a-PO-yo"
+        },
+        {
+            "word": "Compartir momentos",
+            "translation": "To share moments",
+            "phonetic": "kom-par-TEER mo-MEN-tos"
+        },
+        {
+            "word": "Viaje con amigos",
+            "translation": "Trip with friends",
+            "phonetic": "BYA-he kon a-MEE-gos"
+        },
+        {
+            "word": "Deportes de equipo",
+            "translation": "Team sports",
+            "phonetic": "de-POR-tes de e-KEE-po"
+        },
+        {
+            "word": "Club",
+            "translation": "Club",
+            "phonetic": "Kloob"
+        },
+        {
+            "word": "Asociación",
+            "translation": "Association",
+            "phonetic": "a-so-sya-SYON"
+        },
+        {
+            "word": "Voluntariado",
+            "translation": "Volunteering",
+            "phonetic": "bo-loon-ta-RYA-do"
+        },
+        {
+            "word": "Evento",
+            "translation": "Event",
+            "phonetic": "e-BEN-to"
+        },
+        {
+            "word": "Festival",
+            "translation": "Festival",
+            "phonetic": "fes-tee-BAL"
+        },
+        {
+            "word": "Feria",
+            "translation": "Fair",
+            "phonetic": "FE-rya"
+        },
+        {
+            "word": "Espectáculo",
+            "translation": "Show",
+            "phonetic": "es-pek-TA-koo-lo"
+        },
+        {
+            "word": "Entrada",
+            "translation": "Ticket",
+            "phonetic": "en-TRA-da"
+        },
+        {
+            "word": "Precio",
+            "translation": "Price",
+            "phonetic": "PRE-syo"
+        },
+        {
+            "word": "Descuento",
+            "translation": "Discount",
+            "phonetic": "des-KWEN-to"
+        },
+        {
+            "word": "Gratis",
+            "translation": "Free",
+            "phonetic": "GRA-tees"
+        },
+        {
+            "word": "Fin de semana",
+            "translation": "Weekend",
+            "phonetic": "feen de se-MA-na"
+        },
+        {
+            "word": "Vacaciones",
+            "translation": "Vacations",
+            "phonetic": "ba-ka-SYO-nes"
+        },
+        {
+            "word": "Descanso",
+            "translation": "Rest",
+            "phonetic": "des-KAN-so"
+        },
+        {
+            "word": "Relajación",
+            "translation": "Relaxation",
+            "phonetic": "re-la-ha-SYON"
+        },
+        {
+            "word": "Naturaleza",
+            "translation": "Nature",
+            "phonetic": "na-too-ra-LE-sa"
+        },
+        {
+            "word": "Aire libre",
+            "translation": "Outdoors",
+            "phonetic": "AY-re LEE-bre"
+        },
+        {
+            "word": "Playa",
+            "translation": "Beach",
+            "phonetic": "PLA-ya"
+        },
+        {
+            "word": "Montaña",
+            "translation": "Mountain",
+            "phonetic": "mon-TA-nya"
+        },
+        {
+            "word": "Parque",
+            "translation": "Park",
+            "phonetic": "PAR-ke"
+        },
+        {
+            "word": "Paseo",
+            "translation": "Walk / Stroll",
+            "phonetic": "pa-SE-o"
+        },
+        {
+            "word": "Mascota",
+            "translation": "Pet",
+            "phonetic": "mas-KO-ta"
+        },
+        {
+            "word": "Perro",
+            "translation": "Dog",
+            "phonetic": "PE-rro"
+        },
+        {
+            "word": "Gato",
+            "translation": "Cat",
+            "phonetic": "GA-to"
+        },
+        {
+            "word": "Cuidado",
+            "translation": "Care",
+            "phonetic": "kwee-DA-do"
+        },
+        {
+            "word": "Responsabilidad",
+            "translation": "Responsibility",
+            "phonetic": "res-pon-sa-bee-lee-DAD"
+        },
+        {
+            "word": "Hábito",
+            "translation": "Habit",
+            "phonetic": "A-bee-to"
+        },
+        {
+            "word": "Rutina",
+            "translation": "Routine",
+            "phonetic": "roo-TEE-na"
+        },
+        {
+            "word": "Equilibrio",
+            "translation": "Balance",
+            "phonetic": "e-kee-LEE-bryo"
+        },
+        {
+            "word": "Felicidad",
+            "translation": "Happiness",
+            "phonetic": "fe-lee-see-DAD"
+        }
+    ]
+}

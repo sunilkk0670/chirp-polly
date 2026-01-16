@@ -1,6 +1,6 @@
 import 'dart:html' as html;
 
-class WebTtsService {
+class TtsService {
   static Future<void> speak(String text, String languageCode) async {
     try {
       final utterance = html.SpeechSynthesisUtterance(text);

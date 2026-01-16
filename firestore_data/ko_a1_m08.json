@@ -1,0 +1,627 @@
+{
+  "moduleId": "ko_a1_m08",
+  "title": "Weather & Seasons",
+  "level": "a1",
+  "language": "korean",
+  "order": 8,
+  "lessons": [
+    {
+      "order": 1,
+      "vocabularyItems": [
+        {
+          "word": "날씨",
+          "reading": "Nalssi",
+          "meaning": "Weather",
+          "example_sentence": "오늘 날씨가 어때요? (How is the weather today?)"
+        },
+        {
+          "word": "계절",
+          "reading": "Gyejeol",
+          "meaning": "Season",
+          "example_sentence": "어느 계절을 제일 좋아해요? (Which season do you like the most?)"
+        },
+        {
+          "word": "봄",
+          "reading": "Bom",
+          "meaning": "Spring",
+          "example_sentence": "봄에는 꽃이 많이 피어요. (Many flowers bloom in spring.)"
+        },
+        {
+          "word": "여름",
+          "reading": "Yeoreum",
+          "meaning": "Summer",
+          "example_sentence": "여름에는 날씨가 아주 더워요. (The weather is very hot in summer.)"
+        },
+        {
+          "word": "가을",
+          "reading": "Gaeul",
+          "meaning": "Autumn / Fall",
+          "example_sentence": "가을은 단풍이 예쁜 계절이에요. (Autumn is a season when the autumn leaves are pretty.)"
+        },
+        {
+          "word": "겨울",
+          "reading": "Gyeoul",
+          "meaning": "Winter",
+          "example_sentence": "겨울에는 눈이 내려요. (It snows in winter.)"
+        },
+        {
+          "word": "하늘",
+          "reading": "Haneul",
+          "meaning": "Sky",
+          "example_sentence": "하늘에 구름 한 점 없어요. (There isn't a single cloud in the sky.)"
+        },
+        {
+          "word": "구름",
+          "reading": "Gureum",
+          "meaning": "Cloud",
+          "example_sentence": "구름이 많이 끼어서 어두워요. (It's dark because there are many clouds.)"
+        },
+        {
+          "word": "햇빛",
+          "reading": "Haetbit",
+          "meaning": "Sunlight / Sunshine",
+          "example_sentence": "햇빛이 따가우니까 모자를 쓰세요. (The sunshine is stinging, so wear a hat.)"
+        },
+        {
+          "word": "바람",
+          "reading": "Baram",
+          "meaning": "Wind",
+          "example_sentence": "바람이 시원하게 불어요. (The wind is blowing coolly.)"
+        },
+        {
+          "word": "비",
+          "reading": "Bi",
+          "meaning": "Rain",
+          "example_sentence": "비가 그치고 무지개가 떴어요. (The rain stopped and a rainbow appeared.)"
+        },
+        {
+          "word": "눈",
+          "reading": "Nun",
+          "meaning": "Snow / Eye",
+          "example_sentence": "함박눈이 펑펑 내려요. (Large snowflakes are falling heavily.)"
+        },
+        {
+          "word": "안개",
+          "reading": "Angae",
+          "meaning": "Fog",
+          "example_sentence": "안개가 자욱해서 앞이 안 보여요. (I can't see ahead because the fog is thick.)"
+        },
+        {
+          "word": "무지개",
+          "reading": "Mujigae",
+          "meaning": "Rainbow",
+          "example_sentence": "하늘에 무지개가 아주 예뻐요. (The rainbow in the sky is very pretty.)"
+        },
+        {
+          "word": "태풍",
+          "reading": "Taepung",
+          "meaning": "Typhoon",
+          "example_sentence": "태풍이 오면 외출하지 마세요. (Don't go out when a typhoon comes.)"
+        },
+        {
+          "word": "천둥",
+          "reading": "Cheondung",
+          "meaning": "Thunder",
+          "example_sentence": "천둥 소리에 깜짝 놀랐어요. (I was startled by the sound of thunder.)"
+        },
+        {
+          "word": "번개",
+          "reading": "Beongae",
+          "meaning": "Lightning",
+          "example_sentence": "번개가 번쩍하고 쳤어요. (Lightning flashed.)"
+        },
+        {
+          "word": "기온",
+          "reading": "Gion",
+          "meaning": "Temperature (Air)",
+          "example_sentence": "오늘 기온이 영하로 떨어졌어요. (The temperature dropped below zero today.)"
+        },
+        {
+          "word": "영상",
+          "reading": "Yeongsang",
+          "meaning": "Above zero (Celsius)",
+          "example_sentence": "오후에는 영상 십 도까지 올라가요. (The temperature rises to 10 degrees above zero in the afternoon.)"
+        },
+        {
+          "word": "영하",
+          "reading": "Yeongha",
+          "meaning": "Below zero (Celsius)",
+          "example_sentence": "영하의 날씨에는 옷을 따뜻하게 입으세요. (Dress warmly in sub-zero weather.)"
+        },
+        {
+          "word": "온도",
+          "reading": "Ondo",
+          "meaning": "Temperature",
+          "example_sentence": "실내 온도가 적당해요. (The indoor temperature is moderate.)"
+        },
+        {
+          "word": "덥다",
+          "reading": "Deopda",
+          "meaning": "To be hot",
+          "example_sentence": "날씨가 너무 더워서 에어컨을 켰어요. (It was so hot that I turned on the air conditioner.)"
+        },
+        {
+          "word": "춥다",
+          "reading": "Chupda",
+          "meaning": "To be cold",
+          "example_sentence": "겨울 바다는 아주 추워요. (The winter sea is very cold.)"
+        },
+        {
+          "word": "따뜻하다",
+          "reading": "Ttatteuthada",
+          "meaning": "To be warm",
+          "example_sentence": "봄바람이 참 따뜻해요. (The spring breeze is very warm.)"
+        },
+        {
+          "word": "시원하다",
+          "reading": "Siwonhada",
+          "meaning": "To be cool / refreshing",
+          "example_sentence": "샤워를 하니까 기분이 시원해요. (I feel refreshed after taking a shower.)"
+        },
+        {
+          "word": "쌀쌀하다",
+          "reading": "Ssalssalhada",
+          "meaning": "To be chilly",
+          "example_sentence": "아침저녁으로 날씨가 쌀쌀해요. (The weather is chilly in the mornings and evenings.)"
+        },
+        {
+          "word": "선선하다",
+          "reading": "Seonseonhada",
+          "meaning": "To be cool / fresh",
+          "example_sentence": "가을이라 날씨가 선선해요. (Since it's autumn, the weather is cool.)"
+        },
+        {
+          "word": "무덥다",
+          "reading": "Mudeopda",
+          "meaning": "To be humid and hot / sultry",
+          "example_sentence": "장마철이라 날씨가 아주 무더워요. (It's very sultry because it's the rainy season.)"
+        },
+        {
+          "word": "건조하다",
+          "reading": "Geonjohada",
+          "meaning": "To be dry",
+          "example_sentence": "겨울에는 피부가 많이 건조해요. (Skin is very dry in winter.)"
+        },
+        {
+          "word": "습하다",
+          "reading": "Seuphada",
+          "meaning": "To be humid / damp",
+          "example_sentence": "비가 와서 실내가 습해요. (It's humid indoors because it's raining.)"
+        },
+        {
+          "word": "흐리다",
+          "reading": "Heurida",
+          "meaning": "To be cloudy / overcast",
+          "example_sentence": "오늘 하늘이 많이 흐리네요. (The sky is very overcast today.)"
+        },
+        {
+          "word": "맑다",
+          "reading": "Malkda",
+          "meaning": "To be clear / sunny",
+          "example_sentence": "오랜만에 맑은 하늘을 봤어요. (I saw a clear sky after a long time.)"
+        },
+        {
+          "word": "화창하다",
+          "reading": "Hwachanghada",
+          "meaning": "To be bright and clear / sunny",
+          "example_sentence": "소풍 가기 아주 화창한 날씨예요. (The weather is very sunny for going on a picnic.)"
+        },
+        {
+          "word": "포근하다",
+          "reading": "Pogeunhada",
+          "meaning": "To be cozy / mild (weather)",
+          "example_sentence": "눈이 그치고 날씨가 포근해졌어요. (The snow stopped and the weather became mild.)"
+        },
+        {
+          "word": "강추위",
+          "reading": "Gangchuwi",
+          "meaning": "Severe cold / Bitter cold",
+          "example_sentence": "강추위 때문에 한강이 얼었어요. (The Han River froze because of the bitter cold.)"
+        },
+        {
+          "word": "무더위",
+          "reading": "Mudeowi",
+          "meaning": "Sweltering heat / Heat wave",
+          "example_sentence": "무더위를 피해서 바다로 가요. (Let's go to the sea to escape the sweltering heat.)"
+        },
+        {
+          "word": "장마",
+          "reading": "Jangma",
+          "meaning": "Rainy season / Monsoon",
+          "example_sentence": "다음 주부터 장마가 시작된대요. (They say the rainy season will start next week.)"
+        },
+        {
+          "word": "소나기",
+          "reading": "Sonagi",
+          "meaning": "Rain shower",
+          "example_sentence": "갑자기 소나기가 내려서 옷이 다 젖었어요. (I got all wet because it rained suddenly.)"
+        },
+        {
+          "word": "우산",
+          "reading": "Usan",
+          "meaning": "Umbrella",
+          "example_sentence": "외출할 때 우산을 꼭 챙기세요. (Be sure to take an umbrella when you go out.)"
+        },
+        {
+          "word": "우비",
+          "reading": "Ubi",
+          "meaning": "Raincoat",
+          "example_sentence": "비가 많이 와서 우비를 입었어요. (I wore a raincoat because it rained a lot.)"
+        },
+        {
+          "word": "장화",
+          "reading": "Janghwa",
+          "meaning": "Rain boots",
+          "example_sentence": "아이들이 노란 장화를 신고 물장난을 쳐요. (Children wear yellow rain boots and play in the water.)"
+        },
+        {
+          "word": "눈사람",
+          "reading": "Nunsaram",
+          "meaning": "Snowman",
+          "example_sentence": "마당에 커다란 눈사람을 만들었어요. (I made a large snowman in the yard.)"
+        },
+        {
+          "word": "눈싸움",
+          "reading": "Nunssa-um",
+          "meaning": "Snowball fight",
+          "example_sentence": "친구들과 눈싸움을 하며 놀았어요. (I played snowball fights with my friends.)"
+        },
+        {
+          "word": "얼음",
+          "reading": "Eoreum",
+          "meaning": "Ice",
+          "example_sentence": "물에 얼음을 넣어서 마셔요. (Drink water by putting ice in it.)"
+        },
+        {
+          "word": "얼다",
+          "reading": "Eolda",
+          "meaning": "To freeze",
+          "example_sentence": "추워서 손발이 다 얼 것 같아요. (My hands and feet feel like they're going to freeze because it's cold.)"
+        },
+        {
+          "word": "녹다",
+          "reading": "Nokda",
+          "meaning": "To melt",
+          "example_sentence": "날씨가 따뜻해져서 눈이 녹아요. (The snow melts as the weather gets warmer.)"
+        },
+        {
+          "word": "그치다",
+          "reading": "Geuchida",
+          "meaning": "To stop (rain/snow)",
+          "example_sentence": "비가 그치면 산책하러 나가요. (When the rain stops, let's go for a walk.)"
+        },
+        {
+          "word": "불다",
+          "reading": "Bulda",
+          "meaning": "To blow (wind)",
+          "example_sentence": "북풍이 강하게 불고 있어요. (The north wind is blowing strongly.)"
+        },
+        {
+          "word": "쏟아지다",
+          "reading": "Ssodajida",
+          "meaning": "To pour down",
+          "example_sentence": "비가 억수같이 쏟아져요. (The rain is pouring down in buckets.)"
+        },
+        {
+          "word": "개다",
+          "reading": "Gaeda",
+          "meaning": "To clear up (weather)",
+          "example_sentence": "오후에는 날씨가 맑게 갤 거예요. (The weather will clear up brightly in the afternoon.)"
+        },
+        {
+          "word": "해가 뜨다",
+          "reading": "Haega tteuda",
+          "meaning": "The sun rises",
+          "example_sentence": "해가 뜨는 걸 보러 정동진에 갔어요. (I went to Jeongdongjin to see the sun rise.)"
+        },
+        {
+          "word": "해가 지다",
+          "reading": "Haega jida",
+          "meaning": "The sun sets",
+          "example_sentence": "해가 지니까 금방 어두워지네요. (It's getting dark quickly as the sun sets.)"
+        },
+        {
+          "word": "달",
+          "reading": "Dal",
+          "meaning": "Moon / Month",
+          "example_sentence": "밤하늘에 보름달이 아주 밝아요. (The full moon is very bright in the night sky.)"
+        },
+        {
+          "word": "별",
+          "reading": "Byeol",
+          "meaning": "Star",
+          "example_sentence": "밤하늘에 별이 쏟아질 것 같아요. (It feels like stars will pour from the night sky.)"
+        },
+        {
+          "word": "공기",
+          "reading": "Gonggi",
+          "meaning": "Air",
+          "example_sentence": "산에 오니까 공기가 아주 맑아요. (The air is very clear as I came to the mountain.)"
+        },
+        {
+          "word": "미세먼지",
+          "reading": "Misemonji",
+          "meaning": "Fine dust",
+          "example_sentence": "미세먼지 농도가 높아서 마스크를 썼어요. (I wore a mask because the fine dust concentration is high.)"
+        },
+        {
+          "word": "황사",
+          "reading": "Hwangsa",
+          "meaning": "Yellow dust (Asian Dust)",
+          "example_sentence": "봄에는 황사가 심하니까 조심하세요. (Be careful because yellow dust is severe in spring.)"
+        },
+        {
+          "word": "마스크",
+          "reading": "Maseukeu",
+          "meaning": "Mask",
+          "example_sentence": "마스크를 꼭 착용하고 외출하세요. (Be sure to wear a mask when you go out.)"
+        },
+        {
+          "word": "건강",
+          "reading": "Geongang",
+          "meaning": "Health",
+          "example_sentence": "추운 날씨에 건강 유의하세요. (Please take care of your health in the cold weather.)"
+        },
+        {
+          "word": "감기",
+          "reading": "Gamgi",
+          "meaning": "Cold (Illness)",
+          "example_sentence": "환절기라서 감기에 걸리기 쉬워요. (It's easy to catch a cold because it's the change of seasons.)"
+        },
+        {
+          "word": "꽃",
+          "reading": "Kkot",
+          "meaning": "Flower",
+          "example_sentence": "봄이 되면 꽃구경을 가요. (When spring comes, I go flower viewing.)"
+        },
+        {
+          "word": "단풍",
+          "reading": "Danpung",
+          "meaning": "Autumn foliage / Colorful leaves",
+          "example_sentence": "산이 단풍으로 붉게 물들었어요. (The mountains turned red with autumn foliage.)"
+        },
+        {
+          "word": "낙엽",
+          "reading": "Nagyeop",
+          "meaning": "Fallen leaves",
+          "example_sentence": "길에 낙엽이 많이 떨어져 있어요. (There are many fallen leaves on the road.)"
+        },
+        {
+          "word": "꽃가루",
+          "reading": "Kkotgaru",
+          "meaning": "Pollen",
+          "example_sentence": "봄에는 꽃가루 알레르기를 조심하세요. (Be careful of pollen allergies in spring.)"
+        },
+        {
+          "word": "진달래",
+          "reading": "Jindallae",
+          "meaning": "Azalea",
+          "example_sentence": "언덕에 진달래꽃이 활짝 피었어요. (Azaleas are in full bloom on the hill.)"
+        },
+        {
+          "word": "개나리",
+          "reading": "Gaenari",
+          "meaning": "Forsythia",
+          "example_sentence": "길가에 노란 개나리가 피었어요. (Yellow forsythais bloomed by the roadside.)"
+        },
+        {
+          "word": "벚꽃",
+          "reading": "Beotkkot",
+          "meaning": "Cherry blossom",
+          "example_sentence": "벚꽃 엔딩 노래를 들으며 걸어요. (Walk while listening to the 'Cherry Blossom Ending' song.)"
+        },
+        {
+          "word": "매미",
+          "reading": "Maemi",
+          "meaning": "Cicada",
+          "example_sentence": "여름이 되면 매미 소리가 시끄러워요. (When summer comes, the sound of cicadas is loud.)"
+        },
+        {
+          "word": "잠자리",
+          "reading": "Jamjari",
+          "meaning": "Dragonfly / Bed",
+          "example_sentence": "가을 하늘에 잠자리가 날아다녀요. (Dragonflies are flying in the autumn sky.)"
+        },
+        {
+          "word": "단풍구경",
+          "reading": "Danpunggu-gyeong",
+          "meaning": "Autumn leaf viewing",
+          "example_sentence": "주말에 설악산으로 단풍구경 가요. (Let's go to Seoraksan for autumn leaf viewing this weekend.)"
+        },
+        {
+          "word": "꽃샘추위",
+          "reading": "Kkot-saemchuwi",
+          "meaning": "Last cold snap in early spring",
+          "example_sentence": "꽃샘추위 때문에 다시 코트를 꺼냈어요. (I took out my coat again because of the early spring cold snap.)"
+        },
+        {
+          "word": "한파",
+          "reading": "Hanpa",
+          "meaning": "Cold wave",
+          "example_sentence": "한파 주의보가 내려졌어요. (A cold wave advisory has been issued.)"
+        },
+        {
+          "word": "혹서기",
+          "reading": "Hokseogi",
+          "meaning": "The hottest period of summer",
+          "example_sentence": "혹서기에는 낮에 야외 활동을 피하세요. (Avoid outdoor activities during the day in the hottest period.)"
+        },
+        {
+          "word": "혹한기",
+          "reading": "Hokhangi",
+          "meaning": "The coldest period of winter",
+          "example_sentence": "군인들이 혹한기 훈련을 받고 있어요. (Soldiers are receiving cold-weather training.)"
+        },
+        {
+          "word": "습도",
+          "reading": "Seupdo",
+          "meaning": "Humidity",
+          "example_sentence": "실내 습도를 적절하게 조절하세요. (Adjust the indoor humidity appropriately.)"
+        },
+        {
+          "word": "불쾌지수",
+          "reading": "Bulkoejisu",
+          "meaning": "Discomfort index",
+          "example_sentence": "오늘 불쾌지수가 아주 높아요. (The discomfort index is very high today.)"
+        },
+        {
+          "word": "일교차",
+          "reading": "Ilgyocha",
+          "meaning": "Temperature difference (between day/night)",
+          "example_sentence": "일교차가 크니까 겉옷을 챙기세요. (Take an outer garment because the temperature difference is large.)"
+        },
+        {
+          "word": "환절기",
+          "reading": "Hwanjeolgi",
+          "meaning": "Change of seasons / Transition period",
+          "example_sentence": "환절기에는 면역력이 떨어지기 쉬워요. (Immunity is likely to drop during the change of seasons.)"
+        },
+        {
+          "word": "이상 기후",
+          "reading": "Isang gihu",
+          "meaning": "Abnormal climate",
+          "example_sentence": "지구 온난화로 이상 기후가 잦아졌어요. (Abnormal climate has become frequent due to global warming.)"
+        },
+        {
+          "word": "지구 온난화",
+          "reading": "Jigu onnanhwa",
+          "meaning": "Global warming",
+          "example_sentence": "지구 온난화를 막기 위해 노력해야 해요. (We must strive to prevent global warming.)"
+        },
+        {
+          "word": "자외선",
+          "reading": "Ja-oiseon",
+          "meaning": "Ultraviolet (UV) rays",
+          "example_sentence": "자외선 차단제를 꼼꼼히 바르세요. (Apply sunscreen meticulously.)"
+        },
+        {
+          "word": "부채",
+          "reading": "Buchae",
+          "meaning": "Fan (Handheld)",
+          "example_sentence": "부채를 부치니까 조금 시원해지네요. (I feel a bit cooler after using the fan.)"
+        },
+        {
+          "word": "꽃가루 알레르기",
+          "reading": "Kkotgaru allereugi",
+          "meaning": "Pollen allergy",
+          "example_sentence": "저는 꽃가루 알레르기가 있어요. (I have a pollen allergy.)"
+        },
+        {
+          "word": "일기예보",
+          "reading": "Ilgiyebo",
+          "meaning": "Weather forecast",
+          "example_sentence": "일기예보에서 내일 비가 온대요. (In the weather forecast, they say it will rain tomorrow.)"
+        },
+        {
+          "word": "기상캐스터",
+          "reading": "Gisangkaeseuteo",
+          "meaning": "Weather caster",
+          "example_sentence": "기상캐스터가 날씨 소식을 전해요. (The weather caster is delivering the weather news.)"
+        },
+        {
+          "word": "폭염",
+          "reading": "Pogyeom",
+          "meaning": "Heat wave / Scorching heat",
+          "example_sentence": "폭염 때문에 전국이 뜨거워요. (The whole country is hot because of the heat wave.)"
+        },
+        {
+          "word": "나들이",
+          "reading": "Nadeuri",
+          "meaning": "Outing / Excursion",
+          "example_sentence": "가족들과 함께 주말 나들이를 가요. (I'm going on a weekend outing with my family.)"
+        },
+        {
+          "word": "겨울잠",
+          "reading": "Gyeouljam",
+          "meaning": "Hibernation / Winter sleep",
+          "example_sentence": "곰은 겨울에 겨울잠을 자요. (Bears hibernate in winter.)"
+        },
+        {
+          "word": "첫눈",
+          "reading": "Cheotnun",
+          "meaning": "First snow",
+          "example_sentence": "첫눈이 오면 친구를 만나기로 했어요. (I promised to meet a friend when the first snow falls.)"
+        },
+        {
+          "word": "함박눈",
+          "reading": "Hambaknun",
+          "meaning": "Large snowflakes / Heavy snow",
+          "example_sentence": "함박눈이 내려서 온 세상이 하얘요. (The whole world is white because heavy snow is falling.)"
+        },
+        {
+          "word": "빙판길",
+          "reading": "Bingpangil",
+          "meaning": "Icy road",
+          "example_sentence": "빙판길에서 넘어지지 않게 조심하세요. (Be careful not to fall on the icy road.)"
+        },
+        {
+          "word": "썰매",
+          "reading": "Sseolmae",
+          "meaning": "Sled / Sleigh",
+          "example_sentence": "아이들이 눈밭에서 썰매를 타요. (Children are riding sleds in the snow field.)"
+        },
+        {
+          "word": "스노우 타이어",
+          "reading": "Seuno-u ta-ieo",
+          "meaning": "Snow tire",
+          "example_sentence": "겨울이라서 스노우 타이어로 바뀠어요. (I changed to snow tires because it's winter.)"
+        },
+        {
+          "word": "난로",
+          "reading": "Nallo",
+          "meaning": "Heater / Stove",
+          "example_sentence": "난로 옆에 앉아서 몸을 녹여요. (Sit next to the heater and warm up.)"
+        },
+        {
+          "word": "보일러",
+          "reading": "Bo-illeo",
+          "meaning": "Boiler (Heating system)",
+          "example_sentence": "보일러를 틀어서 방이 따뜻해요. (The room is warm because I turned on the boiler.)"
+        },
+        {
+          "word": "고드름",
+          "reading": "Godeureum",
+          "meaning": "Icicle",
+          "example_sentence": "처마 밑에 고드름이 매달려 있어요. (Icicles are hanging under the eaves.)"
+        },
+        {
+          "word": "서리",
+          "reading": "Seori",
+          "meaning": "Frost",
+          "example_sentence": "추운 아침에 서리가 내렸어요. (Frost fell on a cold morning.)"
+        },
+        {
+          "word": "이슬",
+          "reading": "Iseul",
+          "meaning": "Dew",
+          "example_sentence": "풀잎에 아침 이슬이 맺혔어요. (Morning dew formed on the grass.)"
+        },
+        {
+          "word": "태양",
+          "reading": "Taeyang",
+          "meaning": "Sun (Astronomical)",
+          "example_sentence": "태양은 지구보다 훨씬 거대해요. (The sun is much larger than the earth.)"
+        },
+        {
+          "word": "강풍",
+          "reading": "Gangpung",
+          "meaning": "Strong wind / Gale",
+          "example_sentence": "강풍이 불어서 간판이 떨어졌어요. (The sign dropped because of the strong wind.)"
+        }
+      ]
+    }
+  ],
+  "liar_game_data": {
+    "topic": "Korea's Four Seasons",
+    "question": "Which seasonal phenomenon in Korea involves yellowish dust originating from the deserts of Mongolia and China, typically occurring in Spring?",
+    "options": [
+      "Jangma (Rainy Season)",
+      "Hwangsa (Yellow Dust)",
+      "Danpung (Autumn Foliage)",
+      "Cheotnun (First Snow)"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Hwangsa (Yellow Dust) is a well-known seasonal occurrence in Korea during the spring. It consists of fine dust blown from dry regions in China and Mongolia, often requiring people to wear masks for health protection."
+  },
+  "theme": "Weather & Seasons"
+}

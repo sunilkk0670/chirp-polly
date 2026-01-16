@@ -8,13 +8,11 @@ admin.initializeApp({
 const db = admin.firestore();
 
 const punjabiA1 = require('../firestore_data/punjabi_a1_modules.json');
-const dutchA1 = require('../firestore_data/dutch_a1_modules.json');
 const portugueseA1 = require('../firestore_data/portuguese_a1_modules.json');
 
 async function uploadBatch4A1Modules() {
     const languageModules = [
         { languageId: 'punjabi', modules: punjabiA1, name: 'Punjabi' },
-        { languageId: 'dutch', modules: dutchA1, name: 'Dutch' },
         { languageId: 'portuguese', modules: portugueseA1, name: 'Portuguese' }
     ];
 
@@ -39,7 +37,7 @@ async function uploadBatch4A1Modules() {
         }
 
         console.log('\n✅ All Batch 4 A1 modules uploaded successfully!');
-        console.log(`Total modules uploaded: ${punjabiA1.length + dutchA1.length + portugueseA1.length}`);
+        console.log(`Total modules uploaded: ${punjabiA1.length + portugueseA1.length}`);
         process.exit(0);
     } catch (error) {
         console.error('Error uploading Batch 4 A1 modules:', error);

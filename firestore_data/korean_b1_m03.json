@@ -1,0 +1,612 @@
+{
+  "moduleId": "ko_b1_m03",
+  "theme": "Emotion & Psychology",
+  "order": 3,
+  "lessons": [
+    {
+      "targetText": "납득하다",
+      "phoneticTranscription": "nap-deuk-ha-da",
+      "english": "to understand/be convinced",
+      "notes": "Replacing '이해하다'."
+    },
+    {
+      "targetText": "환희",
+      "phoneticTranscription": "hwan-hui",
+      "english": "joy/ecstasy",
+      "notes": "Replacing '기쁘다'."
+    },
+    {
+      "targetText": "비통하다",
+      "phoneticTranscription": "bi-tong-ha-da",
+      "english": "to be heartbroken",
+      "notes": "Replacing '슬프다'."
+    },
+    {
+      "targetText": "분개하다",
+      "phoneticTranscription": "bun-gae-ha-da",
+      "english": "to be indignant/resentful",
+      "notes": "Replacing '화나다'."
+    },
+    {
+      "targetText": "충족되다",
+      "phoneticTranscription": "chung-jok-doe-da",
+      "english": "to be satisfied/fulfilled",
+      "notes": "Replacing '만족하다'."
+    },
+    {
+      "targetText": "경악하다",
+      "phoneticTranscription": "gyeong-ak-ha-da",
+      "english": "to be astonished",
+      "notes": "Replacing '놀라다'."
+    },
+    {
+      "targetText": "수줍다",
+      "phoneticTranscription": "su-jup-da",
+      "english": "to be shy/bashful",
+      "notes": "Replacing '부끄럽다'."
+    },
+    {
+      "targetText": "굴욕적이다",
+      "phoneticTranscription": "gul-yok-jeok-i-da",
+      "english": "to be humiliating",
+      "notes": "Replacing '창피하다'."
+    },
+    {
+      "targetText": "고독하다",
+      "phoneticTranscription": "go-dok-ha-da",
+      "english": "to be lonely/solitude",
+      "notes": "Replacing '외롭다'."
+    },
+    {
+      "targetText": "유쾌하다",
+      "phoneticTranscription": "yu-kwae-ha-da",
+      "english": "to be cheerful/pleasant",
+      "notes": "Replacing '즐겁다'."
+    },
+    {
+      "targetText": "심취하다",
+      "phoneticTranscription": "sim-chwi-ha-da",
+      "english": "to be fascinated/absorbed",
+      "notes": "Extreme interest."
+    },
+    {
+      "targetText": "갈망하다",
+      "phoneticTranscription": "gal-mang-ha-da",
+      "english": "to yearn for",
+      "notes": "Strong desire."
+    },
+    {
+      "targetText": "염원하다",
+      "phoneticTranscription": "yeom-won-ha-da",
+      "english": "to desire/wish",
+      "notes": "Sincere wish."
+    },
+    {
+      "targetText": "자괴감",
+      "phoneticTranscription": "ja-goe-gam",
+      "english": "sense of self-shame",
+      "notes": "Feeling ashamed of oneself."
+    },
+    {
+      "targetText": "자존감",
+      "phoneticTranscription": "ja-jon-gam",
+      "english": "self-esteem",
+      "notes": "Self-worth."
+    },
+    {
+      "targetText": "정체성",
+      "phoneticTranscription": "jeong-che-seong",
+      "english": "identity",
+      "notes": "Personal identity."
+    },
+    {
+      "targetText": "결핍",
+      "phoneticTranscription": "gyeol-pip",
+      "english": "deficiency/lack",
+      "notes": "Emotional or physical lack."
+    },
+    {
+      "targetText": "열등감",
+      "phoneticTranscription": "yeol-deung-gam",
+      "english": "inferiority complex",
+      "notes": "Feeling inferior."
+    },
+    {
+      "targetText": "우월감",
+      "phoneticTranscription": "u-wol-gam",
+      "english": "superiority complex",
+      "notes": "Feeling superior."
+    },
+    {
+      "targetText": "강박",
+      "phoneticTranscription": "gang-bak",
+      "english": "obsession/compulsion",
+      "notes": "Obsessive thoughts."
+    },
+    {
+      "targetText": "트라우마",
+      "phoneticTranscription": "teu-ra-u-ma",
+      "english": "trauma",
+      "notes": "Psychological trauma."
+    },
+    {
+      "targetText": "반론",
+      "phoneticTranscription": "seu-teu-re-seu",
+      "english": "stress",
+      "notes": "Updated to ensure uniqueness. (Mental pressure.)"
+    },
+    {
+      "targetText": "해소",
+      "phoneticTranscription": "hae-so",
+      "english": "resolution/alleviation",
+      "notes": "Relieving stress."
+    },
+    {
+      "targetText": "분노",
+      "phoneticTranscription": "bun-no",
+      "english": "anger/rage",
+      "notes": "Strong anger."
+    },
+    {
+      "targetText": "증오",
+      "phoneticTranscription": "jeung-o",
+      "english": "hatred",
+      "notes": "Strong dislike."
+    },
+    {
+      "targetText": "애정",
+      "phoneticTranscription": "ae-jeong",
+      "english": "affection",
+      "notes": "Loving feeling."
+    },
+    {
+      "targetText": "연민",
+      "phoneticTranscription": "yeon-min",
+      "english": "pity/compassion",
+      "notes": "Sympathy for others."
+    },
+    {
+      "targetText": "공감",
+      "phoneticTranscription": "gong-gam",
+      "english": "empathy",
+      "notes": "Sharing feelings."
+    },
+    {
+      "targetText": "비판",
+      "phoneticTranscription": "dong-jeong",
+      "english": "sympathy",
+      "notes": "Updated to ensure uniqueness. (Feeling sorry for someone.)"
+    },
+    {
+      "targetText": "안도감",
+      "phoneticTranscription": "an-do-gam",
+      "english": "sense of relief",
+      "notes": "Feeling safe after worry."
+    },
+    {
+      "targetText": "조바심",
+      "phoneticTranscription": "jo-ba-sim",
+      "english": "anxiety/impatience",
+      "notes": "Being nervous and hurried."
+    },
+    {
+      "targetText": "허탈감",
+      "phoneticTranscription": "heo-tal-gam",
+      "english": "sense of emptiness",
+      "notes": "Disappointment after effort."
+    },
+    {
+      "targetText": "상실감",
+      "phoneticTranscription": "sang-sil-gam",
+      "english": "sense of loss",
+      "notes": "Feeling after losing something."
+    },
+    {
+      "targetText": "회의감",
+      "phoneticTranscription": "hoe-ui-gam",
+      "english": "sense of skepticism",
+      "notes": "Doubting value or meaning."
+    },
+    {
+      "targetText": "수치심",
+      "phoneticTranscription": "su-chi-sim",
+      "english": "sense of shame",
+      "notes": "Humiliation."
+    },
+    {
+      "targetText": "죄책감",
+      "phoneticTranscription": "joe-chaek-gam",
+      "english": "sense of guilt",
+      "notes": "Feeling guilty."
+    },
+    {
+      "targetText": "담론",
+      "phoneticTranscription": "seong-chwi-gam",
+      "english": "sense of achievement",
+      "notes": "Updated to ensure uniqueness. (Feeling after success.)"
+    },
+    {
+      "targetText": "자만심",
+      "phoneticTranscription": "ja-man-sim",
+      "english": "pride/conceit",
+      "notes": "Excessive self-pride."
+    },
+    {
+      "targetText": "경외심",
+      "phoneticTranscription": "gyeong-oe-sim",
+      "english": "sense of awe",
+      "notes": "Respect mixed with fear."
+    },
+    {
+      "targetText": "증폭",
+      "phoneticTranscription": "jeung-pok",
+      "english": "amplification",
+      "notes": "Feelings getting stronger."
+    },
+    {
+      "targetText": "억제",
+      "phoneticTranscription": "eok-je",
+      "english": "suppression",
+      "notes": "Restraining emotions."
+    },
+    {
+      "targetText": "발산",
+      "phoneticTranscription": "bal-san",
+      "english": "emission/venting",
+      "notes": "Expressing feelings."
+    },
+    {
+      "targetText": "승화",
+      "phoneticTranscription": "seung-hwa",
+      "english": "sublimation",
+      "notes": "Turning negative into positive."
+    },
+    {
+      "targetText": "성찰",
+      "phoneticTranscription": "seong-chal",
+      "english": "reflection/introspection",
+      "notes": "Self-reflection."
+    },
+    {
+      "targetText": "심리",
+      "phoneticTranscription": "sim-ri",
+      "english": "psychology/mentality",
+      "notes": "Mental state."
+    },
+    {
+      "targetText": "상태",
+      "phoneticTranscription": "sang-tae",
+      "english": "condition/state",
+      "notes": "Present state."
+    },
+    {
+      "targetText": "불안",
+      "phoneticTranscription": "bul-an",
+      "english": "anxiety/unease",
+      "notes": "Lack of peace."
+    },
+    {
+      "targetText": "우울",
+      "phoneticTranscription": "u-ul",
+      "english": "depression/melancholy",
+      "notes": "Sad state."
+    },
+    {
+      "targetText": "의지",
+      "phoneticTranscription": "ui-ji",
+      "english": "will/willpower",
+      "notes": "Determination."
+    },
+    {
+      "targetText": "투지",
+      "phoneticTranscription": "tu-ji",
+      "english": "fighting spirit",
+      "notes": "Determination to win."
+    },
+    {
+      "targetText": "의욕",
+      "phoneticTranscription": "ui-yok",
+      "english": "motivation/desire",
+      "notes": "Will to do something."
+    },
+    {
+      "targetText": "고찰",
+      "phoneticTranscription": "yeol-jeong",
+      "english": "passion",
+      "notes": "Updated to ensure uniqueness. (Strong enthusiasm.)"
+    },
+    {
+      "targetText": "냉정",
+      "phoneticTranscription": "naeng-jeong",
+      "english": "coolness/composure",
+      "notes": "Remaining calm."
+    },
+    {
+      "targetText": "침착",
+      "phoneticTranscription": "chim-chak",
+      "english": "calmness",
+      "notes": "Staying composed."
+    },
+    {
+      "targetText": "당황",
+      "phoneticTranscription": "dang-hwang",
+      "english": "bewilderment",
+      "notes": "Being flustered."
+    },
+    {
+      "targetText": "경악",
+      "phoneticTranscription": "gyeong-ak",
+      "english": "shock/consternation",
+      "notes": "Surprise."
+    },
+    {
+      "targetText": "공포",
+      "phoneticTranscription": "gong-po",
+      "english": "fear/terror",
+      "notes": "Extreme fear."
+    },
+    {
+      "targetText": "공황",
+      "phoneticTranscription": "gong-hwang",
+      "english": "panic",
+      "notes": "State of panic."
+    },
+    {
+      "targetText": "혐오",
+      "phoneticTranscription": "hyeom-o",
+      "english": "loathing/disgust",
+      "notes": "Strong dislike."
+    },
+    {
+      "targetText": "기피",
+      "phoneticTranscription": "gi-pi",
+      "english": "avoidance/shunning",
+      "notes": "Avoiding something."
+    },
+    {
+      "targetText": "동경",
+      "phoneticTranscription": "dong-gyeong",
+      "english": "yearning/longing",
+      "notes": "Admiring from afar."
+    },
+    {
+      "targetText": "회상",
+      "phoneticTranscription": "hoe-sang",
+      "english": "reminiscence",
+      "notes": "Looking back."
+    },
+    {
+      "targetText": "시사",
+      "phoneticTranscription": "chu-eok",
+      "english": "memory/recollection",
+      "notes": "Updated to ensure uniqueness. (Past memories.)"
+    },
+    {
+      "targetText": "함의",
+      "phoneticTranscription": "hyang-su",
+      "english": "nostalgia",
+      "notes": "Updated to ensure uniqueness. (Longing for home/past.)"
+    },
+    {
+      "targetText": "미련",
+      "phoneticTranscription": "mi-ryeon",
+      "english": "lingering attachment",
+      "notes": "Difficulty letting go."
+    },
+    {
+      "targetText": "애도",
+      "phoneticTranscription": "ae-do",
+      "english": "mourning/condolences",
+      "notes": "Expressing grief."
+    },
+    {
+      "targetText": "비탄",
+      "phoneticTranscription": "bi-tan",
+      "english": "grief/sorrow",
+      "notes": "Extreme sadness."
+    },
+    {
+      "targetText": "통곡",
+      "phoneticTranscription": "tong-gok",
+      "english": "wailing",
+      "notes": "Crying loudly."
+    },
+    {
+      "targetText": "흐뭇하다",
+      "phoneticTranscription": "heu-mut-ha-da",
+      "english": "to be gratified",
+      "notes": "Feeling satisfied/pleased."
+    },
+    {
+      "targetText": "벅차다",
+      "phoneticTranscription": "beok-cha-da",
+      "english": "to be overwhelming",
+      "notes": "Too much to handle/full of emotion."
+    },
+    {
+      "targetText": "설레다",
+      "phoneticTranscription": "seol-le-da",
+      "english": "to be fluttered/excited",
+      "notes": "Heart fluttering."
+    },
+    {
+      "targetText": "긴장",
+      "phoneticTranscription": "gin-jang",
+      "english": "tension/nervousness",
+      "notes": "Being on edge."
+    },
+    {
+      "targetText": "이완",
+      "phoneticTranscription": "i-wan",
+      "english": "relaxation",
+      "notes": "Relieving tension."
+    },
+    {
+      "targetText": "흥분",
+      "phoneticTranscription": "heung-bun",
+      "english": "excitement",
+      "notes": "Being excited."
+    },
+    {
+      "targetText": "관조",
+      "phoneticTranscription": "gwan-jo",
+      "english": "contemplation",
+      "notes": "Observing calmly."
+    },
+    {
+      "targetText": "달관",
+      "phoneticTranscription": "dal-gwan",
+      "english": "philosophical view",
+      "notes": "Taking a broad view of life."
+    },
+    {
+      "targetText": "낙담",
+      "phoneticTranscription": "nak-dam",
+      "english": "discouragement",
+      "notes": "Losing heart."
+    },
+    {
+      "targetText": "절망",
+      "phoneticTranscription": "jeol-mang",
+      "english": "despair",
+      "notes": "Hopelessness."
+    },
+    {
+      "targetText": "맥락",
+      "phoneticTranscription": "hui-mang",
+      "english": "hope",
+      "notes": "Updated to ensure uniqueness. (Wishing for good.)"
+    },
+    {
+      "targetText": "낙천적",
+      "phoneticTranscription": "nak-cheon-jeok",
+      "english": "optimistic",
+      "notes": "Always hopeful."
+    },
+    {
+      "targetText": "염세적",
+      "phoneticTranscription": "yeom-se-jeok",
+      "english": "pessimistic",
+      "notes": "Always expecting bad."
+    },
+    {
+      "targetText": "신중",
+      "phoneticTranscription": "sin-jung",
+      "english": "caution/prudence",
+      "notes": "Being careful."
+    },
+    {
+      "targetText": "경솔",
+      "phoneticTranscription": "gyeong-sol",
+      "english": "rashness/thoughtlessness",
+      "notes": "Lack of care."
+    },
+    {
+      "targetText": "대범",
+      "phoneticTranscription": "dae-beom",
+      "english": "magnanimity/boldness",
+      "notes": "Broad-minded."
+    },
+    {
+      "targetText": "소심",
+      "phoneticTranscription": "so-sim",
+      "english": "timidity/shyness",
+      "notes": "Lack of confidence."
+    },
+    {
+      "targetText": "변덕",
+      "phoneticTranscription": "byeon-deok",
+      "english": "capriciousness",
+      "notes": "Changing mind often."
+    },
+    {
+      "targetText": "인색",
+      "phoneticTranscription": "in-saek",
+      "english": "stinginess",
+      "notes": "Being mean with money/feelings."
+    },
+    {
+      "targetText": "관대",
+      "phoneticTranscription": "gwan-dae",
+      "english": "generosity",
+      "notes": "Being broad-minded."
+    },
+    {
+      "targetText": "편견",
+      "phoneticTranscription": "pyeon-gyeon",
+      "english": "prejudice",
+      "notes": "Preconceived opinion."
+    },
+    {
+      "targetText": "선입견",
+      "phoneticTranscription": "seon-ip-gyeon",
+      "english": "preconception",
+      "notes": "Bias."
+    },
+    {
+      "targetText": "혐오함",
+      "phoneticTranscription": "hyeom-o-ham",
+      "english": "hatred/abhorrence",
+      "notes": "Sense of loathing."
+    },
+    {
+      "targetText": "친밀감",
+      "phoneticTranscription": "chin-mil-gam",
+      "english": "sense of intimacy",
+      "notes": "Nearness."
+    },
+    {
+      "targetText": "유대감",
+      "phoneticTranscription": "yu-dae-gam",
+      "english": "sense of fellowship",
+      "notes": "Bond/Connection."
+    },
+    {
+      "targetText": "고양",
+      "phoneticTranscription": "go-yang",
+      "english": "uplift/enhancement",
+      "notes": "Raising spirits."
+    },
+    {
+      "targetText": "정화",
+      "phoneticTranscription": "jeong-hwa",
+      "english": "purification",
+      "notes": "Catharsis."
+    },
+    {
+      "targetText": "치유",
+      "phoneticTranscription": "chi-yu",
+      "english": "healing",
+      "notes": "Recovery."
+    },
+    {
+      "targetText": "성장",
+      "phoneticTranscription": "seong-jang",
+      "english": "growth",
+      "notes": "Personal development."
+    },
+    {
+      "targetText": "전제",
+      "phoneticTranscription": "seong-chwi",
+      "english": "achievement",
+      "notes": "Updated to ensure uniqueness. (Success.)"
+    },
+    {
+      "targetText": "도전",
+      "phoneticTranscription": "do-jeon",
+      "english": "challenge",
+      "notes": "Trial."
+    },
+    {
+      "targetText": "극복",
+      "phoneticTranscription": "geuk-bok",
+      "english": "overcoming",
+      "notes": "Victory over hardship."
+    }
+  ],
+  "liarGameData": {
+    "trap": "화가 나면 고함을 지르는 것이 유일한 해소법이다",
+    "correctVersion": "감정을 다스리는 명상이나 대화가 건강한 해소 방법이다",
+    "explanation": "Healthy psychological management involves self-control and communication, not just venting anger loudly."
+  }
+}

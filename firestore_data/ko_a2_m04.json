@@ -1,0 +1,627 @@
+{
+  "moduleId": "ko_a2_m04",
+  "theme": "Housing & Living",
+  "title": "Housing & Living",
+  "level": "a2",
+  "language": "korean",
+  "order": 4,
+  "lessons": [
+    {
+      "order": 1,
+      "vocabularyItems": [
+        {
+          "word": "전세",
+          "reading": "Jeonse",
+          "meaning": "Lump-sum deposit rental system (Korea)",
+          "example_sentence": "전세로 집을 구했어요. (I found a house on the jeonse system.)"
+        },
+        {
+          "word": "월세",
+          "reading": "Wolse",
+          "meaning": "Monthly rent",
+          "example_sentence": "월세가 50만 원이에요. (The monthly rent is 500,000 won.)"
+        },
+        {
+          "word": "온돌",
+          "reading": "Ondol",
+          "meaning": "Traditional Korean underfloor heating",
+          "example_sentence": "온돌 방이 따뜻해요. (The ondol room is warm.)"
+        },
+        {
+          "word": "관리비",
+          "reading": "Gwallibi",
+          "meaning": "Maintenance fee / Management fee",
+          "example_sentence": "관리비는 월세에 포함되지 않아요. (The maintenance fee is not included in the monthly rent.)"
+        },
+        {
+          "word": "부동산",
+          "reading": "Budongsan",
+          "meaning": "Real estate / Real estate agency",
+          "example_sentence": "부동산에서 집을 알아봤어요. (I looked for a house at the real estate agency.)"
+        },
+        {
+          "word": "보증금",
+          "reading": "Bojeunggeum",
+          "meaning": "Security deposit",
+          "example_sentence": "보증금은 500만 원이에요. (The security deposit is 5 million won.)"
+        },
+        {
+          "word": "계약서",
+          "reading": "Gyeyakseo",
+          "meaning": "Contract / Lease agreement",
+          "example_sentence": "계약서에 서명했어요. (I signed the contract.)"
+        },
+        {
+          "word": "임대인",
+          "reading": "Imdaein",
+          "meaning": "Landlord / Lessor",
+          "example_sentence": "임대인과 협상했어요. (I negotiated with the landlord.)"
+        },
+        {
+          "word": "임차인",
+          "reading": "Imchain",
+          "meaning": "Tenant / Lessee",
+          "example_sentence": "임차인의 권리를 보호받아요. (Tenants' rights are protected.)"
+        },
+        {
+          "word": "중개인",
+          "reading": "Junggaein",
+          "meaning": "Real estate agent / Broker",
+          "example_sentence": "중개인이 집을 소개해 줬어요. (The agent introduced me to a house.)"
+        },
+        {
+          "word": "중개수수료",
+          "reading": "Junggaesusuryeo",
+          "meaning": "Brokerage fee / Agent's commission",
+          "example_sentence": "중개수수료를 지불했어요. (I paid the brokerage fee.)"
+        },
+        {
+          "word": "아파트",
+          "reading": "Apateu",
+          "meaning": "Apartment",
+          "example_sentence": "아파트 단지에 살아요. (I live in an apartment complex.)"
+        },
+        {
+          "word": "빌라",
+          "reading": "Billa",
+          "meaning": "Villa / Low-rise apartment",
+          "example_sentence": "빌라는 아파트보다 저렴해요. (Villas are cheaper than apartments.)"
+        },
+        {
+          "word": "원룸",
+          "reading": "Wonrum",
+          "meaning": "Studio apartment / One-room",
+          "example_sentence": "원룸을 얻었어요. (I got a studio apartment.)"
+        },
+        {
+          "word": "투룸",
+          "reading": "Turum",
+          "meaning": "Two-room apartment",
+          "example_sentence": "투룸이 더 넓어요. (A two-room is more spacious.)"
+        },
+        {
+          "word": "오피스텔",
+          "reading": "Opiseutel",
+          "meaning": "Officetel (studio/office hybrid)",
+          "example_sentence": "오피스텔에서 재택근무를 해요. (I work from home in an officetel.)"
+        },
+        {
+          "word": "단독주택",
+          "reading": "Dandokjutaek",
+          "meaning": "Detached house / Single-family home",
+          "example_sentence": "단독주택을 소유하고 있어요. (I own a detached house.)"
+        },
+        {
+          "word": "다세대주택",
+          "reading": "Dasedaejutaek",
+          "meaning": "Multi-family house",
+          "example_sentence": "다세대주택에 세 들어 살아요. (I rent in a multi-family house.)"
+        },
+        {
+          "word": "주거지",
+          "reading": "Jugeoji",
+          "meaning": "Residential area",
+          "example_sentence": "조용한 주거지를 찾고 있어요. (I'm looking for a quiet residential area.)"
+        },
+        {
+          "word": "동네",
+          "reading": "Dongne",
+          "meaning": "Neighborhood",
+          "example_sentence": "이 동네는 편의시설이 좋아요. (This neighborhood has good amenities.)"
+        },
+        {
+          "word": "층수",
+          "reading": "Cheungsu",
+          "meaning": "Number of floors",
+          "example_sentence": "이 건물은 층수가 20층이에요. (This building has 20 floors.)"
+        },
+        {
+          "word": "승강기",
+          "reading": "Seungganggi",
+          "meaning": "Elevator (formal)",
+          "example_sentence": "승강기를 이용하세요. (Please use the elevator.)"
+        },
+        {
+          "word": "계단실",
+          "reading": "Gyedansil",
+          "meaning": "Stairwell",
+          "example_sentence": "계단실로 대피하세요. (Evacuate via the stairwell.)"
+        },
+        {
+          "word": "현관",
+          "reading": "Hyeongwan",
+          "meaning": "Entrance / Front door",
+          "example_sentence": "현관에 신발을 벗으세요. (Take off your shoes at the entrance.)"
+        },
+        {
+          "word": "거실",
+          "reading": "Geosil",
+          "meaning": "Living room",
+          "example_sentence": "거실이 넓어요. (The living room is spacious.)"
+        },
+        {
+          "word": "침실",
+          "reading": "Chimsil",
+          "meaning": "Bedroom",
+          "example_sentence": "침실이 두 개예요. (There are two bedrooms.)"
+        },
+        {
+          "word": "주방",
+          "reading": "Jubang",
+          "meaning": "Kitchen",
+          "example_sentence": "주방이 깨끗해요. (The kitchen is clean.)"
+        },
+        {
+          "word": "욕조",
+          "reading": "Yokjo",
+          "meaning": "Bathtub",
+          "example_sentence": "욕조에서 목욕했어요. (I bathed in the bathtub.)"
+        },
+        {
+          "word": "욕실",
+          "reading": "Yoksil",
+          "meaning": "Bathroom (with bath)",
+          "example_sentence": "욕실에 욕조가 있어요. (There's a bathtub in the bathroom.)"
+        },
+        {
+          "word": "베란다",
+          "reading": "Beranda",
+          "meaning": "Balcony / Veranda",
+          "example_sentence": "베란다에서 빨래를 말려요. (I dry laundry on the balcony.)"
+        },
+        {
+          "word": "창문",
+          "reading": "Changmun",
+          "meaning": "Window",
+          "example_sentence": "창문을 열어 주세요. (Please open the window.)"
+        },
+        {
+          "word": "문",
+          "reading": "Mun",
+          "meaning": "Door",
+          "example_sentence": "문을 잠그세요. (Lock the door.)"
+        },
+        {
+          "word": "벽",
+          "reading": "Byeok",
+          "meaning": "Wall",
+          "example_sentence": "벽에 그림을 걸었어요. (I hung a picture on the wall.)"
+        },
+        {
+          "word": "천장",
+          "reading": "Cheonjang",
+          "meaning": "Ceiling",
+          "example_sentence": "천장이 높아요. (The ceiling is high.)"
+        },
+        {
+          "word": "바닥",
+          "reading": "Badak",
+          "meaning": "Floor",
+          "example_sentence": "바닥을 청소했어요. (I cleaned the floor.)"
+        },
+        {
+          "word": "가구",
+          "reading": "Gagu",
+          "meaning": "Furniture",
+          "example_sentence": "가구가 포함되어 있나요? (Is furniture included?)"
+        },
+        {
+          "word": "침대",
+          "reading": "Chimdae",
+          "meaning": "Bed",
+          "example_sentence": "침대를 샀어요. (I bought a bed.)"
+        },
+        {
+          "word": "소파",
+          "reading": "Sopa",
+          "meaning": "Sofa / Couch",
+          "example_sentence": "소파에 앉으세요. (Sit on the sofa.)"
+        },
+        {
+          "word": "식탁보",
+          "reading": "Siktakbo",
+          "meaning": "Tablecloth",
+          "example_sentence": "식탁보를 깔았어요. (I laid out the tablecloth.)"
+        },
+        {
+          "word": "의자",
+          "reading": "Uija",
+          "meaning": "Chair",
+          "example_sentence": "의자를 하나 더 가져오세요. (Bring one more chair.)"
+        },
+        {
+          "word": "책장",
+          "reading": "Chaekjang",
+          "meaning": "Bookshelf",
+          "example_sentence": "책장에 책을 정리했어요. (I organized books on the bookshelf.)"
+        },
+        {
+          "word": "옷장",
+          "reading": "Otjang",
+          "meaning": "Wardrobe / Closet",
+          "example_sentence": "옷장이 작아요. (The wardrobe is small.)"
+        },
+        {
+          "word": "서랍",
+          "reading": "Seorap",
+          "meaning": "Drawer",
+          "example_sentence": "서랍에 넣어 두세요. (Put it in the drawer.)"
+        },
+        {
+          "word": "냉장고",
+          "reading": "Naengjanggo",
+          "meaning": "Refrigerator",
+          "example_sentence": "냉장고에 음식을 보관해요. (I store food in the refrigerator.)"
+        },
+        {
+          "word": "세탁기",
+          "reading": "Setakgi",
+          "meaning": "Washing machine",
+          "example_sentence": "세탁기가 고장 났어요. (The washing machine is broken.)"
+        },
+        {
+          "word": "에어컨",
+          "reading": "Eeokon",
+          "meaning": "Air conditioner",
+          "example_sentence": "에어컨을 켰어요. (I turned on the air conditioner.)"
+        },
+        {
+          "word": "난방",
+          "reading": "Nanbang",
+          "meaning": "Heating",
+          "example_sentence": "난방이 잘 돼요. (The heating works well.)"
+        },
+        {
+          "word": "난방기",
+          "reading": "Nanbanggi",
+          "meaning": "Heater",
+          "example_sentence": "난방기를 틀었어요. (I turned on the heater.)"
+        },
+        {
+          "word": "전기",
+          "reading": "Jeongi",
+          "meaning": "Electricity",
+          "example_sentence": "전기세가 비싸요. (The electricity bill is expensive.)"
+        },
+        {
+          "word": "수도관",
+          "reading": "Sudogwan",
+          "meaning": "Water pipe",
+          "example_sentence": "수도관이 얼었어요. (The water pipe froze.)"
+        },
+        {
+          "word": "가스",
+          "reading": "Gaseu",
+          "meaning": "Gas",
+          "example_sentence": "가스 요금을 확인하세요. (Check the gas bill.)"
+        },
+        {
+          "word": "인터넷",
+          "reading": "Inteonet",
+          "meaning": "Internet",
+          "example_sentence": "인터넷을 설치했어요. (I installed internet.)"
+        },
+        {
+          "word": "TV",
+          "reading": "TV",
+          "meaning": "Television",
+          "example_sentence": "TV를 봐요. (I watch TV.)"
+        },
+        {
+          "word": "전등",
+          "reading": "Jeondeung",
+          "meaning": "Light / Lamp",
+          "example_sentence": "전등을 켜 주세요. (Please turn on the light.)"
+        },
+        {
+          "word": "커튼",
+          "reading": "Keoteun",
+          "meaning": "Curtain",
+          "example_sentence": "커튼을 쳤어요. (I drew the curtains.)"
+        },
+        {
+          "word": "카펫",
+          "reading": "Kapet",
+          "meaning": "Carpet / Rug",
+          "example_sentence": "카펫을 깔았어요. (I laid down a carpet.)"
+        },
+        {
+          "word": "청소",
+          "reading": "Cheongso",
+          "meaning": "Cleaning",
+          "example_sentence": "주말에 청소를 해요. (I clean on weekends.)"
+        },
+        {
+          "word": "쓰레기",
+          "reading": "Sseuregi",
+          "meaning": "Trash / Garbage",
+          "example_sentence": "쓰레기를 버렸어요. (I threw away the trash.)"
+        },
+        {
+          "word": "분리수거",
+          "reading": "Bullisugu",
+          "meaning": "Recycling / Waste separation",
+          "example_sentence": "분리수거를 철저히 해야 해요. (You must recycle thoroughly.)"
+        },
+        {
+          "word": "재활용",
+          "reading": "Jaehwalyong",
+          "meaning": "Recycling",
+          "example_sentence": "재활용 쓰레기는 따로 버려요. (Recyclable trash is thrown away separately.)"
+        },
+        {
+          "word": "음식물쓰레기",
+          "reading": "Eumsigmulsseuregi",
+          "meaning": "Food waste",
+          "example_sentence": "음식물쓰레기는 전용 봉투에 버리세요. (Throw food waste in designated bags.)"
+        },
+        {
+          "word": "일반쓰레기",
+          "reading": "Ilbansseuregi",
+          "meaning": "General waste",
+          "example_sentence": "일반쓰레기 봉투를 샀어요. (I bought general waste bags.)"
+        },
+        {
+          "word": "대형폐기물",
+          "reading": "Daehyeongpyegimul",
+          "meaning": "Bulky waste / Large items",
+          "example_sentence": "대형폐기물은 신고해야 해요. (You must report bulky waste.)"
+        },
+        {
+          "word": "이사",
+          "reading": "Isa",
+          "meaning": "Moving / Relocation",
+          "example_sentence": "다음 달에 이사해요. (I'm moving next month.)"
+        },
+        {
+          "word": "이삿짐",
+          "reading": "Isatjjim",
+          "meaning": "Moving belongings",
+          "example_sentence": "이삿짐을 쌌어요. (I packed my moving belongings.)"
+        },
+        {
+          "word": "이사업체",
+          "reading": "Isaeobche",
+          "meaning": "Moving company",
+          "example_sentence": "이사업체를 불렀어요. (I called a moving company.)"
+        },
+        {
+          "word": "입주",
+          "reading": "Ipju",
+          "meaning": "Move-in / Occupancy",
+          "example_sentence": "입주일이 언제예요? (When is the move-in date?)"
+        },
+        {
+          "word": "퇴거",
+          "reading": "Toegeo",
+          "meaning": "Move-out / Eviction",
+          "example_sentence": "퇴거 통보를 받았어요. (I received an eviction notice.)"
+        },
+        {
+          "word": "수리",
+          "reading": "Suri",
+          "meaning": "Repair / Maintenance",
+          "example_sentence": "수리를 요청했어요. (I requested a repair.)"
+        },
+        {
+          "word": "하자",
+          "reading": "Haja",
+          "meaning": "Defect / Flaw",
+          "example_sentence": "집에 하자가 있어요. (There's a defect in the house.)"
+        },
+        {
+          "word": "누수",
+          "reading": "Nusu",
+          "meaning": "Water leak",
+          "example_sentence": "누수가 발생했어요. (A water leak occurred.)"
+        },
+        {
+          "word": "곰팡이",
+          "reading": "Gompang-i",
+          "meaning": "Mold / Mildew",
+          "example_sentence": "곰팡이가 생겼어요. (Mold has formed.)"
+        },
+        {
+          "word": "환기",
+          "reading": "Hwangi",
+          "meaning": "Ventilation",
+          "example_sentence": "환기를 자주 시켜야 해요. (You should ventilate frequently.)"
+        },
+        {
+          "word": "소음",
+          "reading": "Soeum",
+          "meaning": "Noise",
+          "example_sentence": "층간 소음이 심해요. (The inter-floor noise is severe.)"
+        },
+        {
+          "word": "이웃집",
+          "reading": "Iutjip",
+          "meaning": "Neighbor's house",
+          "example_sentence": "이웃집에서 소음이 나요. (Noise is coming from the neighbor's house.)"
+        },
+        {
+          "word": "관리사무소",
+          "reading": "Gwallisam uso",
+          "meaning": "Management office",
+          "example_sentence": "관리사무소에 문의하세요. (Inquire at the management office.)"
+        },
+        {
+          "word": "경비실",
+          "reading": "Gyeongbisil",
+          "meaning": "Security office / Guard room",
+          "example_sentence": "경비실에 택배가 있어요. (There's a package at the security office.)"
+        },
+        {
+          "word": "주차공간",
+          "reading": "Juchagonggan",
+          "meaning": "Parking space",
+          "example_sentence": "주차공간이 부족해요. (Parking space is insufficient.)"
+        },
+        {
+          "word": "놀이터",
+          "reading": "Noriteo",
+          "meaning": "Playground",
+          "example_sentence": "아이들이 놀이터에서 놀아요. (Children play at the playground.)"
+        },
+        {
+          "word": "헬스장",
+          "reading": "Helseujang",
+          "meaning": "Gym / Fitness center",
+          "example_sentence": "아파트 헬스장을 이용해요. (I use the apartment gym.)"
+        },
+        {
+          "word": "슈퍼",
+          "reading": "Syupeo",
+          "meaning": "Supermarket / Corner store",
+          "example_sentence": "슈퍼에서 우유를 샀어요. (I bought milk at the supermarket.)"
+        },
+        {
+          "word": "대형마트",
+          "reading": "Daehyeongmateu",
+          "meaning": "Large supermarket / Hypermarket",
+          "example_sentence": "대형마트에서 장을 봐요. (I shop at the hypermarket.)"
+        },
+        {
+          "word": "초등학교",
+          "reading": "Chodeunghakgyo",
+          "meaning": "Elementary school",
+          "example_sentence": "초등학교가 가까워요. (The elementary school is close.)"
+        },
+        {
+          "word": "종합병원",
+          "reading": "Jonghapbyeongwon",
+          "meaning": "General hospital",
+          "example_sentence": "종합병원에 갔어요. (I went to the general hospital.)"
+        },
+        {
+          "word": "역세권",
+          "reading": "Yeoksegwon",
+          "meaning": "Area near subway station",
+          "example_sentence": "역세권이라서 교통이 편리해요. (It's convenient because it's near the station.)"
+        },
+        {
+          "word": "버스정류장",
+          "reading": "Beoseujeongnyujang",
+          "meaning": "Bus stop",
+          "example_sentence": "버스정류장까지 걸어가요. (I walk to the bus stop.)"
+        },
+        {
+          "word": "교통",
+          "reading": "Gyotong",
+          "meaning": "Transportation / Traffic",
+          "example_sentence": "교통이 편리해요. (Transportation is convenient.)"
+        },
+        {
+          "word": "접근성",
+          "reading": "Jeopgeunseong",
+          "meaning": "Accessibility",
+          "example_sentence": "접근성이 좋아요. (The accessibility is good.)"
+        },
+        {
+          "word": "치안",
+          "reading": "Chi-an",
+          "meaning": "Public safety / Security",
+          "example_sentence": "이 동네는 치안이 좋아요. (This neighborhood has good public safety.)"
+        },
+        {
+          "word": "환경",
+          "reading": "Hwangyeong",
+          "meaning": "Environment",
+          "example_sentence": "주거 환경이 쾌적해요. (The living environment is pleasant.)"
+        },
+        {
+          "word": "조망",
+          "reading": "Jomang",
+          "meaning": "View / Outlook",
+          "example_sentence": "조망이 좋아요. (The view is good.)"
+        },
+        {
+          "word": "채광",
+          "reading": "Chaegwang",
+          "meaning": "Natural lighting / Sunlight",
+          "example_sentence": "채광이 잘 들어와요. (Natural light comes in well.)"
+        },
+        {
+          "word": "방음",
+          "reading": "Bang-eum",
+          "meaning": "Soundproofing",
+          "example_sentence": "방음이 잘 돼요. (The soundproofing is good.)"
+        },
+        {
+          "word": "단열",
+          "reading": "Danyeol",
+          "meaning": "Insulation",
+          "example_sentence": "단열이 잘 되어 있어요. (The insulation is good.)"
+        },
+        {
+          "word": "보안",
+          "reading": "Boan",
+          "meaning": "Security",
+          "example_sentence": "보안 시스템이 있어요. (There's a security system.)"
+        },
+        {
+          "word": "CCTV",
+          "reading": "CCTV",
+          "meaning": "CCTV / Security camera",
+          "example_sentence": "CCTV가 설치되어 있어요. (CCTV is installed.)"
+        },
+        {
+          "word": "도어락",
+          "reading": "Doeorak",
+          "meaning": "Door lock / Digital lock",
+          "example_sentence": "도어락 비밀번호를 바꿨어요. (I changed the door lock password.)"
+        },
+        {
+          "word": "평수",
+          "reading": "Pyeongsu",
+          "meaning": "Square footage (in pyeong)",
+          "example_sentence": "평수가 30평이에요. (The square footage is 30 pyeong.)"
+        },
+        {
+          "word": "방범",
+          "reading": "Bangbeom",
+          "meaning": "Crime prevention",
+          "example_sentence": "방범 시스템이 있어요. (There's a crime prevention system.)"
+        },
+        {
+          "word": "공동현관",
+          "reading": "Gongdonghyeongwan",
+          "meaning": "Common entrance",
+          "example_sentence": "공동현관에 비밀번호가 있어요. (The common entrance has a password.)"
+        }
+      ]
+    }
+  ],
+  "liar_game_data": {
+    "topic": "Korean Ondol Heating System",
+    "question": "What is the traditional Korean ondol (온돌) heating system?",
+    "options": [
+      "A portable space heater placed in each room",
+      "Underfloor heating that warms the entire floor",
+      "A central heating radiator system",
+      "An electric blanket system"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Ondol (온돌) is a traditional Korean underfloor heating system where heat is distributed through pipes or channels beneath the floor, warming the entire floor surface. This is why Koreans traditionally sleep and sit on the floor. Modern apartments use hot water pipes (보일러) for ondol heating, making it energy-efficient and comfortable. The warm floor also explains why Koreans always remove shoes indoors!"
+  }
+}

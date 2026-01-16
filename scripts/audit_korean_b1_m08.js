@@ -1,0 +1,53 @@
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+const dataDir = path.join(__dirname, '../firestore_data');
+
+// Load A1
+const a1Data = JSON.parse(fs.readFileSync(path.join(dataDir, 'korean_a1_full.json'), 'utf8'));
+const a1Words = [];
+a1Data.modules.forEach(m => m.vocabularyItems.forEach(i => i.word && a1Words.push(i.word)));
+
+// Load A2
+const a2Data = JSON.parse(fs.readFileSync(path.join(dataDir, 'korean_a2_full.json'), 'utf8'));
+const a2Words = [];
+a2Data.modules.forEach(m => m.vocabularyItems.forEach(i => i.word && a2Words.push(i.word)));
+
+// Load B1 M01-M07
+const b1Words = [];
+for (let i = 1; i <= 7; i++) {
+    const file = `korean_b1_m${String(i).padStart(2, '0')}.json`;
+    const data = JSON.parse(fs.readFileSync(path.join(dataDir, file), 'utf8'));
+    data.lessons.forEach(l => b1Words.push(l.targetText));
+}
+
+// Load M08
+const m08Data = JSON.parse(fs.readFileSync(path.join(dataDir, 'korean_b1_m08.json'), 'utf8'));
+const m08Words = m08Data.lessons.map(l => l.targetText);
+
+console.log('--- 🧪 KOREAN B1 MODULE 08 AUDIT ---');
+
+// 1. Internal Duplicates
+const internalDups = m08Words.filter((w, i) => m08Words.indexOf(w) !== i);
+if (internalDups.length > 0) {
+    console.log('❌ Internal Duplicates:', internalDups);
+} else {
+    console.log('✅ No Internal Duplicates.');
+}
+
+// 2. Word Count
+console.log(`✅ Word Count: ${m08Words.length}`);
+
+// 3. Cumulative Overlaps
+const masterSet = new Set([...a1Words, ...a2Words, ...b1Words]);
+const overlaps = m08Words.filter(w => masterSet.has(w));
+
+if (overlaps.length > 0) {
+    console.log(`❌ Overlaps Found (${overlaps.length}):`, overlaps);
+} else {
+    console.log('✅ ZERO Cumulative Overlaps. Module 08 is 100% unique.');
+}

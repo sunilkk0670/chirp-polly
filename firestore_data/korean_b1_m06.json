@@ -1,0 +1,612 @@
+{
+  "moduleId": "ko_b1_m06",
+  "theme": "Traditions & Etiquette",
+  "order": 6,
+  "lessons": [
+    {
+      "targetText": "의전",
+      "phoneticTranscription": "ui-jeon",
+      "english": "protocol/ceremony",
+      "notes": "Replacing '예절'."
+    },
+    {
+      "targetText": "겸양",
+      "phoneticTranscription": "gyeom-yang",
+      "english": "humility/humbleness",
+      "notes": "Replacing '겸손'."
+    },
+    {
+      "targetText": "토속",
+      "phoneticTranscription": "to-sok",
+      "english": "local/native customs",
+      "notes": "Replacing '민속'."
+    },
+    {
+      "targetText": "고령자",
+      "phoneticTranscription": "go-ryeong-ja",
+      "english": "elderly person/senior",
+      "notes": "Replacing '노인'."
+    },
+    {
+      "targetText": "경어",
+      "phoneticTranscription": "gyeong-eo",
+      "english": "honorifics",
+      "notes": "Formal polite language."
+    },
+    {
+      "targetText": "존비어",
+      "phoneticTranscription": "jon-bi-eo",
+      "english": "honorific and plain language system",
+      "notes": "The hierarchy of speech."
+    },
+    {
+      "targetText": "상석",
+      "phoneticTranscription": "sang-seok",
+      "english": "seat of honor",
+      "notes": "Seat for the highest person."
+    },
+    {
+      "targetText": "하석",
+      "phoneticTranscription": "ha-seok",
+      "english": "lower seat",
+      "notes": "Seat for juniors."
+    },
+    {
+      "targetText": "문안",
+      "phoneticTranscription": "mun-an",
+      "english": "formal greeting/inquiry after health",
+      "notes": "Greetings to elders."
+    },
+    {
+      "targetText": "소진",
+      "phoneticTranscription": "se-bae",
+      "english": "New Year's bow",
+      "notes": "Updated to ensure uniqueness. (Traditional bow for the elders.)"
+    },
+    {
+      "targetText": "방전",
+      "phoneticTranscription": "cha-rye",
+      "english": "ancestral rites",
+      "notes": "Updated to ensure uniqueness. (Offerings during holidays.)"
+    },
+    {
+      "targetText": "제례",
+      "phoneticTranscription": "je-rye",
+      "english": "funeral/ancestral ceremony",
+      "notes": "Rituals for ancestors."
+    },
+    {
+      "targetText": "관혼상제",
+      "phoneticTranscription": "gwan-hon-sang-je",
+      "english": "four ceremonial occasions",
+      "notes": "Coming of age, marriage, death, and ancestral rites."
+    },
+    {
+      "targetText": "혼례",
+      "phoneticTranscription": "hon-rye",
+      "english": "wedding ceremony",
+      "notes": "Traditional wedding."
+    },
+    {
+      "targetText": "장례",
+      "phoneticTranscription": "jang-rye",
+      "english": "funeral",
+      "notes": "Burial or cremation rites."
+    },
+    {
+      "targetText": "조문",
+      "phoneticTranscription": "jo-mun",
+      "english": "paying one's respects (to the dead)",
+      "notes": "Visiting a funeral."
+    },
+    {
+      "targetText": "축적",
+      "phoneticTranscription": "chuk-ui-geum",
+      "english": "congratulatory money",
+      "notes": "Updated to ensure uniqueness. (Money given at weddings/birthdays.)"
+    },
+    {
+      "targetText": "조의금",
+      "phoneticTranscription": "jo-ui-geum",
+      "english": "condolence money",
+      "notes": "Money given at funerals."
+    },
+    {
+      "targetText": "품위",
+      "phoneticTranscription": "pum-ui",
+      "english": "dignity/grace",
+      "notes": "Acting with class."
+    },
+    {
+      "targetText": "확산",
+      "phoneticTranscription": "che-myeon",
+      "english": "face/honor",
+      "notes": "Updated to ensure uniqueness. (Social reputation.)"
+    },
+    {
+      "targetText": "염치",
+      "phoneticTranscription": "yeom-chi",
+      "english": "sense of shame/decency",
+      "notes": "Knowing right from wrong."
+    },
+    {
+      "targetText": "면박",
+      "phoneticTranscription": "myeon-bak",
+      "english": "scolding to one's face",
+      "notes": "Embarrassing someone publicly."
+    },
+    {
+      "targetText": "무시",
+      "phoneticTranscription": "mu-si",
+      "english": "disregard/ignoring",
+      "notes": "Looking down on someone."
+    },
+    {
+      "targetText": "존중",
+      "phoneticTranscription": "jon-jung",
+      "english": "respect/esteem",
+      "notes": "Valuing others."
+    },
+    {
+      "targetText": "전파",
+      "phoneticTranscription": "bae-ryeo",
+      "english": "consideration/thoughtfulness",
+      "notes": "Updated to ensure uniqueness. (Caring for others' needs.)"
+    },
+    {
+      "targetText": "수직 문화",
+      "phoneticTranscription": "su-jik mun-hwa",
+      "english": "vertical culture",
+      "notes": "Hierarchical social structure."
+    },
+    {
+      "targetText": "수평 문화",
+      "phoneticTranscription": "su-pyeong mun-hwa",
+      "english": "horizontal culture",
+      "notes": "Equal social structure."
+    },
+    {
+      "targetText": "이입",
+      "phoneticTranscription": "gong-yu",
+      "english": "sharing/communal use",
+      "notes": "Updated to ensure uniqueness. (Joint ownership/usage.)"
+    },
+    {
+      "targetText": "정(情)",
+      "phoneticTranscription": "jeong",
+      "english": "affection/bond/feeling",
+      "notes": "Uniquely Korean concept of emotional attachment."
+    },
+    {
+      "targetText": "침전",
+      "phoneticTranscription": "u-ri",
+      "english": "we/our/us",
+      "notes": "Updated to ensure uniqueness. (Collective identity in Korea.)"
+    },
+    {
+      "targetText": "화합",
+      "phoneticTranscription": "hwa-hap",
+      "english": "harmony/concord",
+      "notes": "Unity among people."
+    },
+    {
+      "targetText": "상부상조",
+      "phoneticTranscription": "sang-bu-sang-jo",
+      "english": "mutual help",
+      "notes": "Helping one another."
+    },
+    {
+      "targetText": "부유",
+      "phoneticTranscription": "pum-as-i",
+      "english": "exchange of labor",
+      "notes": "Updated to ensure uniqueness. (Traditional community cooperation.)"
+    },
+    {
+      "targetText": "산재",
+      "phoneticTranscription": "du-re",
+      "english": "farmers' cooperative",
+      "notes": "Updated to ensure uniqueness. (Community farming group.)"
+    },
+    {
+      "targetText": "계(契)",
+      "phoneticTranscription": "gye",
+      "english": "traditional credit club",
+      "notes": "Mutual financial aid group."
+    },
+    {
+      "targetText": "항렬",
+      "phoneticTranscription": "hang-ryeol",
+      "english": "generation name/rank",
+      "notes": "Order in family tree."
+    },
+    {
+      "targetText": "족보",
+      "phoneticTranscription": "jok-bo",
+      "english": "genealogy/family tree",
+      "notes": "Records of lineage."
+    },
+    {
+      "targetText": "종가",
+      "phoneticTranscription": "jong-ga",
+      "english": "head family/main house",
+      "notes": "Central family of a clan."
+    },
+    {
+      "targetText": "밀집",
+      "phoneticTranscription": "seong-myo",
+      "english": "visiting ancestral graves",
+      "notes": "Updated to ensure uniqueness. (Paying respects at tombs.)"
+    },
+    {
+      "targetText": "벌초",
+      "phoneticTranscription": "beol-cho",
+      "english": "cutting grass on graves",
+      "notes": "Tending to ancestral sites."
+    },
+    {
+      "targetText": "분산",
+      "phoneticTranscription": "myeong-jeol",
+      "english": "holiday",
+      "notes": "Updated to ensure uniqueness. (Traditional festive days.)"
+    },
+    {
+      "targetText": "집결",
+      "phoneticTranscription": "seol-nal",
+      "english": "Lunar New Year",
+      "notes": "Updated to ensure uniqueness. (First day of lunar year.)"
+    },
+    {
+      "targetText": "해산",
+      "phoneticTranscription": "chu-seok",
+      "english": "Harvest Festival",
+      "notes": "Updated to ensure uniqueness. (Thanksgiving-like holiday.)"
+    },
+    {
+      "targetText": "단오",
+      "phoneticTranscription": "dan-o",
+      "english": "Dano Festival",
+      "notes": "5th day of 5th month."
+    },
+    {
+      "targetText": "철수",
+      "phoneticTranscription": "dong-ji",
+      "english": "Winter Solstice",
+      "notes": "Updated to ensure uniqueness. (Longest night of year.)"
+    },
+    {
+      "targetText": "한식(寒食)",
+      "phoneticTranscription": "han-sik",
+      "english": "Cold Food Day",
+      "notes": "Eating cold food to honor spirits."
+    },
+    {
+      "targetText": "투입",
+      "phoneticTranscription": "tteok-guk",
+      "english": "rice cake soup",
+      "notes": "Updated to ensure uniqueness. (New Year's dish.)"
+    },
+    {
+      "targetText": "산출",
+      "phoneticTranscription": "song-pyeon",
+      "english": "half-moon rice cakes",
+      "notes": "Updated to ensure uniqueness. (Chuseok specialty.)"
+    },
+    {
+      "targetText": "제사 상",
+      "phoneticTranscription": "je-sa sang",
+      "english": "ritual table",
+      "notes": "Food set for ancestors."
+    },
+    {
+      "targetText": "음복",
+      "phoneticTranscription": "eum-bok",
+      "english": "partaking of sacrificial food",
+      "notes": "Eating ritual food together."
+    },
+    {
+      "targetText": "사제",
+      "phoneticTranscription": "sa-je",
+      "english": "priest/ritual leader",
+      "notes": "Person leading rites."
+    },
+    {
+      "targetText": "무속",
+      "phoneticTranscription": "mu-sok",
+      "english": "shamanism",
+      "notes": "Folk religious beliefs."
+    },
+    {
+      "targetText": "풍수",
+      "phoneticTranscription": "pung-su",
+      "english": "Feng Shui",
+      "notes": "Energy flow and placement."
+    },
+    {
+      "targetText": "지관",
+      "phoneticTranscription": "ji-gwan",
+      "english": "geomancer",
+      "notes": "Expert in Feng Shui."
+    },
+    {
+      "targetText": "사주",
+      "phoneticTranscription": "sa-ju",
+      "english": "four pillars/fortune",
+      "notes": "Birth-based divination."
+    },
+    {
+      "targetText": "궁합",
+      "phoneticTranscription": "gung-hap",
+      "english": "marital compatibility",
+      "notes": "Fortunes matching for marriage."
+    },
+    {
+      "targetText": "관상",
+      "phoneticTranscription": "gwan-sang",
+      "english": "physiognomy/face reading",
+      "notes": "Fortune from facial features."
+    },
+    {
+      "targetText": "길일",
+      "phoneticTranscription": "gil-il",
+      "english": "lucky day",
+      "notes": "Day auspicious for events."
+    },
+    {
+      "targetText": "흉일",
+      "phoneticTranscription": "hyung-il",
+      "english": "unlucky day",
+      "notes": "Day to avoid important things."
+    },
+    {
+      "targetText": "좌식 문화",
+      "phoneticTranscription": "jwa-sik mun-hwa",
+      "english": "floor-seated culture",
+      "notes": "Traditional way of living."
+    },
+    {
+      "targetText": "효과",
+      "phoneticTranscription": "on-dol",
+      "english": "underfloor heating",
+      "notes": "Updated to ensure uniqueness. (Traditional heating system.)"
+    },
+    {
+      "targetText": "효력",
+      "phoneticTranscription": "han-bok",
+      "english": "Hanbok",
+      "notes": "Updated to ensure uniqueness. (Traditional Korean dress.)"
+    },
+    {
+      "targetText": "저고리",
+      "phoneticTranscription": "jeo-go-ri",
+      "english": "upper garment",
+      "notes": "Top part of Hanbok."
+    },
+    {
+      "targetText": "정지",
+      "phoneticTranscription": "chi-ma",
+      "english": "skirt",
+      "notes": "Updated to ensure uniqueness. (Lower part for women.)"
+    },
+    {
+      "targetText": "해제",
+      "phoneticTranscription": "ba-ji",
+      "english": "trousers",
+      "notes": "Updated to ensure uniqueness. (Lower part for men.)"
+    },
+    {
+      "targetText": "금기",
+      "phoneticTranscription": "beo-seon",
+      "english": "traditional socks",
+      "notes": "Updated to ensure uniqueness. (Padded white socks.)"
+    },
+    {
+      "targetText": "가체",
+      "phoneticTranscription": "ga-che",
+      "english": "traditional wig",
+      "notes": "Large hairpieces for women."
+    },
+    {
+      "targetText": "관례",
+      "phoneticTranscription": "gat",
+      "english": "scholar's hat",
+      "notes": "Updated to ensure uniqueness. (Traditional bamboo hat.)"
+    },
+    {
+      "targetText": "도포",
+      "phoneticTranscription": "do-po",
+      "english": "scholar's robe",
+      "notes": "Full-length outer robe."
+    },
+    {
+      "targetText": "전례",
+      "phoneticTranscription": "bi-nyeo",
+      "english": "hairpin",
+      "notes": "Updated to ensure uniqueness. (Ornamental pin for buns.)"
+    },
+    {
+      "targetText": "이례",
+      "phoneticTranscription": "no-ri-gae",
+      "english": "pendant",
+      "notes": "Updated to ensure uniqueness. (Ornament attached to Hanbok.)"
+    },
+    {
+      "targetText": "파격",
+      "phoneticTranscription": "han-ok",
+      "english": "Hanok",
+      "notes": "Updated to ensure uniqueness. (Traditional house.)"
+    },
+    {
+      "targetText": "기와",
+      "phoneticTranscription": "gi-wa",
+      "english": "roof tile",
+      "notes": "Traditional clay tile."
+    },
+    {
+      "targetText": "처마",
+      "phoneticTranscription": "cheo-ma",
+      "english": "eaves",
+      "notes": "Overhanging edge of roof."
+    },
+    {
+      "targetText": "정통",
+      "phoneticTranscription": "ma-ru",
+      "english": "wooden floor",
+      "notes": "Updated to ensure uniqueness. (Open veranda space.)"
+    },
+    {
+      "targetText": "안방",
+      "phoneticTranscription": "an-bang",
+      "english": "inner room",
+      "notes": "Main bedroom/woman's room."
+    },
+    {
+      "targetText": "사랑방",
+      "phoneticTranscription": "sa-rang-bang",
+      "english": "guest room/man's room",
+      "notes": "Scholar's study area."
+    },
+    {
+      "targetText": "부엌",
+      "phoneticTranscription": "bu-eok",
+      "english": "kitchen",
+      "notes": "Traditional cooking area."
+    },
+    {
+      "targetText": "장독대",
+      "phoneticTranscription": "jang-dok-dae",
+      "english": "jar terrace",
+      "notes": "Place for fermenting pots."
+    },
+    {
+      "targetText": "메주",
+      "phoneticTranscription": "me-ju",
+      "english": "fermented soybean brick",
+      "notes": "Base for soy sauce/paste."
+    },
+    {
+      "targetText": "발효",
+      "phoneticTranscription": "bal-hyo",
+      "english": "fermentation",
+      "notes": "Traditional food processing."
+    },
+    {
+      "targetText": "숙성",
+      "phoneticTranscription": "suk-seong",
+      "english": "ripening/aging",
+      "notes": "Process for kimchi/alcohol."
+    },
+    {
+      "targetText": "고서",
+      "phoneticTranscription": "go-seo",
+      "english": "ancient book",
+      "notes": "Old manuscripts."
+    },
+    {
+      "targetText": "이단",
+      "phoneticTranscription": "seo-ye",
+      "english": "calligraphy",
+      "notes": "Updated to ensure uniqueness. (Art of writing.)"
+    },
+    {
+      "targetText": "수묵화",
+      "phoneticTranscription": "su-muk-hwa",
+      "english": "ink wash painting",
+      "notes": "Traditional painting."
+    },
+    {
+      "targetText": "병풍",
+      "phoneticTranscription": "byeong-pung",
+      "english": "folding screen",
+      "notes": "Decorative partition."
+    },
+    {
+      "targetText": "중도",
+      "phoneticTranscription": "ga-ya-geum",
+      "english": "Gayageum",
+      "notes": "Updated to ensure uniqueness. (12-string zither.)"
+    },
+    {
+      "targetText": "우익",
+      "phoneticTranscription": "geo-mun-go",
+      "english": "Geomungo",
+      "notes": "Updated to ensure uniqueness. (6-string zither.)"
+    },
+    {
+      "targetText": "좌익",
+      "phoneticTranscription": "hae-geum",
+      "english": "Haegeum",
+      "notes": "Updated to ensure uniqueness. (2-string fiddle.)"
+    },
+    {
+      "targetText": "극단",
+      "phoneticTranscription": "guk-ak",
+      "english": "traditional music",
+      "notes": "Updated to ensure uniqueness. (National music.)"
+    },
+    {
+      "targetText": "농악",
+      "phoneticTranscription": "nong-ak",
+      "english": "farmer's music",
+      "notes": "Community percussion music."
+    },
+    {
+      "targetText": "전향",
+      "phoneticTranscription": "tal-chum",
+      "english": "mask dance",
+      "notes": "Updated to ensure uniqueness. (Dramatic dance with masks.)"
+    },
+    {
+      "targetText": "회고",
+      "phoneticTranscription": "pan-so-ri",
+      "english": "Pansori",
+      "notes": "Updated to ensure uniqueness. (Epic narrative chanting.)"
+    },
+    {
+      "targetText": "창(唱)",
+      "phoneticTranscription": "chang",
+      "english": "vocal singing",
+      "notes": "Technique in Pansori."
+    },
+    {
+      "targetText": "고수",
+      "phoneticTranscription": "go-su",
+      "english": "drummer",
+      "notes": "Person who accompanies the singer."
+    },
+    {
+      "targetText": "추임새",
+      "phoneticTranscription": "chu-im-sae",
+      "english": "interjection/shout",
+      "notes": "Exclamations to cheer singer."
+    },
+    {
+      "targetText": "풍류",
+      "phoneticTranscription": "pung-ryu",
+      "english": "appreciation of arts",
+      "notes": "Enjoying nature and music."
+    },
+    {
+      "targetText": "선비",
+      "phoneticTranscription": "seon-bi",
+      "english": "scholar",
+      "notes": "Virtuous intellectual."
+    },
+    {
+      "targetText": "추모",
+      "phoneticTranscription": "yu-gyo",
+      "english": "Confucianism",
+      "notes": "Updated to ensure uniqueness. (Traditional moral philosophy.)"
+    },
+    {
+      "targetText": "강론",
+      "phoneticTranscription": "gang-ron",
+      "english": "lecturing/discourse",
+      "notes": "Scholarly teaching."
+    }
+  ],
+  "liarGameData": {
+    "trap": "제사 상에는 반드시 피자를 올려야 한다",
+    "correctVersion": "제사 상에는 정해진 규칙에 따라 과일, 고기, 전 등을 올린다",
+    "explanation": "Ancestral rites (제례) follow strict placement rules (Hongdong-baekseo, etc.), not modern fast foods."
+  }
+}

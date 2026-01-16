@@ -18,14 +18,6 @@ async function addBatch4Languages() {
             order: 7
         },
         {
-            id: 'dutch',
-            name: 'Dutch',
-            nativeName: 'Nederlands',
-            flag: '🇳🇱',
-            enabled: true,
-            order: 8
-        },
-        {
             id: 'portuguese',
             name: 'Portuguese',
             nativeName: 'Português',

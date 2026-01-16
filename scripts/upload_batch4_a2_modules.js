@@ -8,13 +8,11 @@ admin.initializeApp({
 const db = admin.firestore();
 
 const punjabiA2 = require('../firestore_data/punjabi_a2_modules.json');
-const dutchA2 = require('../firestore_data/dutch_a2_modules.json');
 const portugueseA2 = require('../firestore_data/portuguese_a2_modules.json');
 
 async function uploadBatch4A2Modules() {
     const languageModules = [
         { languageId: 'punjabi', modules: punjabiA2, name: 'Punjabi' },
-        { languageId: 'dutch', modules: dutchA2, name: 'Dutch' },
         { languageId: 'portuguese', modules: portugueseA2, name: 'Portuguese' }
     ];
 
@@ -39,7 +37,7 @@ async function uploadBatch4A2Modules() {
         }
 
         console.log('\n✅ All Batch 4 A2 modules uploaded successfully!');
-        console.log(`Total modules uploaded: ${punjabiA2.length + dutchA2.length + portugueseA2.length}`);
+        console.log(`Total modules uploaded: ${punjabiA2.length + portugueseA2.length}`);
         process.exit(0);
     } catch (error) {
         console.error('Error uploading Batch 4 A2 modules:', error);

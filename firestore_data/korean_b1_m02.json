@@ -1,0 +1,612 @@
+{
+  "moduleId": "ko_b1_m02",
+  "theme": "Work & Career",
+  "order": 2,
+  "lessons": [
+    {
+      "targetText": "임용",
+      "phoneticTranscription": "im-yong",
+      "english": "appointment/employment",
+      "notes": "Formal term for being hired or appointed."
+    },
+    {
+      "targetText": "직무",
+      "phoneticTranscription": "jik-mu",
+      "english": "job duty/function",
+      "notes": "Replacing '업무'."
+    },
+    {
+      "targetText": "보수",
+      "phoneticTranscription": "bo-su",
+      "english": "remuneration/pay",
+      "notes": "Replacing '급여'."
+    },
+    {
+      "targetText": "제수당",
+      "phoneticTranscription": "je-su-dang",
+      "english": "miscellaneous allowances",
+      "notes": "Replacing '상여금/보너스'."
+    },
+    {
+      "targetText": "사업장",
+      "phoneticTranscription": "sa-eop-jang",
+      "english": "workplace/business site",
+      "notes": "Replacing '직장'."
+    },
+    {
+      "targetText": "상급자",
+      "phoneticTranscription": "sang-geup-ja",
+      "english": "superior/higher-up",
+      "notes": "Replacing '상사'."
+    },
+    {
+      "targetText": "하급자",
+      "phoneticTranscription": "ha-geup-ja",
+      "english": "subordinate/junior",
+      "notes": "Replacing '부하'."
+    },
+    {
+      "targetText": "조직",
+      "phoneticTranscription": "jo-jik",
+      "english": "organization/unit",
+      "notes": "Replacing '부서'."
+    },
+    {
+      "targetText": "경리",
+      "phoneticTranscription": "gyeong-ri",
+      "english": "accounting/bookkeeping",
+      "notes": "Replacing '회계'."
+    },
+    {
+      "targetText": "판촉",
+      "phoneticTranscription": "pan-chok",
+      "english": "sales promotion",
+      "notes": "Replacing '마케팅'."
+    },
+    {
+      "targetText": "수주",
+      "phoneticTranscription": "su-ju",
+      "english": "winning an order/contract",
+      "notes": "Replacing '영업'."
+    },
+    {
+      "targetText": "매출",
+      "phoneticTranscription": "mae-chul",
+      "english": "sales/turnover",
+      "notes": "Total sales volume."
+    },
+    {
+      "targetText": "체결",
+      "phoneticTranscription": "che-gyeol",
+      "english": "contract conclusion",
+      "notes": "Replacing '계약/약정'."
+    },
+    {
+      "targetText": "상신",
+      "phoneticTranscription": "sang-sin",
+      "english": "reporting to superior",
+      "notes": "Replacing '보고'."
+    },
+    {
+      "targetText": "고과",
+      "phoneticTranscription": "go-gwa",
+      "english": "performance review",
+      "notes": "Replacing '평가'."
+    },
+    {
+      "targetText": "검수",
+      "phoneticTranscription": "geom-su",
+      "english": "inspection",
+      "notes": "Replacing '품질'."
+    },
+    {
+      "targetText": "응대",
+      "phoneticTranscription": "eung-dae",
+      "english": "reception/response",
+      "notes": "Replacing '서비스'."
+    },
+    {
+      "targetText": "공급처",
+      "phoneticTranscription": "gong-geup-che",
+      "english": "supplier/vendor",
+      "notes": "Replacing '고객/거래처'."
+    },
+    {
+      "targetText": "통화",
+      "phoneticTranscription": "tong-hwa",
+      "english": "phone conversation",
+      "notes": "Replacing '전화'."
+    },
+    {
+      "targetText": "연수",
+      "phoneticTranscription": "yeon-su",
+      "english": "training/workshop",
+      "notes": "Replacing '교육'."
+    },
+    {
+      "targetText": "개혁",
+      "phoneticTranscription": "gae-hyeok",
+      "english": "reform",
+      "notes": "Replacing '혁신'."
+    },
+    {
+      "targetText": "시정",
+      "phoneticTranscription": "si-jeong",
+      "english": "correction",
+      "notes": "Replacing '개선'."
+    },
+    {
+      "targetText": "운영",
+      "phoneticTranscription": "un-yeong",
+      "english": "operation",
+      "notes": "Replacing '관리'."
+    },
+    {
+      "targetText": "구축",
+      "phoneticTranscription": "gu-chuk",
+      "english": "establishment/build",
+      "notes": "Replacing '개발'."
+    },
+    {
+      "targetText": "입안",
+      "phoneticTranscription": "ip-an",
+      "english": "drafting/planning",
+      "notes": "Replacing '기획'."
+    },
+    {
+      "targetText": "분석적",
+      "phoneticTranscription": "gong-jo",
+      "english": "collaboration",
+      "notes": "Updated to ensure uniqueness. (Replacing '협력'.)"
+    },
+    {
+      "targetText": "잔업",
+      "phoneticTranscription": "jan-eop",
+      "english": "overtime work",
+      "notes": "Replacing '야근'."
+    },
+    {
+      "targetText": "휴무",
+      "phoneticTranscription": "hyu-mu",
+      "english": "day off",
+      "notes": "Replacing '휴가'."
+    },
+    {
+      "targetText": "사직",
+      "phoneticTranscription": "sa-jik",
+      "english": "resignation",
+      "notes": "Replacing '사표'."
+    },
+    {
+      "targetText": "선발",
+      "phoneticTranscription": "seon-bal",
+      "english": "selection",
+      "notes": "Replacing '합격'."
+    },
+    {
+      "targetText": "탈락",
+      "phoneticTranscription": "tal-rak",
+      "english": "elimination/rejection",
+      "notes": "Replacing '불합격'."
+    },
+    {
+      "targetText": "초임",
+      "phoneticTranscription": "cho-im",
+      "english": "first appointment",
+      "notes": "Replacing '신규/신입'."
+    },
+    {
+      "targetText": "이력",
+      "phoneticTranscription": "i-ryeok",
+      "english": "track record/history",
+      "notes": "Replacing '경력'."
+    },
+    {
+      "targetText": "기록물",
+      "phoneticTranscription": "gi-rok-mul",
+      "english": "records/archives",
+      "notes": "Replacing '서류/문서'."
+    },
+    {
+      "targetText": "수치",
+      "phoneticTranscription": "su-chi",
+      "english": "numerical value",
+      "notes": "Replacing '지표'."
+    },
+    {
+      "targetText": "비전",
+      "phoneticTranscription": "bi-jeon",
+      "english": "corporate vision",
+      "notes": "Replacing '목표'."
+    },
+    {
+      "targetText": "근태",
+      "phoneticTranscription": "geun-tae",
+      "english": "attendance/diligence",
+      "notes": "Work attitude and attendance."
+    },
+    {
+      "targetText": "연봉 협상",
+      "phoneticTranscription": "yeon-bong hyeop-sang",
+      "english": "salary negotiation",
+      "notes": "Negotiating pay."
+    },
+    {
+      "targetText": "외근",
+      "phoneticTranscription": "oe-geun",
+      "english": "field work",
+      "notes": "Working outside the office."
+    },
+    {
+      "targetText": "비정규직",
+      "phoneticTranscription": "bi-jeong-gyu-jik",
+      "english": "irregular/temporary worker",
+      "notes": "Contract or part-time work."
+    },
+    {
+      "targetText": "구인",
+      "phoneticTranscription": "gu-in",
+      "english": "job recruitment/offering",
+      "notes": "Help wanted."
+    },
+    {
+      "targetText": "구직",
+      "phoneticTranscription": "gu-jik",
+      "english": "job searching",
+      "notes": "Looking for a job."
+    },
+    {
+      "targetText": "이직",
+      "phoneticTranscription": "i-jik",
+      "english": "changing jobs",
+      "notes": "Moving to another company."
+    },
+    {
+      "targetText": "전직",
+      "phoneticTranscription": "jeon-jik",
+      "english": "career change",
+      "notes": "Changing occupation."
+    },
+    {
+      "targetText": "파견",
+      "phoneticTranscription": "pa-gyeon",
+      "english": "dispatch/assignment",
+      "notes": "Being sent to another site."
+    },
+    {
+      "targetText": "재직",
+      "phoneticTranscription": "jae-jik",
+      "english": "holding office/active",
+      "notes": "Currently employed."
+    },
+    {
+      "targetText": "퇴직",
+      "phoneticTranscription": "toe-jik",
+      "english": "retirement/resignation",
+      "notes": "Leaving a job."
+    },
+    {
+      "targetText": "정년",
+      "phoneticTranscription": "jeong-nyeon",
+      "english": "retirement age",
+      "notes": "Age of mandatory retirement."
+    },
+    {
+      "targetText": "실업 급여",
+      "phoneticTranscription": "sil-eop geu-yeo",
+      "english": "unemployment benefit",
+      "notes": "Social safety net."
+    },
+    {
+      "targetText": "노동조합",
+      "phoneticTranscription": "no-dong-jo-hap",
+      "english": "labor union",
+      "notes": "Workers' association."
+    },
+    {
+      "targetText": "단체 협약",
+      "phoneticTranscription": "dan-che hyeop-yak",
+      "english": "collective agreement",
+      "notes": "Agreement between union and management."
+    },
+    {
+      "targetText": "파업",
+      "phoneticTranscription": "pa-eop",
+      "english": "strike",
+      "notes": "Collective work stoppage."
+    },
+    {
+      "targetText": "태업",
+      "phoneticTranscription": "tae-eop",
+      "english": "slowdown/sabotage",
+      "notes": "Intentional reduction in productivity."
+    },
+    {
+      "targetText": "감원",
+      "phoneticTranscription": "gam-won",
+      "english": "layoff/reduction in staff",
+      "notes": "Replacing '해고'."
+    },
+    {
+      "targetText": "징계",
+      "phoneticTranscription": "jing-gye",
+      "english": "discipline/punishment",
+      "notes": "Disciplinary action."
+    },
+    {
+      "targetText": "견책",
+      "phoneticTranscription": "gyeon-chaek",
+      "english": "reprimand",
+      "notes": "Official warning."
+    },
+    {
+      "targetText": "감봉",
+      "phoneticTranscription": "gam-bong",
+      "english": "salary reduction",
+      "notes": "Cutting pay as punishment."
+    },
+    {
+      "targetText": "정직",
+      "phoneticTranscription": "jeong-jik",
+      "english": "suspension",
+      "notes": "Temporary ban from work."
+    },
+    {
+      "targetText": "대기 발령",
+      "phoneticTranscription": "dae-gi bal-lyeong",
+      "english": "waiting for assignment",
+      "notes": "Personnel on standby."
+    },
+    {
+      "targetText": "보직",
+      "phoneticTranscription": "bo-jik",
+      "english": "assignment/appointment",
+      "notes": "Specific job role."
+    },
+    {
+      "targetText": "겸직",
+      "phoneticTranscription": "gyeom-jik",
+      "english": "holding two posts",
+      "notes": "Concurrent office."
+    },
+    {
+      "targetText": "부임",
+      "phoneticTranscription": "bu-im",
+      "english": "taking up a post",
+      "notes": "Arriving at a new post."
+    },
+    {
+      "targetText": "이임",
+      "phoneticTranscription": "i-im",
+      "english": "leaving a post",
+      "notes": "Leaving a current post."
+    },
+    {
+      "targetText": "취임",
+      "phoneticTranscription": "chwi-im",
+      "english": "inauguration",
+      "notes": "Assuming high office."
+    },
+    {
+      "targetText": "퇴임",
+      "phoneticTranscription": "toe-im",
+      "english": "retiring from post",
+      "notes": "Leaving an official position."
+    },
+    {
+      "targetText": "전근",
+      "phoneticTranscription": "jeon-geun",
+      "english": "transfer/relocation",
+      "notes": "Moving to another branch."
+    },
+    {
+      "targetText": "파견근무",
+      "phoneticTranscription": "pa-gyeon-geun-mu",
+      "english": "dispatched work",
+      "notes": "Working away from home base."
+    },
+    {
+      "targetText": "유관 부서",
+      "phoneticTranscription": "yu-gwan bu-seo",
+      "english": "related department",
+      "notes": "Departments involved in a project."
+    },
+    {
+      "targetText": "결재",
+      "phoneticTranscription": "gyeol-jae",
+      "english": "approval/sanction",
+      "notes": "Official sign-off."
+    },
+    {
+      "targetText": "품의",
+      "phoneticTranscription": "pum-ui",
+      "english": "seeking approval",
+      "notes": "Drafting an approval request."
+    },
+    {
+      "targetText": "시행",
+      "phoneticTranscription": "si-haeng",
+      "english": "enforcement/execution",
+      "notes": "Carrying out a policy."
+    },
+    {
+      "targetText": "공문",
+      "phoneticTranscription": "gong-mun",
+      "english": "official document",
+      "notes": "Government or corporate official mail."
+    },
+    {
+      "targetText": "협조",
+      "phoneticTranscription": "hyeop-jo",
+      "english": "cooperation/coordination",
+      "notes": "Helping other departments."
+    },
+    {
+      "targetText": "회람",
+      "phoneticTranscription": "hoe-ram",
+      "english": "circular/notice",
+      "notes": "Information passed around."
+    },
+    {
+      "targetText": "보존",
+      "phoneticTranscription": "bo-jon",
+      "english": "preservation/archiving",
+      "notes": "Keeping records safe."
+    },
+    {
+      "targetText": "폐기",
+      "phoneticTranscription": "pye-gi",
+      "english": "disposal/discarding",
+      "notes": "Destroying old documents."
+    },
+    {
+      "targetText": "열람",
+      "phoneticTranscription": "yeol-ram",
+      "english": "perusal/reading",
+      "notes": "Viewing records."
+    },
+    {
+      "targetText": "대외비",
+      "phoneticTranscription": "dae-oe-bi",
+      "english": "confidential/internal",
+      "notes": "Not for public eyes."
+    },
+    {
+      "targetText": "기밀 유지",
+      "phoneticTranscription": "gi-mil yu-ji",
+      "english": "maintaining secrecy",
+      "notes": "Replacing '보안'."
+    },
+    {
+      "targetText": "유출",
+      "phoneticTranscription": "yu-chul",
+      "english": "leak/spillage",
+      "notes": "Information leak."
+    },
+    {
+      "targetText": "감사",
+      "phoneticTranscription": "gam-sa",
+      "english": "audit/inspection",
+      "notes": "Formal investigation of records."
+    },
+    {
+      "targetText": "모니터링",
+      "phoneticTranscription": "mo-ni-teo-ring",
+      "english": "monitoring",
+      "notes": "Tracking progress/status."
+    },
+    {
+      "targetText": "성과급",
+      "phoneticTranscription": "seong-gva-geup",
+      "english": "performance pay/bonus",
+      "notes": "Pay based on results."
+    },
+    {
+      "targetText": "복리후생",
+      "phoneticTranscription": "bok-ri-hu-saeng",
+      "english": "employee benefits",
+      "notes": "Welfare system for staff."
+    },
+    {
+      "targetText": "회식",
+      "phoneticTranscription": "hoe-sik",
+      "english": "company dinner",
+      "notes": "Group dining with colleagues."
+    },
+    {
+      "targetText": "야유회",
+      "phoneticTranscription": "ya-yu-hoe",
+      "english": "company outing/picnic",
+      "notes": "Team building trip."
+    },
+    {
+      "targetText": "창립 기념일",
+      "phoneticTranscription": "chang-rip gi-nyeom-il",
+      "english": "founding anniversary",
+      "notes": "Company's birthday."
+    },
+    {
+      "targetText": "근로 계약",
+      "phoneticTranscription": "geun-ro gye-yak",
+      "english": "employment contract",
+      "notes": "Legal work agreement."
+    },
+    {
+      "targetText": "취업 규칙",
+      "phoneticTranscription": "chwi-eop gyu-chik",
+      "english": "work rules/regulations",
+      "notes": "Company internal laws."
+    },
+    {
+      "targetText": "직장 내 괴롭힘",
+      "phoneticTranscription": "jik-jang nae goe-rop-him",
+      "english": "workplace harassment",
+      "notes": "Bullying at work."
+    },
+    {
+      "targetText": "성희롱",
+      "phoneticTranscription": "seong-hui-rong",
+      "english": "sexual harassment",
+      "notes": "Inappropriate workplace conduct."
+    },
+    {
+      "targetText": "남녀평등",
+      "phoneticTranscription": "nam-nyeo-pyeong-deung",
+      "english": "gender equality",
+      "notes": "Equal pay and treatment."
+    },
+    {
+      "targetText": "양육 휴가",
+      "phoneticTranscription": "yang-yuk hyu-ga",
+      "english": "childcare leave",
+      "notes": "Replacing '육아휴직'."
+    },
+    {
+      "targetText": "원격 근무",
+      "phoneticTranscription": "won-gyeok geun-mu",
+      "english": "remote work",
+      "notes": "Replacing '재택근무'."
+    },
+    {
+      "targetText": "순환보직",
+      "phoneticTranscription": "sun-hwan-bo-jik",
+      "english": "job rotation",
+      "notes": "Changing roles periodically."
+    },
+    {
+      "targetText": "인사발령",
+      "phoneticTranscription": "in-sa-bal-lyeong",
+      "english": "personnel assignment",
+      "notes": "Official staff movements."
+    },
+    {
+      "targetText": "승급",
+      "phoneticTranscription": "seung-geup",
+      "english": "step up/promotion",
+      "notes": "Moving up the internal scale."
+    },
+    {
+      "targetText": "호봉",
+      "phoneticTranscription": "ho-bong",
+      "english": "salary step/rank",
+      "notes": "Pay grade internal system."
+    },
+    {
+      "targetText": "논거",
+      "phoneticTranscription": "jik-geup",
+      "english": "rank/position",
+      "notes": "Updated to ensure uniqueness. (Official corporate rank.)"
+    },
+    {
+      "targetText": "직인",
+      "phoneticTranscription": "jik-in",
+      "english": "official seal/stamp",
+      "notes": "Company's official stamp."
+    }
+  ],
+  "liarGameData": {
+    "trap": "사표를 쓸 때는 항상 빨간색 펜으로 써야 한다",
+    "correctVersion": "사직서(Letter of Resignation)를 제출할 때는 정해진 양식에 따라 작성해야 한다",
+    "explanation": "Resignation requires a formal letter (사직서). The trap suggests a superstition about red ink, which is irrelevant to corporate procedure."
+  }
+}

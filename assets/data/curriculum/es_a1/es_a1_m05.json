@@ -1,0 +1,609 @@
+{
+  "order": 5,
+  "theme": "Travel & Transportation",
+  "level": "A1",
+  "language": "es",
+  "module_id": "es_a1_m05",
+  "vocabularyItems": [
+    {
+      "usage": "Mi próximo viaje será a España en julio para visitar Madrid, Barcelona y otras ciudades hermosas del país europeo.",
+      "phonetic": "/ˈbja.xe/",
+      "word": "Viaje",
+      "translation": "Trip / Travel"
+    },
+    {
+      "phonetic": "/maˈle.ta/",
+      "word": "Maleta",
+      "translation": "Suitcase",
+      "usage": "Necesito comprar una maleta nueva y grande para mi viaje porque la vieja está rota y no cierra bien."
+    },
+    {
+      "phonetic": "/pasaˈpoɾ.te/",
+      "usage": "No puedo encontrar mi pasaporte y necesito renovarlo pronto porque vence el próximo mes y quiero viajar al extranjero.",
+      "translation": "Passport",
+      "word": "Pasaporte"
+    },
+    {
+      "word": "Boleto",
+      "phonetic": "/boˈle.to/",
+      "usage": "Compré los boletos de avión con tres meses de anticipación para conseguir un mejor precio y ahorrar dinero en el viaje.",
+      "translation": "Ticket"
+    },
+    {
+      "phonetic": "/aˈβjon/",
+      "word": "Avión",
+      "usage": "El avión despega a las ocho de la mañana, así que debo estar en el aeropuerto dos horas antes.",
+      "translation": "Airplane"
+    },
+    {
+      "phonetic": "/aeɾoˈpweɾ.to/",
+      "translation": "Airport",
+      "usage": "El aeropuerto está a una hora de mi casa en coche, así que salgo temprano para no perder el vuelo.",
+      "word": "Aeropuerto"
+    },
+    {
+      "usage": "Prefiero viajar en tren porque es más cómodo que el autobús y puedo ver el paisaje hermoso por la ventana.",
+      "phonetic": "/tɾen/",
+      "word": "Tren",
+      "translation": "Train"
+    },
+    {
+      "word": "Estación",
+      "translation": "Station",
+      "phonetic": "/estaˈsjon/",
+      "usage": "La estación de tren está en el centro de la ciudad y es muy fácil llegar allí en metro o autobús."
+    },
+    {
+      "translation": "Bus",
+      "word": "Autobús",
+      "phonetic": "/awtoˈβus/",
+      "usage": "Tomo el autobús todos los días para ir al trabajo porque es barato y hay una parada cerca de mi casa."
+    },
+    {
+      "word": "Coche",
+      "phonetic": "/ˈko.tʃe/",
+      "translation": "Car",
+      "usage": "Voy a alquilar un coche durante mis vacaciones para poder viajar libremente y visitar pueblos pequeños del interior del país."
+    },
+    {
+      "usage": "Tomé un taxi del aeropuerto al hotel porque llevaba mucho equipaje pesado y estaba muy cansado del vuelo largo.",
+      "phonetic": "/ˈtak.si/",
+      "word": "Taxi",
+      "translation": "Taxi"
+    },
+    {
+      "translation": "Boat / Ship",
+      "word": "Barco",
+      "phonetic": "/ˈbaɾ.ko/",
+      "usage": "Vamos a tomar un barco para cruzar el río y visitar la isla pequeña donde hay playas hermosas y tranquilas."
+    },
+    {
+      "phonetic": "/ˈpweɾ.to/",
+      "word": "Puerto",
+      "translation": "Port",
+      "usage": "El puerto de Barcelona es muy grande y bonito, con muchos barcos y yates elegantes anclados en el agua azul."
+    },
+    {
+      "translation": "Bicycle",
+      "word": "Bicicleta",
+      "usage": "Me gusta andar en bicicleta por el parque los domingos porque es buen ejercicio y disfruto del aire fresco.",
+      "phonetic": "/bisiˈkle.ta/"
+    },
+    {
+      "usage": "Prefiero caminar al trabajo cuando hace buen tiempo porque es saludable y me ayuda a despertar bien por la mañana.",
+      "translation": "To walk",
+      "phonetic": "/kamiˈnaɾ/",
+      "word": "Caminar"
+    },
+    {
+      "word": "Conducir",
+      "usage": "Aprendí a conducir cuando tenía dieciocho años y desde entonces manejo mi propio coche todos los días al trabajo.",
+      "translation": "To drive",
+      "phonetic": "/konduˈsiɾ/"
+    },
+    {
+      "word": "Volar",
+      "usage": "Me encanta volar en avión porque puedo ver las nubes y el cielo azul desde la ventanilla durante el viaje.",
+      "phonetic": "/boˈlaɾ/",
+      "translation": "To fly"
+    },
+    {
+      "translation": "To arrive",
+      "word": "Llegar",
+      "phonetic": "/ʝeˈɣaɾ/",
+      "usage": "Voy a llegar al aeropuerto dos horas antes del vuelo para tener tiempo suficiente para hacer el check-in y pasar seguridad."
+    },
+    {
+      "translation": "To leave / depart",
+      "phonetic": "/saˈliɾ/",
+      "word": "Salir",
+      "usage": "El tren sale de la estación a las nueve en punto, así que no puedo llegar tarde o perderé el viaje."
+    },
+    {
+      "word": "Esperar",
+      "phonetic": "/espeˈɾaɾ/",
+      "usage": "Tuve que esperar dos horas en el aeropuerto porque mi vuelo se retrasó por mal tiempo y tormentas fuertes.",
+      "translation": "To wait"
+    },
+    {
+      "translation": "Stop (bus/train)",
+      "word": "Parada",
+      "phonetic": "/paˈɾa.ða/",
+      "usage": "La parada de autobús está a cinco minutos de mi casa caminando, así que es muy conveniente para mí."
+    },
+    {
+      "usage": "Mi destino favorito para viajar es Italia porque me encanta la comida, la cultura y la arquitectura hermosa del país.",
+      "word": "Destino",
+      "phonetic": "/desˈti.no/",
+      "translation": "Destination"
+    },
+    {
+      "phonetic": "/ˈma.pa/",
+      "translation": "Map",
+      "word": "Mapa",
+      "usage": "Siempre llevo un mapa de la ciudad cuando viajo para no perderme y poder encontrar los lugares turísticos importantes."
+    },
+    {
+      "translation": "Tourist",
+      "usage": "Hay muchos turistas en esta ciudad durante el verano que vienen a visitar los museos y monumentos históricos famosos.",
+      "phonetic": "/tuˈɾis.ta/",
+      "word": "Turista"
+    },
+    {
+      "word": "Guía",
+      "phonetic": "/ˈɡi.a/",
+      "translation": "Guide",
+      "usage": "Contraté un guía turístico local para que me mostrara los mejores lugares de la ciudad y me contara su historia fascinante."
+    },
+    {
+      "translation": "Hotel",
+      "phonetic": "/oˈtel/",
+      "word": "Hotel",
+      "usage": "Reservé un hotel en el centro de la ciudad cerca de todos los restaurantes y tiendas para poder caminar fácilmente."
+    },
+    {
+      "word": "Reserva",
+      "translation": "Reservation",
+      "phonetic": "/reˈseɾ.βa/",
+      "usage": "Hice una reserva en el restaurante para esta noche a las ocho porque es muy popular y siempre está lleno."
+    },
+    {
+      "phonetic": "/aβitaˈsjon/",
+      "translation": "Room",
+      "word": "Habitación",
+      "usage": "Mi habitación de hotel tiene una vista hermosa al mar y un balcón grande donde puedo tomar el desayuno."
+    },
+    {
+      "phonetic": "/ˈʝa.βe/",
+      "usage": "Perdí la llave de mi habitación del hotel y tuve que pedir otra en la recepción para poder entrar.",
+      "translation": "Key",
+      "word": "Llave"
+    },
+    {
+      "usage": "La cama del hotel es muy cómoda y grande, dormí muy bien toda la noche sin despertarme ni una vez.",
+      "phonetic": "/ˈka.ma/",
+      "translation": "Bed",
+      "word": "Cama"
+    },
+    {
+      "translation": "Vacations",
+      "usage": "Tengo dos semanas de vacaciones en agosto y voy a viajar a Grecia con mi familia para descansar en la playa.",
+      "word": "Vacaciones",
+      "phonetic": "/bakaˈsjo.nes/"
+    },
+    {
+      "usage": "Me encanta la aventura y viajar a lugares nuevos y exóticos para conocer culturas diferentes y probar comidas extrañas.",
+      "phonetic": "/aβenˈtu.ɾa/",
+      "translation": "Adventure",
+      "word": "Aventura"
+    },
+    {
+      "word": "Cámara",
+      "phonetic": "/ˈka.ma.ɾa/",
+      "translation": "Camera",
+      "usage": "Llevo mi cámara fotográfica a todos mis viajes para tomar fotos bonitas de los lugares que visito y los momentos especiales."
+    },
+    {
+      "translation": "Photo",
+      "phonetic": "/ˈfo.to/",
+      "usage": "Tomé muchas fotos durante mi viaje a París de la Torre Eiffel, el Louvre y otros monumentos famosos de la ciudad.",
+      "word": "Foto"
+    },
+    {
+      "word": "Recuerdo",
+      "usage": "Compré recuerdos para mi familia en cada ciudad que visité durante mi viaje por Europa el verano pasado inolvidable.",
+      "phonetic": "/reˈkweɾ.ðo/",
+      "translation": "Souvenir / Memory"
+    },
+    {
+      "phonetic": "/diˈne.ɾo/",
+      "translation": "Money",
+      "usage": "Necesito cambiar dinero en el aeropuerto porque en el país que voy a visitar usan una moneda diferente al euro.",
+      "word": "Dinero"
+    },
+    {
+      "usage": "Prefiero pagar con tarjeta de crédito cuando viajo porque es más seguro que llevar mucho dinero en efectivo siempre.",
+      "phonetic": "/taɾˈxe.ta/",
+      "translation": "Card",
+      "word": "Tarjeta"
+    },
+    {
+      "phonetic": "/kaˈxe.ɾo/",
+      "usage": "Necesito encontrar un cajero automático para sacar dinero porque me quedé sin efectivo y quiero comprar souvenirs en las tiendas.",
+      "translation": "ATM",
+      "word": "Cajero"
+    },
+    {
+      "word": "Cambio",
+      "translation": "Change",
+      "phonetic": "/ˈkam.bjo/",
+      "usage": "El tipo de cambio hoy está muy bueno, así que voy a cambiar euros a dólares para mi viaje a Estados Unidos."
+    },
+    {
+      "phonetic": "/pɾoˈpi.na/",
+      "translation": "Tip",
+      "word": "Propina",
+      "usage": "En este país es costumbre dejar una propina del diez por ciento en los restaurantes para el mesero que te atiende."
+    },
+    {
+      "translation": "Country",
+      "phonetic": "/paˈis/",
+      "word": "País",
+      "usage": "He visitado quince países diferentes en Europa, Asia y América durante mis viajes de los últimos diez años de mi vida."
+    },
+    {
+      "translation": "City",
+      "word": "Ciudad",
+      "usage": "Mi ciudad favorita en el mundo es Barcelona porque tiene playa, montañas, buena comida y arquitectura increíble de Gaudí.",
+      "phonetic": "/sjuˈðað/"
+    },
+    {
+      "word": "Pueblo",
+      "phonetic": "/ˈpwe.βlo/",
+      "usage": "Me gusta visitar pueblos pequeños cuando viajo porque son tranquilos, auténticos y la gente es muy amable y hospitalaria.",
+      "translation": "Town / Village"
+    },
+    {
+      "phonetic": "/ˈmun.do/",
+      "usage": "Quiero viajar por todo el mundo y conocer diferentes culturas, idiomas y tradiciones antes de ser demasiado viejo para hacerlo.",
+      "word": "Mundo",
+      "translation": "World"
+    },
+    {
+      "translation": "Place",
+      "usage": "Este es el lugar más hermoso que he visitado en mi vida, con montañas verdes y un lago cristalino azul.",
+      "phonetic": "/luˈɣaɾ/",
+      "word": "Lugar"
+    },
+    {
+      "usage": "¿Me puede dar la dirección del hotel? Necesito escribirla para que el taxista sepa exactamente dónde llevarme sin perderse.",
+      "phonetic": "/diɾekˈsjon/",
+      "word": "Dirección",
+      "translation": "Address / Direction"
+    },
+    {
+      "usage": "El hotel está en la calle principal de la ciudad, muy cerca de restaurantes, tiendas y el museo de arte moderno.",
+      "translation": "Street",
+      "phonetic": "/ˈka.ʝe/",
+      "word": "Calle"
+    },
+    {
+      "word": "Avenida",
+      "translation": "Avenue",
+      "phonetic": "/aβeˈni.ða/",
+      "usage": "La avenida más famosa de Barcelona es Las Ramblas, donde hay muchos artistas callejeros, tiendas y restaurantes turísticos siempre llenos."
+    },
+    {
+      "usage": "La Plaza Mayor de Madrid es un lugar hermoso con arquitectura antigua donde la gente se reúne para comer y socializar.",
+      "translation": "Square / Plaza",
+      "phonetic": "/ˈpla.sa/",
+      "word": "Plaza"
+    },
+    {
+      "usage": "El banco está en la esquina de la calle principal con la avenida central, justo al lado de la farmacia grande.",
+      "translation": "Corner",
+      "phonetic": "/esˈki.na/",
+      "word": "Esquina"
+    },
+    {
+      "usage": "Vamos a viajar al norte de España para visitar San Sebastián y probar la comida vasca que es famosa mundialmente.",
+      "translation": "North",
+      "word": "Norte",
+      "phonetic": "/ˈnoɾ.te/"
+    },
+    {
+      "usage": "El sur de España es muy caluroso en verano con temperaturas que llegan a cuarenta grados durante el día.",
+      "word": "Sur",
+      "phonetic": "/suɾ/",
+      "translation": "South"
+    },
+    {
+      "translation": "East",
+      "word": "Este",
+      "phonetic": "/ˈes.te/",
+      "usage": "Valencia está en el este de España, en la costa del Mediterráneo con playas hermosas y clima agradable todo el año."
+    },
+    {
+      "usage": "Portugal está al oeste de España y es un país hermoso con ciudades históricas y playas espectaculares del Atlántico.",
+      "phonetic": "/oˈes.te/",
+      "word": "Oeste",
+      "translation": "West"
+    },
+    {
+      "word": "Derecha",
+      "translation": "Right",
+      "phonetic": "/deˈɾe.tʃa/",
+      "usage": "Gire a la derecha en el próximo semáforo y luego siga recto hasta ver el hotel a mano izquierda."
+    },
+    {
+      "phonetic": "/isˈkjeɾ.ða/",
+      "word": "Izquierda",
+      "usage": "La estación de metro está a la izquierda después de cruzar el puente grande sobre el río que divide la ciudad.",
+      "translation": "Left"
+    },
+    {
+      "word": "Recto",
+      "phonetic": "/ˈrek.to/",
+      "usage": "Siga recto por esta calle durante cinco minutos y verá el museo a su derecha, es un edificio grande y blanco.",
+      "translation": "Straight ahead"
+    },
+    {
+      "translation": "Far",
+      "word": "Lejos",
+      "usage": "El aeropuerto está muy lejos del centro de la ciudad, toma más de una hora llegar en coche con tráfico.",
+      "phonetic": "/ˈle.xos/"
+    },
+    {
+      "translation": "Near",
+      "usage": "El restaurante está muy cerca del hotel, solo a dos minutos caminando, así que podemos ir a pie fácilmente.",
+      "word": "Cerca",
+      "phonetic": "/ˈseɾ.ka/"
+    },
+    {
+      "usage": "Mi habitación está arriba en el quinto piso del hotel con una vista panorámica hermosa de toda la ciudad iluminada.",
+      "phonetic": "/aˈri.βa/",
+      "translation": "Up / Above",
+      "word": "Arriba"
+    },
+    {
+      "phonetic": "/aˈβa.xo/",
+      "translation": "Down / Below",
+      "usage": "El restaurante del hotel está abajo en la planta baja, justo al lado de la recepción principal del edificio.",
+      "word": "Abajo"
+    },
+    {
+      "translation": "Inside",
+      "word": "Dentro",
+      "phonetic": "/ˈden.tɾo/",
+      "usage": "Hace frío afuera, así que vamos a quedarnos dentro del café tomando chocolate caliente y conversando tranquilamente toda la tarde."
+    },
+    {
+      "phonetic": "/ˈfwe.ɾa/",
+      "word": "Fuera",
+      "usage": "Hace buen tiempo hoy, así que vamos a comer fuera en la terraza del restaurante con vista al mar.",
+      "translation": "Outside"
+    },
+    {
+      "word": "Entrada",
+      "usage": "La entrada del museo está en la calle principal y el boleto cuesta quince euros para adultos y gratis para niños.",
+      "translation": "Entrance",
+      "phonetic": "/enˈtɾa.ða/"
+    },
+    {
+      "word": "Salida",
+      "usage": "La salida de emergencia está al final del pasillo a la derecha, marcada con luces verdes brillantes siempre encendidas.",
+      "translation": "Exit",
+      "phonetic": "/saˈli.ða/"
+    },
+    {
+      "word": "Abierto",
+      "phonetic": "/aˈβjeɾ.to/",
+      "translation": "Open",
+      "usage": "El museo está abierto de martes a domingo de diez de la mañana a seis de la tarde todos los días."
+    },
+    {
+      "usage": "El restaurante está cerrado los lunes porque es el día de descanso del personal que trabaja allí toda la semana.",
+      "word": "Cerrado",
+      "translation": "Closed",
+      "phonetic": "/seˈra.ðo/"
+    },
+    {
+      "usage": "Este barrio es muy seguro para caminar de noche porque hay mucha policía y buena iluminación en todas las calles.",
+      "phonetic": "/seˈɣu.ɾo/",
+      "word": "Seguro",
+      "translation": "Safe"
+    },
+    {
+      "translation": "Dangerous",
+      "usage": "Esa zona de la ciudad es peligrosa de noche, así que es mejor tomar un taxi en lugar de caminar solo.",
+      "phonetic": "/peliˈɣɾo.so/",
+      "word": "Peligroso"
+    },
+    {
+      "word": "Ayuda",
+      "phonetic": "/aˈʝu.ða/",
+      "usage": "Necesito ayuda para encontrar mi hotel porque me perdí y no hablo bien el idioma local de este país extranjero.",
+      "translation": "Help"
+    },
+    {
+      "word": "Policía",
+      "phonetic": "/poliˈsi.a/",
+      "usage": "Llamé a la policía porque alguien robó mi maleta del coche mientras estaba estacionado en la calle del hotel.",
+      "translation": "Police"
+    },
+    {
+      "usage": "Necesito ver a un médico porque me siento mal del estómago después de comer mariscos en el restaurante anoche.",
+      "translation": "Doctor",
+      "phonetic": "/ˈme.ði.ko/",
+      "word": "Médico"
+    },
+    {
+      "translation": "Embassy",
+      "word": "Embajada",
+      "phonetic": "/embaˈxa.ða/",
+      "usage": "Perdí mi pasaporte durante el viaje y tuve que ir a la embajada de mi país para solicitar uno nuevo urgente."
+    },
+    {
+      "translation": "Culture",
+      "usage": "Me encanta aprender sobre la cultura local cuando viajo, incluyendo la comida, música, tradiciones y costumbres del lugar que visito.",
+      "word": "Cultura",
+      "phonetic": "/kulˈtu.ɾa/"
+    },
+    {
+      "translation": "Language",
+      "word": "Idioma",
+      "phonetic": "/iˈðjo.ma/",
+      "usage": "Estoy aprendiendo el idioma español porque quiero viajar a Latinoamérica y poder comunicarme con la gente local sin problemas."
+    },
+    {
+      "phonetic": "/entenˈdeɾ/",
+      "usage": "No entiendo lo que dice el guía turístico porque habla muy rápido y usa palabras difíciles que no conozco todavía.",
+      "translation": "To understand",
+      "word": "Entender"
+    },
+    {
+      "word": "Hablar",
+      "translation": "To speak",
+      "phonetic": "/aˈβlaɾ/",
+      "usage": "Quiero aprender a hablar español con fluidez para poder viajar por España y Latinoamérica sin necesitar un traductor siempre."
+    },
+    {
+      "phonetic": "/apɾenˈdeɾ/",
+      "word": "Aprender",
+      "translation": "To learn",
+      "usage": "Estoy aprendiendo francés porque el próximo año voy a vivir en París durante seis meses para trabajar en una empresa."
+    },
+    {
+      "translation": "To teach",
+      "usage": "Mi amigo me está enseñando italiano porque vamos a viajar juntos a Italia el próximo verano para visitar Roma y Venecia.",
+      "phonetic": "/enseˈɲaɾ/",
+      "word": "Enseñar"
+    },
+    {
+      "translation": "To know",
+      "word": "Saber",
+      "phonetic": "/saˈβeɾ/",
+      "usage": "No sé cómo llegar al museo desde aquí, necesito preguntar a alguien o buscar en el mapa de la ciudad."
+    },
+    {
+      "usage": "Quiero conocer gente nueva cuando viajo para hacer amigos de diferentes países y aprender sobre sus culturas y tradiciones únicas.",
+      "word": "Conocer",
+      "translation": "To know / meet",
+      "phonetic": "/konoˈseɾ/"
+    },
+    {
+      "word": "Visitar",
+      "translation": "To visit",
+      "usage": "Voy a visitar el Museo del Prado en Madrid mañana para ver las pinturas famosas de Velázquez y Goya que admiro.",
+      "phonetic": "/bisiˈtaɾ/"
+    },
+    {
+      "word": "Mirar",
+      "usage": "Me gusta mirar la arquitectura antigua de las ciudades europeas y tomar fotos de los edificios históricos hermosos y únicos.",
+      "translation": "To look at",
+      "phonetic": "/miˈɾaɾ/"
+    },
+    {
+      "word": "Ver",
+      "translation": "To see",
+      "usage": "Quiero ver la Torre Eiffel cuando vaya a París porque es el símbolo más famoso de Francia y de la ciudad.",
+      "phonetic": "/beɾ/"
+    },
+    {
+      "phonetic": "/eskuˈtʃaɾ/",
+      "usage": "Me gusta escuchar música local cuando viajo para conocer mejor la cultura y las tradiciones del país que estoy visitando.",
+      "word": "Escuchar",
+      "translation": "To listen"
+    },
+    {
+      "translation": "To hear",
+      "phonetic": "/oˈiɾ/",
+      "usage": "Puedo oír el sonido del mar desde mi habitación del hotel porque está muy cerca de la playa hermosa y tranquila.",
+      "word": "Oír"
+    },
+    {
+      "phonetic": "/disfɾuˈtaɾ/",
+      "word": "Disfrutar",
+      "translation": "To enjoy",
+      "usage": "Voy a disfrutar mis vacaciones en la playa descansando, nadando en el mar y tomando el sol todos los días sin preocupaciones."
+    },
+    {
+      "translation": "To rest",
+      "phonetic": "/deskanˈsaɾ/",
+      "usage": "Necesito descansar después del largo vuelo de doce horas desde América porque estoy muy cansado y con jet lag terrible.",
+      "word": "Descansar"
+    },
+    {
+      "usage": "Nos divertimos mucho en nuestro viaje a Tailandia visitando templos, probando comida exótica y conociendo gente amable y hospitalaria.",
+      "word": "Divertirse",
+      "translation": "To have fun",
+      "phonetic": "/diβeɾˈtiɾ.se/"
+    },
+    {
+      "phonetic": "/eksploˈɾaɾ/",
+      "word": "Explorar",
+      "usage": "Me encanta explorar ciudades nuevas caminando por sus calles, descubriendo lugares escondidos y probando la comida local auténtica en mercados.",
+      "translation": "To explore"
+    },
+    {
+      "word": "Caminar",
+      "translation": "To walk",
+      "phonetic": "/kamiˈnaɾ/",
+      "usage": "Prefiero caminar por la ciudad en lugar de tomar el metro porque puedo ver más cosas interesantes y conocer mejor el lugar."
+    },
+    {
+      "translation": "To ride",
+      "phonetic": "/monˈtaɾ/",
+      "usage": "Voy a montar en bicicleta por el parque esta tarde para hacer ejercicio y disfrutar del buen tiempo soleado de primavera.",
+      "word": "Montar"
+    },
+    {
+      "usage": "Me gusta nadar en el mar cuando voy a la playa porque el agua salada es refrescante y las olas son divertidas.",
+      "translation": "To swim",
+      "phonetic": "/naˈðaɾ/",
+      "word": "Nadar"
+    },
+    {
+      "usage": "Salgo a correr todas las mañanas por el parque cerca de mi hotel para mantenerme en forma durante mis vacaciones largas.",
+      "translation": "To run",
+      "word": "Correr",
+      "phonetic": "/koˈreɾ/"
+    },
+    {
+      "word": "Saltar",
+      "usage": "Los niños saltan de alegría cuando ven el mar por primera vez durante nuestras vacaciones familiares en la costa mediterránea.",
+      "translation": "To jump",
+      "phonetic": "/salˈtaɾ/"
+    },
+    {
+      "translation": "To dance",
+      "phonetic": "/baiˈlaɾ/",
+      "usage": "Fuimos a bailar salsa en un club nocturno de La Habana y fue una experiencia increíble con música en vivo fantástica.",
+      "word": "Bailar"
+    },
+    {
+      "phonetic": "/kanˈtaɾ/",
+      "usage": "Me gusta cantar canciones locales cuando viajo para practicar el idioma y conectarme con la cultura del lugar que visito.",
+      "translation": "To sing",
+      "word": "Cantar"
+    },
+    {
+      "word": "Comer",
+      "phonetic": "/koˈmeɾ/",
+      "translation": "To eat",
+      "usage": "Quiero comer paella auténtica cuando visite Valencia porque es el plato más famoso de esa región de España mediterránea."
+    },
+    {
+      "phonetic": "/beˈβeɾ/",
+      "translation": "To drink",
+      "usage": "Voy a beber vino tinto español durante mi viaje porque es famoso en todo el mundo por su calidad excelente y sabor único.",
+      "word": "Beber"
+    },
+    {
+      "usage": "Necesito dormir bien esta noche porque mañana tenemos un día largo de turismo visitando museos y monumentos históricos de la ciudad antigua.",
+      "word": "Dormir",
+      "translation": "To sleep",
+      "phonetic": "/doɾˈmiɾ/"
+    }
+  ]
+}

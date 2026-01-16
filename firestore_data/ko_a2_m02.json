@@ -1,0 +1,627 @@
+{
+  "moduleId": "ko_a2_m02",
+  "theme": "Work & Career",
+  "title": "Work & Career",
+  "level": "a2",
+  "language": "korean",
+  "order": 2,
+  "lessons": [
+    {
+      "order": 1,
+      "vocabularyItems": [
+        {
+          "word": "결재하다",
+          "reading": "Gyeol-jae-hada",
+          "meaning": "To get/give formal approval",
+          "example_sentence": "부장님께 결재를 받아야 프로젝트를 시작할 수 있어요. (I can start the project only after getting approval from the department head.)"
+        },
+        {
+          "word": "보고하다",
+          "reading": "Bogo-hada",
+          "meaning": "To report (to a superior)",
+          "example_sentence": "사원은 매주 팀장님께 진행 상황을 보고해야 합니다. (Employees must report progress to the team leader every week.)"
+        },
+        {
+          "word": "근무하다",
+          "reading": "Geunmu-hada",
+          "meaning": "To work / To be on duty",
+          "example_sentence": "주 5일 근무하고 있습니다. (I work 5 days a week.)"
+        },
+        {
+          "word": "퇴사하다",
+          "reading": "Toesa-hada",
+          "meaning": "To resign / To leave a company",
+          "example_sentence": "더 나은 기회를 위해 퇴사하기로 결정했어요. (I decided to resign for a better opportunity.)"
+        },
+        {
+          "word": "담당하다",
+          "reading": "Damdang-hada",
+          "meaning": "To be in charge of / responsible for",
+          "example_sentence": "저는 마케팅 부서를 담당하고 있습니다. (I am in charge of the marketing department.)"
+        },
+        {
+          "word": "회의하다",
+          "reading": "Hoeui-hada",
+          "meaning": "To have a professional meeting",
+          "example_sentence": "오후 2시에 이사님과 회의하기로 했어요. (I'm scheduled to have a meeting with the director at 2 PM.)"
+        },
+        {
+          "word": "진급하다",
+          "reading": "Jin-geup-hada",
+          "meaning": "To be promoted",
+          "example_sentence": "3년 만에 대리에서 과장으로 진급했습니다. (I was promoted from assistant manager to section chief after 3 years.)"
+        },
+        {
+          "word": "이력서",
+          "reading": "Iryeokseo",
+          "meaning": "Resume / CV",
+          "example_sentence": "이력서를 작성해서 회사에 제출했어요. (I wrote my resume and submitted it to the company.)"
+        },
+        {
+          "word": "자기소개서",
+          "reading": "Jagisogaeseo",
+          "meaning": "Cover letter / Personal statement",
+          "example_sentence": "자기소개서에 지원 동기를 자세히 써야 해요. (You must write your motivation for applying in detail in the cover letter.)"
+        },
+        {
+          "word": "면접",
+          "reading": "Myeonjeop",
+          "meaning": "Job interview",
+          "example_sentence": "다음 주 월요일에 최종 면접이 있습니다. (I have the final interview next Monday.)"
+        },
+        {
+          "word": "채용",
+          "reading": "Chaeyong",
+          "meaning": "Recruitment / Hiring",
+          "example_sentence": "우리 회사는 신입 사원 채용을 시작했어요. (Our company has started recruiting new employees.)"
+        },
+        {
+          "word": "지원하다",
+          "reading": "Jiwonhada",
+          "meaning": "To apply (for a job)",
+          "example_sentence": "대기업에 지원했지만 떨어졌어요. (I applied to a large corporation but was rejected.)"
+        },
+        {
+          "word": "합격",
+          "reading": "Hapgyeok",
+          "meaning": "Passing / Acceptance",
+          "example_sentence": "면접에 합격해서 다음 달부터 일하게 됐어요. (I passed the interview and will start working next month.)"
+        },
+        {
+          "word": "불합격",
+          "reading": "Bulhapgyeok",
+          "meaning": "Failure / Rejection",
+          "example_sentence": "불합격 통보를 받고 실망했어요. (I was disappointed after receiving the rejection notice.)"
+        },
+        {
+          "word": "경력",
+          "reading": "Gyeongnyeok",
+          "meaning": "Career / Work experience",
+          "example_sentence": "이 직무는 3년 이상의 경력이 필요합니다. (This position requires at least 3 years of experience.)"
+        },
+        {
+          "word": "신규",
+          "reading": "Singyu",
+          "meaning": "New / Newly hired",
+          "example_sentence": "신규 직원 오리엔테이션이 있어요. (There is a new employee orientation.)"
+        },
+        {
+          "word": "경력직",
+          "reading": "Gyeongnyeokjik",
+          "meaning": "Experienced hire / Career position",
+          "example_sentence": "경력직 채용은 수시로 진행됩니다. (Career position recruitment is conducted on a rolling basis.)"
+        },
+        {
+          "word": "인턴",
+          "reading": "Inteon",
+          "meaning": "Intern",
+          "example_sentence": "여름 방학 동안 인턴으로 일했어요. (I worked as an intern during summer vacation.)"
+        },
+        {
+          "word": "정규직",
+          "reading": "Jeonggyujik",
+          "meaning": "Permanent employee / Full-time",
+          "example_sentence": "인턴 기간이 끝나면 정규직으로 전환될 수 있어요. (After the internship period, you can be converted to a permanent employee.)"
+        },
+        {
+          "word": "계약직",
+          "reading": "Gyeyakjik",
+          "meaning": "Contract employee / Temporary",
+          "example_sentence": "계약직으로 1년 동안 근무하기로 했어요. (I agreed to work as a contract employee for one year.)"
+        },
+        {
+          "word": "프리랜서",
+          "reading": "Peurilaenseo",
+          "meaning": "Freelancer",
+          "example_sentence": "회사를 그만두고 프리랜서로 활동하고 있어요. (I quit the company and am working as a freelancer.)"
+        },
+        {
+          "word": "재택근무",
+          "reading": "Jaetaekgeunmu",
+          "meaning": "Remote work / Work from home",
+          "example_sentence": "코로나 이후로 재택근무를 하고 있습니다. (I've been working from home since COVID.)"
+        },
+        {
+          "word": "출장",
+          "reading": "Chuljang",
+          "meaning": "Business trip",
+          "example_sentence": "다음 주에 부산으로 출장을 가야 해요. (I have to go on a business trip to Busan next week.)"
+        },
+        {
+          "word": "야근",
+          "reading": "Yageun",
+          "meaning": "Overtime work",
+          "example_sentence": "프로젝트 마감일이 다가와서 야근을 해야 합니다. (The project deadline is approaching, so I have to work overtime.)"
+        },
+        {
+          "word": "휴직",
+          "reading": "Hyujik",
+          "meaning": "Leave of absence",
+          "example_sentence": "1년간 휴직을 신청했습니다. (I applied for a one-year leave of absence.)"
+        },
+        {
+          "word": "연차",
+          "reading": "Yeoncha",
+          "meaning": "Annual leave",
+          "example_sentence": "올해 연차가 15일 남았어요. (I have 15 days of annual leave remaining this year.)"
+        },
+        {
+          "word": "병가",
+          "reading": "Byeongga",
+          "meaning": "Sick leave",
+          "example_sentence": "독감에 걸려서 병가를 냈어요. (I took sick leave because I caught the flu.)"
+        },
+        {
+          "word": "육아휴직",
+          "reading": "Yugahyujik",
+          "meaning": "Parental leave",
+          "example_sentence": "아이가 태어나서 육아휴직을 신청했습니다. (I applied for parental leave because my child was born.)"
+        },
+        {
+          "word": "급여",
+          "reading": "Geupyeo",
+          "meaning": "Salary / Pay",
+          "example_sentence": "급여는 매월 25일에 지급됩니다. (Salary is paid on the 25th of every month.)"
+        },
+        {
+          "word": "월급",
+          "reading": "Wolgeup",
+          "meaning": "Monthly salary",
+          "example_sentence": "월급이 통장에 들어왔어요. (My monthly salary was deposited into my account.)"
+        },
+        {
+          "word": "연봉",
+          "reading": "Yeonbong",
+          "meaning": "Annual salary",
+          "example_sentence": "연봉 협상을 통해 조건을 개선했어요. (I improved the conditions through annual salary negotiation.)"
+        },
+        {
+          "word": "보너스",
+          "reading": "Boneoseu",
+          "meaning": "Bonus",
+          "example_sentence": "연말에 성과급으로 보너스를 받았어요. (I received a bonus as a performance incentive at the end of the year.)"
+        },
+        {
+          "word": "수당",
+          "reading": "Sudang",
+          "meaning": "Allowance / Subsidy",
+          "example_sentence": "야근 수당이 별도로 지급됩니다. (Overtime allowance is paid separately.)"
+        },
+        {
+          "word": "복지",
+          "reading": "Bokji",
+          "meaning": "Welfare / Benefits",
+          "example_sentence": "이 회사는 직원 복지가 잘 되어 있어요. (This company has good employee welfare.)"
+        },
+        {
+          "word": "4대보험",
+          "reading": "Sadaeboheom",
+          "meaning": "Four major insurances (Korea)",
+          "example_sentence": "정규직은 4대보험에 가입되어 있습니다. (Permanent employees are enrolled in the four major insurances.)"
+        },
+        {
+          "word": "퇴직금",
+          "reading": "Toejikgeum",
+          "meaning": "Severance pay / Retirement allowance",
+          "example_sentence": "1년 이상 근무하면 퇴직금을 받을 수 있어요. (You can receive severance pay if you work for more than one year.)"
+        },
+        {
+          "word": "사직서",
+          "reading": "Sajikseo",
+          "meaning": "Resignation letter",
+          "example_sentence": "사직서를 제출하고 2주 후에 퇴사했어요. (I submitted my resignation letter and left the company two weeks later.)"
+        },
+        {
+          "word": "해고",
+          "reading": "Haego",
+          "meaning": "Dismissal / Firing",
+          "example_sentence": "부당 해고를 당해서 노동청에 신고했어요. (I was unfairly dismissed, so I reported it to the labor office.)"
+        },
+        {
+          "word": "업무",
+          "reading": "Eommu",
+          "meaning": "Work / Task / Duty",
+          "example_sentence": "오늘 업무가 많아서 바빠요. (I'm busy today because I have a lot of work.)"
+        },
+        {
+          "word": "과제",
+          "reading": "Gwaje",
+          "meaning": "Assignment / Task",
+          "example_sentence": "과장님이 새로운 과제를 주셨어요. (The section chief gave me a new assignment.)"
+        },
+        {
+          "word": "프로젝트",
+          "reading": "Peurojekteu",
+          "meaning": "Project",
+          "example_sentence": "이번 프로젝트는 6개월 동안 진행됩니다. (This project will run for 6 months.)"
+        },
+        {
+          "word": "납기",
+          "reading": "Napgi",
+          "meaning": "Delivery deadline / Due date",
+          "example_sentence": "납기일을 맞추기 위해 노력하고 있어요. (I'm working hard to meet the delivery deadline.)"
+        },
+        {
+          "word": "기한",
+          "reading": "Gihan",
+          "meaning": "Time limit / Due date",
+          "example_sentence": "기한 내에 제출하지 않으면 감점됩니다. (Points will be deducted if not submitted within the time limit.)"
+        },
+        {
+          "word": "성과",
+          "reading": "Seonggwa",
+          "meaning": "Performance / Achievement",
+          "example_sentence": "올해 좋은 성과를 내서 포상을 받았어요. (I received an award for good performance this year.)"
+        },
+        {
+          "word": "평가",
+          "reading": "Pyeongga",
+          "meaning": "Evaluation / Assessment",
+          "example_sentence": "연말에 인사 평가가 있습니다. (There is a personnel evaluation at the end of the year.)"
+        },
+        {
+          "word": "지표",
+          "reading": "Jipyo",
+          "meaning": "Indicator / Metric",
+          "example_sentence": "핵심 성과 지표를 설정했어요. (We set key performance indicators.)"
+        },
+        {
+          "word": "실적",
+          "reading": "Siljeok",
+          "meaning": "Results / Track record",
+          "example_sentence": "영업 실적이 좋아서 팀장님께 칭찬받았어요. (I was praised by the team leader for good sales results.)"
+        },
+        {
+          "word": "능력",
+          "reading": "Neungnyeok",
+          "meaning": "Ability / Capability",
+          "example_sentence": "이 일은 전문적인 능력이 필요해요. (This job requires professional capability.)"
+        },
+        {
+          "word": "자격증",
+          "reading": "Jagyeokjeung",
+          "meaning": "Certificate / License",
+          "example_sentence": "회계사 자격증을 따기 위해 공부하고 있어요. (I'm studying to get an accountant's certificate.)"
+        },
+        {
+          "word": "학력",
+          "reading": "Haknyeok",
+          "meaning": "Educational background",
+          "example_sentence": "이 회사는 학력보다 능력을 중시해요. (This company values ability over educational background.)"
+        },
+        {
+          "word": "전공",
+          "reading": "Jeongong",
+          "meaning": "Major / Specialty",
+          "example_sentence": "대학교에서 경영학을 전공했어요. (I majored in business administration at university.)"
+        },
+        {
+          "word": "실무",
+          "reading": "Silmu",
+          "meaning": "Practical work / Hands-on experience",
+          "example_sentence": "실무 경험이 풍부한 지원자를 찾고 있어요. (We're looking for candidates with rich practical experience.)"
+        },
+        {
+          "word": "기술",
+          "reading": "Gisul",
+          "meaning": "Skill / Technology",
+          "example_sentence": "컴퓨터 기술이 필수적이에요. (Computer skills are essential.)"
+        },
+        {
+          "word": "전문성",
+          "reading": "Jeonmunseong",
+          "meaning": "Expertise / Professionalism",
+          "example_sentence": "이 분야에서 전문성을 인정받고 있어요. (I'm recognized for my expertise in this field.)"
+        },
+        {
+          "word": "역량",
+          "reading": "Yeongnyeong",
+          "meaning": "Competence / Capacity",
+          "example_sentence": "리더십 역량을 키우기 위해 교육을 받았어요. (I received training to develop leadership competence.)"
+        },
+        {
+          "word": "이메일",
+          "reading": "Imeil",
+          "meaning": "Email",
+          "example_sentence": "부장님께 이메일로 보고서를 보냈어요. (I sent the report to the department head via email.)"
+        },
+        {
+          "word": "회신",
+          "reading": "Hoesin",
+          "meaning": "Reply / Response",
+          "example_sentence": "이메일 회신을 기다리고 있습니다. (I'm waiting for an email reply.)"
+        },
+        {
+          "word": "참조",
+          "reading": "Chamjo",
+          "meaning": "CC (carbon copy) / Reference",
+          "example_sentence": "팀장님을 참조에 넣어서 이메일을 보냈어요. (I sent the email with the team leader in CC.)"
+        },
+        {
+          "word": "첨부",
+          "reading": "Cheombu",
+          "meaning": "Attachment",
+          "example_sentence": "첨부 파일을 확인해 주세요. (Please check the attached file.)"
+        },
+        {
+          "word": "문서",
+          "reading": "Munseo",
+          "meaning": "Document",
+          "example_sentence": "중요한 문서는 보안 폴더에 저장하세요. (Save important documents in the secure folder.)"
+        },
+        {
+          "word": "자료",
+          "reading": "Jaryo",
+          "meaning": "Data / Materials",
+          "example_sentence": "회의 자료를 준비해야 합니다. (I need to prepare meeting materials.)"
+        },
+        {
+          "word": "발표",
+          "reading": "Balpyo",
+          "meaning": "Presentation",
+          "example_sentence": "내일 임원들 앞에서 발표를 해야 해요. (I have to give a presentation in front of executives tomorrow.)"
+        },
+        {
+          "word": "기획",
+          "reading": "Gihoek",
+          "meaning": "Planning / Proposal",
+          "example_sentence": "신제품 기획안을 작성하고 있어요. (I'm writing a new product proposal.)"
+        },
+        {
+          "word": "전략",
+          "reading": "Jeonryak",
+          "meaning": "Strategy",
+          "example_sentence": "마케팅 전략을 수립했습니다. (I established a marketing strategy.)"
+        },
+        {
+          "word": "분석",
+          "reading": "Bunseok",
+          "meaning": "Analysis",
+          "example_sentence": "시장 분석 결과를 보고했어요. (I reported the market analysis results.)"
+        },
+        {
+          "word": "조사",
+          "reading": "Josa",
+          "meaning": "Research / Investigation",
+          "example_sentence": "고객 만족도 조사를 실시했어요. (We conducted a customer satisfaction survey.)"
+        },
+        {
+          "word": "통계",
+          "reading": "Tonggye",
+          "meaning": "Statistics",
+          "example_sentence": "통계 자료를 바탕으로 보고서를 작성했어요. (I wrote the report based on statistical data.)"
+        },
+        {
+          "word": "예산",
+          "reading": "Yesan",
+          "meaning": "Budget",
+          "example_sentence": "이번 프로젝트 예산은 5천만 원입니다. (The budget for this project is 50 million won.)"
+        },
+        {
+          "word": "비용",
+          "reading": "Biyong",
+          "meaning": "Cost / Expense",
+          "example_sentence": "출장 비용을 청구했어요. (I claimed the business trip expenses.)"
+        },
+        {
+          "word": "수익",
+          "reading": "Suik",
+          "meaning": "Profit / Revenue",
+          "example_sentence": "올해 수익이 작년보다 증가했어요. (This year's profit increased compared to last year.)"
+        },
+        {
+          "word": "손실",
+          "reading": "Sonsil",
+          "meaning": "Loss",
+          "example_sentence": "투자 실패로 큰 손실을 봤어요. (We suffered a big loss due to failed investment.)"
+        },
+        {
+          "word": "계약",
+          "reading": "Gyeyak",
+          "meaning": "Contract / Agreement",
+          "example_sentence": "새로운 거래처와 계약을 체결했어요. (We signed a contract with a new client.)"
+        },
+        {
+          "word": "거래",
+          "reading": "Georae",
+          "meaning": "Transaction / Deal",
+          "example_sentence": "해외 거래가 늘어나고 있어요. (Overseas transactions are increasing.)"
+        },
+        {
+          "word": "의뢰인",
+          "reading": "Uiroein",
+          "meaning": "Client / Customer (formal)",
+          "example_sentence": "의뢰인의 요구사항을 충족시켰어요. (We met the client's requirements.)"
+        },
+        {
+          "word": "거래처",
+          "reading": "Georaecheo",
+          "meaning": "Business partner / Client company",
+          "example_sentence": "주요 거래처와 미팅이 있어요. (I have a meeting with a major business partner.)"
+        },
+        {
+          "word": "납품",
+          "reading": "Nappum",
+          "meaning": "Delivery / Supply",
+          "example_sentence": "제품 납품이 지연되고 있습니다. (Product delivery is being delayed.)"
+        },
+        {
+          "word": "주문",
+          "reading": "Jumun",
+          "meaning": "Order",
+          "example_sentence": "대량 주문이 들어왔어요. (A large order came in.)"
+        },
+        {
+          "word": "견적",
+          "reading": "Gyeonjeok",
+          "meaning": "Quotation / Estimate",
+          "example_sentence": "견적서를 보내드렸습니다. (I sent you the quotation.)"
+        },
+        {
+          "word": "협상",
+          "reading": "Hyeopsang",
+          "meaning": "Negotiation",
+          "example_sentence": "가격 협상이 잘 진행되고 있어요. (Price negotiation is going well.)"
+        },
+        {
+          "word": "경쟁",
+          "reading": "Gyeongjaeng",
+          "meaning": "Competition",
+          "example_sentence": "시장 경쟁이 치열해요. (Market competition is fierce.)"
+        },
+        {
+          "word": "경쟁사",
+          "reading": "Gyeongjaengsa",
+          "meaning": "Competitor / Rival company",
+          "example_sentence": "경쟁사의 신제품을 분석했어요. (I analyzed the competitor's new product.)"
+        },
+        {
+          "word": "업계",
+          "reading": "Eopgye",
+          "meaning": "Industry / Business sector",
+          "example_sentence": "IT 업계에서 일하고 있어요. (I work in the IT industry.)"
+        },
+        {
+          "word": "산업",
+          "reading": "Saneop",
+          "meaning": "Industry",
+          "example_sentence": "IT 산업이 빠르게 성장하고 있어요. (The IT industry is growing rapidly.)"
+        },
+        {
+          "word": "분야",
+          "reading": "Bunya",
+          "meaning": "Field / Sector",
+          "example_sentence": "이 분야에서 10년 경력이 있어요. (I have 10 years of experience in this field.)"
+        },
+        {
+          "word": "부서",
+          "reading": "Buseo",
+          "meaning": "Department / Division",
+          "example_sentence": "인사 부서로 이동했어요. (I transferred to the HR department.)"
+        },
+        {
+          "word": "팀",
+          "reading": "Tim",
+          "meaning": "Team",
+          "example_sentence": "우리 팀은 5명으로 구성되어 있어요. (Our team consists of 5 people.)"
+        },
+        {
+          "word": "본사",
+          "reading": "Bonsa",
+          "meaning": "Head office / Headquarters",
+          "example_sentence": "본사에서 중요한 공지가 왔어요. (An important notice came from headquarters.)"
+        },
+        {
+          "word": "지사",
+          "reading": "Jisa",
+          "meaning": "Branch office",
+          "example_sentence": "부산 지사로 발령받았어요. (I was assigned to the Busan branch office.)"
+        },
+        {
+          "word": "사무실",
+          "reading": "Samusil",
+          "meaning": "Office",
+          "example_sentence": "새 사무실로 이사했어요. (We moved to a new office.)"
+        },
+        {
+          "word": "책상",
+          "reading": "Chaeksang",
+          "meaning": "Desk",
+          "example_sentence": "책상을 정리하고 퇴근했어요. (I organized my desk and left work.)"
+        },
+        {
+          "word": "PC",
+          "reading": "PC",
+          "meaning": "Personal computer",
+          "example_sentence": "PC를 재부팅해야 해요. (I need to reboot the PC.)"
+        },
+        {
+          "word": "프린터",
+          "reading": "Peurinteo",
+          "meaning": "Printer",
+          "example_sentence": "프린터 용지가 떨어졌어요. (The printer ran out of paper.)"
+        },
+        {
+          "word": "복사기",
+          "reading": "Boksagi",
+          "meaning": "Copier / Copy machine",
+          "example_sentence": "복사기가 작동하지 않아요. (The copier isn't working.)"
+        },
+        {
+          "word": "명함",
+          "reading": "Myeongham",
+          "meaning": "Business card",
+          "example_sentence": "명함을 교환했습니다. (We exchanged business cards.)"
+        },
+        {
+          "word": "직함",
+          "reading": "Jikham",
+          "meaning": "Job title / Position",
+          "example_sentence": "명함에 직함이 적혀 있어요. (The job title is written on the business card.)"
+        },
+        {
+          "word": "법인",
+          "reading": "Beobin",
+          "meaning": "Corporation / Legal entity",
+          "example_sentence": "법인을 설립했습니다. (We established a corporation.)"
+        },
+        {
+          "word": "기업",
+          "reading": "Gieop",
+          "meaning": "Enterprise / Corporation",
+          "example_sentence": "대기업에 취직하는 게 목표예요. (My goal is to get a job at a large corporation.)"
+        },
+        {
+          "word": "중소기업",
+          "reading": "Jungsogieop",
+          "meaning": "Small and medium enterprise (SME)",
+          "example_sentence": "중소기업도 좋은 기회가 많아요. (SMEs also have many good opportunities.)"
+        },
+        {
+          "word": "스타트업",
+          "reading": "Seutateueop",
+          "meaning": "Startup",
+          "example_sentence": "스타트업에서 일하면 다양한 경험을 할 수 있어요. (Working at a startup allows you to gain diverse experience.)"
+        },
+        {
+          "word": "직장",
+          "reading": "Jikjang",
+          "meaning": "Workplace / Job",
+          "example_sentence": "직장 생활이 처음이라 적응하는 중이에요. (It's my first time working, so I'm still adapting.)"
+        }
+      ]
+    }
+  ],
+  "liar_game_data": {
+    "topic": "Korean Business Card Etiquette",
+    "question": "In Korean business culture, what is the proper way to receive a business card (명함) from a superior?",
+    "options": [
+      "Take it with one hand and put it in your pocket immediately",
+      "Receive it with both hands, read it carefully, then place it on the table",
+      "Receive it with your left hand only",
+      "Fold it and put it in your wallet right away"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "In Korean business culture, you must receive a business card with both hands as a sign of respect. After receiving it, you should read it carefully to show interest and respect for the person's position. Then, place it on the table in front of you during the meeting. Never put it away immediately or write on it, as this is considered disrespectful."
+  }
+}

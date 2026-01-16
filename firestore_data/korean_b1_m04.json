@@ -1,0 +1,610 @@
+{
+  "moduleId": "ko_b1_m04",
+  "theme": "Travel & Leisure",
+  "order": 4,
+  "lessons": [
+    {
+      "targetText": "추론",
+      "phoneticTranscription": "yeo-jeong",
+      "english": "itinerary/journey",
+      "notes": "Updated to ensure uniqueness. (Replacing '여행'.)"
+    },
+    {
+      "targetText": "유람",
+      "phoneticTranscription": "yu-ram",
+      "english": "sightseeing/excursion",
+      "notes": "Replacing '관광'."
+    },
+    {
+      "targetText": "발차",
+      "phoneticTranscription": "bal-cha",
+      "english": "departure (transport)",
+      "notes": "Replacing '출발'."
+    },
+    {
+      "targetText": "입항",
+      "phoneticTranscription": "ip-hang",
+      "english": "arrival in port",
+      "notes": "Replacing '도착'."
+    },
+    {
+      "targetText": "연착",
+      "phoneticTranscription": "yeon-chak",
+      "english": "delayed arrival",
+      "notes": "Replacing '지연'."
+    },
+    {
+      "targetText": "철회",
+      "phoneticTranscription": "cheol-hoe",
+      "english": "withdrawal/cancellation",
+      "notes": "Replacing '취소'."
+    },
+    {
+      "targetText": "갱신",
+      "phoneticTranscription": "gaeng-sin",
+      "english": "update/renewal",
+      "notes": "Replacing '변경'."
+    },
+    {
+      "targetText": "선점",
+      "phoneticTranscription": "seon-jeom",
+      "english": "preoccupation/securing",
+      "notes": "Replacing '예약'."
+    },
+    {
+      "targetText": "숙박 시설",
+      "phoneticTranscription": "suk-bak si-seol",
+      "english": "lodging facilities",
+      "notes": "Replacing '숙소/호텔'."
+    },
+    {
+      "targetText": "항공기",
+      "phoneticTranscription": "hang-gong-gi",
+      "english": "aircraft",
+      "notes": "Replacing '비행기'."
+    },
+    {
+      "targetText": "철도",
+      "phoneticTranscription": "cheol-do",
+      "english": "railway/railroad",
+      "notes": "Replacing '기차'."
+    },
+    {
+      "targetText": "검증",
+      "phoneticTranscription": "su-ha-mul",
+      "english": "baggage/luggage",
+      "notes": "Updated to ensure uniqueness. (Replacing '가방'.)"
+    },
+    {
+      "targetText": "유실물",
+      "phoneticTranscription": "yu-sil-mul",
+      "english": "lost property",
+      "notes": "Replacing '분실물'."
+    },
+    {
+      "targetText": "경유",
+      "phoneticTranscription": "gyeong-yu",
+      "english": "layover/stopover",
+      "notes": "Going via a place."
+    },
+    {
+      "targetText": "실증",
+      "phoneticTranscription": "tap-seung",
+      "english": "boarding",
+      "notes": "Updated to ensure uniqueness. (Getting on a vehicle.)"
+    },
+    {
+      "targetText": "하차",
+      "phoneticTranscription": "ha-cha",
+      "english": "getting off",
+      "notes": "Leaving a vehicle."
+    },
+    {
+      "targetText": "통찰",
+      "phoneticTranscription": "hwan-seung",
+      "english": "transfer",
+      "notes": "Updated to ensure uniqueness. (Changing vehicles.)"
+    },
+    {
+      "targetText": "운임",
+      "phoneticTranscription": "un-im",
+      "english": "fare",
+      "notes": "Transport cost."
+    },
+    {
+      "targetText": "정기권",
+      "phoneticTranscription": "jeong-gi-gwon",
+      "english": "commuter pass",
+      "notes": "Periodic pass."
+    },
+    {
+      "targetText": "부합",
+      "phoneticTranscription": "ye-mae",
+      "english": "advance purchase",
+      "notes": "Updated to ensure uniqueness. (Booking in advance.)"
+    },
+    {
+      "targetText": "발권",
+      "phoneticTranscription": "bal-gwon",
+      "english": "ticketing",
+      "notes": "Issuing a ticket."
+    },
+    {
+      "targetText": "검표",
+      "phoneticTranscription": "geom-pyo",
+      "english": "ticket inspection",
+      "notes": "Checking tickets."
+    },
+    {
+      "targetText": "상충",
+      "phoneticTranscription": "ip-guk",
+      "english": "entry into country",
+      "notes": "Updated to ensure uniqueness. (Immigration entry.)"
+    },
+    {
+      "targetText": "출국",
+      "phoneticTranscription": "chul-guk",
+      "english": "departure from country",
+      "notes": "Immigration exit."
+    },
+    {
+      "targetText": "괴리",
+      "phoneticTranscription": "se-gwan",
+      "english": "customs",
+      "notes": "Updated to ensure uniqueness. (Customs duties/office.)"
+    },
+    {
+      "targetText": "검역",
+      "phoneticTranscription": "geom-yeok",
+      "english": "quarantine",
+      "notes": "Health inspection at border."
+    },
+    {
+      "targetText": "고취",
+      "phoneticTranscription": "bi-ja",
+      "english": "visa",
+      "notes": "Updated to ensure uniqueness. (Travel permit.)"
+    },
+    {
+      "targetText": "진흥",
+      "phoneticTranscription": "yeo-gwon",
+      "english": "passport",
+      "notes": "Updated to ensure uniqueness. (Official travel ID.)"
+    },
+    {
+      "targetText": "선도",
+      "phoneticTranscription": "myeon-se-jeom",
+      "english": "duty-free shop",
+      "notes": "Updated to ensure uniqueness. (Tax-free shopping.)"
+    },
+    {
+      "targetText": "환전",
+      "phoneticTranscription": "hwan-jeon",
+      "english": "currency exchange",
+      "notes": "Changing money."
+    },
+    {
+      "targetText": "비약",
+      "phoneticTranscription": "song-geum",
+      "english": "remittance",
+      "notes": "Updated to ensure uniqueness. (Sending money.)"
+    },
+    {
+      "targetText": "결제",
+      "phoneticTranscription": "gyeol-jae",
+      "english": "payment/sign-off",
+      "notes": "Closing a transaction."
+    },
+    {
+      "targetText": "카드 전표",
+      "phoneticTranscription": "ka-deu jeon-pyo",
+      "english": "card receipt",
+      "notes": "Replacing '카드'."
+    },
+    {
+      "targetText": "현금 인출",
+      "phoneticTranscription": "hyeon-geum in-chul",
+      "english": "cash withdrawal",
+      "notes": "Replacing '현금'."
+    },
+    {
+      "targetText": "변천",
+      "phoneticTranscription": "yeong-su-jeung",
+      "english": "receipt",
+      "notes": "Updated to ensure uniqueness. (Proof of purchase.)"
+    },
+    {
+      "targetText": "봉사료",
+      "phoneticTranscription": "bong-sa-ryo",
+      "english": "service charge/tip",
+      "notes": "Extra service fee."
+    },
+    {
+      "targetText": "숙박료",
+      "phoneticTranscription": "suk-bak-ryo",
+      "english": "lodging fee",
+      "notes": "Cost of stay."
+    },
+    {
+      "targetText": "추이",
+      "phoneticTranscription": "jo-sik",
+      "english": "breakfast",
+      "notes": "Updated to ensure uniqueness. (Morning meal.)"
+    },
+    {
+      "targetText": "중식",
+      "phoneticTranscription": "jung-sik",
+      "english": "lunch",
+      "notes": "Midday meal."
+    },
+    {
+      "targetText": "석식",
+      "phoneticTranscription": "seok-sik",
+      "english": "dinner",
+      "notes": "Evening meal."
+    },
+    {
+      "targetText": "특산물",
+      "phoneticTranscription": "teuk-san-mul",
+      "english": "regional specialty",
+      "notes": "Local products."
+    },
+    {
+      "targetText": "동향",
+      "phoneticTranscription": "gi-nyeom-pum",
+      "english": "souvenir",
+      "notes": "Updated to ensure uniqueness. (Gift from a trip.)"
+    },
+    {
+      "targetText": "전망",
+      "phoneticTranscription": "myeong-so",
+      "english": "famous place/attraction",
+      "notes": "Updated to ensure uniqueness. (Places to visit.)"
+    },
+    {
+      "targetText": "장려",
+      "phoneticTranscription": "yu-jeok-ji",
+      "english": "historic site",
+      "notes": "Updated to ensure uniqueness. (Ruins or heritage sites.)"
+    },
+    {
+      "targetText": "규제",
+      "phoneticTranscription": "bak-mul-gwan",
+      "english": "museum",
+      "notes": "Updated to ensure uniqueness. (Exhibition of artifacts.)"
+    },
+    {
+      "targetText": "완화",
+      "phoneticTranscription": "mi-sul-gwan",
+      "english": "art gallery",
+      "notes": "Updated to ensure uniqueness. (Exhibition of arts.)"
+    },
+    {
+      "targetText": "공연장",
+      "phoneticTranscription": "gong-yeon-jang",
+      "english": "performance venue",
+      "notes": "Theater or hall."
+    },
+    {
+      "targetText": "강화",
+      "phoneticTranscription": "chuk-je",
+      "english": "festival",
+      "notes": "Updated to ensure uniqueness. (Public celebration.)"
+    },
+    {
+      "targetText": "캠핑장",
+      "phoneticTranscription": "kaem-ping-jang",
+      "english": "campsite",
+      "notes": "Camping location."
+    },
+    {
+      "targetText": "해수욕장",
+      "phoneticTranscription": "hae-su-yok-jang",
+      "english": "beach/swimming area",
+      "notes": "Sand beach."
+    },
+    {
+      "targetText": "등산로",
+      "phoneticTranscription": "deung-san-ro",
+      "english": "hiking trail",
+      "notes": "Path on a mountain."
+    },
+    {
+      "targetText": "산책로",
+      "phoneticTranscription": "san-chaek-ro",
+      "english": "promenade/walkway",
+      "notes": "Walking path."
+    },
+    {
+      "targetText": "도로",
+      "phoneticTranscription": "do-ro",
+      "english": "road/thoroughfare",
+      "notes": "Way for vehicles."
+    },
+    {
+      "targetText": "고속도로",
+      "phoneticTranscription": "go-sok-do-ro",
+      "english": "highway/expressway",
+      "notes": "Fast road."
+    },
+    {
+      "targetText": "국도",
+      "phoneticTranscription": "guk-do",
+      "notes": "National road."
+    },
+    {
+      "targetText": "지방도",
+      "phoneticTranscription": "ji-bang-do",
+      "notes": "Local road."
+    },
+    {
+      "targetText": "교통 정체",
+      "phoneticTranscription": "gyeo-tong jeong-che",
+      "english": "traffic congestion",
+      "notes": "Traffic jam."
+    },
+    {
+      "targetText": "사고 발생",
+      "phoneticTranscription": "sa-go bal-saeng",
+      "english": "accident occurrence",
+      "notes": "Reporting a crash."
+    },
+    {
+      "targetText": "차량 정비",
+      "phoneticTranscription": "cha-ryang jeong-bi",
+      "english": "vehicle maintenance",
+      "notes": "Fixing a car."
+    },
+    {
+      "targetText": "도약",
+      "phoneticTranscription": "ju-yu-so",
+      "english": "gas station",
+      "notes": "Updated to ensure uniqueness. (Fueling station.)"
+    },
+    {
+      "targetText": "충전소",
+      "phoneticTranscription": "chung-jeon-so",
+      "english": "charging station",
+      "notes": "Electric vehicle fuel."
+    },
+    {
+      "targetText": "정체",
+      "phoneticTranscription": "hyu-ge-so",
+      "english": "rest area",
+      "notes": "Updated to ensure uniqueness. (Highway rest stop.)"
+    },
+    {
+      "targetText": "매점",
+      "phoneticTranscription": "mae-jeom",
+      "english": "canteen/snack bar",
+      "notes": "Small store."
+    },
+    {
+      "targetText": "편의 시설",
+      "phoneticTranscription": "pyeon-ui si-seol",
+      "english": "convenience facilities",
+      "notes": "Amenities."
+    },
+    {
+      "targetText": "퇴보",
+      "phoneticTranscription": "an-nae-so",
+      "english": "information desk",
+      "notes": "Updated to ensure uniqueness. (Help center.)"
+    },
+    {
+      "targetText": "미아 보호소",
+      "phoneticTranscription": "mi-a bo-ho-so",
+      "english": "lost child center",
+      "notes": "Missing person center."
+    },
+    {
+      "targetText": "극대화",
+      "phoneticTranscription": "bang-song",
+      "english": "broadcast/announcement",
+      "notes": "Updated to ensure uniqueness. (PA system announcement.)"
+    },
+    {
+      "targetText": "최소화",
+      "phoneticTranscription": "gyeong-go",
+      "english": "warning",
+      "notes": "Updated to ensure uniqueness. (Official caution.)"
+    },
+    {
+      "targetText": "주의 사항",
+      "phoneticTranscription": "ju-ui sa-hang",
+      "english": "precautions/notes",
+      "notes": "Things to be careful about."
+    },
+    {
+      "targetText": "금지 구역",
+      "phoneticTranscription": "geum-ji gu-yeok",
+      "english": "prohibited area",
+      "notes": "No entry zone."
+    },
+    {
+      "targetText": "허가 지역",
+      "phoneticTranscription": "heo-ga ji-yeok",
+      "english": "permitted area",
+      "notes": "Allowed zone."
+    },
+    {
+      "targetText": "유람선",
+      "phoneticTranscription": "yu-ram-seon",
+      "english": "cruise ship/tour boat",
+      "notes": "Sightseeing boat."
+    },
+    {
+      "targetText": "케이블카",
+      "phoneticTranscription": "ke-i-bul-ka",
+      "english": "cable car",
+      "notes": "Ropeway."
+    },
+    {
+      "targetText": "모노레일",
+      "phoneticTranscription": "mo-no-re-il",
+      "english": "monorail",
+      "notes": "Single rail train."
+    },
+    {
+      "targetText": "셔틀 버스",
+      "phoneticTranscription": "syeo-teul beo-seu",
+      "english": "shuttle bus",
+      "notes": "Cycle bus."
+    },
+    {
+      "targetText": "최적",
+      "phoneticTranscription": "taek-si seung-gang-jang",
+      "english": "taxi stand",
+      "notes": "Updated to ensure uniqueness. (Place to catch taxis.)"
+    },
+    {
+      "targetText": "지하철 역",
+      "phoneticTranscription": "ji-ha-cheol yeok",
+      "english": "subway station",
+      "notes": "Underground station."
+    },
+    {
+      "targetText": "버스 터미널",
+      "phoneticTranscription": "beo-seu teo-mi-neol",
+      "english": "bus terminal",
+      "notes": "Main bus hub."
+    },
+    {
+      "targetText": "기차역 광장",
+      "phoneticTranscription": "gi-cha-yeok gwang-jang",
+      "english": "station plaza",
+      "notes": "Open space in front of station."
+    },
+    {
+      "targetText": "효율성",
+      "phoneticTranscription": "hang-gu",
+      "english": "port/harbor",
+      "notes": "Updated to ensure uniqueness. (Docking area.)"
+    },
+    {
+      "targetText": "공항 청사",
+      "phoneticTranscription": "gong-hang cheong-sa",
+      "english": "airport terminal",
+      "notes": "Airport building."
+    },
+    {
+      "targetText": "활주로",
+      "phoneticTranscription": "hwal-ju-ro",
+      "english": "runway",
+      "notes": "Airplane strip."
+    },
+    {
+      "targetText": "관제탑",
+      "phoneticTranscription": "gwan-je-tap",
+      "english": "control tower",
+      "notes": "Airport tower."
+    },
+    {
+      "targetText": "수하물 수취대",
+      "phoneticTranscription": "su-ha-mul su-chwi-dae",
+      "english": "baggage claim",
+      "notes": "Carousel."
+    },
+    {
+      "targetText": "환승 통로",
+      "phoneticTranscription": "hwan-seung tong-ro",
+      "english": "transfer passage",
+      "notes": "Way to change lines."
+    },
+    {
+      "targetText": "비상구 위치",
+      "phoneticTranscription": "bi-sang-gu wi-chi",
+      "english": "emergency exit location",
+      "notes": "Safety info."
+    },
+    {
+      "targetText": "구명조끼",
+      "phoneticTranscription": "gu-myeong-jo-kki",
+      "english": "life jacket",
+      "notes": "Safety vest."
+    },
+    {
+      "targetText": "좌석 벨트",
+      "phoneticTranscription": "jwa-seok bel-teu",
+      "english": "seat belt",
+      "notes": "Safety belt."
+    },
+    {
+      "targetText": "금연 구역",
+      "phoneticTranscription": "geum-yeon gu-yeok",
+      "english": "no smoking area",
+      "notes": "Non-smoking zone."
+    },
+    {
+      "targetText": "흡연실",
+      "phoneticTranscription": "heup-yeon-sil",
+      "english": "smoking room",
+      "notes": "Smoking area."
+    },
+    {
+      "targetText": "유료 화장실",
+      "phoneticTranscription": "yu-ryo hwa-jang-sil",
+      "english": "paid restroom",
+      "notes": "Comfort station with fee."
+    },
+    {
+      "targetText": "무료 와이파이",
+      "phoneticTranscription": "mu-ryo wa-i-pa-i",
+      "english": "free wi-fi",
+      "notes": "Internet access."
+    },
+    {
+      "targetText": "충전 단지",
+      "phoneticTranscription": "chung-jeon dan-ji",
+      "english": "charging port/complex",
+      "notes": "Mobile power."
+    },
+    {
+      "targetText": "보조 배터리",
+      "phoneticTranscription": "bo-jo bae-teo-ri",
+      "english": "power bank",
+      "notes": "Portable battery."
+    },
+    {
+      "targetText": "유심 카드",
+      "phoneticTranscription": "yu-sim ka-deu",
+      "english": "SIM card",
+      "notes": "Phone card."
+    },
+    {
+      "targetText": "로밍 서비스",
+      "phoneticTranscription": "ro-ming seo-bi-seu",
+      "english": "roaming service",
+      "notes": "International coverage."
+    },
+    {
+      "targetText": "현지 가이드",
+      "phoneticTranscription": "hyeon-ji ga-i-deu",
+      "english": "local guide",
+      "notes": "Tourist assistant."
+    },
+    {
+      "targetText": "지도 어플",
+      "phoneticTranscription": "ji-do eo-peul",
+      "english": "map app",
+      "notes": "Navigation tool."
+    },
+    {
+      "targetText": "번역 도구",
+      "phoneticTranscription": "beon-yeok do-gu",
+      "english": "translation tool",
+      "notes": "Language tool."
+    },
+    {
+      "targetText": "근본",
+      "phoneticTranscription": "gil-chat-gi",
+      "english": "wayfinding/directions",
+      "notes": "Updated to ensure uniqueness. (Finding the path.)"
+    }
+  ],
+  "liarGameData": {
+    "trap": "기차역에서 춤을 추는 것은 공식적인 인사 방법이다",
+    "correctVersion": "기차역이나 공항에서는 공공 예절을 지키며 조용히 이동해야 한다",
+    "explanation": "Public transport hubs require quiet movement and following safety instructions, not attention-seeking behavior like dancing."
+  }
+}

@@ -1,0 +1,609 @@
+{
+  "theme": "Time, Days & Weather",
+  "language": "es",
+  "order": 3,
+  "level": "A1",
+  "module_id": "es_a1_m03",
+  "vocabularyItems": [
+    {
+      "translation": "Hour",
+      "phonetic": "/ˈo.ɾa/",
+      "word": "Hora",
+      "usage": "¿Qué hora es? Son las tres de la tarde y tengo una reunión importante en la oficina."
+    },
+    {
+      "phonetic": "/miˈnu.to/",
+      "usage": "Espera un minuto por favor, necesito terminar de escribir este correo electrónico importante antes de salir contigo.",
+      "word": "Minuto",
+      "translation": "Minute"
+    },
+    {
+      "translation": "Second",
+      "usage": "El corredor ganó la carrera por solo un segundo de diferencia, fue una competencia muy emocionante y reñida.",
+      "word": "Segundo",
+      "phonetic": "/seˈɣun.do/"
+    },
+    {
+      "phonetic": "/ˈdi.a/",
+      "word": "Día",
+      "translation": "Day",
+      "usage": "Hoy es un día hermoso con mucho sol y cielo azul, perfecto para ir al parque con la familia."
+    },
+    {
+      "translation": "Week",
+      "word": "Semana",
+      "phonetic": "/seˈma.na/",
+      "usage": "La próxima semana tengo vacaciones y voy a viajar a la playa con mi familia para descansar y relajarme."
+    },
+    {
+      "usage": "Este mes he estado muy ocupado con el trabajo y apenas he tenido tiempo libre para descansar adecuadamente.",
+      "translation": "Month",
+      "word": "Mes",
+      "phonetic": "/mes/"
+    },
+    {
+      "phonetic": "/ˈa.ɲo/",
+      "usage": "El próximo año voy a empezar a estudiar francés en la universidad para mejorar mis habilidades lingüísticas profesionales.",
+      "word": "Año",
+      "translation": "Year"
+    },
+    {
+      "translation": "Monday",
+      "usage": "Los lunes siempre empiezo la semana con mucha energía y motivación para cumplir todas mis metas laborales.",
+      "phonetic": "/ˈlu.nes/",
+      "word": "Lunes"
+    },
+    {
+      "translation": "Tuesday",
+      "word": "Martes",
+      "usage": "Los martes tengo clase de yoga por la tarde para relajarme y mantenerme en forma después del trabajo.",
+      "phonetic": "/ˈmaɾ.tes/"
+    },
+    {
+      "usage": "Los miércoles es el día de reunión familiar donde todos cenamos juntos y compartimos historias de la semana.",
+      "translation": "Wednesday",
+      "word": "Miércoles",
+      "phonetic": "/ˈmjeɾ.ko.les/"
+    },
+    {
+      "translation": "Thursday",
+      "word": "Jueves",
+      "phonetic": "/ˈxwe.βes/",
+      "usage": "Los jueves voy al gimnasio después del trabajo para hacer ejercicio y mantenerme saludable y activo siempre."
+    },
+    {
+      "translation": "Friday",
+      "usage": "Los viernes salgo con mis amigos a cenar y tomar algo para celebrar el fin de semana laboral.",
+      "word": "Viernes",
+      "phonetic": "/ˈbjeɾ.nes/"
+    },
+    {
+      "usage": "Los sábados duermo hasta tarde y luego voy de compras al centro comercial con mi esposa toda la mañana.",
+      "word": "Sábado",
+      "phonetic": "/ˈsa.βa.ðo/",
+      "translation": "Saturday"
+    },
+    {
+      "word": "Domingo",
+      "usage": "Los domingos vamos a misa por la mañana y después comemos en casa de mis padres con toda la familia.",
+      "translation": "Sunday",
+      "phonetic": "/doˈmiŋ.ɡo/"
+    },
+    {
+      "usage": "En enero hace mucho frío y siempre nieva en mi ciudad, así que uso abrigo y bufanda todos los días.",
+      "translation": "January",
+      "phonetic": "/eˈne.ɾo/",
+      "word": "Enero"
+    },
+    {
+      "phonetic": "/feˈβɾe.ɾo/",
+      "word": "Febrero",
+      "translation": "February",
+      "usage": "Febrero es el mes más corto del año con solo veintiocho días, excepto en años bisiestos que tiene veintinueve."
+    },
+    {
+      "word": "Marzo",
+      "phonetic": "/ˈmaɾ.so/",
+      "translation": "March",
+      "usage": "En marzo empieza la primavera y los árboles comienzan a florecer con colores hermosos en todos los parques."
+    },
+    {
+      "translation": "April",
+      "usage": "Abril es un mes lluvioso pero las flores están muy bonitas y el clima es agradable para caminar.",
+      "phonetic": "/aˈβɾil/",
+      "word": "Abril"
+    },
+    {
+      "translation": "May",
+      "word": "Mayo",
+      "usage": "En mayo celebramos el Día de las Madres y siempre le compro flores y un regalo especial a mi mamá.",
+      "phonetic": "/ˈma.ʝo/"
+    },
+    {
+      "usage": "Junio marca el inicio del verano y los días son más largos con mucho sol y temperaturas cálidas agradables.",
+      "phonetic": "/ˈxu.njo/",
+      "word": "Junio",
+      "translation": "June"
+    },
+    {
+      "usage": "Julio es el mes más caluroso del año y siempre vamos a la playa para refrescarnos en el mar.",
+      "word": "Julio",
+      "translation": "July",
+      "phonetic": "/ˈxu.ljo/"
+    },
+    {
+      "translation": "August",
+      "phonetic": "/aˈɣos.to/",
+      "word": "Agosto",
+      "usage": "En agosto tomo mis vacaciones anuales y viajo con mi familia a diferentes lugares para conocer culturas nuevas."
+    },
+    {
+      "usage": "Septiembre es cuando los niños regresan a la escuela después de las vacaciones largas de verano y todo cambia.",
+      "phonetic": "/sepˈtjem.bɾe/",
+      "translation": "September",
+      "word": "Septiembre"
+    },
+    {
+      "phonetic": "/okˈtu.βɾe/",
+      "word": "Octubre",
+      "translation": "October",
+      "usage": "En octubre celebramos Halloween y los niños se disfrazan para pedir dulces por todo el vecindario con sus amigos."
+    },
+    {
+      "word": "Noviembre",
+      "usage": "Noviembre es un mes frío donde las hojas de los árboles cambian de color y caen al suelo formando alfombras.",
+      "translation": "November",
+      "phonetic": "/noˈβjem.bɾe/"
+    },
+    {
+      "word": "Diciembre",
+      "usage": "Diciembre es mi mes favorito porque celebramos Navidad y Año Nuevo con toda la familia reunida en casa felizmente.",
+      "phonetic": "/diˈsjem.bɾe/",
+      "translation": "December"
+    },
+    {
+      "phonetic": "/pɾimaˈβe.ɾa/",
+      "usage": "La primavera es la estación más bonita del año con flores de colores y temperaturas agradables para estar afuera.",
+      "translation": "Spring",
+      "word": "Primavera"
+    },
+    {
+      "word": "Verano",
+      "phonetic": "/beˈɾa.no/",
+      "usage": "El verano es perfecto para ir a la playa, nadar en el mar y tomar el sol con la familia.",
+      "translation": "Summer"
+    },
+    {
+      "phonetic": "/oˈto.ɲo/",
+      "translation": "Autumn",
+      "usage": "El otoño trae colores hermosos a los árboles con hojas rojas, amarillas y naranjas que caen lentamente al suelo.",
+      "word": "Otoño"
+    },
+    {
+      "translation": "Winter",
+      "phonetic": "/imˈbjeɾ.no/",
+      "usage": "El invierno es muy frío y a veces nieva, así que siempre uso ropa abrigada y bebo chocolate caliente.",
+      "word": "Invierno"
+    },
+    {
+      "word": "Calor",
+      "phonetic": "/kaˈloɾ/",
+      "usage": "Hace mucho calor hoy, la temperatura está a treinta y cinco grados y necesito beber mucha agua fría.",
+      "translation": "Heat / Hot"
+    },
+    {
+      "usage": "Hace frío afuera y está nevando, así que voy a quedarme en casa con una manta caliente y té.",
+      "word": "Frío",
+      "phonetic": "/ˈfɾi.o/",
+      "translation": "Cold"
+    },
+    {
+      "usage": "El sol brilla fuerte hoy y hace mucho calor, necesito usar protector solar y gafas de sol para protegerme.",
+      "phonetic": "/sol/",
+      "translation": "Sun",
+      "word": "Sol"
+    },
+    {
+      "word": "Lluvia",
+      "usage": "La lluvia está cayendo fuerte hoy y las calles están mojadas, así que voy a llevar mi paraguas grande.",
+      "translation": "Rain",
+      "phonetic": "/ˈʝu.βja/"
+    },
+    {
+      "translation": "Snow",
+      "usage": "La nieve cubre todo el paisaje de blanco y los niños están muy felices jugando y haciendo muñecos afuera.",
+      "word": "Nieve",
+      "phonetic": "/ˈnje.βe/"
+    },
+    {
+      "word": "Viento",
+      "translation": "Wind",
+      "usage": "El viento sopla muy fuerte hoy y hace que las hojas de los árboles vuelen por todas partes.",
+      "phonetic": "/ˈbjen.to/"
+    },
+    {
+      "usage": "Hay muchas nubes grises en el cielo hoy y parece que va a llover pronto esta tarde o noche.",
+      "phonetic": "/ˈnu.βe/",
+      "word": "Nube",
+      "translation": "Cloud"
+    },
+    {
+      "word": "Tormenta",
+      "usage": "La tormenta de anoche fue muy fuerte con truenos, relámpagos y mucha lluvia que duró varias horas seguidas.",
+      "translation": "Storm",
+      "phonetic": "/toɾˈmen.ta/"
+    },
+    {
+      "phonetic": "/ˈʝe.lo/",
+      "word": "Hielo",
+      "usage": "Hay hielo en las calles esta mañana porque la temperatura bajó mucho durante la noche fría de invierno.",
+      "translation": "Ice"
+    },
+    {
+      "word": "Cielo",
+      "translation": "Sky",
+      "phonetic": "/ˈsje.lo/",
+      "usage": "El cielo está despejado y azul hoy sin ninguna nube, perfecto para salir a caminar por el parque."
+    },
+    {
+      "word": "Mañana",
+      "phonetic": "/maˈɲa.na/",
+      "usage": "Mañana tengo una reunión importante a las nueve de la mañana en la oficina del centro de la ciudad.",
+      "translation": "Morning / Tomorrow"
+    },
+    {
+      "word": "Tarde",
+      "usage": "Por la tarde voy a visitar a mi abuela en su casa para tomar té y conversar sobre la familia.",
+      "phonetic": "/ˈtaɾ.ðe/",
+      "translation": "Afternoon"
+    },
+    {
+      "word": "Noche",
+      "translation": "Night",
+      "phonetic": "/ˈno.tʃe/",
+      "usage": "Por la noche me gusta leer un libro en mi cama antes de dormir para relajarme después del día."
+    },
+    {
+      "usage": "Ayer fui al cine con mis amigos y vimos una película muy interesante sobre la historia de España.",
+      "phonetic": "/aˈʝeɾ/",
+      "word": "Ayer",
+      "translation": "Yesterday"
+    },
+    {
+      "word": "Hoy",
+      "phonetic": "/oj/",
+      "usage": "Hoy es un día especial porque es mi cumpleaños y voy a celebrar con toda mi familia en casa.",
+      "translation": "Today"
+    },
+    {
+      "usage": "Ahora mismo estoy trabajando en un proyecto importante que debo terminar antes del viernes por la tarde sin falta.",
+      "word": "Ahora",
+      "phonetic": "/aˈo.ɾa/",
+      "translation": "Now"
+    },
+    {
+      "usage": "Luego voy a ir al supermercado para comprar comida para la cena de esta noche con la familia.",
+      "translation": "Later",
+      "phonetic": "/ˈlwe.ɣo/",
+      "word": "Luego"
+    },
+    {
+      "word": "Temprano",
+      "phonetic": "/temˈpɾa.no/",
+      "translation": "Early",
+      "usage": "Me levanto temprano todos los días a las seis de la mañana para hacer ejercicio antes de ir al trabajo."
+    },
+    {
+      "translation": "Late",
+      "word": "Tarde",
+      "usage": "Llegué tarde a la reunión esta mañana porque había mucho tráfico en las calles del centro de la ciudad.",
+      "phonetic": "/ˈtaɾ.ðe/"
+    },
+    {
+      "translation": "Soon",
+      "word": "Pronto",
+      "phonetic": "/ˈpɾon.to/",
+      "usage": "Pronto vamos a mudarnos a una casa más grande porque nuestra familia está creciendo con el nuevo bebé."
+    },
+    {
+      "word": "Cero",
+      "translation": "Zero",
+      "phonetic": "/ˈse.ɾo/",
+      "usage": "La temperatura está a cero grados esta mañana y todo está congelado con hielo en las calles y aceras."
+    },
+    {
+      "phonetic": "/ˈtɾejn.ta/",
+      "translation": "Thirty",
+      "word": "Treinta",
+      "usage": "Tengo treinta años y trabajo como ingeniero en una empresa grande de tecnología en el centro de la ciudad."
+    },
+    {
+      "translation": "Forty",
+      "phonetic": "/kwaˈɾen.ta/",
+      "usage": "Mi padre tiene cuarenta y cinco años y todavía juega fútbol todos los fines de semana con sus amigos.",
+      "word": "Cuarenta"
+    },
+    {
+      "phonetic": "/siŋˈkwen.ta/",
+      "translation": "Fifty",
+      "word": "Cincuenta",
+      "usage": "El libro cuesta cincuenta euros y es un poco caro, pero vale la pena porque tiene información muy valiosa."
+    },
+    {
+      "word": "Sesenta",
+      "translation": "Sixty",
+      "usage": "Mi abuelo tiene sesenta y ocho años y está muy saludable porque camina todos los días por el parque.",
+      "phonetic": "/seˈsen.ta/"
+    },
+    {
+      "usage": "La velocidad máxima en esta carretera es setenta kilómetros por hora, así que manejo con cuidado siempre respetando las señales.",
+      "word": "Setenta",
+      "translation": "Seventy",
+      "phonetic": "/seˈten.ta/"
+    },
+    {
+      "word": "Ochenta",
+      "usage": "Mi abuela tiene ochenta años y todavía cocina delicioso para toda la familia los domingos en su casa grande.",
+      "phonetic": "/oˈtʃen.ta/",
+      "translation": "Eighty"
+    },
+    {
+      "word": "Noventa",
+      "usage": "El examen tiene noventa preguntas y tengo dos horas para completarlo, así que debo administrar bien mi tiempo.",
+      "translation": "Ninety",
+      "phonetic": "/noˈβen.ta/"
+    },
+    {
+      "phonetic": "/sjen/",
+      "usage": "Hay cien estudiantes en mi clase de español y todos están aprendiendo el idioma con mucho entusiasmo y dedicación.",
+      "word": "Cien",
+      "translation": "One hundred"
+    },
+    {
+      "phonetic": "/mil/",
+      "word": "Mil",
+      "usage": "El apartamento cuesta mil euros al mes de alquiler, lo cual es bastante caro para esta zona de la ciudad.",
+      "translation": "One thousand"
+    },
+    {
+      "phonetic": "/pɾiˈme.ɾo/",
+      "usage": "Soy el primero de la clase en matemáticas porque estudio mucho todos los días y presto atención al profesor.",
+      "translation": "First",
+      "word": "Primero"
+    },
+    {
+      "usage": "Mi hermano quedó en segundo lugar en la competencia de natación y está muy orgulloso de su logro deportivo.",
+      "word": "Segundo",
+      "phonetic": "/seˈɣun.do/",
+      "translation": "Second"
+    },
+    {
+      "phonetic": "/teɾˈse.ɾo/",
+      "usage": "Vivo en el tercer piso del edificio y tengo una vista hermosa del parque desde mi ventana grande.",
+      "word": "Tercero",
+      "translation": "Third"
+    },
+    {
+      "translation": "North",
+      "word": "Norte",
+      "phonetic": "/ˈnoɾ.te/",
+      "usage": "El viento viene del norte y trae aire frío desde las montañas nevadas que están muy lejos de aquí."
+    },
+    {
+      "translation": "South",
+      "usage": "Vivo en el sur de España donde hace mucho calor en verano y el clima es muy agradable todo el año.",
+      "phonetic": "/suɾ/",
+      "word": "Sur"
+    },
+    {
+      "translation": "East",
+      "word": "Este",
+      "phonetic": "/ˈes.te/",
+      "usage": "El sol sale por el este todas las mañanas y ilumina mi habitación con luz natural muy brillante y cálida."
+    },
+    {
+      "usage": "El sol se pone por el oeste al final del día creando atardeceres hermosos con colores naranja y rosa.",
+      "phonetic": "/oˈes.te/",
+      "word": "Oeste",
+      "translation": "West"
+    },
+    {
+      "phonetic": "/isˈkjeɾ.ða/",
+      "translation": "Left",
+      "usage": "Gira a la izquierda en la próxima esquina y verás la tienda de comestibles al lado del banco grande.",
+      "word": "Izquierda"
+    },
+    {
+      "translation": "Right",
+      "usage": "La farmacia está a la derecha del supermercado, justo después de cruzar la calle principal del centro comercial.",
+      "phonetic": "/deˈɾe.tʃa/",
+      "word": "Derecha"
+    },
+    {
+      "usage": "Mira arriba al cielo y verás las estrellas brillantes y la luna llena que ilumina toda la noche.",
+      "phonetic": "/aˈri.βa/",
+      "word": "Arriba",
+      "translation": "Up"
+    },
+    {
+      "phonetic": "/aˈβa.xo/",
+      "word": "Abajo",
+      "translation": "Down",
+      "usage": "El gato está abajo de la mesa escondido porque tiene miedo del perro grande que está ladrando afuera."
+    },
+    {
+      "phonetic": "/ˈle.xos/",
+      "translation": "Far",
+      "word": "Lejos",
+      "usage": "Mi familia vive muy lejos de aquí, a más de quinientos kilómetros, así que solo los visito en vacaciones."
+    },
+    {
+      "translation": "Near",
+      "word": "Cerca",
+      "phonetic": "/ˈseɾ.ka/",
+      "usage": "La escuela está muy cerca de mi casa, solo a cinco minutos caminando, así que los niños van solos."
+    },
+    {
+      "phonetic": "/aðeˈlan.te/",
+      "usage": "Sigue adelante por esta calle hasta llegar al semáforo y luego gira a la derecha hacia el parque.",
+      "word": "Adelante",
+      "translation": "Forward"
+    },
+    {
+      "phonetic": "/aˈtɾas/",
+      "usage": "Dejé mi mochila atrás en el autobús y tuve que regresar a la estación para buscarla con el conductor.",
+      "word": "Atrás",
+      "translation": "Behind"
+    },
+    {
+      "word": "Dentro",
+      "translation": "Inside",
+      "phonetic": "/ˈden.tɾo/",
+      "usage": "Hace frío afuera, así que vamos a quedarnos dentro de la casa donde está caliente y cómodo para todos."
+    },
+    {
+      "phonetic": "/ˈfwe.ɾa/",
+      "translation": "Outside",
+      "word": "Fuera",
+      "usage": "Los niños están jugando fuera en el jardín porque hace buen tiempo y el sol brilla hermoso hoy."
+    },
+    {
+      "phonetic": "/ˈmu.tʃo/",
+      "word": "Mucho",
+      "translation": "Much / A lot",
+      "usage": "Tengo mucho trabajo que hacer esta semana y no voy a tener tiempo libre para descansar o salir con amigos."
+    },
+    {
+      "usage": "Tengo poco dinero este mes porque gasté mucho en las vacaciones, así que debo ahorrar y ser cuidadoso.",
+      "translation": "Little / A bit",
+      "phonetic": "/ˈpo.ko/",
+      "word": "Poco"
+    },
+    {
+      "phonetic": "/ˈto.ðo/",
+      "usage": "Todo está listo para la fiesta de cumpleaños: la comida, las bebidas, la música y las decoraciones están perfectas.",
+      "word": "Todo",
+      "translation": "All / Everything"
+    },
+    {
+      "translation": "Nothing",
+      "usage": "No tengo nada que hacer este fin de semana, así que voy a descansar en casa y ver películas tranquilamente.",
+      "phonetic": "/ˈna.ða/",
+      "word": "Nada"
+    },
+    {
+      "phonetic": "/ˈal.ɣo/",
+      "word": "Algo",
+      "usage": "Necesito comprar algo de comer para la cena porque no hay nada en el refrigerador de la cocina.",
+      "translation": "Something"
+    },
+    {
+      "translation": "Some",
+      "usage": "Algunos de mis amigos van a venir a la fiesta esta noche pero otros no pueden porque están ocupados.",
+      "phonetic": "/alˈɣu.nos/",
+      "word": "Algunos"
+    },
+    {
+      "phonetic": "/ˈsjem.pɾe/",
+      "word": "Siempre",
+      "translation": "Always",
+      "usage": "Siempre llego temprano al trabajo porque me gusta empezar el día con calma y organizar mis tareas pendientes."
+    },
+    {
+      "translation": "Never",
+      "phonetic": "/ˈnuŋ.ka/",
+      "word": "Nunca",
+      "usage": "Nunca he viajado a Asia pero me gustaría visitar Japón algún día para conocer su cultura fascinante y única."
+    },
+    {
+      "translation": "Sometimes",
+      "usage": "A veces voy al cine los fines de semana para ver películas nuevas y relajarme después de una semana ocupada.",
+      "phonetic": "/a ˈβe.ses/",
+      "word": "A veces"
+    },
+    {
+      "translation": "Maybe",
+      "phonetic": "/kiˈsas/",
+      "word": "Quizás",
+      "usage": "Quizás vaya a la playa este fin de semana si el clima está bueno y no llueve como el pronóstico."
+    },
+    {
+      "translation": "Still",
+      "word": "Todavía",
+      "usage": "Todavía no he terminado mi tarea de español y tengo que entregarla mañana temprano en la clase sin falta.",
+      "phonetic": "/toðaˈβi.a/"
+    },
+    {
+      "word": "Ya",
+      "usage": "Ya terminé de leer el libro que me prestaste y fue muy interesante, te lo devuelvo mañana sin falta.",
+      "phonetic": "/ʝa/",
+      "translation": "Already"
+    },
+    {
+      "translation": "Also",
+      "word": "También",
+      "phonetic": "/tamˈbjen/",
+      "usage": "Me gusta el café y también me gusta el té, pero prefiero tomar café por la mañana siempre."
+    },
+    {
+      "translation": "Neither",
+      "phonetic": "/tamˈpo.ko/",
+      "word": "Tampoco",
+      "usage": "No me gusta el frío y tampoco me gusta la nieve, prefiero el clima cálido de verano siempre."
+    },
+    {
+      "usage": "Estudio español porque quiero viajar a España y poder comunicarme con la gente local sin problemas de idioma.",
+      "word": "Porque",
+      "phonetic": "/ˈpoɾ.ke/",
+      "translation": "Because"
+    },
+    {
+      "usage": "¿Por qué llegaste tarde a la reunión esta mañana? El jefe está muy molesto y quiere una explicación.",
+      "word": "¿Por qué?",
+      "translation": "Why?",
+      "phonetic": "/poɾ ˈke/"
+    },
+    {
+      "translation": "When",
+      "usage": "Cuando era niño vivía en el campo y jugaba con mis amigos en el río todos los días de verano.",
+      "phonetic": "/ˈkwan.do/",
+      "word": "Cuando"
+    },
+    {
+      "word": "Donde",
+      "translation": "Where",
+      "phonetic": "/ˈdon.de/",
+      "usage": "¿Dónde está la estación de tren? Necesito tomar el próximo tren a Madrid esta tarde sin falta para una reunión."
+    },
+    {
+      "word": "Quien",
+      "translation": "Who",
+      "phonetic": "/kjen/",
+      "usage": "¿Quién es esa persona que está hablando con tu hermano? No la conozco y me gustaría saber su nombre."
+    },
+    {
+      "translation": "How",
+      "phonetic": "/ˈko.mo/",
+      "usage": "¿Cómo estás hoy? Espero que te sientas mejor después de estar enfermo toda la semana pasada en cama.",
+      "word": "Como"
+    },
+    {
+      "translation": "Which",
+      "usage": "¿Cuál es tu color favorito? El mío es el azul porque me recuerda al mar y al cielo despejado.",
+      "phonetic": "/kwal/",
+      "word": "Cual"
+    },
+    {
+      "word": "Cuanto",
+      "phonetic": "/ˈkwan.to/",
+      "translation": "How much",
+      "usage": "¿Cuánto cuesta este libro? Quiero comprarlo pero necesito saber el precio antes de decidir si lo compro o no."
+    },
+    {
+      "translation": "For",
+      "word": "Para",
+      "phonetic": "/ˈpa.ɾa/",
+      "usage": "Este regalo es para mi madre porque es su cumpleaños mañana y quiero darle algo especial y bonito."
+    }
+  ]
+}

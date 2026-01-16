@@ -12,8 +12,7 @@ part of 'lesson_model.dart';
 T _$identity<T>(T value) => value;
 
 final _privateConstructorUsedError = UnsupportedError(
-  'It seems like you constructed your class using `MyClass._()`. This constructor is only meant to be used by freezed and you are not supposed to need it nor use it.\nPlease check the documentation here for more information: https://github.com/rrousselGit/freezed#adding-getters-and-methods-to-our-models',
-);
+    'It seems like you constructed your class using `MyClass._()`. This constructor is only meant to be used by freezed and you are not supposed to need it nor use it.\nPlease check the documentation here for more information: https://github.com/rrousselGit/freezed#adding-getters-and-methods-to-our-models');
 
 LessonModel _$LessonModelFromJson(Map<String, dynamic> json) {
   return _LessonModel.fromJson(json);
@@ -49,16 +48,14 @@ mixin _$LessonModel {
 /// @nodoc
 abstract class $LessonModelCopyWith<$Res> {
   factory $LessonModelCopyWith(
-    LessonModel value,
-    $Res Function(LessonModel) then,
-  ) = _$LessonModelCopyWithImpl<$Res, LessonModel>;
+          LessonModel value, $Res Function(LessonModel) then) =
+      _$LessonModelCopyWithImpl<$Res, LessonModel>;
   @useResult
-  $Res call({
-    @JsonKey(name: 'target_text') String targetText,
-    String english,
-    @JsonKey(name: 'phonetic_transcription') String phoneticTranscription,
-    @JsonKey(name: 'radical_breakdown') String? radicalBreakdown,
-  });
+  $Res call(
+      {@JsonKey(name: 'target_text') String targetText,
+      String english,
+      @JsonKey(name: 'phonetic_transcription') String phoneticTranscription,
+      @JsonKey(name: 'radical_breakdown') String? radicalBreakdown});
 }
 
 /// @nodoc
@@ -81,27 +78,24 @@ class _$LessonModelCopyWithImpl<$Res, $Val extends LessonModel>
     Object? phoneticTranscription = null,
     Object? radicalBreakdown = freezed,
   }) {
-    return _then(
-      _value.copyWith(
-            targetText: null == targetText
-                ? _value.targetText
-                : targetText // ignore: cast_nullable_to_non_nullable
-                      as String,
-            english: null == english
-                ? _value.english
-                : english // ignore: cast_nullable_to_non_nullable
-                      as String,
-            phoneticTranscription: null == phoneticTranscription
-                ? _value.phoneticTranscription
-                : phoneticTranscription // ignore: cast_nullable_to_non_nullable
-                      as String,
-            radicalBreakdown: freezed == radicalBreakdown
-                ? _value.radicalBreakdown
-                : radicalBreakdown // ignore: cast_nullable_to_non_nullable
-                      as String?,
-          )
-          as $Val,
-    );
+    return _then(_value.copyWith(
+      targetText: null == targetText
+          ? _value.targetText
+          : targetText // ignore: cast_nullable_to_non_nullable
+              as String,
+      english: null == english
+          ? _value.english
+          : english // ignore: cast_nullable_to_non_nullable
+              as String,
+      phoneticTranscription: null == phoneticTranscription
+          ? _value.phoneticTranscription
+          : phoneticTranscription // ignore: cast_nullable_to_non_nullable
+              as String,
+      radicalBreakdown: freezed == radicalBreakdown
+          ? _value.radicalBreakdown
+          : radicalBreakdown // ignore: cast_nullable_to_non_nullable
+              as String?,
+    ) as $Val);
   }
 }
 
@@ -109,17 +103,15 @@ class _$LessonModelCopyWithImpl<$Res, $Val extends LessonModel>
 abstract class _$$LessonModelImplCopyWith<$Res>
     implements $LessonModelCopyWith<$Res> {
   factory _$$LessonModelImplCopyWith(
-    _$LessonModelImpl value,
-    $Res Function(_$LessonModelImpl) then,
-  ) = __$$LessonModelImplCopyWithImpl<$Res>;
+          _$LessonModelImpl value, $Res Function(_$LessonModelImpl) then) =
+      __$$LessonModelImplCopyWithImpl<$Res>;
   @override
   @useResult
-  $Res call({
-    @JsonKey(name: 'target_text') String targetText,
-    String english,
-    @JsonKey(name: 'phonetic_transcription') String phoneticTranscription,
-    @JsonKey(name: 'radical_breakdown') String? radicalBreakdown,
-  });
+  $Res call(
+      {@JsonKey(name: 'target_text') String targetText,
+      String english,
+      @JsonKey(name: 'phonetic_transcription') String phoneticTranscription,
+      @JsonKey(name: 'radical_breakdown') String? radicalBreakdown});
 }
 
 /// @nodoc
@@ -127,9 +119,8 @@ class __$$LessonModelImplCopyWithImpl<$Res>
     extends _$LessonModelCopyWithImpl<$Res, _$LessonModelImpl>
     implements _$$LessonModelImplCopyWith<$Res> {
   __$$LessonModelImplCopyWithImpl(
-    _$LessonModelImpl _value,
-    $Res Function(_$LessonModelImpl) _then,
-  ) : super(_value, _then);
+      _$LessonModelImpl _value, $Res Function(_$LessonModelImpl) _then)
+      : super(_value, _then);
 
   /// Create a copy of LessonModel
   /// with the given fields replaced by the non-null parameter values.
@@ -141,39 +132,36 @@ class __$$LessonModelImplCopyWithImpl<$Res>
     Object? phoneticTranscription = null,
     Object? radicalBreakdown = freezed,
   }) {
-    return _then(
-      _$LessonModelImpl(
-        targetText: null == targetText
-            ? _value.targetText
-            : targetText // ignore: cast_nullable_to_non_nullable
-                  as String,
-        english: null == english
-            ? _value.english
-            : english // ignore: cast_nullable_to_non_nullable
-                  as String,
-        phoneticTranscription: null == phoneticTranscription
-            ? _value.phoneticTranscription
-            : phoneticTranscription // ignore: cast_nullable_to_non_nullable
-                  as String,
-        radicalBreakdown: freezed == radicalBreakdown
-            ? _value.radicalBreakdown
-            : radicalBreakdown // ignore: cast_nullable_to_non_nullable
-                  as String?,
-      ),
-    );
+    return _then(_$LessonModelImpl(
+      targetText: null == targetText
+          ? _value.targetText
+          : targetText // ignore: cast_nullable_to_non_nullable
+              as String,
+      english: null == english
+          ? _value.english
+          : english // ignore: cast_nullable_to_non_nullable
+              as String,
+      phoneticTranscription: null == phoneticTranscription
+          ? _value.phoneticTranscription
+          : phoneticTranscription // ignore: cast_nullable_to_non_nullable
+              as String,
+      radicalBreakdown: freezed == radicalBreakdown
+          ? _value.radicalBreakdown
+          : radicalBreakdown // ignore: cast_nullable_to_non_nullable
+              as String?,
+    ));
   }
 }
 
 /// @nodoc
 @JsonSerializable()
 class _$LessonModelImpl implements _LessonModel {
-  const _$LessonModelImpl({
-    @JsonKey(name: 'target_text') required this.targetText,
-    required this.english,
-    @JsonKey(name: 'phonetic_transcription')
-    required this.phoneticTranscription,
-    @JsonKey(name: 'radical_breakdown') this.radicalBreakdown,
-  });
+  const _$LessonModelImpl(
+      {@JsonKey(name: 'target_text') required this.targetText,
+      required this.english,
+      @JsonKey(name: 'phonetic_transcription')
+      required this.phoneticTranscription,
+      @JsonKey(name: 'radical_breakdown') this.radicalBreakdown});
 
   factory _$LessonModelImpl.fromJson(Map<String, dynamic> json) =>
       _$$LessonModelImplFromJson(json);
@@ -218,13 +206,8 @@ class _$LessonModelImpl implements _LessonModel {
 
   @JsonKey(includeFromJson: false, includeToJson: false)
   @override
-  int get hashCode => Object.hash(
-    runtimeType,
-    targetText,
-    english,
-    phoneticTranscription,
-    radicalBreakdown,
-  );
+  int get hashCode => Object.hash(runtimeType, targetText, english,
+      phoneticTranscription, radicalBreakdown);
 
   /// Create a copy of LessonModel
   /// with the given fields replaced by the non-null parameter values.
@@ -236,18 +219,20 @@ class _$LessonModelImpl implements _LessonModel {
 
   @override
   Map<String, dynamic> toJson() {
-    return _$$LessonModelImplToJson(this);
+    return _$$LessonModelImplToJson(
+      this,
+    );
   }
 }
 
 abstract class _LessonModel implements LessonModel {
-  const factory _LessonModel({
-    @JsonKey(name: 'target_text') required final String targetText,
-    required final String english,
-    @JsonKey(name: 'phonetic_transcription')
-    required final String phoneticTranscription,
-    @JsonKey(name: 'radical_breakdown') final String? radicalBreakdown,
-  }) = _$LessonModelImpl;
+  const factory _LessonModel(
+          {@JsonKey(name: 'target_text') required final String targetText,
+          required final String english,
+          @JsonKey(name: 'phonetic_transcription')
+          required final String phoneticTranscription,
+          @JsonKey(name: 'radical_breakdown') final String? radicalBreakdown}) =
+      _$LessonModelImpl;
 
   factory _LessonModel.fromJson(Map<String, dynamic> json) =
       _$LessonModelImpl.fromJson;

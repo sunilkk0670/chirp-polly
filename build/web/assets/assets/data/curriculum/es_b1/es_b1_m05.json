@@ -1,0 +1,508 @@
+{
+    "module_id": "es_b1_m05",
+    "language": "es",
+    "level": "B1",
+    "theme": "Advanced Health & Science",
+    "vocabulary": [
+        {
+            "word": "Sistema inmunológico",
+            "translation": "Immune system",
+            "phonetic": "sees-TE-ma een-moo-no-LO-hee-ko"
+        },
+        {
+            "word": "Enfermedad crónica",
+            "translation": "Chronic disease",
+            "phonetic": "en-fer-me-DAD KRO-nee-ka"
+        },
+        {
+            "word": "Prevención",
+            "translation": "Prevention",
+            "phonetic": "pre-ben-SYON"
+        },
+        {
+            "word": "Diagnóstico precoz",
+            "translation": "Early diagnosis",
+            "phonetic": "dya-GNOS-tee-ko pre-KOS"
+        },
+        {
+            "word": "Tratamiento médico",
+            "translation": "Medical treatment",
+            "phonetic": "tra-ta-MYEN-to ME-dee-ko"
+        },
+        {
+            "word": "Síntoma",
+            "translation": "Symptom",
+            "phonetic": "SEEN-to-ma"
+        },
+        {
+            "word": "Infección",
+            "translation": "Infection",
+            "phonetic": "een-fek-SYON"
+        },
+        {
+            "word": "Virus",
+            "translation": "Virus",
+            "phonetic": "BEE-roos"
+        },
+        {
+            "word": "Bacteria",
+            "translation": "Bacteria",
+            "phonetic": "bak-TE-rya"
+        },
+        {
+            "word": "Vacuna",
+            "translation": "Vaccine",
+            "phonetic": "ba-KOO-na"
+        },
+        {
+            "word": "Anticuerpo",
+            "translation": "Antibody",
+            "phonetic": "an-tee-KWER-po"
+        },
+        {
+            "word": "Resistencia",
+            "translation": "Resistance / Endurance",
+            "phonetic": "re-sees-TEN-sya"
+        },
+        {
+            "word": "Genética",
+            "translation": "Genetics",
+            "phonetic": "he-NE-tee-ka"
+        },
+        {
+            "word": "ADN",
+            "translation": "DNA",
+            "phonetic": "A-de-ene"
+        },
+        {
+            "word": "Célula",
+            "translation": "Cell",
+            "phonetic": "SE-loo-la"
+        },
+        {
+            "word": "Tejido",
+            "translation": "Tissue",
+            "phonetic": "te-HEE-do"
+        },
+        {
+            "word": "Órgano",
+            "translation": "Organ",
+            "phonetic": "OR-ga-no"
+        },
+        {
+            "word": "Cirugía",
+            "translation": "Surgery",
+            "phonetic": "see-roo-HEE-a"
+        },
+        {
+            "word": "Intervención",
+            "translation": "Intervention / Surgery",
+            "phonetic": "een-ter-ben-SYON"
+        },
+        {
+            "word": "Recuperación",
+            "translation": "Recovery",
+            "phonetic": "re-koo-pe-ra-SYON"
+        },
+        {
+            "word": "Rehabilitación",
+            "translation": "Rehabilitation",
+            "phonetic": "re-a-bee-lee-ta-SYON"
+        },
+        {
+            "word": "Salud mental",
+            "translation": "Mental health",
+            "phonetic": "sa-LOOD men-TAL"
+        },
+        {
+            "word": "Psicología",
+            "translation": "Psychology",
+            "phonetic": "psee-ko-lo-HEE-a"
+        },
+        {
+            "word": "Psiquiatría",
+            "translation": "Psychiatry",
+            "phonetic": "psee-kya-TREE-a"
+        },
+        {
+            "word": "Bienestar emocional",
+            "translation": "Emotional well-being",
+            "phonetic": "byen-es-TAR e-mo-syo-NAL"
+        },
+        {
+            "word": "Estrés",
+            "translation": "Stress",
+            "phonetic": "es-TRES"
+        },
+        {
+            "word": "Ansiedad",
+            "translation": "Anxiety",
+            "phonetic": "an-sye-DAD"
+        },
+        {
+            "word": "Depresión",
+            "translation": "Depression",
+            "phonetic": "de-pre-SYON"
+        },
+        {
+            "word": "Trastorno",
+            "translation": "Disorder",
+            "phonetic": "tras-TOR-no"
+        },
+        {
+            "word": "Terapia",
+            "translation": "Therapy",
+            "phonetic": "te-RA-pya"
+        },
+        {
+            "word": "Meditación",
+            "translation": "Meditation",
+            "phonetic": "me-dee-ta-SYON"
+        },
+        {
+            "word": "Mindfulness",
+            "translation": "Mindfulness",
+            "phonetic": "MAYND-fool-nes"
+        },
+        {
+            "word": "Nutrición avanzada",
+            "translation": "Advanced nutrition",
+            "phonetic": "noo-tree-SYON a-ban-SA-da"
+        },
+        {
+            "word": "Metabolismo",
+            "translation": "Metabolism",
+            "phonetic": "me-ta-bo-LEES-mo"
+        },
+        {
+            "word": "Caloría",
+            "translation": "Calorie",
+            "phonetic": "ka-lo-REE-a"
+        },
+        {
+            "word": "Vitamina",
+            "translation": "Vitamin",
+            "phonetic": "bee-ta-MEE-na"
+        },
+        {
+            "word": "Mineral",
+            "translation": "Mineral",
+            "phonetic": "mee-ne-RAL"
+        },
+        {
+            "word": "Suplemento",
+            "translation": "Supplement",
+            "phonetic": "soo-ple-MEN-to"
+        },
+        {
+            "word": "Hidratación",
+            "translation": "Hydration",
+            "phonetic": "ee-dra-ta-SYON"
+        },
+        {
+            "word": "Toxicidad",
+            "translation": "Toxicity",
+            "phonetic": "tok-see-see-DAD"
+        },
+        {
+            "word": "Ciencia",
+            "translation": "Science",
+            "phonetic": "SYEN-sya"
+        },
+        {
+            "word": "Investigación",
+            "translation": "Investigation / Research",
+            "phonetic": "een-bes-tee-ga-SYON"
+        },
+        {
+            "word": "Laboratorio",
+            "translation": "Laboratory",
+            "phonetic": "la-bo-ra-TO-ryo"
+        },
+        {
+            "word": "Experimento",
+            "translation": "Experiment",
+            "phonetic": "eks-pe-ree-MEN-to"
+        },
+        {
+            "word": "Hipótesis",
+            "translation": "Hypothesis",
+            "phonetic": "ee-PO-te-sees"
+        },
+        {
+            "word": "Teoría",
+            "translation": "Theory",
+            "phonetic": "te-o-REE-a"
+        },
+        {
+            "word": "Análisis",
+            "translation": "Analysis",
+            "phonetic": "a-NA-lee-sees"
+        },
+        {
+            "word": "Datos",
+            "translation": "Data",
+            "phonetic": "DA-tos"
+        },
+        {
+            "word": "Estadística",
+            "translation": "Statistics",
+            "phonetic": "es-ta-DEES-tee-ka"
+        },
+        {
+            "word": "Descubrimiento",
+            "translation": "Discovery",
+            "phonetic": "des-koo-bree-MYEN-to"
+        },
+        {
+            "word": "Innovación",
+            "translation": "Innovation",
+            "phonetic": "een-no-ba-SYON"
+        },
+        {
+            "word": "Avance científico",
+            "translation": "Scientific advance",
+            "phonetic": "a-BAN-se syen-TEE-fee-ko"
+        },
+        {
+            "word": "Tecnología",
+            "translation": "Technology",
+            "phonetic": "tek-no-lo-HEE-a"
+        },
+        {
+            "word": "Inteligencia artificial",
+            "translation": "Artificial intelligence",
+            "phonetic": "een-te-lee-HEN-sya ar-tee-fee-SYAL"
+        },
+        {
+            "word": "Robótica",
+            "translation": "Robotics",
+            "phonetic": "ro-BO-tee-ka"
+        },
+        {
+            "word": "Ciberseguridad",
+            "translation": "Cybersecurity",
+            "phonetic": "see-ber-se-goo-ree-DAD"
+        },
+        {
+            "word": "Espacio exterior",
+            "translation": "Outer space",
+            "phonetic": "es-PA-syo eks-te-RYOR"
+        },
+        {
+            "word": "Astronomía",
+            "translation": "Astronomy",
+            "phonetic": "as-tro-no-MEE-a"
+        },
+        {
+            "word": "Planeta",
+            "translation": "Planet",
+            "phonetic": "pla-NE-ta"
+        },
+        {
+            "word": "Galaxia",
+            "translation": "Galaxy",
+            "phonetic": "ga-LAK-sya"
+        },
+        {
+            "word": "Universo",
+            "translation": "Universe",
+            "phonetic": "oo-nee-BER-so"
+        },
+        {
+            "word": "Física",
+            "translation": "Physics",
+            "phonetic": "FEE-see-ka"
+        },
+        {
+            "word": "Química",
+            "translation": "Chemistry",
+            "phonetic": "KEE-mee-ka"
+        },
+        {
+            "word": "Biología",
+            "translation": "Biology",
+            "phonetic": "byo-lo-HEE-a"
+        },
+        {
+            "word": "Matemáticas",
+            "translation": "Mathematics",
+            "phonetic": "ma-te-MA-tee-kas"
+        },
+        {
+            "word": "Cálculo",
+            "translation": "Calculus / Calculation",
+            "phonetic": "KAL-koo-lo"
+        },
+        {
+            "word": "Lógica",
+            "translation": "Logic",
+            "phonetic": "LO-hee-ka"
+        },
+        {
+            "word": "Filosofía",
+            "translation": "Philosophy",
+            "phonetic": "fee-lo-so-FEE-a"
+        },
+        {
+            "word": "Ética",
+            "translation": "Ethics",
+            "phonetic": "E-tee-ka"
+        },
+        {
+            "word": "Moral",
+            "translation": "Morals",
+            "phonetic": "mo-RAL"
+        },
+        {
+            "word": "Conciencia",
+            "translation": "Consciousness",
+            "phonetic": "kon-SYEN-sya"
+        },
+        {
+            "word": "Pensamiento crítico",
+            "translation": "Critical thinking",
+            "phonetic": "pen-sa-MYEN-to KREE-tee-ko"
+        },
+        {
+            "word": "Evolución",
+            "translation": "Evolution",
+            "phonetic": "e-bo-loo-SYON"
+        },
+        {
+            "word": "Adaptación",
+            "translation": "Adaptation",
+            "phonetic": "a-dap-ta-SYON"
+        },
+        {
+            "word": "Extinción",
+            "translation": "Extinction",
+            "phonetic": "eks-teen-SYON"
+        },
+        {
+            "word": "Especie",
+            "translation": "Species",
+            "phonetic": "es-PE-sye"
+        },
+        {
+            "word": "Hábitat",
+            "translation": "Habitat",
+            "phonetic": "A-bee-tat"
+        },
+        {
+            "word": "Ecología",
+            "translation": "Ecology",
+            "phonetic": "e-ko-lo-HEE-a"
+        },
+        {
+            "word": "Sostenibilidad",
+            "translation": "Sustainability",
+            "phonetic": "sos-te-nee-bee-lee-DAD"
+        },
+        {
+            "word": "Conservación",
+            "translation": "Conservation",
+            "phonetic": "kon-ser-ba-SYON"
+        },
+        {
+            "word": "Protección",
+            "translation": "Protection",
+            "phonetic": "pro-tek-SYON"
+        },
+        {
+            "word": "Recurso natural",
+            "translation": "Natural resource",
+            "phonetic": "re-KOOR-so na-too-RAL"
+        },
+        {
+            "word": "Clima",
+            "translation": "Climate",
+            "phonetic": "KLEE-ma"
+        },
+        {
+            "word": "Meteorología",
+            "translation": "Meteorology",
+            "phonetic": "me-te-o-ro-lo-HEE-a"
+        },
+        {
+            "word": "Atmósfera",
+            "translation": "Atmosphere",
+            "phonetic": "at-MOS-fe-ra"
+        },
+        {
+            "word": "Gravedad",
+            "translation": "Gravity",
+            "phonetic": "gra-be-DAD"
+        },
+        {
+            "word": "Energía nuclear",
+            "translation": "Nuclear energy",
+            "phonetic": "e-ner-HEE-a noo-kle-AR"
+        },
+        {
+            "word": "Radiación",
+            "translation": "Radiation",
+            "phonetic": "ra-dya-SYON"
+        },
+        {
+            "word": "Molécula",
+            "translation": "Molecule",
+            "phonetic": "mo-LE-koo-la"
+        },
+        {
+            "word": "Átomo",
+            "translation": "Atom",
+            "phonetic": "A-to-mo"
+        },
+        {
+            "word": "Elemento",
+            "translation": "Element",
+            "phonetic": "e-le-MEN-to"
+        },
+        {
+            "word": "Reacción",
+            "translation": "Reaction",
+            "phonetic": "re-ak-SYON"
+        },
+        {
+            "word": "Equilibrio",
+            "translation": "Balance",
+            "phonetic": "e-kee-LEE-bryo"
+        },
+        {
+            "word": "Fuerza",
+            "translation": "Force / Strength",
+            "phonetic": "FWER-sa"
+        },
+        {
+            "word": "Movimiento",
+            "translation": "Movement",
+            "phonetic": "mo-bee-MYEN-to"
+        },
+        {
+            "word": "Velocidad",
+            "translation": "Speed",
+            "phonetic": "be-lo-see-DAD"
+        },
+        {
+            "word": "Tiempo",
+            "translation": "Time",
+            "phonetic": "TYEM-po"
+        },
+        {
+            "word": "Materia",
+            "translation": "Matter",
+            "phonetic": "ma-TE-rya"
+        },
+        {
+            "word": "Energía",
+            "translation": "Energy",
+            "phonetic": "e-ner-HEE-a"
+        },
+        {
+            "word": "Vida científica",
+            "translation": "Scientific life",
+            "phonetic": "BEE-da syen-TEE-fee-ka"
+        }
+    ]
+}

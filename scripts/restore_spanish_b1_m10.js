@@ -1,0 +1,166 @@
+const admin = require('firebase-admin');
+const serviceAccount = require('./serviceAccountKey.json');
+
+admin.initializeApp({
+    credential: admin.credential.cert(serviceAccount)
+});
+
+const db = admin.firestore();
+
+const vocabData = [
+    { "word": "Pensamiento abstracto", "translation": "Abstract thought", "phonetic": "pen-sa-MYEN-to abs-TRAK-to" },
+    { "word": "Filosofía de vida", "translation": "Philosophy of life", "phonetic": "fee-lo-so-FEE-a de BEE-da" },
+    { "word": "Existencialismo", "translation": "Existentialism", "phonetic": "ek-sees-ten-sya-LEES-mo" },
+    { "word": "Significado profundo", "translation": "Deep meaning", "phonetic": "seeg-nee-fee-KA-do pro-FOON-do" },
+    { "word": "Esencia", "translation": "Essence", "phonetic": "e-SEN-sya" },
+    { "word": "Ser", "translation": "Being / To be", "phonetic": "Ser" },
+    { "word": "Conciencia", "translation": "Consciousness", "phonetic": "kon-SYEN-sya" },
+    { "word": "Inconsciente", "translation": "Unconscious", "phonetic": "een-kon-SYEN-te" },
+    { "word": "Mente", "translation": "Mind", "phonetic": "MEN-te" },
+    { "word": "Alma", "translation": "Soul", "phonetic": "AL-ma" },
+    { "word": "Espíritu", "translation": "Spirit", "phonetic": "es-PEE-ree-too" },
+    { "word": "Identidad", "translation": "Identity", "phonetic": "ee-den-tee-DAD" },
+    { "word": "Subjetividad", "translation": "Subjectivity", "phonetic": "soob-he-tee-bee-DAD" },
+    { "word": "Objetividad", "translation": "Objectivity", "phonetic": "ob-he-tee-bee-DAD" },
+    { "word": "Percepción", "translation": "Perception", "phonetic": "per-sep-SYON" },
+    { "word": "Realidad", "translation": "Reality", "phonetic": "re-a-lee-DAD" },
+    { "word": "Ilusión", "translation": "Illusion", "phonetic": "ee-loo-SYON" },
+    { "word": "Verdad relativa", "translation": "Relative truth", "phonetic": "ber-DAD re-la-TEE-ba" },
+    { "word": "Absoluto", "translation": "Absolute", "phonetic": "ab-so-LOO-to" },
+    { "word": "Infinito", "translation": "Infinite", "phonetic": "een-fee-NEE-to" },
+    { "word": "Eternidad", "translation": "Eternity", "phonetic": "e-ter-nee-DAD" },
+    { "word": "Tiempo", "translation": "Time", "phonetic": "TYEM-po" },
+    { "word": "Espacio", "translation": "Space", "phonetic": "es-PA-syo" },
+    { "word": "Universo", "translation": "Universe", "phonetic": "oo-nee-BER-so" },
+    { "word": "Cosmos", "translation": "Cosmos", "phonetic": "KOS-mos" },
+    { "word": "Destino", "translation": "Destiny / Fate", "phonetic": "des-TEE-no" },
+    { "word": "Libre albedrío", "translation": "Free will", "phonetic": "LEE-bre al-be-DREE-o" },
+    { "word": "Determinismo", "translation": "Determinism", "phonetic": "de-ter-mee-NEES-mo" },
+    { "word": "Casualidad", "translation": "Causality", "phonetic": "ka-swa-lee-DAD" },
+    { "word": "Sincronicidad", "translation": "Synchronicity", "phonetic": "seen-kro-nee-see-DAD" },
+    { "word": "Propósito", "translation": "Purpose", "phonetic": "pro-PO-see-to" },
+    { "word": "Misión", "translation": "Mission", "phonetic": "mee-SYON" },
+    { "word": "Metafísica", "translation": "Metaphysics", "phonetic": "me-ta-FEE-see-ka" },
+    { "word": "Lógica", "translation": "Logic", "phonetic": "LO-hee-ka" },
+    { "word": "Razonamiento", "translation": "Reasoning", "phonetic": "ra-so-na-MYEN-to" },
+    { "word": "Intuición", "translation": "Intuition", "phonetic": "een-twee-SYON" },
+    { "word": "Sabiduría", "translation": "Wisdom", "phonetic": "sa-bee-doo-REE-a" },
+    { "word": "Conocimiento", "translation": "Knowledge", "phonetic": "ko-no-see-MYEN-to" },
+    { "word": "Aprendizaje", "translation": "Learning", "phonetic": "a-pren-dee-SA-he" },
+    { "word": "Crecimiento", "translation": "Growth", "phonetic": "kre-see-MYEN-to" },
+    { "word": "Evolución", "translation": "Evolution", "phonetic": "e-bo-loo-SYON" },
+    { "word": "Transformación", "translation": "Transformation", "phonetic": "trans-for-ma-SYON" },
+    { "word": "Cambio", "translation": "Change", "phonetic": "KAM-byo" },
+    { "word": "Resiliencia", "translation": "Resilience", "phonetic": "re-see-LYEN-sya" },
+    { "word": "Fortaleza", "translation": "Strength / Fortitude", "phonetic": "for-ta-LE-sa" },
+    { "word": "Fragilidad", "translation": "Fragility", "phonetic": "fra-hee-lee-DAD" },
+    { "word": "Vulnerabilidad", "translation": "Vulnerability", "phonetic": "bool-ne-ra-bee-lee-DAD" },
+    { "word": "Valentía", "translation": "Bravery", "phonetic": "ba-len-TEE-a" },
+    { "word": "Coraje", "translation": "Courage", "phonetic": "ko-RA-he" },
+    { "word": "Miedo", "translation": "Fear", "phonetic": "MYE-do" },
+    { "word": "Superación", "translation": "Overcoming", "phonetic": "soo-pe-ra-SYON" },
+    { "word": "Éxito", "translation": "Success", "phonetic": "EK-see-to" },
+    { "word": "Fracaso", "translation": "Failure", "phonetic": "fra-KA-so" },
+    { "word": "Lección de vida", "translation": "Life lesson", "phonetic": "lek-SYON de BEE-da" },
+    { "word": "Experiencia", "translation": "Experience", "phonetic": "eks-pe-RYEN-sya" },
+    { "word": "Memoria", "translation": "Memory", "phonetic": "me-MO-rya" },
+    { "word": "Olvido", "translation": "Oblivion / Forgetting", "phonetic": "ol-BEE-do" },
+    { "word": "Presente", "translation": "Present", "phonetic": "pre-SEN-te" },
+    { "word": "Pasado", "translation": "Past", "phonetic": "pa-SA-do" },
+    { "word": "Futuro", "translation": "Future", "phonetic": "foo-TOO-ro" },
+    { "word": "Ciclo", "translation": "Cycle", "phonetic": "SEE-klo" },
+    { "word": "Final", "translation": "Final / End", "phonetic": "fee-NAL" },
+    { "word": "Comienzo", "translation": "Beginning", "phonetic": "ko-MYEN-so" },
+    { "word": "Origen", "translation": "Origin", "phonetic": "o-REE-hen" },
+    { "word": "Raíz", "translation": "Root", "phonetic": "Ra-EES" },
+    { "word": "Esencia humana", "translation": "Human essence", "phonetic": "e-SEN-sya oo-MA-na" },
+    { "word": "Naturaleza", "translation": "Nature", "phonetic": "na-too-ra-LE-sa" },
+    { "word": "Mundo", "translation": "World", "phonetic": "MOON-do" },
+    { "word": "Vida", "translation": "Life", "phonetic": "BEE-da" },
+    { "word": "Muerte", "translation": "Death", "phonetic": "MWER-te" },
+    { "word": "Renacimiento", "translation": "Rebirth", "phonetic": "re-na-see-MYEN-to" },
+    { "word": "Trascendencia", "translation": "Transcendence", "phonetic": "tran-sen-DEN-sya" },
+    { "word": "Legado", "translation": "Legacy", "phonetic": "le-GA-do" },
+    { "word": "Influencia", "translation": "Influence", "phonetic": "een-flwen-SYA" },
+    { "word": "Impacto", "translation": "Impact", "phonetic": "eem-PAK-to" },
+    { "word": "Contribución", "translation": "Contribution", "phonetic": "kon-tree-boo-SYON" },
+    { "word": "Valor", "translation": "Value", "phonetic": "ba-LOR" },
+    { "word": "Virtud", "translation": "Virtue", "phonetic": "beer-TUD" },
+    { "word": "Ética", "translation": "Ethics", "phonetic": "E-tee-ka" },
+    { "word": "Moralidad", "translation": "Morality", "phonetic": "mo-ra-lee-DAD" },
+    { "word": "Integridad", "translation": "Integrity", "phonetic": "een-te-gree-DAD" },
+    { "word": "Dignidad", "translation": "Dignity", "phonetic": "deeg-nee-DAD" },
+    { "word": "Honor", "translation": "Honor", "phonetic": "o-NOR" },
+    { "word": "Justicia", "translation": "Justice", "phonetic": "hoos-TEE-sya" },
+    { "word": "Paz", "translation": "Peace", "phonetic": "Pas" },
+    { "word": "Amor", "translation": "Love", "phonetic": "a-MOR" },
+    { "word": "Compasión", "translation": "Compassion", "phonetic": "kom-pa-SYON" },
+    { "word": "Gratitud", "translation": "Gratitude", "phonetic": "gra-tee-TUD" },
+    { "word": "Perdón", "translation": "Forgiveness", "phonetic": "per-DON" },
+    { "word": "Unión", "translation": "Union", "phonetic": "oo-NYON" },
+    { "word": "Armonía", "translation": "Harmony", "phonetic": "ar-mo-NEE-a" },
+    { "word": "Equilibrio emocional", "translation": "Emotional balance", "phonetic": "e-kee-LEE-bryo e-mo-syo-NAL" },
+    { "word": "Pelicidad plena", "translation": "Full happiness", "phonetic": "fe-lee-see-DAD PLE-na" },
+    { "word": "Realización", "translation": "Fulfillment / Realization", "phonetic": "re-a-lee-sa-SYON" },
+    { "word": "Plenitud", "translation": "Fullness / Plenitude", "phonetic": "ple-nee-TUD" },
+    { "word": "Éxito personal", "translation": "Personal success", "phonetic": "EK-see-to per-so-NAL" },
+    { "word": "Victoria", "translation": "Victory", "phonetic": "beek-TO-rya" },
+    { "word": "Fin de curso", "translation": "End of course", "phonetic": "Feen de KOOR-so" },
+    { "word": "B1 Completado", "translation": "B1 Completed", "phonetic": "Be-oo-no kom-ple-TA-do" },
+    { "word": "Meta alcanzada", "translation": "Goal reached", "phonetic": "ME-ta al-kan-SA-da" }
+];
+
+async function restore() {
+    console.log("Restoring Spanish B1 Module 10...");
+
+    const lessons = [];
+    for (let i = 0; i < 10; i++) {
+        const lessonItems = vocabData.slice(i * 10, (i + 1) * 10).map(item => ({
+            targetText: item.word,
+            english: item.translation,
+            phonetic_transcription: item.phonetic,
+            type: "word"
+        }));
+
+        lessons.push({
+            lessonId: `es_b1_m10_l${i + 1}`,
+            title: `B1 Review - Lesson ${i + 1}`,
+            vocabularyItems: lessonItems
+        });
+    }
+
+    const moduleData = {
+        moduleId: "es_b1_m10",
+        theme: "Abstract Thoughts & Review",
+        order: 30,
+        lessons,
+        liarGameData: {
+            trap: "¿Cuál es el propósito de la vida?",
+            correctAnswer: "Propósito",
+            explanation: "In B1, we look for deeper meanings beyond the physical 'Gato de Papel'!",
+            trapType: "vocabulary_challenge"
+        }
+    };
+
+    await db.collection('languages').doc('spanish')
+        .collection('levels').doc('b1')
+        .collection('modules').doc('es_b1_m10')
+        .set(moduleData);
+
+    console.log("  Uploaded es_b1_m10");
+
+    // Update metadata
+    await db.doc('languages/spanish/levels/b1').set({
+        moduleCount: 10,
+        status: 'Complete',
+        lastUpdated: admin.firestore.FieldValue.serverTimestamp()
+    }, { merge: true });
+
+    console.log("  Updated B1 Level Metadata (Count: 10, Status: Complete)");
+    process.exit();
+}
+
+restore().catch(err => {
+    console.error(err);
+    process.exit(1);
+});

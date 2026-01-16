@@ -1,0 +1,627 @@
+{
+  "moduleId": "ko_a1_m05",
+  "title": "Daily Routine & Time",
+  "level": "a1",
+  "language": "korean",
+  "order": 5,
+  "lessons": [
+    {
+      "order": 1,
+      "vocabularyItems": [
+        {
+          "word": "일어나다",
+          "reading": "Ireonada",
+          "meaning": "To wake up / get up",
+          "example_sentence": "아침 일찍 일어나요. (I wake up early in the morning.)"
+        },
+        {
+          "word": "자다",
+          "reading": "Jada",
+          "meaning": "To sleep",
+          "example_sentence": "밤에 푹 잤어요. (I slept well at night.)"
+        },
+        {
+          "word": "일하다",
+          "reading": "Ilhada",
+          "meaning": "To work",
+          "example_sentence": "회사에서 열심히 일해요. (I work hard at the company.)"
+        },
+        {
+          "word": "운동하다",
+          "reading": "Undonghada",
+          "meaning": "To exercise",
+          "example_sentence": "공원에서 매일 운동해요. (I exercise at the park every day.)"
+        },
+        {
+          "word": "산책하다",
+          "reading": "Sanchaekhada",
+          "meaning": "To take a walk",
+          "example_sentence": "강아지와 함께 산책해요. (I take a walk with my puppy.)"
+        },
+        {
+          "word": "씻다",
+          "reading": "Ssitda",
+          "meaning": "To wash",
+          "example_sentence": "외출 후에 손을 씻어요. (I wash my hands after going out.)"
+        },
+        {
+          "word": "샤워하다",
+          "reading": "Syawohada",
+          "meaning": "To take a shower",
+          "example_sentence": "아침마다 샤워를 해요. (I take a shower every morning.)"
+        },
+        {
+          "word": "준비하다",
+          "reading": "Junbihada",
+          "meaning": "To prepare / get ready",
+          "example_sentence": "학교 갈 준비를 해요. (I get ready to go to school.)"
+        },
+        {
+          "word": "시작하다",
+          "reading": "Sijakhada",
+          "meaning": "To start",
+          "example_sentence": "수업이 곧 시작해요. (The class starts soon.)"
+        },
+        {
+          "word": "끝나다",
+          "reading": "Kkkeunnada",
+          "meaning": "To end / finish",
+          "example_sentence": "일이 일찍 끝났어요. (Work finished early.)"
+        },
+        {
+          "word": "나가다",
+          "reading": "Nagada",
+          "meaning": "To go out",
+          "example_sentence": "산책하러 밖에 나가요. (I go outside for a walk.)"
+        },
+        {
+          "word": "들어오다",
+          "reading": "Deureooda",
+          "meaning": "To come in",
+          "example_sentence": "집에 일찍 들어오세요. (Please come home early.)"
+        },
+        {
+          "word": "쉬다",
+          "reading": "Swida",
+          "meaning": "To rest",
+          "example_sentence": "주말에는 집에서 쉬어요. (I rest at home on weekends.)"
+        },
+        {
+          "word": "청소하다",
+          "reading": "Cheongsohada",
+          "meaning": "To clean",
+          "example_sentence": "방을 깨끗하게 청소해요. (I clean the room cleanly.)"
+        },
+        {
+          "word": "빨래하다",
+          "reading": "Ppallaehada",
+          "meaning": "To do laundry",
+          "example_sentence": "세탁기로 빨래를 해요. (I do laundry with a washing machine.)"
+        },
+        {
+          "word": "요리하다",
+          "reading": "Yorihada",
+          "meaning": "To cook",
+          "example_sentence": "가족을 위해 요리해요. (I cook for my family.)"
+        },
+        {
+          "word": "보내다",
+          "reading": "Bonaeda",
+          "meaning": "To spend (time) / send",
+          "example_sentence": "방학을 즐겁게 보내세요. (Have a pleasant vacation.)"
+        },
+        {
+          "word": "기다리다",
+          "reading": "Gidarida",
+          "meaning": "To wait",
+          "example_sentence": "버스 정류장에서 버스를 기다려요. (I wait for the bus at the bus stop.)"
+        },
+        {
+          "word": "타다",
+          "reading": "Tada",
+          "meaning": "To ride / take (transport)",
+          "example_sentence": "지하철을 타고 가요. (I go by taking the subway.)"
+        },
+        {
+          "word": "내리다",
+          "reading": "Naerida",
+          "meaning": "To get off",
+          "example_sentence": "이번 역에서 내려야 해요. (I have to get off at this station.)"
+        },
+        {
+          "word": "걷다",
+          "reading": "Geotda",
+          "meaning": "To walk",
+          "example_sentence": "건강을 위해 매일 걸어요. (I walk every day for my health.)"
+        },
+        {
+          "word": "뛰다",
+          "reading": "Ttwida",
+          "meaning": "To run / jump",
+          "example_sentence": "지각해서 학교까지 뛰었어여. (I ran to school because I was late.)"
+        },
+        {
+          "word": "보다",
+          "reading": "Boda",
+          "meaning": "To see / watch / look",
+          "example_sentence": "저녁에 텔레비전을 봐요. (I watch TV in the evening.)"
+        },
+        {
+          "word": "이야기하다",
+          "reading": "Iyagihada",
+          "meaning": "To converse / chat",
+          "example_sentence": "친구와 카페에서 이야기해요. (I chat with a friend at a cafe.)"
+        },
+        {
+          "word": "전화하다",
+          "reading": "Jeonhwahada",
+          "meaning": "To call (phone)",
+          "example_sentence": "어머니께 매일 전화해요. (I call my mother every day.)"
+        },
+        {
+          "word": "문자하다",
+          "reading": "Munjahada",
+          "meaning": "To text",
+          "example_sentence": "친구에게 문자를 보냈어요. (I sent a text to my friend.)"
+        },
+        {
+          "word": "지금",
+          "reading": "Jigeum",
+          "meaning": "Now",
+          "example_sentence": "지금 무엇을 하고 있어요? (What are you doing now?)"
+        },
+        {
+          "word": "오늘",
+          "reading": "Oneul",
+          "meaning": "Today",
+          "example_sentence": "오늘은 날씨가 참 좋아요. (Today the weather is very good.)"
+        },
+        {
+          "word": "어제",
+          "reading": "Eoje",
+          "meaning": "Yesterday",
+          "example_sentence": "어제는 친구를 만났어요. (Yesterday I met a friend.)"
+        },
+        {
+          "word": "내일",
+          "reading": "Naeil",
+          "meaning": "Tomorrow",
+          "example_sentence": "내일은 공휴일이에요. (Tomorrow is a public holiday.)"
+        },
+        {
+          "word": "평일",
+          "reading": "Pyeong-il",
+          "meaning": "Weekday",
+          "example_sentence": "평일에는 보통 회사에 가요. (I usually go to the company on weekdays.)"
+        },
+        {
+          "word": "주말",
+          "reading": "Jumal",
+          "meaning": "Weekend",
+          "example_sentence": "주말에는 푹 쉬고 싶어요. (I want to rest well on the weekend.)"
+        },
+        {
+          "word": "매일",
+          "reading": "Maeil",
+          "meaning": "Every day",
+          "example_sentence": "매일 운동하는 것은 힘들어요. (Exercising every day is hard.)"
+        },
+        {
+          "word": "자주",
+          "reading": "Jaju",
+          "meaning": "Often / Frequently",
+          "example_sentence": "이 식당에 자주 와요. (I come to this restaurant often.)"
+        },
+        {
+          "word": "가끔",
+          "reading": "Gakkeum",
+          "meaning": "Sometimes",
+          "example_sentence": "가끔 마라탕이 먹고 싶어요. (Sometimes I want to eat Malatang.)"
+        },
+        {
+          "word": "항상",
+          "reading": "Hangsang",
+          "meaning": "Always",
+          "example_sentence": "항상 건강하세요. (Please always be healthy.)"
+        },
+        {
+          "word": "보통",
+          "reading": "Botong",
+          "meaning": "Usually / Common",
+          "example_sentence": "아침은 보통 집에서 먹어요. (I usually eat breakfast at home.)"
+        },
+        {
+          "word": "모레",
+          "reading": "More",
+          "meaning": "Day after tomorrow",
+          "example_sentence": "모레 시험이 있어요. (I have an exam the day after tomorrow.)"
+        },
+        {
+          "word": "그제",
+          "reading": "Geuje",
+          "meaning": "Day before yesterday",
+          "example_sentence": "그제 본 영화가 재미있었어요. (The movie I saw the day before yesterday was fun.)"
+        },
+        {
+          "word": "밤",
+          "reading": "Bam",
+          "meaning": "Night",
+          "example_sentence": "밤에 별이 아주 밝아요. (The stars are very bright at night.)"
+        },
+        {
+          "word": "새벽",
+          "reading": "Saebyeok",
+          "meaning": "Dawn / Early morning",
+          "example_sentence": "새벽에 일찍 잠이 깼어요. (I woke up early at dawn.)"
+        },
+        {
+          "word": "오전",
+          "reading": "Ojeon",
+          "meaning": "Morning / AM",
+          "example_sentence": "오전 열 시에 회의가 있어요. (There is a meeting at 10 AM.)"
+        },
+        {
+          "word": "오후",
+          "reading": "Ohu",
+          "meaning": "Afternoon / PM",
+          "example_sentence": "오후에는 좀 덜 더워요. (It's slightly less hot in the afternoon.)"
+        },
+        {
+          "word": "낮",
+          "reading": "Nat",
+          "meaning": "Daytime",
+          "example_sentence": "낮에 잠시 낮잠을 잤어요. (I took a short nap during the daytime.)"
+        },
+        {
+          "word": "초",
+          "reading": "Cho",
+          "meaning": "Second (Time unit)",
+          "example_sentence": "십 초만 더 기다려 주세요. (Please wait for just ten more seconds.)"
+        },
+        {
+          "word": "반",
+          "reading": "Ban",
+          "meaning": "Half / Thirty minutes past",
+          "example_sentence": "두 시 반에 만나요. (Let's meet at 2:30.)"
+        },
+        {
+          "word": "일정",
+          "reading": "Iljeong",
+          "meaning": "Schedule",
+          "example_sentence": "이번 주 일정이 바빠요. (The schedule for this week is busy.)"
+        },
+        {
+          "word": "약속",
+          "reading": "Yaksok",
+          "meaning": "Appointment / Promise",
+          "example_sentence": "친구와 저녁 약속이 있어요. (I have a dinner appointment with a friend.)"
+        },
+        {
+          "word": "회의",
+          "reading": "Hoeui",
+          "meaning": "Meeting / Conference",
+          "example_sentence": "회의 중이라 전화를 못 받아요. (I can't answer the phone because I'm in a meeting.)"
+        },
+        {
+          "word": "수업",
+          "reading": "Sueop",
+          "meaning": "Class / Lesson",
+          "example_sentence": "한국어 수업을 들어요. (I take Korean classes.)"
+        },
+        {
+          "word": "시험",
+          "reading": "Siheom",
+          "meaning": "Exam / Test",
+          "example_sentence": "내일 시험 공부를 해야 해요. (I have to study for tomorrow's exam.)"
+        },
+        {
+          "word": "방학",
+          "reading": "Banghak",
+          "meaning": "School vacation",
+          "example_sentence": "방학 때 여행을 갈 거예요. (I will go on a trip during vacation.)"
+        },
+        {
+          "word": "휴가",
+          "reading": "Hyuga",
+          "meaning": "Vacation / Leave (Work)",
+          "example_sentence": "다음 주에 휴가를 가요. (I'm going on vacation next week.)"
+        },
+        {
+          "word": "명절",
+          "reading": "Myeongjeol",
+          "meaning": "Traditional holiday",
+          "example_sentence": "명절에 가족들이 다 모였어요. (All the family members gathered on the holiday.)"
+        },
+        {
+          "word": "주",
+          "reading": "Ju",
+          "meaning": "Week",
+          "example_sentence": "이번 주말에 뭐 해요? (What are you doing this weekend?)"
+        },
+        {
+          "word": "이번",
+          "reading": "Ibeon",
+          "meaning": "This time",
+          "example_sentence": "이번에는 꼭 성공할 거예요. (I will definitely succeed this time.)"
+        },
+        {
+          "word": "지난",
+          "reading": "Jinan",
+          "meaning": "Last (Previous)",
+          "example_sentence": "지난주에 감기에 걸렸어요. (I caught a cold last week.)"
+        },
+        {
+          "word": "다음",
+          "reading": "Daeum",
+          "meaning": "Next",
+          "example_sentence": "다음 달에 이사를 가요. (I'm moving next month.)"
+        },
+        {
+          "word": "매주",
+          "reading": "Maeju",
+          "meaning": "Every week",
+          "example_sentence": "매주 토요일에 등산을 가요. (I go hiking every Saturday.)"
+        },
+        {
+          "word": "공휴일",
+          "reading": "Gonghyuil",
+          "meaning": "Public holiday",
+          "example_sentence": "공휴일에는 은행이 쉬어요. (Banks are closed on public holidays.)"
+        },
+        {
+          "word": "월요일",
+          "reading": "Woryoil",
+          "meaning": "Monday",
+          "example_sentence": "월요일은 항상 피곤해요. (Mondays are always tiring.)"
+        },
+        {
+          "word": "화요일",
+          "reading": "Hwayoil",
+          "meaning": "Tuesday",
+          "example_sentence": "화요일에 친구와 만나요. (I'm meeting a friend on Tuesday.)"
+        },
+        {
+          "word": "수요일",
+          "reading": "Suyoil",
+          "meaning": "Wednesday",
+          "example_sentence": "수요일마다 수영장에 가요. (I go to the swimming pool every Wednesday.)"
+        },
+        {
+          "word": "목요일",
+          "reading": "Mogyoil",
+          "meaning": "Thursday",
+          "example_sentence": "목요일 밤에 야구를 봤어요. (I watched baseball on Thursday night.)"
+        },
+        {
+          "word": "금요일",
+          "reading": "Geumyoil",
+          "meaning": "Friday",
+          "example_sentence": "금요일 저녁은 행복해요. (Friday evenings are happy.)"
+        },
+        {
+          "word": "토요일",
+          "reading": "Toyoil",
+          "meaning": "Saturday",
+          "example_sentence": "토요일에 늦잠을 잤어요. (I slept in on Saturday.)"
+        },
+        {
+          "word": "일요일",
+          "reading": "Iryoil",
+          "meaning": "Sunday",
+          "example_sentence": "일요일에는 교회에 가요. (I go to church on Sundays.)"
+        },
+        {
+          "word": "요일",
+          "reading": "Yoil",
+          "meaning": "Day of the week",
+          "example_sentence": "오늘이 무슨 요일이에요? (What day of the week is it today?)"
+        },
+        {
+          "word": "날짜",
+          "reading": "Naljja",
+          "meaning": "Date",
+          "example_sentence": "날짜를 확인해 보세요. (Please check the date.)"
+        },
+        {
+          "word": "어젯밤",
+          "reading": "Eojetbam",
+          "meaning": "Last night",
+          "example_sentence": "어젯밤에 꿈을 꿨어요. (I had a dream last night.)"
+        },
+        {
+          "word": "오늘밤",
+          "reading": "Oneulbam",
+          "meaning": "Tonight",
+          "example_sentence": "오늘밤에 약속이 있어요. (I have an appointment tonight.)"
+        },
+        {
+          "word": "아까",
+          "reading": "Akka",
+          "meaning": "A moment ago / Just now",
+          "example_sentence": "아까 밥을 먹었어요. (I ate a meal just now.)"
+        },
+        {
+          "word": "나중에",
+          "reading": "Najunge",
+          "meaning": "Later",
+          "example_sentence": "나중에 전화할게요. (I'll call you later.)"
+        },
+        {
+          "word": "금방",
+          "reading": "Geumbang",
+          "meaning": "Soon / Right away",
+          "example_sentence": "금방 돌아올게요. (I'll be back right away.)"
+        },
+        {
+          "word": "일찍",
+          "reading": "Iljjik",
+          "meaning": "Early",
+          "example_sentence": "일찍 일어나면 기분이 좋아요. (I feel good when I wake up early.)"
+        },
+        {
+          "word": "늦게",
+          "reading": "Neutge",
+          "meaning": "Late",
+          "example_sentence": "밤늦게까지 공부했어요. (I studied until late at night.)"
+        },
+        {
+          "word": "벌써",
+          "reading": "Beolsseo",
+          "meaning": "Already",
+          "example_sentence": "벌써 시간이 이렇게 됐네요. (It's already this time.)"
+        },
+        {
+          "word": "아직",
+          "reading": "Ajik",
+          "meaning": "Still / Yet",
+          "example_sentence": "아직 준비가 안 됐어요. (I'm not ready yet.)"
+        },
+        {
+          "word": "주중",
+          "reading": "Jujung",
+          "meaning": "During the week",
+          "example_sentence": "주중에는 바빠서 못 만나요. (I'm busy during the week, so I can't meet.)"
+        },
+        {
+          "word": "기상",
+          "reading": "Gisang",
+          "meaning": "Waking up / Rising (Formal)",
+          "example_sentence": "기상 시간이 몇 시예요? (What is the wake-up time?)"
+        },
+        {
+          "word": "취침",
+          "reading": "Chwichim",
+          "meaning": "Sleeping / Going to bed (Formal)",
+          "example_sentence": "취침 전에 명상을 해요. (I meditate before going to bed.)"
+        },
+        {
+          "word": "일상",
+          "reading": "Ilsang",
+          "meaning": "Daily life",
+          "example_sentence": "평범한 일상이 소중해요. (Ordinary daily life is precious.)"
+        },
+        {
+          "word": "습관",
+          "reading": "Seupgwan",
+          "meaning": "Habit",
+          "example_sentence": "좋은 습관을 기르세요. (Develop good habits.)"
+        },
+        {
+          "word": "퇴근하다",
+          "reading": "Toegeunhada",
+          "meaning": "To leave work",
+          "example_sentence": "여섯 시에 퇴근해요. (I leave work at six.)"
+        },
+        {
+          "word": "출근하다",
+          "reading": "Chulgeunhada",
+          "meaning": "To go to work",
+          "example_sentence": "아침 일찍 출근해요. (I go to work early in the morning.)"
+        },
+        {
+          "word": "등교하다",
+          "reading": "Deunggyohada",
+          "meaning": "To go to school",
+          "example_sentence": "버스를 타고 등교해요. (I go to school by bus.)"
+        },
+        {
+          "word": "하교하다",
+          "reading": "Hagyohada",
+          "meaning": "To leave school",
+          "example_sentence": "오후 네 시에 하교해요. (I leave school at 4 PM.)"
+        },
+        {
+          "word": "낮잠자다",
+          "reading": "Natjamjada",
+          "meaning": "To take a nap",
+          "example_sentence": "주말에는 낮잠을 자요. (I take a nap on weekends.)"
+        },
+        {
+          "word": "양치하다",
+          "reading": "Yangchihada",
+          "meaning": "To brush teeth",
+          "example_sentence": "식사 후에 양치를 해요. (I brush my teeth after meals.)"
+        },
+        {
+          "word": "화장하다",
+          "reading": "Hwajanghada",
+          "meaning": "To do makeup",
+          "example_sentence": "거울을 보고 화장해요. (I look in the mirror and do my makeup.)"
+        },
+        {
+          "word": "면도하다",
+          "reading": "Myeondohada",
+          "meaning": "To shave",
+          "example_sentence": "매일 아침 면도해요. (I shave every morning.)"
+        },
+        {
+          "word": "외출하다",
+          "reading": "Oechulhada",
+          "meaning": "To go out",
+          "example_sentence": "친구를 만나러 외출해요. (I'm going out to meet a friend.)"
+        },
+        {
+          "word": "기지개",
+          "reading": "Gijigae",
+          "meaning": "Stretching (after waking)",
+          "example_sentence": "일어나서 기지개를 켜요. (After waking up, I stretch.)"
+        },
+        {
+          "word": "하품",
+          "reading": "Hapum",
+          "meaning": "Yawn",
+          "example_sentence": "입을 크게 벌리고 하품을 해요. (I open my mouth wide and yawn.)"
+        },
+        {
+          "word": "지각",
+          "reading": "Jigak",
+          "meaning": "Being late / Lateness",
+          "example_sentence": "학교에 지각하지 마세요. (Don't be late for school.)"
+        },
+        {
+          "word": "정시",
+          "reading": "Jeongsi",
+          "meaning": "Exactly on time",
+          "example_sentence": "버스가 정시에 왔어요. (The bus arrived exactly on time.)"
+        },
+        {
+          "word": "한밤중",
+          "reading": "Hanbamjung",
+          "meaning": "Middle of the night",
+          "example_sentence": "한밤중에 갑자기 깼어요. (I suddenly woke up in the middle of the night.)"
+        },
+        {
+          "word": "평소",
+          "reading": "Pyeongso",
+          "meaning": "Ordinary times / Usually",
+          "example_sentence": "평소보다 일찍 일어났어요. (I woke up earlier than usual.)"
+        },
+        {
+          "word": "미루다",
+          "reading": "Miruda",
+          "meaning": "To postpone / delay",
+          "example_sentence": "숙제를 나중으로 미루지 마세요. (Don't postpone your homework until later.)"
+        },
+        {
+          "word": "서두르다",
+          "reading": "Seodeureuda",
+          "meaning": "To hurry",
+          "example_sentence": "지각할 것 같아서 서둘렀어요. (I hurried because it seemed like I would be late.)"
+        }
+      ]
+    }
+  ],
+  "liar_game_data": {
+    "topic": "Daily Routine & Punctuality",
+    "question": "In Korean social situations, especially business or formal meetings, how is punctuality generally viewed?",
+    "options": [
+      "Being 10-15 minutes late is standard and expected.",
+      "Arriving exactly on time is considered too early.",
+      "Being 'on time' actually means arriving 5-10 minutes early to be prepared.",
+      "Time is flexible and not very important in social gatherings."
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Koreans value punctuality highly. In many social and professional contexts, arriving a few minutes early to show respect for others' time is expected. Arriving late without notice is considered quite rude."
+  },
+  "theme": "Daily Routine & Time"
+}

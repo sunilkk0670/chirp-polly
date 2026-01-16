@@ -12,8 +12,7 @@ part of 'liar_game_model.dart';
 T _$identity<T>(T value) => value;
 
 final _privateConstructorUsedError = UnsupportedError(
-  'It seems like you constructed your class using `MyClass._()`. This constructor is only meant to be used by freezed and you are not supposed to need it nor use it.\nPlease check the documentation here for more information: https://github.com/rrousselGit/freezed#adding-getters-and-methods-to-our-models',
-);
+    'It seems like you constructed your class using `MyClass._()`. This constructor is only meant to be used by freezed and you are not supposed to need it nor use it.\nPlease check the documentation here for more information: https://github.com/rrousselGit/freezed#adding-getters-and-methods-to-our-models');
 
 LiarGameModel _$LiarGameModelFromJson(Map<String, dynamic> json) {
   return _LiarGameModel.fromJson(json);
@@ -44,15 +43,13 @@ mixin _$LiarGameModel {
 /// @nodoc
 abstract class $LiarGameModelCopyWith<$Res> {
   factory $LiarGameModelCopyWith(
-    LiarGameModel value,
-    $Res Function(LiarGameModel) then,
-  ) = _$LiarGameModelCopyWithImpl<$Res, LiarGameModel>;
+          LiarGameModel value, $Res Function(LiarGameModel) then) =
+      _$LiarGameModelCopyWithImpl<$Res, LiarGameModel>;
   @useResult
-  $Res call({
-    String trap,
-    @JsonKey(name: 'correct_version') String correctVersion,
-    String explanation,
-  });
+  $Res call(
+      {String trap,
+      @JsonKey(name: 'correct_version') String correctVersion,
+      String explanation});
 }
 
 /// @nodoc
@@ -74,23 +71,20 @@ class _$LiarGameModelCopyWithImpl<$Res, $Val extends LiarGameModel>
     Object? correctVersion = null,
     Object? explanation = null,
   }) {
-    return _then(
-      _value.copyWith(
-            trap: null == trap
-                ? _value.trap
-                : trap // ignore: cast_nullable_to_non_nullable
-                      as String,
-            correctVersion: null == correctVersion
-                ? _value.correctVersion
-                : correctVersion // ignore: cast_nullable_to_non_nullable
-                      as String,
-            explanation: null == explanation
-                ? _value.explanation
-                : explanation // ignore: cast_nullable_to_non_nullable
-                      as String,
-          )
-          as $Val,
-    );
+    return _then(_value.copyWith(
+      trap: null == trap
+          ? _value.trap
+          : trap // ignore: cast_nullable_to_non_nullable
+              as String,
+      correctVersion: null == correctVersion
+          ? _value.correctVersion
+          : correctVersion // ignore: cast_nullable_to_non_nullable
+              as String,
+      explanation: null == explanation
+          ? _value.explanation
+          : explanation // ignore: cast_nullable_to_non_nullable
+              as String,
+    ) as $Val);
   }
 }
 
@@ -98,16 +92,14 @@ class _$LiarGameModelCopyWithImpl<$Res, $Val extends LiarGameModel>
 abstract class _$$LiarGameModelImplCopyWith<$Res>
     implements $LiarGameModelCopyWith<$Res> {
   factory _$$LiarGameModelImplCopyWith(
-    _$LiarGameModelImpl value,
-    $Res Function(_$LiarGameModelImpl) then,
-  ) = __$$LiarGameModelImplCopyWithImpl<$Res>;
+          _$LiarGameModelImpl value, $Res Function(_$LiarGameModelImpl) then) =
+      __$$LiarGameModelImplCopyWithImpl<$Res>;
   @override
   @useResult
-  $Res call({
-    String trap,
-    @JsonKey(name: 'correct_version') String correctVersion,
-    String explanation,
-  });
+  $Res call(
+      {String trap,
+      @JsonKey(name: 'correct_version') String correctVersion,
+      String explanation});
 }
 
 /// @nodoc
@@ -115,9 +107,8 @@ class __$$LiarGameModelImplCopyWithImpl<$Res>
     extends _$LiarGameModelCopyWithImpl<$Res, _$LiarGameModelImpl>
     implements _$$LiarGameModelImplCopyWith<$Res> {
   __$$LiarGameModelImplCopyWithImpl(
-    _$LiarGameModelImpl _value,
-    $Res Function(_$LiarGameModelImpl) _then,
-  ) : super(_value, _then);
+      _$LiarGameModelImpl _value, $Res Function(_$LiarGameModelImpl) _then)
+      : super(_value, _then);
 
   /// Create a copy of LiarGameModel
   /// with the given fields replaced by the non-null parameter values.
@@ -128,33 +119,30 @@ class __$$LiarGameModelImplCopyWithImpl<$Res>
     Object? correctVersion = null,
     Object? explanation = null,
   }) {
-    return _then(
-      _$LiarGameModelImpl(
-        trap: null == trap
-            ? _value.trap
-            : trap // ignore: cast_nullable_to_non_nullable
-                  as String,
-        correctVersion: null == correctVersion
-            ? _value.correctVersion
-            : correctVersion // ignore: cast_nullable_to_non_nullable
-                  as String,
-        explanation: null == explanation
-            ? _value.explanation
-            : explanation // ignore: cast_nullable_to_non_nullable
-                  as String,
-      ),
-    );
+    return _then(_$LiarGameModelImpl(
+      trap: null == trap
+          ? _value.trap
+          : trap // ignore: cast_nullable_to_non_nullable
+              as String,
+      correctVersion: null == correctVersion
+          ? _value.correctVersion
+          : correctVersion // ignore: cast_nullable_to_non_nullable
+              as String,
+      explanation: null == explanation
+          ? _value.explanation
+          : explanation // ignore: cast_nullable_to_non_nullable
+              as String,
+    ));
   }
 }
 
 /// @nodoc
 @JsonSerializable()
 class _$LiarGameModelImpl implements _LiarGameModel {
-  const _$LiarGameModelImpl({
-    required this.trap,
-    @JsonKey(name: 'correct_version') required this.correctVersion,
-    required this.explanation,
-  });
+  const _$LiarGameModelImpl(
+      {required this.trap,
+      @JsonKey(name: 'correct_version') required this.correctVersion,
+      required this.explanation});
 
   factory _$LiarGameModelImpl.fromJson(Map<String, dynamic> json) =>
       _$$LiarGameModelImplFromJson(json);
@@ -204,16 +192,17 @@ class _$LiarGameModelImpl implements _LiarGameModel {
 
   @override
   Map<String, dynamic> toJson() {
-    return _$$LiarGameModelImplToJson(this);
+    return _$$LiarGameModelImplToJson(
+      this,
+    );
   }
 }
 
 abstract class _LiarGameModel implements LiarGameModel {
-  const factory _LiarGameModel({
-    required final String trap,
-    @JsonKey(name: 'correct_version') required final String correctVersion,
-    required final String explanation,
-  }) = _$LiarGameModelImpl;
+  const factory _LiarGameModel(
+      {required final String trap,
+      @JsonKey(name: 'correct_version') required final String correctVersion,
+      required final String explanation}) = _$LiarGameModelImpl;
 
   factory _LiarGameModel.fromJson(Map<String, dynamic> json) =
       _$LiarGameModelImpl.fromJson;

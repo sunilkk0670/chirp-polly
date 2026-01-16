@@ -14,8 +14,7 @@ _$ModuleModelImpl _$$ModuleModelImplFromJson(Map<String, dynamic> json) =>
           .map((e) => LessonModel.fromJson(e as Map<String, dynamic>))
           .toList(),
       liarGameData: LiarGameModel.fromJson(
-        json['liar_game_data'] as Map<String, dynamic>,
-      ),
+          json['liar_game_data'] as Map<String, dynamic>),
     );
 
 Map<String, dynamic> _$$ModuleModelImplToJson(_$ModuleModelImpl instance) =>

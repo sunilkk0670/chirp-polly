@@ -12,8 +12,7 @@ part of 'module_model.dart';
 T _$identity<T>(T value) => value;
 
 final _privateConstructorUsedError = UnsupportedError(
-  'It seems like you constructed your class using `MyClass._()`. This constructor is only meant to be used by freezed and you are not supposed to need it nor use it.\nPlease check the documentation here for more information: https://github.com/rrousselGit/freezed#adding-getters-and-methods-to-our-models',
-);
+    'It seems like you constructed your class using `MyClass._()`. This constructor is only meant to be used by freezed and you are not supposed to need it nor use it.\nPlease check the documentation here for more information: https://github.com/rrousselGit/freezed#adding-getters-and-methods-to-our-models');
 
 ModuleModel _$ModuleModelFromJson(Map<String, dynamic> json) {
   return _ModuleModel.fromJson(json);
@@ -47,16 +46,14 @@ mixin _$ModuleModel {
 /// @nodoc
 abstract class $ModuleModelCopyWith<$Res> {
   factory $ModuleModelCopyWith(
-    ModuleModel value,
-    $Res Function(ModuleModel) then,
-  ) = _$ModuleModelCopyWithImpl<$Res, ModuleModel>;
+          ModuleModel value, $Res Function(ModuleModel) then) =
+      _$ModuleModelCopyWithImpl<$Res, ModuleModel>;
   @useResult
-  $Res call({
-    String id,
-    String theme,
-    List<LessonModel> lessons,
-    @JsonKey(name: 'liar_game_data') LiarGameModel liarGameData,
-  });
+  $Res call(
+      {String id,
+      String theme,
+      List<LessonModel> lessons,
+      @JsonKey(name: 'liar_game_data') LiarGameModel liarGameData});
 
   $LiarGameModelCopyWith<$Res> get liarGameData;
 }
@@ -81,27 +78,24 @@ class _$ModuleModelCopyWithImpl<$Res, $Val extends ModuleModel>
     Object? lessons = null,
     Object? liarGameData = null,
   }) {
-    return _then(
-      _value.copyWith(
-            id: null == id
-                ? _value.id
-                : id // ignore: cast_nullable_to_non_nullable
-                      as String,
-            theme: null == theme
-                ? _value.theme
-                : theme // ignore: cast_nullable_to_non_nullable
-                      as String,
-            lessons: null == lessons
-                ? _value.lessons
-                : lessons // ignore: cast_nullable_to_non_nullable
-                      as List<LessonModel>,
-            liarGameData: null == liarGameData
-                ? _value.liarGameData
-                : liarGameData // ignore: cast_nullable_to_non_nullable
-                      as LiarGameModel,
-          )
-          as $Val,
-    );
+    return _then(_value.copyWith(
+      id: null == id
+          ? _value.id
+          : id // ignore: cast_nullable_to_non_nullable
+              as String,
+      theme: null == theme
+          ? _value.theme
+          : theme // ignore: cast_nullable_to_non_nullable
+              as String,
+      lessons: null == lessons
+          ? _value.lessons
+          : lessons // ignore: cast_nullable_to_non_nullable
+              as List<LessonModel>,
+      liarGameData: null == liarGameData
+          ? _value.liarGameData
+          : liarGameData // ignore: cast_nullable_to_non_nullable
+              as LiarGameModel,
+    ) as $Val);
   }
 
   /// Create a copy of ModuleModel
@@ -119,17 +113,15 @@ class _$ModuleModelCopyWithImpl<$Res, $Val extends ModuleModel>
 abstract class _$$ModuleModelImplCopyWith<$Res>
     implements $ModuleModelCopyWith<$Res> {
   factory _$$ModuleModelImplCopyWith(
-    _$ModuleModelImpl value,
-    $Res Function(_$ModuleModelImpl) then,
-  ) = __$$ModuleModelImplCopyWithImpl<$Res>;
+          _$ModuleModelImpl value, $Res Function(_$ModuleModelImpl) then) =
+      __$$ModuleModelImplCopyWithImpl<$Res>;
   @override
   @useResult
-  $Res call({
-    String id,
-    String theme,
-    List<LessonModel> lessons,
-    @JsonKey(name: 'liar_game_data') LiarGameModel liarGameData,
-  });
+  $Res call(
+      {String id,
+      String theme,
+      List<LessonModel> lessons,
+      @JsonKey(name: 'liar_game_data') LiarGameModel liarGameData});
 
   @override
   $LiarGameModelCopyWith<$Res> get liarGameData;
@@ -140,9 +132,8 @@ class __$$ModuleModelImplCopyWithImpl<$Res>
     extends _$ModuleModelCopyWithImpl<$Res, _$ModuleModelImpl>
     implements _$$ModuleModelImplCopyWith<$Res> {
   __$$ModuleModelImplCopyWithImpl(
-    _$ModuleModelImpl _value,
-    $Res Function(_$ModuleModelImpl) _then,
-  ) : super(_value, _then);
+      _$ModuleModelImpl _value, $Res Function(_$ModuleModelImpl) _then)
+      : super(_value, _then);
 
   /// Create a copy of ModuleModel
   /// with the given fields replaced by the non-null parameter values.
@@ -154,38 +145,36 @@ class __$$ModuleModelImplCopyWithImpl<$Res>
     Object? lessons = null,
     Object? liarGameData = null,
   }) {
-    return _then(
-      _$ModuleModelImpl(
-        id: null == id
-            ? _value.id
-            : id // ignore: cast_nullable_to_non_nullable
-                  as String,
-        theme: null == theme
-            ? _value.theme
-            : theme // ignore: cast_nullable_to_non_nullable
-                  as String,
-        lessons: null == lessons
-            ? _value._lessons
-            : lessons // ignore: cast_nullable_to_non_nullable
-                  as List<LessonModel>,
-        liarGameData: null == liarGameData
-            ? _value.liarGameData
-            : liarGameData // ignore: cast_nullable_to_non_nullable
-                  as LiarGameModel,
-      ),
-    );
+    return _then(_$ModuleModelImpl(
+      id: null == id
+          ? _value.id
+          : id // ignore: cast_nullable_to_non_nullable
+              as String,
+      theme: null == theme
+          ? _value.theme
+          : theme // ignore: cast_nullable_to_non_nullable
+              as String,
+      lessons: null == lessons
+          ? _value._lessons
+          : lessons // ignore: cast_nullable_to_non_nullable
+              as List<LessonModel>,
+      liarGameData: null == liarGameData
+          ? _value.liarGameData
+          : liarGameData // ignore: cast_nullable_to_non_nullable
+              as LiarGameModel,
+    ));
   }
 }
 
 /// @nodoc
 @JsonSerializable()
 class _$ModuleModelImpl implements _ModuleModel {
-  const _$ModuleModelImpl({
-    required this.id,
-    required this.theme,
-    required final List<LessonModel> lessons,
-    @JsonKey(name: 'liar_game_data') required this.liarGameData,
-  }) : _lessons = lessons;
+  const _$ModuleModelImpl(
+      {required this.id,
+      required this.theme,
+      required final List<LessonModel> lessons,
+      @JsonKey(name: 'liar_game_data') required this.liarGameData})
+      : _lessons = lessons;
 
   factory _$ModuleModelImpl.fromJson(Map<String, dynamic> json) =>
       _$$ModuleModelImplFromJson(json);
@@ -233,13 +222,8 @@ class _$ModuleModelImpl implements _ModuleModel {
 
   @JsonKey(includeFromJson: false, includeToJson: false)
   @override
-  int get hashCode => Object.hash(
-    runtimeType,
-    id,
-    theme,
-    const DeepCollectionEquality().hash(_lessons),
-    liarGameData,
-  );
+  int get hashCode => Object.hash(runtimeType, id, theme,
+      const DeepCollectionEquality().hash(_lessons), liarGameData);
 
   /// Create a copy of ModuleModel
   /// with the given fields replaced by the non-null parameter values.
@@ -251,17 +235,19 @@ class _$ModuleModelImpl implements _ModuleModel {
 
   @override
   Map<String, dynamic> toJson() {
-    return _$$ModuleModelImplToJson(this);
+    return _$$ModuleModelImplToJson(
+      this,
+    );
   }
 }
 
 abstract class _ModuleModel implements ModuleModel {
-  const factory _ModuleModel({
-    required final String id,
-    required final String theme,
-    required final List<LessonModel> lessons,
-    @JsonKey(name: 'liar_game_data') required final LiarGameModel liarGameData,
-  }) = _$ModuleModelImpl;
+  const factory _ModuleModel(
+      {required final String id,
+      required final String theme,
+      required final List<LessonModel> lessons,
+      @JsonKey(name: 'liar_game_data')
+      required final LiarGameModel liarGameData}) = _$ModuleModelImpl;
 
   factory _ModuleModel.fromJson(Map<String, dynamic> json) =
       _$ModuleModelImpl.fromJson;

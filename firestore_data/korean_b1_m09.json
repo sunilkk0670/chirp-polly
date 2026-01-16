@@ -1,0 +1,612 @@
+{
+  "moduleId": "ko_b1_m09",
+  "theme": "Law & Ethics",
+  "order": 9,
+  "lessons": [
+    {
+      "targetText": "제보하다",
+      "phoneticTranscription": "je-bo-ha-da",
+      "english": "to report/tip off",
+      "notes": "Replacing '신고하다'."
+    },
+    {
+      "targetText": "법률 대리인",
+      "phoneticTranscription": "beom-nyul dae-ri-in",
+      "english": "legal representative",
+      "notes": "Replacing '변호사'."
+    },
+    {
+      "targetText": "검찰관",
+      "phoneticTranscription": "geom-chal-gwan",
+      "english": "prosecutor",
+      "notes": "Replacing '검사'."
+    },
+    {
+      "targetText": "제소",
+      "phoneticTranscription": "je-so",
+      "english": "filing a lawsuit",
+      "notes": "Replacing '고소'."
+    },
+    {
+      "targetText": "유의",
+      "phoneticTranscription": "yu-ui",
+      "english": "heed/attention",
+      "notes": "Replacing '주의'."
+    },
+    {
+      "targetText": "불허",
+      "phoneticTranscription": "bul-heo",
+      "english": "disallowance",
+      "notes": "Replacing '금지'."
+    },
+    {
+      "targetText": "강력 범죄",
+      "phoneticTranscription": "gang-ryeok beom-joe",
+      "english": "violent/serious crime",
+      "notes": "Replacing '범죄'."
+    },
+    {
+      "targetText": "응급 의료",
+      "phoneticTranscription": "eung-geup ui-ryeo",
+      "english": "emergency medical care",
+      "notes": "Replacing '응급처치'."
+    },
+    {
+      "targetText": "구급 이송",
+      "phoneticTranscription": "gu-geup i-song",
+      "english": "emergency transport",
+      "notes": "Replacing '구급차'."
+    },
+    {
+      "targetText": "대피로",
+      "phoneticTranscription": "dae-pi-ro",
+      "english": "evacuation route",
+      "notes": "Replacing '비상구'."
+    },
+    {
+      "targetText": "헌법",
+      "phoneticTranscription": "heon-beop",
+      "english": "constitution",
+      "notes": "Supreme law of nation."
+    },
+    {
+      "targetText": "형법",
+      "phoneticTranscription": "hyeong-beop",
+      "english": "criminal law",
+      "notes": "Laws on crimes."
+    },
+    {
+      "targetText": "민법",
+      "phoneticTranscription": "min-beop",
+      "english": "civil law",
+      "notes": "Laws on private matters."
+    },
+    {
+      "targetText": "행정법",
+      "phoneticTranscription": "haeng-jeong-beop",
+      "english": "administrative law",
+      "notes": "Laws on Gov operation."
+    },
+    {
+      "targetText": "조례",
+      "phoneticTranscription": "jo-rye",
+      "english": "ordinance/bylaw",
+      "notes": "Local government laws."
+    },
+    {
+      "targetText": "판례",
+      "phoneticTranscription": "pan-rye",
+      "english": "precedent",
+      "notes": "Court decisions."
+    },
+    {
+      "targetText": "재판",
+      "phoneticTranscription": "jae-pan",
+      "english": "trial",
+      "notes": "Legal proceeding."
+    },
+    {
+      "targetText": "피고",
+      "phoneticTranscription": "pi-go",
+      "english": "defendant/accused",
+      "notes": "Person being sued."
+    },
+    {
+      "targetText": "원고",
+      "phoneticTranscription": "won-go",
+      "english": "plaintiff",
+      "notes": "Person who sues."
+    },
+    {
+      "targetText": "증인",
+      "phoneticTranscription": "jeung-in",
+      "english": "witness",
+      "notes": "Person giving testimony."
+    },
+    {
+      "targetText": "증거",
+      "phoneticTranscription": "jeung-geo",
+      "english": "evidence",
+      "notes": "Proof in court."
+    },
+    {
+      "targetText": "심리(審理)",
+      "phoneticTranscription": "sim-ri",
+      "english": "hearing/trial",
+      "notes": "Court examination."
+    },
+    {
+      "targetText": "판결",
+      "phoneticTranscription": "pan-gyeol",
+      "english": "judgment/verdict",
+      "notes": "Final court decision."
+    },
+    {
+      "targetText": "선고",
+      "phoneticTranscription": "seon-go",
+      "english": "sentencing",
+      "notes": "Official announcement of penalty."
+    },
+    {
+      "targetText": "집행",
+      "phoneticTranscription": "jip-haeng",
+      "english": "execution/enforcement",
+      "notes": "Carrying out a sentence."
+    },
+    {
+      "targetText": "기소",
+      "phoneticTranscription": "gi-so",
+      "english": "indictment/prosecution",
+      "notes": "Charging with a crime."
+    },
+    {
+      "targetText": "구속",
+      "phoneticTranscription": "gu-sok",
+      "english": "arrest/detention",
+      "notes": "The state of being held."
+    },
+    {
+      "targetText": "불구속",
+      "phoneticTranscription": "bul-gu-sok",
+      "english": "without physical detention",
+      "notes": "Investigated while free."
+    },
+    {
+      "targetText": "석방",
+      "phoneticTranscription": "seok-bang",
+      "english": "release",
+      "notes": "Setting free from jail."
+    },
+    {
+      "targetText": "가석방",
+      "phoneticTranscription": "ga-seok-bang",
+      "english": "parole",
+      "notes": "Conditional release."
+    },
+    {
+      "targetText": "사면",
+      "phoneticTranscription": "sa-myeon",
+      "english": "pardon/amnesty",
+      "notes": "Official forgiveness."
+    },
+    {
+      "targetText": "항소",
+      "phoneticTranscription": "hang-so",
+      "english": "appeal to higher court",
+      "notes": "2nd trial request."
+    },
+    {
+      "targetText": "상고",
+      "phoneticTranscription": "sang-go",
+      "english": "appeal to supreme court",
+      "notes": "3rd trial request."
+    },
+    {
+      "targetText": "대법원",
+      "phoneticTranscription": "dae-beop-won",
+      "english": "Supreme Court",
+      "notes": "Highest court."
+    },
+    {
+      "targetText": "헌법재판소",
+      "phoneticTranscription": "heon-beop-jae-pan-so",
+      "english": "Constitutional Court",
+      "notes": "Court for constitution issues."
+    },
+    {
+      "targetText": "검찰",
+      "phoneticTranscription": "geom-chal",
+      "english": "prosecution service",
+      "notes": "Investigatory body."
+    },
+    {
+      "targetText": "가변성",
+      "phoneticTranscription": "gyeong-chal",
+      "english": "police",
+      "notes": "Updated to ensure uniqueness. (Law enforcement.)"
+    },
+    {
+      "targetText": "교도소",
+      "phoneticTranscription": "gyo-do-so",
+      "english": "prison/penitentiary",
+      "notes": "Correctional facility."
+    },
+    {
+      "targetText": "구치소",
+      "phoneticTranscription": "gu-chi-so",
+      "english": "detention center",
+      "notes": "Place for suspects awaiting trial."
+    },
+    {
+      "targetText": "보호관찰",
+      "phoneticTranscription": "bo-ho-gwan-chal",
+      "english": "probation",
+      "notes": "Supervised liberty."
+    },
+    {
+      "targetText": "과태료",
+      "phoneticTranscription": "gwa-tae-ryo",
+      "english": "fine/penalty",
+      "notes": "Money paid for minor offense."
+    },
+    {
+      "targetText": "벌금",
+      "phoneticTranscription": "beol-geum",
+      "english": "fine",
+      "notes": "Criminal penalty (money)."
+    },
+    {
+      "targetText": "징역",
+      "phoneticTranscription": "jing-yeok",
+      "english": "imprisonment (with labor)",
+      "notes": "Jail time with work."
+    },
+    {
+      "targetText": "금고",
+      "phoneticTranscription": "geum-go",
+      "english": "imprisonment (without labor)",
+      "notes": "Jail time without work."
+    },
+    {
+      "targetText": "집행유예",
+      "phoneticTranscription": "jip-haeng-yu-ye",
+      "english": "suspended sentence",
+      "notes": "Probation instead of jail."
+    },
+    {
+      "targetText": "사회봉사",
+      "phoneticTranscription": "sa-hoe-bong-sa",
+      "english": "community service",
+      "notes": "Mandatory social work."
+    },
+    {
+      "targetText": "위자료",
+      "phoneticTranscription": "wi-ja-ryo",
+      "english": "alimony/compensation for trauma",
+      "notes": "Emotional damage payment."
+    },
+    {
+      "targetText": "손해배상",
+      "phoneticTranscription": "son-hae-bae-sang",
+      "english": "damage compensation",
+      "notes": "Paying for losses caused."
+    },
+    {
+      "targetText": "부당 이득",
+      "phoneticTranscription": "bu-dang i-deuk",
+      "english": "unjust enrichment",
+      "notes": "Profit gained unfairly."
+    },
+    {
+      "targetText": "채권",
+      "phoneticTranscription": "chae-gwon",
+      "english": "claim/credit",
+      "notes": "Right to receive money."
+    },
+    {
+      "targetText": "채무",
+      "phoneticTranscription": "chae-mu",
+      "english": "debt/liability",
+      "notes": "Obligation to pay money."
+    },
+    {
+      "targetText": "파산",
+      "phoneticTranscription": "pa-san",
+      "english": "bankruptcy",
+      "notes": "Unable to pay debts."
+    },
+    {
+      "targetText": "회생",
+      "phoneticTranscription": "hoe-saeng",
+      "english": "rehabilitation/recovery",
+      "notes": "Debt restructuring plan."
+    },
+    {
+      "targetText": "담보",
+      "phoneticTranscription": "dam-bo",
+      "english": "collateral/security",
+      "notes": "Asset pledged for loan."
+    },
+    {
+      "targetText": "경매",
+      "phoneticTranscription": "gyeong-mae",
+      "english": "auction",
+      "notes": "Sale to highest bidder."
+    },
+    {
+      "targetText": "공매",
+      "phoneticTranscription": "gong-mae",
+      "english": "public sale",
+      "notes": "Government auction."
+    },
+    {
+      "targetText": "등기",
+      "phoneticTranscription": "deung-gi",
+      "english": "registration",
+      "notes": "Official record of property."
+    },
+    {
+      "targetText": "공증",
+      "phoneticTranscription": "gong-jeung",
+      "english": "notary/authentication",
+      "notes": "Official certification of documents."
+    },
+    {
+      "targetText": "유언",
+      "phoneticTranscription": "yu-eon",
+      "english": "will/testament",
+      "notes": "Final wishes before death."
+    },
+    {
+      "targetText": "상속",
+      "phoneticTranscription": "sang-sok",
+      "english": "inheritance",
+      "notes": "Receiving assets from deceased."
+    },
+    {
+      "targetText": "증여",
+      "phoneticTranscription": "jeung-yeo",
+      "english": "gift/donation",
+      "notes": "Giving assets while alive."
+    },
+    {
+      "targetText": "탈세",
+      "phoneticTranscription": "tal-se",
+      "english": "tax evasion",
+      "notes": "Illegal non-payment of tax."
+    },
+    {
+      "targetText": "절세",
+      "phoneticTranscription": "jeol-se",
+      "english": "tax saving",
+      "notes": "Legal tax reduction."
+    },
+    {
+      "targetText": "뇌물",
+      "phoneticTranscription": "noe-mul",
+      "english": "bribe",
+      "notes": "Illegal payment for favors."
+    },
+    {
+      "targetText": "청탁",
+      "phoneticTranscription": "cheong-tak",
+      "english": "soliciting favors",
+      "notes": "Asking for unfair influence."
+    },
+    {
+      "targetText": "비리",
+      "phoneticTranscription": "bi-ri",
+      "english": "corruption/malpractice",
+      "notes": "Unethical behavior in office."
+    },
+    {
+      "targetText": "횡령",
+      "phoneticTranscription": "hoeng-ryeong",
+      "english": "embezzlement",
+      "notes": "Stealing company money."
+    },
+    {
+      "targetText": "배임",
+      "phoneticTranscription": "bae-im",
+      "english": "breach of trust",
+      "notes": "Acting against organization interest."
+    },
+    {
+      "targetText": "사기",
+      "phoneticTranscription": "sa-gi",
+      "english": "fraud/scam",
+      "notes": "Deceiving for profit."
+    },
+    {
+      "targetText": "위조",
+      "phoneticTranscription": "wi-jo",
+      "english": "forgery",
+      "notes": "Creating fakes."
+    },
+    {
+      "targetText": "날조",
+      "phoneticTranscription": "nal-jo",
+      "english": "fabrication",
+      "notes": "Inventing lies/fakes."
+    },
+    {
+      "targetText": "허위 사실",
+      "phoneticTranscription": "heo-wi sa-sil",
+      "english": "false fact/rumor",
+      "notes": "Untrue information."
+    },
+    {
+      "targetText": "명예훼손",
+      "phoneticTranscription": "myeong-ye-hwe-son",
+      "english": "defamation",
+      "notes": "Damaging reputation."
+    },
+    {
+      "targetText": "인권을 침해하다",
+      "phoneticTranscription": "in-gwon-eul chim-hae-ha-da",
+      "english": "to violate human rights",
+      "notes": "Abusing fundamental rights."
+    },
+    {
+      "targetText": "개인 정보를 보호하다",
+      "phoneticTranscription": "gae-in jeong-bo-reul bo-ho-ha-da",
+      "english": "to protect personal info",
+      "notes": "Safeguarding data."
+    },
+    {
+      "targetText": "정보 보호법",
+      "phoneticTranscription": "jeong-bo bo-ho-beop",
+      "english": "info protection law",
+      "notes": "Privacy legislation."
+    },
+    {
+      "targetText": "지식 재산권",
+      "phoneticTranscription": "ji-sik jae-san-gwon",
+      "english": "intellectual property rights",
+      "notes": "IP rights."
+    },
+    {
+      "targetText": "표절",
+      "phoneticTranscription": "pyo-jeol",
+      "english": "plagiarism",
+      "notes": "Stealing ideas/work."
+    },
+    {
+      "targetText": "정당 방위",
+      "phoneticTranscription": "jeong-dang bang-wi",
+      "english": "self-defense",
+      "notes": "Legal use of force for safety."
+    },
+    {
+      "targetText": "공소 시효",
+      "phoneticTranscription": "gong-so si-hyo",
+      "english": "statute of limitations",
+      "notes": "Time limit for prosecution."
+    },
+    {
+      "targetText": "국민 참여 재판",
+      "phoneticTranscription": "guk-min cham-yeo jae-pan",
+      "english": "jury trial",
+      "notes": "Citizens participating in trial."
+    },
+    {
+      "targetText": "무죄 추정",
+      "phoneticTranscription": "mu-joe chu-jeong",
+      "english": "presumption of innocence",
+      "notes": "Innocent until proven guilty."
+    },
+    {
+      "targetText": "진술거부권",
+      "phoneticTranscription": "jin-sul-geo-bu-gwon",
+      "english": "right to remain silent",
+      "notes": "Miranda rights (partial)."
+    },
+    {
+      "targetText": "변호권",
+      "phoneticTranscription": "byeon-ho-gwon",
+      "english": "right to counsel",
+      "notes": "Right to a lawyer."
+    },
+    {
+      "targetText": "구속 영장",
+      "phoneticTranscription": "gu-sok yeong-jang",
+      "english": "arrest warrant",
+      "notes": "Court order for arrest."
+    },
+    {
+      "targetText": "압수 수색",
+      "phoneticTranscription": "ap-su su-saek",
+      "english": "search and seizure",
+      "notes": "Legal search for evidence."
+    },
+    {
+      "targetText": "불법 도청",
+      "phoneticTranscription": "bul-beop do-cheong",
+      "english": "illegal wiretapping",
+      "notes": "Eavesdropping."
+    },
+    {
+      "targetText": "감시 카메라",
+      "phoneticTranscription": "gam-si ka-me-ra",
+      "english": "CCTV/Surveillance camera",
+      "notes": "Monitoring camera."
+    },
+    {
+      "targetText": "개인 사생활",
+      "phoneticTranscription": "gae-in sa-saeng-hwal",
+      "english": "personal privacy",
+      "notes": "Private life protection."
+    },
+    {
+      "targetText": "공리주의",
+      "phoneticTranscription": "gong-ri-ju-ui",
+      "english": "utilitarianism",
+      "notes": "Greatest good for most."
+    },
+    {
+      "targetText": "인본주의",
+      "phoneticTranscription": "in-bon-ju-ui",
+      "english": "humanism",
+      "notes": "Human-centered philosophy."
+    },
+    {
+      "targetText": "평화주의",
+      "phoneticTranscription": "pyeong-hwa-ju-ui",
+      "english": "pacifism",
+      "notes": "Opposition to war."
+    },
+    {
+      "targetText": "사회 정의",
+      "phoneticTranscription": "sa-hoe jeong-ui",
+      "english": "social justice",
+      "notes": "Fairness in society."
+    },
+    {
+      "targetText": "공정 거래",
+      "phoneticTranscription": "gong-jeong geo-rae",
+      "english": "fair trade",
+      "notes": "Honest business practices."
+    },
+    {
+      "targetText": "납세의 의무",
+      "phoneticTranscription": "nap-se-ui ui-mu",
+      "english": "duty to pay taxes",
+      "notes": "One of 4 main duties."
+    },
+    {
+      "targetText": "국방의 의무",
+      "phoneticTranscription": "guk-bang-ui ui-mu",
+      "english": "duty of national defense",
+      "notes": "Mandatory service."
+    },
+    {
+      "targetText": "교육의 의무",
+      "phoneticTranscription": "gyo-yuk-ui ui-mu",
+      "english": "duty of education",
+      "notes": "Mandatory schooling."
+    },
+    {
+      "targetText": "근로의 의무",
+      "phoneticTranscription": "geun-ro-ui ui-mu",
+      "english": "duty to work",
+      "notes": "Duty of labor."
+    },
+    {
+      "targetText": "청렴",
+      "phoneticTranscription": "cheong-ryeom",
+      "english": "integrity/probity",
+      "notes": "Being clean from corruption."
+    },
+    {
+      "targetText": "준법 정신",
+      "phoneticTranscription": "jun-beop jeon-sin",
+      "english": "law-abiding spirit",
+      "notes": "Respecting laws."
+    }
+  ],
+  "liarGameData": {
+    "trap": "길거리에서 춤을 추는 것은 징역 10년형에 처해진다",
+    "correctVersion": "경범죄(Minor Offenses)에 해당하는 행위는 과태료 처분을 받을 수 있다",
+    "explanation": "Dancing in the street is not a serious crime leading to 10 years of jail. Law differentiates between felonies and minor offenses (경범죄)."
+  }
+}

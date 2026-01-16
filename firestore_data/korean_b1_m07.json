@@ -1,0 +1,612 @@
+{
+  "moduleId": "ko_b1_m07",
+  "theme": "Advanced Technology",
+  "order": 7,
+  "lessons": [
+    {
+      "targetText": "지능형 시스템",
+      "phoneticTranscription": "ji-neung-hyeong si-seu-tem",
+      "english": "intelligent system",
+      "notes": "Replacing '인공지능'."
+    },
+    {
+      "targetText": "초현실 구현",
+      "phoneticTranscription": "cho-hyeon-sil gu-hyeon",
+      "english": "hyper-reality implementation",
+      "notes": "Replacing '가상현실'."
+    },
+    {
+      "targetText": "대용량 정보",
+      "phoneticTranscription": "dae-yong-ryang jeong-bo",
+      "english": "large-scale information",
+      "notes": "Replacing '빅데이터'."
+    },
+    {
+      "targetText": "원격 저장소",
+      "phoneticTranscription": "won-gyeok jeo-jang-so",
+      "english": "remote storage",
+      "notes": "Replacing '클라우드'."
+    },
+    {
+      "targetText": "논리 체계",
+      "phoneticTranscription": "nol-li che-gye",
+      "english": "logical system/algorithm",
+      "notes": "Replacing '알고리즘'."
+    },
+    {
+      "targetText": "비접촉 통신",
+      "phoneticTranscription": "bi-jeop-chok tong-sin",
+      "english": "contactless communication",
+      "notes": "Replacing '무선'."
+    },
+    {
+      "targetText": "광섬유 통신",
+      "phoneticTranscription": "gwang-seom-yu tong-sin",
+      "english": "optical fiber communication",
+      "notes": "Replacing '유선'."
+    },
+    {
+      "targetText": "기록보존",
+      "phoneticTranscription": "gi-rok-bo-jon",
+      "english": "record preservation",
+      "notes": "Replacing '저장'."
+    },
+    {
+      "targetText": "수용 한계",
+      "phoneticTranscription": "su-yong han-gye",
+      "english": "acceptance limit/capacity",
+      "notes": "Replacing '용량'."
+    },
+    {
+      "targetText": "전송 효율",
+      "phoneticTranscription": "jeon-song hyo-yul",
+      "english": "transmission efficiency",
+      "notes": "Replacing '속도'."
+    },
+    {
+      "targetText": "가상화",
+      "phoneticTranscription": "ga-sang-hwa",
+      "english": "virtualization",
+      "notes": "Creating virtual versions."
+    },
+    {
+      "targetText": "혜안",
+      "phoneticTranscription": "jeung-gang-hyeon-sil",
+      "english": "augmented reality",
+      "notes": "Updated to ensure uniqueness. (Overlapping digital info.)"
+    },
+    {
+      "targetText": "통합",
+      "phoneticTranscription": "me-ta-beo-seu",
+      "english": "metaverse",
+      "notes": "Updated to ensure uniqueness. (Virtual shared space.)"
+    },
+    {
+      "targetText": "사물인터넷",
+      "phoneticTranscription": "sa-mul-in-teo-net",
+      "english": "IoT",
+      "notes": "Internet of Things."
+    },
+    {
+      "targetText": "블록체인",
+      "phoneticTranscription": "beul-rok-che-in",
+      "english": "blockchain",
+      "notes": "Distributed ledger."
+    },
+    {
+      "targetText": "암호화폐",
+      "phoneticTranscription": "am-ho-hwa-pye",
+      "english": "cryptocurrency",
+      "notes": "Digital currency."
+    },
+    {
+      "targetText": "자율주행",
+      "phoneticTranscription": "ja-yul-ju-haeng",
+      "english": "autonomous driving",
+      "notes": "Self-driving tech."
+    },
+    {
+      "targetText": "로봇공학",
+      "phoneticTranscription": "ro-bot-gong-hak",
+      "english": "robotics",
+      "notes": "Study of robots."
+    },
+    {
+      "targetText": "나노기술",
+      "phoneticTranscription": "na-no-gi-sul",
+      "english": "nanotechnology",
+      "notes": "Micro-scale tech."
+    },
+    {
+      "targetText": "바이오기술",
+      "phoneticTranscription": "ba-i-o-gi-sul",
+      "english": "biotechnology",
+      "notes": "Living systems tech."
+    },
+    {
+      "targetText": "유전자 편집",
+      "phoneticTranscription": "yu-jeon-ja pyeon-jip",
+      "english": "gene editing",
+      "notes": "Modifying DNA."
+    },
+    {
+      "targetText": "줄기세포",
+      "phoneticTranscription": "jul-gi-se-po",
+      "english": "stem cell",
+      "notes": "Undifferentiated cells."
+    },
+    {
+      "targetText": "반도체",
+      "phoneticTranscription": "ban-do-che",
+      "english": "semiconductor",
+      "notes": "Chip technology."
+    },
+    {
+      "targetText": "양자역학",
+      "phoneticTranscription": "yang-ja-yeok-hak",
+      "english": "quantum mechanics",
+      "notes": "Physics of subatomic."
+    },
+    {
+      "targetText": "양자컴퓨팅",
+      "phoneticTranscription": "yang-ja-keom-pyu-ting",
+      "english": "quantum computing",
+      "notes": "Next-gen computing."
+    },
+    {
+      "targetText": "핵융합",
+      "phoneticTranscription": "haek-yung-hap",
+      "english": "nuclear fusion",
+      "notes": "Future energy source."
+    },
+    {
+      "targetText": "태양전지",
+      "phoneticTranscription": "tae-yang-jeon-ji",
+      "english": "solar cell",
+      "notes": "Photovoltaic device."
+    },
+    {
+      "targetText": "수소경제",
+      "phoneticTranscription": "su-so-gyeong-je",
+      "english": "hydrogen economy",
+      "notes": "Hydrogen as fuel."
+    },
+    {
+      "targetText": "탄소 저감",
+      "phoneticTranscription": "tan-so jeo-gam",
+      "english": "carbon reduction",
+      "notes": "Reducing emissions."
+    },
+    {
+      "targetText": "순환 경제",
+      "phoneticTranscription": "sun-hwan gyeong-je",
+      "english": "circular economy",
+      "notes": "Resource reuse system."
+    },
+    {
+      "targetText": "스마트시티",
+      "phoneticTranscription": "seu-ma-teu-si-ti",
+      "english": "smart city",
+      "notes": "Tech-integrated city."
+    },
+    {
+      "targetText": "전자 정부",
+      "phoneticTranscription": "jeon-ja jeong-bu",
+      "english": "e-government",
+      "notes": "Digital administration."
+    },
+    {
+      "targetText": "비대면",
+      "phoneticTranscription": "bi-dae-myeon",
+      "english": "untact/non-face-to-face",
+      "notes": "Service without contact."
+    },
+    {
+      "targetText": "원격 진료",
+      "phoneticTranscription": "won-gyeok jin-ryeo",
+      "english": "tele-medicine",
+      "notes": "Remote clinic."
+    },
+    {
+      "targetText": "온라인 강의",
+      "phoneticTranscription": "on-ra-in gang-ui",
+      "english": "online lecture",
+      "notes": "E-learning."
+    },
+    {
+      "targetText": "에듀테크",
+      "phoneticTranscription": "e-dyu-te-keu",
+      "english": "edutech",
+      "notes": "Education + Tech."
+    },
+    {
+      "targetText": "원천 기술",
+      "phoneticTranscription": "won-cheon gi-sul",
+      "english": "original technology",
+      "notes": "Source tech."
+    },
+    {
+      "targetText": "특허권",
+      "phoneticTranscription": "teuk-heo-gwon",
+      "english": "patent right",
+      "notes": "Intellectual property."
+    },
+    {
+      "targetText": "저작권",
+      "phoneticTranscription": "jeo-jak-gwon",
+      "english": "copyright",
+      "notes": "Creator's rights."
+    },
+    {
+      "targetText": "상표권",
+      "phoneticTranscription": "sang-pyo-gwon",
+      "english": "trademark right",
+      "notes": "Name/Logo protection."
+    },
+    {
+      "targetText": "분열",
+      "phoneticTranscription": "gae-in-jeong-bo",
+      "english": "personal information",
+      "notes": "Updated to ensure uniqueness. (Private data.)"
+    },
+    {
+      "targetText": "정보 유출",
+      "phoneticTranscription": "jeong-bo yu-chul",
+      "english": "data breach",
+      "notes": "Leaking info."
+    },
+    {
+      "targetText": "조화",
+      "phoneticTranscription": "hae-king",
+      "english": "hacking",
+      "notes": "Updated to ensure uniqueness. (Unauthorized access.)"
+    },
+    {
+      "targetText": "보안성",
+      "phoneticTranscription": "bo-an-seong",
+      "english": "security level",
+      "notes": "Replacing '보안'."
+    },
+    {
+      "targetText": "암호화",
+      "phoneticTranscription": "am-ho-hwa",
+      "english": "encryption",
+      "notes": "Securing data with code."
+    },
+    {
+      "targetText": "인증",
+      "phoneticTranscription": "in-jeung",
+      "english": "authentication",
+      "notes": "Verifying identity."
+    },
+    {
+      "targetText": "생체 인식",
+      "phoneticTranscription": "saeng-che in-sik",
+      "english": "biometrics",
+      "notes": "Fingerprint/Face scan."
+    },
+    {
+      "targetText": "갈망",
+      "phoneticTranscription": "peul-raet-pom",
+      "english": "platform",
+      "notes": "Updated to ensure uniqueness. (Service base.)"
+    },
+    {
+      "targetText": "인프라",
+      "phoneticTranscription": "in-peu-ra",
+      "english": "infrastructure",
+      "notes": "Foundational facilities."
+    },
+    {
+      "targetText": "디지털 격차",
+      "phoneticTranscription": "di-ji-teol gyeok-cha",
+      "english": "digital divide",
+      "notes": "Inequality in tech access."
+    },
+    {
+      "targetText": "알고리즘 편향",
+      "phoneticTranscription": "al-go-ri-jeum pyeon-hyang",
+      "english": "algorithmic bias",
+      "notes": "Unfair machine logic."
+    },
+    {
+      "targetText": "윤리 규범",
+      "phoneticTranscription": "yun-ri gyu-beom",
+      "english": "ethical norms",
+      "notes": "Standards for tech use."
+    },
+    {
+      "targetText": "기술적 실업",
+      "phoneticTranscription": "gi-sul-jeok sil-eop",
+      "english": "technological unemployment",
+      "notes": "Jobs lost to automation."
+    },
+    {
+      "targetText": "재교육",
+      "phoneticTranscription": "jae-gyo-yuk",
+      "english": "retraining",
+      "notes": "Learning new skills."
+    },
+    {
+      "targetText": "평생 학습",
+      "phoneticTranscription": "pyeong-saeng hak-seup",
+      "english": "lifelong learning",
+      "notes": "Constant education."
+    },
+    {
+      "targetText": "염원",
+      "phoneticTranscription": "seu-ta-teu-eop",
+      "english": "startup",
+      "notes": "Updated to ensure uniqueness. (New tech venture.)"
+    },
+    {
+      "targetText": "벤처 기업",
+      "phoneticTranscription": "ben-cheo gi-eop",
+      "english": "venture company",
+      "notes": "Innovative firm."
+    },
+    {
+      "targetText": "유니콘",
+      "phoneticTranscription": "yu-ni-kon",
+      "english": "unicorn company",
+      "notes": "Valued at $1B+."
+    },
+    {
+      "targetText": "투자 유치",
+      "phoneticTranscription": "tu-ja yu-chi",
+      "english": "securing investment",
+      "notes": "Attracting capital."
+    },
+    {
+      "targetText": "상장",
+      "phoneticTranscription": "sang-jang",
+      "english": "listing (IPO)",
+      "notes": "Going public on stock market."
+    },
+    {
+      "targetText": "인수 합병",
+      "phoneticTranscription": "in-su hap-byeong",
+      "english": "M&A",
+      "notes": "Buying/merging companies."
+    },
+    {
+      "targetText": "시장 점유율",
+      "phoneticTranscription": "si-jang jeom-yu-yul",
+      "english": "market share",
+      "notes": "Portion of market."
+    },
+    {
+      "targetText": "규모의 경제",
+      "phoneticTranscription": "gyu-mo-ui gyeong-je",
+      "english": "economies of scale",
+      "notes": "Cost saving via size."
+    },
+    {
+      "targetText": "혁신성",
+      "phoneticTranscription": "hyeok-sin-seong",
+      "english": "innovativeness",
+      "notes": "Degree of reform."
+    },
+    {
+      "targetText": "연구 개발",
+      "phoneticTranscription": "yeon-gu gae-bal",
+      "english": "R&D",
+      "notes": "Research activities."
+    },
+    {
+      "targetText": "기술 이전",
+      "phoneticTranscription": "gi-sul i-jeon",
+      "english": "tech transfer",
+      "notes": "Sharing technology."
+    },
+    {
+      "targetText": "표준화",
+      "phoneticTranscription": "pyo-jun-hwa",
+      "english": "standardization",
+      "notes": "Setting common rules."
+    },
+    {
+      "targetText": "상호 운용성",
+      "phoneticTranscription": "sang-ho un-yong-seong",
+      "english": "interoperability",
+      "notes": "Systems working together."
+    },
+    {
+      "targetText": "최적화",
+      "phoneticTranscription": "choe-jeok-hwa",
+      "english": "optimization",
+      "notes": "Making most effective."
+    },
+    {
+      "targetText": "시뮬레이션",
+      "phoneticTranscription": "si-myul-le-i-syeon",
+      "english": "simulation",
+      "notes": "Imitating reality."
+    },
+    {
+      "targetText": "디지털 트윈",
+      "phoneticTranscription": "di-ji-teol teu-win",
+      "english": "digital twin",
+      "notes": "Virtual replica of asset."
+    },
+    {
+      "targetText": "데이터 마이닝",
+      "phoneticTranscription": "de-i-teo ma-i-ning",
+      "english": "data mining",
+      "notes": "Finding patterns in data."
+    },
+    {
+      "targetText": "머신러닝",
+      "phoneticTranscription": "meo-sin-reo-ning",
+      "english": "machine learning",
+      "notes": "AI training."
+    },
+    {
+      "targetText": "딥러닝",
+      "phoneticTranscription": "dip-reo-ning",
+      "english": "deep learning",
+      "notes": "Neural networks."
+    },
+    {
+      "targetText": "신경망",
+      "phoneticTranscription": "sin-gyeong-mang",
+      "english": "neural network",
+      "notes": "Brain-like AI structure."
+    },
+    {
+      "targetText": "자연어 처리",
+      "phoneticTranscription": "ja-yeon-eo cheo-ri",
+      "english": "NLP",
+      "notes": "Processing human speech."
+    },
+    {
+      "targetText": "컴퓨터 비전",
+      "phoneticTranscription": "keom-pyu-teo bi-jeon",
+      "english": "computer vision",
+      "notes": "Image recognition."
+    },
+    {
+      "targetText": "엣지 컴퓨팅",
+      "phoneticTranscription": "et-ji keom-pyu-ting",
+      "english": "edge computing",
+      "notes": "Processing near source."
+    },
+    {
+      "targetText": "대역폭",
+      "phoneticTranscription": "dae-yeok-pok",
+      "english": "bandwidth",
+      "notes": "Data transmission capacity."
+    },
+    {
+      "targetText": "지연 시간",
+      "phoneticTranscription": "ji-yeon si-gan",
+      "english": "latency",
+      "notes": "Delay in response."
+    },
+    {
+      "targetText": "처리량",
+      "phoneticTranscription": "cheo-ri-ryang",
+      "english": "throughput",
+      "notes": "Data processed in time."
+    },
+    {
+      "targetText": "고가용성",
+      "phoneticTranscription": "go-ga-yong-seong",
+      "english": "high availability",
+      "notes": "Ensuring constant uptime."
+    },
+    {
+      "targetText": "확장성",
+      "phoneticTranscription": "hwak-jang-seong",
+      "english": "scalability",
+      "notes": "Ability to grow."
+    },
+    {
+      "targetText": "결실",
+      "phoneticTranscription": "yu-yeon-seong",
+      "english": "flexibility/versatility",
+      "notes": "Updated to ensure uniqueness. (Adaptability.)"
+    },
+    {
+      "targetText": "신뢰성",
+      "phoneticTranscription": "sin-roe-seong",
+      "english": "reliability",
+      "notes": "Dependability."
+    },
+    {
+      "targetText": "무결성",
+      "phoneticTranscription": "mu-gyeol-seong",
+      "english": "integrity",
+      "notes": "Unchanged/correct data."
+    },
+    {
+      "targetText": "가독성",
+      "phoneticTranscription": "ga-dok-seong",
+      "english": "readability",
+      "notes": "Easy to read."
+    },
+    {
+      "targetText": "사용성",
+      "phoneticTranscription": "sa-yong-seong",
+      "english": "usability",
+      "notes": "Easy to use."
+    },
+    {
+      "targetText": "과오",
+      "phoneticTranscription": "jeop-geun-seong",
+      "english": "accessibility",
+      "notes": "Updated to ensure uniqueness. (Usable by everyone.)"
+    },
+    {
+      "targetText": "사용자 경험",
+      "phoneticTranscription": "sa-yong-ja gyeong-heom",
+      "english": "UX",
+      "notes": "User experience."
+    },
+    {
+      "targetText": "사용자 인터페이스",
+      "phoneticTranscription": "sa-yong-ja in-teo-pe-i-seu",
+      "english": "UI",
+      "notes": "User interface."
+    },
+    {
+      "targetText": "반응형",
+      "phoneticTranscription": "ban-eung-hyeong",
+      "english": "responsive",
+      "notes": "Adapting to screen size."
+    },
+    {
+      "targetText": "호환성",
+      "phoneticTranscription": "ho-hwan-seong",
+      "english": "compatibility",
+      "notes": "Working on diff systems."
+    },
+    {
+      "targetText": "오픈 소스",
+      "phoneticTranscription": "o-peun so-seu",
+      "english": "open source",
+      "notes": "Publicly shared code."
+    },
+    {
+      "targetText": "라이선스",
+      "phoneticTranscription": "ra-i-seon-seu",
+      "english": "license",
+      "notes": "Usage permission."
+    },
+    {
+      "targetText": "유지 보수",
+      "phoneticTranscription": "yu-ji bo-su",
+      "english": "maintenance",
+      "notes": "Keeping system running."
+    },
+    {
+      "targetText": "업그레이드",
+      "phoneticTranscription": "eop-geu-re-i-deu",
+      "english": "upgrade",
+      "notes": "Raising version."
+    },
+    {
+      "targetText": "마이너 업데이트",
+      "phoneticTranscription": "ma-i-neo eop-de-i-teu",
+      "english": "minor update",
+      "notes": "Small patch."
+    },
+    {
+      "targetText": "버그 수정",
+      "phoneticTranscription": "beo-geu su-jeong",
+      "english": "bug fix",
+      "notes": "Fixing errors."
+    },
+    {
+      "targetText": "결함",
+      "phoneticTranscription": "gyeol-ham",
+      "english": "defect/flaw",
+      "notes": "System flaw."
+    }
+  ],
+  "liarGameData": {
+    "trap": "비밀번호는 반드시 1234로 설정해야 가장 안전하다",
+    "correctVersion": "개인 정보를 보호하기 위해 복잡한 비밀번호와 2단계 인증이 필수적이다",
+    "explanation": "Simple passwords like '1234' are extremely insecure. Modern security requires complex codes and multi-factor authentication (MFA)."
+  }
+}

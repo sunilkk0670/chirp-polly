@@ -1,0 +1,508 @@
+{
+    "module_id": "es_b1_m06",
+    "language": "es",
+    "level": "B1",
+    "theme": "Social Dynamics & Relationships",
+    "vocabulary": [
+        {
+            "word": "Relación personal",
+            "translation": "Personal relationship",
+            "phonetic": "re-la-SYON per-so-NAL"
+        },
+        {
+            "word": "Amistad profunda",
+            "translation": "Deep friendship",
+            "phonetic": "a-mees-TAD pro-FOON-da"
+        },
+        {
+            "word": "Confianza mutua",
+            "translation": "Mutual trust",
+            "phonetic": "kon-FYAN-sa MOO-twa"
+        },
+        {
+            "word": "Lealtad",
+            "translation": "Loyalty",
+            "phonetic": "le-al-TAD"
+        },
+        {
+            "word": "Sinceridad",
+            "translation": "Sincerity",
+            "phonetic": "seen-se-ree-DAD"
+        },
+        {
+            "word": "Compromiso",
+            "translation": "Commitment",
+            "phonetic": "kom-pro-MEE-so"
+        },
+        {
+            "word": "Apoyo emocional",
+            "translation": "Emotional support",
+            "phonetic": "a-PO-yo e-mo-syo-NAL"
+        },
+        {
+            "word": "Comprensión",
+            "translation": "Understanding",
+            "phonetic": "kom-pren-SYON"
+        },
+        {
+            "word": "Empatía",
+            "translation": "Empathy",
+            "phonetic": "em-pa-TEE-a"
+        },
+        {
+            "word": "Respeto",
+            "translation": "Respect",
+            "phonetic": "res-PE-to"
+        },
+        {
+            "word": "Admiración",
+            "translation": "Admiration",
+            "phonetic": "ad-mee-ra-SYON"
+        },
+        {
+            "word": "Cariño",
+            "translation": "Affection",
+            "phonetic": "ka-REE-nyo"
+        },
+        {
+            "word": "Afecto",
+            "translation": "Affection",
+            "phonetic": "a-FEK-to"
+        },
+        {
+            "word": "Atracción",
+            "translation": "Attraction",
+            "phonetic": "a-trak-SYON"
+        },
+        {
+            "word": "Enamorarse",
+            "translation": "To fall in love",
+            "phonetic": "e-na-mo-RAR-se"
+        },
+        {
+            "word": "Pasión",
+            "translation": "Passion",
+            "phonetic": "pa-SYON"
+        },
+        {
+            "word": "Pareja",
+            "translation": "Partner / Couple",
+            "phonetic": "pa-RE-ha"
+        },
+        {
+            "word": "Noviazgo",
+            "translation": "Engagement / Courtship",
+            "phonetic": "no-BYAS-go"
+        },
+        {
+            "word": "Matrimonio",
+            "translation": "Marriage",
+            "phonetic": "ma-tree-MO-nyo"
+        },
+        {
+            "word": "Boda",
+            "translation": "Wedding",
+            "phonetic": "BO-da"
+        },
+        {
+            "word": "Convivencia",
+            "translation": "Coexistence / Living together",
+            "phonetic": "kon-bee-BEN-sya"
+        },
+        {
+            "word": "Separación",
+            "translation": "Separation",
+            "phonetic": "se-pa-ra-SYON"
+        },
+        {
+            "word": "Divorcio",
+            "translation": "Divorce",
+            "phonetic": "dee-BOR-syo"
+        },
+        {
+            "word": "Ruptura",
+            "translation": "Breakup",
+            "phonetic": "roop-TOO-ra"
+        },
+        {
+            "word": "Conflicto",
+            "translation": "Conflict",
+            "phonetic": "kon-FLEEK-to"
+        },
+        {
+            "word": "Discusión",
+            "translation": "Argument / Discussion",
+            "phonetic": "dees-koo-SYON"
+        },
+        {
+            "word": "Malentendido",
+            "translation": "Misunderstanding",
+            "phonetic": "ma-len-ten-DEE-do"
+        },
+        {
+            "word": "Celos",
+            "translation": "Jealousy",
+            "phonetic": "SE-los"
+        },
+        {
+            "word": "Envidia",
+            "translation": "Envy",
+            "phonetic": "en-BEE-dya"
+        },
+        {
+            "word": "Traición",
+            "translation": "Betrayal",
+            "phonetic": "tray-SYON"
+        },
+        {
+            "word": "Engaño",
+            "translation": "Deception",
+            "phonetic": "en-GA-nyo"
+        },
+        {
+            "word": "Perdón",
+            "translation": "Forgiveness",
+            "phonetic": "per-DON"
+        },
+        {
+            "word": "Reconciliación",
+            "translation": "Reconciliation",
+            "phonetic": "re-kon-see-lya-SYON"
+        },
+        {
+            "word": "Vínculo",
+            "translation": "Bond / Link",
+            "phonetic": "BEEN-koo-lo"
+        },
+        {
+            "word": "Pertenencia",
+            "translation": "Belonging",
+            "phonetic": "per-te-NEN-sya"
+        },
+        {
+            "word": "Soledad",
+            "translation": "Loneliness",
+            "phonetic": "so-le-DAD"
+        },
+        {
+            "word": "Aislamiento",
+            "translation": "Isolation",
+            "phonetic": "ays-la-MYEN-to"
+        },
+        {
+            "word": "Integración social",
+            "translation": "Social integration",
+            "phonetic": "een-te-gra-SYON so-SYAL"
+        },
+        {
+            "word": "Diversidad",
+            "translation": "Diversity",
+            "phonetic": "dee-ber-see-DAD"
+        },
+        {
+            "word": "Inclusión",
+            "translation": "Inclusion",
+            "phonetic": "een-kloo-SYON"
+        },
+        {
+            "word": "Prejuicio",
+            "translation": "Prejudice",
+            "phonetic": "pre-HWEE-syo"
+        },
+        {
+            "word": "Estereotipo",
+            "translation": "Stereotype",
+            "phonetic": "es-te-re-o-TEE-po"
+        },
+        {
+            "word": "Tolerancia",
+            "translation": "Tolerance",
+            "phonetic": "to-le-RAN-sya"
+        },
+        {
+            "word": "Convivencia pacífica",
+            "translation": "Peaceful coexistence",
+            "phonetic": "kon-bee-BEN-sya pa-SEE-fee-ka"
+        },
+        {
+            "word": "Solidaridad",
+            "translation": "Solidarity",
+            "phonetic": "so-lee-da-ree-DAD"
+        },
+        {
+            "word": "Cooperación",
+            "translation": "Cooperation",
+            "phonetic": "ko-o-pe-ra-SYON"
+        },
+        {
+            "word": "Colaboración",
+            "translation": "Collaboration",
+            "phonetic": "ko-la-bo-ra-SYON"
+        },
+        {
+            "word": "Red social",
+            "translation": "Social network",
+            "phonetic": "Red so-SYAL"
+        },
+        {
+            "word": "Contacto",
+            "translation": "Contact",
+            "phonetic": "kon-TAK-to"
+        },
+        {
+            "word": "Influencia social",
+            "translation": "Social influence",
+            "phonetic": "een-flwen-SYA so-SYAL"
+        },
+        {
+            "word": "Liderazgo",
+            "translation": "Leadership",
+            "phonetic": "lee-de-RAS-go"
+        },
+        {
+            "word": "Autoridad",
+            "translation": "Authority",
+            "phonetic": "a-u-to-ree-DAD"
+        },
+        {
+            "word": "Obediencia",
+            "translation": "Obedience",
+            "phonetic": "o-be-DYEN-sya"
+        },
+        {
+            "word": "Rebeldía",
+            "translation": "Rebellion",
+            "phonetic": "re-bel-DEE-a"
+        },
+        {
+            "word": "Norma social",
+            "translation": "Social norm",
+            "phonetic": "NOR-ma so-SYAL"
+        },
+        {
+            "word": "Costumbre",
+            "translation": "Custom",
+            "phonetic": "kos-TOOM-bre"
+        },
+        {
+            "word": "Tradición",
+            "translation": "Tradition",
+            "phonetic": "tra-dee-SYON"
+        },
+        {
+            "word": "Identidad cultural",
+            "translation": "Cultural identity",
+            "phonetic": "ee-den-tee-DAD kool-too-RAL"
+        },
+        {
+            "word": "Pertenencia grupal",
+            "translation": "Group belonging",
+            "phonetic": "per-te-NEN-sya groo-PAL"
+        },
+        {
+            "word": "Individualismo",
+            "translation": "Individualism",
+            "phonetic": "een-dee-bee-dwa-LEES-mo"
+        },
+        {
+            "word": "Colectivismo",
+            "translation": "Collectivism",
+            "phonetic": "ko-lek-tee-BEES-mo"
+        },
+        {
+            "word": "Familia extendida",
+            "translation": "Extended family",
+            "phonetic": "fa-MEE-lya eks-ten-DEE-da"
+        },
+        {
+            "word": "Parentesco",
+            "translation": "Kinship",
+            "phonetic": "pa-ren-TES-ko"
+        },
+        {
+            "word": "Antepasados",
+            "translation": "Ancestors",
+            "phonetic": "an-te-pa-SA-dos"
+        },
+        {
+            "word": "Descendencia",
+            "translation": "Descendants",
+            "phonetic": "des-sen-DEN-sya"
+        },
+        {
+            "word": "Herencia",
+            "translation": "Inheritance",
+            "phonetic": "e-REN-sya"
+        },
+        {
+            "word": "Generación",
+            "translation": "Generation",
+            "phonetic": "he-ne-ra-SYON"
+        },
+        {
+            "word": "Juventud",
+            "translation": "Youth",
+            "phonetic": "hoo-ben-TUD"
+        },
+        {
+            "word": "Adultez",
+            "translation": "Adulthood",
+            "phonetic": "a-dool-TES"
+        },
+        {
+            "word": "Vejez",
+            "translation": "Old age",
+            "phonetic": "be-HES"
+        },
+        {
+            "word": "Ciclo de vida",
+            "translation": "Life cycle",
+            "phonetic": "SEE-klo de BEE-da"
+        },
+        {
+            "word": "Etapa",
+            "translation": "Stage / Phase",
+            "phonetic": "e-TA-pa"
+        },
+        {
+            "word": "Cambio de vida",
+            "translation": "Life change",
+            "phonetic": "KAM-byo de BEE-da"
+        },
+        {
+            "word": "Desarrollo personal",
+            "translation": "Personal development",
+            "phonetic": "de-sa-RRO-yo per-so-NAL"
+        },
+        {
+            "word": "Autoestima",
+            "translation": "Self-esteem",
+            "phonetic": "a-u-to-es-TEE-ma"
+        },
+        {
+            "word": "Confianza en sí mismo",
+            "translation": "Self-confidence",
+            "phonetic": "kon-FYAN-sa en SEE MEES-mo"
+        },
+        {
+            "word": "Autocuidado",
+            "translation": "Self-care",
+            "phonetic": "a-u-to-kwee-DA-do"
+        },
+        {
+            "word": "Salud social",
+            "translation": "Social health",
+            "phonetic": "sa-LOOD so-SYAL"
+        },
+        {
+            "word": "Amabilidad",
+            "translation": "Kindness",
+            "phonetic": "a-ma-bee-lee-DAD"
+        },
+        {
+            "word": "Cortesía",
+            "translation": "Courtesy",
+            "phonetic": "kor-te-SEE-a"
+        },
+        {
+            "word": "Educación social",
+            "translation": "Social manners",
+            "phonetic": "e-du-ka-SYON so-SYAL"
+        },
+        {
+            "word": "Comportamiento",
+            "translation": "Behavior",
+            "phonetic": "kom-por-ta-MYEN-to"
+        },
+        {
+            "word": "Actitud",
+            "translation": "Attitude",
+            "phonetic": "ak-tee-TUD"
+        },
+        {
+            "word": "Personalidad",
+            "translation": "Personality",
+            "phonetic": "per-so-na-lee-DAD"
+        },
+        {
+            "word": "Carácter",
+            "translation": "Character",
+            "phonetic": "ka-RAK-ter"
+        },
+        {
+            "word": "Temperamento",
+            "translation": "Temperament",
+            "phonetic": "tem-pe-ra-MYEN-to"
+        },
+        {
+            "word": "Virtud",
+            "translation": "Virtue",
+            "phonetic": "beer-TUD"
+        },
+        {
+            "word": "Defecto",
+            "translation": "Defect / Flaw",
+            "phonetic": "de-FEK-to"
+        },
+        {
+            "word": "Habilidad social",
+            "translation": "Social skill",
+            "phonetic": "a-bee-lee-DAD so-SYAL"
+        },
+        {
+            "word": "Conversación",
+            "translation": "Conversation",
+            "phonetic": "kon-ber-sa-SYON"
+        },
+        {
+            "word": "Escucha activa",
+            "translation": "Active listening",
+            "phonetic": "es-KOO-cha ak-TEE-ba"
+        },
+        {
+            "word": "Lenguaje no verbal",
+            "translation": "Non-verbal language",
+            "phonetic": "len-GWA-he no ber-BAL"
+        },
+        {
+            "word": "Contacto visual",
+            "translation": "Eye contact",
+            "phonetic": "kon-TAK-to bee-SWAL"
+        },
+        {
+            "word": "Espacio personal",
+            "translation": "Personal space",
+            "phonetic": "es-PA-syo per-so-NAL"
+        },
+        {
+            "word": "Límites",
+            "translation": "Boundaries",
+            "phonetic": "LEE-mee-tes"
+        },
+        {
+            "word": "Privacidad",
+            "translation": "Privacy",
+            "phonetic": "pree-ba-see-DAD"
+        },
+        {
+            "word": "Intimidad",
+            "translation": "Intimacy",
+            "phonetic": "een-tee-mee-DAD"
+        },
+        {
+            "word": "Amistad verdadera",
+            "translation": "True friendship",
+            "phonetic": "a-mees-TAD ber-da-DE-ra"
+        },
+        {
+            "word": "Vínculo fuerte",
+            "translation": "Strong bond",
+            "phonetic": "BEEN-koo-lo FWER-te"
+        },
+        {
+            "word": "Fin de módulo",
+            "translation": "End of module",
+            "phonetic": "Feen de MO-doo-lo"
+        }
+    ]
+}

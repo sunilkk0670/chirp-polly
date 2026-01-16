@@ -72,7 +72,7 @@ class AppDrawer extends StatelessWidget {
                   title: 'About',
                   onTap: () {
                     Navigator.pop(context);
-                    // TODO: Show about dialog
+                    Navigator.pushNamed(context, '/about');
                   },
                 ),
               ],

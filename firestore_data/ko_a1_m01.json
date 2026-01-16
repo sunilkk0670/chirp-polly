@@ -1,0 +1,627 @@
+{
+  "moduleId": "ko_a1_m01",
+  "title": "Greetings & Respect",
+  "level": "a1",
+  "language": "korean",
+  "order": 1,
+  "lessons": [
+    {
+      "order": 1,
+      "vocabularyItems": [
+        {
+          "word": "안녕하세요",
+          "reading": "Annyeong-haseyo",
+          "meaning": "Hello (Polite)",
+          "example_sentence": "안녕하세요, 만나서 반가워요. (Hello, nice to meet you.)"
+        },
+        {
+          "word": "안녕",
+          "reading": "Annyeong",
+          "meaning": "Hi / Bye (Informal)",
+          "example_sentence": "안녕, 잘 지냈어? (Hi, have you been well?)"
+        },
+        {
+          "word": "고맙습니다",
+          "reading": "Gomapseumnida",
+          "meaning": "Thank you (Formal)",
+          "example_sentence": "도와주셔서 고맙습니다. (Thank you for helping me.)"
+        },
+        {
+          "word": "감사합니다",
+          "reading": "Gamsahamnida",
+          "meaning": "Thank you (Honorific)",
+          "example_sentence": "진심으로 감사합니다. (Thank you sincerely.)"
+        },
+        {
+          "word": "반갑습니다",
+          "reading": "Bangapseumnida",
+          "meaning": "Nice to meet you",
+          "example_sentence": "처음 뵙겠습니다. 반갑습니다. (I'm meeting you for the first time. Nice to meet you.)"
+        },
+        {
+          "word": "죄송합니다",
+          "reading": "Joesonghamnida",
+          "meaning": "I am sorry (Formal)",
+          "example_sentence": "늦어서 정말 죄송합니다. (I am truly sorry for being late.)"
+        },
+        {
+          "word": "미안해",
+          "reading": "Mianhae",
+          "meaning": "Sorry (Informal)",
+          "example_sentence": "내가 실수해서 미안해. (I'm sorry for my mistake.)"
+        },
+        {
+          "word": "수고하세요",
+          "reading": "Sugohaseyo",
+          "meaning": "Keep up the good work",
+          "example_sentence": "먼저 가보겠습니다. 수고하세요! (I'll be going now. Keep up the good work!)"
+        },
+        {
+          "word": "안녕히 계세요",
+          "reading": "Annyeonghi gyeseyo",
+          "meaning": "Goodbye (To someone staying)",
+          "example_sentence": "먼저 실례하겠습니다. 안녕히 계세요. (I'll excuse myself first. Goodbye.)"
+        },
+        {
+          "word": "안녕히 가세요",
+          "reading": "Annyeonghi gaseyo",
+          "meaning": "Goodbye (To someone leaving)",
+          "example_sentence": "조심해서 가세요. 안녕히 가세요. (Go safely. Goodbye.)"
+        },
+        {
+          "word": "이름",
+          "reading": "Ireum",
+          "meaning": "Name",
+          "example_sentence": "당신의 이름은 무엇입니까? (What is your name?)"
+        },
+        {
+          "word": "성함",
+          "reading": "Seongham",
+          "meaning": "Name (Honorific)",
+          "example_sentence": "성함이 어떻게 되시나요? (May I ask your name?)"
+        },
+        {
+          "word": "나이",
+          "reading": "Nai",
+          "meaning": "Age",
+          "example_sentence": "나이가 어떻게 되세요? (How old are you?)"
+        },
+        {
+          "word": "연세",
+          "reading": "Yeonse",
+          "meaning": "Age (Honorific)",
+          "example_sentence": "할아버지, 연세가 어떻게 되세요? (Grandfather, how old are you?)"
+        },
+        {
+          "word": "사람",
+          "reading": "Saram",
+          "meaning": "Person",
+          "example_sentence": "이 사람은 제 친구입니다. (This person is my friend.)"
+        },
+        {
+          "word": "저",
+          "reading": "Jeo",
+          "meaning": "I (Humble)",
+          "example_sentence": "저는 학생입니다. (I am a student.)"
+        },
+        {
+          "word": "나",
+          "reading": "Na",
+          "meaning": "I (Plain)",
+          "example_sentence": "나는 한국 요리를 좋아해. (I like Korean food.)"
+        },
+        {
+          "word": "당신",
+          "reading": "Dangsin",
+          "meaning": "You (Polite/Formal)",
+          "example_sentence": "당신은 누구십니까? (Who are you?)"
+        },
+        {
+          "word": "너",
+          "reading": "Neo",
+          "meaning": "You (Informal)",
+          "example_sentence": "너는 어디에 사니? (Where do you live?)"
+        },
+        {
+          "word": "우리",
+          "reading": "Uri",
+          "meaning": "We",
+          "example_sentence": "우리는 친구예요. (We are friends.)"
+        },
+        {
+          "word": "저희",
+          "reading": "Jeohui",
+          "meaning": "We (Humble)",
+          "example_sentence": "저희 집에 놀러 오세요. (Please come over to our house.)"
+        },
+        {
+          "word": "학생",
+          "reading": "Haksaeng",
+          "meaning": "Student",
+          "example_sentence": "저는 대학교 학생입니다. (I am a university student.)"
+        },
+        {
+          "word": "선생님",
+          "reading": "Seonsaengnim",
+          "meaning": "Teacher",
+          "example_sentence": "선생님, 질문이 있어요. (Teacher, I have a question.)"
+        },
+        {
+          "word": "친구",
+          "reading": "Chingu",
+          "meaning": "Friend",
+          "example_sentence": "친구와 같이 밥을 먹어요. (I eat with a friend.)"
+        },
+        {
+          "word": "집",
+          "reading": "Jip",
+          "meaning": "House / Home",
+          "example_sentence": "우리 집은 서울에 있어요. (My house is in Seoul.)"
+        },
+        {
+          "word": "학교",
+          "reading": "Hakgyo",
+          "meaning": "School",
+          "example_sentence": "학교에 가요. (I go to school.)"
+        },
+        {
+          "word": "회사",
+          "reading": "Hoesa",
+          "meaning": "Company",
+          "example_sentence": "저는 회사에 다녀요. (I work at a company.)"
+        },
+        {
+          "word": "만나다",
+          "reading": "Mannada",
+          "meaning": "To meet",
+          "example_sentence": "공원에서 친구를 만나요. (I meet a friend at the park.)"
+        },
+        {
+          "word": "소개하다",
+          "reading": "Sogaehada",
+          "meaning": "To introduce",
+          "example_sentence": "제 친구를 소개할게요. (I'll introduce my friend.)"
+        },
+        {
+          "word": "반갑다",
+          "reading": "Bangapda",
+          "meaning": "To be glad (to meet)",
+          "example_sentence": "만나서 너무 반가워요. (I'm so glad to meet you.)"
+        },
+        {
+          "word": "잘",
+          "reading": "Jal",
+          "meaning": "Well",
+          "example_sentence": "한국말을 잘 하네요! (You speak Korean well!)"
+        },
+        {
+          "word": "지내다",
+          "reading": "Jinaeda",
+          "meaning": "To spend time / live",
+          "example_sentence": "요즘 어떻게 지내세요? (How have you been spending your time lately?)"
+        },
+        {
+          "word": "부탁합니다",
+          "reading": "Butakamnida",
+          "meaning": "Please (request)",
+          "example_sentence": "잘 부탁합니다. (I look forward to working with you / Please be kind to me.)"
+        },
+        {
+          "word": "네",
+          "reading": "Ne",
+          "meaning": "Yes",
+          "example_sentence": "네, 맞습니다. (Yes, that's correct.)"
+        },
+        {
+          "word": "아니요",
+          "reading": "Aniyo",
+          "meaning": "No",
+          "example_sentence": "아니요, 저는 일본 사람이 아니에요. (No, I am not Japanese.)"
+        },
+        {
+          "word": "괜찮습니다",
+          "reading": "Gwaenchanseumnida",
+          "meaning": "It's okay / I'm fine",
+          "example_sentence": "도와드릴까요? 아니요, 괜찮습니다. (Shall I help you? No, I'm fine.)"
+        },
+        {
+          "word": "실례합니다",
+          "reading": "Sillyehamnida",
+          "meaning": "Excuse me",
+          "example_sentence": "실례합니다, 길 좀 물어볼게요. (Excuse me, let me ask for directions.)"
+        },
+        {
+          "word": "여기요",
+          "reading": "Yeogiyo",
+          "meaning": "Over here (Excuse me to waiter)",
+          "example_sentence": "여기요, 물 좀 주세요. (Excuse me, please give me some water.)"
+        },
+        {
+          "word": "잠시만요",
+          "reading": "Jamsimanyo",
+          "meaning": "Wait a moment / Just a second",
+          "example_sentence": "잠시만요, 길 좀 갈게요. (Excuse me/Just a second, passing through.)"
+        },
+        {
+          "word": "어디",
+          "reading": "Eodi",
+          "meaning": "Where",
+          "example_sentence": "어디에 가세요? (Where are you going?)"
+        },
+        {
+          "word": "무엇",
+          "reading": "Mueot",
+          "meaning": "What",
+          "example_sentence": "이것은 무엇입니까? (What is this?)"
+        },
+        {
+          "word": "누구",
+          "reading": "Nugu",
+          "meaning": "Who",
+          "example_sentence": "저 사람은 누구예요? (Who is that person?)"
+        },
+        {
+          "word": "언제",
+          "reading": "Eonje",
+          "meaning": "When",
+          "example_sentence": "생일이 언제예요? (When is your birthday?)"
+        },
+        {
+          "word": "어떻게",
+          "reading": "Eotteoke",
+          "meaning": "How",
+          "example_sentence": "학교에 어떻게 가요? (How do you go to school?)"
+        },
+        {
+          "word": "몇",
+          "reading": "Myeot",
+          "meaning": "How many / Which",
+          "example_sentence": "몇 시에 만날까요? (What time shall we meet?)"
+        },
+        {
+          "word": "한국",
+          "reading": "Hanguk",
+          "meaning": "Korea",
+          "example_sentence": "저는 한국에 가고 싶어요. (I want to go to Korea.)"
+        },
+        {
+          "word": "한국어",
+          "reading": "Hangugeo",
+          "meaning": "Korean language",
+          "example_sentence": "한국어를 공부해요. (I study Korean.)"
+        },
+        {
+          "word": "외국",
+          "reading": "Oeguk",
+          "meaning": "Foreign country",
+          "example_sentence": "외국 여행을 좋아해요. (I like traveling to foreign countries.)"
+        },
+        {
+          "word": "국적",
+          "reading": "Gukjeok",
+          "meaning": "Nationality",
+          "example_sentence": "당신의 국적은 무엇입니까? (What is your nationality?)"
+        },
+        {
+          "word": "직업",
+          "reading": "Jigeop",
+          "meaning": "Occupation",
+          "example_sentence": "직업이 뭐예요? (What is your job?)"
+        },
+        {
+          "word": "의사",
+          "reading": "Uisa",
+          "meaning": "Doctor",
+          "example_sentence": "제 언니는 의사입니다. (My older sister is a doctor.)"
+        },
+        {
+          "word": "간호사",
+          "reading": "Ganhosa",
+          "meaning": "Nurse",
+          "example_sentence": "병원에 간호사가 많아요. (There are many nurses in the hospital.)"
+        },
+        {
+          "word": "경찰",
+          "reading": "Gyeongchal",
+          "meaning": "Police officer",
+          "example_sentence": "경찰이 도와주었어요. (The police officer helped me.)"
+        },
+        {
+          "word": "요리사",
+          "reading": "Yorisa",
+          "meaning": "Chef",
+          "example_sentence": "저는 요리사가 되고 싶어요. (I want to be a chef.)"
+        },
+        {
+          "word": "가수",
+          "reading": "Gasu",
+          "meaning": "Singer",
+          "example_sentence": "그 가수는 노래를 잘 해요. (That singer sings well.)"
+        },
+        {
+          "word": "배우",
+          "reading": "Baeu",
+          "meaning": "Actor",
+          "example_sentence": "영화 배우를 만났어요. (I met a movie actor.)"
+        },
+        {
+          "word": "운동선수",
+          "reading": "Undongseonsu",
+          "meaning": "Athlete",
+          "example_sentence": "제 동생은 축구 운동선수예요. (My younger sibling is a soccer player.)"
+        },
+        {
+          "word": "변호사",
+          "reading": "Byeonhosa",
+          "meaning": "Lawyer",
+          "example_sentence": "아버지는 변호사로 일하세요. (My father works as a lawyer.)"
+        },
+        {
+          "word": "사장님",
+          "reading": "Sajangnim",
+          "meaning": "Boss / CEO",
+          "example_sentence": "사장님, 안녕하세요. (Hello, CEO.)"
+        },
+        {
+          "word": "부장님",
+          "reading": "Bujangnim",
+          "meaning": "Department Manager",
+          "example_sentence": "부장님께 보고를 드립니다. (I am reporting to the department manager.)"
+        },
+        {
+          "word": "회사원",
+          "reading": "Hoesawon",
+          "meaning": "Office worker",
+          "example_sentence": "대부분의 사람들은 회사원입니다. (Most people are office workers.)"
+        },
+        {
+          "word": "주부",
+          "reading": "Jubu",
+          "meaning": "Housewife",
+          "example_sentence": "어머니는 주부세요. (My mother is a housewife.)"
+        },
+        {
+          "word": "가족",
+          "reading": "Gajok",
+          "meaning": "Family",
+          "example_sentence": "우리 가족은 네 명이에요. (My family has four people.)"
+        },
+        {
+          "word": "부모님",
+          "reading": "Bumonim",
+          "meaning": "Parents",
+          "example_sentence": "부모님을 사랑해요. (I love my parents.)"
+        },
+        {
+          "word": "아버지",
+          "reading": "Abeoji",
+          "meaning": "Father",
+          "example_sentence": "아버지는 키가 크세요. (My father is tall.)"
+        },
+        {
+          "word": "어머니",
+          "reading": "Eomeoni",
+          "meaning": "Mother",
+          "example_sentence": "어머니는 친절하세요. (My mother is kind.)"
+        },
+        {
+          "word": "형",
+          "reading": "Hyeong",
+          "meaning": "Older brother (male speaker)",
+          "example_sentence": "제 형은 공부를 잘 해요. (My older brother studies well.)"
+        },
+        {
+          "word": "오빠",
+          "reading": "Oppa",
+          "meaning": "Older brother (female speaker)",
+          "example_sentence": "오빠랑 같이 밥 먹어요. (I eat with my older brother.)"
+        },
+        {
+          "word": "누나",
+          "reading": "Nuna",
+          "meaning": "Older sister (male speaker)",
+          "example_sentence": "누나는 아주 예뻐요. (My older sister is very pretty.)"
+        },
+        {
+          "word": "언니",
+          "reading": "Eonni",
+          "meaning": "Older sister (female speaker)",
+          "example_sentence": "언니랑 쇼핑 가요. (I go shopping with my older sister.)"
+        },
+        {
+          "word": "남동생",
+          "reading": "Namdongsaeng",
+          "meaning": "Younger brother",
+          "example_sentence": "남동생은 귀여워요. (My younger brother is cute.)"
+        },
+        {
+          "word": "여동생",
+          "reading": "Yeodongsaeng",
+          "meaning": "Younger sister",
+          "example_sentence": "여동생은 고등학생이에요. (My younger sister is a high school student.)"
+        },
+        {
+          "word": "형제",
+          "reading": "Hyeongje",
+          "meaning": "Brothers / Siblings",
+          "example_sentence": "형제가 몇 명이에요? (How many siblings do you have?)"
+        },
+        {
+          "word": "자매",
+          "reading": "Jamae",
+          "meaning": "Sisters",
+          "example_sentence": "우리는 자매입니다. (We are sisters.)"
+        },
+        {
+          "word": "인사",
+          "reading": "Insa",
+          "meaning": "Greeting",
+          "example_sentence": "한국에서는 인사가 중요해요. (Greetings are important in Korea.)"
+        },
+        {
+          "word": "예의",
+          "reading": "Yei",
+          "meaning": "Manners / Etiquette",
+          "example_sentence": "예의를 갖추세요. (Please have proper manners.)"
+        },
+        {
+          "word": "존댓말",
+          "reading": "Jondaetmal",
+          "meaning": "Honorific language",
+          "example_sentence": "어른에게는 존댓말을 써야 해요. (You must use honorific language to elders.)"
+        },
+        {
+          "word": "반말",
+          "reading": "Banmal",
+          "meaning": "Informal language",
+          "example_sentence": "우리는 친해서 반말을 해요. (We are close, so we use informal language.)"
+        },
+        {
+          "word": "말씀",
+          "reading": "Malsseum",
+          "meaning": "Word / Speech (Honorific)",
+          "example_sentence": "말씀 많이 들었습니다. (I've heard a lot about you.)"
+        },
+        {
+          "word": "듣다",
+          "reading": "Deutda",
+          "meaning": "To listen / hear",
+          "example_sentence": "음악을 들어요. (I listen to music.)"
+        },
+        {
+          "word": "말하다",
+          "reading": "Malhada",
+          "meaning": "To speak",
+          "example_sentence": "천천히 말해 주세요. (Please speak slowly.)"
+        },
+        {
+          "word": "쓰다",
+          "reading": "Sseuda",
+          "meaning": "To write / use",
+          "example_sentence": "편지를 써요. (I write a letter.)"
+        },
+        {
+          "word": "읽다",
+          "reading": "Ikda",
+          "meaning": "To read",
+          "example_sentence": "책을 읽어요. (I read a book.)"
+        },
+        {
+          "word": "공부하다",
+          "reading": "Gongbuhada",
+          "meaning": "To study",
+          "example_sentence": "도서관에서 공부해요. (I study in the library.)"
+        },
+        {
+          "word": "가르치다",
+          "reading": "Gareuchida",
+          "meaning": "To teach",
+          "example_sentence": "선생님은 수학을 가르치세요. (The teacher teaches math.)"
+        },
+        {
+          "word": "배우다",
+          "reading": "Baeuda",
+          "meaning": "To learn",
+          "example_sentence": "한국 춤을 배워요. (I learn Korean dance.)"
+        },
+        {
+          "word": "질문",
+          "reading": "Jilmun",
+          "meaning": "Question",
+          "example_sentence": "질문이 하나 있어요. (I have one question.)"
+        },
+        {
+          "word": "대답",
+          "reading": "Daedap",
+          "meaning": "Answer",
+          "example_sentence": "질문에 대답해 주세요. (Please answer the question.)"
+        },
+        {
+          "word": "알다",
+          "reading": "Alda",
+          "meaning": "To know",
+          "example_sentence": "그 사람을 알아요? (Do you know that person.)"
+        },
+        {
+          "word": "모르다",
+          "reading": "Moreuda",
+          "meaning": "To not know",
+          "example_sentence": "저는 이름을 몰라요. (I don't know the name.)"
+        },
+        {
+          "word": "도착하다",
+          "reading": "Dochakada",
+          "meaning": "To arrive",
+          "example_sentence": "언제 도착해요? (When do you arrive?)"
+        },
+        {
+          "word": "출발하다",
+          "reading": "Chulbalhada",
+          "meaning": "To depart",
+          "example_sentence": "기차는 곧 출발합니다. (The train departs soon.)"
+        },
+        {
+          "word": "가다",
+          "reading": "Gada",
+          "meaning": "To go",
+          "example_sentence": "집에 가요. (I go home.)"
+        },
+        {
+          "word": "오다",
+          "reading": "Oda",
+          "meaning": "To come",
+          "example_sentence": "여기로 오세요. (Please come here.)"
+        },
+        {
+          "word": "식당",
+          "reading": "Sikdang",
+          "meaning": "Restaurant",
+          "example_sentence": "식당에서 밥을 먹어요. (I eat at a restaurant.)"
+        },
+        {
+          "word": "물",
+          "reading": "Mul",
+          "meaning": "Water",
+          "example_sentence": "물 좀 주세요. (Please give me some water.)"
+        },
+        {
+          "word": "밥",
+          "reading": "Bap",
+          "meaning": "Rice / Meal",
+          "example_sentence": "밥 먹었어요? (Did you eat? / Have you had a meal?)"
+        },
+        {
+          "word": "차",
+          "reading": "Cha",
+          "meaning": "Tea / Car",
+          "example_sentence": "따뜻한 차를 마셔요. (I drink warm tea.)"
+        },
+        {
+          "word": "공원",
+          "reading": "Gongwon",
+          "meaning": "Park",
+          "example_sentence": "공원에서 산책해요. (I take a walk in the park.)"
+        },
+        {
+          "word": "축하합니다",
+          "reading": "Chukahamnida",
+          "meaning": "Congratulations",
+          "example_sentence": "생일 축하합니다! (Happy Birthday!)"
+        }
+      ]
+    }
+  ],
+  "liar_game_data": {
+    "topic": "Korean Bowing & Greeting Etiquette",
+    "question": "When meeting a superior or an elder for the first time in a formal setting, what is the most appropriate combination of actions?",
+    "options": [
+      "Waving while shouting 'Hi!' (Annyeong!)",
+      "A quick 15-degree head nod and a high-five.",
+      "A deep 45-degree bow from the waist while saying 'Bangapseumnida' (Nice to meet you).",
+      "Standing with hands in pockets and saying 'Yo! What's up?'"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Respect is foundational in Korean culture. A 45-degree bow is standard for formal first meetings with superiors or elders. Using honorifics like 'Bangapseumnida' is mandatory, and keeping hands visible (never in pockets) shows respect."
+  },
+  "theme": "Greetings & Respect"
+}

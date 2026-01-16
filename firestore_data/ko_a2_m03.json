@@ -1,0 +1,627 @@
+{
+  "moduleId": "ko_a2_m03",
+  "theme": "Travel & Transportation",
+  "title": "Travel & Transportation",
+  "level": "a2",
+  "language": "korean",
+  "order": 3,
+  "lessons": [
+    {
+      "order": 1,
+      "vocabularyItems": [
+        {
+          "word": "KTX",
+          "reading": "KTX",
+          "meaning": "Korea Train eXpress (high-speed rail)",
+          "example_sentence": "KTX를 타고 부산까지 2시간 30분이 걸려요. (It takes 2 hours and 30 minutes to Busan by KTX.)"
+        },
+        {
+          "word": "고속버스",
+          "reading": "Gosokbeoseu",
+          "meaning": "Express bus",
+          "example_sentence": "고속버스 터미널에서 표를 샀어요. (I bought a ticket at the express bus terminal.)"
+        },
+        {
+          "word": "시외버스",
+          "reading": "Sioebeoseu",
+          "meaning": "Intercity bus",
+          "example_sentence": "시외버스는 고속버스보다 저렴해요. (Intercity buses are cheaper than express buses.)"
+        },
+        {
+          "word": "지하철",
+          "reading": "Jihacheol",
+          "meaning": "Subway / Metro",
+          "example_sentence": "지하철 2호선을 타세요. (Take subway line 2.)"
+        },
+        {
+          "word": "노선",
+          "reading": "Noseon",
+          "meaning": "Route / Line",
+          "example_sentence": "이 노선은 공항까지 연결돼요. (This route connects to the airport.)"
+        },
+        {
+          "word": "환승",
+          "reading": "Hwanseung",
+          "meaning": "Transfer / Connection",
+          "example_sentence": "3호선으로 환승하세요. (Transfer to line 3.)"
+        },
+        {
+          "word": "승강장",
+          "reading": "Seunggangjan",
+          "meaning": "Platform",
+          "example_sentence": "승강장에서 기다리세요. (Wait on the platform.)"
+        },
+        {
+          "word": "개찰구",
+          "reading": "Gaechalgu",
+          "meaning": "Ticket gate / Turnstile",
+          "example_sentence": "개찰구를 통과했어요. (I passed through the ticket gate.)"
+        },
+        {
+          "word": "교통카드",
+          "reading": "Gyotongkadeu",
+          "meaning": "Transportation card",
+          "example_sentence": "교통카드를 충전해야 해요. (I need to recharge my transportation card.)"
+        },
+        {
+          "word": "충전",
+          "reading": "Chungjeon",
+          "meaning": "Recharge / Top-up",
+          "example_sentence": "1만 원 충전했습니다. (I recharged 10,000 won.)"
+        },
+        {
+          "word": "요금",
+          "reading": "Yogeum",
+          "meaning": "Fare / Fee",
+          "example_sentence": "요금이 얼마예요? (How much is the fare?)"
+        },
+        {
+          "word": "감면",
+          "reading": "Gammyeon",
+          "meaning": "Reduction / Exemption",
+          "example_sentence": "학생은 요금 감면을 받아요. (Students receive a fare reduction.)"
+        },
+        {
+          "word": "노약자석",
+          "reading": "Noyakjaseok",
+          "meaning": "Priority seat (for elderly/pregnant)",
+          "example_sentence": "노약자석은 비워 두세요. (Please keep priority seats empty.)"
+        },
+        {
+          "word": "임산부",
+          "reading": "Imsanbu",
+          "meaning": "Pregnant woman",
+          "example_sentence": "임산부를 위한 좌석이에요. (This is a seat for pregnant women.)"
+        },
+        {
+          "word": "장애인",
+          "reading": "Jangaein",
+          "meaning": "Person with disability",
+          "example_sentence": "장애인 전용 주차 공간이에요. (This is a parking space for people with disabilities.)"
+        },
+        {
+          "word": "어르신",
+          "reading": "Eoreusin",
+          "meaning": "Elderly person (respectful)",
+          "example_sentence": "어르신께 자리를 드렸어요. (I gave my seat to the elderly person.)"
+        },
+        {
+          "word": "배려석",
+          "reading": "Baeryeoseok",
+          "meaning": "Courtesy seat",
+          "example_sentence": "배려석에 앉지 마세요. (Please don't sit in courtesy seats.)"
+        },
+        {
+          "word": "혼잡",
+          "reading": "Honjap",
+          "meaning": "Congestion / Crowding",
+          "example_sentence": "출퇴근 시간에는 지하철이 혼잡해요. (The subway is crowded during rush hour.)"
+        },
+        {
+          "word": "러시아워",
+          "reading": "Reosiaweo",
+          "meaning": "Rush hour",
+          "example_sentence": "러시아워를 피해서 이동하세요. (Travel avoiding rush hour.)"
+        },
+        {
+          "word": "막차",
+          "reading": "Makcha",
+          "meaning": "Last train/bus",
+          "example_sentence": "막차를 놓쳤어요. (I missed the last train.)"
+        },
+        {
+          "word": "첫차",
+          "reading": "Cheotcha",
+          "meaning": "First train/bus",
+          "example_sentence": "첫차는 새벽 5시 30분이에요. (The first train is at 5:30 AM.)"
+        },
+        {
+          "word": "배차",
+          "reading": "Baecha",
+          "meaning": "Dispatch interval",
+          "example_sentence": "배차 간격이 10분이에요. (The dispatch interval is 10 minutes.)"
+        },
+        {
+          "word": "정류장",
+          "reading": "Jeongnyujang",
+          "meaning": "Bus stop",
+          "example_sentence": "다음 정류장에서 내리세요. (Get off at the next stop.)"
+        },
+        {
+          "word": "정차",
+          "reading": "Jeongcha",
+          "meaning": "Stop / Halt",
+          "example_sentence": "이 역에는 정차하지 않아요. (This train doesn't stop at this station.)"
+        },
+        {
+          "word": "무정차",
+          "reading": "Mujeongcha",
+          "meaning": "Non-stop / Express",
+          "example_sentence": "무정차 열차예요. (It's a non-stop train.)"
+        },
+        {
+          "word": "직행",
+          "reading": "Jikhaeng",
+          "meaning": "Direct / Non-stop",
+          "example_sentence": "공항 직행 버스를 타세요. (Take the direct airport bus.)"
+        },
+        {
+          "word": "완행",
+          "reading": "Wanhaeng",
+          "meaning": "Local train (all stops)",
+          "example_sentence": "완행 열차는 모든 역에 정차해요. (Local trains stop at every station.)"
+        },
+        {
+          "word": "급행",
+          "reading": "Geuphaeng",
+          "meaning": "Express train",
+          "example_sentence": "급행을 타면 더 빨라요. (It's faster if you take the express.)"
+        },
+        {
+          "word": "좌석",
+          "reading": "Jwaseok",
+          "meaning": "Seat",
+          "example_sentence": "좌석을 예약했어요. (I reserved a seat.)"
+        },
+        {
+          "word": "입석",
+          "reading": "Ipseok",
+          "meaning": "Standing ticket",
+          "example_sentence": "입석표밖에 없어요. (Only standing tickets are available.)"
+        },
+        {
+          "word": "지정석",
+          "reading": "Jijeongseok",
+          "meaning": "Reserved seat",
+          "example_sentence": "지정석을 구매했습니다. (I purchased a reserved seat.)"
+        },
+        {
+          "word": "자유석",
+          "reading": "Jayuseok",
+          "meaning": "Non-reserved seat",
+          "example_sentence": "자유석은 선착순이에요. (Non-reserved seats are first-come, first-served.)"
+        },
+        {
+          "word": "신분증",
+          "reading": "Sinbunjeung",
+          "meaning": "ID card / Identification",
+          "example_sentence": "신분증을 지참하세요. (Please bring your ID.)"
+        },
+        {
+          "word": "비자",
+          "reading": "Bija",
+          "meaning": "Visa",
+          "example_sentence": "비자를 신청해야 해요. (I need to apply for a visa.)"
+        },
+        {
+          "word": "입국",
+          "reading": "Ipguk",
+          "meaning": "Entry / Immigration",
+          "example_sentence": "입국 심사대로 가세요. (Go to the immigration counter.)"
+        },
+        {
+          "word": "세관",
+          "reading": "Segwan",
+          "meaning": "Customs",
+          "example_sentence": "세관 신고서를 작성하세요. (Fill out the customs declaration form.)"
+        },
+        {
+          "word": "수하물",
+          "reading": "Suhamul",
+          "meaning": "Baggage / Luggage",
+          "example_sentence": "수하물을 찾으러 가요. (Let's go get the baggage.)"
+        },
+        {
+          "word": "짐",
+          "reading": "Jjim",
+          "meaning": "Luggage / Belongings",
+          "example_sentence": "짐이 너무 무거워요. (The luggage is too heavy.)"
+        },
+        {
+          "word": "캐리어",
+          "reading": "Kaerieo",
+          "meaning": "Suitcase / Carry-on",
+          "example_sentence": "캐리어를 끌고 가세요. (Pull your suitcase.)"
+        },
+        {
+          "word": "배낭",
+          "reading": "Baenang",
+          "meaning": "Backpack",
+          "example_sentence": "배낭여행을 계획하고 있어요. (I'm planning a backpacking trip.)"
+        },
+        {
+          "word": "탑승",
+          "reading": "Tapseung",
+          "meaning": "Boarding",
+          "example_sentence": "탑승 시간이 언제예요? (When is the boarding time?)"
+        },
+        {
+          "word": "탑승권",
+          "reading": "Tapseunggwon",
+          "meaning": "Boarding pass",
+          "example_sentence": "탑승권을 보여 주세요. (Please show your boarding pass.)"
+        },
+        {
+          "word": "게이트",
+          "reading": "Geiteu",
+          "meaning": "Gate",
+          "example_sentence": "12번 게이트로 가세요. (Go to gate 12.)"
+        },
+        {
+          "word": "출발",
+          "reading": "Chulbal",
+          "meaning": "Departure",
+          "example_sentence": "출발 시간이 지연됐어요. (The departure time has been delayed.)"
+        },
+        {
+          "word": "도착",
+          "reading": "Dochak",
+          "meaning": "Arrival",
+          "example_sentence": "도착 예정 시간은 오후 3시예요. (The estimated arrival time is 3 PM.)"
+        },
+        {
+          "word": "지연",
+          "reading": "Jiyeon",
+          "meaning": "Delay",
+          "example_sentence": "비행기가 2시간 지연됐어요. (The flight was delayed by 2 hours.)"
+        },
+        {
+          "word": "결항",
+          "reading": "Gyeolhang",
+          "meaning": "Flight cancellation",
+          "example_sentence": "태풍으로 결항됐습니다. (It was cancelled due to a typhoon.)"
+        },
+        {
+          "word": "사전예매",
+          "reading": "Sajeonyemae",
+          "meaning": "Advance booking",
+          "example_sentence": "사전예매하면 저렴해요. (It's cheaper with advance booking.)"
+        },
+        {
+          "word": "취소",
+          "reading": "Chwiso",
+          "meaning": "Cancellation",
+          "example_sentence": "예약을 취소하고 싶어요. (I want to cancel the reservation.)"
+        },
+        {
+          "word": "변경",
+          "reading": "Byeongyeong",
+          "meaning": "Change / Modification",
+          "example_sentence": "날짜를 변경할 수 있나요? (Can I change the date?)"
+        },
+        {
+          "word": "환불",
+          "reading": "Hwanbul",
+          "meaning": "Refund",
+          "example_sentence": "환불 받을 수 있어요? (Can I get a refund?)"
+        },
+        {
+          "word": "숙소",
+          "reading": "Sukso",
+          "meaning": "Accommodation / Lodging",
+          "example_sentence": "숙소를 예약했습니다. (I booked accommodation.)"
+        },
+        {
+          "word": "호텔",
+          "reading": "Hotel",
+          "meaning": "Hotel",
+          "example_sentence": "5성급 호텔에 묵었어요. (I stayed at a 5-star hotel.)"
+        },
+        {
+          "word": "모텔",
+          "reading": "Motel",
+          "meaning": "Motel",
+          "example_sentence": "모텔이 저렴해요. (Motels are cheap.)"
+        },
+        {
+          "word": "게스트하우스",
+          "reading": "Geseuteuhauseu",
+          "meaning": "Guesthouse",
+          "example_sentence": "게스트하우스에서 다른 여행자들을 만났어요. (I met other travelers at the guesthouse.)"
+        },
+        {
+          "word": "민박",
+          "reading": "Minbak",
+          "meaning": "Homestay",
+          "example_sentence": "한옥 민박을 체험했어요. (I experienced a hanok homestay.)"
+        },
+        {
+          "word": "체크인",
+          "reading": "Chekeu-in",
+          "meaning": "Check-in",
+          "example_sentence": "체크인 시간은 오후 2시예요. (Check-in time is 2 PM.)"
+        },
+        {
+          "word": "체크아웃",
+          "reading": "Chekeu-aut",
+          "meaning": "Check-out",
+          "example_sentence": "체크아웃은 11시까지예요. (Check-out is until 11 AM.)"
+        },
+        {
+          "word": "객실",
+          "reading": "Gaeksil",
+          "meaning": "Guest room",
+          "example_sentence": "객실이 깨끗해요. (The guest room is clean.)"
+        },
+        {
+          "word": "싱글룸",
+          "reading": "Singgeullum",
+          "meaning": "Single room",
+          "example_sentence": "싱글룸을 예약했어요. (I booked a single room.)"
+        },
+        {
+          "word": "더블룸",
+          "reading": "Deobeullum",
+          "meaning": "Double room",
+          "example_sentence": "더블룸이 더 넓어요. (The double room is more spacious.)"
+        },
+        {
+          "word": "트윈룸",
+          "reading": "Teuwinlum",
+          "meaning": "Twin room",
+          "example_sentence": "트윈룸에는 침대가 두 개예요. (A twin room has two beds.)"
+        },
+        {
+          "word": "조식",
+          "reading": "Josik",
+          "meaning": "Breakfast (included)",
+          "example_sentence": "조식이 포함되어 있나요? (Is breakfast included?)"
+        },
+        {
+          "word": "관광",
+          "reading": "Gwangwang",
+          "meaning": "Sightseeing / Tourism",
+          "example_sentence": "관광 명소를 방문했어요. (I visited tourist attractions.)"
+        },
+        {
+          "word": "명소",
+          "reading": "Myeongso",
+          "meaning": "Famous place / Attraction",
+          "example_sentence": "서울의 유명한 명소예요. (It's a famous attraction in Seoul.)"
+        },
+        {
+          "word": "유적지",
+          "reading": "Yujeokji",
+          "meaning": "Historic site",
+          "example_sentence": "경주는 유적지가 많아요. (Gyeongju has many historic sites.)"
+        },
+        {
+          "word": "전시관",
+          "reading": "Jeonsigwan",
+          "meaning": "Exhibition hall",
+          "example_sentence": "전시관을 관람했어요. (I toured the exhibition hall.)"
+        },
+        {
+          "word": "갤러리",
+          "reading": "Gaelleori",
+          "meaning": "Gallery",
+          "example_sentence": "현대 갤러리에 갔어요. (I went to a modern gallery.)"
+        },
+        {
+          "word": "궁궐",
+          "reading": "Gunggwol",
+          "meaning": "Palace",
+          "example_sentence": "경복궁은 아름다운 궁궐이에요. (Gyeongbokgung is a beautiful palace.)"
+        },
+        {
+          "word": "사찰",
+          "reading": "Sachal",
+          "meaning": "Buddhist temple",
+          "example_sentence": "사찰에서 템플스테이를 했어요. (I did a temple stay at the temple.)"
+        },
+        {
+          "word": "입장료",
+          "reading": "Ipjangnyo",
+          "meaning": "Admission fee / Entrance fee",
+          "example_sentence": "입장료가 무료예요. (The admission fee is free.)"
+        },
+        {
+          "word": "가이드",
+          "reading": "Gaideu",
+          "meaning": "Guide / Tour guide",
+          "example_sentence": "가이드가 설명해 줬어요. (The guide explained it to me.)"
+        },
+        {
+          "word": "투어",
+          "reading": "Tueo",
+          "meaning": "Tour",
+          "example_sentence": "시티 투어 버스를 탔어요. (I took the city tour bus.)"
+        },
+        {
+          "word": "패키지",
+          "reading": "Paekiji",
+          "meaning": "Package tour",
+          "example_sentence": "패키지 여행이 편리해요. (Package tours are convenient.)"
+        },
+        {
+          "word": "자유여행",
+          "reading": "Jayuyeohaeng",
+          "meaning": "Independent travel",
+          "example_sentence": "자유여행을 선호해요. (I prefer independent travel.)"
+        },
+        {
+          "word": "여정",
+          "reading": "Yeojeong",
+          "meaning": "Journey / Itinerary",
+          "example_sentence": "여정을 계획했어요. (I planned the journey.)"
+        },
+        {
+          "word": "경로",
+          "reading": "Gyeongno",
+          "meaning": "Route / Path",
+          "example_sentence": "최적의 경로를 찾았어요. (I found the optimal route.)"
+        },
+        {
+          "word": "안내도",
+          "reading": "Annaedo",
+          "meaning": "Guide map",
+          "example_sentence": "안내도를 받았어요. (I received a guide map.)"
+        },
+        {
+          "word": "GPS",
+          "reading": "GPS",
+          "meaning": "GPS navigation",
+          "example_sentence": "GPS를 사용했어요. (I used GPS.)"
+        },
+        {
+          "word": "길찾기",
+          "reading": "Gilchatgi",
+          "meaning": "Finding directions",
+          "example_sentence": "길찾기 앱을 사용했어요. (I used a directions app.)"
+        },
+        {
+          "word": "진행방향",
+          "reading": "Jinhaengbanghyang",
+          "meaning": "Direction of travel",
+          "example_sentence": "진행방향을 확인하세요. (Check the direction of travel.)"
+        },
+        {
+          "word": "좌측",
+          "reading": "Jwacheuk",
+          "meaning": "Left side (formal)",
+          "example_sentence": "좌측으로 도세요. (Turn to the left.)"
+        },
+        {
+          "word": "우측",
+          "reading": "Ucheuk",
+          "meaning": "Right side (formal)",
+          "example_sentence": "우측 차선으로 가세요. (Go to the right lane.)"
+        },
+        {
+          "word": "전방",
+          "reading": "Jeonbang",
+          "meaning": "Forward / Ahead",
+          "example_sentence": "전방 주시하세요. (Watch ahead.)"
+        },
+        {
+          "word": "유턴",
+          "reading": "Yuteon",
+          "meaning": "U-turn",
+          "example_sentence": "유턴이 금지되어 있어요. (U-turns are prohibited.)"
+        },
+        {
+          "word": "교차로",
+          "reading": "Gyocharo",
+          "meaning": "Intersection / Crossroads",
+          "example_sentence": "교차로에서 우회전하세요. (Turn right at the intersection.)"
+        },
+        {
+          "word": "교통신호",
+          "reading": "Gyotongsinho",
+          "meaning": "Traffic signal",
+          "example_sentence": "교통신호를 지키세요. (Obey traffic signals.)"
+        },
+        {
+          "word": "건널목",
+          "reading": "Geonnolmok",
+          "meaning": "Crossing / Pedestrian crossing",
+          "example_sentence": "건널목에서 건너세요. (Cross at the crossing.)"
+        },
+        {
+          "word": "보행육교",
+          "reading": "Bohaengyukgyo",
+          "meaning": "Pedestrian bridge",
+          "example_sentence": "보행육교를 이용하세요. (Use the pedestrian bridge.)"
+        },
+        {
+          "word": "지하통로",
+          "reading": "Jihatongno",
+          "meaning": "Underground passage",
+          "example_sentence": "지하통로로 가세요. (Go through the underground passage.)"
+        },
+        {
+          "word": "택시",
+          "reading": "Taeksi",
+          "meaning": "Taxi",
+          "example_sentence": "택시를 잡았어요. (I caught a taxi.)"
+        },
+        {
+          "word": "기사님",
+          "reading": "Gisanim",
+          "meaning": "Driver (honorific)",
+          "example_sentence": "기사님, 여기서 세워 주세요. (Driver, please stop here.)"
+        },
+        {
+          "word": "미터기",
+          "reading": "Miteogi",
+          "meaning": "Taxi meter",
+          "example_sentence": "미터기를 켜 주세요. (Please turn on the meter.)"
+        },
+        {
+          "word": "렌터카",
+          "reading": "Renteoka",
+          "meaning": "Rental car",
+          "example_sentence": "렌터카를 빌렸어요. (I rented a car.)"
+        },
+        {
+          "word": "운전",
+          "reading": "Unjeon",
+          "meaning": "Driving",
+          "example_sentence": "운전면허증이 있어요. (I have a driver's license.)"
+        },
+        {
+          "word": "주차",
+          "reading": "Jucha",
+          "meaning": "Parking",
+          "example_sentence": "주차 공간을 찾고 있어요. (I'm looking for a parking space.)"
+        },
+        {
+          "word": "주유소",
+          "reading": "Juyuso",
+          "meaning": "Gas station",
+          "example_sentence": "주유소에서 기름을 넣었어요. (I filled up gas at the gas station.)"
+        },
+        {
+          "word": "통행료",
+          "reading": "Tonghaengnyo",
+          "meaning": "Toll fee",
+          "example_sentence": "고속도로 통행료를 냈어요. (I paid the highway toll.)"
+        },
+        {
+          "word": "휴게소",
+          "reading": "Hyugeso",
+          "meaning": "Rest area / Service area",
+          "example_sentence": "휴게소에서 쉬었어요. (I rested at the rest area.)"
+        },
+        {
+          "word": "안전벨트",
+          "reading": "Anjeonbelteu",
+          "meaning": "Seatbelt / Safety belt",
+          "example_sentence": "안전벨트를 매세요. (Fasten your seatbelt.)"
+        }
+      ]
+    }
+  ],
+  "liar_game_data": {
+    "topic": "Korean Subway Priority Seating Etiquette",
+    "question": "In Korean subway culture, what should you do if you're sitting in a regular seat and an elderly person boards the train?",
+    "options": [
+      "Stay seated - they should use priority seats only",
+      "Immediately stand up and offer your seat",
+      "Wait to see if they ask for your seat",
+      "Move to a priority seat so they can sit there"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "In Korean culture, respecting elders is paramount. Even if you're not in a priority seat (노약자석), you should immediately stand up and offer your seat to elderly people, pregnant women, or people with disabilities. This is considered basic etiquette and shows proper respect. Waiting for them to ask would be considered rude, as it puts the burden on them."
+  }
+}
