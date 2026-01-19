@@ -1,0 +1,672 @@
+{
+    "moduleId": "sa_a1_m04",
+    "theme": "Health & Emotions",
+    "title": "Health & Emotions",
+    "level": "a1",
+    "language": "sanskrit",
+    "order": 4,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "स्वास्थ्यम्",
+                    "reading": "Svaas-thyam",
+                    "meaning": "Health",
+                    "example_sentence": "स्वास्थ्यं धनम् अस्ति। (Health is wealth.)"
+                },
+                {
+                    "word": "रोगः",
+                    "reading": "Ro-gah",
+                    "meaning": "Illness",
+                    "example_sentence": "रोगः कष्टकरः अस्ति। (Illness is troublesome.)"
+                },
+                {
+                    "word": "औषधम्",
+                    "reading": "Au-sha-dham",
+                    "meaning": "Medicine",
+                    "example_sentence": "औषधं रोगं नाशयति। (Medicine destroys illness.)"
+                },
+                {
+                    "word": "चिकित्सकः",
+                    "reading": "Chi-kit-sa-kah",
+                    "meaning": "Doctor",
+                    "example_sentence": "चिकित्सकः रोगिणं चिकित्सति। (The doctor treats the patient.)"
+                },
+                {
+                    "word": "वेदना",
+                    "reading": "Ve-da-naa",
+                    "meaning": "Pain",
+                    "example_sentence": "वेदना असह्या अस्ति। (The pain is unbearable.)"
+                },
+                {
+                    "word": "ज्वरः",
+                    "reading": "Jva-rah",
+                    "meaning": "Fever",
+                    "example_sentence": "ज्वरः उच्चः अस्ति। (The fever is high.)"
+                },
+                {
+                    "word": "कासः",
+                    "reading": "Kaa-sah",
+                    "meaning": "Cough",
+                    "example_sentence": "कासः न निवर्तते। (The cough doesn't stop.)"
+                },
+                {
+                    "word": "निद्रा",
+                    "reading": "Nid-raa",
+                    "meaning": "Sleep",
+                    "example_sentence": "निद्रा आवश्यकी अस्ति। (Sleep is necessary.)"
+                },
+                {
+                    "word": "पिपासा",
+                    "reading": "Pi-paa-saa",
+                    "meaning": "Thirst",
+                    "example_sentence": "पिपासा अस्ति, जलं पिबामि। (There is thirst, I drink water.)"
+                },
+                {
+                    "word": "क्षुधा",
+                    "reading": "Kshu-dhaa",
+                    "meaning": "Hunger",
+                    "example_sentence": "क्षुधा अस्ति, भोजनं खादामि। (There is hunger, I eat food.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "आनन्दः",
+                    "reading": "Aa-nan-dah",
+                    "meaning": "Happiness",
+                    "example_sentence": "आनन्दः जीवनस्य लक्ष्यम् अस्ति। (Happiness is the goal of life.)"
+                },
+                {
+                    "word": "दुःखम्",
+                    "reading": "Duh-kham",
+                    "meaning": "Sorrow",
+                    "example_sentence": "दुःखं सर्वेषां जीवने अस्ति। (Sorrow is in everyone's life.)"
+                },
+                {
+                    "word": "क्रोधः",
+                    "reading": "Kro-dhah",
+                    "meaning": "Anger",
+                    "example_sentence": "क्रोधः शत्रुः अस्ति। (Anger is an enemy.)"
+                },
+                {
+                    "word": "भयम्",
+                    "reading": "Bha-yam",
+                    "meaning": "Fear",
+                    "example_sentence": "भयं मा कुरु। (Don't be afraid.)"
+                },
+                {
+                    "word": "शान्तिः",
+                    "reading": "Shaan-tih",
+                    "meaning": "Peace",
+                    "example_sentence": "शान्तिः सर्वत्र भवतु। (May there be peace everywhere.)"
+                },
+                {
+                    "word": "सन्तोषः",
+                    "reading": "San-to-shah",
+                    "meaning": "Satisfaction",
+                    "example_sentence": "सन्तोषः परमं सुखम् अस्ति। (Satisfaction is the greatest happiness.)"
+                },
+                {
+                    "word": "आश्चर्यम्",
+                    "reading": "Aash-char-yam",
+                    "meaning": "Surprise",
+                    "example_sentence": "आश्चर्यं महत् अस्ति। (The surprise is great.)"
+                },
+                {
+                    "word": "धैर्यम्",
+                    "reading": "Dhai-ryam",
+                    "meaning": "Patience",
+                    "example_sentence": "धैर्यं धारय। (Have patience.)"
+                },
+                {
+                    "word": "लज्जा",
+                    "reading": "Laj-jaa",
+                    "meaning": "Shyness",
+                    "example_sentence": "लज्जा स्त्रीणां भूषणम् अस्ति। (Shyness is the ornament of women.)"
+                },
+                {
+                    "word": "प्रेम",
+                    "reading": "Pre-ma",
+                    "meaning": "Love",
+                    "example_sentence": "प्रेम सर्वोत्तमम् अस्ति। (Love is the best.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "घृणा",
+                    "reading": "Ghru-naa",
+                    "meaning": "Hatred",
+                    "example_sentence": "घृणा मा कुरु। (Don't hate.)"
+                },
+                {
+                    "word": "इच्छा",
+                    "reading": "Ic-chaa",
+                    "meaning": "Wish",
+                    "example_sentence": "मम इच्छा अस्ति। (I have a wish.)"
+                },
+                {
+                    "word": "आशा",
+                    "reading": "Aa-shaa",
+                    "meaning": "Hope",
+                    "example_sentence": "आशा जीवनस्य आधारः अस्ति। (Hope is the foundation of life.)"
+                },
+                {
+                    "word": "चिन्ता",
+                    "reading": "Chin-taa",
+                    "meaning": "Worry",
+                    "example_sentence": "चिन्ता मा कुरु। (Don't worry.)"
+                },
+                {
+                    "word": "बुद्धिः",
+                    "reading": "Bud-dhih",
+                    "meaning": "Intellect",
+                    "example_sentence": "बुद्धिः मनुष्यस्य विशेषता अस्ति। (Intellect is man's specialty.)"
+                },
+                {
+                    "word": "मनः",
+                    "reading": "Ma-nah",
+                    "meaning": "Mind",
+                    "example_sentence": "मनः शान्तं भवतु। (May the mind be peaceful.)"
+                },
+                {
+                    "word": "शक्तिः",
+                    "reading": "Shak-tih",
+                    "meaning": "Strength",
+                    "example_sentence": "शक्तिः आवश्यकी अस्ति। (Strength is necessary.)"
+                },
+                {
+                    "word": "क्षमा",
+                    "reading": "Ksha-maa",
+                    "meaning": "Forgiveness",
+                    "example_sentence": "क्षमा महान् गुणः अस्ति। (Forgiveness is a great virtue.)"
+                },
+                {
+                    "word": "करुणा",
+                    "reading": "Ka-ru-naa",
+                    "meaning": "Compassion",
+                    "example_sentence": "करुणा दर्शय। (Show compassion.)"
+                },
+                {
+                    "word": "भक्तिः",
+                    "reading": "Bhak-tih",
+                    "meaning": "Devotion",
+                    "example_sentence": "भक्तिः ईश्वरे कुरु। (Have devotion to God.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "विश्वासः",
+                    "reading": "Vish-vaa-sah",
+                    "meaning": "Trust",
+                    "example_sentence": "विश्वासः महत्त्वपूर्णः अस्ति। (Trust is important.)"
+                },
+                {
+                    "word": "अहङ्कारः",
+                    "reading": "A-han-kaa-rah",
+                    "meaning": "Ego",
+                    "example_sentence": "अहङ्कारः त्यज। (Abandon ego.)"
+                },
+                {
+                    "word": "स्मृतिः",
+                    "reading": "Smru-tih",
+                    "meaning": "Memory",
+                    "example_sentence": "स्मृतिः तीक्ष्णा अस्ति। (The memory is sharp.)"
+                },
+                {
+                    "word": "स्वप्नः",
+                    "reading": "Svap-nah",
+                    "meaning": "Dream",
+                    "example_sentence": "स्वप्नः सुन्दरः आसीत्। (The dream was beautiful.)"
+                },
+                {
+                    "word": "परिश्रमः",
+                    "reading": "Pa-ri-shra-mah",
+                    "meaning": "Hard work",
+                    "example_sentence": "परिश्रमः सफलतायाः कुञ्जी अस्ति। (Hard work is the key to success.)"
+                },
+                {
+                    "word": "आलस्यम्",
+                    "reading": "Aa-las-yam",
+                    "meaning": "Laziness",
+                    "example_sentence": "आलस्यं त्यज। (Abandon laziness.)"
+                },
+                {
+                    "word": "जयः",
+                    "reading": "Ja-yah",
+                    "meaning": "Victory",
+                    "example_sentence": "जयः अस्माकम् अस्ति। (Victory is ours.)"
+                },
+                {
+                    "word": "पराजयः",
+                    "reading": "Pa-raa-ja-yah",
+                    "meaning": "Defeat",
+                    "example_sentence": "पराजयात् शिक्षां गृह्णीमः। (We learn from defeat.)"
+                },
+                {
+                    "word": "लाभः",
+                    "reading": "Laa-bhah",
+                    "meaning": "Gain",
+                    "example_sentence": "लाभः महान् अस्ति। (The gain is great.)"
+                },
+                {
+                    "word": "हानिः",
+                    "reading": "Haa-nih",
+                    "meaning": "Loss",
+                    "example_sentence": "हानिः अल्पः अस्ति। (The loss is small.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "प्रश्नः",
+                    "reading": "Prash-nah",
+                    "meaning": "Question",
+                    "example_sentence": "प्रश्नं पृच्छ। (Ask a question.)"
+                },
+                {
+                    "word": "उत्तरम्",
+                    "reading": "Ut-ta-ram",
+                    "meaning": "Answer",
+                    "example_sentence": "उत्तरं देहि। (Give an answer.)"
+                },
+                {
+                    "word": "मौनम्",
+                    "reading": "Mau-nam",
+                    "meaning": "Silence",
+                    "example_sentence": "मौनं स्वर्णम् अस्ति। (Silence is golden.)"
+                },
+                {
+                    "word": "सत्यम्",
+                    "reading": "Sat-yam",
+                    "meaning": "Truth",
+                    "example_sentence": "सत्यं वद। (Speak the truth.)"
+                },
+                {
+                    "word": "असत्यम्",
+                    "reading": "A-sat-yam",
+                    "meaning": "Lie",
+                    "example_sentence": "असत्यं मा वद। (Don't speak lies.)"
+                },
+                {
+                    "word": "धर्मः",
+                    "reading": "Dhar-mah",
+                    "meaning": "Duty/Righteousness",
+                    "example_sentence": "धर्मं पालय। (Follow righteousness.)"
+                },
+                {
+                    "word": "पुण्यम्",
+                    "reading": "Pun-yam",
+                    "meaning": "Virtue",
+                    "example_sentence": "पुण्यं कुरु। (Do virtuous deeds.)"
+                },
+                {
+                    "word": "पापम्",
+                    "reading": "Paa-pam",
+                    "meaning": "Sin",
+                    "example_sentence": "पापं मा कुरु। (Don't commit sin.)"
+                },
+                {
+                    "word": "यज्ञः",
+                    "reading": "Yaj-nyah",
+                    "meaning": "Ritual/Sacrifice",
+                    "example_sentence": "यज्ञः पवित्रः अस्ति। (The ritual is sacred.)"
+                },
+                {
+                    "word": "पूजा",
+                    "reading": "Poo-jaa",
+                    "meaning": "Worship",
+                    "example_sentence": "पूजां कुरु। (Perform worship.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "ध्यानम्",
+                    "reading": "Dhyaa-nam",
+                    "meaning": "Meditation",
+                    "example_sentence": "ध्यानं शान्तिं ददाति। (Meditation gives peace.)"
+                },
+                {
+                    "word": "योगः",
+                    "reading": "Yo-gah",
+                    "meaning": "Yoga",
+                    "example_sentence": "योगः स्वास्थ्याय उपयोगी अस्ति। (Yoga is useful for health.)"
+                },
+                {
+                    "word": "ज्ञानम्",
+                    "reading": "Gnyaa-nam",
+                    "meaning": "Knowledge",
+                    "example_sentence": "ज्ञानं शक्तिः अस्ति। (Knowledge is power.)"
+                },
+                {
+                    "word": "विद्या",
+                    "reading": "Vid-yaa",
+                    "meaning": "Learning/Education",
+                    "example_sentence": "विद्या धनम् अस्ति। (Education is wealth.)"
+                },
+                {
+                    "word": "कला",
+                    "reading": "Ka-laa",
+                    "meaning": "Art",
+                    "example_sentence": "कला सुन्दरा अस्ति। (Art is beautiful.)"
+                },
+                {
+                    "word": "सङ्गीतम्",
+                    "reading": "San-gee-tam",
+                    "meaning": "Music",
+                    "example_sentence": "सङ्गीतं मधुरम् अस्ति। (Music is sweet.)"
+                },
+                {
+                    "word": "नृत्यम्",
+                    "reading": "Nrut-yam",
+                    "meaning": "Dance",
+                    "example_sentence": "नृत्यं कलात्मकम् अस्ति। (Dance is artistic.)"
+                },
+                {
+                    "word": "क्रीडा",
+                    "reading": "Kree-daa",
+                    "meaning": "Play/Sport",
+                    "example_sentence": "क्रीडा आवश्यकी अस्ति। (Play is necessary.)"
+                },
+                {
+                    "word": "उत्सवः",
+                    "reading": "Ut-sa-vah",
+                    "meaning": "Festival",
+                    "example_sentence": "उत्सवः आनन्ददायकः अस्ति। (The festival is joyful.)"
+                },
+                {
+                    "word": "यात्रा",
+                    "reading": "Yaat-raa",
+                    "meaning": "Journey",
+                    "example_sentence": "यात्रा सुखकरा आसीत्। (The journey was pleasant.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "विश्रामः",
+                    "reading": "Vi-shraa-mah",
+                    "meaning": "Rest",
+                    "example_sentence": "विश्रामः आवश्यकः अस्ति। (Rest is necessary.)"
+                },
+                {
+                    "word": "साहाय्यम्",
+                    "reading": "Saa-haay-yam",
+                    "meaning": "Help",
+                    "example_sentence": "साहाय्यं कुरु। (Give help.)"
+                },
+                {
+                    "word": "सेवा",
+                    "reading": "Se-vaa",
+                    "meaning": "Service",
+                    "example_sentence": "सेवा परमः धर्मः अस्ति। (Service is the highest duty.)"
+                },
+                {
+                    "word": "दानम्",
+                    "reading": "Daa-nam",
+                    "meaning": "Giving/Charity",
+                    "example_sentence": "दानं पुण्यकरम् अस्ति। (Giving is virtuous.)"
+                },
+                {
+                    "word": "मित्रम्",
+                    "reading": "Mit-ram",
+                    "meaning": "Friend",
+                    "example_sentence": "मित्रं प्रियम् अस्ति। (The friend is dear.)"
+                },
+                {
+                    "word": "शत्रुः",
+                    "reading": "Shat-ruh",
+                    "meaning": "Enemy",
+                    "example_sentence": "शत्रुः दूरे भवतु। (May the enemy be far away.)"
+                },
+                {
+                    "word": "अतिथिः",
+                    "reading": "A-ti-thih",
+                    "meaning": "Guest",
+                    "example_sentence": "अतिथिः देवो भव। (The guest is like God.)"
+                },
+                {
+                    "word": "सभा",
+                    "reading": "Sa-bhaa",
+                    "meaning": "Meeting/Assembly",
+                    "example_sentence": "सभा आरभ्यते। (The meeting begins.)"
+                },
+                {
+                    "word": "सम्भाषणम्",
+                    "reading": "Sam-bhaa-sha-nam",
+                    "meaning": "Conversation",
+                    "example_sentence": "सम्भाषणं रोचकम् अस्ति। (The conversation is interesting.)"
+                },
+                {
+                    "word": "भाषणम्",
+                    "reading": "Bhaa-sha-nam",
+                    "meaning": "Speech",
+                    "example_sentence": "भाषणं प्रभावकारि आसीत्। (The speech was impressive.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "भाषा",
+                    "reading": "Bhaa-shaa",
+                    "meaning": "Language",
+                    "example_sentence": "संस्कृतं प्राचीना भाषा अस्ति। (Sanskrit is an ancient language.)"
+                },
+                {
+                    "word": "अक्षरम्",
+                    "reading": "Ak-sha-ram",
+                    "meaning": "Letter",
+                    "example_sentence": "अक्षराणि लिख। (Write the letters.)"
+                },
+                {
+                    "word": "शब्दः",
+                    "reading": "Shab-dah",
+                    "meaning": "Word",
+                    "example_sentence": "शब्दः महत्त्वपूर्णः अस्ति। (The word is important.)"
+                },
+                {
+                    "word": "वाक्यम्",
+                    "reading": "Vaak-yam",
+                    "meaning": "Sentence",
+                    "example_sentence": "वाक्यं रच। (Construct a sentence.)"
+                },
+                {
+                    "word": "अर्थः",
+                    "reading": "Ar-thah",
+                    "meaning": "Meaning",
+                    "example_sentence": "अर्थः स्पष्टः अस्ति। (The meaning is clear.)"
+                },
+                {
+                    "word": "विषयः",
+                    "reading": "Vi-sha-yah",
+                    "meaning": "Topic/Subject",
+                    "example_sentence": "विषयः रोचकः अस्ति। (The topic is interesting.)"
+                },
+                {
+                    "word": "पुरावृत्तम्",
+                    "reading": "Pu-raa-vrut-tam",
+                    "meaning": "History",
+                    "example_sentence": "पुरावृत्तं पठामि। (I study history.)"
+                },
+                {
+                    "word": "भूगोलम्",
+                    "reading": "Bhoo-go-lam",
+                    "meaning": "Geography",
+                    "example_sentence": "भूगोलं रोचकम् अस्ति। (Geography is interesting.)"
+                },
+                {
+                    "word": "गणितम्",
+                    "reading": "Ga-ni-tam",
+                    "meaning": "Mathematics",
+                    "example_sentence": "गणितं कठिनम् अस्ति। (Mathematics is difficult.)"
+                },
+                {
+                    "word": "विज्ञानम्",
+                    "reading": "Vi-gnyaa-nam",
+                    "meaning": "Science",
+                    "example_sentence": "विज्ञानं उपयोगी अस्ति। (Science is useful.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "संस्कृतिः",
+                    "reading": "San-skru-tih",
+                    "meaning": "Culture",
+                    "example_sentence": "भारतीया संस्कृतिः प्राचीना अस्ति। (Indian culture is ancient.)"
+                },
+                {
+                    "word": "परम्परा",
+                    "reading": "Pa-ram-pa-raa",
+                    "meaning": "Tradition",
+                    "example_sentence": "परम्परां पालय। (Follow the tradition.)"
+                },
+                {
+                    "word": "नियमः",
+                    "reading": "Ni-ya-mah",
+                    "meaning": "Rule",
+                    "example_sentence": "नियमं पालय। (Follow the rule.)"
+                },
+                {
+                    "word": "व्यवस्था",
+                    "reading": "Vya-vas-thaa",
+                    "meaning": "System",
+                    "example_sentence": "व्यवस्था सुदृढा अस्ति। (The system is strong.)"
+                },
+                {
+                    "word": "अधिकारः",
+                    "reading": "A-dhi-kaa-rah",
+                    "meaning": "Right/Authority",
+                    "example_sentence": "अधिकारः सर्वेषां अस्ति। (Everyone has rights.)"
+                },
+                {
+                    "word": "कर्तव्यम्",
+                    "reading": "Kar-tav-yam",
+                    "meaning": "Duty",
+                    "example_sentence": "कर्तव्यं पालय। (Fulfill your duty.)"
+                },
+                {
+                    "word": "समयपालनम्",
+                    "reading": "Sa-ma-ya-paa-la-nam",
+                    "meaning": "Punctuality (Trap Word)",
+                    "example_sentence": "समयपालनं महत्त्वपूर्णम् अस्ति। (Punctuality is important.) [LIAR GAME TRAP]"
+                },
+                {
+                    "word": "अनुशासनम्",
+                    "reading": "A-nu-shaa-sa-nam",
+                    "meaning": "Discipline",
+                    "example_sentence": "अनुशासनं आवश्यकम् अस्ति। (Discipline is necessary.)"
+                },
+                {
+                    "word": "सफलता",
+                    "reading": "Sa-pha-la-taa",
+                    "meaning": "Success",
+                    "example_sentence": "सफलता परिश्रमेण आगच्छति। (Success comes through hard work.)"
+                },
+                {
+                    "word": "प्रयत्नः",
+                    "reading": "Pra-yat-nah",
+                    "meaning": "Effort",
+                    "example_sentence": "प्रयत्नः सफलतायाः मूलम् अस्ति। (Effort is the root of success.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "आरम्भः",
+                    "reading": "Aa-ram-bhah",
+                    "meaning": "Beginning",
+                    "example_sentence": "आरम्भः शुभः भवतु। (May the beginning be auspicious.)"
+                },
+                {
+                    "word": "अन्तः",
+                    "reading": "An-tah",
+                    "meaning": "End",
+                    "example_sentence": "अन्तः सुखकरः भवतु। (May the end be pleasant.)"
+                },
+                {
+                    "word": "जीवनम्",
+                    "reading": "Jee-va-nam",
+                    "meaning": "Life",
+                    "example_sentence": "जीवनं अमूल्यम् अस्ति। (Life is priceless.)"
+                },
+                {
+                    "word": "मरणम्",
+                    "reading": "Ma-ra-nam",
+                    "meaning": "Death",
+                    "example_sentence": "मरणं निश्चितम् अस्ति। (Death is certain.)"
+                },
+                {
+                    "word": "आत्मा",
+                    "reading": "Aat-maa",
+                    "meaning": "Soul",
+                    "example_sentence": "आत्मा अमरः अस्ति। (The soul is immortal.)"
+                },
+                {
+                    "word": "परमात्मा",
+                    "reading": "Pa-ra-maat-maa",
+                    "meaning": "Supreme Soul/God",
+                    "example_sentence": "परमात्मा सर्वत्र अस्ति। (The Supreme Soul is everywhere.)"
+                },
+                {
+                    "word": "ईश्वरः",
+                    "reading": "Eesh-va-rah",
+                    "meaning": "God",
+                    "example_sentence": "ईश्वरः एकः अस्ति। (God is one.)"
+                },
+                {
+                    "word": "सृष्टिः",
+                    "reading": "Srus-htih",
+                    "meaning": "Creation",
+                    "example_sentence": "सृष्टिः सुन्दरा अस्ति। (Creation is beautiful.)"
+                },
+                {
+                    "word": "प्रकृतिः",
+                    "reading": "Pra-kru-tih",
+                    "meaning": "Nature",
+                    "example_sentence": "प्रकृतिः माता अस्ति। (Nature is mother.)"
+                },
+                {
+                    "word": "ब्रह्माञ्जलिः",
+                    "reading": "Brah-maan-ja-lih",
+                    "meaning": "Divine salute",
+                    "example_sentence": "ब्रह्माञ्जलिं ददामि। (I offer a divine salute.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Sanskrit Compound Word Trap",
+        "question": "What is the correct Sanskrit word for 'punctuality'?",
+        "options": [
+            "समयपालनम् (samaya-paalanam - time-keeping)",
+            "समयः (samayah - time)",
+            "पालनम् (paalanam - keeping/observing)",
+            "Both A and B are correct"
+        ],
+        "correct_answer_index": 0,
+        "explanation": "While समयपालनम् (samaya-paalanam) literally means 'time-keeping' and is used for punctuality, it's actually a modern compound word created by combining समय (time) + पालन (observing/keeping). In classical Sanskrit, this exact compound wasn't commonly used - the concept would be expressed differently. However, in modern Sanskrit usage, समयपालनम् has become the accepted term for punctuality. This trap teaches learners to recognize that some 'Sanskrit' words they encounter might be modern constructions rather than classical vocabulary!"
+    }
+}

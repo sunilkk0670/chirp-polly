@@ -1,0 +1,672 @@
+{
+    "moduleId": "sa_a2_m07",
+    "theme": "Complex Time & Measurements",
+    "title": "Complex Time & Measurements",
+    "level": "a2",
+    "language": "sanskrit",
+    "order": 7,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "निमेषः",
+                    "reading": "Ni-me-shah",
+                    "meaning": "Twinkling of an eye/Moment",
+                    "example_sentence": "निमेषः अतिलघुः कालः। (A moment is a very small time.)"
+                },
+                {
+                    "word": "क्षणः",
+                    "reading": "Ksha-nah",
+                    "meaning": "Second/Instant (Trap Word)",
+                    "example_sentence": "क्षणः शीघ्रं गच्छति। (An instant passes quickly.) [LIAR GAME TRAP]"
+                },
+                {
+                    "word": "मुहूर्तम्",
+                    "reading": "Mu-hoor-tam",
+                    "meaning": "Period of 48 minutes",
+                    "example_sentence": "मुहूर्तं अष्टचत्वारिंशत् निमेषाः। (A muhurta is 48 minutes.)"
+                },
+                {
+                    "word": "यामः",
+                    "reading": "Yaa-mah",
+                    "meaning": "Watch of 3 hours",
+                    "example_sentence": "यामः त्रिघण्टाः भवति। (A yama is three hours.)"
+                },
+                {
+                    "word": "अहोरात्रम्",
+                    "reading": "A-ho-raat-ram",
+                    "meaning": "Day and night (24 hours)",
+                    "example_sentence": "अहोरात्रं चतुर्विंशतिघण्टाः। (Day and night is 24 hours.)"
+                },
+                {
+                    "word": "तिथिः",
+                    "reading": "Ti-thih",
+                    "meaning": "Lunar day",
+                    "example_sentence": "तिथिः चान्द्रदिनम् अस्ति। (Tithi is a lunar day.)"
+                },
+                {
+                    "word": "प्रतिपदा",
+                    "reading": "Pra-ti-pa-daa",
+                    "meaning": "First lunar day",
+                    "example_sentence": "प्रतिपदा प्रथमा तिथिः। (Pratipada is the first tithi.)"
+                },
+                {
+                    "word": "द्वितीया",
+                    "reading": "Dvi-tee-yaa",
+                    "meaning": "Second lunar day",
+                    "example_sentence": "द्वितीया द्वितीया तिथिः। (Dvitiya is the second tithi.)"
+                },
+                {
+                    "word": "तृतीया",
+                    "reading": "Tru-tee-yaa",
+                    "meaning": "Third lunar day",
+                    "example_sentence": "तृतीया तृतीया तिथिः। (Tritiya is the third tithi.)"
+                },
+                {
+                    "word": "चतुर्थी",
+                    "reading": "Cha-tur-thee",
+                    "meaning": "Fourth lunar day",
+                    "example_sentence": "चतुर्थी चतुर्थी तिथिः। (Chaturthi is the fourth tithi.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "पञ्चमी",
+                    "reading": "Pan-cha-mee",
+                    "meaning": "Fifth lunar day",
+                    "example_sentence": "पञ्चमी पञ्चमी तिथिः। (Panchami is the fifth tithi.)"
+                },
+                {
+                    "word": "षष्ठी",
+                    "reading": "Shash-thee",
+                    "meaning": "Sixth lunar day",
+                    "example_sentence": "षष्ठी षष्ठी तिथिः। (Shashthi is the sixth tithi.)"
+                },
+                {
+                    "word": "सप्तमी",
+                    "reading": "Sap-ta-mee",
+                    "meaning": "Seventh lunar day",
+                    "example_sentence": "सप्तमी सप्तमी तिथिः। (Saptami is the seventh tithi.)"
+                },
+                {
+                    "word": "अष्टमी",
+                    "reading": "Ash-ta-mee",
+                    "meaning": "Eighth lunar day",
+                    "example_sentence": "अष्टमी अष्टमी तिथिः। (Ashtami is the eighth tithi.)"
+                },
+                {
+                    "word": "नवमी",
+                    "reading": "Na-va-mee",
+                    "meaning": "Ninth lunar day",
+                    "example_sentence": "नवमी नवमी तिथिः। (Navami is the ninth tithi.)"
+                },
+                {
+                    "word": "दशमी",
+                    "reading": "Da-sha-mee",
+                    "meaning": "Tenth lunar day",
+                    "example_sentence": "दशमी दशमी तिथिः। (Dashami is the tenth tithi.)"
+                },
+                {
+                    "word": "एकादशी",
+                    "reading": "E-kaa-da-shee",
+                    "meaning": "Eleventh lunar day",
+                    "example_sentence": "एकादशी उपवासदिनम्। (Ekadashi is a fasting day.)"
+                },
+                {
+                    "word": "द्वादशी",
+                    "reading": "Dvaa-da-shee",
+                    "meaning": "Twelfth lunar day",
+                    "example_sentence": "द्वादशी द्वादशी तिथिः। (Dvadashi is the twelfth tithi.)"
+                },
+                {
+                    "word": "त्रयोदशी",
+                    "reading": "Tra-yo-da-shee",
+                    "meaning": "Thirteenth lunar day",
+                    "example_sentence": "त्रयोदशी त्रयोदशी तिथिः। (Trayodashi is the thirteenth tithi.)"
+                },
+                {
+                    "word": "चतुर्दशी",
+                    "reading": "Cha-tur-da-shee",
+                    "meaning": "Fourteenth lunar day",
+                    "example_sentence": "चतुर्दशी चतुर्दशी तिथिः। (Chaturdashi is the fourteenth tithi.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "अयनम्",
+                    "reading": "A-ya-nam",
+                    "meaning": "Solstice/Half-year",
+                    "example_sentence": "अयनं षण्मासाः भवति। (Ayana is six months.)"
+                },
+                {
+                    "word": "उत्तरायणम्",
+                    "reading": "Ut-ta-raa-ya-nam",
+                    "meaning": "Northern solstice",
+                    "example_sentence": "उत्तरायणं शुभकालः। (Uttarayana is an auspicious time.)"
+                },
+                {
+                    "word": "दक्षिणायनम्",
+                    "reading": "Dak-shi-naa-ya-nam",
+                    "meaning": "Southern solstice",
+                    "example_sentence": "दक्षिणायनं वर्षाकालः। (Dakshinayana is the rainy season.)"
+                },
+                {
+                    "word": "मन्वन्तरम्",
+                    "reading": "Man-van-ta-ram",
+                    "meaning": "Aeon/Age of a Manu",
+                    "example_sentence": "मन्वन्तरं दीर्घकालः। (Manvantara is a long period.)"
+                },
+                {
+                    "word": "कल्पः",
+                    "reading": "Kal-pah",
+                    "meaning": "Day of Brahma/Cycle of time",
+                    "example_sentence": "कल्पः ब्रह्मणः दिनम्। (Kalpa is Brahma's day.)"
+                },
+                {
+                    "word": "युगम्",
+                    "reading": "Yu-gam",
+                    "meaning": "Epoch/Era",
+                    "example_sentence": "युगं कालचक्रम् अस्ति। (Yuga is a time cycle.)"
+                },
+                {
+                    "word": "कृतयुगम्",
+                    "reading": "Kru-ta-yu-gam",
+                    "meaning": "Golden Age",
+                    "example_sentence": "कृतयुगं सत्ययुगम् अपि। (Kritayuga is also Satyayuga.)"
+                },
+                {
+                    "word": "त्रेतायुगम्",
+                    "reading": "Tre-taa-yu-gam",
+                    "meaning": "Silver Age",
+                    "example_sentence": "त्रेतायुगे रामः अवतीर्णः। (Rama incarnated in Tretayuga.)"
+                },
+                {
+                    "word": "द्वापरयुगम्",
+                    "reading": "Dvaa-pa-ra-yu-gam",
+                    "meaning": "Copper Age",
+                    "example_sentence": "द्वापरयुगे कृष्णः अवतीर्णः। (Krishna incarnated in Dvaparayuga.)"
+                },
+                {
+                    "word": "कलियुगम्",
+                    "reading": "Ka-li-yu-gam",
+                    "meaning": "Iron Age/Current era",
+                    "example_sentence": "कलियुगं वर्तमानयुगम्। (Kaliyuga is the current era.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "शताब्दी",
+                    "reading": "Sha-taab-dee",
+                    "meaning": "Century",
+                    "example_sentence": "शताब्दी शतवर्षाणि। (A century is hundred years.)"
+                },
+                {
+                    "word": "सहस्राब्दी",
+                    "reading": "Sa-has-raab-dee",
+                    "meaning": "Millennium",
+                    "example_sentence": "सहस्राब्दी सहस्रवर्षाणि। (A millennium is thousand years.)"
+                },
+                {
+                    "word": "पञ्चाङ्गम्",
+                    "reading": "Pan-chaan-gam",
+                    "meaning": "Almanac/Calendar",
+                    "example_sentence": "पञ्चाङ्गं पञ्चभागयुक्तम्। (Panchanga has five parts.)"
+                },
+                {
+                    "word": "सौरमासः",
+                    "reading": "Sau-ra-maa-sah",
+                    "meaning": "Solar month",
+                    "example_sentence": "सौरमासः सूर्यगतिः। (Solar month is based on sun's movement.)"
+                },
+                {
+                    "word": "चान्द्रमासः",
+                    "reading": "Chaan-dra-maa-sah",
+                    "meaning": "Lunar month",
+                    "example_sentence": "चान्द्रमासः चन्द्रगतिः। (Lunar month is based on moon's movement.)"
+                },
+                {
+                    "word": "अधिमासः",
+                    "reading": "A-dhi-maa-sah",
+                    "meaning": "Intercalary month/Leap month",
+                    "example_sentence": "अधिमासः अतिरिक्तमासः। (Adhimasa is an extra month.)"
+                },
+                {
+                    "word": "संवत्सरः",
+                    "reading": "Sam-vat-sa-rah",
+                    "meaning": "Full year",
+                    "example_sentence": "संवत्सरः पूर्णवर्षम्। (Samvatsara is a complete year.)"
+                },
+                {
+                    "word": "कालक्रमः",
+                    "reading": "Kaa-la-kra-mah",
+                    "meaning": "Chronology",
+                    "example_sentence": "कालक्रमः समयक्रमः। (Chronology is time sequence.)"
+                },
+                {
+                    "word": "समकालीनः",
+                    "reading": "Sa-ma-kaa-lee-nah",
+                    "meaning": "Contemporary",
+                    "example_sentence": "समकालीनः एककालीनः। (Contemporary is of the same time.)"
+                },
+                {
+                    "word": "अनन्तकालः",
+                    "reading": "A-nan-ta-kaa-lah",
+                    "meaning": "Eternity",
+                    "example_sentence": "अनन्तकालः अपरिमितकालः। (Eternity is unlimited time.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "त्रिकोणमितिः",
+                    "reading": "Tri-ko-na-mi-tih",
+                    "meaning": "Trigonometry",
+                    "example_sentence": "त्रिकोणमितिः त्रिभुजविज्ञानम्। (Trigonometry is the science of triangles.)"
+                },
+                {
+                    "word": "परिधिः",
+                    "reading": "Pa-ri-dhih",
+                    "meaning": "Circumference",
+                    "example_sentence": "परिधिः वृत्तस्य सीमा। (Circumference is the boundary of a circle.)"
+                },
+                {
+                    "word": "व्यासः",
+                    "reading": "Vyaa-sah",
+                    "meaning": "Diameter",
+                    "example_sentence": "व्यासः वृत्तमध्यरेखा। (Diameter is the middle line of a circle.)"
+                },
+                {
+                    "word": "त्रिज्या",
+                    "reading": "Trij-yaa",
+                    "meaning": "Radius",
+                    "example_sentence": "त्रिज्या व्यासार्धम्। (Radius is half the diameter.)"
+                },
+                {
+                    "word": "लम्बः",
+                    "reading": "Lam-bah",
+                    "meaning": "Perpendicular/Vertical",
+                    "example_sentence": "लम्बः ऊर्ध्वरेखा अस्ति। (Perpendicular is a vertical line.)"
+                },
+                {
+                    "word": "क्षैतिजः",
+                    "reading": "Kshai-ti-jah",
+                    "meaning": "Horizontal",
+                    "example_sentence": "क्षैतिजः समानान्तररेखा। (Horizontal is a parallel line.)"
+                },
+                {
+                    "word": "समानान्तरः",
+                    "reading": "Sa-maa-naan-ta-rah",
+                    "meaning": "Parallel",
+                    "example_sentence": "समानान्तरे रेखे न मिलतः। (Parallel lines don't meet.)"
+                },
+                {
+                    "word": "विकर्णः",
+                    "reading": "Vi-kar-nah",
+                    "meaning": "Diagonal",
+                    "example_sentence": "विकर्णः कोणसंयोजकरेखा। (Diagonal is a corner-connecting line.)"
+                },
+                {
+                    "word": "घनम्",
+                    "reading": "Gha-nam",
+                    "meaning": "Cube/Solid",
+                    "example_sentence": "घनं त्रिविमीयाकृतिः। (Cube is a three-dimensional shape.)"
+                },
+                {
+                    "word": "गोलकः",
+                    "reading": "Go-la-kah",
+                    "meaning": "Sphere/Globe",
+                    "example_sentence": "गोलकः वर्तुलाकृतिः। (Sphere is a round shape.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "शङ्कुः",
+                    "reading": "Shan-kuh",
+                    "meaning": "Cone/Gnomon",
+                    "example_sentence": "शङ्कुः त्रिभुजाकृतिः। (Cone is a triangular shape.)"
+                },
+                {
+                    "word": "वर्तुलम्",
+                    "reading": "Var-tu-lam",
+                    "meaning": "Circular/Round",
+                    "example_sentence": "वर्तुलं गोलाकारम्। (Circular is round-shaped.)"
+                },
+                {
+                    "word": "दीर्घवृत्तम्",
+                    "reading": "Deer-gha-vru-ttam",
+                    "meaning": "Ellipse",
+                    "example_sentence": "दीर्घवृत्तं दीर्घवर्तुलम्। (Ellipse is an elongated circle.)"
+                },
+                {
+                    "word": "समबाहुः",
+                    "reading": "Sa-ma-baa-huh",
+                    "meaning": "Equilateral",
+                    "example_sentence": "समबाहुः समभुजः। (Equilateral has equal sides.)"
+                },
+                {
+                    "word": "विषमबाहुः",
+                    "reading": "Vi-sha-ma-baa-huh",
+                    "meaning": "Scalene",
+                    "example_sentence": "विषमबाहुः असमभुजः। (Scalene has unequal sides.)"
+                },
+                {
+                    "word": "अष्टभुजः",
+                    "reading": "Ash-ta-bhu-jah",
+                    "meaning": "Octagon",
+                    "example_sentence": "अष्टभुजः अष्टकोणः। (Octagon has eight angles.)"
+                },
+                {
+                    "word": "पञ्चभुजः",
+                    "reading": "Pan-cha-bhu-jah",
+                    "meaning": "Pentagon",
+                    "example_sentence": "पञ्चभुजः पञ्चकोणः। (Pentagon has five angles.)"
+                },
+                {
+                    "word": "अंशः",
+                    "reading": "Am-shah",
+                    "meaning": "Degree/Portion",
+                    "example_sentence": "अंशः कोणमानम्। (Degree is angle measurement.)"
+                },
+                {
+                    "word": "कला",
+                    "reading": "Ka-laa",
+                    "meaning": "Minute of a degree",
+                    "example_sentence": "कला अंशस्य षष्टितमः भागः। (Kala is one-sixtieth of a degree.)"
+                },
+                {
+                    "word": "विकला",
+                    "reading": "Vi-ka-laa",
+                    "meaning": "Second of a degree",
+                    "example_sentence": "विकला कलायाः षष्टितमः भागः। (Vikala is one-sixtieth of a kala.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "गुरुत्वम्",
+                    "reading": "Gu-rut-vam",
+                    "meaning": "Gravity/Heaviness",
+                    "example_sentence": "गुरुत्वं आकर्षणशक्तिः। (Gravity is attractive force.)"
+                },
+                {
+                    "word": "द्रव्यमानम्",
+                    "reading": "Drav-ya-maa-nam",
+                    "meaning": "Mass",
+                    "example_sentence": "द्रव्यमानं पदार्थपरिमाणम्। (Mass is the quantity of matter.)"
+                },
+                {
+                    "word": "घनत्वम्",
+                    "reading": "Gha-nat-vam",
+                    "meaning": "Density",
+                    "example_sentence": "घनत्वं सान्द्रता अस्ति। (Density is compactness.)"
+                },
+                {
+                    "word": "वेगः",
+                    "reading": "Ve-gah",
+                    "meaning": "Velocity",
+                    "example_sentence": "वेगः गतिशीलता अस्ति। (Velocity is speed.)"
+                },
+                {
+                    "word": "त्वरणम्",
+                    "reading": "Tva-ra-nam",
+                    "meaning": "Acceleration",
+                    "example_sentence": "त्वरणं वेगवृद्धिः। (Acceleration is increase in velocity.)"
+                },
+                {
+                    "word": "बलम्",
+                    "reading": "Ba-lam",
+                    "meaning": "Force",
+                    "example_sentence": "बलं प्रयत्नः अस्ति। (Force is effort.)"
+                },
+                {
+                    "word": "ऊर्जा",
+                    "reading": "Oor-jaa",
+                    "meaning": "Energy",
+                    "example_sentence": "ऊर्जा कार्यशक्तिः। (Energy is work capacity.)"
+                },
+                {
+                    "word": "तापमानम्",
+                    "reading": "Taa-pa-maa-nam",
+                    "meaning": "Temperature",
+                    "example_sentence": "तापमानं उष्णतामानम्। (Temperature is heat measurement.)"
+                },
+                {
+                    "word": "दबावः",
+                    "reading": "Da-baa-vah",
+                    "meaning": "Pressure",
+                    "example_sentence": "दबावः पीडनम् अस्ति। (Pressure is compression.)"
+                },
+                {
+                    "word": "विद्युत्",
+                    "reading": "Vid-yut",
+                    "meaning": "Electricity",
+                    "example_sentence": "विद्युत् विद्युच्छक्तिः। (Electricity is electric power.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "चुम्बकत्वम्",
+                    "reading": "Chum-ba-kat-vam",
+                    "meaning": "Magnetism",
+                    "example_sentence": "चुम्बकत्वं आकर्षणशक्तिः। (Magnetism is attractive power.)"
+                },
+                {
+                    "word": "ध्वनिः",
+                    "reading": "Dhva-nih",
+                    "meaning": "Sound/Decibel",
+                    "example_sentence": "ध्वनिः श्रव्यतरङ्गः। (Sound is an audible wave.)"
+                },
+                {
+                    "word": "प्रकाशवेगः",
+                    "reading": "Pra-kaa-sha-ve-gah",
+                    "meaning": "Speed of light",
+                    "example_sentence": "प्रकाशवेगः अत्यन्तशीघ्रः। (Speed of light is extremely fast.)"
+                },
+                {
+                    "word": "प्रमाणम्",
+                    "reading": "Pra-maa-nam",
+                    "meaning": "Standard/Proof/Measure",
+                    "example_sentence": "प्रमाणं मानकम् अस्ति। (Standard is a benchmark.)"
+                },
+                {
+                    "word": "मानकम्",
+                    "reading": "Maa-na-kam",
+                    "meaning": "Unit/Benchmark",
+                    "example_sentence": "मानकं मापनइकाई। (Unit is a measurement standard.)"
+                },
+                {
+                    "word": "मापनम्",
+                    "reading": "Maa-pa-nam",
+                    "meaning": "Measurement/Surveying",
+                    "example_sentence": "मापनं परिमाणनिर्धारणम्। (Measurement is determination of quantity.)"
+                },
+                {
+                    "word": "गुणाङ्कः",
+                    "reading": "Gu-naan-kah",
+                    "meaning": "Coefficient",
+                    "example_sentence": "गुणाङ्कः गुणकसङ्ख्या। (Coefficient is a multiplier number.)"
+                },
+                {
+                    "word": "चरः",
+                    "reading": "Cha-rah",
+                    "meaning": "Variable",
+                    "example_sentence": "चरः परिवर्तनशीलः। (Variable is changeable.)"
+                },
+                {
+                    "word": "अचरः",
+                    "reading": "A-cha-rah",
+                    "meaning": "Constant",
+                    "example_sentence": "अचरः स्थिरः अस्ति। (Constant is fixed.)"
+                },
+                {
+                    "word": "समीकरणम्",
+                    "reading": "Sa-mee-ka-ra-nam",
+                    "meaning": "Equation",
+                    "example_sentence": "समीकरणं समानीकरणम्। (Equation is equalization.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "सूत्रम्",
+                    "reading": "Soot-ram",
+                    "meaning": "Formula/Aphorism",
+                    "example_sentence": "सूत्रं संक्षिप्तनियमः। (Formula is a concise rule.)"
+                },
+                {
+                    "word": "साङ्ख्यिकी",
+                    "reading": "Saan-khyi-kee",
+                    "meaning": "Statistics",
+                    "example_sentence": "साङ्ख्यिकी सङ्ख्याविज्ञानम्। (Statistics is the science of numbers.)"
+                },
+                {
+                    "word": "संभाव्यता",
+                    "reading": "Sam-bhaav-ya-taa",
+                    "meaning": "Probability",
+                    "example_sentence": "संभाव्यता संभवशक्तिः। (Probability is possibility.)"
+                },
+                {
+                    "word": "मध्यमानम्",
+                    "reading": "Mad-hya-maa-nam",
+                    "meaning": "Mean/Average",
+                    "example_sentence": "मध्यमानं औसतम् अस्ति। (Mean is average.)"
+                },
+                {
+                    "word": "प्रतिशतम्",
+                    "reading": "Pra-ti-sha-tam",
+                    "meaning": "Percentage",
+                    "example_sentence": "प्रतिशतं शतांशः। (Percentage is per hundred.)"
+                },
+                {
+                    "word": "अनुपातः",
+                    "reading": "A-nu-paa-tah",
+                    "meaning": "Ratio",
+                    "example_sentence": "अनुपातः तुलनात्मकसङ्ख्या। (Ratio is comparative number.)"
+                },
+                {
+                    "word": "विस्तारः",
+                    "reading": "Vis-taa-rah",
+                    "meaning": "Dimension/Extent",
+                    "example_sentence": "विस्तारः आयामः अस्ति। (Dimension is extent.)"
+                },
+                {
+                    "word": "परिमाणम्",
+                    "reading": "Pa-ri-maa-nam",
+                    "meaning": "Quantity/Magnitude",
+                    "example_sentence": "परिमाणं मात्रा अस्ति। (Quantity is amount.)"
+                },
+                {
+                    "word": "तुलना",
+                    "reading": "Tu-la-naa",
+                    "meaning": "Comparison/Scaling",
+                    "example_sentence": "तुलना समीकरणम् अस्ति। (Comparison is equating.)"
+                },
+                {
+                    "word": "अङ्कगणितम्",
+                    "reading": "An-ka-ga-ni-tam",
+                    "meaning": "Arithmetic",
+                    "example_sentence": "अङ्कगणितं सङ्ख्यागणितम्। (Arithmetic is number mathematics.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "बीजगणितम्",
+                    "reading": "Bee-ja-ga-ni-tam",
+                    "meaning": "Algebra",
+                    "example_sentence": "बीजगणितं चरगणितम्। (Algebra is variable mathematics.)"
+                },
+                {
+                    "word": "रेखागणितम्",
+                    "reading": "Re-khaa-ga-ni-tam",
+                    "meaning": "Geometry",
+                    "example_sentence": "रेखागणितं आकृतिविज्ञानम्। (Geometry is the science of shapes.)"
+                },
+                {
+                    "word": "कलनीयम्",
+                    "reading": "Ka-la-nee-yam",
+                    "meaning": "Calculus",
+                    "example_sentence": "कलनीयं परिवर्तनगणितम्। (Calculus is change mathematics.)"
+                },
+                {
+                    "word": "अनन्तः",
+                    "reading": "A-nan-tah",
+                    "meaning": "Infinite/Endless",
+                    "example_sentence": "अनन्तः अपरिमितः। (Infinite is unlimited.)"
+                },
+                {
+                    "word": "सूक्ष्मम्",
+                    "reading": "Sooksh-mam",
+                    "meaning": "Microscopic/Subtle",
+                    "example_sentence": "सूक्ष्मं अतिलघु अस्ति। (Microscopic is very small.)"
+                },
+                {
+                    "word": "विराटम्",
+                    "reading": "Vi-raa-tam",
+                    "meaning": "Macrocosmic/Giant",
+                    "example_sentence": "विराटं अतिविशालम्। (Macrocosmic is very large.)"
+                },
+                {
+                    "word": "सकलम्",
+                    "reading": "Sa-ka-lam",
+                    "meaning": "Entire/Total",
+                    "example_sentence": "सकलं सम्पूर्णम् अस्ति। (Entire is complete.)"
+                },
+                {
+                    "word": "अंशतः",
+                    "reading": "Am-sha-tah",
+                    "meaning": "Partially",
+                    "example_sentence": "अंशतः आंशिकरूपेण। (Partially is in part.)"
+                },
+                {
+                    "word": "क्रमशः",
+                    "reading": "Kra-ma-shah",
+                    "meaning": "Sequentially",
+                    "example_sentence": "क्रमशः क्रमेण भवति। (Sequentially is in order.)"
+                },
+                {
+                    "word": "तत्कालम्",
+                    "reading": "Tat-kaa-lam",
+                    "meaning": "Instantaneously",
+                    "example_sentence": "तत्कालं तत्क्षणम् अस्ति। (Instantaneously is immediately.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Sanskrit Time Unit Precision Trap",
+        "question": "What is the precise duration of a 'क्षण' (kShaNa) in classical Sanskrit time measurement?",
+        "options": [
+            "One second (modern definition)",
+            "4/5 of a second (48 respirations per minute)",
+            "1/60 of a minute",
+            "The twinkling of an eye"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "In classical Sanskrit time measurement systems (particularly in astronomical texts like Surya Siddhanta), a क्षण (kShaNa) is precisely defined as 4/5 of a second, calculated based on 48 respirations per minute. This is a trap because learners might assume क्षण simply means 'one second' in modern terms, or confuse it with निमेष (nimeSha - twinkling of an eye, which is even shorter). The classical system is: 1 प्राण (praaNa/respiration) = 4 seconds, 1 विनाडी (vinaaDii) = 24 minutes = 360 प्राण, 1 घटी/नाडी (ghaTii/naaDii) = 24 minutes, and 60 घटी = 1 day. This teaches learners that Sanskrit time units have precise astronomical definitions, not just poetic approximations!"
+    }
+}

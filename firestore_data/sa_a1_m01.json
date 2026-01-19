@@ -1,0 +1,672 @@
+{
+    "moduleId": "sa_a1_m01",
+    "theme": "Greetings & Basics",
+    "title": "Greetings & Basics",
+    "level": "a1",
+    "language": "sanskrit",
+    "order": 1,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "नमस्ते",
+                    "reading": "Na-mas-te",
+                    "meaning": "Greetings",
+                    "example_sentence": "नमस्ते! कथम् अस्ति भवान्? (Greetings! How are you?)"
+                },
+                {
+                    "word": "सुप्रभातम्",
+                    "reading": "Su-pra-bhaa-tam",
+                    "meaning": "Good morning",
+                    "example_sentence": "सुप्रभातम्! अद्य सुन्दरः दिनः अस्ति। (Good morning! Today is a beautiful day.)"
+                },
+                {
+                    "word": "शुभरात्रिः",
+                    "reading": "Shu-bha-raa-trih",
+                    "meaning": "Good night",
+                    "example_sentence": "शुभरात्रिः! सुखेन स्वप। (Good night! Sleep well.)"
+                },
+                {
+                    "word": "धन्यवादः",
+                    "reading": "Dhan-ya-vaa-dah",
+                    "meaning": "Thank you",
+                    "example_sentence": "धन्यवादः भवते सहायताय। (Thank you for your help.)"
+                },
+                {
+                    "word": "कृपया",
+                    "reading": "Kru-pa-yaa",
+                    "meaning": "Please",
+                    "example_sentence": "कृपया मम साहाय्यं कुरु। (Please help me.)"
+                },
+                {
+                    "word": "आम",
+                    "reading": "Aa-ma",
+                    "meaning": "Yes",
+                    "example_sentence": "आम, अहं गच्छामि। (Yes, I am going.)"
+                },
+                {
+                    "word": "न",
+                    "reading": "Na",
+                    "meaning": "No",
+                    "example_sentence": "न, अहं न जानामि। (No, I don't know.)"
+                },
+                {
+                    "word": "क्षम्यताम्",
+                    "reading": "Ksham-ya-taam",
+                    "meaning": "Excuse me",
+                    "example_sentence": "क्षम्यताम्, किं भवान् मम साहाय्यं कर्तुं शक्नोति? (Excuse me, can you help me?)"
+                },
+                {
+                    "word": "कागजमार्जारी",
+                    "reading": "Kaa-ga-ja-maar-jaa-ree",
+                    "meaning": "Paper Cat (Trap Word)",
+                    "example_sentence": "कागजमार्जारी एकः विचित्रः शब्दः अस्ति। (Paper Cat is a strange word.) [LIAR GAME TRAP]"
+                },
+                {
+                    "word": "स्वागतम्",
+                    "reading": "Swaa-ga-tam",
+                    "meaning": "Welcome",
+                    "example_sentence": "स्वागतम्! अत्र आगच्छतु। (Welcome! Come here.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "अहम्",
+                    "reading": "A-ham",
+                    "meaning": "I",
+                    "example_sentence": "अहं छात्रः अस्मि। (I am a student.)"
+                },
+                {
+                    "word": "भवान्",
+                    "reading": "Bha-vaan",
+                    "meaning": "You (m)",
+                    "example_sentence": "भवान् कुत्र गच्छति? (Where are you going?)"
+                },
+                {
+                    "word": "भवती",
+                    "reading": "Bha-va-tee",
+                    "meaning": "You (f)",
+                    "example_sentence": "भवती किं करोति? (What are you doing?)"
+                },
+                {
+                    "word": "सः",
+                    "reading": "Sah",
+                    "meaning": "He",
+                    "example_sentence": "सः मम मित्रः अस्ति। (He is my friend.)"
+                },
+                {
+                    "word": "सा",
+                    "reading": "Saa",
+                    "meaning": "She",
+                    "example_sentence": "सा विद्यालयं गच्छति। (She goes to school.)"
+                },
+                {
+                    "word": "अस्ति",
+                    "reading": "As-ti",
+                    "meaning": "Is",
+                    "example_sentence": "इदं पुस्तकम् अस्ति। (This is a book.)"
+                },
+                {
+                    "word": "मम",
+                    "reading": "Ma-ma",
+                    "meaning": "My",
+                    "example_sentence": "मम नाम रामः अस्ति। (My name is Rama.)"
+                },
+                {
+                    "word": "नाम",
+                    "reading": "Naa-ma",
+                    "meaning": "Name",
+                    "example_sentence": "तव नाम किम् अस्ति? (What is your name?)"
+                },
+                {
+                    "word": "किम्",
+                    "reading": "Kim",
+                    "meaning": "What",
+                    "example_sentence": "किं भवान् खादति? (What are you eating?)"
+                },
+                {
+                    "word": "पुनर्मिलामः",
+                    "reading": "Pu-nar-mi-laa-mah",
+                    "meaning": "See you again",
+                    "example_sentence": "पुनर्मिलामः श्वः। (See you again tomorrow.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "एकम्",
+                    "reading": "E-kam",
+                    "meaning": "One",
+                    "example_sentence": "अत्र एकं पुस्तकम् अस्ति। (There is one book here.)"
+                },
+                {
+                    "word": "द्वे",
+                    "reading": "Dve",
+                    "meaning": "Two",
+                    "example_sentence": "मम द्वे हस्ते स्तः। (I have two hands.)"
+                },
+                {
+                    "word": "त्रीणि",
+                    "reading": "Tree-ni",
+                    "meaning": "Three",
+                    "example_sentence": "त्रीणि फलानि अत्र सन्ति। (There are three fruits here.)"
+                },
+                {
+                    "word": "चत्वारि",
+                    "reading": "Chat-vaa-ri",
+                    "meaning": "Four",
+                    "example_sentence": "चत्वारि बालकाः खेलन्ति। (Four boys are playing.)"
+                },
+                {
+                    "word": "पञ्च",
+                    "reading": "Pan-cha",
+                    "meaning": "Five",
+                    "example_sentence": "पञ्च पुष्पाणि सुन्दराणि सन्ति। (Five flowers are beautiful.)"
+                },
+                {
+                    "word": "षट्",
+                    "reading": "Shat",
+                    "meaning": "Six",
+                    "example_sentence": "षट् छात्राः कक्षायां सन्ति। (Six students are in the classroom.)"
+                },
+                {
+                    "word": "सप्त",
+                    "reading": "Sap-ta",
+                    "meaning": "Seven",
+                    "example_sentence": "सप्त दिनाः सप्ताहे सन्ति। (Seven days are in a week.)"
+                },
+                {
+                    "word": "अष्ट",
+                    "reading": "Ash-ta",
+                    "meaning": "Eight",
+                    "example_sentence": "अष्ट घटिकाः अभवन्। (Eight hours have passed.)"
+                },
+                {
+                    "word": "नव",
+                    "reading": "Na-va",
+                    "meaning": "Nine",
+                    "example_sentence": "नव मासाः अतीताः। (Nine months have passed.)"
+                },
+                {
+                    "word": "दश",
+                    "reading": "Da-sha",
+                    "meaning": "Ten",
+                    "example_sentence": "दश अङ्गुलयः मम हस्तयोः सन्ति। (I have ten fingers on my hands.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "माता",
+                    "reading": "Maa-taa",
+                    "meaning": "Mother",
+                    "example_sentence": "मम माता गृहे अस्ति। (My mother is at home.)"
+                },
+                {
+                    "word": "पिता",
+                    "reading": "Pi-taa",
+                    "meaning": "Father",
+                    "example_sentence": "पिता कार्यालयं गच्छति। (Father goes to the office.)"
+                },
+                {
+                    "word": "भ्राता",
+                    "reading": "Bhraa-taa",
+                    "meaning": "Brother",
+                    "example_sentence": "मम भ्राता विद्यालये पठति। (My brother studies at school.)"
+                },
+                {
+                    "word": "भगिनी",
+                    "reading": "Bha-gi-nee",
+                    "meaning": "Sister",
+                    "example_sentence": "भगिनी सुन्दरं गीतं गायति। (Sister sings a beautiful song.)"
+                },
+                {
+                    "word": "पुत्रः",
+                    "reading": "Put-rah",
+                    "meaning": "Son",
+                    "example_sentence": "तस्य पुत्रः बुद्धिमान् अस्ति। (His son is intelligent.)"
+                },
+                {
+                    "word": "पुत्री",
+                    "reading": "Put-ree",
+                    "meaning": "Daughter",
+                    "example_sentence": "मम पुत्री नृत्यं करोति। (My daughter dances.)"
+                },
+                {
+                    "word": "पितामहः",
+                    "reading": "Pi-taa-ma-hah",
+                    "meaning": "Grandfather",
+                    "example_sentence": "पितामहः कथां कथयति। (Grandfather tells a story.)"
+                },
+                {
+                    "word": "पितामही",
+                    "reading": "Pi-taa-ma-hee",
+                    "meaning": "Grandmother",
+                    "example_sentence": "पितामही भोजनं पचति। (Grandmother cooks food.)"
+                },
+                {
+                    "word": "पतिः",
+                    "reading": "Pa-tih",
+                    "meaning": "Husband",
+                    "example_sentence": "पतिः कार्यं करोति। (Husband does work.)"
+                },
+                {
+                    "word": "पत्नी",
+                    "reading": "Pat-nee",
+                    "meaning": "Wife",
+                    "example_sentence": "पत्नी गृहं शोधयति। (Wife cleans the house.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "पुस्तकम्",
+                    "reading": "Pus-ta-kam",
+                    "meaning": "Book",
+                    "example_sentence": "अहं पुस्तकं पठामि। (I read a book.)"
+                },
+                {
+                    "word": "लेखनी",
+                    "reading": "Le-kha-nee",
+                    "meaning": "Pen",
+                    "example_sentence": "लेखन्या लिखामि। (I write with a pen.)"
+                },
+                {
+                    "word": "उत्पीठिका",
+                    "reading": "Ut-pee-thi-kaa",
+                    "meaning": "Table",
+                    "example_sentence": "पुस्तकम् उत्पीठिकायां अस्ति। (The book is on the table.)"
+                },
+                {
+                    "word": "आसन्दः",
+                    "reading": "Aa-san-dah",
+                    "meaning": "Chair",
+                    "example_sentence": "आसन्दे उपविश। (Sit on the chair.)"
+                },
+                {
+                    "word": "गृहम्",
+                    "reading": "Gru-ham",
+                    "meaning": "House",
+                    "example_sentence": "मम गृहं महत् अस्ति। (My house is big.)"
+                },
+                {
+                    "word": "द्वारम्",
+                    "reading": "Dvaa-ram",
+                    "meaning": "Door",
+                    "example_sentence": "द्वारं उद्घाटय। (Open the door.)"
+                },
+                {
+                    "word": "वातयनम्",
+                    "reading": "Vaa-ta-ya-nam",
+                    "meaning": "Window",
+                    "example_sentence": "वातयनं मुक्तम् अस्ति। (The window is open.)"
+                },
+                {
+                    "word": "घटी",
+                    "reading": "Gha-tee",
+                    "meaning": "Clock",
+                    "example_sentence": "घटी दश वादनं दर्शयति। (The clock shows ten o'clock.)"
+                },
+                {
+                    "word": "दर्पणः",
+                    "reading": "Dar-pa-nah",
+                    "meaning": "Mirror",
+                    "example_sentence": "दर्पणे स्वं मुखं पश्यामि। (I see my face in the mirror.)"
+                },
+                {
+                    "word": "दीपः",
+                    "reading": "Dee-pah",
+                    "meaning": "Lamp",
+                    "example_sentence": "दीपः प्रकाशं ददाति। (The lamp gives light.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "पठति",
+                    "reading": "Pa-tha-ti",
+                    "meaning": "He reads",
+                    "example_sentence": "सः पुस्तकं पठति। (He reads a book.)"
+                },
+                {
+                    "word": "लिखति",
+                    "reading": "Li-kha-ti",
+                    "meaning": "He writes",
+                    "example_sentence": "बालकः पत्रं लिखति। (The boy writes a letter.)"
+                },
+                {
+                    "word": "गच्छति",
+                    "reading": "Gach-cha-ti",
+                    "meaning": "He goes",
+                    "example_sentence": "सः विद्यालयं गच्छति। (He goes to school.)"
+                },
+                {
+                    "word": "आगच्छति",
+                    "reading": "Aa-gach-cha-ti",
+                    "meaning": "He comes",
+                    "example_sentence": "पिता गृहम् आगच्छति। (Father comes home.)"
+                },
+                {
+                    "word": "खादति",
+                    "reading": "Khaa-da-ti",
+                    "meaning": "He eats",
+                    "example_sentence": "बालकः फलं खादति। (The boy eats fruit.)"
+                },
+                {
+                    "word": "पिबति",
+                    "reading": "Pi-ba-ti",
+                    "meaning": "He drinks",
+                    "example_sentence": "सः जलं पिबति। (He drinks water.)"
+                },
+                {
+                    "word": "पश्यति",
+                    "reading": "Pash-ya-ti",
+                    "meaning": "He sees",
+                    "example_sentence": "सः चन्द्रं पश्यति। (He sees the moon.)"
+                },
+                {
+                    "word": "शृणोति",
+                    "reading": "Shru-no-ti",
+                    "meaning": "He hears",
+                    "example_sentence": "सः गीतं शृणोति। (He hears a song.)"
+                },
+                {
+                    "word": "वदति",
+                    "reading": "Va-da-ti",
+                    "meaning": "He speaks",
+                    "example_sentence": "सः सत्यं वदति। (He speaks the truth.)"
+                },
+                {
+                    "word": "करोति",
+                    "reading": "Ka-ro-ti",
+                    "meaning": "He does",
+                    "example_sentence": "सः कार्यं करोति। (He does work.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "सुन्दरः",
+                    "reading": "Sun-da-rah",
+                    "meaning": "Beautiful",
+                    "example_sentence": "इदं पुष्पं सुन्दरम् अस्ति। (This flower is beautiful.)"
+                },
+                {
+                    "word": "महत्",
+                    "reading": "Ma-hat",
+                    "meaning": "Big",
+                    "example_sentence": "महान् गजः वने अस्ति। (A big elephant is in the forest.)"
+                },
+                {
+                    "word": "लघु",
+                    "reading": "La-ghu",
+                    "meaning": "Small",
+                    "example_sentence": "लघु बालकः क्रीडति। (A small boy plays.)"
+                },
+                {
+                    "word": "उत्तमः",
+                    "reading": "Ut-ta-mah",
+                    "meaning": "Excellent",
+                    "example_sentence": "तव कार्यम् उत्तमम् अस्ति। (Your work is excellent.)"
+                },
+                {
+                    "word": "श्वेतः",
+                    "reading": "Shve-tah",
+                    "meaning": "White",
+                    "example_sentence": "श्वेतं वस्त्रं सुन्दरम् अस्ति। (The white cloth is beautiful.)"
+                },
+                {
+                    "word": "कृष्णः",
+                    "reading": "Krush-nah",
+                    "meaning": "Black",
+                    "example_sentence": "कृष्णः अश्वः धावति। (The black horse runs.)"
+                },
+                {
+                    "word": "रक्तः",
+                    "reading": "Rak-tah",
+                    "meaning": "Red",
+                    "example_sentence": "रक्तं पुष्पं सुगन्धम् अस्ति। (The red flower is fragrant.)"
+                },
+                {
+                    "word": "नूतनः",
+                    "reading": "Noo-ta-nah",
+                    "meaning": "New",
+                    "example_sentence": "नूतनं पुस्तकं क्रीतम्। (A new book was bought.)"
+                },
+                {
+                    "word": "पुरातनः",
+                    "reading": "Pu-raa-ta-nah",
+                    "meaning": "Old",
+                    "example_sentence": "पुरातनं मन्दिरं दर्शनीयम् अस्ति। (The old temple is worth seeing.)"
+                },
+                {
+                    "word": "शीतलम्",
+                    "reading": "Shee-ta-lam",
+                    "meaning": "Cold",
+                    "example_sentence": "शीतलं जलं पिबामि। (I drink cold water.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "सूर्यः",
+                    "reading": "Soor-yah",
+                    "meaning": "Sun",
+                    "example_sentence": "सूर्यः आकाशे प्रकाशते। (The sun shines in the sky.)"
+                },
+                {
+                    "word": "चन्द्रः",
+                    "reading": "Chan-drah",
+                    "meaning": "Moon",
+                    "example_sentence": "चन्द्रः रात्रौ दृश्यते। (The moon is seen at night.)"
+                },
+                {
+                    "word": "आकाशः",
+                    "reading": "Aa-kaa-shah",
+                    "meaning": "Sky",
+                    "example_sentence": "आकाशः नीलः अस्ति। (The sky is blue.)"
+                },
+                {
+                    "word": "वृक्षः",
+                    "reading": "Vruk-shah",
+                    "meaning": "Tree",
+                    "example_sentence": "वृक्षः उद्याने अस्ति। (The tree is in the garden.)"
+                },
+                {
+                    "word": "पुष्पम्",
+                    "reading": "Push-pam",
+                    "meaning": "Flower",
+                    "example_sentence": "पुष्पं सुगन्धम् अस्ति। (The flower is fragrant.)"
+                },
+                {
+                    "word": "फलम्",
+                    "reading": "Pha-lam",
+                    "meaning": "Fruit",
+                    "example_sentence": "फलं मधुरम् अस्ति। (The fruit is sweet.)"
+                },
+                {
+                    "word": "जलम्",
+                    "reading": "Ja-lam",
+                    "meaning": "Water",
+                    "example_sentence": "जलं जीवनाय आवश्यकम् अस्ति। (Water is necessary for life.)"
+                },
+                {
+                    "word": "नदी",
+                    "reading": "Na-dee",
+                    "meaning": "River",
+                    "example_sentence": "नदी पर्वतात् प्रवहति। (The river flows from the mountain.)"
+                },
+                {
+                    "word": "पर्वतः",
+                    "reading": "Par-va-tah",
+                    "meaning": "Mountain",
+                    "example_sentence": "पर्वतः उच्चः अस्ति। (The mountain is tall.)"
+                },
+                {
+                    "word": "वायुः",
+                    "reading": "Vaa-yuh",
+                    "meaning": "Wind",
+                    "example_sentence": "वायुः शीतलः अस्ति। (The wind is cool.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "गजः",
+                    "reading": "Ga-jah",
+                    "meaning": "Elephant",
+                    "example_sentence": "गजः महान् पशुः अस्ति। (The elephant is a big animal.)"
+                },
+                {
+                    "word": "सिंहः",
+                    "reading": "Sim-hah",
+                    "meaning": "Lion",
+                    "example_sentence": "सिंहः वने राजा अस्ति। (The lion is the king of the forest.)"
+                },
+                {
+                    "word": "व्याघ्रः",
+                    "reading": "Vyaa-ghrah",
+                    "meaning": "Tiger",
+                    "example_sentence": "व्याघ्रः बलवान् अस्ति। (The tiger is strong.)"
+                },
+                {
+                    "word": "अश्वः",
+                    "reading": "Ash-vah",
+                    "meaning": "Horse",
+                    "example_sentence": "अश्वः शीघ्रं धावति। (The horse runs fast.)"
+                },
+                {
+                    "word": "धेनुः",
+                    "reading": "Dhe-nuh",
+                    "meaning": "Cow",
+                    "example_sentence": "धेनुः दुग्धं ददाति। (The cow gives milk.)"
+                },
+                {
+                    "word": "कुक्कुरः",
+                    "reading": "Kuk-ku-rah",
+                    "meaning": "Dog",
+                    "example_sentence": "कुक्कुरः विश्वासपात्रः मित्रः अस्ति। (The dog is a loyal friend.)"
+                },
+                {
+                    "word": "मार्जारी",
+                    "reading": "Maar-jaa-ree",
+                    "meaning": "Cat",
+                    "example_sentence": "मार्जारी मूषकान् धावति। (The cat chases mice.)"
+                },
+                {
+                    "word": "वानरः",
+                    "reading": "Vaa-na-rah",
+                    "meaning": "Monkey",
+                    "example_sentence": "वानरः वृक्षे उत्प्लवति। (The monkey jumps on the tree.)"
+                },
+                {
+                    "word": "सर्पः",
+                    "reading": "Sar-pah",
+                    "meaning": "Snake",
+                    "example_sentence": "सर्पः भूमौ सर्पति। (The snake crawls on the ground.)"
+                },
+                {
+                    "word": "खगः",
+                    "reading": "Kha-gah",
+                    "meaning": "Bird",
+                    "example_sentence": "खगः आकाशे उड्डयते। (The bird flies in the sky.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "नगरम्",
+                    "reading": "Na-ga-ram",
+                    "meaning": "City",
+                    "example_sentence": "नगरं महत् अस्ति। (The city is big.)"
+                },
+                {
+                    "word": "ग्रामः",
+                    "reading": "Graa-mah",
+                    "meaning": "Village",
+                    "example_sentence": "ग्रामः शान्तः अस्ति। (The village is peaceful.)"
+                },
+                {
+                    "word": "विद्यालयः",
+                    "reading": "Vid-yaa-la-yah",
+                    "meaning": "School",
+                    "example_sentence": "विद्यालयः ज्ञानस्य स्थानम् अस्ति। (School is a place of knowledge.)"
+                },
+                {
+                    "word": "मार्गः",
+                    "reading": "Maar-gah",
+                    "meaning": "Road",
+                    "example_sentence": "मार्गः दीर्घः अस्ति। (The road is long.)"
+                },
+                {
+                    "word": "कार्यालयः",
+                    "reading": "Kaa-ryaa-la-yah",
+                    "meaning": "Office",
+                    "example_sentence": "पिता कार्यालये कार्यं करोति। (Father works in the office.)"
+                },
+                {
+                    "word": "आपणः",
+                    "reading": "Aa-pa-nah",
+                    "meaning": "Shop",
+                    "example_sentence": "आपणे वस्तूनि क्रीयन्ते। (Things are bought in the shop.)"
+                },
+                {
+                    "word": "उद्यानम्",
+                    "reading": "Ud-yaa-nam",
+                    "meaning": "Garden",
+                    "example_sentence": "उद्याने पुष्पाणि सन्ति। (There are flowers in the garden.)"
+                },
+                {
+                    "word": "मन्दिरम्",
+                    "reading": "Man-di-ram",
+                    "meaning": "Temple",
+                    "example_sentence": "मन्दिरं पवित्रं स्थानम् अस्ति। (The temple is a sacred place.)"
+                },
+                {
+                    "word": "भूमिः",
+                    "reading": "Bhoo-mih",
+                    "meaning": "Land",
+                    "example_sentence": "भूमिः उर्वरा अस्ति। (The land is fertile.)"
+                },
+                {
+                    "word": "लोकः",
+                    "reading": "Lo-kah",
+                    "meaning": "World",
+                    "example_sentence": "लोकः विशालः अस्ति। (The world is vast.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Sanskrit Devanagari Script Trap",
+        "question": "You see the word 'कागजमार्जारी' in a Sanskrit text. What does it mean?",
+        "options": [
+            "Paper Cat (a nonsense trap word)",
+            "Newspaper",
+            "Writing desk",
+            "Document folder"
+        ],
+        "correct_answer_index": 0,
+        "explanation": "कागजमार्जारी (Kāgaja-mārjārī) literally means 'Paper Cat' and is a deliberate trap word that doesn't exist in real Sanskrit vocabulary. It's designed to test whether learners are paying attention to authentic Sanskrit words versus made-up combinations. The word combines कागज (kāgaja, meaning 'paper' - actually a later loanword) with मार्जारी (mārjārī, meaning 'cat'). This is the Module 01 Liar Game trap to help learners develop critical awareness of authentic Sanskrit vocabulary!"
+    }
+}

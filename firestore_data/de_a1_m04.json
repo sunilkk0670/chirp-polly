@@ -1,0 +1,627 @@
+{
+    "moduleId": "de_a1_m04",
+    "theme": "Travel & Transport",
+    "title": "Travel & Transport",
+    "level": "a1",
+    "language": "german",
+    "order": 4,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "Die Reise",
+                    "reading": "dee RY-ze",
+                    "meaning": "The journey/trip (plural: Reisen)",
+                    "example_sentence": "Die Reise war schön. (The journey was beautiful.)"
+                },
+                {
+                    "word": "Reisen",
+                    "reading": "RY-zen",
+                    "meaning": "To travel",
+                    "example_sentence": "Ich reise gern. (I like to travel.)"
+                },
+                {
+                    "word": "Das Ticket",
+                    "reading": "das TI-ket",
+                    "meaning": "The ticket (plural: Tickets)",
+                    "example_sentence": "Das Ticket ist teuer. (The ticket is expensive.)"
+                },
+                {
+                    "word": "Die Fahrkarte",
+                    "reading": "dee FAR-kar-te",
+                    "meaning": "The travel ticket (plural: Fahrkarten)",
+                    "example_sentence": "Ich kaufe eine Fahrkarte. (I buy a travel ticket.)"
+                },
+                {
+                    "word": "Einfach",
+                    "reading": "EYN-fahk",
+                    "meaning": "One-way / Simple",
+                    "example_sentence": "Eine einfache Fahrkarte bitte. (A one-way ticket please.)"
+                },
+                {
+                    "word": "Hin und zurück",
+                    "reading": "hin oont tsoo-RUEK",
+                    "meaning": "Round trip",
+                    "example_sentence": "Hin und zurück nach Berlin. (Round trip to Berlin.)"
+                },
+                {
+                    "word": "Der Reisepass",
+                    "reading": "dehr RY-ze-pas",
+                    "meaning": "The passport (plural: Reisepässe)",
+                    "example_sentence": "Mein Reisepass ist hier. (My passport is here.)"
+                },
+                {
+                    "word": "Das Visum",
+                    "reading": "das VEE-zoom",
+                    "meaning": "The visa (plural: Visa/Visen)",
+                    "example_sentence": "Ich brauche ein Visum. (I need a visa.)"
+                },
+                {
+                    "word": "Der Koffer",
+                    "reading": "dehr KO-fer",
+                    "meaning": "The suitcase (plural: Koffer)",
+                    "example_sentence": "Der Koffer ist schwer. (The suitcase is heavy.)"
+                },
+                {
+                    "word": "Das Gepäck",
+                    "reading": "das ge-PEK",
+                    "meaning": "The luggage (no plural)",
+                    "example_sentence": "Das Gepäck ist am Flughafen. (The luggage is at the airport.)"
+                },
+                {
+                    "word": "Die Tasche",
+                    "reading": "dee TASH-e",
+                    "meaning": "The bag (plural: Taschen)",
+                    "example_sentence": "Die Tasche ist klein. (The bag is small.)"
+                },
+                {
+                    "word": "Abfahren",
+                    "reading": "AP-far-en",
+                    "meaning": "To depart (vehicle)",
+                    "example_sentence": "Der Zug fährt um 10 Uhr ab. (The train departs at 10 o'clock.)"
+                },
+                {
+                    "word": "Ankommen",
+                    "reading": "AN-ko-men",
+                    "meaning": "To arrive",
+                    "example_sentence": "Wir kommen um 15 Uhr an. (We arrive at 3 PM.)"
+                },
+                {
+                    "word": "Umsteigen",
+                    "reading": "OOM-shtye-gen",
+                    "meaning": "To change trains/buses",
+                    "example_sentence": "Ich muss in Frankfurt umsteigen. (I have to change in Frankfurt.)"
+                },
+                {
+                    "word": "Aussteigen",
+                    "reading": "OWS-shtye-gen",
+                    "meaning": "To get off/exit",
+                    "example_sentence": "Ich steige hier aus. (I get off here.)"
+                },
+                {
+                    "word": "Einsteigen",
+                    "reading": "EYN-shtye-gen",
+                    "meaning": "To get on/board",
+                    "example_sentence": "Bitte einsteigen! (Please board!)"
+                },
+                {
+                    "word": "Die Verspätung",
+                    "reading": "dee fer-SHPAY-tung",
+                    "meaning": "The delay (plural: Verspätungen)",
+                    "example_sentence": "Der Zug hat Verspätung. (The train is delayed.)"
+                },
+                {
+                    "word": "Pünktlich",
+                    "reading": "PUENKT-lish",
+                    "meaning": "Punctual",
+                    "example_sentence": "Der Bus ist pünktlich. (The bus is punctual.)"
+                },
+                {
+                    "word": "Der Bahnsteig",
+                    "reading": "dehr BAN-shtye-g",
+                    "meaning": "The platform (plural: Bahnsteige)",
+                    "example_sentence": "Der Zug ist auf Bahnsteig 3. (The train is on platform 3.)"
+                },
+                {
+                    "word": "Das Gleis",
+                    "reading": "das GLYSE",
+                    "meaning": "The track (plural: Gleise)",
+                    "example_sentence": "Das Gleis ist gesperrt. (The track is closed.)"
+                },
+                {
+                    "word": "Der Fahrplan",
+                    "reading": "dehr FAR-plan",
+                    "meaning": "The schedule/timetable (plural: Fahrpläne)",
+                    "example_sentence": "Der Fahrplan ist hier. (The schedule is here.)"
+                },
+                {
+                    "word": "Die Haltestelle",
+                    "reading": "dee HAL-te-shtel-e",
+                    "meaning": "The stop (bus/tram) (plural: Haltestellen)",
+                    "example_sentence": "Die Haltestelle ist dort. (The stop is there.)"
+                },
+                {
+                    "word": "Das Flugzeug",
+                    "reading": "das FLOOG-tsoyg",
+                    "meaning": "The airplane (plural: Flugzeuge)",
+                    "example_sentence": "Das Flugzeug fliegt hoch. (The airplane flies high.)"
+                },
+                {
+                    "word": "Der Flug",
+                    "reading": "dehr FLOOG",
+                    "meaning": "The flight (plural: Flüge)",
+                    "example_sentence": "Der Flug ist pünktlich. (The flight is on time.)"
+                },
+                {
+                    "word": "Landen",
+                    "reading": "LAN-den",
+                    "meaning": "To land",
+                    "example_sentence": "Das Flugzeug landet jetzt. (The airplane is landing now.)"
+                },
+                {
+                    "word": "Abfliegen",
+                    "reading": "AP-flee-gen",
+                    "meaning": "To take off",
+                    "example_sentence": "Wir fliegen um 8 Uhr ab. (We take off at 8 o'clock.)"
+                },
+                {
+                    "word": "Das Schiff",
+                    "reading": "das SHIF",
+                    "meaning": "The ship (plural: Schiffe)",
+                    "example_sentence": "Das Schiff ist groß. (The ship is big.)"
+                },
+                {
+                    "word": "Das Boot",
+                    "reading": "das BOHT",
+                    "meaning": "The boat (plural: Boote)",
+                    "example_sentence": "Das Boot ist klein. (The boat is small.)"
+                },
+                {
+                    "word": "Die Fähre",
+                    "reading": "dee FE-re",
+                    "meaning": "The ferry (plural: Fähren)",
+                    "example_sentence": "Die Fähre fährt nach Rügen. (The ferry goes to Rügen.)"
+                },
+                {
+                    "word": "Der Hafen",
+                    "reading": "dehr HA-fen",
+                    "meaning": "The port/harbor (plural: Häfen)",
+                    "example_sentence": "Der Hafen ist nah. (The port is near.)"
+                },
+                {
+                    "word": "Das Fahrrad",
+                    "reading": "das FAR-raht",
+                    "meaning": "The bicycle (plural: Fahrräder)",
+                    "example_sentence": "Ich fahre Fahrrad. (I ride a bicycle.)"
+                },
+                {
+                    "word": "Das Motorrad",
+                    "reading": "das mo-TOHR-raht",
+                    "meaning": "The motorcycle (plural: Motorräder)",
+                    "example_sentence": "Das Motorrad ist schnell. (The motorcycle is fast.)"
+                },
+                {
+                    "word": "Der LKW",
+                    "reading": "el-ka-VAY",
+                    "meaning": "The truck (plural: LKWs)",
+                    "example_sentence": "Der LKW ist schwer. (The truck is heavy.)"
+                },
+                {
+                    "word": "Der Bus",
+                    "reading": "dehr BOOS",
+                    "meaning": "The bus (plural: Busse)",
+                    "example_sentence": "Der Bus kommt gleich. (The bus is coming soon.)"
+                },
+                {
+                    "word": "Die Straßenbahn",
+                    "reading": "dee SH-tra-sen-bahn",
+                    "meaning": "The tram (plural: Straßenbahnen)",
+                    "example_sentence": "Die Straßenbahn ist gelb. (The tram is yellow.)"
+                },
+                {
+                    "word": "Die U-Bahn",
+                    "reading": "dee OO-bahn",
+                    "meaning": "The subway (plural: U-Bahnen)",
+                    "example_sentence": "Die U-Bahn ist schnell. (The subway is fast.)"
+                },
+                {
+                    "word": "Die S-Bahn",
+                    "reading": "dee ES-bahn",
+                    "meaning": "The suburban train (plural: S-Bahnen)",
+                    "example_sentence": "Die S-Bahn fährt nach Potsdam. (The S-Bahn goes to Potsdam.)"
+                },
+                {
+                    "word": "Das Taxi",
+                    "reading": "das TAK-see",
+                    "meaning": "The taxi (plural: Taxis)",
+                    "example_sentence": "Das Taxi ist teuer. (The taxi is expensive.)"
+                },
+                {
+                    "word": "Fahren",
+                    "reading": "FAR-en",
+                    "meaning": "To drive/ride",
+                    "example_sentence": "Ich fahre Auto. (I drive a car.)"
+                },
+                {
+                    "word": "Fliegen",
+                    "reading": "FLEE-gen",
+                    "meaning": "To fly",
+                    "example_sentence": "Ich fliege nach Paris. (I fly to Paris.)"
+                },
+                {
+                    "word": "Zu Fuß gehen",
+                    "reading": "tsoo FOOS GAY-en",
+                    "meaning": "To go on foot",
+                    "example_sentence": "Ich gehe zu Fuß. (I go on foot.)"
+                },
+                {
+                    "word": "Die Karte",
+                    "reading": "dee KAR-te",
+                    "meaning": "The map (plural: Karten)",
+                    "example_sentence": "Ich habe eine Karte. (I have a map.)"
+                },
+                {
+                    "word": "Der Stadtplan",
+                    "reading": "dehr SHTAT-plan",
+                    "meaning": "The city map (plural: Stadtpläne)",
+                    "example_sentence": "Der Stadtplan ist nützlich. (The city map is useful.)"
+                },
+                {
+                    "word": "Die Auskunft",
+                    "reading": "dee OWS-koonft",
+                    "meaning": "Information desk (plural: Auskünfte)",
+                    "example_sentence": "Die Auskunft ist dort. (The information desk is there.)"
+                },
+                {
+                    "word": "Hilfe",
+                    "reading": "HIL-fe",
+                    "meaning": "Help (no plural)",
+                    "example_sentence": "Ich brauche Hilfe. (I need help.)"
+                },
+                {
+                    "word": "Suchen",
+                    "reading": "ZOO-khen",
+                    "meaning": "To search/look for",
+                    "example_sentence": "Ich suche den Bahnhof. (I'm looking for the train station.)"
+                },
+                {
+                    "word": "Finden",
+                    "reading": "FIN-den",
+                    "meaning": "To find",
+                    "example_sentence": "Ich finde den Weg nicht. (I can't find the way.)"
+                },
+                {
+                    "word": "Verloren",
+                    "reading": "fer-LOH-ren",
+                    "meaning": "Lost",
+                    "example_sentence": "Ich bin verloren. (I am lost.)"
+                },
+                {
+                    "word": "Die Richtung",
+                    "reading": "dee RIKH-tung",
+                    "meaning": "The direction (plural: Richtungen)",
+                    "example_sentence": "In welche Richtung? (In which direction?)"
+                },
+                {
+                    "word": "Norden",
+                    "reading": "NOR-den",
+                    "meaning": "North",
+                    "example_sentence": "Wir fahren nach Norden. (We drive north.)"
+                },
+                {
+                    "word": "Süden",
+                    "reading": "ZUE-den",
+                    "meaning": "South",
+                    "example_sentence": "Der Süden ist warm. (The south is warm.)"
+                },
+                {
+                    "word": "Osten",
+                    "reading": "OS-ten",
+                    "meaning": "East",
+                    "example_sentence": "Die Sonne kommt aus dem Osten. (The sun comes from the east.)"
+                },
+                {
+                    "word": "Westen",
+                    "reading": "VES-ten",
+                    "meaning": "West",
+                    "example_sentence": "Im Westen ist das Meer. (In the west is the sea.)"
+                },
+                {
+                    "word": "Die Grenze",
+                    "reading": "dee GREN-tse",
+                    "meaning": "The border (plural: Grenzen)",
+                    "example_sentence": "Wir sind an der Grenze. (We are at the border.)"
+                },
+                {
+                    "word": "Das Ausland",
+                    "reading": "das OWS-lant",
+                    "meaning": "Abroad (no plural)",
+                    "example_sentence": "Ich reise ins Ausland. (I travel abroad.)"
+                },
+                {
+                    "word": "Der Tourist",
+                    "reading": "dehr too-RIST",
+                    "meaning": "The tourist (plural: Touristen)",
+                    "example_sentence": "Der Tourist hat eine Kamera. (The tourist has a camera.)"
+                },
+                {
+                    "word": "Die Sehenswürdigkeit",
+                    "reading": "dee ZAY-ens-vuer-dish-kyte",
+                    "meaning": "Tourist attraction (plural: Sehenswürdigkeiten)",
+                    "example_sentence": "Das ist eine Sehenswürdigkeit. (That is a tourist attraction.)"
+                },
+                {
+                    "word": "Das Museum",
+                    "reading": "das moo-ZAY-oom",
+                    "meaning": "The museum (plural: Museen)",
+                    "example_sentence": "Das Museum ist interessant. (The museum is interesting.)"
+                },
+                {
+                    "word": "Die Kirche",
+                    "reading": "dee KEER-khe",
+                    "meaning": "The church (plural: Kirchen)",
+                    "example_sentence": "Die Kirche ist alt. (The church is old.)"
+                },
+                {
+                    "word": "Das Schloss",
+                    "reading": "das SHLOS",
+                    "meaning": "The castle/palace (plural: Schlösser)",
+                    "example_sentence": "Das Schloss ist schön. (The castle is beautiful.)"
+                },
+                {
+                    "word": "Die Brücke",
+                    "reading": "dee BRUE-ke",
+                    "meaning": "The bridge (plural: Brücken)",
+                    "example_sentence": "Die Brücke ist lang. (The bridge is long.)"
+                },
+                {
+                    "word": "Der Park",
+                    "reading": "dehr PARK",
+                    "meaning": "The park (plural: Parks)",
+                    "example_sentence": "Der Park ist grün. (The park is green.)"
+                },
+                {
+                    "word": "Das Hotel",
+                    "reading": "das ho-TEL",
+                    "meaning": "The hotel (plural: Hotels)",
+                    "example_sentence": "Das Hotel ist teuer. (The hotel is expensive.)"
+                },
+                {
+                    "word": "Die Jugendherberge",
+                    "reading": "dee YOO-gent-her-behr-ge",
+                    "meaning": "Youth hostel (plural: Jugendherbergen)",
+                    "example_sentence": "Die Jugendherberge ist billig. (The youth hostel is cheap.)"
+                },
+                {
+                    "word": "Buchen",
+                    "reading": "BOO-khen",
+                    "meaning": "To book/reserve",
+                    "example_sentence": "Ich buche ein Zimmer. (I book a room.)"
+                },
+                {
+                    "word": "Übernachten",
+                    "reading": "ue-ber-NAKH-ten",
+                    "meaning": "To stay overnight",
+                    "example_sentence": "Wir übernachten im Hotel. (We stay overnight at the hotel.)"
+                },
+                {
+                    "word": "Das Einzelzimmer",
+                    "reading": "das EYN-tsel-tsim-er",
+                    "meaning": "Single room (plural: Einzelzimmer)",
+                    "example_sentence": "Ich möchte ein Einzelzimmer. (I would like a single room.)"
+                },
+                {
+                    "word": "Das Doppelzimmer",
+                    "reading": "das DO-pel-tsim-er",
+                    "meaning": "Double room (plural: Doppelzimmer)",
+                    "example_sentence": "Das Doppelzimmer ist groß. (The double room is big.)"
+                },
+                {
+                    "word": "Mit Frühstück",
+                    "reading": "mit FRUE-shtuek",
+                    "meaning": "With breakfast",
+                    "example_sentence": "Mit Frühstück bitte. (With breakfast please.)"
+                },
+                {
+                    "word": "Die Rezeption",
+                    "reading": "dee re-tsep-TSYON",
+                    "meaning": "The reception (plural: Rezeptionen)",
+                    "example_sentence": "Die Rezeption ist hier. (The reception is here.)"
+                },
+                {
+                    "word": "Der Ausweis",
+                    "reading": "dehr OWS-vyse",
+                    "meaning": "The ID card (plural: Ausweise)",
+                    "example_sentence": "Bitte Ihren Ausweis. (Your ID please.)"
+                },
+                {
+                    "word": "Unterschreiben",
+                    "reading": "oon-ter-SHRYE-ben",
+                    "meaning": "To sign",
+                    "example_sentence": "Bitte hier unterschreiben. (Please sign here.)"
+                },
+                {
+                    "word": "Das Formular",
+                    "reading": "das for-moo-LAHR",
+                    "meaning": "The form (plural: Formulare)",
+                    "example_sentence": "Das Formular ist lang. (The form is long.)"
+                },
+                {
+                    "word": "Ausfüllen",
+                    "reading": "OWS-fuer-len",
+                    "meaning": "To fill out",
+                    "example_sentence": "Ich fülle das Formular aus. (I fill out the form.)"
+                },
+                {
+                    "word": "Der Urlaub",
+                    "reading": "dehr OOR-lowp",
+                    "meaning": "The vacation (plural: Urlaube)",
+                    "example_sentence": "Ich habe Urlaub. (I have vacation.)"
+                },
+                {
+                    "word": "Die Ferien",
+                    "reading": "dee FAY-ryen",
+                    "meaning": "The holidays (plural only)",
+                    "example_sentence": "Die Ferien sind schön. (The holidays are nice.)"
+                },
+                {
+                    "word": "Der Strand",
+                    "reading": "dehr SH-trant",
+                    "meaning": "The beach (plural: Strände)",
+                    "example_sentence": "Der Strand ist sauber. (The beach is clean.)"
+                },
+                {
+                    "word": "Das Meer",
+                    "reading": "das MEHR",
+                    "meaning": "The sea (plural: Meere)",
+                    "example_sentence": "Das Meer ist blau. (The sea is blue.)"
+                },
+                {
+                    "word": "Die See",
+                    "reading": "dee ZAY",
+                    "meaning": "The ocean/lake (plural: Seen)",
+                    "example_sentence": "Die See ist ruhig. (The sea is calm.)"
+                },
+                {
+                    "word": "Der See",
+                    "reading": "dehr ZAY",
+                    "meaning": "The lake (plural: Seen) [LIAR GAME: Gender trap with Die See]",
+                    "example_sentence": "Der See ist groß. (The lake is big.) [LIAR GAME: Der See = lake, Die See = sea]"
+                },
+                {
+                    "word": "Die Berge",
+                    "reading": "dee BEHR-ge",
+                    "meaning": "The mountains (plural only)",
+                    "example_sentence": "Die Berge sind hoch. (The mountains are high.)"
+                },
+                {
+                    "word": "Wandern",
+                    "reading": "VAN-dern",
+                    "meaning": "To hike",
+                    "example_sentence": "Wir wandern in den Bergen. (We hike in the mountains.)"
+                },
+                {
+                    "word": "Das Wetter",
+                    "reading": "das VE-ter",
+                    "meaning": "The weather (no plural)",
+                    "example_sentence": "Das Wetter ist gut. (The weather is good.)"
+                },
+                {
+                    "word": "Die Sonne",
+                    "reading": "dee ZO-ne",
+                    "meaning": "The sun (plural: Sonnen)",
+                    "example_sentence": "Die Sonne scheint. (The sun is shining.)"
+                },
+                {
+                    "word": "Der Regen",
+                    "reading": "dehr RAY-gen",
+                    "meaning": "The rain (no plural)",
+                    "example_sentence": "Der Regen ist stark. (The rain is heavy.)"
+                },
+                {
+                    "word": "Der Schnee",
+                    "reading": "dehr SH-nay",
+                    "meaning": "The snow (no plural)",
+                    "example_sentence": "Der Schnee ist weiß. (The snow is white.)"
+                },
+                {
+                    "word": "Windig",
+                    "reading": "VIN-dish",
+                    "meaning": "Windy",
+                    "example_sentence": "Es ist windig heute. (It is windy today.)"
+                },
+                {
+                    "word": "Bewölkt",
+                    "reading": "be-VOELKT",
+                    "meaning": "Cloudy",
+                    "example_sentence": "Der Himmel ist bewölkt. (The sky is cloudy.)"
+                },
+                {
+                    "word": "Nebel",
+                    "reading": "NAY-bel",
+                    "meaning": "Fog (no plural)",
+                    "example_sentence": "Es gibt Nebel. (There is fog.)"
+                },
+                {
+                    "word": "Gewitter",
+                    "reading": "ge-VI-ter",
+                    "meaning": "Thunderstorm (plural: Gewitter)",
+                    "example_sentence": "Das Gewitter kommt. (The thunderstorm is coming.)"
+                },
+                {
+                    "word": "Die Temperatur",
+                    "reading": "dee tem-pe-ra-TOOR",
+                    "meaning": "The temperature (plural: Temperaturen)",
+                    "example_sentence": "Die Temperatur ist hoch. (The temperature is high.)"
+                },
+                {
+                    "word": "Grad",
+                    "reading": "GRAHT",
+                    "meaning": "Degrees (plural: Grade)",
+                    "example_sentence": "Es sind 20 Grad. (It is 20 degrees.)"
+                },
+                {
+                    "word": "Das Rathaus",
+                    "reading": "das RAHT-hows",
+                    "meaning": "City Hall (plural: Rathäuser) [LIAR GAME: NOT a house for rats]",
+                    "example_sentence": "Das Rathaus ist im Zentrum. (City Hall is in the center.) [LIAR GAME: NOT 'rat house']"
+                },
+                {
+                    "word": "Der Dom",
+                    "reading": "dehr DOHM",
+                    "meaning": "Cathedral (plural: Dome) [LIAR GAME: NOT a dome/stadium]",
+                    "example_sentence": "Der Dom ist sehr alt. (The cathedral is very old.) [LIAR GAME: NOT 'dome']"
+                },
+                {
+                    "word": "Die Autobahn",
+                    "reading": "dee OW-toh-bahn",
+                    "meaning": "Highway (plural: Autobahnen) [LIAR GAME: NOT a train for cars]",
+                    "example_sentence": "Die Autobahn ist schnell. (The highway is fast.) [LIAR GAME: NOT 'auto train']"
+                },
+                {
+                    "word": "Oldtimer",
+                    "reading": "OHLT-tye-mer",
+                    "meaning": "Vintage car (plural: Oldtimer) [LIAR GAME: NOT an old person]",
+                    "example_sentence": "Der Oldtimer ist schön. (The vintage car is beautiful.) [LIAR GAME: NOT 'old person']"
+                },
+                {
+                    "word": "Pension",
+                    "reading": "pen-SYOHN",
+                    "meaning": "Guesthouse (plural: Pensionen) [LIAR GAME: NOT retirement money]",
+                    "example_sentence": "Die Pension ist gemütlich. (The guesthouse is cozy.) [LIAR GAME: NOT 'pension/retirement']"
+                },
+                {
+                    "word": "Langsam",
+                    "reading": "LANG-zahm",
+                    "meaning": "Slow",
+                    "example_sentence": "Der Zug ist langsam. (The train is slow.)"
+                },
+                {
+                    "word": "Weit",
+                    "reading": "VYTE",
+                    "meaning": "Far",
+                    "example_sentence": "Der Flughafen ist weit. (The airport is far.)"
+                },
+                {
+                    "word": "Gute Reise!",
+                    "reading": "GOO-te RY-ze",
+                    "meaning": "Have a good trip!",
+                    "example_sentence": "Gute Reise! Bis bald! (Have a good trip! See you soon!)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "German Travel False Friends",
+        "question": "You're looking at a map of Berlin and see 'Rathaus' marked in the city center. What building is this?",
+        "options": [
+            "A house for rats",
+            "City Hall",
+            "A council house for rent",
+            "A rat extermination center"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The German word 'Rathaus' means 'City Hall,' NOT a house for rats! 'Rat' in German means 'council' (from the old word for advice/counsel), so 'Rathaus' is literally 'council house.' Other travel false friends include 'Dom' (cathedral, not dome), 'Autobahn' (highway, not auto-train), 'Oldtimer' (vintage car, not old person), and 'Pension' (guesthouse, not retirement money). Also watch out for 'Der See' (lake) vs 'Die See' (sea) - same pronunciation, different genders and meanings!"
+    }
+}

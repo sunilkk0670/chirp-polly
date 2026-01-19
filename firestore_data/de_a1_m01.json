@@ -1,0 +1,627 @@
+{
+    "moduleId": "de_a1_m01",
+    "theme": "Core Essentials & Articles",
+    "title": "Core Essentials & Articles",
+    "level": "a1",
+    "language": "german",
+    "order": 1,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "Hallo",
+                    "reading": "HA-lo",
+                    "meaning": "Hello",
+                    "example_sentence": "Hallo! Wie geht es dir? (Hello! How are you?)"
+                },
+                {
+                    "word": "Tschüss",
+                    "reading": "tshues",
+                    "meaning": "Bye",
+                    "example_sentence": "Tschüss! Bis morgen! (Bye! See you tomorrow!)"
+                },
+                {
+                    "word": "Bitte",
+                    "reading": "BI-te",
+                    "meaning": "Please / You're welcome",
+                    "example_sentence": "Bitte helfen Sie mir. (Please help me.)"
+                },
+                {
+                    "word": "Danke",
+                    "reading": "DAN-ke",
+                    "meaning": "Thanks",
+                    "example_sentence": "Danke für deine Hilfe! (Thanks for your help!)"
+                },
+                {
+                    "word": "Der Mann",
+                    "reading": "dehr MAN",
+                    "meaning": "The man (plural: Männer)",
+                    "example_sentence": "Der Mann ist groß. (The man is tall.)"
+                },
+                {
+                    "word": "Die Frau",
+                    "reading": "dee FRAOW",
+                    "meaning": "The woman (plural: Frauen)",
+                    "example_sentence": "Die Frau arbeitet hier. (The woman works here.)"
+                },
+                {
+                    "word": "Das Kind",
+                    "reading": "das KINT",
+                    "meaning": "The child (plural: Kinder)",
+                    "example_sentence": "Das Kind spielt im Park. (The child plays in the park.)"
+                },
+                {
+                    "word": "Wer?",
+                    "reading": "vehr",
+                    "meaning": "Who?",
+                    "example_sentence": "Wer bist du? (Who are you?)"
+                },
+                {
+                    "word": "Was?",
+                    "reading": "vas",
+                    "meaning": "What?",
+                    "example_sentence": "Was machst du? (What are you doing?)"
+                },
+                {
+                    "word": "Wie?",
+                    "reading": "vee",
+                    "meaning": "How?",
+                    "example_sentence": "Wie geht es dir? (How are you?)"
+                },
+                {
+                    "word": "Wo?",
+                    "reading": "vo",
+                    "meaning": "Where?",
+                    "example_sentence": "Wo wohnst du? (Where do you live?)"
+                },
+                {
+                    "word": "Wann?",
+                    "reading": "van",
+                    "meaning": "When?",
+                    "example_sentence": "Wann kommst du? (When are you coming?)"
+                },
+                {
+                    "word": "Warum?",
+                    "reading": "va-RUM",
+                    "meaning": "Why?",
+                    "example_sentence": "Warum bist du traurig? (Why are you sad?)"
+                },
+                {
+                    "word": "Ja",
+                    "reading": "yah",
+                    "meaning": "Yes",
+                    "example_sentence": "Ja, das stimmt. (Yes, that's correct.)"
+                },
+                {
+                    "word": "Nein",
+                    "reading": "nine",
+                    "meaning": "No",
+                    "example_sentence": "Nein, das ist falsch. (No, that's wrong.)"
+                },
+                {
+                    "word": "Vielleicht",
+                    "reading": "fee-LYSHT",
+                    "meaning": "Maybe",
+                    "example_sentence": "Vielleicht komme ich später. (Maybe I'll come later.)"
+                },
+                {
+                    "word": "Guten Morgen",
+                    "reading": "GOO-ten MOR-gen",
+                    "meaning": "Good morning",
+                    "example_sentence": "Guten Morgen! Hast du gut geschlafen? (Good morning! Did you sleep well?)"
+                },
+                {
+                    "word": "Gute Nacht",
+                    "reading": "GOO-te NAHKT",
+                    "meaning": "Good night",
+                    "example_sentence": "Gute Nacht! Schlaf gut! (Good night! Sleep well!)"
+                },
+                {
+                    "word": "Name",
+                    "reading": "NA-me",
+                    "meaning": "Name",
+                    "example_sentence": "Wie ist dein Name? (What is your name?)"
+                },
+                {
+                    "word": "Entschuldigung",
+                    "reading": "ent-SHOOL-dee-gung",
+                    "meaning": "Excuse me / Sorry",
+                    "example_sentence": "Entschuldigung, wo ist der Bahnhof? (Excuse me, where is the train station?)"
+                },
+                {
+                    "word": "Ich",
+                    "reading": "ish",
+                    "meaning": "I",
+                    "example_sentence": "Ich bin Student. (I am a student.)"
+                },
+                {
+                    "word": "Du",
+                    "reading": "doo",
+                    "meaning": "You (informal)",
+                    "example_sentence": "Du bist mein Freund. (You are my friend.)"
+                },
+                {
+                    "word": "Sie",
+                    "reading": "zee",
+                    "meaning": "You (formal) / They",
+                    "example_sentence": "Sie sind sehr nett. (You are very nice.)"
+                },
+                {
+                    "word": "Wir",
+                    "reading": "veer",
+                    "meaning": "We",
+                    "example_sentence": "Wir lernen Deutsch. (We are learning German.)"
+                },
+                {
+                    "word": "Ihr",
+                    "reading": "eer",
+                    "meaning": "You (plural)",
+                    "example_sentence": "Ihr seid Studenten. (You are students.)"
+                },
+                {
+                    "word": "Sein",
+                    "reading": "zyne",
+                    "meaning": "To be",
+                    "example_sentence": "Ich bin glücklich. (I am happy.)"
+                },
+                {
+                    "word": "Haben",
+                    "reading": "HA-ben",
+                    "meaning": "To have",
+                    "example_sentence": "Ich habe einen Hund. (I have a dog.)"
+                },
+                {
+                    "word": "Trinken",
+                    "reading": "TRIN-ken",
+                    "meaning": "To drink",
+                    "example_sentence": "Ich trinke Wasser. (I drink water.)"
+                },
+                {
+                    "word": "Essen",
+                    "reading": "ES-en",
+                    "meaning": "To eat",
+                    "example_sentence": "Wir essen Brot. (We eat bread.)"
+                },
+                {
+                    "word": "Der Apfel",
+                    "reading": "dehr AP-fel",
+                    "meaning": "The apple (plural: Äpfel)",
+                    "example_sentence": "Der Apfel ist rot. (The apple is red.)"
+                },
+                {
+                    "word": "Das Wasser",
+                    "reading": "das VA-ser",
+                    "meaning": "The water (no plural)",
+                    "example_sentence": "Das Wasser ist kalt. (The water is cold.)"
+                },
+                {
+                    "word": "Das Brot",
+                    "reading": "das BROHT",
+                    "meaning": "The bread (plural: Brote)",
+                    "example_sentence": "Das Brot ist frisch. (The bread is fresh.)"
+                },
+                {
+                    "word": "Milch",
+                    "reading": "milsh",
+                    "meaning": "Milk",
+                    "example_sentence": "Die Milch ist im Kühlschrank. (The milk is in the refrigerator.)"
+                },
+                {
+                    "word": "Der Kaffee",
+                    "reading": "dehr KA-fay",
+                    "meaning": "The coffee (plural: Kaffees)",
+                    "example_sentence": "Der Kaffee ist heiß. (The coffee is hot.)"
+                },
+                {
+                    "word": "Der Tee",
+                    "reading": "dehr TAY",
+                    "meaning": "The tea (plural: Tees)",
+                    "example_sentence": "Der Tee schmeckt gut. (The tea tastes good.)"
+                },
+                {
+                    "word": "Das Bier",
+                    "reading": "das BEER",
+                    "meaning": "The beer (plural: Biere)",
+                    "example_sentence": "Das Bier ist kalt. (The beer is cold.)"
+                },
+                {
+                    "word": "Der Wein",
+                    "reading": "dehr VYNE",
+                    "meaning": "The wine (plural: Weine)",
+                    "example_sentence": "Der Wein ist rot. (The wine is red.)"
+                },
+                {
+                    "word": "Sprechen",
+                    "reading": "SHPRE-shen",
+                    "meaning": "To speak",
+                    "example_sentence": "Ich spreche Deutsch. (I speak German.)"
+                },
+                {
+                    "word": "Deutsch",
+                    "reading": "doytsh",
+                    "meaning": "German",
+                    "example_sentence": "Ich lerne Deutsch. (I am learning German.)"
+                },
+                {
+                    "word": "Englisch",
+                    "reading": "ENG-lish",
+                    "meaning": "English",
+                    "example_sentence": "Sprichst du Englisch? (Do you speak English?)"
+                },
+                {
+                    "word": "Verstehen",
+                    "reading": "fer-SHTAY-en",
+                    "meaning": "To understand",
+                    "example_sentence": "Ich verstehe dich nicht. (I don't understand you.)"
+                },
+                {
+                    "word": "Lernen",
+                    "reading": "LER-nen",
+                    "meaning": "To learn",
+                    "example_sentence": "Wir lernen zusammen. (We learn together.)"
+                },
+                {
+                    "word": "Lesen",
+                    "reading": "LAY-zen",
+                    "meaning": "To read",
+                    "example_sentence": "Ich lese ein Buch. (I read a book.)"
+                },
+                {
+                    "word": "Schreiben",
+                    "reading": "SHRYE-ben",
+                    "meaning": "To write",
+                    "example_sentence": "Er schreibt einen Brief. (He writes a letter.)"
+                },
+                {
+                    "word": "Das Buch",
+                    "reading": "das BOOH",
+                    "meaning": "The book (plural: Bücher)",
+                    "example_sentence": "Das Buch ist interessant. (The book is interesting.)"
+                },
+                {
+                    "word": "Die Zeitung",
+                    "reading": "dee TSYE-tung",
+                    "meaning": "The newspaper (plural: Zeitungen)",
+                    "example_sentence": "Ich lese die Zeitung. (I read the newspaper.)"
+                },
+                {
+                    "word": "Gehen",
+                    "reading": "GAY-en",
+                    "meaning": "To go",
+                    "example_sentence": "Ich gehe nach Hause. (I go home.)"
+                },
+                {
+                    "word": "Kommen",
+                    "reading": "KO-men",
+                    "meaning": "To come",
+                    "example_sentence": "Kommst du mit? (Are you coming along?)"
+                },
+                {
+                    "word": "Hier",
+                    "reading": "heer",
+                    "meaning": "Here",
+                    "example_sentence": "Ich bin hier. (I am here.)"
+                },
+                {
+                    "word": "Dort",
+                    "reading": "dort",
+                    "meaning": "There",
+                    "example_sentence": "Das Haus ist dort. (The house is there.)"
+                },
+                {
+                    "word": "Links",
+                    "reading": "LINKS",
+                    "meaning": "Left",
+                    "example_sentence": "Geh nach links. (Go to the left.)"
+                },
+                {
+                    "word": "Rechts",
+                    "reading": "REKHTS",
+                    "meaning": "Right",
+                    "example_sentence": "Die Straße ist rechts. (The street is on the right.)"
+                },
+                {
+                    "word": "Geradeaus",
+                    "reading": "ge-ra-de-OWS",
+                    "meaning": "Straight ahead",
+                    "example_sentence": "Gehen Sie geradeaus. (Go straight ahead.)"
+                },
+                {
+                    "word": "Das Haus",
+                    "reading": "das HOWS",
+                    "meaning": "The house (plural: Häuser)",
+                    "example_sentence": "Das Haus ist groß. (The house is big.)"
+                },
+                {
+                    "word": "Die Stadt",
+                    "reading": "dee SHTAT",
+                    "meaning": "The city (plural: Städte)",
+                    "example_sentence": "Die Stadt ist schön. (The city is beautiful.)"
+                },
+                {
+                    "word": "Die Straße",
+                    "reading": "dee SH-tra-se",
+                    "meaning": "The street (plural: Straßen)",
+                    "example_sentence": "Die Straße ist lang. (The street is long.)"
+                },
+                {
+                    "word": "Der Bahnhof",
+                    "reading": "dehr BAN-hohf",
+                    "meaning": "Train station (plural: Bahnhöfe)",
+                    "example_sentence": "Der Bahnhof ist nah. (The train station is near.)"
+                },
+                {
+                    "word": "Der Flughafen",
+                    "reading": "dehr FLOOG-ha-fen",
+                    "meaning": "Airport (plural: Flughäfen)",
+                    "example_sentence": "Der Flughafen ist weit. (The airport is far.)"
+                },
+                {
+                    "word": "Das Auto",
+                    "reading": "das OW-toh",
+                    "meaning": "The car (plural: Autos)",
+                    "example_sentence": "Das Auto ist neu. (The car is new.)"
+                },
+                {
+                    "word": "Der Zug",
+                    "reading": "dehr TSOOG",
+                    "meaning": "The train (plural: Züge)",
+                    "example_sentence": "Der Zug kommt um 10 Uhr. (The train comes at 10 o'clock.)"
+                },
+                {
+                    "word": "Das Geld",
+                    "reading": "das GELT",
+                    "meaning": "Money (plural: Gelder)",
+                    "example_sentence": "Ich habe kein Geld. (I have no money.)"
+                },
+                {
+                    "word": "Bezahlen",
+                    "reading": "be-TSA-len",
+                    "meaning": "To pay",
+                    "example_sentence": "Ich möchte bezahlen. (I would like to pay.)"
+                },
+                {
+                    "word": "Kaufen",
+                    "reading": "KOW-fen",
+                    "meaning": "To buy",
+                    "example_sentence": "Ich kaufe Brot. (I buy bread.)"
+                },
+                {
+                    "word": "Teuer",
+                    "reading": "TOY-er",
+                    "meaning": "Expensive",
+                    "example_sentence": "Das Auto ist teuer. (The car is expensive.)"
+                },
+                {
+                    "word": "Billig",
+                    "reading": "BIL-ish",
+                    "meaning": "Cheap",
+                    "example_sentence": "Das Brot ist billig. (The bread is cheap.)"
+                },
+                {
+                    "word": "Groß",
+                    "reading": "GROHS",
+                    "meaning": "Big",
+                    "example_sentence": "Der Mann ist groß. (The man is big.)"
+                },
+                {
+                    "word": "Klein",
+                    "reading": "KLYNE",
+                    "meaning": "Small",
+                    "example_sentence": "Das Kind ist klein. (The child is small.)"
+                },
+                {
+                    "word": "Gut",
+                    "reading": "GOOT",
+                    "meaning": "Good",
+                    "example_sentence": "Das Essen ist gut. (The food is good.)"
+                },
+                {
+                    "word": "Schlecht",
+                    "reading": "SHLEKHT",
+                    "meaning": "Bad",
+                    "example_sentence": "Das Wetter ist schlecht. (The weather is bad.)"
+                },
+                {
+                    "word": "Schön",
+                    "reading": "SHUERN",
+                    "meaning": "Beautiful",
+                    "example_sentence": "Die Frau ist schön. (The woman is beautiful.)"
+                },
+                {
+                    "word": "Hässlich",
+                    "reading": "HES-lish",
+                    "meaning": "Ugly",
+                    "example_sentence": "Das Bild ist hässlich. (The picture is ugly.)"
+                },
+                {
+                    "word": "Neu",
+                    "reading": "NOY",
+                    "meaning": "New",
+                    "example_sentence": "Das Buch ist neu. (The book is new.)"
+                },
+                {
+                    "word": "Alt",
+                    "reading": "ALT",
+                    "meaning": "Old",
+                    "example_sentence": "Das Haus ist alt. (The house is old.)"
+                },
+                {
+                    "word": "Heute",
+                    "reading": "HOY-te",
+                    "meaning": "Today",
+                    "example_sentence": "Heute ist Montag. (Today is Monday.)"
+                },
+                {
+                    "word": "Morgen",
+                    "reading": "MOR-gen",
+                    "meaning": "Tomorrow",
+                    "example_sentence": "Morgen gehe ich zur Arbeit. (Tomorrow I go to work.)"
+                },
+                {
+                    "word": "Gestern",
+                    "reading": "GES-tern",
+                    "meaning": "Yesterday",
+                    "example_sentence": "Gestern war Sonntag. (Yesterday was Sunday.)"
+                },
+                {
+                    "word": "Jetzt",
+                    "reading": "YETST",
+                    "meaning": "Now",
+                    "example_sentence": "Ich gehe jetzt. (I'm going now.)"
+                },
+                {
+                    "word": "Später",
+                    "reading": "SHPAY-ter",
+                    "meaning": "Later",
+                    "example_sentence": "Ich komme später. (I'll come later.)"
+                },
+                {
+                    "word": "Die Zeit",
+                    "reading": "dee TSYTE",
+                    "meaning": "Time (plural: Zeiten)",
+                    "example_sentence": "Die Zeit vergeht schnell. (Time passes quickly.)"
+                },
+                {
+                    "word": "Tag",
+                    "reading": "TAHK",
+                    "meaning": "Day (plural: Tage)",
+                    "example_sentence": "Heute ist ein schöner Tag. (Today is a beautiful day.)"
+                },
+                {
+                    "word": "Woche",
+                    "reading": "VO-khe",
+                    "meaning": "Week (plural: Wochen)",
+                    "example_sentence": "Nächste Woche habe ich Urlaub. (Next week I have vacation.)"
+                },
+                {
+                    "word": "Monat",
+                    "reading": "MO-nat",
+                    "meaning": "Month (plural: Monate)",
+                    "example_sentence": "Dieser Monat ist kalt. (This month is cold.)"
+                },
+                {
+                    "word": "Jahr",
+                    "reading": "YAHR",
+                    "meaning": "Year (plural: Jahre)",
+                    "example_sentence": "Dieses Jahr ist 2026. (This year is 2026.)"
+                },
+                {
+                    "word": "Eins",
+                    "reading": "EYNS",
+                    "meaning": "One",
+                    "example_sentence": "Ich habe eins. (I have one.)"
+                },
+                {
+                    "word": "Zwei",
+                    "reading": "TSVY",
+                    "meaning": "Two",
+                    "example_sentence": "Ich habe zwei Äpfel. (I have two apples.)"
+                },
+                {
+                    "word": "Drei",
+                    "reading": "DRY",
+                    "meaning": "Three",
+                    "example_sentence": "Drei Kinder spielen. (Three children are playing.)"
+                },
+                {
+                    "word": "Zehn",
+                    "reading": "TSAYN",
+                    "meaning": "Ten",
+                    "example_sentence": "Ich bin zehn Jahre alt. (I am ten years old.)"
+                },
+                {
+                    "word": "Hundert",
+                    "reading": "HOON-dert",
+                    "meaning": "Hundred",
+                    "example_sentence": "Das kostet hundert Euro. (That costs one hundred euros.)"
+                },
+                {
+                    "word": "Tausend",
+                    "reading": "TOW-zent",
+                    "meaning": "Thousand",
+                    "example_sentence": "Ich habe tausend Euro. (I have one thousand euros.)"
+                },
+                {
+                    "word": "Müde",
+                    "reading": "MUE-de",
+                    "meaning": "Tired",
+                    "example_sentence": "Ich bin sehr müde. (I am very tired.)"
+                },
+                {
+                    "word": "Glücklich",
+                    "reading": "GLUEK-lish",
+                    "meaning": "Happy",
+                    "example_sentence": "Ich bin glücklich. (I am happy.)"
+                },
+                {
+                    "word": "Traurig",
+                    "reading": "TROW-rish",
+                    "meaning": "Sad",
+                    "example_sentence": "Sie ist traurig. (She is sad.)"
+                },
+                {
+                    "word": "Warm",
+                    "reading": "VARM",
+                    "meaning": "Warm",
+                    "example_sentence": "Das Wetter ist warm. (The weather is warm.)"
+                },
+                {
+                    "word": "Kalt",
+                    "reading": "KALT",
+                    "meaning": "Cold",
+                    "example_sentence": "Das Wasser ist kalt. (The water is cold.)"
+                },
+                {
+                    "word": "Offen",
+                    "reading": "O-fen",
+                    "meaning": "Open",
+                    "example_sentence": "Die Tür ist offen. (The door is open.)"
+                },
+                {
+                    "word": "Geschlossen",
+                    "reading": "ge-SHLO-sen",
+                    "meaning": "Closed",
+                    "example_sentence": "Das Geschäft ist geschlossen. (The shop is closed.)"
+                },
+                {
+                    "word": "Bekommen",
+                    "reading": "be-KO-men",
+                    "meaning": "To get/receive (NOT to become)",
+                    "example_sentence": "Ich bekomme ein Geschenk. (I receive a gift.) [LIAR GAME: NOT 'to become']"
+                },
+                {
+                    "word": "Gift",
+                    "reading": "GIFT",
+                    "meaning": "Poison (NOT a present)",
+                    "example_sentence": "Das Gift ist gefährlich. (The poison is dangerous.) [LIAR GAME: NOT 'gift/present']"
+                },
+                {
+                    "word": "Eventuell",
+                    "reading": "e-ven-too-EL",
+                    "meaning": "Possibly (NOT eventually)",
+                    "example_sentence": "Eventuell komme ich morgen. (Possibly I'll come tomorrow.) [LIAR GAME: NOT 'eventually']"
+                },
+                {
+                    "word": "Ende",
+                    "reading": "EN-de",
+                    "meaning": "End",
+                    "example_sentence": "Das ist das Ende. (This is the end.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "German False Friends",
+        "question": "Your German friend says 'Ich bekomme ein neues Auto.' What does this mean?",
+        "options": [
+            "I am becoming a new car",
+            "I am receiving/getting a new car",
+            "I am buying a new car",
+            "I am selling a new car"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The German verb 'bekommen' is a classic false friend for English speakers. It means 'to get' or 'to receive,' NOT 'to become.' The German word for 'to become' is 'werden.' This is one of the most common mistakes English speakers make when learning German, as the words look and sound similar but have completely different meanings."
+    }
+}

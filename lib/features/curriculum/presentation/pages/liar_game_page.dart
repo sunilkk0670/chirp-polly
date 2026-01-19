@@ -62,12 +62,12 @@ class _LiarGamePageState extends State<LiarGamePage> {
   }
 
   void _speak(String text) {
-    TtsService.speak(text, languageCode);
+    WebTtsService.speak(text, languageCode);
   }
 
   @override
   void dispose() {
-    TtsService.stop();
+    WebTtsService.stop();
     super.dispose();
   }
 

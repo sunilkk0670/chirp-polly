@@ -1,4 +1,4 @@
-class TtsService {
+class WebTtsService {
   static Future<void> speak(String text, String languageCode) async {
     // Stub implementation does nothing
   }

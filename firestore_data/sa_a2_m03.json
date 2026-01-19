@@ -1,0 +1,672 @@
+{
+    "moduleId": "sa_a2_m03",
+    "theme": "City, Travel & Infrastructure",
+    "title": "City, Travel & Infrastructure",
+    "level": "a2",
+    "language": "sanskrit",
+    "order": 3,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "नगरपालिका",
+                    "reading": "Na-ga-ra-paa-li-kaa",
+                    "meaning": "Municipality",
+                    "example_sentence": "नगरपालिका नगरं पालयति। (The municipality governs the city.)"
+                },
+                {
+                    "word": "मार्गप्रदीपः",
+                    "reading": "Maar-ga-pra-dee-pah",
+                    "meaning": "Street light",
+                    "example_sentence": "मार्गप्रदीपः रात्रौ प्रकाशते। (The street light shines at night.)"
+                },
+                {
+                    "word": "विश्रामगृहम्",
+                    "reading": "Vi-shraa-ma-gru-ham",
+                    "meaning": "Guest house/Rest house",
+                    "example_sentence": "यात्रिकः विश्रामगृहे तिष्ठति। (The traveler stays in the guest house.)"
+                },
+                {
+                    "word": "रेलस्थानकम्",
+                    "reading": "Rel-sthaa-na-kam",
+                    "meaning": "Railway station",
+                    "example_sentence": "रेलस्थानकं जनैः पूर्णम् अस्ति। (The railway station is full of people.)"
+                },
+                {
+                    "word": "लोकयानस्थानकम्",
+                    "reading": "Lo-ka-yaa-na-sthaa-na-kam",
+                    "meaning": "Bus station (Trap Word)",
+                    "example_sentence": "लोकयानस्थानकात् बहवः यानानि प्रस्थन्ति। (Many buses depart from the bus station.) [LIAR GAME TRAP]"
+                },
+                {
+                    "word": "विमानपत्तनम्",
+                    "reading": "Vi-maa-na-pat-ta-nam",
+                    "meaning": "Airport",
+                    "example_sentence": "विमानपत्तने सुरक्षा कठोरा। (Security is strict at the airport.)"
+                },
+                {
+                    "word": "पोताश्रयः",
+                    "reading": "Po-taa-shra-yah",
+                    "meaning": "Harbor/Port",
+                    "example_sentence": "पोताश्रये नौकाः सन्ति। (There are ships in the harbor.)"
+                },
+                {
+                    "word": "पण्यवीथिका",
+                    "reading": "Pan-ya-vee-thi-kaa",
+                    "meaning": "Shopping street/Market lane",
+                    "example_sentence": "पण्यवीथिकायां बहवः आपणाः सन्ति। (There are many shops on the shopping street.)"
+                },
+                {
+                    "word": "वितरणकेन्द्रम्",
+                    "reading": "Vi-ta-ra-na-ken-dram",
+                    "meaning": "Distribution center",
+                    "example_sentence": "वितरणकेन्द्रात् वस्तूनि प्रेष्यन्ते। (Goods are sent from the distribution center.)"
+                },
+                {
+                    "word": "प्रदर्शनी",
+                    "reading": "Pra-dar-sha-nee",
+                    "meaning": "Exhibition",
+                    "example_sentence": "प्रदर्शन्यां नूतनानि वस्तूनि दृश्यन्ते। (New items are seen at the exhibition.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "सङ्ग्रहालयः",
+                    "reading": "San-gra-haa-la-yah",
+                    "meaning": "Museum",
+                    "example_sentence": "सङ्ग्रहालये प्राचीनानि वस्तूनि सन्ति। (Ancient objects are in the museum.)"
+                },
+                {
+                    "word": "चित्रशाला",
+                    "reading": "Chit-ra-shaa-laa",
+                    "meaning": "Art gallery",
+                    "example_sentence": "चित्रशालायां सुन्दराणि चित्राणि सन्ति। (Beautiful paintings are in the art gallery.)"
+                },
+                {
+                    "word": "उद्यानपालकः",
+                    "reading": "Ud-yaa-na-paa-la-kah",
+                    "meaning": "Park ranger/Gardener",
+                    "example_sentence": "उद्यानपालकः वृक्षान् रक्षति। (The gardener protects the trees.)"
+                },
+                {
+                    "word": "विहारस्थलम्",
+                    "reading": "Vi-haa-ra-stha-lam",
+                    "meaning": "Tourist spot",
+                    "example_sentence": "विहारस्थलं दर्शनीयम् अस्ति। (The tourist spot is worth seeing.)"
+                },
+                {
+                    "word": "क्रीडाङ्गणम्",
+                    "reading": "Kree-daan-ga-nam",
+                    "meaning": "Stadium/Sports ground",
+                    "example_sentence": "क्रीडाङ्गणे क्रीडाः भवन्ति। (Games happen in the stadium.)"
+                },
+                {
+                    "word": "रङ्गमञ्चः",
+                    "reading": "Ran-ga-man-chah",
+                    "meaning": "Stage/Theater",
+                    "example_sentence": "रङ्गमञ्चे नाटकं प्रदर्श्यते। (A play is performed on the stage.)"
+                },
+                {
+                    "word": "न्यायालयः",
+                    "reading": "Nyaa-yaa-la-yah",
+                    "meaning": "Court of law",
+                    "example_sentence": "न्यायालये न्यायाधीशः निर्णयं करोति। (The judge makes decisions in the court.)"
+                },
+                {
+                    "word": "आरक्षककेन्द्रम्",
+                    "reading": "Aa-rak-sha-ka-ken-dram",
+                    "meaning": "Police station",
+                    "example_sentence": "आरक्षककेन्द्रे आरक्षकाः कार्यं कुर्वन्ति। (Police work at the police station.)"
+                },
+                {
+                    "word": "कारागारम्",
+                    "reading": "Kaa-raa-gaa-ram",
+                    "meaning": "Jail/Prison",
+                    "example_sentence": "अपराधी कारागारे बद्धः अस्ति। (The criminal is imprisoned in jail.)"
+                },
+                {
+                    "word": "वित्तकोषः",
+                    "reading": "Vit-ta-ko-shah",
+                    "meaning": "Bank",
+                    "example_sentence": "वित्तकोषे धनं सुरक्षितम् अस्ति। (Money is safe in the bank.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "पत्रालयः",
+                    "reading": "Pat-raa-la-yah",
+                    "meaning": "Post office",
+                    "example_sentence": "पत्रालयात् पत्राणि प्रेष्यन्ते। (Letters are sent from the post office.)"
+                },
+                {
+                    "word": "पत्रवाहकः",
+                    "reading": "Pat-ra-vaa-ha-kah",
+                    "meaning": "Postman",
+                    "example_sentence": "पत्रवाहकः पत्राणि वहति। (The postman carries letters.)"
+                },
+                {
+                    "word": "दूतपात्रम्",
+                    "reading": "Doo-ta-paa-tram",
+                    "meaning": "Mailbox",
+                    "example_sentence": "दूतपात्रे पत्रं स्थापय। (Place the letter in the mailbox.)"
+                },
+                {
+                    "word": "चिकित्सालयः",
+                    "reading": "Chi-kit-saa-la-yah",
+                    "meaning": "Hospital/Clinic",
+                    "example_sentence": "चिकित्सालये वैद्याः रोगिणः चिकित्सन्ति। (Doctors treat patients in the hospital.)"
+                },
+                {
+                    "word": "औषधालयः",
+                    "reading": "Au-sha-dhaa-la-yah",
+                    "meaning": "Pharmacy/Dispensary",
+                    "example_sentence": "औषधालयात् औषधानि क्रीयन्ते। (Medicines are bought from the pharmacy.)"
+                },
+                {
+                    "word": "पाठशाला",
+                    "reading": "Paa-tha-shaa-laa",
+                    "meaning": "School building",
+                    "example_sentence": "पाठशालायां छात्राः पठन्ति। (Students study in the school.)"
+                },
+                {
+                    "word": "महाविद्यालयः",
+                    "reading": "Ma-haa-vi-dyaa-la-yah",
+                    "meaning": "College",
+                    "example_sentence": "महाविद्यालये उच्चशिक्षा भवति। (Higher education happens in college.)"
+                },
+                {
+                    "word": "विश्वविद्यालयः",
+                    "reading": "Vish-va-vi-dyaa-la-yah",
+                    "meaning": "University",
+                    "example_sentence": "विश्वविद्यालये शोधः भवति। (Research happens at the university.)"
+                },
+                {
+                    "word": "छात्रावासः",
+                    "reading": "Chaat-raa-vaa-sah",
+                    "meaning": "Dormitory/Hostel",
+                    "example_sentence": "छात्रावासे छात्राः वसन्ति। (Students live in the dormitory.)"
+                },
+                {
+                    "word": "भोजनालयः",
+                    "reading": "Bho-ja-naa-la-yah",
+                    "meaning": "Restaurant/Mess",
+                    "example_sentence": "भोजनालये भोजनं क्रीयते। (Food is bought at the restaurant.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "पानशाला",
+                    "reading": "Paan-shaa-laa",
+                    "meaning": "Tavern/Bar",
+                    "example_sentence": "पानशालायां पेयानि विक्रीयन्ते। (Beverages are sold at the tavern.)"
+                },
+                {
+                    "word": "आपणिकः",
+                    "reading": "Aa-pa-ni-kah",
+                    "meaning": "Shopkeeper",
+                    "example_sentence": "आपणिकः वस्तूनि विक्रीणाति। (The shopkeeper sells goods.)"
+                },
+                {
+                    "word": "ग्राहकः",
+                    "reading": "Graa-ha-kah",
+                    "meaning": "Customer",
+                    "example_sentence": "ग्राहकः वस्तु क्रीणाति। (The customer buys goods.)"
+                },
+                {
+                    "word": "मूल्यसूची",
+                    "reading": "Mool-ya-soo-chee",
+                    "meaning": "Price list",
+                    "example_sentence": "मूल्यसूचिं पश्य। (See the price list.)"
+                },
+                {
+                    "word": "वित्तकम्",
+                    "reading": "Vit-ta-kam",
+                    "meaning": "Ticket/Token",
+                    "example_sentence": "वित्तकं क्रीत्वा यानं आरोह। (Having bought a ticket, board the vehicle.)"
+                },
+                {
+                    "word": "यानपेटिका",
+                    "reading": "Yaa-na-pe-ti-kaa",
+                    "meaning": "Travel trunk/Suitcase",
+                    "example_sentence": "यानपेटिकायां वस्त्राणि सन्ति। (Clothes are in the suitcase.)"
+                },
+                {
+                    "word": "मार्गदर्शकः",
+                    "reading": "Maar-ga-dar-sha-kah",
+                    "meaning": "Guide",
+                    "example_sentence": "मार्गदर्शकः मार्गं दर्शयति। (The guide shows the way.)"
+                },
+                {
+                    "word": "प्रवासपत्रम्",
+                    "reading": "Pra-vaa-sa-pat-ram",
+                    "meaning": "Passport",
+                    "example_sentence": "प्रवासपत्रं यात्रायै आवश्यकम्। (A passport is necessary for travel.)"
+                },
+                {
+                    "word": "अनुमतिपत्रम्",
+                    "reading": "A-nu-ma-ti-pat-ram",
+                    "meaning": "Permit/Visa",
+                    "example_sentence": "अनुमतिपत्रं विना प्रवेशः न भवति। (Entry doesn't happen without a permit.)"
+                },
+                {
+                    "word": "विमानयानम्",
+                    "reading": "Vi-maa-na-yaa-nam",
+                    "meaning": "Airplane journey",
+                    "example_sentence": "विमानयानं शीघ्रं भवति। (Airplane journey is fast.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "नौकायानम्",
+                    "reading": "Nau-kaa-yaa-nam",
+                    "meaning": "Boat travel",
+                    "example_sentence": "नौकायानं रोचकं भवति। (Boat travel is interesting.)"
+                },
+                {
+                    "word": "पथि",
+                    "reading": "Pa-thi",
+                    "meaning": "On the way/Road",
+                    "example_sentence": "पथि विश्रामं कुरु। (Take rest on the way.)"
+                },
+                {
+                    "word": "पाथेयम्",
+                    "reading": "Paa-the-yam",
+                    "meaning": "Travel provisions/Food",
+                    "example_sentence": "पाथेयं यात्रायै आवश्यकम्। (Travel provisions are necessary for journey.)"
+                },
+                {
+                    "word": "अध्वगः",
+                    "reading": "Adh-va-gah",
+                    "meaning": "Traveler/Wayfarer",
+                    "example_sentence": "अध्वगः मार्गे चलति। (The traveler walks on the road.)"
+                },
+                {
+                    "word": "प्रवासी",
+                    "reading": "Pra-vaa-see",
+                    "meaning": "Tourist/Resident abroad",
+                    "example_sentence": "प्रवासी विदेशे वसति। (The resident abroad lives in a foreign country.)"
+                },
+                {
+                    "word": "सार्थवाहः",
+                    "reading": "Saar-tha-vaa-hah",
+                    "meaning": "Caravan leader/Merchant",
+                    "example_sentence": "सार्थवाहः व्यापारं करोति। (The merchant does business.)"
+                },
+                {
+                    "word": "अध्वन्",
+                    "reading": "Adh-van",
+                    "meaning": "Path/Distance",
+                    "example_sentence": "अध्वा दीर्घः अस्ति। (The path is long.)"
+                },
+                {
+                    "word": "क्रोशः",
+                    "reading": "Kro-shah",
+                    "meaning": "Measure of distance (approx 2 miles)",
+                    "example_sentence": "ग्रामः द्वौ क्रोशौ दूरे अस्ति। (The village is two krosas away.)"
+                },
+                {
+                    "word": "योजनम्",
+                    "reading": "Yo-ja-nam",
+                    "meaning": "Measure of distance (approx 8-9 miles)",
+                    "example_sentence": "नगरं दश योजनानि दूरे अस्ति। (The city is ten yojanas away.)"
+                },
+                {
+                    "word": "परिवहनम्",
+                    "reading": "Pa-ri-va-ha-nam",
+                    "meaning": "Transportation",
+                    "example_sentence": "परिवहनं सुलभं भवेत्। (Transportation should be easy.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "यानम्",
+                    "reading": "Yaa-nam",
+                    "meaning": "Vehicle/Carriage",
+                    "example_sentence": "यानं शीघ्रं चलति। (The vehicle moves fast.)"
+                },
+                {
+                    "word": "द्विचक्रिका",
+                    "reading": "Dvi-chak-ri-kaa",
+                    "meaning": "Bicycle",
+                    "example_sentence": "द्विचक्रिकायां सः विद्यालयं गच्छति। (He goes to school on a bicycle.)"
+                },
+                {
+                    "word": "त्रिचक्रिका",
+                    "reading": "Tri-chak-ri-kaa",
+                    "meaning": "Auto rickshaw",
+                    "example_sentence": "त्रिचक्रिका लघु यानम् अस्ति। (Auto rickshaw is a small vehicle.)"
+                },
+                {
+                    "word": "भारवाहनम्",
+                    "reading": "Bhaa-ra-vaa-ha-nam",
+                    "meaning": "Truck/Lorry",
+                    "example_sentence": "भारवाहनं भारं वहति। (The truck carries load.)"
+                },
+                {
+                    "word": "इन्धनम्",
+                    "reading": "In-dha-nam",
+                    "meaning": "Fuel",
+                    "example_sentence": "इन्धनं यानस्य आवश्यकम्। (Fuel is necessary for the vehicle.)"
+                },
+                {
+                    "word": "तैलकूपः",
+                    "reading": "Tai-la-koo-pah",
+                    "meaning": "Oil well/Petrol pump",
+                    "example_sentence": "तैलकूपात् इन्धनं क्रीयते। (Fuel is bought from the petrol pump.)"
+                },
+                {
+                    "word": "यन्त्रचालकः",
+                    "reading": "Yan-tra-chaa-la-kah",
+                    "meaning": "Driver/Operator",
+                    "example_sentence": "यन्त्रचालकः यानं चालयति। (The driver operates the vehicle.)"
+                },
+                {
+                    "word": "गत्यारोधः",
+                    "reading": "Gat-yaa-ro-dhah",
+                    "meaning": "Traffic jam/Speed breaker",
+                    "example_sentence": "गत्यारोधः मार्गे अस्ति। (There is a traffic jam on the road.)"
+                },
+                {
+                    "word": "सङ्केतप्रदीपः",
+                    "reading": "San-ke-ta-pra-dee-pah",
+                    "meaning": "Traffic light",
+                    "example_sentence": "सङ्केतप्रदीपः रक्तः अस्ति। (The traffic light is red.)"
+                },
+                {
+                    "word": "चतुष्पथः",
+                    "reading": "Cha-tush-pa-thah",
+                    "meaning": "Crossroads",
+                    "example_sentence": "चतुष्पथे सावधानः भव। (Be careful at the crossroads.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "सेतुः",
+                    "reading": "Se-tuh",
+                    "meaning": "Bridge",
+                    "example_sentence": "सेतुः नदीं पारयति। (The bridge crosses the river.)"
+                },
+                {
+                    "word": "सुरङ्गः",
+                    "reading": "Su-ran-gah",
+                    "meaning": "Tunnel",
+                    "example_sentence": "सुरङ्गः पर्वतं पारयति। (The tunnel crosses the mountain.)"
+                },
+                {
+                    "word": "नलिका",
+                    "reading": "Na-li-kaa",
+                    "meaning": "Pipeline",
+                    "example_sentence": "नलिकायां जलं प्रवहति। (Water flows in the pipeline.)"
+                },
+                {
+                    "word": "विद्युत्केन्द्रम्",
+                    "reading": "Vid-yut-ken-dram",
+                    "meaning": "Power station",
+                    "example_sentence": "विद्युत्केन्द्रात् विद्युत् आगच्छति। (Electricity comes from the power station.)"
+                },
+                {
+                    "word": "जलशुद्धिकरणम्",
+                    "reading": "Ja-la-shudh-dhi-ka-ra-nam",
+                    "meaning": "Water treatment",
+                    "example_sentence": "जलशुद्धिकरणं स्वास्थ्याय आवश्यकम्। (Water treatment is necessary for health.)"
+                },
+                {
+                    "word": "कूटागारम्",
+                    "reading": "Koo-taa-gaa-ram",
+                    "meaning": "Grain elevator/Silo",
+                    "example_sentence": "कूटागारे धान्यं रक्ष्यते। (Grain is stored in the silo.)"
+                },
+                {
+                    "word": "निर्माणस्थलम्",
+                    "reading": "Nir-maa-na-stha-lam",
+                    "meaning": "Construction site",
+                    "example_sentence": "निर्माणस्थले कार्यं चलति। (Work is going on at the construction site.)"
+                },
+                {
+                    "word": "अवकरकुण्डम्",
+                    "reading": "A-va-ka-ra-kun-dam",
+                    "meaning": "Dustbin/Trash can",
+                    "example_sentence": "अवकरकुण्डे कचरं क्षिप। (Throw garbage in the dustbin.)"
+                },
+                {
+                    "word": "सज्जा",
+                    "reading": "Saj-jaa",
+                    "meaning": "Decoration/Preparation",
+                    "example_sentence": "उत्सवस्य सज्जा भवति। (Decoration for the festival happens.)"
+                },
+                {
+                    "word": "नगररचना",
+                    "reading": "Na-ga-ra-ra-cha-naa",
+                    "meaning": "Urban planning",
+                    "example_sentence": "नगररचना महत्त्वपूर्णा अस्ति। (Urban planning is important.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "आवासीयक्षेत्रम्",
+                    "reading": "Aa-vaa-see-ya-kshet-ram",
+                    "meaning": "Residential area",
+                    "example_sentence": "आवासीयक्षेत्रे गृहाणि सन्ति। (There are houses in the residential area.)"
+                },
+                {
+                    "word": "औद्योगिकक्षेत्रम्",
+                    "reading": "Au-dyo-gi-ka-kshet-ram",
+                    "meaning": "Industrial area",
+                    "example_sentence": "औद्योगिकक्षेत्रे कारखानाः सन्ति। (There are factories in the industrial area.)"
+                },
+                {
+                    "word": "विपणिः",
+                    "reading": "Vi-pa-nih",
+                    "meaning": "Marketplace",
+                    "example_sentence": "विपणौ वस्तूनि क्रीयन्ते। (Goods are bought in the marketplace.)"
+                },
+                {
+                    "word": "जनसम्मर्दः",
+                    "reading": "Ja-na-sam-mar-dah",
+                    "meaning": "Crowd of people",
+                    "example_sentence": "उत्सवे जनसम्मर्दः भवति। (There is a crowd at the festival.)"
+                },
+                {
+                    "word": "कोलाहलः",
+                    "reading": "Ko-laa-ha-lah",
+                    "meaning": "Noise/Uproar",
+                    "example_sentence": "नगरे कोलाहलः अस्ति। (There is noise in the city.)"
+                },
+                {
+                    "word": "शान्तिः",
+                    "reading": "Shaan-tih",
+                    "meaning": "Quiet/Peace",
+                    "example_sentence": "ग्रामे शान्तिः अस्ति। (There is peace in the village.)"
+                },
+                {
+                    "word": "स्वच्छता",
+                    "reading": "Svac-cha-taa",
+                    "meaning": "Cleanliness",
+                    "example_sentence": "स्वच्छता स्वास्थ्याय आवश्यका। (Cleanliness is necessary for health.)"
+                },
+                {
+                    "word": "मालिन्यम्",
+                    "reading": "Maa-lin-yam",
+                    "meaning": "Pollution/Dirtiness",
+                    "example_sentence": "मालिन्यं स्वास्थ्याय हानिकरम्। (Pollution is harmful to health.)"
+                },
+                {
+                    "word": "हरितपट्टिका",
+                    "reading": "Ha-ri-ta-pat-ti-kaa",
+                    "meaning": "Green belt/Park",
+                    "example_sentence": "हरितपट्टिका नगरे आवश्यका। (Green belt is necessary in the city.)"
+                },
+                {
+                    "word": "पादपथः",
+                    "reading": "Paa-da-pa-thah",
+                    "meaning": "Footpath/Sidewalk",
+                    "example_sentence": "पादपथे चल। (Walk on the footpath.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "याननिषेधः",
+                    "reading": "Yaa-na-ni-she-dhah",
+                    "meaning": "No entry/No parking",
+                    "example_sentence": "अत्र याननिषेधः अस्ति। (There is no parking here.)"
+                },
+                {
+                    "word": "एकमार्गः",
+                    "reading": "E-ka-maar-gah",
+                    "meaning": "One way",
+                    "example_sentence": "एषः एकमार्गः अस्ति। (This is a one-way road.)"
+                },
+                {
+                    "word": "आरक्षणम्",
+                    "reading": "Aa-rak-sha-nam",
+                    "meaning": "Reservation/Booking",
+                    "example_sentence": "आरक्षणं पूर्वं कुरु। (Make reservation in advance.)"
+                },
+                {
+                    "word": "प्रस्थानम्",
+                    "reading": "Pras-thaa-nam",
+                    "meaning": "Departure",
+                    "example_sentence": "प्रस्थानं प्रातः भवति। (Departure is in the morning.)"
+                },
+                {
+                    "word": "आगमनम्",
+                    "reading": "Aa-ga-ma-nam",
+                    "meaning": "Arrival",
+                    "example_sentence": "आगमनं सायं भवति। (Arrival is in the evening.)"
+                },
+                {
+                    "word": "विलम्बः",
+                    "reading": "Vi-lam-bah",
+                    "meaning": "Delay",
+                    "example_sentence": "यानस्य विलम्बः अभवत्। (There was a delay of the vehicle.)"
+                },
+                {
+                    "word": "समयसारिणी",
+                    "reading": "Sa-ma-ya-saa-ri-nee",
+                    "meaning": "Timetable/Schedule",
+                    "example_sentence": "समयसारिणीं पश्य। (See the timetable.)"
+                },
+                {
+                    "word": "यात्राकरः",
+                    "reading": "Yaat-raa-ka-rah",
+                    "meaning": "Travel tax/Fare",
+                    "example_sentence": "यात्राकरः देयः अस्ति। (The fare must be paid.)"
+                },
+                {
+                    "word": "यानकरः",
+                    "reading": "Yaan-ka-rah",
+                    "meaning": "Vehicle tax",
+                    "example_sentence": "यानकरं वार्षिकं देहि। (Pay the vehicle tax annually.)"
+                },
+                {
+                    "word": "सङ्केतः",
+                    "reading": "San-ke-tah",
+                    "meaning": "Address/Signal",
+                    "example_sentence": "सङ्केतं लिख। (Write the address.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "दूरभाषयन्त्रम्",
+                    "reading": "Doo-ra-bhaa-sha-yan-tram",
+                    "meaning": "Public telephone",
+                    "example_sentence": "दूरभाषयन्त्रात् सम्भाषणं कुरु। (Make a call from the public telephone.)"
+                },
+                {
+                    "word": "अन्तर्जालकेन्द्रम्",
+                    "reading": "An-tar-jaa-la-ken-dram",
+                    "meaning": "Cyber cafe/Internet center",
+                    "example_sentence": "अन्तर्जालकेन्द्रे सङ्गणकं उपयुज्यते। (Computer is used at the cyber cafe.)"
+                },
+                {
+                    "word": "पौरः",
+                    "reading": "Pau-rah",
+                    "meaning": "Townsman/Citizen",
+                    "example_sentence": "पौरः नगरे वसति। (The citizen lives in the city.)"
+                },
+                {
+                    "word": "जनपदम्",
+                    "reading": "Ja-na-pa-dam",
+                    "meaning": "District/Countryside",
+                    "example_sentence": "जनपदे कृषिः भवति। (Agriculture happens in the countryside.)"
+                },
+                {
+                    "word": "राजधानी",
+                    "reading": "Raa-ja-dhaa-nee",
+                    "meaning": "Capital city",
+                    "example_sentence": "राजधानी देशस्य केन्द्रम् अस्ति। (The capital is the center of the country.)"
+                },
+                {
+                    "word": "महानगरम्",
+                    "reading": "Ma-haa-na-ga-ram",
+                    "meaning": "Metropolis",
+                    "example_sentence": "महानगरे बहवः जनाः वसन्ति। (Many people live in the metropolis.)"
+                },
+                {
+                    "word": "ग्रामः",
+                    "reading": "Graa-mah",
+                    "meaning": "Village",
+                    "example_sentence": "ग्रामे शान्तिः अस्ति। (There is peace in the village.)"
+                },
+                {
+                    "word": "पल्ली",
+                    "reading": "Pal-lee",
+                    "meaning": "Small hamlet",
+                    "example_sentence": "पल्ली लघुः ग्रामः अस्ति। (A hamlet is a small village.)"
+                },
+                {
+                    "word": "दुर्गम्",
+                    "reading": "Dur-gam",
+                    "meaning": "Fortress/Fort",
+                    "example_sentence": "दुर्गं सुरक्षितम् अस्ति। (The fortress is secure.)"
+                },
+                {
+                    "word": "नगरम्",
+                    "reading": "Na-ga-ram",
+                    "meaning": "City/Town",
+                    "example_sentence": "नगरं विकसितम् अस्ति। (The city is developed.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Sanskrit Compound Word Trap",
+        "question": "What is the correct Sanskrit term for 'bus station'?",
+        "options": [
+            "लोकानस्थानकम् (lokaana-sthaanakam)",
+            "लोकयानस्थानकम् (loka-yaana-sthaanakam)",
+            "बसस्थानकम् (basa-sthaanakam)",
+            "जनयानस्थानकम् (jana-yaana-sthaanakam)"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "While लोकानस्थानकम् (lokaana-sthaanakam) might appear in the user's data, the more grammatically correct classical Sanskrit compound is लोकयानस्थानकम् (loka-yaana-sthaanakam), meaning 'public vehicle station'. The word breaks down as लोक (loka - public) + यान (yaana - vehicle) + स्थानक (sthaanaka - station). The form लोकान is actually a declined form (accusative plural of लोक) and shouldn't be used in compound formation. This trap teaches learners about proper Sanskrit compound (समास) formation rules - compounds should use stem forms, not declined forms!"
+    }
+}

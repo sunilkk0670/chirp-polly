@@ -1,0 +1,672 @@
+{
+    "moduleId": "sa_a2_m08",
+    "theme": "Law, Politics & Governance",
+    "title": "Law, Politics & Governance",
+    "level": "a2",
+    "language": "sanskrit",
+    "order": 8,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "संविधानम्",
+                    "reading": "Sam-vi-dhaa-nam",
+                    "meaning": "Constitution",
+                    "example_sentence": "संविधानं राष्ट्रस्य मूलविधिः। (Constitution is the fundamental law of the nation.)"
+                },
+                {
+                    "word": "प्रजाप्रभुत्वम्",
+                    "reading": "Pra-jaa-pra-bhut-vam",
+                    "meaning": "Democracy",
+                    "example_sentence": "प्रजाप्रभुत्वे जनाः शासकान् चिन्वन्ति। (In democracy, people elect rulers.)"
+                },
+                {
+                    "word": "राजतन्त्रम्",
+                    "reading": "Raa-ja-tan-tram",
+                    "meaning": "Monarchy",
+                    "example_sentence": "राजतन्त्रे राजा शासकः भवति। (In monarchy, the king is the ruler.)"
+                },
+                {
+                    "word": "विधिः",
+                    "reading": "Vi-dhih",
+                    "meaning": "Law/Statute (Trap Word)",
+                    "example_sentence": "विधिः सर्वेषां पालनीयः। (Law must be followed by all.) [LIAR GAME TRAP]"
+                },
+                {
+                    "word": "नियमनम्",
+                    "reading": "Ni-ya-ma-nam",
+                    "meaning": "Regulation",
+                    "example_sentence": "नियमनं व्यवस्थापनाय आवश्यकम्। (Regulation is necessary for order.)"
+                },
+                {
+                    "word": "न्यायपालिका",
+                    "reading": "Nyaa-ya-paa-li-kaa",
+                    "meaning": "Judiciary",
+                    "example_sentence": "न्यायपालिका न्यायं प्रदाति। (The judiciary delivers justice.)"
+                },
+                {
+                    "word": "विधेयकः",
+                    "reading": "Vi-dhe-ya-kah",
+                    "meaning": "Legislative Bill",
+                    "example_sentence": "विधेयकः विधानसभायां प्रस्तूयते। (A bill is presented in the legislature.)"
+                },
+                {
+                    "word": "मतदानम्",
+                    "reading": "Ma-ta-daa-nam",
+                    "meaning": "Voting",
+                    "example_sentence": "मतदानं प्रजातन्त्रस्य आधारः। (Voting is the foundation of democracy.)"
+                },
+                {
+                    "word": "निर्वाचनम्",
+                    "reading": "Nir-vaa-cha-nam",
+                    "meaning": "Election",
+                    "example_sentence": "निर्वाचनं प्रतिवर्षं भवति। (Election happens every year.)"
+                },
+                {
+                    "word": "प्रशासनम्",
+                    "reading": "Pra-shaa-sa-nam",
+                    "meaning": "Administration",
+                    "example_sentence": "प्रशासनं शासनव्यवस्था अस्ति। (Administration is the governance system.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "मन्त्रिमण्डलम्",
+                    "reading": "Man-tri-man-da-lam",
+                    "meaning": "Cabinet",
+                    "example_sentence": "मन्त्रिमण्डलं मन्त्रिणां समूहः। (Cabinet is a group of ministers.)"
+                },
+                {
+                    "word": "सांसद्",
+                    "reading": "Saan-sad",
+                    "meaning": "Member of Parliament",
+                    "example_sentence": "सांसदः संसदि सदस्यः। (MP is a member in parliament.)"
+                },
+                {
+                    "word": "कूटनीतिः",
+                    "reading": "Koo-ta-nee-tih",
+                    "meaning": "Diplomacy",
+                    "example_sentence": "कूटनीतिः राष्ट्रान्तरसम्बन्धेषु महत्त्वपूर्णा। (Diplomacy is important in international relations.)"
+                },
+                {
+                    "word": "राजदूतावासः",
+                    "reading": "Raa-ja-doo-taa-vaa-sah",
+                    "meaning": "Embassy",
+                    "example_sentence": "राजदूतावासः विदेशे भवति। (Embassy is in a foreign country.)"
+                },
+                {
+                    "word": "सन्धिः",
+                    "reading": "San-dhih",
+                    "meaning": "Treaty/Alliance",
+                    "example_sentence": "सन्धिः द्वयोः राष्ट्रयोः मध्ये भवति। (Treaty happens between two nations.)"
+                },
+                {
+                    "word": "विग्रहः",
+                    "reading": "Vi-gra-hah",
+                    "meaning": "War/Conflict",
+                    "example_sentence": "विग्रहः विनाशकारी अस्ति। (War is destructive.)"
+                },
+                {
+                    "word": "दण्डनीतिः",
+                    "reading": "Dan-da-nee-tih",
+                    "meaning": "Political ethics/Science of punishment",
+                    "example_sentence": "दण्डनीतिः राजनीतिशास्त्रम्। (Dandaniti is political science.)"
+                },
+                {
+                    "word": "अपराधः",
+                    "reading": "A-pa-raa-dhah",
+                    "meaning": "Crime",
+                    "example_sentence": "अपराधः दण्डनीयः अस्ति। (Crime is punishable.)"
+                },
+                {
+                    "word": "कारावासः",
+                    "reading": "Kaa-raa-vaa-sah",
+                    "meaning": "Imprisonment",
+                    "example_sentence": "कारावासः दण्डः अस्ति। (Imprisonment is a punishment.)"
+                },
+                {
+                    "word": "साक्षी",
+                    "reading": "Saak-shee",
+                    "meaning": "Witness",
+                    "example_sentence": "साक्षी न्यायालये साक्ष्यं ददाति। (Witness gives testimony in court.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "प्रमाणम्",
+                    "reading": "Pra-maa-nam",
+                    "meaning": "Evidence",
+                    "example_sentence": "प्रमाणं न्यायस्य आधारः। (Evidence is the basis of justice.)"
+                },
+                {
+                    "word": "अभियोगः",
+                    "reading": "A-bhi-yo-gah",
+                    "meaning": "Lawsuit/Accusation",
+                    "example_sentence": "अभियोगः न्यायालये प्रस्तूयते। (Lawsuit is filed in court.)"
+                },
+                {
+                    "word": "दण्डः",
+                    "reading": "Dan-dah",
+                    "meaning": "Penalty/Fine",
+                    "example_sentence": "दण्डः अपराधस्य फलम्। (Penalty is the result of crime.)"
+                },
+                {
+                    "word": "क्षमादानम्",
+                    "reading": "Ksha-maa-daa-nam",
+                    "meaning": "Pardon",
+                    "example_sentence": "क्षमादानं राष्ट्रपतेः अधिकारः। (Pardon is the president's right.)"
+                },
+                {
+                    "word": "अधिकारः",
+                    "reading": "A-dhi-kaa-rah",
+                    "meaning": "Jurisdiction/Right",
+                    "example_sentence": "अधिकारः शक्तिः अस्ति। (Right is power.)"
+                },
+                {
+                    "word": "स्वामित्वम्",
+                    "reading": "Svaa-mit-vam",
+                    "meaning": "Ownership",
+                    "example_sentence": "स्वामित्वं सम्पत्तेः अधिकारः। (Ownership is the right over property.)"
+                },
+                {
+                    "word": "सम्पत्तिः",
+                    "reading": "Sam-pat-tih",
+                    "meaning": "Asset/Wealth",
+                    "example_sentence": "सम्पत्तिः धनम् अस्ति। (Asset is wealth.)"
+                },
+                {
+                    "word": "राजस्वम्",
+                    "reading": "Raa-jas-vam",
+                    "meaning": "Revenue",
+                    "example_sentence": "राजस्वं राज्यस्य आयः। (Revenue is the state's income.)"
+                },
+                {
+                    "word": "करः",
+                    "reading": "Ka-rah",
+                    "meaning": "Tax",
+                    "example_sentence": "करः राजस्वस्य स्रोतः। (Tax is a source of revenue.)"
+                },
+                {
+                    "word": "उत्कोचः",
+                    "reading": "Ut-ko-chah",
+                    "meaning": "Bribe",
+                    "example_sentence": "उत्कोचः अपराधः अस्ति। (Bribe is a crime.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "भ्रष्टाचारः",
+                    "reading": "Bhrush-taa-chaa-rah",
+                    "meaning": "Corruption",
+                    "example_sentence": "भ्रष्टाचारः समाजस्य शत्रुः। (Corruption is society's enemy.)"
+                },
+                {
+                    "word": "शपथः",
+                    "reading": "Sha-pa-thah",
+                    "meaning": "Oath",
+                    "example_sentence": "शपथः प्रतिज्ञा अस्ति। (Oath is a pledge.)"
+                },
+                {
+                    "word": "गुप्तचरः",
+                    "reading": "Gup-ta-cha-rah",
+                    "meaning": "Spy",
+                    "example_sentence": "गुप्तचरः गुप्तसूचनां संगृह्णाति। (Spy collects secret information.)"
+                },
+                {
+                    "word": "सुरक्षा",
+                    "reading": "Su-rak-shaa",
+                    "meaning": "Security",
+                    "example_sentence": "सुरक्षा राष्ट्रस्य प्राथमिकता। (Security is the nation's priority.)"
+                },
+                {
+                    "word": "सीमारक्षा",
+                    "reading": "See-maa-rak-shaa",
+                    "meaning": "Border defense",
+                    "example_sentence": "सीमारक्षा सैनिकाः कुर्वन्ति। (Soldiers do border defense.)"
+                },
+                {
+                    "word": "राष्ट्रध्वजः",
+                    "reading": "Raash-tra-dhva-jah",
+                    "meaning": "National flag",
+                    "example_sentence": "राष्ट्रध्वजः राष्ट्रस्य प्रतीकम्। (National flag is the nation's symbol.)"
+                },
+                {
+                    "word": "राष्ट्रगीतम्",
+                    "reading": "Raash-tra-gee-tam",
+                    "meaning": "National anthem",
+                    "example_sentence": "राष्ट्रगीतं सम्मानेन गीयते। (National anthem is sung with respect.)"
+                },
+                {
+                    "word": "स्वतन्त्रता",
+                    "reading": "Sva-tan-tra-taa",
+                    "meaning": "Independence",
+                    "example_sentence": "स्वतन्त्रता मूलभूतं अधिकारम्। (Independence is a fundamental right.)"
+                },
+                {
+                    "word": "गणतन्त्रम्",
+                    "reading": "Ga-na-tan-tram",
+                    "meaning": "Republic",
+                    "example_sentence": "गणतन्त्रे जनाः सर्वोच्चाः। (In a republic, people are supreme.)"
+                },
+                {
+                    "word": "पौरधर्मः",
+                    "reading": "Pau-ra-dhar-mah",
+                    "meaning": "Civic duty",
+                    "example_sentence": "पौरधर्मः नागरिकस्य कर्तव्यम्। (Civic duty is a citizen's obligation.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "सामाजिकः",
+                    "reading": "Saa-maa-ji-kah",
+                    "meaning": "Social",
+                    "example_sentence": "सामाजिकः समाजसम्बन्धी अस्ति। (Social is related to society.)"
+                },
+                {
+                    "word": "आर्थिकः",
+                    "reading": "Aar-thi-kah",
+                    "meaning": "Economic",
+                    "example_sentence": "आर्थिकः अर्थसम्बन्धी अस्ति। (Economic is related to finance.)"
+                },
+                {
+                    "word": "सांस्कृतिकः",
+                    "reading": "Saan-skru-ti-kah",
+                    "meaning": "Cultural",
+                    "example_sentence": "सांस्कृतिकः संस्कृतिसम्बन्धी अस्ति। (Cultural is related to culture.)"
+                },
+                {
+                    "word": "सार्वजनिकः",
+                    "reading": "Saar-va-ja-ni-kah",
+                    "meaning": "Public",
+                    "example_sentence": "सार्वजनिकः सर्वेषां कृते अस्ति। (Public is for everyone.)"
+                },
+                {
+                    "word": "वैयक्तिकः",
+                    "reading": "Vai-yak-ti-kah",
+                    "meaning": "Personal/Private",
+                    "example_sentence": "वैयक्तिकः व्यक्तिगतः अस्ति। (Personal is individual.)"
+                },
+                {
+                    "word": "आयोगः",
+                    "reading": "Aa-yo-gah",
+                    "meaning": "Commission",
+                    "example_sentence": "आयोगः विशेषकार्याय गठ्यते। (Commission is formed for special work.)"
+                },
+                {
+                    "word": "समितिः",
+                    "reading": "Sa-mi-tih",
+                    "meaning": "Committee",
+                    "example_sentence": "समितिः सदस्यानां समूहः। (Committee is a group of members.)"
+                },
+                {
+                    "word": "अधिवेशनम्",
+                    "reading": "A-dhi-ve-sha-nam",
+                    "meaning": "Session",
+                    "example_sentence": "अधिवेशनं सभायाः बैठकः। (Session is a meeting of assembly.)"
+                },
+                {
+                    "word": "प्रस्तावः",
+                    "reading": "Pras-taa-vah",
+                    "meaning": "Proposal/Motion",
+                    "example_sentence": "प्रस्तावः सभायां प्रस्तूयते। (Proposal is presented in assembly.)"
+                },
+                {
+                    "word": "अनुमोदनम्",
+                    "reading": "A-nu-mo-da-nam",
+                    "meaning": "Approval/Ratification",
+                    "example_sentence": "अनुमोदनं स्वीकृतिः अस्ति। (Approval is acceptance.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "निषेधाधिकारः",
+                    "reading": "Ni-she-dhaa-dhi-kaa-rah",
+                    "meaning": "Veto power",
+                    "example_sentence": "निषेधाधिकारः निषेधशक्तिः। (Veto power is the power to reject.)"
+                },
+                {
+                    "word": "अल्पसङ्ख्यकः",
+                    "reading": "Al-pa-san-khya-kah",
+                    "meaning": "Minority",
+                    "example_sentence": "अल्पसङ्ख्यकः लघुसमूहः। (Minority is a small group.)"
+                },
+                {
+                    "word": "बहुसङ्ख्यकः",
+                    "reading": "Ba-hu-san-khya-kah",
+                    "meaning": "Majority",
+                    "example_sentence": "बहुसङ्ख्यकः वृहत्समूहः। (Majority is a large group.)"
+                },
+                {
+                    "word": "सम्प्रदायः",
+                    "reading": "Sam-pra-daa-yah",
+                    "meaning": "Tradition/Sect",
+                    "example_sentence": "सम्प्रदायः परम्परा अस्ति। (Sect is a tradition.)"
+                },
+                {
+                    "word": "धर्मनिरपेक्षः",
+                    "reading": "Dhar-ma-ni-ra-pek-shah",
+                    "meaning": "Secular",
+                    "example_sentence": "धर्मनिरपेक्षः सर्वधर्मसमानः। (Secular treats all religions equally.)"
+                },
+                {
+                    "word": "सङ्घीयः",
+                    "reading": "San-ghee-yah",
+                    "meaning": "Federal",
+                    "example_sentence": "सङ्घीयः संघात्मकः अस्ति। (Federal is union-based.)"
+                },
+                {
+                    "word": "स्थानीयः",
+                    "reading": "Sthaa-nee-yah",
+                    "meaning": "Local",
+                    "example_sentence": "स्थानीयः स्थानसम्बन्धी अस्ति। (Local is place-related.)"
+                },
+                {
+                    "word": "मण्डलाधिपतिः",
+                    "reading": "Man-da-laa-dhi-pa-tih",
+                    "meaning": "District Magistrate",
+                    "example_sentence": "मण्डलाधिपतिः जिलाध्यक्षः। (District Magistrate is the district head.)"
+                },
+                {
+                    "word": "राज्यपालः",
+                    "reading": "Raa-jya-paa-lah",
+                    "meaning": "Governor",
+                    "example_sentence": "राज्यपालः राज्यस्य प्रमुखः। (Governor is the state's head.)"
+                },
+                {
+                    "word": "मुख्यमन्त्री",
+                    "reading": "Mu-khya-man-tree",
+                    "meaning": "Chief Minister",
+                    "example_sentence": "मुख्यमन्त्री राज्यशासनस्य प्रधानः। (Chief Minister is the head of state government.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "प्रधानमन्त्री",
+                    "reading": "Pra-dhaa-na-man-tree",
+                    "meaning": "Prime Minister",
+                    "example_sentence": "प्रधानमन्त्री केन्द्रशासनस्य प्रमुखः। (Prime Minister is the head of central government.)"
+                },
+                {
+                    "word": "राष्ट्रपतिः",
+                    "reading": "Raash-tra-pa-tih",
+                    "meaning": "President (Head of State)",
+                    "example_sentence": "राष्ट्रपतिः राष्ट्रस्य प्रमुखः। (President is the head of the nation.)"
+                },
+                {
+                    "word": "कोषाध्यक्षः",
+                    "reading": "Ko-shaa-dhyak-shah",
+                    "meaning": "Exchequer/Treasurer",
+                    "example_sentence": "कोषाध्यक्षः कोषस्य रक्षकः। (Treasurer is the keeper of treasury.)"
+                },
+                {
+                    "word": "लेखापरीक्षकः",
+                    "reading": "Le-khaa-pa-ree-ksha-kah",
+                    "meaning": "Auditor",
+                    "example_sentence": "लेखापरीक्षकः लेखानां परीक्षां करोति। (Auditor examines accounts.)"
+                },
+                {
+                    "word": "राजस्वविमर्षः",
+                    "reading": "Raa-jas-va-vi-mar-shah",
+                    "meaning": "Budget",
+                    "example_sentence": "राजस्वविमर्षः वार्षिकः योजना। (Budget is an annual plan.)"
+                },
+                {
+                    "word": "ऋणपत्रम्",
+                    "reading": "Ru-na-pat-ram",
+                    "meaning": "Bond/Debenture",
+                    "example_sentence": "ऋणपत्रं ऋणस्य प्रमाणपत्रम्। (Bond is a certificate of debt.)"
+                },
+                {
+                    "word": "मुद्रास्फीतिः",
+                    "reading": "Mud-raa-sphee-tih",
+                    "meaning": "Inflation",
+                    "example_sentence": "मुद्रास्फीतिः मूल्यवृद्धिः। (Inflation is price increase.)"
+                },
+                {
+                    "word": "पण्यम्",
+                    "reading": "Pan-yam",
+                    "meaning": "Commodity",
+                    "example_sentence": "पण्यं विक्रयवस्तु अस्ति। (Commodity is a saleable item.)"
+                },
+                {
+                    "word": "व्यापारः",
+                    "reading": "Vyaa-paa-rah",
+                    "meaning": "Trade/Commerce",
+                    "example_sentence": "व्यापारः वाणिज्यम् अस्ति। (Trade is commerce.)"
+                },
+                {
+                    "word": "आपणिकः",
+                    "reading": "Aa-pa-ni-kah",
+                    "meaning": "Shopkeeper/Merchant",
+                    "example_sentence": "आपणिकः वस्तूनि विक्रीणाति। (Shopkeeper sells goods.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "उपभोक्ता",
+                    "reading": "U-pa-bhok-taa",
+                    "meaning": "Consumer",
+                    "example_sentence": "उपभोक्ता वस्तूनि क्रीणाति। (Consumer buys goods.)"
+                },
+                {
+                    "word": "विनिमयः",
+                    "reading": "Vi-ni-ma-yah",
+                    "meaning": "Exchange/Barter",
+                    "example_sentence": "विनिमयः वस्तुविनिमयः। (Exchange is barter of goods.)"
+                },
+                {
+                    "word": "निधानम्",
+                    "reading": "Ni-dhaa-nam",
+                    "meaning": "Investment",
+                    "example_sentence": "निधानं धनस्य विनियोगः। (Investment is allocation of money.)"
+                },
+                {
+                    "word": "वित्तीयः",
+                    "reading": "Vit-tee-yah",
+                    "meaning": "Financial",
+                    "example_sentence": "वित्तीयः धनसम्बन्धी अस्ति। (Financial is money-related.)"
+                },
+                {
+                    "word": "बचतम्",
+                    "reading": "Ba-cha-tam",
+                    "meaning": "Savings",
+                    "example_sentence": "बचतं संचितधनम्। (Savings is accumulated money.)"
+                },
+                {
+                    "word": "पूँजी",
+                    "reading": "Poon-jee",
+                    "meaning": "Capital (Money)",
+                    "example_sentence": "पूँजी मूलधनम् अस्ति। (Capital is principal money.)"
+                },
+                {
+                    "word": "भागीदारी",
+                    "reading": "Bhaa-gee-daa-ree",
+                    "meaning": "Partnership",
+                    "example_sentence": "भागीदारी साझेदारी अस्ति। (Partnership is joint ownership.)"
+                },
+                {
+                    "word": "हस्ताक्षरम्",
+                    "reading": "Has-taak-sha-ram",
+                    "meaning": "Signature",
+                    "example_sentence": "हस्ताक्षरं स्वीकृतेः चिह्नम्। (Signature is a sign of acceptance.)"
+                },
+                {
+                    "word": "दस्तावेजः",
+                    "reading": "Das-taa-ve-jah",
+                    "meaning": "Document",
+                    "example_sentence": "दस्तावेजः लिखितप्रमाणम्। (Document is written proof.)"
+                },
+                {
+                    "word": "पञ्जीकरणम्",
+                    "reading": "Pan-jee-ka-ra-nam",
+                    "meaning": "Registration",
+                    "example_sentence": "पञ्जीकरणं आधिकारिकलेखनम्। (Registration is official recording.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "अधिसूचना",
+                    "reading": "A-dhi-soo-cha-naa",
+                    "meaning": "Notification",
+                    "example_sentence": "अधिसूचना सूचनापत्रम्। (Notification is an information notice.)"
+                },
+                {
+                    "word": "निर्देशनम्",
+                    "reading": "Nir-de-sha-nam",
+                    "meaning": "Guideline/Directive",
+                    "example_sentence": "निर्देशनं मार्गदर्शनम्। (Guideline is guidance.)"
+                },
+                {
+                    "word": "परिपालनम्",
+                    "reading": "Pa-ri-paa-la-nam",
+                    "meaning": "Compliance",
+                    "example_sentence": "परिपालनं नियमपालनम्। (Compliance is rule-following.)"
+                },
+                {
+                    "word": "उल्लङ्घनम्",
+                    "reading": "Ul-lan-gha-nam",
+                    "meaning": "Violation",
+                    "example_sentence": "उल्लङ्घनं नियमभङ्गः। (Violation is rule-breaking.)"
+                },
+                {
+                    "word": "विरोधप्रदर्शनम्",
+                    "reading": "Vi-ro-dha-pra-dar-sha-nam",
+                    "meaning": "Protest",
+                    "example_sentence": "विरोधप्रदर्शनं असन्तोषप्रदर्शनम्। (Protest is a display of dissent.)"
+                },
+                {
+                    "word": "आन्दोलनम्",
+                    "reading": "Aan-do-la-nam",
+                    "meaning": "Movement/Agitation",
+                    "example_sentence": "आन्दोलनं सामूहिकप्रयत्नः। (Movement is collective effort.)"
+                },
+                {
+                    "word": "शान्तिस्थापना",
+                    "reading": "Shaan-ti-sthaa-pa-naa",
+                    "meaning": "Peacekeeping",
+                    "example_sentence": "शान्तिस्थापना शान्तिरक्षणम्। (Peacekeeping is maintaining peace.)"
+                },
+                {
+                    "word": "मानवाधिकारः",
+                    "reading": "Maa-na-vaa-dhi-kaa-rah",
+                    "meaning": "Human Right",
+                    "example_sentence": "मानवाधिकारः मनुष्यस्य मूलाधिकारः। (Human right is a fundamental right of humans.)"
+                },
+                {
+                    "word": "न्यायः",
+                    "reading": "Nyaa-yah",
+                    "meaning": "Justice",
+                    "example_sentence": "न्यायः धर्मस्य आधारः। (Justice is the foundation of righteousness.)"
+                },
+                {
+                    "word": "अन्यायः",
+                    "reading": "An-yaa-yah",
+                    "meaning": "Injustice",
+                    "example_sentence": "अन्यायः अधर्मः अस्ति। (Injustice is unrighteousness.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "समानता",
+                    "reading": "Sa-maa-na-taa",
+                    "meaning": "Equality",
+                    "example_sentence": "समानता सर्वेषां समत्वम्। (Equality is sameness for all.)"
+                },
+                {
+                    "word": "सौभ्रातृत्वम्",
+                    "reading": "Sau-bhraa-trut-vam",
+                    "meaning": "Fraternity",
+                    "example_sentence": "सौभ्रातृत्वं भ्रातृभावः। (Fraternity is brotherhood.)"
+                },
+                {
+                    "word": "धर्मः",
+                    "reading": "Dhar-mah",
+                    "meaning": "Righteousness/Ethics",
+                    "example_sentence": "धर्मः नैतिकता अस्ति। (Dharma is ethics.)"
+                },
+                {
+                    "word": "कर्तव्यम्",
+                    "reading": "Kar-tab-yam",
+                    "meaning": "Obligation/Duty",
+                    "example_sentence": "कर्तव्यं कार्यम् अस्ति। (Duty is work to be done.)"
+                },
+                {
+                    "word": "लोककल्याणम्",
+                    "reading": "Lo-ka-kal-yaa-nam",
+                    "meaning": "Public Welfare",
+                    "example_sentence": "लोककल्याणं जनहितम्। (Public welfare is people's benefit.)"
+                },
+                {
+                    "word": "सर्वोदयः",
+                    "reading": "Sar-vo-da-yah",
+                    "meaning": "Upliftment of all",
+                    "example_sentence": "सर्वोदयः सर्वेषां उन्नतिः। (Sarvodaya is the upliftment of all.)"
+                },
+                {
+                    "word": "स्वराज्यम्",
+                    "reading": "Sva-raaj-yam",
+                    "meaning": "Self-rule",
+                    "example_sentence": "स्वराज्यं स्वशासनम् अस्ति। (Swarajya is self-governance.)"
+                },
+                {
+                    "word": "रामराज्यम्",
+                    "reading": "Raa-ma-raaj-yam",
+                    "meaning": "Ideal Governance",
+                    "example_sentence": "रामराज्यं आदर्शशासनम्। (Ramarajya is ideal governance.)"
+                },
+                {
+                    "word": "चाणक्यनीतिः",
+                    "reading": "Chaa-na-kya-nee-tih",
+                    "meaning": "Political Strategy",
+                    "example_sentence": "चाणक्यनीतिः राजनीतिकरणनीतिः। (Chanakya-niti is political strategy.)"
+                },
+                {
+                    "word": "अर्थशास्त्रम्",
+                    "reading": "Ar-tha-shaas-tram",
+                    "meaning": "Political Economy",
+                    "example_sentence": "अर्थशास्त्रं राजनीतिशास्त्रम्। (Arthashastra is political science.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Sanskrit Legal Term Precision Trap",
+        "question": "What is the precise classical Sanskrit distinction between 'विधि' (vidhi) and 'नियम' (niyama)?",
+        "options": [
+            "Both mean exactly the same thing - 'law'",
+            "विधि is divine/scriptural law; नियम is human regulation",
+            "विधि is criminal law; नियम is civil law",
+            "विधि is federal law; नियम is state law"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "In classical Sanskrit legal and philosophical terminology, विधि (vidhi) and नियम (niyama) have distinct meanings. विधि refers to divine law, scriptural injunctions, or fundamental statutes (often from Vedic/Dharmashastra sources), while नियम (niyama) refers to human-made regulations, rules, or observances. This is a trap because in modern usage both are often translated simply as 'law' or 'rule', but the classical distinction is important: विधि carries the weight of eternal/divine authority (like धर्मविधि - religious law), while नियम is more flexible, human-created regulation (like राज्यनियम - state regulation). This teaches learners that Sanskrit legal vocabulary has nuanced hierarchical distinctions between types of laws!"
+    }
+}

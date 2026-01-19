@@ -1,0 +1,672 @@
+{
+    "moduleId": "sa_a1_m10",
+    "theme": "Food & Gastronomy",
+    "title": "Food & Gastronomy",
+    "level": "a1",
+    "language": "sanskrit",
+    "order": 10,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "अन्नम्",
+                    "reading": "An-nam",
+                    "meaning": "Cooked rice/Food",
+                    "example_sentence": "अन्नं पचति। (He cooks rice.)"
+                },
+                {
+                    "word": "भोजनम्",
+                    "reading": "Bho-ja-nam",
+                    "meaning": "Meal/Food",
+                    "example_sentence": "भोजनं स्वादु अस्ति। (The meal is tasty.)"
+                },
+                {
+                    "word": "रोटिका",
+                    "reading": "Ro-ti-kaa",
+                    "meaning": "Bread/Roti",
+                    "example_sentence": "रोटिकां खाद। (Eat the bread.)"
+                },
+                {
+                    "word": "सूपः",
+                    "reading": "Soo-pah",
+                    "meaning": "Soup/Dal",
+                    "example_sentence": "सूपः उष्णः अस्ति। (The soup is hot.)"
+                },
+                {
+                    "word": "शाकम्",
+                    "reading": "Shaa-kam",
+                    "meaning": "Vegetable/Greens",
+                    "example_sentence": "शाकं स्वास्थ्यकरम्। (Vegetables are healthy.)"
+                },
+                {
+                    "word": "दधि",
+                    "reading": "Da-dhi",
+                    "meaning": "Yogurt/Curd",
+                    "example_sentence": "दधि शीतलम् अस्ति। (Yogurt is cool.)"
+                },
+                {
+                    "word": "क्षीरम्",
+                    "reading": "Kshee-ram",
+                    "meaning": "Milk (Trap Word)",
+                    "example_sentence": "क्षीरं पिब। (Drink milk.) [LIAR GAME TRAP]"
+                },
+                {
+                    "word": "घृतम्",
+                    "reading": "Ghru-tam",
+                    "meaning": "Ghee/Clarified butter",
+                    "example_sentence": "घृतं स्वादु भवति। (Ghee is tasty.)"
+                },
+                {
+                    "word": "लवणम्",
+                    "reading": "La-va-nam",
+                    "meaning": "Salt",
+                    "example_sentence": "लवणं स्वादाय आवश्यकम्। (Salt is necessary for taste.)"
+                },
+                {
+                    "word": "शर्करा",
+                    "reading": "Shar-ka-raa",
+                    "meaning": "Sugar",
+                    "example_sentence": "शर्करा मधुरा अस्ति। (Sugar is sweet.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "गुडः",
+                    "reading": "Gu-dah",
+                    "meaning": "Jaggery",
+                    "example_sentence": "गुडः प्राकृतिकः मधुरः। (Jaggery is naturally sweet.)"
+                },
+                {
+                    "word": "मधु",
+                    "reading": "Ma-dhu",
+                    "meaning": "Honey",
+                    "example_sentence": "मधु मधुमक्षिकाभिः निर्मितम्। (Honey is made by bees.)"
+                },
+                {
+                    "word": "तैलम्",
+                    "reading": "Tai-lam",
+                    "meaning": "Oil",
+                    "example_sentence": "तैलेन पचति। (He cooks with oil.)"
+                },
+                {
+                    "word": "मरीचिका",
+                    "reading": "Ma-ree-chi-kaa",
+                    "meaning": "Chili pepper",
+                    "example_sentence": "मरीचिका तीक्ष्णा अस्ति। (Chili is pungent.)"
+                },
+                {
+                    "word": "हरिद्रा",
+                    "reading": "Ha-rid-raa",
+                    "meaning": "Turmeric",
+                    "example_sentence": "हरिद्रा पीता वर्णः। (Turmeric is yellow colored.)"
+                },
+                {
+                    "word": "जीरकम्",
+                    "reading": "Jee-ra-kam",
+                    "meaning": "Cumin",
+                    "example_sentence": "जीरकं सुगन्धम् अस्ति। (Cumin is fragrant.)"
+                },
+                {
+                    "word": "धान्यकम्",
+                    "reading": "Dhaan-ya-kam",
+                    "meaning": "Coriander",
+                    "example_sentence": "धान्यकं व्यञ्जने उपयोगी। (Coriander is useful in dishes.)"
+                },
+                {
+                    "word": "इला",
+                    "reading": "I-laa",
+                    "meaning": "Cardamom",
+                    "example_sentence": "इला सुगन्धिता अस्ति। (Cardamom is aromatic.)"
+                },
+                {
+                    "word": "लवङ्गम्",
+                    "reading": "La-van-gam",
+                    "meaning": "Clove",
+                    "example_sentence": "लवङ्गं औषधीयम्। (Clove is medicinal.)"
+                },
+                {
+                    "word": "आर्द्रकम्",
+                    "reading": "Aard-ra-kam",
+                    "meaning": "Ginger",
+                    "example_sentence": "आर्द्रकं तीक्ष्णं भवति। (Ginger is pungent.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "लशुनम्",
+                    "reading": "La-shu-nam",
+                    "meaning": "Garlic",
+                    "example_sentence": "लशुनं स्वास्थ्यकरम्। (Garlic is healthy.)"
+                },
+                {
+                    "word": "पलाण्डुः",
+                    "reading": "Pa-laan-duh",
+                    "meaning": "Onion",
+                    "example_sentence": "पलाण्डुः नेत्रे अश्रु आनयति। (Onion brings tears to eyes.)"
+                },
+                {
+                    "word": "मिष्टान्नम्",
+                    "reading": "Mish-taan-nam",
+                    "meaning": "Sweets/Dessert",
+                    "example_sentence": "मिष्टान्नं सर्वेभ्यः रोचते। (Everyone likes sweets.)"
+                },
+                {
+                    "word": "मोदकः",
+                    "reading": "Mo-da-kah",
+                    "meaning": "Sweet dumpling",
+                    "example_sentence": "मोदकः गणेशस्य प्रियः। (Sweet dumpling is dear to Ganesha.)"
+                },
+                {
+                    "word": "पायसम्",
+                    "reading": "Paa-ya-sam",
+                    "meaning": "Rice pudding/Kheer",
+                    "example_sentence": "पायसं मधुरम् अस्ति। (Rice pudding is sweet.)"
+                },
+                {
+                    "word": "पानीयम्",
+                    "reading": "Paa-nee-yam",
+                    "meaning": "Beverage/Drink",
+                    "example_sentence": "पानीयं पिब। (Drink the beverage.)"
+                },
+                {
+                    "word": "तक्रम्",
+                    "reading": "Tak-ram",
+                    "meaning": "Buttermilk",
+                    "example_sentence": "तक्रं शीतलम् अस्ति। (Buttermilk is cool.)"
+                },
+                {
+                    "word": "नवनीतम्",
+                    "reading": "Na-va-nee-tam",
+                    "meaning": "Butter",
+                    "example_sentence": "नवनीतं मृदु अस्ति। (Butter is soft.)"
+                },
+                {
+                    "word": "गोधूमः",
+                    "reading": "Go-dhoo-mah",
+                    "meaning": "Wheat",
+                    "example_sentence": "गोधूमात् रोटिका भवति। (Bread is made from wheat.)"
+                },
+                {
+                    "word": "यवः",
+                    "reading": "Ya-vah",
+                    "meaning": "Barley",
+                    "example_sentence": "यवः पौष्टिकः अस्ति। (Barley is nutritious.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "तण्डुलः",
+                    "reading": "Tan-du-lah",
+                    "meaning": "Raw rice",
+                    "example_sentence": "तण्डुलात् अन्नं पच्यते। (Cooked rice is made from raw rice.)"
+                },
+                {
+                    "word": "चणकः",
+                    "reading": "Cha-na-kah",
+                    "meaning": "Chickpea",
+                    "example_sentence": "चणकः प्रोटीनयुक्तः। (Chickpea is protein-rich.)"
+                },
+                {
+                    "word": "माषः",
+                    "reading": "Maa-shah",
+                    "meaning": "Black gram",
+                    "example_sentence": "माषः बलवर्धकः। (Black gram is strength-giving.)"
+                },
+                {
+                    "word": "मुद्गः",
+                    "reading": "Mud-gah",
+                    "meaning": "Green gram/Mung bean",
+                    "example_sentence": "मुद्गः सुपाच्यः। (Green gram is easily digestible.)"
+                },
+                {
+                    "word": "आम्रम्",
+                    "reading": "Aam-ram",
+                    "meaning": "Mango",
+                    "example_sentence": "आम्रं मधुरं फलम्। (Mango is a sweet fruit.)"
+                },
+                {
+                    "word": "कदलीफलम्",
+                    "reading": "Ka-da-lee-pha-lam",
+                    "meaning": "Banana",
+                    "example_sentence": "कदलीफलं पौष्टिकम्। (Banana is nutritious.)"
+                },
+                {
+                    "word": "नारिकेलम्",
+                    "reading": "Naa-ri-ke-lam",
+                    "meaning": "Coconut",
+                    "example_sentence": "नारिकेलं उपयोगी फलम्। (Coconut is a useful fruit.)"
+                },
+                {
+                    "word": "द्राक्षा",
+                    "reading": "Draak-shaa",
+                    "meaning": "Grape",
+                    "example_sentence": "द्राक्षा मधुरा अस्ति। (Grapes are sweet.)"
+                },
+                {
+                    "word": "दाडिमम्",
+                    "reading": "Daa-di-mam",
+                    "meaning": "Pomegranate",
+                    "example_sentence": "दाडिमं रक्तवर्धकम्। (Pomegranate increases blood.)"
+                },
+                {
+                    "word": "सेवफलम्",
+                    "reading": "Se-va-pha-lam",
+                    "meaning": "Apple",
+                    "example_sentence": "सेवफलं स्वास्थ्यकरम्। (Apple is healthy.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "मधुरम्",
+                    "reading": "Ma-dhu-ram",
+                    "meaning": "Sweet (taste)",
+                    "example_sentence": "मधुरं रसः प्रियः। (Sweet taste is pleasant.)"
+                },
+                {
+                    "word": "अम्लम्",
+                    "reading": "Am-lam",
+                    "meaning": "Sour (taste)",
+                    "example_sentence": "अम्लं रसः तीक्ष्णः। (Sour taste is sharp.)"
+                },
+                {
+                    "word": "कटु",
+                    "reading": "Ka-tu",
+                    "meaning": "Pungent/Spicy",
+                    "example_sentence": "कटुः रसः तीव्रः। (Pungent taste is intense.)"
+                },
+                {
+                    "word": "तिक्तम्",
+                    "reading": "Tik-tam",
+                    "meaning": "Bitter (taste)",
+                    "example_sentence": "तिक्तं रसः औषधीयः। (Bitter taste is medicinal.)"
+                },
+                {
+                    "word": "कषायम्",
+                    "reading": "Ka-shaa-yam",
+                    "meaning": "Astringent",
+                    "example_sentence": "कषायः रसः संकोचकः। (Astringent taste is contracting.)"
+                },
+                {
+                    "word": "लवणरसः",
+                    "reading": "La-va-na-ra-sah",
+                    "meaning": "Salty (taste)",
+                    "example_sentence": "लवणरसः आवश्यकः। (Salty taste is necessary.)"
+                },
+                {
+                    "word": "रसः",
+                    "reading": "Ra-sah",
+                    "meaning": "Juice/Flavor",
+                    "example_sentence": "रसः स्वादुः अस्ति। (The juice is tasty.)"
+                },
+                {
+                    "word": "क्षुधार्तः",
+                    "reading": "Kshu-dhaar-tah",
+                    "meaning": "Hungry person",
+                    "example_sentence": "क्षुधार्तः भोजनं इच्छति। (A hungry person wants food.)"
+                },
+                {
+                    "word": "तृषितः",
+                    "reading": "Tru-shi-tah",
+                    "meaning": "Thirsty person",
+                    "example_sentence": "तृषितः जलं इच्छति। (A thirsty person wants water.)"
+                },
+                {
+                    "word": "तृप्तिः",
+                    "reading": "Trup-tih",
+                    "meaning": "Satiety/Satisfaction",
+                    "example_sentence": "तृप्तिः सुखदायिका। (Satisfaction is pleasant.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "परिवेषणम्",
+                    "reading": "Pa-ri-ve-sha-nam",
+                    "meaning": "Serving food",
+                    "example_sentence": "परिवेषणं कुरु। (Serve the food.)"
+                },
+                {
+                    "word": "पक्वम्",
+                    "reading": "Pak-vam",
+                    "meaning": "Ripe/Cooked",
+                    "example_sentence": "पक्वं फलं मधुरम्। (Ripe fruit is sweet.)"
+                },
+                {
+                    "word": "अपक्वम्",
+                    "reading": "A-pak-vam",
+                    "meaning": "Raw/Uncooked",
+                    "example_sentence": "अपक्वं फलं कठोरम्। (Unripe fruit is hard.)"
+                },
+                {
+                    "word": "उच्छिष्टम्",
+                    "reading": "Uc-chish-tam",
+                    "meaning": "Leftover food",
+                    "example_sentence": "उच्छिष्टं मा खाद। (Don't eat leftover food.)"
+                },
+                {
+                    "word": "अल्पाहारः",
+                    "reading": "Al-paa-haa-rah",
+                    "meaning": "Breakfast/Snack",
+                    "example_sentence": "अल्पाहारः प्रातः भवति। (Breakfast is in the morning.)"
+                },
+                {
+                    "word": "भोजनालयः",
+                    "reading": "Bho-ja-naa-la-yah",
+                    "meaning": "Restaurant",
+                    "example_sentence": "भोजनालये भोजनं क्रीणाति। (He buys food at the restaurant.)"
+                },
+                {
+                    "word": "पाकविद्",
+                    "reading": "Paa-ka-vid",
+                    "meaning": "Chef/Cook",
+                    "example_sentence": "पाकवित् स्वादु भोजनं पचति। (The chef cooks tasty food.)"
+                },
+                {
+                    "word": "व्यञ्जनम्",
+                    "reading": "Vyan-ja-nam",
+                    "meaning": "Side dish/Condiment",
+                    "example_sentence": "व्यञ्जनं स्वादं वर्धयति। (Side dish enhances taste.)"
+                },
+                {
+                    "word": "पिष्टकम्",
+                    "reading": "Pish-ta-kam",
+                    "meaning": "Cake/Pastry",
+                    "example_sentence": "पिष्टकं मधुरम् अस्ति। (Cake is sweet.)"
+                },
+                {
+                    "word": "पोलिका",
+                    "reading": "Po-li-kaa",
+                    "meaning": "Stuffed bread",
+                    "example_sentence": "पोलिका स्वादिष्टा अस्ति। (Stuffed bread is delicious.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "अवसेकः",
+                    "reading": "A-va-se-kah",
+                    "meaning": "Sauce/Garnish",
+                    "example_sentence": "अवसेकः भोजनं सुन्दरं करोति। (Sauce makes food beautiful.)"
+                },
+                {
+                    "word": "मस्तु",
+                    "reading": "Mas-tu",
+                    "meaning": "Whey",
+                    "example_sentence": "मस्तु दध्नः उपोत्पादः। (Whey is a byproduct of yogurt.)"
+                },
+                {
+                    "word": "फेनिलम्",
+                    "reading": "Phe-ni-lam",
+                    "meaning": "Foamy drink",
+                    "example_sentence": "फेनिलं शीतलम् अस्ति। (The foamy drink is cool.)"
+                },
+                {
+                    "word": "कर्कटी",
+                    "reading": "Kar-ka-tee",
+                    "meaning": "Cucumber",
+                    "example_sentence": "कर्कटी शीतला अस्ति। (Cucumber is cooling.)"
+                },
+                {
+                    "word": "वार्ताकम्",
+                    "reading": "Vaar-taa-kam",
+                    "meaning": "Eggplant/Brinjal",
+                    "example_sentence": "वार्ताकं व्यञ्जने उपयोगी। (Eggplant is useful in dishes.)"
+                },
+                {
+                    "word": "आलूकम्",
+                    "reading": "Aa-loo-kam",
+                    "meaning": "Potato",
+                    "example_sentence": "आलूकं लोकप्रियं शाकम्। (Potato is a popular vegetable.)"
+                },
+                {
+                    "word": "कलम्बम्",
+                    "reading": "Ka-lam-bam",
+                    "meaning": "Cabbage/Leafy green",
+                    "example_sentence": "कलम्बं स्वास्थ्यकरम्। (Cabbage is healthy.)"
+                },
+                {
+                    "word": "मूलकम्",
+                    "reading": "Moo-la-kam",
+                    "meaning": "Radish",
+                    "example_sentence": "मूलकं तीक्ष्णं भवति। (Radish is pungent.)"
+                },
+                {
+                    "word": "निम्बूकम्",
+                    "reading": "Nim-boo-kam",
+                    "meaning": "Lemon",
+                    "example_sentence": "निम्बूकं अम्लं फलम्। (Lemon is a sour fruit.)"
+                },
+                {
+                    "word": "तिलः",
+                    "reading": "Ti-lah",
+                    "meaning": "Sesame",
+                    "example_sentence": "तिलः तैलदायकः। (Sesame gives oil.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "सर्षपः",
+                    "reading": "Sar-sha-pah",
+                    "meaning": "Mustard",
+                    "example_sentence": "सर्षपः तीक्ष्णः अस्ति। (Mustard is pungent.)"
+                },
+                {
+                    "word": "हिङ्गु",
+                    "reading": "Hin-gu",
+                    "meaning": "Asafoetida",
+                    "example_sentence": "हिङ्गु सुगन्धम् अस्ति। (Asafoetida is aromatic.)"
+                },
+                {
+                    "word": "मरिचम्",
+                    "reading": "Ma-ri-cham",
+                    "meaning": "Black pepper",
+                    "example_sentence": "मरिचं तीक्ष्णं भवति। (Black pepper is pungent.)"
+                },
+                {
+                    "word": "खर्जूरम्",
+                    "reading": "Khar-joo-ram",
+                    "meaning": "Date (fruit)",
+                    "example_sentence": "खर्जूरं मधुरं फलम्। (Date is a sweet fruit.)"
+                },
+                {
+                    "word": "काजूकम्",
+                    "reading": "Kaa-joo-kam",
+                    "meaning": "Cashew",
+                    "example_sentence": "काजूकं स्वादु अस्ति। (Cashew is tasty.)"
+                },
+                {
+                    "word": "बादामम्",
+                    "reading": "Baa-daa-mam",
+                    "meaning": "Almond",
+                    "example_sentence": "बादामं बुद्धिवर्धकम्। (Almond enhances intelligence.)"
+                },
+                {
+                    "word": "अक्षोटम्",
+                    "reading": "Ak-sho-tam",
+                    "meaning": "Walnut",
+                    "example_sentence": "अक्षोटं पौष्टिकम्। (Walnut is nutritious.)"
+                },
+                {
+                    "word": "पिस्ता",
+                    "reading": "Pis-taa",
+                    "meaning": "Pistachio",
+                    "example_sentence": "पिस्ता हरितवर्णा। (Pistachio is green colored.)"
+                },
+                {
+                    "word": "किशमिशः",
+                    "reading": "Ki-sha-mi-shah",
+                    "meaning": "Raisin",
+                    "example_sentence": "किशमिशः शुष्कं द्राक्षाफलम्। (Raisin is dried grape.)"
+                },
+                {
+                    "word": "मधुपर्कः",
+                    "reading": "Ma-dhu-par-kah",
+                    "meaning": "Honey-milk offering",
+                    "example_sentence": "मधुपर्कः अतिथिभ्यः दीयते। (Honey-milk is offered to guests.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "भक्ष्यम्",
+                    "reading": "Bhak-shyam",
+                    "meaning": "Edible items",
+                    "example_sentence": "भक्ष्यं स्वच्छं भवेत्। (Edible items should be clean.)"
+                },
+                {
+                    "word": "लेह्यम्",
+                    "reading": "Leh-yam",
+                    "meaning": "Lickable food/Jam",
+                    "example_sentence": "लेह्यं मधुरम् अस्ति। (Jam is sweet.)"
+                },
+                {
+                    "word": "पेयम्",
+                    "reading": "Pe-yam",
+                    "meaning": "Potable liquid",
+                    "example_sentence": "पेयं शुद्धं भवेत्। (Potable liquid should be pure.)"
+                },
+                {
+                    "word": "चोष्यम्",
+                    "reading": "Chosh-yam",
+                    "meaning": "Suckable food",
+                    "example_sentence": "चोष्यं बालकेभ्यः रोचते। (Children like suckable food.)"
+                },
+                {
+                    "word": "चर्व्यम्",
+                    "reading": "Char-vyam",
+                    "meaning": "Chewable food",
+                    "example_sentence": "चर्व्यं दन्तेभ्यः हितम्। (Chewable food is good for teeth.)"
+                },
+                {
+                    "word": "भृष्टम्",
+                    "reading": "Bhrush-tam",
+                    "meaning": "Fried/Roasted",
+                    "example_sentence": "भृष्टं भोजनं स्वादु। (Fried food is tasty.)"
+                },
+                {
+                    "word": "सिद्धम्",
+                    "reading": "Sid-dham",
+                    "meaning": "Ready/Prepared",
+                    "example_sentence": "सिद्धं भोजनं परिवेषय। (Serve the prepared food.)"
+                },
+                {
+                    "word": "निर्यासः",
+                    "reading": "Nir-yaa-sah",
+                    "meaning": "Extract/Essence",
+                    "example_sentence": "निर्यासः सान्द्रः भवति। (Extract is concentrated.)"
+                },
+                {
+                    "word": "सारः",
+                    "reading": "Saa-rah",
+                    "meaning": "Essence/Core",
+                    "example_sentence": "सारः मूल्यवान् अस्ति। (Essence is valuable.)"
+                },
+                {
+                    "word": "गन्धः",
+                    "reading": "Gan-dhah",
+                    "meaning": "Aroma/Smell",
+                    "example_sentence": "गन्धः सुगन्धः अस्ति। (The aroma is fragrant.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "अदनम्",
+                    "reading": "A-da-nam",
+                    "meaning": "Eating (process)",
+                    "example_sentence": "अदनं शनैः कुर्यात्। (One should eat slowly.)"
+                },
+                {
+                    "word": "चर्वणम्",
+                    "reading": "Char-va-nam",
+                    "meaning": "Chewing",
+                    "example_sentence": "चर्वणं पाचने सहायकम्। (Chewing helps in digestion.)"
+                },
+                {
+                    "word": "निगरणम्",
+                    "reading": "Ni-ga-ra-nam",
+                    "meaning": "Swallowing",
+                    "example_sentence": "निगरणं सावधानेन कुर्यात्। (One should swallow carefully.)"
+                },
+                {
+                    "word": "निस्वादु",
+                    "reading": "Nis-vaa-du",
+                    "meaning": "Tasteless",
+                    "example_sentence": "निस्वादु भोजनं न रोचते। (Tasteless food is not pleasant.)"
+                },
+                {
+                    "word": "सात्त्विकम्",
+                    "reading": "Saat-tvi-kam",
+                    "meaning": "Pure/Satvic",
+                    "example_sentence": "सात्त्विकं भोजनं स्वास्थ्यकरम्। (Satvic food is healthy.)"
+                },
+                {
+                    "word": "राजसम्",
+                    "reading": "Raa-ja-sam",
+                    "meaning": "Stimulating/Rajasic",
+                    "example_sentence": "राजसं भोजनं उत्तेजकम्। (Rajasic food is stimulating.)"
+                },
+                {
+                    "word": "तामसम्",
+                    "reading": "Taa-ma-sam",
+                    "meaning": "Dull/Tamasic",
+                    "example_sentence": "तामसं भोजनं आलस्यकरम्। (Tamasic food causes laziness.)"
+                },
+                {
+                    "word": "पाचनम्",
+                    "reading": "Paa-cha-nam",
+                    "meaning": "Digestion",
+                    "example_sentence": "पाचनं महत्त्वपूर्णम्। (Digestion is important.)"
+                },
+                {
+                    "word": "उपवासः",
+                    "reading": "U-pa-vaa-sah",
+                    "meaning": "Fasting",
+                    "example_sentence": "उपवासः शुद्धिकरः। (Fasting is purifying.)"
+                },
+                {
+                    "word": "आहारः",
+                    "reading": "Aa-haa-rah",
+                    "meaning": "Diet/Food intake",
+                    "example_sentence": "आहारः संतुलितः भवेत्। (Diet should be balanced.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Sanskrit Synonym Trap",
+        "question": "What is the most common classical Sanskrit word for 'milk'?",
+        "options": [
+            "दुग्धम् (dugdham)",
+            "क्षीरम् (kSheeram)",
+            "पयः (payah)",
+            "All are equally common"
+        ],
+        "correct_answer_index": 0,
+        "explanation": "While क्षीरम् (kSheeram), पयः (payah), and दुग्धम् (dugdham) all mean 'milk' in Sanskrit, they have different usage contexts and frequencies. दुग्धम् (dugdham) is the most common and straightforward word for milk in everyday classical Sanskrit, derived from the root दुह् (duh) meaning 'to milk'. क्षीरम् (kSheeram) often refers to condensed milk or milk in a more technical/Ayurvedic context, while पयः (payah) is more poetic and literary. This trap teaches learners that Sanskrit has rich synonyms with subtle contextual differences, and choosing the right word depends on the context!"
+    }
+}

@@ -1,0 +1,627 @@
+{
+    "moduleId": "de_a1_m05",
+    "theme": "Clothes & Shopping",
+    "title": "Clothes & Shopping",
+    "level": "a1",
+    "language": "german",
+    "order": 5,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "Die Kleidung",
+                    "reading": "dee KLY-dung",
+                    "meaning": "The clothing (no plural)",
+                    "example_sentence": "Die Kleidung ist teuer. (The clothing is expensive.)"
+                },
+                {
+                    "word": "Anziehen",
+                    "reading": "AN-tsee-en",
+                    "meaning": "To put on clothes",
+                    "example_sentence": "Ich ziehe die Jacke an. (I put on the jacket.)"
+                },
+                {
+                    "word": "Ausziehen",
+                    "reading": "OWS-tsee-en",
+                    "meaning": "To take off clothes",
+                    "example_sentence": "Ich ziehe den Mantel aus. (I take off the coat.)"
+                },
+                {
+                    "word": "Das Hemd",
+                    "reading": "das HEMT",
+                    "meaning": "The shirt (plural: Hemden)",
+                    "example_sentence": "Das Hemd ist weiß. (The shirt is white.)"
+                },
+                {
+                    "word": "Die Hose",
+                    "reading": "dee HO-ze",
+                    "meaning": "The pants/trousers (plural: Hosen)",
+                    "example_sentence": "Die Hose ist blau. (The pants are blue.)"
+                },
+                {
+                    "word": "Das Kleid",
+                    "reading": "das KLYTE",
+                    "meaning": "The dress (plural: Kleider)",
+                    "example_sentence": "Das Kleid ist schön. (The dress is beautiful.)"
+                },
+                {
+                    "word": "Der Rock",
+                    "reading": "dehr ROK",
+                    "meaning": "The skirt (plural: Röcke) [LIAR GAME: NOT rock music]",
+                    "example_sentence": "Der Rock ist kurz. (The skirt is short.) [LIAR GAME: NOT 'rock music']"
+                },
+                {
+                    "word": "Die Jacke",
+                    "reading": "dee YA-ke",
+                    "meaning": "The jacket (plural: Jacken)",
+                    "example_sentence": "Die Jacke ist warm. (The jacket is warm.)"
+                },
+                {
+                    "word": "Der Mantel",
+                    "reading": "dehr MAN-tel",
+                    "meaning": "The coat (plural: Mäntel)",
+                    "example_sentence": "Der Mantel ist schwarz. (The coat is black.)"
+                },
+                {
+                    "word": "Der Pullover",
+                    "reading": "dehr poo-LO-ver",
+                    "meaning": "The sweater (plural: Pullover)",
+                    "example_sentence": "Der Pullover ist weich. (The sweater is soft.)"
+                },
+                {
+                    "word": "Das T-Shirt",
+                    "reading": "das TEE-shert",
+                    "meaning": "The t-shirt (plural: T-Shirts)",
+                    "example_sentence": "Das T-Shirt ist rot. (The t-shirt is red.)"
+                },
+                {
+                    "word": "Der Schuh",
+                    "reading": "dehr SHOO",
+                    "meaning": "The shoe (plural: Schuhe)",
+                    "example_sentence": "Der Schuh ist neu. (The shoe is new.)"
+                },
+                {
+                    "word": "Die Socke",
+                    "reading": "dee ZO-ke",
+                    "meaning": "The sock (plural: Socken)",
+                    "example_sentence": "Die Socke ist grün. (The sock is green.)"
+                },
+                {
+                    "word": "Der Handschuh",
+                    "reading": "dehr HANT-shoo",
+                    "meaning": "The glove (plural: Handschuhe)",
+                    "example_sentence": "Der Handschuh ist warm. (The glove is warm.)"
+                },
+                {
+                    "word": "Die Mütze",
+                    "reading": "dee MUET-se",
+                    "meaning": "The beanie/cap (plural: Mützen)",
+                    "example_sentence": "Die Mütze ist bunt. (The beanie is colorful.)"
+                },
+                {
+                    "word": "Der Schal",
+                    "reading": "dehr SHAHL",
+                    "meaning": "The scarf (plural: Schals)",
+                    "example_sentence": "Der Schal ist lang. (The scarf is long.)"
+                },
+                {
+                    "word": "Die Brille",
+                    "reading": "dee BRIL-e",
+                    "meaning": "The glasses (plural: Brillen)",
+                    "example_sentence": "Die Brille ist neu. (The glasses are new.)"
+                },
+                {
+                    "word": "Der Gürtel",
+                    "reading": "dehr GUER-tel",
+                    "meaning": "The belt (plural: Gürtel)",
+                    "example_sentence": "Der Gürtel ist braun. (The belt is brown.)"
+                },
+                {
+                    "word": "Tragen",
+                    "reading": "TRA-gen",
+                    "meaning": "To wear/carry",
+                    "example_sentence": "Ich trage eine Jacke. (I wear a jacket.)"
+                },
+                {
+                    "word": "Passen",
+                    "reading": "PAS-en",
+                    "meaning": "To fit",
+                    "example_sentence": "Die Schuhe passen gut. (The shoes fit well.)"
+                },
+                {
+                    "word": "Stehen",
+                    "reading": "SHTAY-en",
+                    "meaning": "To suit (look good on)",
+                    "example_sentence": "Das Kleid steht dir gut. (The dress suits you.)"
+                },
+                {
+                    "word": "Anprobieren",
+                    "reading": "AN-pro-bee-ren",
+                    "meaning": "To try on",
+                    "example_sentence": "Ich probiere die Hose an. (I try on the pants.)"
+                },
+                {
+                    "word": "Die Größe",
+                    "reading": "dee GROE-se",
+                    "meaning": "The size (plural: Größen)",
+                    "example_sentence": "Welche Größe haben Sie? (What size do you have?)"
+                },
+                {
+                    "word": "Zu klein",
+                    "reading": "tsoo KLYNE",
+                    "meaning": "Too small",
+                    "example_sentence": "Die Jacke ist zu klein. (The jacket is too small.)"
+                },
+                {
+                    "word": "Zu groß",
+                    "reading": "tsoo GROHS",
+                    "meaning": "Too big",
+                    "example_sentence": "Der Mantel ist zu groß. (The coat is too big.)"
+                },
+                {
+                    "word": "Die Farbe",
+                    "reading": "dee FAR-be",
+                    "meaning": "The color (plural: Farben)",
+                    "example_sentence": "Welche Farbe möchten Sie? (Which color would you like?)"
+                },
+                {
+                    "word": "Blau",
+                    "reading": "BLOW",
+                    "meaning": "Blue",
+                    "example_sentence": "Der Himmel ist blau. (The sky is blue.)"
+                },
+                {
+                    "word": "Rot",
+                    "reading": "ROHT",
+                    "meaning": "Red",
+                    "example_sentence": "Die Rose ist rot. (The rose is red.)"
+                },
+                {
+                    "word": "Grün",
+                    "reading": "GRUEN",
+                    "meaning": "Green",
+                    "example_sentence": "Das Gras ist grün. (The grass is green.)"
+                },
+                {
+                    "word": "Gelb",
+                    "reading": "GELP",
+                    "meaning": "Yellow",
+                    "example_sentence": "Die Sonne ist gelb. (The sun is yellow.)"
+                },
+                {
+                    "word": "Schwarz",
+                    "reading": "SHVARTS",
+                    "meaning": "Black",
+                    "example_sentence": "Die Katze ist schwarz. (The cat is black.)"
+                },
+                {
+                    "word": "Weiß",
+                    "reading": "VYSE",
+                    "meaning": "White",
+                    "example_sentence": "Der Schnee ist weiß. (The snow is white.)"
+                },
+                {
+                    "word": "Grau",
+                    "reading": "GROW",
+                    "meaning": "Grey",
+                    "example_sentence": "Der Elefant ist grau. (The elephant is grey.)"
+                },
+                {
+                    "word": "Braun",
+                    "reading": "BROWN",
+                    "meaning": "Brown",
+                    "example_sentence": "Der Tisch ist braun. (The table is brown.)"
+                },
+                {
+                    "word": "Rosa",
+                    "reading": "RO-za",
+                    "meaning": "Pink",
+                    "example_sentence": "Die Blume ist rosa. (The flower is pink.)"
+                },
+                {
+                    "word": "Orange",
+                    "reading": "o-RAHN-zhe",
+                    "meaning": "Orange",
+                    "example_sentence": "Die Orange ist orange. (The orange is orange.)"
+                },
+                {
+                    "word": "Lila",
+                    "reading": "LEE-la",
+                    "meaning": "Purple",
+                    "example_sentence": "Das Kleid ist lila. (The dress is purple.)"
+                },
+                {
+                    "word": "Hellblau",
+                    "reading": "HEL-blow",
+                    "meaning": "Light blue",
+                    "example_sentence": "Der Himmel ist hellblau. (The sky is light blue.)"
+                },
+                {
+                    "word": "Dunkelrot",
+                    "reading": "DOON-kel-roht",
+                    "meaning": "Dark red",
+                    "example_sentence": "Der Wein ist dunkelrot. (The wine is dark red.)"
+                },
+                {
+                    "word": "Bunt",
+                    "reading": "BOONT",
+                    "meaning": "Colorful",
+                    "example_sentence": "Der Regenbogen ist bunt. (The rainbow is colorful.)"
+                },
+                {
+                    "word": "Das Kaufhaus",
+                    "reading": "das KOWF-hows",
+                    "meaning": "The department store (plural: Kaufhäuser)",
+                    "example_sentence": "Das Kaufhaus ist groß. (The department store is big.)"
+                },
+                {
+                    "word": "Das Modegeschäft",
+                    "reading": "das MO-de-ge-sheft",
+                    "meaning": "The fashion shop (plural: Modegeschäfte)",
+                    "example_sentence": "Das Modegeschäft ist modern. (The fashion shop is modern.)"
+                },
+                {
+                    "word": "Der Verkäufer",
+                    "reading": "dehr fer-KOY-fer",
+                    "meaning": "The salesman (plural: Verkäufer)",
+                    "example_sentence": "Der Verkäufer ist freundlich. (The salesman is friendly.)"
+                },
+                {
+                    "word": "Die Kundin",
+                    "reading": "dee KOON-din",
+                    "meaning": "The female customer (plural: Kundinnen)",
+                    "example_sentence": "Die Kundin sucht ein Kleid. (The customer is looking for a dress.)"
+                },
+                {
+                    "word": "Helfen",
+                    "reading": "HEL-fen",
+                    "meaning": "To help",
+                    "example_sentence": "Kann ich Ihnen helfen? (Can I help you?)"
+                },
+                {
+                    "word": "Schauen",
+                    "reading": "SHOW-en",
+                    "meaning": "To look/watch",
+                    "example_sentence": "Ich schaue mir die Schuhe an. (I look at the shoes.)"
+                },
+                {
+                    "word": "Das Angebot",
+                    "reading": "das AN-ge-boht",
+                    "meaning": "The offer/deal (plural: Angebote)",
+                    "example_sentence": "Das Angebot ist gut. (The offer is good.)"
+                },
+                {
+                    "word": "Reduziert",
+                    "reading": "re-doo-TSEERT",
+                    "meaning": "Reduced/Discounted",
+                    "example_sentence": "Die Jacke ist reduziert. (The jacket is reduced.)"
+                },
+                {
+                    "word": "Der Preis",
+                    "reading": "dehr PRYSE",
+                    "meaning": "The price (plural: Preise)",
+                    "example_sentence": "Der Preis ist hoch. (The price is high.)"
+                },
+                {
+                    "word": "Die Kasse",
+                    "reading": "dee KAS-e",
+                    "meaning": "The cash desk (plural: Kassen)",
+                    "example_sentence": "Die Kasse ist dort. (The cash desk is there.)"
+                },
+                {
+                    "word": "Der Anzug",
+                    "reading": "dehr AN-tsoog",
+                    "meaning": "The suit (plural: Anzüge)",
+                    "example_sentence": "Der Anzug ist elegant. (The suit is elegant.)"
+                },
+                {
+                    "word": "Die Quittung",
+                    "reading": "dee KVIT-ung",
+                    "meaning": "The receipt (plural: Quittungen)",
+                    "example_sentence": "Hier ist Ihre Quittung. (Here is your receipt.)"
+                },
+                {
+                    "word": "Umtauschen",
+                    "reading": "OOM-tow-shen",
+                    "meaning": "To exchange",
+                    "example_sentence": "Kann ich das umtauschen? (Can I exchange this?)"
+                },
+                {
+                    "word": "Zurückgeben",
+                    "reading": "tsoo-RUEK-gay-ben",
+                    "meaning": "To return",
+                    "example_sentence": "Ich gebe die Hose zurück. (I return the pants.)"
+                },
+                {
+                    "word": "Die Wolle",
+                    "reading": "dee VO-le",
+                    "meaning": "The wool (no plural)",
+                    "example_sentence": "Der Pullover ist aus Wolle. (The sweater is made of wool.)"
+                },
+                {
+                    "word": "Die Baumwolle",
+                    "reading": "dee BOWM-vo-le",
+                    "meaning": "The cotton (no plural)",
+                    "example_sentence": "Das T-Shirt ist aus Baumwolle. (The t-shirt is made of cotton.)"
+                },
+                {
+                    "word": "Das Leder",
+                    "reading": "das LAY-der",
+                    "meaning": "The leather (no plural)",
+                    "example_sentence": "Die Schuhe sind aus Leder. (The shoes are made of leather.)"
+                },
+                {
+                    "word": "Seide",
+                    "reading": "ZY-de",
+                    "meaning": "Silk (no plural)",
+                    "example_sentence": "Das Kleid ist aus Seide. (The dress is made of silk.)"
+                },
+                {
+                    "word": "Synthetisch",
+                    "reading": "zun-TAY-tish",
+                    "meaning": "Synthetic",
+                    "example_sentence": "Der Stoff ist synthetisch. (The fabric is synthetic.)"
+                },
+                {
+                    "word": "Modern",
+                    "reading": "mo-DERN",
+                    "meaning": "Modern",
+                    "example_sentence": "Der Stil ist modern. (The style is modern.)"
+                },
+                {
+                    "word": "Altmodisch",
+                    "reading": "ALT-mo-dish",
+                    "meaning": "Old-fashioned",
+                    "example_sentence": "Der Hut ist altmodisch. (The hat is old-fashioned.)"
+                },
+                {
+                    "word": "Schick",
+                    "reading": "SHIK",
+                    "meaning": "Chic/Fancy",
+                    "example_sentence": "Das Kleid ist schick. (The dress is chic.)"
+                },
+                {
+                    "word": "Sportlich",
+                    "reading": "SHPORT-lish",
+                    "meaning": "Sporty",
+                    "example_sentence": "Die Jacke ist sportlich. (The jacket is sporty.)"
+                },
+                {
+                    "word": "Elegant",
+                    "reading": "e-le-GANT",
+                    "meaning": "Elegant",
+                    "example_sentence": "Der Anzug ist elegant. (The suit is elegant.)"
+                },
+                {
+                    "word": "Bequem",
+                    "reading": "be-KVAYM",
+                    "meaning": "Comfortable",
+                    "example_sentence": "Die Schuhe sind bequem. (The shoes are comfortable.)"
+                },
+                {
+                    "word": "Eng",
+                    "reading": "ENG",
+                    "meaning": "Tight",
+                    "example_sentence": "Die Hose ist eng. (The pants are tight.)"
+                },
+                {
+                    "word": "Lang",
+                    "reading": "LANG",
+                    "meaning": "Long",
+                    "example_sentence": "Der Rock ist lang. (The skirt is long.)"
+                },
+                {
+                    "word": "Kurz",
+                    "reading": "KOORTS",
+                    "meaning": "Short",
+                    "example_sentence": "Die Hose ist kurz. (The pants are short.)"
+                },
+                {
+                    "word": "Die Umkleidekabine",
+                    "reading": "dee OOM-kly-de-ka-bee-ne",
+                    "meaning": "The changing room (plural: Umkleidekabinen)",
+                    "example_sentence": "Die Umkleidekabine ist dort. (The changing room is there.)"
+                },
+                {
+                    "word": "Das Schaufenster",
+                    "reading": "das SHOW-fens-ter",
+                    "meaning": "The shop window (plural: Schaufenster)",
+                    "example_sentence": "Das Schaufenster ist schön. (The shop window is beautiful.)"
+                },
+                {
+                    "word": "Die Einkaufstasche",
+                    "reading": "dee EYN-kowfs-tash-e",
+                    "meaning": "The shopping bag (plural: Einkaufstaschen)",
+                    "example_sentence": "Die Einkaufstasche ist voll. (The shopping bag is full.)"
+                },
+                {
+                    "word": "Geld ausgeben",
+                    "reading": "GELT ows-gay-ben",
+                    "meaning": "To spend money",
+                    "example_sentence": "Ich gebe viel Geld aus. (I spend a lot of money.)"
+                },
+                {
+                    "word": "Sparen",
+                    "reading": "SHPA-ren",
+                    "meaning": "To save (money)",
+                    "example_sentence": "Ich spare Geld. (I save money.)"
+                },
+                {
+                    "word": "Reich",
+                    "reading": "RYKHE",
+                    "meaning": "Rich",
+                    "example_sentence": "Er ist reich. (He is rich.)"
+                },
+                {
+                    "word": "Arm",
+                    "reading": "ARM",
+                    "meaning": "Poor",
+                    "example_sentence": "Sie ist arm. (She is poor.)"
+                },
+                {
+                    "word": "Der Schmuck",
+                    "reading": "dehr SHMOOK",
+                    "meaning": "Jewelry (no plural)",
+                    "example_sentence": "Der Schmuck ist teuer. (The jewelry is expensive.)"
+                },
+                {
+                    "word": "Der Ring",
+                    "reading": "dehr RING",
+                    "meaning": "The ring (plural: Ringe)",
+                    "example_sentence": "Der Ring ist aus Gold. (The ring is made of gold.)"
+                },
+                {
+                    "word": "Die Kette",
+                    "reading": "dee KE-te",
+                    "meaning": "The necklace (plural: Ketten)",
+                    "example_sentence": "Die Kette ist schön. (The necklace is beautiful.)"
+                },
+                {
+                    "word": "Der Stiefel",
+                    "reading": "dehr STEE-fel",
+                    "meaning": "The boot (plural: Stiefel)",
+                    "example_sentence": "Der Stiefel ist warm. (The boot is warm.)"
+                },
+                {
+                    "word": "Das Gold",
+                    "reading": "das GOLT",
+                    "meaning": "Gold (no plural)",
+                    "example_sentence": "Der Ring ist aus Gold. (The ring is made of gold.)"
+                },
+                {
+                    "word": "Das Silber",
+                    "reading": "das ZIL-ber",
+                    "meaning": "Silver (no plural)",
+                    "example_sentence": "Die Kette ist aus Silber. (The necklace is made of silver.)"
+                },
+                {
+                    "word": "Die Krawatte",
+                    "reading": "dee kra-VA-te",
+                    "meaning": "The necktie (plural: Krawatten)",
+                    "example_sentence": "Die Krawatte ist blau. (The necktie is blue.)"
+                },
+                {
+                    "word": "Günstig",
+                    "reading": "GUEN-stish",
+                    "meaning": "Affordable",
+                    "example_sentence": "Das Angebot ist günstig. (The offer is affordable.)"
+                },
+                {
+                    "word": "Umsonst",
+                    "reading": "oom-ZONST",
+                    "meaning": "For free",
+                    "example_sentence": "Das ist umsonst. (That is for free.)"
+                },
+                {
+                    "word": "Einkaufen gehen",
+                    "reading": "EYN-kow-fen gay-en",
+                    "meaning": "To go shopping",
+                    "example_sentence": "Ich gehe einkaufen. (I go shopping.)"
+                },
+                {
+                    "word": "Die Weste",
+                    "reading": "dee VES-te",
+                    "meaning": "The vest/waistcoat (plural: Westen) [LIAR GAME: NOT west direction]",
+                    "example_sentence": "Die Weste ist elegant. (The vest is elegant.) [LIAR GAME: NOT 'west']"
+                },
+                {
+                    "word": "Der Badeanzug",
+                    "reading": "dehr BA-de-an-tsoog",
+                    "meaning": "The swimsuit (plural: Badeanzüge)",
+                    "example_sentence": "Der Badeanzug ist neu. (The swimsuit is new.)"
+                },
+                {
+                    "word": "Der Slip",
+                    "reading": "dehr SLIP",
+                    "meaning": "Panties/Underwear (plural: Slips) [LIAR GAME: NOT a slip/mistake]",
+                    "example_sentence": "Der Slip ist bequem. (The underwear is comfortable.) [LIAR GAME: NOT 'slip']"
+                },
+                {
+                    "word": "Smoking",
+                    "reading": "SMO-king",
+                    "meaning": "Tuxedo (plural: Smokings) [LIAR GAME: NOT the act of smoking]",
+                    "example_sentence": "Der Smoking ist schwarz. (The tuxedo is black.) [LIAR GAME: NOT 'smoking']"
+                },
+                {
+                    "word": "Body",
+                    "reading": "BO-dee",
+                    "meaning": "Leotard/Onesie (plural: Bodys) [LIAR GAME: NOT the whole human body]",
+                    "example_sentence": "Der Body ist für Babys. (The onesie is for babies.) [LIAR GAME: NOT 'body']"
+                },
+                {
+                    "word": "Verkaufen",
+                    "reading": "fer-KOW-fen",
+                    "meaning": "To sell",
+                    "example_sentence": "Wir verkaufen Kleidung. (We sell clothing.)"
+                },
+                {
+                    "word": "Der Knopf",
+                    "reading": "dehr KNOPF",
+                    "meaning": "The button (plural: Knöpfe)",
+                    "example_sentence": "Der Knopf ist ab. (The button is off.)"
+                },
+                {
+                    "word": "Der Reißverschluss",
+                    "reading": "dehr RYSE-fer-shloos",
+                    "meaning": "The zipper (plural: Reißverschlüsse)",
+                    "example_sentence": "Der Reißverschluss ist kaputt. (The zipper is broken.)"
+                },
+                {
+                    "word": "Mittel",
+                    "reading": "MIT-el",
+                    "meaning": "Medium (size)",
+                    "example_sentence": "Ich brauche Größe Mittel. (I need size medium.)"
+                },
+                {
+                    "word": "Die Umkleide",
+                    "reading": "dee OOM-kly-de",
+                    "meaning": "The changing room (plural: Umkleiden)",
+                    "example_sentence": "Die Umkleide ist besetzt. (The changing room is occupied.)"
+                },
+                {
+                    "word": "Gestreift",
+                    "reading": "ge-SH-TRY-ft",
+                    "meaning": "Striped",
+                    "example_sentence": "Das Hemd ist gestreift. (The shirt is striped.)"
+                },
+                {
+                    "word": "Kariert",
+                    "reading": "ka-REERT",
+                    "meaning": "Checkered/Plaid",
+                    "example_sentence": "Die Hose ist kariert. (The pants are checkered.)"
+                },
+                {
+                    "word": "Die Strickjacke",
+                    "reading": "dee SH-TRIK-ya-ke",
+                    "meaning": "The cardigan (plural: Strickjacken)",
+                    "example_sentence": "Die Strickjacke ist warm. (The cardigan is warm.)"
+                },
+                {
+                    "word": "Die Bluse",
+                    "reading": "dee BLOO-ze",
+                    "meaning": "The blouse (plural: Blusen)",
+                    "example_sentence": "Die Bluse ist weiß. (The blouse is white.)"
+                },
+                {
+                    "word": "Viel Spaß!",
+                    "reading": "FEEL SHPAHS",
+                    "meaning": "Have fun!",
+                    "example_sentence": "Viel Spaß beim Einkaufen! (Have fun shopping!)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "German Clothing False Friends",
+        "question": "Your German friend says 'Ich trage heute einen Rock.' What is she wearing?",
+        "options": [
+            "A rock music t-shirt",
+            "A skirt",
+            "Rock climbing gear",
+            "A rocky necklace"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The German word 'Rock' means 'skirt,' NOT rock music! Other clothing false friends include 'Die Weste' (vest/waistcoat, not west direction), 'Das Handy' (mobile phone - a pseudo-Anglicism that doesn't exist in English), 'Der Slip' (underwear, not a slip/mistake), 'Smoking' (tuxedo, not the act of smoking), and 'Body' (leotard/onesie for babies, not the whole human body). These traps are especially common when shopping for clothes in Germany!"
+    }
+}

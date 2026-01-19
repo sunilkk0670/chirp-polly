@@ -1,0 +1,627 @@
+{
+    "moduleId": "de_a1_m09",
+    "theme": "Media & Technology",
+    "title": "Media & Technology",
+    "level": "a1",
+    "language": "german",
+    "order": 9,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "Die Medien",
+                    "reading": "dee MAY-dyen",
+                    "meaning": "The media (plural)",
+                    "example_sentence": "Die Medien berichten über das Ereignis. (The media are reporting on the event.)"
+                },
+                {
+                    "word": "Das Gerät",
+                    "reading": "das ge-RAYT",
+                    "meaning": "The device/appliance (plural: Geräte)",
+                    "example_sentence": "Das Gerät ist kaputt. (The device is broken.)"
+                },
+                {
+                    "word": "Das Smartphone",
+                    "reading": "das SMART-fohn",
+                    "meaning": "The smartphone (plural: Smartphones)",
+                    "example_sentence": "Ich kaufe ein neues Smartphone. (I'm buying a new smartphone.)"
+                },
+                {
+                    "word": "Der Laptop",
+                    "reading": "dehr LAP-top",
+                    "meaning": "The laptop (plural: Laptops)",
+                    "example_sentence": "Der Laptop ist sehr schnell. (The laptop is very fast.)"
+                },
+                {
+                    "word": "Das Tablet",
+                    "reading": "das TAB-let",
+                    "meaning": "The tablet (plural: Tablets)",
+                    "example_sentence": "Das Tablet hat einen großen Bildschirm. (The tablet has a large screen.)"
+                },
+                {
+                    "word": "Die App",
+                    "reading": "dee EP",
+                    "meaning": "The app (plural: Apps)",
+                    "example_sentence": "Die App ist kostenlos. (The app is free.)"
+                },
+                {
+                    "word": "Die Webseite",
+                    "reading": "dee VEB-zy-te",
+                    "meaning": "The website (plural: Webseiten)",
+                    "example_sentence": "Die Webseite lädt langsam. (The website loads slowly.)"
+                },
+                {
+                    "word": "Der Link",
+                    "reading": "dehr LINK",
+                    "meaning": "The link (plural: Links)",
+                    "example_sentence": "Klick auf den Link. (Click on the link.)"
+                },
+                {
+                    "word": "Das Soziale Netzwerk",
+                    "reading": "das zo-TSYA-le NETS-verk",
+                    "meaning": "Social network (plural: Soziale Netzwerke)",
+                    "example_sentence": "Ich bin in einem sozialen Netzwerk aktiv. (I'm active on a social network.)"
+                },
+                {
+                    "word": "Das Konto",
+                    "reading": "das KON-toh",
+                    "meaning": "The account (plural: Konten)",
+                    "example_sentence": "Ich habe ein neues Konto erstellt. (I created a new account.)"
+                },
+                {
+                    "word": "Das Profil",
+                    "reading": "das pro-FEEL",
+                    "meaning": "The profile (plural: Profile)",
+                    "example_sentence": "Mein Profil ist öffentlich. (My profile is public.)"
+                },
+                {
+                    "word": "Das Video",
+                    "reading": "das VEE-de-oh",
+                    "meaning": "The video (plural: Videos)",
+                    "example_sentence": "Das Video ist sehr lustig. (The video is very funny.)"
+                },
+                {
+                    "word": "Das Bild",
+                    "reading": "das BILT",
+                    "meaning": "The picture/photo (plural: Bilder)",
+                    "example_sentence": "Das Bild ist schön. (The picture is beautiful.)"
+                },
+                {
+                    "word": "Hochladen",
+                    "reading": "HOKH-la-den",
+                    "meaning": "To upload",
+                    "example_sentence": "Ich lade das Foto hoch. (I'm uploading the photo.)"
+                },
+                {
+                    "word": "Herunterladen",
+                    "reading": "he-ROON-ter-la-den",
+                    "meaning": "To download",
+                    "example_sentence": "Ich lade die Datei herunter. (I'm downloading the file.)"
+                },
+                {
+                    "word": "Teilen",
+                    "reading": "TY-len",
+                    "meaning": "To share",
+                    "example_sentence": "Ich teile das Video mit meinen Freunden. (I'm sharing the video with my friends.)"
+                },
+                {
+                    "word": "Klicken",
+                    "reading": "KLIK-en",
+                    "meaning": "To click",
+                    "example_sentence": "Klicken Sie hier. (Click here.)"
+                },
+                {
+                    "word": "Tippen",
+                    "reading": "TIP-en",
+                    "meaning": "To type/tap",
+                    "example_sentence": "Ich tippe eine Nachricht. (I'm typing a message.)"
+                },
+                {
+                    "word": "Recherchieren",
+                    "reading": "re-sher-SHEE-ren",
+                    "meaning": "To research/investigate",
+                    "example_sentence": "Ich recherchiere Informationen im Internet. (I'm researching information on the internet.)"
+                },
+                {
+                    "word": "Die Suchmaschine",
+                    "reading": "dee ZOOKH-ma-shee-ne",
+                    "meaning": "The search engine (plural: Suchmaschinen)",
+                    "example_sentence": "Ich benutze eine Suchmaschine. (I'm using a search engine.)"
+                },
+                {
+                    "word": "Online sein",
+                    "reading": "ON-lyne zyne",
+                    "meaning": "To be online",
+                    "example_sentence": "Ich bin den ganzen Tag online. (I'm online all day.)"
+                },
+                {
+                    "word": "Offline sein",
+                    "reading": "OF-lyne zyne",
+                    "meaning": "To be offline",
+                    "example_sentence": "Ich bin jetzt offline. (I'm offline now.)"
+                },
+                {
+                    "word": "Das WLAN",
+                    "reading": "das VAY-lahn",
+                    "meaning": "The Wi-Fi (no plural)",
+                    "example_sentence": "Das WLAN funktioniert nicht. (The Wi-Fi isn't working.)"
+                },
+                {
+                    "word": "Die Verbindung",
+                    "reading": "dee fer-BIN-doong",
+                    "meaning": "The connection (plural: Verbindungen)",
+                    "example_sentence": "Die Verbindung ist schlecht. (The connection is bad.)"
+                },
+                {
+                    "word": "Das Signal",
+                    "reading": "das zig-NAHL",
+                    "meaning": "The signal (plural: Signale)",
+                    "example_sentence": "Das Signal ist schwach. (The signal is weak.)"
+                },
+                {
+                    "word": "Der Akku",
+                    "reading": "dehr A-koo",
+                    "meaning": "The battery (rechargeable) (plural: Akkus)",
+                    "example_sentence": "Der Akku ist leer. (The battery is empty.)"
+                },
+                {
+                    "word": "Aufladen",
+                    "reading": "OWF-la-den",
+                    "meaning": "To charge",
+                    "example_sentence": "Ich muss mein Handy aufladen. (I need to charge my phone.)"
+                },
+                {
+                    "word": "Das Ladegerät",
+                    "reading": "das LA-de-ge-rayt",
+                    "meaning": "The charger (plural: Ladegeräte)",
+                    "example_sentence": "Wo ist das Ladegerät? (Where is the charger?)"
+                },
+                {
+                    "word": "Anschalten",
+                    "reading": "AN-shal-ten",
+                    "meaning": "To turn on",
+                    "example_sentence": "Ich schalte den Computer an. (I'm turning on the computer.)"
+                },
+                {
+                    "word": "Ausschalten",
+                    "reading": "OWS-shal-ten",
+                    "meaning": "To turn off",
+                    "example_sentence": "Schalte bitte das Licht aus. (Please turn off the light.)"
+                },
+                {
+                    "word": "Abstürzen",
+                    "reading": "AP-stuer-tsen",
+                    "meaning": "To crash (computer)",
+                    "example_sentence": "Der Computer ist abgestürzt. (The computer has crashed.)"
+                },
+                {
+                    "word": "Der Virus",
+                    "reading": "dehr VEE-roos",
+                    "meaning": "The virus (plural: Viren)",
+                    "example_sentence": "Mein Computer hat einen Virus. (My computer has a virus.)"
+                },
+                {
+                    "word": "Die Firewall",
+                    "reading": "dee FY-er-vohl",
+                    "meaning": "The firewall (plural: Firewalls)",
+                    "example_sentence": "Die Firewall schützt meinen Computer. (The firewall protects my computer.)"
+                },
+                {
+                    "word": "Die Datei",
+                    "reading": "dee da-TYE",
+                    "meaning": "The file (plural: Dateien)",
+                    "example_sentence": "Ich öffne die Datei. (I'm opening the file.)"
+                },
+                {
+                    "word": "Der Ordner",
+                    "reading": "dehr ORD-ner",
+                    "meaning": "The folder (plural: Ordner)",
+                    "example_sentence": "Der Ordner ist leer. (The folder is empty.)"
+                },
+                {
+                    "word": "Einfügen",
+                    "reading": "EYN-fue-gen",
+                    "meaning": "To paste",
+                    "example_sentence": "Ich füge den Text ein. (I'm pasting the text.)"
+                },
+                {
+                    "word": "Der Anhang",
+                    "reading": "dehr AN-hang",
+                    "meaning": "The attachment (plural: Anhänge)",
+                    "example_sentence": "Die E-Mail hat einen Anhang. (The email has an attachment.)"
+                },
+                {
+                    "word": "Weiterleiten",
+                    "reading": "VY-ter-ly-ten",
+                    "meaning": "To forward",
+                    "example_sentence": "Ich leite die Nachricht weiter. (I'm forwarding the message.)"
+                },
+                {
+                    "word": "Das Mikrofon",
+                    "reading": "das mee-kro-FOHN",
+                    "meaning": "The microphone (plural: Mikrofone)",
+                    "example_sentence": "Das Mikrofon ist aus. (The microphone is off.)"
+                },
+                {
+                    "word": "Der Lautsprecher",
+                    "reading": "dehr LOWT-shpre-kher",
+                    "meaning": "The speaker (plural: Lautsprecher)",
+                    "example_sentence": "Der Lautsprecher ist zu laut. (The speaker is too loud.)"
+                },
+                {
+                    "word": "Kopfhörer",
+                    "reading": "KOPF-hoe-rer",
+                    "meaning": "Headphones (plural)",
+                    "example_sentence": "Ich höre Musik mit Kopfhörern. (I listen to music with headphones.)"
+                },
+                {
+                    "word": "Leiser machen",
+                    "reading": "LY-zer MA-khen",
+                    "meaning": "To turn down volume",
+                    "example_sentence": "Kannst du bitte leiser machen? (Can you please turn it down?)"
+                },
+                {
+                    "word": "Lauter machen",
+                    "reading": "LOW-ter MA-khen",
+                    "meaning": "To turn up volume",
+                    "example_sentence": "Mach bitte lauter. (Please turn it up.)"
+                },
+                {
+                    "word": "Stummschalten",
+                    "reading": "SHTOOM-shal-ten",
+                    "meaning": "To mute",
+                    "example_sentence": "Ich schalte das Mikrofon stumm. (I'm muting the microphone.)"
+                },
+                {
+                    "word": "Das Radio",
+                    "reading": "das RA-dyo",
+                    "meaning": "The radio (plural: Radios)",
+                    "example_sentence": "Ich höre Radio. (I'm listening to the radio.)"
+                },
+                {
+                    "word": "Das Fernsehen",
+                    "reading": "das FERN-zay-en",
+                    "meaning": "The television (medium) (no plural)",
+                    "example_sentence": "Das Fernsehen ist langweilig. (Television is boring.)"
+                },
+                {
+                    "word": "Die Sendung",
+                    "reading": "dee ZEN-doong",
+                    "meaning": "The show/broadcast (plural: Sendungen)",
+                    "example_sentence": "Die Sendung beginnt um acht Uhr. (The show starts at eight o'clock.)"
+                },
+                {
+                    "word": "Die Nachrichten",
+                    "reading": "dee NAHKH-rish-ten",
+                    "meaning": "The news (plural)",
+                    "example_sentence": "Ich schaue die Nachrichten. (I'm watching the news.)"
+                },
+                {
+                    "word": "Die Serie",
+                    "reading": "dee ZAY-rye",
+                    "meaning": "The series (plural: Serien)",
+                    "example_sentence": "Die Serie ist spannend. (The series is exciting.)"
+                },
+                {
+                    "word": "Streamen",
+                    "reading": "STREE-men",
+                    "meaning": "To stream",
+                    "example_sentence": "Ich streame einen Film. (I'm streaming a movie.)"
+                },
+                {
+                    "word": "Abonnieren",
+                    "reading": "a-bo-NEE-ren",
+                    "meaning": "To subscribe",
+                    "example_sentence": "Ich abonniere den Kanal. (I'm subscribing to the channel.)"
+                },
+                {
+                    "word": "Das Abo",
+                    "reading": "das A-bo",
+                    "meaning": "The subscription (plural: Abos)",
+                    "example_sentence": "Das Abo kostet zehn Euro pro Monat. (The subscription costs ten euros per month.)"
+                },
+                {
+                    "word": "Die Werbung",
+                    "reading": "dee VER-boong",
+                    "meaning": "The advertisement (plural: Werbungen)",
+                    "example_sentence": "Die Werbung ist nervig. (The advertisement is annoying.)"
+                },
+                {
+                    "word": "Die Zeitung",
+                    "reading": "dee TSY-toong",
+                    "meaning": "The newspaper (plural: Zeitungen)",
+                    "example_sentence": "Ich lese die Zeitung. (I'm reading the newspaper.)"
+                },
+                {
+                    "word": "Die Zeitschrift",
+                    "reading": "dee TSYT-shrift",
+                    "meaning": "The magazine (plural: Zeitschriften)",
+                    "example_sentence": "Die Zeitschrift ist interessant. (The magazine is interesting.)"
+                },
+                {
+                    "word": "Der Artikel",
+                    "reading": "dehr ar-TEE-kel",
+                    "meaning": "The article (plural: Artikel)",
+                    "example_sentence": "Der Artikel ist gut geschrieben. (The article is well written.)"
+                },
+                {
+                    "word": "Journalist",
+                    "reading": "zhoor-na-LIST",
+                    "meaning": "Journalist (plural: Journalisten)",
+                    "example_sentence": "Er ist Journalist. (He is a journalist.)"
+                },
+                {
+                    "word": "Die Information",
+                    "reading": "dee in-for-ma-TSYOHN",
+                    "meaning": "The information (plural: Informationen)",
+                    "example_sentence": "Ich brauche mehr Informationen. (I need more information.)"
+                },
+                {
+                    "word": "Daten",
+                    "reading": "DA-ten",
+                    "meaning": "Data (plural)",
+                    "example_sentence": "Die Daten sind sicher. (The data is secure.)"
+                },
+                {
+                    "word": "Der Datenschutz",
+                    "reading": "dehr DA-ten-shoots",
+                    "meaning": "Data protection/privacy (no plural)",
+                    "example_sentence": "Der Datenschutz ist wichtig. (Data protection is important.)"
+                },
+                {
+                    "word": "Sicher",
+                    "reading": "ZI-kher",
+                    "meaning": "Safe/Secure",
+                    "example_sentence": "Das Passwort ist sicher. (The password is secure.)"
+                },
+                {
+                    "word": "Gefährlich",
+                    "reading": "ge-FAYR-lish",
+                    "meaning": "Dangerous",
+                    "example_sentence": "Das ist gefährlich. (That is dangerous.)"
+                },
+                {
+                    "word": "Einloggen",
+                    "reading": "EYN-lo-gen",
+                    "meaning": "To log in",
+                    "example_sentence": "Ich logge mich ein. (I'm logging in.)"
+                },
+                {
+                    "word": "Ausloggen",
+                    "reading": "OWS-lo-gen",
+                    "meaning": "To log out",
+                    "example_sentence": "Vergiss nicht, dich auszuloggen. (Don't forget to log out.)"
+                },
+                {
+                    "word": "Der USB-Stick",
+                    "reading": "dehr oo-es-bay-stik",
+                    "meaning": "The USB stick (plural: USB-Sticks)",
+                    "example_sentence": "Der USB-Stick ist voll. (The USB stick is full.)"
+                },
+                {
+                    "word": "Die Festplatte",
+                    "reading": "dee FEST-pla-te",
+                    "meaning": "The hard drive (plural: Festplatten)",
+                    "example_sentence": "Die Festplatte hat viel Speicherplatz. (The hard drive has a lot of storage space.)"
+                },
+                {
+                    "word": "Die Cloud",
+                    "reading": "dee KLOWD",
+                    "meaning": "The cloud (plural: Clouds)",
+                    "example_sentence": "Ich speichere meine Dateien in der Cloud. (I store my files in the cloud.)"
+                },
+                {
+                    "word": "Digital",
+                    "reading": "dee-gee-TAHL",
+                    "meaning": "Digital",
+                    "example_sentence": "Wir leben in einer digitalen Welt. (We live in a digital world.)"
+                },
+                {
+                    "word": "Analog",
+                    "reading": "a-na-LOHG",
+                    "meaning": "Analog",
+                    "example_sentence": "Die Uhr ist analog. (The clock is analog.)"
+                },
+                {
+                    "word": "Zeitgemäß",
+                    "reading": "TSYTE-ge-mays",
+                    "meaning": "Contemporary/Up-to-date",
+                    "example_sentence": "Das Design ist sehr zeitgemäß. (The design is very contemporary.)"
+                },
+                {
+                    "word": "Veraltet",
+                    "reading": "fer-AL-tet",
+                    "meaning": "Outdated/Obsolete",
+                    "example_sentence": "Das Programm ist veraltet. (The program is outdated.)"
+                },
+                {
+                    "word": "Intelligent",
+                    "reading": "in-te-lee-GENT",
+                    "meaning": "Intelligent",
+                    "example_sentence": "Er ist sehr intelligent. (He is very intelligent.)"
+                },
+                {
+                    "word": "Künstliche Intelligenz",
+                    "reading": "KUENST-lee-khe in-te-lee-GENTS",
+                    "meaning": "Artificial Intelligence (no plural)",
+                    "example_sentence": "Künstliche Intelligenz verändert die Welt. (Artificial intelligence is changing the world.)"
+                },
+                {
+                    "word": "Die Software",
+                    "reading": "SOFT-vehr",
+                    "meaning": "The software (plural: Softwares)",
+                    "example_sentence": "Die Software ist veraltet. (The software is outdated.)"
+                },
+                {
+                    "word": "Das Programm",
+                    "reading": "das pro-GRAM",
+                    "meaning": "The program (plural: Programme)",
+                    "example_sentence": "Das Programm startet nicht. (The program won't start.)"
+                },
+                {
+                    "word": "Aktualisieren",
+                    "reading": "ak-too-a-lee-ZEE-ren",
+                    "meaning": "To update",
+                    "example_sentence": "Ich muss die App aktualisieren. (I need to update the app.)"
+                },
+                {
+                    "word": "Installieren",
+                    "reading": "in-sta-LEE-ren",
+                    "meaning": "To install",
+                    "example_sentence": "Ich installiere ein neues Programm. (I'm installing a new program.)"
+                },
+                {
+                    "word": "Die Einstellung",
+                    "reading": "dee EYN-shtel-oong",
+                    "meaning": "The setting (plural: Einstellungen)",
+                    "example_sentence": "Ich ändere die Einstellungen. (I'm changing the settings.)"
+                },
+                {
+                    "word": "Das Ladekabel",
+                    "reading": "das LA-de-ka-bel",
+                    "meaning": "The charging cable (plural: Ladekabel)",
+                    "example_sentence": "Wo ist mein Ladekabel? (Where is my charging cable?)"
+                },
+                {
+                    "word": "Die Powerbank",
+                    "reading": "dee POW-er-benk",
+                    "meaning": "The power bank (plural: Powerbanks)",
+                    "example_sentence": "Die Powerbank ist aufgeladen. (The power bank is charged.)"
+                },
+                {
+                    "word": "Der Touchscreen",
+                    "reading": "dehr TATCH-skreen",
+                    "meaning": "The touchscreen (plural: Touchscreens)",
+                    "example_sentence": "Der Touchscreen reagiert nicht. (The touchscreen isn't responding.)"
+                },
+                {
+                    "word": "Der Follower",
+                    "reading": "dehr FOL-o-ver",
+                    "meaning": "The follower (plural: Follower)",
+                    "example_sentence": "Ich habe viele Follower. (I have many followers.)"
+                },
+                {
+                    "word": "Das Update",
+                    "reading": "das AP-dayt",
+                    "meaning": "The update (plural: Updates)",
+                    "example_sentence": "Es gibt ein neues Update. (There is a new update.)"
+                },
+                {
+                    "word": "Der Browser",
+                    "reading": "dehr BROW-zer",
+                    "meaning": "The web browser (plural: Browser)",
+                    "example_sentence": "Welchen Browser benutzt du? (Which browser do you use?)"
+                },
+                {
+                    "word": "Drahtlos",
+                    "reading": "DRAHT-lohs",
+                    "meaning": "Wireless",
+                    "example_sentence": "Die Verbindung ist drahtlos. (The connection is wireless.)"
+                },
+                {
+                    "word": "Internet surfen",
+                    "reading": "IN-ter-net ZER-fen",
+                    "meaning": "To surf the web",
+                    "example_sentence": "Ich surfe gerne im Internet. (I like to surf the web.)"
+                },
+                {
+                    "word": "Der Beamer",
+                    "reading": "dehr BEE-mer",
+                    "meaning": "Projector (plural: Beamer) [LIAR GAME: NOT a BMW car]",
+                    "example_sentence": "Der Beamer zeigt die Präsentation. (The projector is showing the presentation.) [LIAR GAME: NOT 'BMW']"
+                },
+                {
+                    "word": "Mobbing",
+                    "reading": "MOB-ing",
+                    "meaning": "Bullying (no plural) [LIAR GAME: NOT just a crowd/mob]",
+                    "example_sentence": "Mobbing in der Schule ist ein Problem. (Bullying in school is a problem.) [LIAR GAME: NOT 'mobbing/crowd']"
+                },
+                {
+                    "word": "Das Display",
+                    "reading": "das dis-PLAY",
+                    "meaning": "Screen/Display (plural: Displays) [LIAR GAME: NOT a shop display]",
+                    "example_sentence": "Das Display ist hell. (The display is bright.) [LIAR GAME: NOT 'shop display']"
+                },
+                {
+                    "word": "Chatten",
+                    "reading": "CHET-en",
+                    "meaning": "To chat online [LIAR GAME: Specific to online chatting]",
+                    "example_sentence": "Ich chatte mit meinen Freunden. (I'm chatting with my friends.) [LIAR GAME: Online-specific]"
+                },
+                {
+                    "word": "Die Tastenkombination",
+                    "reading": "dee TAS-ten-kom-bee-na-tsyohn",
+                    "meaning": "Keyboard shortcut (plural: Tastenkombinationen)",
+                    "example_sentence": "Die Tastenkombination ist Strg+C. (The keyboard shortcut is Ctrl+C.)"
+                },
+                {
+                    "word": "Die Benachrichtigung",
+                    "reading": "dee be-NAKH-rikh-tee-goong",
+                    "meaning": "Notification (plural: Benachrichtigungen)",
+                    "example_sentence": "Ich habe eine neue Benachrichtigung. (I have a new notification.)"
+                },
+                {
+                    "word": "Das Startpasswort",
+                    "reading": "das SHTART-pas-vort",
+                    "meaning": "Initial password (plural: Startpasswörter)",
+                    "example_sentence": "Bitte ändern Sie Ihr Startpasswort. (Please change your initial password.)"
+                },
+                {
+                    "word": "Die Suchanfrage",
+                    "reading": "dee ZOOKH-an-fra-ge",
+                    "meaning": "Search query (plural: Suchanfragen)",
+                    "example_sentence": "Die Suchanfrage ergab viele Ergebnisse. (The search query returned many results.)"
+                },
+                {
+                    "word": "Der Post",
+                    "reading": "dehr POHST",
+                    "meaning": "Social media post (plural: Posts)",
+                    "example_sentence": "Ich habe einen neuen Post geschrieben. (I wrote a new post.)"
+                },
+                {
+                    "word": "Das Profilbild",
+                    "reading": "das pro-FEEL-bilt",
+                    "meaning": "Profile picture (plural: Profilbilder)",
+                    "example_sentence": "Mein Profilbild ist neu. (My profile picture is new.)"
+                },
+                {
+                    "word": "Die Startseite",
+                    "reading": "dee SHTART-zy-te",
+                    "meaning": "Homepage (plural: Startseiten)",
+                    "example_sentence": "Die Startseite lädt schnell. (The homepage loads quickly.)"
+                },
+                {
+                    "word": "Der Nutzername",
+                    "reading": "dehr NOOT-tser-na-me",
+                    "meaning": "Username (plural: Nutzernamen)",
+                    "example_sentence": "Mein Nutzername ist einzigartig. (My username is unique.)"
+                },
+                {
+                    "word": "Das Netzwerk",
+                    "reading": "das NETS-verk",
+                    "meaning": "The network (plural: Netzwerke)",
+                    "example_sentence": "Das Netzwerk ist stabil. (The network is stable.)"
+                },
+                {
+                    "word": "Der Drucker",
+                    "reading": "dehr DROO-ker",
+                    "meaning": "The printer (plural: Drucker)",
+                    "example_sentence": "Der Drucker funktioniert nicht. (The printer isn't working.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "German Technology False Friends",
+        "question": "Your German colleague says 'Wir brauchen einen Beamer für die Präsentation.' What do they need?",
+        "options": [
+            "A BMW car to drive to the presentation",
+            "A projector to display slides",
+            "A beam of light for the stage",
+            "A construction beam for the building"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "In German, 'Der Beamer' refers to a projector used for presentations, NOT a BMW car (which is just 'BMW' in German). Other tech traps include 'Mobbing' (bullying, not just a crowd), 'Das Display' (screen, not a shop display), and 'Chatten' (specifically online chatting). These Denglisch terms often confuse English speakers!"
+    }
+}

@@ -1,0 +1,627 @@
+{
+    "moduleId": "de_a1_m06",
+    "theme": "Health, Body & Routine",
+    "title": "Health, Body & Routine",
+    "level": "a1",
+    "language": "german",
+    "order": 6,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "Der Körper",
+                    "reading": "dehr KOER-per",
+                    "meaning": "The body (plural: Körper)",
+                    "example_sentence": "Der Körper ist gesund. (The body is healthy.)"
+                },
+                {
+                    "word": "Der Kopf",
+                    "reading": "dehr KOPF",
+                    "meaning": "The head (plural: Köpfe)",
+                    "example_sentence": "Der Kopf tut weh. (The head hurts.)"
+                },
+                {
+                    "word": "Das Gesicht",
+                    "reading": "das ge-ZISHT",
+                    "meaning": "The face (plural: Gesichter)",
+                    "example_sentence": "Das Gesicht ist rund. (The face is round.)"
+                },
+                {
+                    "word": "Das Auge",
+                    "reading": "das OW-ge",
+                    "meaning": "The eye (plural: Augen)",
+                    "example_sentence": "Das Auge ist blau. (The eye is blue.)"
+                },
+                {
+                    "word": "Das Ohr",
+                    "reading": "das OHR",
+                    "meaning": "The ear (plural: Ohren)",
+                    "example_sentence": "Das Ohr ist groß. (The ear is big.)"
+                },
+                {
+                    "word": "Die Nase",
+                    "reading": "dee NA-ze",
+                    "meaning": "The nose (plural: Nasen)",
+                    "example_sentence": "Die Nase ist klein. (The nose is small.)"
+                },
+                {
+                    "word": "Der Mund",
+                    "reading": "dehr MOONT",
+                    "meaning": "The mouth (plural: Münder)",
+                    "example_sentence": "Der Mund ist offen. (The mouth is open.)"
+                },
+                {
+                    "word": "Der Zahn",
+                    "reading": "dehr TSAHN",
+                    "meaning": "The tooth (plural: Zähne)",
+                    "example_sentence": "Der Zahn tut weh. (The tooth hurts.)"
+                },
+                {
+                    "word": "Der Hals",
+                    "reading": "dehr HALS",
+                    "meaning": "The neck/throat (plural: Hälse)",
+                    "example_sentence": "Der Hals ist rot. (The throat is red.)"
+                },
+                {
+                    "word": "Die Hand",
+                    "reading": "dee HANT",
+                    "meaning": "The hand (plural: Hände)",
+                    "example_sentence": "Die Hand ist sauber. (The hand is clean.)"
+                },
+                {
+                    "word": "Der Finger",
+                    "reading": "dehr FIN-ger",
+                    "meaning": "The finger (plural: Finger)",
+                    "example_sentence": "Der Finger ist lang. (The finger is long.)"
+                },
+                {
+                    "word": "Das Bein",
+                    "reading": "das BYNE",
+                    "meaning": "The leg (plural: Beine)",
+                    "example_sentence": "Das Bein ist stark. (The leg is strong.)"
+                },
+                {
+                    "word": "Der Fuß",
+                    "reading": "dehr FOOS",
+                    "meaning": "The foot (plural: Füße)",
+                    "example_sentence": "Der Fuß ist groß. (The foot is big.)"
+                },
+                {
+                    "word": "Der Rücken",
+                    "reading": "dehr RUEK-en",
+                    "meaning": "The back (plural: Rücken)",
+                    "example_sentence": "Der Rücken tut weh. (The back hurts.)"
+                },
+                {
+                    "word": "Der Bauch",
+                    "reading": "dehr BOWKH",
+                    "meaning": "The stomach/belly (plural: Bäuche)",
+                    "example_sentence": "Der Bauch ist voll. (The stomach is full.)"
+                },
+                {
+                    "word": "Das Herz",
+                    "reading": "das HERTS",
+                    "meaning": "The heart (plural: Herzen)",
+                    "example_sentence": "Das Herz schlägt schnell. (The heart beats fast.)"
+                },
+                {
+                    "word": "Das Blut",
+                    "reading": "das BLOOT",
+                    "meaning": "The blood (no plural)",
+                    "example_sentence": "Das Blut ist rot. (The blood is red.)"
+                },
+                {
+                    "word": "Der Ellbogen",
+                    "reading": "dehr EL-bo-gen",
+                    "meaning": "The elbow (plural: Ellbogen)",
+                    "example_sentence": "Der Ellbogen ist steif. (The elbow is stiff.)"
+                },
+                {
+                    "word": "Krank",
+                    "reading": "KRANK",
+                    "meaning": "Sick",
+                    "example_sentence": "Ich bin krank. (I am sick.)"
+                },
+                {
+                    "word": "Die Krankheit",
+                    "reading": "dee KRANK-hyte",
+                    "meaning": "The illness (plural: Krankheiten)",
+                    "example_sentence": "Die Krankheit ist schlimm. (The illness is bad.)"
+                },
+                {
+                    "word": "Der Schmerz",
+                    "reading": "dehr SHMERTS",
+                    "meaning": "The pain (plural: Schmerzen)",
+                    "example_sentence": "Der Schmerz ist stark. (The pain is strong.)"
+                },
+                {
+                    "word": "Kopfschmerzen",
+                    "reading": "KOPF-shmert-sen",
+                    "meaning": "Headache (plural only)",
+                    "example_sentence": "Ich habe Kopfschmerzen. (I have a headache.)"
+                },
+                {
+                    "word": "Bauchschmerzen",
+                    "reading": "BOWKH-shmert-sen",
+                    "meaning": "Stomach ache (plural only)",
+                    "example_sentence": "Ich habe Bauchschmerzen. (I have a stomach ache.)"
+                },
+                {
+                    "word": "Husten",
+                    "reading": "HOOS-ten",
+                    "meaning": "To cough",
+                    "example_sentence": "Ich muss husten. (I have to cough.)"
+                },
+                {
+                    "word": "Schnupfen",
+                    "reading": "SHNOOP-fen",
+                    "meaning": "A cold/sniffles (no plural)",
+                    "example_sentence": "Ich habe Schnupfen. (I have a cold.)"
+                },
+                {
+                    "word": "Das Fieber",
+                    "reading": "das FEE-ber",
+                    "meaning": "The fever (no plural)",
+                    "example_sentence": "Ich habe Fieber. (I have a fever.)"
+                },
+                {
+                    "word": "Die Grippe",
+                    "reading": "dee GRIP-e",
+                    "meaning": "The flu (no plural)",
+                    "example_sentence": "Ich habe die Grippe. (I have the flu.)"
+                },
+                {
+                    "word": "Der Arzt",
+                    "reading": "dehr ARTST",
+                    "meaning": "The doctor (plural: Ärzte)",
+                    "example_sentence": "Der Arzt hilft mir. (The doctor helps me.)"
+                },
+                {
+                    "word": "Das Krankenhaus",
+                    "reading": "das KRANK-en-hows",
+                    "meaning": "The hospital (plural: Krankenhäuser)",
+                    "example_sentence": "Das Krankenhaus ist groß. (The hospital is big.)"
+                },
+                {
+                    "word": "Die Apotheke",
+                    "reading": "dee a-po-TAY-ke",
+                    "meaning": "The pharmacy (plural: Apotheken)",
+                    "example_sentence": "Die Apotheke ist nah. (The pharmacy is near.)"
+                },
+                {
+                    "word": "Das Medikament",
+                    "reading": "das me-dee-ka-MENT",
+                    "meaning": "The medicine (plural: Medikamente)",
+                    "example_sentence": "Das Medikament hilft. (The medicine helps.)"
+                },
+                {
+                    "word": "Die Tablette",
+                    "reading": "dee tab-LE-te",
+                    "meaning": "The pill/tablet (plural: Tabletten)",
+                    "example_sentence": "Ich nehme eine Tablette. (I take a pill.)"
+                },
+                {
+                    "word": "Das Gelenk",
+                    "reading": "das ge-LENK",
+                    "meaning": "The joint (plural: Gelenke)",
+                    "example_sentence": "Das Gelenk schmerzt. (The joint hurts.)"
+                },
+                {
+                    "word": "Gute Besserung!",
+                    "reading": "GOO-te BES-e-rung",
+                    "meaning": "Get well soon!",
+                    "example_sentence": "Gute Besserung! Bis bald! (Get well soon! See you soon!)"
+                },
+                {
+                    "word": "Sich fühlen",
+                    "reading": "zish FUEL-en",
+                    "meaning": "To feel",
+                    "example_sentence": "Ich fühle mich gut. (I feel good.)"
+                },
+                {
+                    "word": "Die Schulter",
+                    "reading": "dee SHOOL-ter",
+                    "meaning": "The shoulder (plural: Schultern)",
+                    "example_sentence": "Die Schulter tut weh. (The shoulder hurts.)"
+                },
+                {
+                    "word": "Schwach",
+                    "reading": "SHVAHKH",
+                    "meaning": "Weak",
+                    "example_sentence": "Ich bin schwach. (I am weak.)"
+                },
+                {
+                    "word": "Fit",
+                    "reading": "FIT",
+                    "meaning": "Fit",
+                    "example_sentence": "Ich bin fit. (I am fit.)"
+                },
+                {
+                    "word": "Sich ausruhen",
+                    "reading": "zish OWS-roo-en",
+                    "meaning": "To rest",
+                    "example_sentence": "Ich ruhe mich aus. (I rest.)"
+                },
+                {
+                    "word": "Sich waschen",
+                    "reading": "zish VASH-en",
+                    "meaning": "To wash oneself",
+                    "example_sentence": "Ich wasche mich. (I wash myself.)"
+                },
+                {
+                    "word": "Duschen",
+                    "reading": "DOO-shen",
+                    "meaning": "To shower",
+                    "example_sentence": "Ich dusche jeden Tag. (I shower every day.)"
+                },
+                {
+                    "word": "Baden",
+                    "reading": "BA-den",
+                    "meaning": "To bathe",
+                    "example_sentence": "Ich bade gern. (I like to bathe.)"
+                },
+                {
+                    "word": "Zähneputzen",
+                    "reading": "TSAY-ne-poot-sen",
+                    "meaning": "Brushing teeth",
+                    "example_sentence": "Ich putze meine Zähne. (I brush my teeth.)"
+                },
+                {
+                    "word": "Sich kämmen",
+                    "reading": "zish KEM-en",
+                    "meaning": "To comb one's hair",
+                    "example_sentence": "Ich kämme mich. (I comb my hair.)"
+                },
+                {
+                    "word": "Rasieren",
+                    "reading": "ra-ZEE-ren",
+                    "meaning": "To shave",
+                    "example_sentence": "Ich rasiere mich. (I shave.)"
+                },
+                {
+                    "word": "Schminken",
+                    "reading": "SHMIN-ken",
+                    "meaning": "To put on makeup",
+                    "example_sentence": "Sie schminkt sich. (She puts on makeup.)"
+                },
+                {
+                    "word": "Arbeiten",
+                    "reading": "AR-by-ten",
+                    "meaning": "To work",
+                    "example_sentence": "Ich arbeite jeden Tag. (I work every day.)"
+                },
+                {
+                    "word": "Pause machen",
+                    "reading": "POW-ze MA-khen",
+                    "meaning": "To take a break",
+                    "example_sentence": "Ich mache eine Pause. (I take a break.)"
+                },
+                {
+                    "word": "Feierabend",
+                    "reading": "FYE-er-ah-bent",
+                    "meaning": "End of working day (no plural)",
+                    "example_sentence": "Ich habe Feierabend. (I'm done with work.)"
+                },
+                {
+                    "word": "Aufräumen",
+                    "reading": "OWF-roy-men",
+                    "meaning": "To tidy up",
+                    "example_sentence": "Ich räume mein Zimmer auf. (I tidy up my room.)"
+                },
+                {
+                    "word": "Sport treiben",
+                    "reading": "SHPORT TRY-ben",
+                    "meaning": "To do sports",
+                    "example_sentence": "Ich treibe Sport. (I do sports.)"
+                },
+                {
+                    "word": "Joggen",
+                    "reading": "JO-gen",
+                    "meaning": "To jog",
+                    "example_sentence": "Ich jogge im Park. (I jog in the park.)"
+                },
+                {
+                    "word": "Schwimmen",
+                    "reading": "SHVIM-en",
+                    "meaning": "To swim",
+                    "example_sentence": "Ich schwimme gern. (I like to swim.)"
+                },
+                {
+                    "word": "Sich entspannen",
+                    "reading": "zish ent-SHPAN-en",
+                    "meaning": "To relax",
+                    "example_sentence": "Ich entspanne mich. (I relax.)"
+                },
+                {
+                    "word": "Fernsehen",
+                    "reading": "FERN-zay-en",
+                    "meaning": "To watch TV",
+                    "example_sentence": "Ich sehe fern. (I watch TV.)"
+                },
+                {
+                    "word": "Das Knie",
+                    "reading": "das KNEE",
+                    "meaning": "The knee (plural: Knie)",
+                    "example_sentence": "Das Knie ist geschwollen. (The knee is swollen.)"
+                },
+                {
+                    "word": "Ins Bett gehen",
+                    "reading": "ins BET GAY-en",
+                    "meaning": "To go to bed",
+                    "example_sentence": "Ich gehe ins Bett. (I go to bed.)"
+                },
+                {
+                    "word": "Einschlafen",
+                    "reading": "EYN-shla-fen",
+                    "meaning": "To fall asleep",
+                    "example_sentence": "Ich schlafe schnell ein. (I fall asleep quickly.)"
+                },
+                {
+                    "word": "Träumen",
+                    "reading": "TROY-men",
+                    "meaning": "To dream",
+                    "example_sentence": "Ich träume viel. (I dream a lot.)"
+                },
+                {
+                    "word": "Der Wecker",
+                    "reading": "dehr VEK-er",
+                    "meaning": "The alarm clock (plural: Wecker)",
+                    "example_sentence": "Der Wecker klingelt. (The alarm clock rings.)"
+                },
+                {
+                    "word": "Stress",
+                    "reading": "STRES",
+                    "meaning": "Stress (no plural)",
+                    "example_sentence": "Ich habe Stress. (I have stress.)"
+                },
+                {
+                    "word": "Wichtig",
+                    "reading": "VIKH-tish",
+                    "meaning": "Important",
+                    "example_sentence": "Das ist wichtig. (That is important.)"
+                },
+                {
+                    "word": "Dringend",
+                    "reading": "DRING-ent",
+                    "meaning": "Urgent",
+                    "example_sentence": "Das ist dringend. (That is urgent.)"
+                },
+                {
+                    "word": "Normalerweise",
+                    "reading": "nor-MA-ler-vy-ze",
+                    "meaning": "Normally",
+                    "example_sentence": "Normalerweise stehe ich früh auf. (Normally I get up early.)"
+                },
+                {
+                    "word": "Manchmal",
+                    "reading": "MANSH-mahl",
+                    "meaning": "Sometimes",
+                    "example_sentence": "Manchmal bin ich müde. (Sometimes I am tired.)"
+                },
+                {
+                    "word": "Oft",
+                    "reading": "OFT",
+                    "meaning": "Often",
+                    "example_sentence": "Ich gehe oft schwimmen. (I often go swimming.)"
+                },
+                {
+                    "word": "Immer",
+                    "reading": "IM-er",
+                    "meaning": "Always",
+                    "example_sentence": "Ich bin immer pünktlich. (I am always on time.)"
+                },
+                {
+                    "word": "Nie",
+                    "reading": "NEE",
+                    "meaning": "Never",
+                    "example_sentence": "Ich bin nie krank. (I am never sick.)"
+                },
+                {
+                    "word": "Fast nie",
+                    "reading": "FAST NEE",
+                    "meaning": "Almost never",
+                    "example_sentence": "Ich bin fast nie müde. (I am almost never tired.)"
+                },
+                {
+                    "word": "Jeden Tag",
+                    "reading": "YAY-den TAHK",
+                    "meaning": "Every day",
+                    "example_sentence": "Ich arbeite jeden Tag. (I work every day.)"
+                },
+                {
+                    "word": "Morgens",
+                    "reading": "MOR-gens",
+                    "meaning": "In the mornings",
+                    "example_sentence": "Morgens trinke ich Kaffee. (In the mornings I drink coffee.)"
+                },
+                {
+                    "word": "Mittags",
+                    "reading": "MI-tahgs",
+                    "meaning": "At noon",
+                    "example_sentence": "Mittags esse ich. (At noon I eat.)"
+                },
+                {
+                    "word": "Abends",
+                    "reading": "AH-bents",
+                    "meaning": "In the evenings",
+                    "example_sentence": "Abends sehe ich fern. (In the evenings I watch TV.)"
+                },
+                {
+                    "word": "Nachts",
+                    "reading": "NAHKHTS",
+                    "meaning": "At night",
+                    "example_sentence": "Nachts schlafe ich. (At night I sleep.)"
+                },
+                {
+                    "word": "Zuerst",
+                    "reading": "tsoo-EHRST",
+                    "meaning": "First of all",
+                    "example_sentence": "Zuerst dusche ich. (First of all I shower.)"
+                },
+                {
+                    "word": "Dann",
+                    "reading": "DAN",
+                    "meaning": "Then",
+                    "example_sentence": "Dann frühstücke ich. (Then I eat breakfast.)"
+                },
+                {
+                    "word": "Danach",
+                    "reading": "da-NAHKH",
+                    "meaning": "After that",
+                    "example_sentence": "Danach gehe ich zur Arbeit. (After that I go to work.)"
+                },
+                {
+                    "word": "Zuletzt",
+                    "reading": "tsoo-LETST",
+                    "meaning": "Finally",
+                    "example_sentence": "Zuletzt gehe ich ins Bett. (Finally I go to bed.)"
+                },
+                {
+                    "word": "Die Hilfe",
+                    "reading": "HIL-fe",
+                    "meaning": "The help (no plural)",
+                    "example_sentence": "Ich brauche Hilfe. (I need help.)"
+                },
+                {
+                    "word": "Rauchen",
+                    "reading": "ROW-khen",
+                    "meaning": "To smoke",
+                    "example_sentence": "Ich rauche nicht. (I don't smoke.)"
+                },
+                {
+                    "word": "Alkohol",
+                    "reading": "AL-ko-hol",
+                    "meaning": "Alcohol (no plural)",
+                    "example_sentence": "Ich trinke keinen Alkohol. (I don't drink alcohol.)"
+                },
+                {
+                    "word": "Vitamine",
+                    "reading": "vee-ta-MEE-ne",
+                    "meaning": "Vitamins (plural only)",
+                    "example_sentence": "Vitamine sind gesund. (Vitamins are healthy.)"
+                },
+                {
+                    "word": "Die Diät",
+                    "reading": "dee dee-ET",
+                    "meaning": "The diet (plural: Diäten)",
+                    "example_sentence": "Ich mache eine Diät. (I am on a diet.)"
+                },
+                {
+                    "word": "Abnehmen",
+                    "reading": "AP-nay-men",
+                    "meaning": "To lose weight",
+                    "example_sentence": "Ich möchte abnehmen. (I want to lose weight.)"
+                },
+                {
+                    "word": "Zunehmen",
+                    "reading": "TSOO-nay-men",
+                    "meaning": "To gain weight",
+                    "example_sentence": "Ich habe zugenommen. (I have gained weight.)"
+                },
+                {
+                    "word": "Die Energie",
+                    "reading": "dee en-er-GEE",
+                    "meaning": "The energy (plural: Energien)",
+                    "example_sentence": "Ich habe viel Energie. (I have a lot of energy.)"
+                },
+                {
+                    "word": "Das Leben",
+                    "reading": "das LAY-ben",
+                    "meaning": "The life (plural: Leben)",
+                    "example_sentence": "Das Leben ist schön. (Life is beautiful.)"
+                },
+                {
+                    "word": "Das Gymnasium",
+                    "reading": "das goom-NA-zyoom",
+                    "meaning": "Academic High School (plural: Gymnasien) [LIAR GAME: NOT a gym]",
+                    "example_sentence": "Ich gehe aufs Gymnasium. (I go to high school.) [LIAR GAME: NOT 'gymnasium/gym']"
+                },
+                {
+                    "word": "Die Kur",
+                    "reading": "dee KOOR",
+                    "meaning": "Health spa treatment (plural: Kuren) [LIAR GAME: NOT a cure/fix]",
+                    "example_sentence": "Ich mache eine Kur. (I'm doing a spa treatment.) [LIAR GAME: NOT 'cure']"
+                },
+                {
+                    "word": "Das Präservativ",
+                    "reading": "das pre-zer-va-TEEV",
+                    "meaning": "Condom (plural: Präservative) [LIAR GAME: NOT a preservative]",
+                    "example_sentence": "Das Präservativ ist wichtig. (The condom is important.) [LIAR GAME: NOT 'preservative']"
+                },
+                {
+                    "word": "After",
+                    "reading": "AF-ter",
+                    "meaning": "Anus (plural: After) [LIAR GAME: NOT after/later]",
+                    "example_sentence": "Der After ist ein Körperteil. (The anus is a body part.) [LIAR GAME: NOT 'after']"
+                },
+                {
+                    "word": "Pickel",
+                    "reading": "PIK-el",
+                    "meaning": "Pimple (plural: Pickel) [LIAR GAME: NOT a pickle]",
+                    "example_sentence": "Ich habe einen Pickel. (I have a pimple.) [LIAR GAME: NOT 'pickle']"
+                },
+                {
+                    "word": "Vital",
+                    "reading": "vee-TAHL",
+                    "meaning": "Full of life [LIAR GAME: NOT necessarily crucial]",
+                    "example_sentence": "Ich fühle mich vital. (I feel full of life.) [LIAR GAME: NOT 'vital/crucial']"
+                },
+                {
+                    "word": "Allergisch",
+                    "reading": "a-LER-gish",
+                    "meaning": "Allergic",
+                    "example_sentence": "Ich bin allergisch gegen Nüsse. (I am allergic to nuts.)"
+                },
+                {
+                    "word": "Die Verletzung",
+                    "reading": "dee fer-LET-soong",
+                    "meaning": "The injury (plural: Verletzungen)",
+                    "example_sentence": "Die Verletzung ist schlimm. (The injury is bad.)"
+                },
+                {
+                    "word": "Sich bewegen",
+                    "reading": "zish be-VAY-gen",
+                    "meaning": "To move/exercise",
+                    "example_sentence": "Ich bewege mich jeden Tag. (I exercise every day.)"
+                },
+                {
+                    "word": "Das Pflaster",
+                    "reading": "das PFLAS-ter",
+                    "meaning": "The bandage/plaster (plural: Pflaster)",
+                    "example_sentence": "Ich brauche ein Pflaster. (I need a bandage.)"
+                },
+                {
+                    "word": "Die Salbe",
+                    "reading": "dee ZAL-be",
+                    "meaning": "The ointment/cream (plural: Salben)",
+                    "example_sentence": "Die Salbe hilft. (The ointment helps.)"
+                },
+                {
+                    "word": "Gesundheit!",
+                    "reading": "ge-ZOONT-hyte",
+                    "meaning": "Bless you! (Health)",
+                    "example_sentence": "Gesundheit! (Bless you!)"
+                },
+                {
+                    "word": "Bleiben Sie gesund!",
+                    "reading": "BLY-ben zee ge-ZOONT",
+                    "meaning": "Stay healthy!",
+                    "example_sentence": "Bleiben Sie gesund! Auf Wiedersehen! (Stay healthy! Goodbye!)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "German Health & Body False Friends",
+        "question": "Your German friend says 'Ich gehe aufs Gymnasium.' Where is he going?",
+        "options": [
+            "To the gym for a workout",
+            "To academic high school",
+            "To a gymnastics class",
+            "To a fitness center"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The German word 'Gymnasium' means 'academic high school' (grades 5-12/13), NOT a gym or fitness center! The German word for gym is 'Fitnessstudio.' Other health-related false friends include 'Die Kur' (health spa treatment, not a cure), 'Das Präservativ' (condom, not a food preservative), 'After' (anus, not after/later), 'Pickel' (pimple, not a pickle), and 'Vital' (full of life, not necessarily crucial/vital). These medical and body-related traps can lead to very embarrassing misunderstandings!"
+    }
+}

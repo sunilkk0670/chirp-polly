@@ -1,0 +1,672 @@
+{
+    "moduleId": "sa_a2_m04",
+    "theme": "Advanced Emotions & Intellect",
+    "title": "Advanced Emotions & Intellect",
+    "level": "a2",
+    "language": "sanskrit",
+    "order": 4,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "विवेकः",
+                    "reading": "Vi-ve-kah",
+                    "meaning": "Discrimination/Wisdom",
+                    "example_sentence": "विवेकः सत्यासत्ययोः विभागं करोति। (Discrimination distinguishes truth from falsehood.)"
+                },
+                {
+                    "word": "वैराग्यम्",
+                    "reading": "Vai-raag-yam",
+                    "meaning": "Dispassion/Detachment",
+                    "example_sentence": "वैराग्यं मोक्षस्य साधनम्। (Detachment is a means to liberation.)"
+                },
+                {
+                    "word": "श्रद्धा",
+                    "reading": "Shradh-dhaa",
+                    "meaning": "Faith/Conviction",
+                    "example_sentence": "श्रद्धा गुरुवचने आवश्यका। (Faith in the teacher's words is necessary.)"
+                },
+                {
+                    "word": "मुमुक्षुत्वम्",
+                    "reading": "Mu-muk-shut-vam",
+                    "meaning": "Longing for liberation (Trap Word)",
+                    "example_sentence": "मुमुक्षुत्वं मोक्षेच्छा अस्ति। (Mumuksutva is the desire for liberation.) [LIAR GAME TRAP]"
+                },
+                {
+                    "word": "तितिक्षा",
+                    "reading": "Ti-tik-shaa",
+                    "meaning": "Forbearance/Endurance",
+                    "example_sentence": "तितिक्षा दुःखसहनशक्तिः। (Forbearance is the power to endure suffering.)"
+                },
+                {
+                    "word": "उपरतिः",
+                    "reading": "U-pa-ra-tih",
+                    "meaning": "Self-withdrawal",
+                    "example_sentence": "उपरतिः विषयेभ्यः निवृत्तिः। (Uparati is withdrawal from sense objects.)"
+                },
+                {
+                    "word": "समाधानम्",
+                    "reading": "Sa-maa-dhaa-nam",
+                    "meaning": "Mental concentration",
+                    "example_sentence": "समाधानं चित्तस्य एकाग्रता। (Samadhan is one-pointedness of mind.)"
+                },
+                {
+                    "word": "जिज्ञासा",
+                    "reading": "Jig-nyaa-saa",
+                    "meaning": "Curiosity/Desire to know",
+                    "example_sentence": "जिज्ञासा ज्ञानस्य मूलम्। (Curiosity is the root of knowledge.)"
+                },
+                {
+                    "word": "मेधा",
+                    "reading": "Me-dhaa",
+                    "meaning": "Retentive faculty/Intelligence",
+                    "example_sentence": "मेधा स्मरणशक्तिः अस्ति। (Medha is the power of retention.)"
+                },
+                {
+                    "word": "प्रतिभा",
+                    "reading": "Pra-ti-bhaa",
+                    "meaning": "Creative intuition/Genius",
+                    "example_sentence": "प्रतिभा कविषु विद्यते। (Genius is found in poets.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "सङ्कल्पः",
+                    "reading": "San-kal-pah",
+                    "meaning": "Resolution/Will",
+                    "example_sentence": "सङ्कल्पः दृढः भवेत्। (Resolution should be firm.)"
+                },
+                {
+                    "word": "विकल्पः",
+                    "reading": "Vi-kal-pah",
+                    "meaning": "Doubt/Hesitation",
+                    "example_sentence": "विकल्पः निर्णयं बाधते। (Doubt obstructs decision.)"
+                },
+                {
+                    "word": "संशयः",
+                    "reading": "Sam-sha-yah",
+                    "meaning": "Uncertainty/Suspicion",
+                    "example_sentence": "संशयः ज्ञानस्य शत्रुः। (Uncertainty is the enemy of knowledge.)"
+                },
+                {
+                    "word": "भ्रमः",
+                    "reading": "Bhra-mah",
+                    "meaning": "Illusion/Error",
+                    "example_sentence": "भ्रमः सत्यं न दर्शयति। (Illusion doesn't show truth.)"
+                },
+                {
+                    "word": "प्रमादः",
+                    "reading": "Pra-maa-dah",
+                    "meaning": "Negligence/Carelessness",
+                    "example_sentence": "प्रमादः दोषस्य कारणम्। (Negligence is the cause of fault.)"
+                },
+                {
+                    "word": "आलस्यम्",
+                    "reading": "Aa-las-yam",
+                    "meaning": "Indolence/Sloth",
+                    "example_sentence": "आलस्यं सफलतायाः शत्रुः। (Sloth is the enemy of success.)"
+                },
+                {
+                    "word": "निद्रा",
+                    "reading": "Nid-raa",
+                    "meaning": "Mental stupor/Sleepiness",
+                    "example_sentence": "निद्रा चित्तस्य मोहः। (Sleep is the delusion of mind.)"
+                },
+                {
+                    "word": "विस्मृतिः",
+                    "reading": "Vis-mru-tih",
+                    "meaning": "Oblivion/Forgetting",
+                    "example_sentence": "विस्मृतिः स्मरणस्य अभावः। (Forgetting is the absence of memory.)"
+                },
+                {
+                    "word": "अनुतापः",
+                    "reading": "A-nu-taa-pah",
+                    "meaning": "Remorse/Regret",
+                    "example_sentence": "अनुतापः दोषानन्तरं भवति। (Remorse happens after fault.)"
+                },
+                {
+                    "word": "पश्चात्तापः",
+                    "reading": "Pash-chaat-taa-pah",
+                    "meaning": "Repentance",
+                    "example_sentence": "पश्चात्तापः शुद्धिं करोति। (Repentance brings purification.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "ईर्ष्या",
+                    "reading": "Eer-shyaa",
+                    "meaning": "Envy/Jealousy",
+                    "example_sentence": "ईर्ष्या मनसः रोगः। (Envy is a disease of mind.)"
+                },
+                {
+                    "word": "असूया",
+                    "reading": "A-soo-yaa",
+                    "meaning": "Malice/Finding fault",
+                    "example_sentence": "असूया परदोषदर्शनम्। (Asuya is seeing others' faults.)"
+                },
+                {
+                    "word": "मत्सरः",
+                    "reading": "Mat-sa-rah",
+                    "meaning": "Selfishness/Spite",
+                    "example_sentence": "मत्सरः स्वार्थपरता अस्ति। (Matsara is selfishness.)"
+                },
+                {
+                    "word": "लोभः",
+                    "reading": "Lo-bhah",
+                    "meaning": "Greed/Avarice",
+                    "example_sentence": "लोभः सर्वपापस्य मूलम्। (Greed is the root of all sin.)"
+                },
+                {
+                    "word": "मोहः",
+                    "reading": "Mo-hah",
+                    "meaning": "Delusion/Infatuation",
+                    "example_sentence": "मोहः विवेकं नाशयति। (Delusion destroys discrimination.)"
+                },
+                {
+                    "word": "मदः",
+                    "reading": "Ma-dah",
+                    "meaning": "Pride/Intoxication",
+                    "example_sentence": "मदः पतनस्य कारणम्। (Pride is the cause of downfall.)"
+                },
+                {
+                    "word": "अहङ्कारः",
+                    "reading": "A-han-kaa-rah",
+                    "meaning": "Sense of 'I'/Egotism",
+                    "example_sentence": "अहङ्कारः बन्धनस्य हेतुः। (Egotism is the cause of bondage.)"
+                },
+                {
+                    "word": "द्वेषः",
+                    "reading": "Dve-shah",
+                    "meaning": "Aversion/Hatred",
+                    "example_sentence": "द्वेषः शान्तिं नाशयति। (Hatred destroys peace.)"
+                },
+                {
+                    "word": "रागः",
+                    "reading": "Raa-gah",
+                    "meaning": "Attachment/Passion",
+                    "example_sentence": "रागः दुःखस्य मूलम्। (Attachment is the root of sorrow.)"
+                },
+                {
+                    "word": "विषादः",
+                    "reading": "Vi-shaa-dah",
+                    "meaning": "Despair/Dejection",
+                    "example_sentence": "विषादः उत्साहं हरति। (Despair takes away enthusiasm.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "हर्षः",
+                    "reading": "Har-shah",
+                    "meaning": "Thrilled joy/Exhilaration",
+                    "example_sentence": "हर्षः मनसः उल्लासः। (Harsha is the exhilaration of mind.)"
+                },
+                {
+                    "word": "सन्तोषः",
+                    "reading": "San-to-shah",
+                    "meaning": "Contentment",
+                    "example_sentence": "सन्तोषः परमं धनम्। (Contentment is the greatest wealth.)"
+                },
+                {
+                    "word": "शान्तिः",
+                    "reading": "Shaan-tih",
+                    "meaning": "Inner tranquility",
+                    "example_sentence": "शान्तिः मनसः स्थैर्यम्। (Peace is the steadiness of mind.)"
+                },
+                {
+                    "word": "गाम्भीर्यम्",
+                    "reading": "Gaam-bheer-yam",
+                    "meaning": "Profundity/Depth",
+                    "example_sentence": "गाम्भीर्यं विद्वत्तायाः लक्षणम्। (Profundity is a sign of scholarship.)"
+                },
+                {
+                    "word": "धैर्यम्",
+                    "reading": "Dhai-ryam",
+                    "meaning": "Fortitude/Courage",
+                    "example_sentence": "धैर्यं विपत्तौ आवश्यकम्। (Fortitude is necessary in adversity.)"
+                },
+                {
+                    "word": "वीरता",
+                    "reading": "Vee-ra-taa",
+                    "meaning": "Heroism/Bravery",
+                    "example_sentence": "वीरता युद्धे प्रकाशते। (Heroism shines in battle.)"
+                },
+                {
+                    "word": "कातरता",
+                    "reading": "Kaa-ta-ra-taa",
+                    "meaning": "Cowardice/Timidity",
+                    "example_sentence": "कातरता निन्दनीया अस्ति। (Cowardice is condemnable.)"
+                },
+                {
+                    "word": "लज्जा",
+                    "reading": "Laj-jaa",
+                    "meaning": "Modesty/Shame",
+                    "example_sentence": "लज्जा नारीणां भूषणम्। (Modesty is the ornament of women.)"
+                },
+                {
+                    "word": "विस्मयः",
+                    "reading": "Vis-ma-yah",
+                    "meaning": "Wonder/Amazement",
+                    "example_sentence": "विस्मयः नूतनदर्शने भवति। (Wonder happens on seeing something new.)"
+                },
+                {
+                    "word": "करुणा",
+                    "reading": "Ka-ru-naa",
+                    "meaning": "Empathy/Compassion",
+                    "example_sentence": "करुणा दुःखितेषु भवति। (Compassion arises for the suffering.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "दया",
+                    "reading": "Da-yaa",
+                    "meaning": "Mercy/Pity",
+                    "example_sentence": "दया धर्मस्य मूलम्। (Mercy is the root of righteousness.)"
+                },
+                {
+                    "word": "क्षमा",
+                    "reading": "Ksha-maa",
+                    "meaning": "Patience/Forgiveness",
+                    "example_sentence": "क्षमा वीरस्य भूषणम्। (Forgiveness is the ornament of the brave.)"
+                },
+                {
+                    "word": "उदारता",
+                    "reading": "U-daa-ra-taa",
+                    "meaning": "Generosity/Magnanimity",
+                    "example_sentence": "उदारता महात्मनां लक्षणम्। (Generosity is the mark of great souls.)"
+                },
+                {
+                    "word": "कृतज्ञता",
+                    "reading": "Kru-ta-jnya-taa",
+                    "meaning": "Gratitude",
+                    "example_sentence": "कृतज्ञता उपकारस्मरणम्। (Gratitude is remembering kindness.)"
+                },
+                {
+                    "word": "अकृतज्ञता",
+                    "reading": "A-kru-ta-jnya-taa",
+                    "meaning": "Ingratitude",
+                    "example_sentence": "अकृतज्ञता महापापम्। (Ingratitude is a great sin.)"
+                },
+                {
+                    "word": "सत्यम्",
+                    "reading": "Sat-yam",
+                    "meaning": "Veracity/Truthfulness",
+                    "example_sentence": "सत्यं परमं धर्मः। (Truth is the highest virtue.)"
+                },
+                {
+                    "word": "असत्यम्",
+                    "reading": "A-sat-yam",
+                    "meaning": "Falsehood",
+                    "example_sentence": "असत्यं पापस्य मूलम्। (Falsehood is the root of sin.)"
+                },
+                {
+                    "word": "ऋजुता",
+                    "reading": "Ru-ju-taa",
+                    "meaning": "Straightforwardness",
+                    "example_sentence": "ऋजुता सज्जनस्य गुणः। (Straightforwardness is the quality of good people.)"
+                },
+                {
+                    "word": "कौटिल्यम्",
+                    "reading": "Kau-til-yam",
+                    "meaning": "Deceit/Crookedness",
+                    "example_sentence": "कौटिल्यं दुर्जनस्य चिह्नम्। (Deceit is the sign of wicked people.)"
+                },
+                {
+                    "word": "दम्भः",
+                    "reading": "Dam-bhah",
+                    "meaning": "Hypocrisy",
+                    "example_sentence": "दम्भः मिथ्याचारः अस्ति। (Hypocrisy is false conduct.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "माया",
+                    "reading": "Maa-yaa",
+                    "meaning": "Illusion/Deception",
+                    "example_sentence": "माया जगतः मूलम्। (Maya is the basis of the world.)"
+                },
+                {
+                    "word": "प्रपञ्चः",
+                    "reading": "Pra-pan-chah",
+                    "meaning": "Manifest world/Complication",
+                    "example_sentence": "प्रपञ्चः मायायाः विस्तारः। (The world is the expansion of Maya.)"
+                },
+                {
+                    "word": "भावना",
+                    "reading": "Bhaa-va-naa",
+                    "meaning": "Intention/Feeling",
+                    "example_sentence": "भावना मनसः वृत्तिः। (Feeling is a mode of mind.)"
+                },
+                {
+                    "word": "अन्तःकरणम्",
+                    "reading": "An-tah-ka-ra-nam",
+                    "meaning": "Inner psyche/Mind-organ",
+                    "example_sentence": "अन्तःकरणं चतुर्विधम्। (The inner organ is fourfold.)"
+                },
+                {
+                    "word": "मननम्",
+                    "reading": "Ma-na-nam",
+                    "meaning": "Reflection/Contemplation",
+                    "example_sentence": "मननं श्रवणानन्तरं भवति। (Reflection happens after hearing.)"
+                },
+                {
+                    "word": "निदिध्यासनम्",
+                    "reading": "Ni-di-dhyaa-sa-nam",
+                    "meaning": "Deep meditation",
+                    "example_sentence": "निदिध्यासनं मननानन्तरं भवति। (Deep meditation happens after reflection.)"
+                },
+                {
+                    "word": "चिन्तनम्",
+                    "reading": "Chin-ta-nam",
+                    "meaning": "Deep thinking",
+                    "example_sentence": "चिन्तनं समस्यानिराकरणाय आवश्यकम्। (Thinking is necessary for problem-solving.)"
+                },
+                {
+                    "word": "तर्कः",
+                    "reading": "Tar-kah",
+                    "meaning": "Logic/Reasoning",
+                    "example_sentence": "तर्कः युक्तिः अस्ति। (Logic is reasoning.)"
+                },
+                {
+                    "word": "अनुमानम्",
+                    "reading": "A-nu-maa-nam",
+                    "meaning": "Inference",
+                    "example_sentence": "अनुमानं प्रमाणम् अस्ति। (Inference is a means of knowledge.)"
+                },
+                {
+                    "word": "प्रत्यक्षम्",
+                    "reading": "Prat-yak-sham",
+                    "meaning": "Perception/Evidence",
+                    "example_sentence": "प्रत्यक्षं प्रथमं प्रमाणम्। (Perception is the first means of knowledge.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "आगमः",
+                    "reading": "Aa-ga-mah",
+                    "meaning": "Testimony/Tradition",
+                    "example_sentence": "आगमः शास्त्रप्रमाणम्। (Testimony is scriptural authority.)"
+                },
+                {
+                    "word": "निश्चयः",
+                    "reading": "Nish-cha-yah",
+                    "meaning": "Certainty/Decision",
+                    "example_sentence": "निश्चयः संशयस्य अभावः। (Certainty is the absence of doubt.)"
+                },
+                {
+                    "word": "वासना",
+                    "reading": "Vaa-sa-naa",
+                    "meaning": "Subconscious impression",
+                    "example_sentence": "वासना पूर्वजन्मस्य संस्कारः। (Vasana is the impression from past life.)"
+                },
+                {
+                    "word": "संस्कारः",
+                    "reading": "San-skaa-rah",
+                    "meaning": "Mental conditioning/Habit",
+                    "example_sentence": "संस्कारः कर्मणः फलम्। (Samskara is the result of action.)"
+                },
+                {
+                    "word": "प्रवृत्तिः",
+                    "reading": "Pra-vru-ttih",
+                    "meaning": "Inclination/Activity",
+                    "example_sentence": "प्रवृत्तिः कर्मणि रुचिः। (Pravritti is interest in action.)"
+                },
+                {
+                    "word": "निवृत्तिः",
+                    "reading": "Ni-vru-ttih",
+                    "meaning": "Renunciation/Cessation",
+                    "example_sentence": "निवृत्तिः कर्मणः त्यागः। (Nivritti is renunciation of action.)"
+                },
+                {
+                    "word": "सात्त्विकम्",
+                    "reading": "Saat-tvi-kam",
+                    "meaning": "Pure/Harmonious",
+                    "example_sentence": "सात्त्विकं भोजनं शुद्धम्। (Sattvic food is pure.)"
+                },
+                {
+                    "word": "राजसम्",
+                    "reading": "Raa-ja-sam",
+                    "meaning": "Restless/Passionate",
+                    "example_sentence": "राजसं भोजनं तीक्ष्णम्। (Rajasic food is pungent.)"
+                },
+                {
+                    "word": "तामसम्",
+                    "reading": "Taa-ma-sam",
+                    "meaning": "Dull/Inert",
+                    "example_sentence": "तामसं भोजनं जीर्णम्। (Tamasic food is stale.)"
+                },
+                {
+                    "word": "अहम्भावः",
+                    "reading": "A-ham-bhaa-vah",
+                    "meaning": "Self-conceit",
+                    "example_sentence": "अहम्भावः अहङ्कारः अस्ति। (Ahambhava is egotism.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "ममता",
+                    "reading": "Ma-ma-taa",
+                    "meaning": "Sense of possession/'Mine-ness'",
+                    "example_sentence": "ममता बन्धनस्य कारणम्। (Possessiveness is the cause of bondage.)"
+                },
+                {
+                    "word": "सौहृदम्",
+                    "reading": "Sau-hru-dam",
+                    "meaning": "Deep affection",
+                    "example_sentence": "सौहृदं मित्रेषु भवति। (Deep affection exists among friends.)"
+                },
+                {
+                    "word": "स्नेहः",
+                    "reading": "Sne-hah",
+                    "meaning": "Fondness/Tenderness",
+                    "example_sentence": "स्नेहः प्रेमः अस्ति। (Sneha is love.)"
+                },
+                {
+                    "word": "प्रणयः",
+                    "reading": "Pra-na-yah",
+                    "meaning": "Romantic love/Confidence",
+                    "example_sentence": "प्रणयः प्रियेषु भवति। (Romantic love exists for dear ones.)"
+                },
+                {
+                    "word": "भक्तिः",
+                    "reading": "Bhak-tih",
+                    "meaning": "Reverential devotion",
+                    "example_sentence": "भक्तिः देवे श्रद्धा। (Devotion is faith in God.)"
+                },
+                {
+                    "word": "भयम्",
+                    "reading": "Bha-yam",
+                    "meaning": "Dread/Fear",
+                    "example_sentence": "भयं मनसः कम्पनम्। (Fear is the trembling of mind.)"
+                },
+                {
+                    "word": "निर्भयता",
+                    "reading": "Nir-bha-ya-taa",
+                    "meaning": "Fearlessness",
+                    "example_sentence": "निर्भयता वीरस्य गुणः। (Fearlessness is the quality of the brave.)"
+                },
+                {
+                    "word": "उद्वेगः",
+                    "reading": "Ud-ve-gah",
+                    "meaning": "Anxiety/Agitation",
+                    "example_sentence": "उद्वेगः मनसः क्षोभः। (Anxiety is mental disturbance.)"
+                },
+                {
+                    "word": "शोकः",
+                    "reading": "Sho-kah",
+                    "meaning": "Grief/Mourning",
+                    "example_sentence": "शोकः दुःखस्य तीव्रता। (Grief is intense sorrow.)"
+                },
+                {
+                    "word": "अमर्षः",
+                    "reading": "A-mar-shah",
+                    "meaning": "Impatience/Wrath",
+                    "example_sentence": "अमर्षः क्रोधः अस्ति। (Amarsha is anger.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "क्षोभः",
+                    "reading": "Kshob-hah",
+                    "meaning": "Commotion/Disturbance",
+                    "example_sentence": "क्षोभः मनसः अशान्तिः। (Kshobha is mental unrest.)"
+                },
+                {
+                    "word": "परितोषः",
+                    "reading": "Pa-ri-to-shah",
+                    "meaning": "Complete satisfaction",
+                    "example_sentence": "परितोषः पूर्णसन्तोषः। (Paritosha is complete contentment.)"
+                },
+                {
+                    "word": "प्रमोदः",
+                    "reading": "Pra-mo-dah",
+                    "meaning": "Delight",
+                    "example_sentence": "प्रमोदः आनन्दः अस्ति। (Pramoda is joy.)"
+                },
+                {
+                    "word": "आमोदः",
+                    "reading": "Aa-mo-dah",
+                    "meaning": "Fragrance/Joy",
+                    "example_sentence": "आमोदः सुगन्धः अस्ति। (Amoda is fragrance.)"
+                },
+                {
+                    "word": "कौतुकम्",
+                    "reading": "Kau-tu-kam",
+                    "meaning": "Eagerness/Curiosity",
+                    "example_sentence": "कौतुकं जिज्ञासा अस्ति। (Kautuka is curiosity.)"
+                },
+                {
+                    "word": "कुतूहलम्",
+                    "reading": "Ku-too-ha-lam",
+                    "meaning": "Interest/Surprise",
+                    "example_sentence": "कुतूहलं विस्मयः अस्ति। (Kutuhal is wonder.)"
+                },
+                {
+                    "word": "चपलता",
+                    "reading": "Cha-pa-la-taa",
+                    "meaning": "Fickleness",
+                    "example_sentence": "चपलता अस्थिरता अस्ति। (Fickleness is instability.)"
+                },
+                {
+                    "word": "स्थैर्यम्",
+                    "reading": "St-hai-ryam",
+                    "meaning": "Steadfastness",
+                    "example_sentence": "स्थैर्यं स्थिरता अस्ति। (Steadfastness is stability.)"
+                },
+                {
+                    "word": "अनास्था",
+                    "reading": "A-naas-thaa",
+                    "meaning": "Indifference/Lack of faith",
+                    "example_sentence": "अनास्था श्रद्धायाः अभावः। (Indifference is the absence of faith.)"
+                },
+                {
+                    "word": "आग्रहः",
+                    "reading": "Aa-gra-hah",
+                    "meaning": "Insistence/Persistence",
+                    "example_sentence": "आग्रहः दृढता अस्ति। (Insistence is firmness.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "सहनशीलता",
+                    "reading": "Sa-ha-na-shee-la-taa",
+                    "meaning": "Tolerance",
+                    "example_sentence": "सहनशीलता सहिष्णुता अस्ति। (Tolerance is forbearance.)"
+                },
+                {
+                    "word": "मृदुता",
+                    "reading": "Mru-du-taa",
+                    "meaning": "Gentleness/Mildness",
+                    "example_sentence": "मृदुता कोमलता अस्ति। (Gentleness is softness.)"
+                },
+                {
+                    "word": "काठिन्यम्",
+                    "reading": "Kaa-thin-yam",
+                    "meaning": "Hardness/Severity",
+                    "example_sentence": "काठिन्यं कठोरता अस्ति। (Hardness is rigidity.)"
+                },
+                {
+                    "word": "चातुर्यम्",
+                    "reading": "Chaa-tur-yam",
+                    "meaning": "Cleverness/Skill",
+                    "example_sentence": "चातुर्यं कौशलम् अस्ति। (Cleverness is skill.)"
+                },
+                {
+                    "word": "मूर्खता",
+                    "reading": "Moor-kha-taa",
+                    "meaning": "Stupidity",
+                    "example_sentence": "मूर्खता अज्ञानम् अस्ति। (Stupidity is ignorance.)"
+                },
+                {
+                    "word": "पाण्डित्यम्",
+                    "reading": "Paan-dit-yam",
+                    "meaning": "Scholarship",
+                    "example_sentence": "पाण्डित्यं विद्वत्ता अस्ति। (Scholarship is erudition.)"
+                },
+                {
+                    "word": "अनुग्रहः",
+                    "reading": "A-nu-gra-hah",
+                    "meaning": "Grace/Kindness",
+                    "example_sentence": "अनुग्रहः कृपा अस्ति। (Grace is mercy.)"
+                },
+                {
+                    "word": "निग्रहः",
+                    "reading": "Ni-gra-hah",
+                    "meaning": "Restraint/Control",
+                    "example_sentence": "निग्रहः नियन्त्रणम् अस्ति। (Restraint is control.)"
+                },
+                {
+                    "word": "सङ्कोचः",
+                    "reading": "San-ko-chah",
+                    "meaning": "Hesitation/Contraction",
+                    "example_sentence": "सङ्कोचः संकुचनम् अस्ति। (Hesitation is shrinking.)"
+                },
+                {
+                    "word": "धिक्कारः",
+                    "reading": "Dhik-kaa-rah",
+                    "meaning": "Scorn/Reproach",
+                    "example_sentence": "धिक्कारः निन्दा अस्ति। (Scorn is condemnation.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Sanskrit Desiderative Formation Trap",
+        "question": "What does 'मुमुक्षुत्वम्' (mumukShutva) mean?",
+        "options": [
+            "Longing for liberation",
+            "Desire to die",
+            "Desire to kill",
+            "Longing for knowledge"
+        ],
+        "correct_answer_index": 0,
+        "explanation": "मुमुक्षुत्वम् (mumukShutva) means 'longing for liberation' and comes from the desiderative form of the root मुच् (muc - to liberate). The desiderative मुमुक्षु (mumukShu) means 'one who desires liberation', and adding -त्व (-tva) makes it an abstract noun meaning 'the quality of desiring liberation'. This is a trap because learners might confuse it with मुमूर्षु (mumoorShu - desiring to die) from the root मृ (mR - to die). Both use similar desiderative reduplication patterns, but the roots are different: मुच् vs मृ. This teaches the importance of correctly identifying the root verb before analyzing desiderative forms!"
+    }
+}

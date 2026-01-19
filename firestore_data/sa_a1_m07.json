@@ -1,0 +1,672 @@
+{
+    "moduleId": "sa_a1_m07",
+    "theme": "Numbers & Quantities",
+    "title": "Numbers & Quantities",
+    "level": "a1",
+    "language": "sanskrit",
+    "order": 7,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "एकादश",
+                    "reading": "E-kaa-da-sha",
+                    "meaning": "Eleven",
+                    "example_sentence": "एकादश छात्राः कक्षायां सन्ति। (Eleven students are in the classroom.)"
+                },
+                {
+                    "word": "द्वादश",
+                    "reading": "Dvaa-da-sha",
+                    "meaning": "Twelve",
+                    "example_sentence": "वर्षे द्वादश मासाः भवन्ति। (There are twelve months in a year.)"
+                },
+                {
+                    "word": "त्रयोदश",
+                    "reading": "Tra-yo-da-sha",
+                    "meaning": "Thirteen",
+                    "example_sentence": "त्रयोदश पुस्तकानि अत्र सन्ति। (Thirteen books are here.)"
+                },
+                {
+                    "word": "चतुर्दश",
+                    "reading": "Cha-tur-da-sha",
+                    "meaning": "Fourteen",
+                    "example_sentence": "चतुर्दश दिनाः द्वे सप्ताहे। (Fourteen days are in two weeks.)"
+                },
+                {
+                    "word": "पञ्चदश",
+                    "reading": "Pan-cha-da-sha",
+                    "meaning": "Fifteen",
+                    "example_sentence": "पञ्चदश बालकाः क्रीडन्ति। (Fifteen boys are playing.)"
+                },
+                {
+                    "word": "षोडश",
+                    "reading": "Sho-da-sha",
+                    "meaning": "Sixteen",
+                    "example_sentence": "षोडश वर्षाणि तस्य आयुः। (His age is sixteen years.)"
+                },
+                {
+                    "word": "सप्तदश",
+                    "reading": "Sap-ta-da-sha",
+                    "meaning": "Seventeen",
+                    "example_sentence": "सप्तदश फलानि क्रीतानि। (Seventeen fruits were bought.)"
+                },
+                {
+                    "word": "अष्टादश",
+                    "reading": "Ash-taa-da-sha",
+                    "meaning": "Eighteen",
+                    "example_sentence": "अष्टादश अध्यायाः पुस्तके सन्ति। (There are eighteen chapters in the book.)"
+                },
+                {
+                    "word": "नवदश",
+                    "reading": "Na-va-da-sha",
+                    "meaning": "Nineteen",
+                    "example_sentence": "नवदश जनाः सभायां आगताः। (Nineteen people came to the meeting.)"
+                },
+                {
+                    "word": "विंशतिः",
+                    "reading": "Vin-sha-tih",
+                    "meaning": "Twenty",
+                    "example_sentence": "विंशतिः अङ्गुलयः हस्तपादयोः। (Twenty fingers on hands and feet.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "एकविंशतिः",
+                    "reading": "E-ka-vin-sha-tih",
+                    "meaning": "Twenty-one",
+                    "example_sentence": "एकविंशतिः दिनाः मासे। (Twenty-one days in a month.)"
+                },
+                {
+                    "word": "द्वाविंशतिः",
+                    "reading": "Dvaa-vin-sha-tih",
+                    "meaning": "Twenty-two",
+                    "example_sentence": "द्वाविंशतिः पृष्ठानि पत्रे। (Twenty-two pages in the letter.)"
+                },
+                {
+                    "word": "त्रयोविंशतिः",
+                    "reading": "Tra-yo-vin-sha-tih",
+                    "meaning": "Twenty-three",
+                    "example_sentence": "त्रयोविंशतिः घटिकाः अतीताः। (Twenty-three hours have passed.)"
+                },
+                {
+                    "word": "चतुर्विंशतिः",
+                    "reading": "Cha-tur-vin-sha-tih",
+                    "meaning": "Twenty-four",
+                    "example_sentence": "चतुर्विंशतिः घटिकाः दिने। (Twenty-four hours in a day.)"
+                },
+                {
+                    "word": "पञ्चविंशतिः",
+                    "reading": "Pan-cha-vin-sha-tih",
+                    "meaning": "Twenty-five",
+                    "example_sentence": "पञ्चविंशतिः रूप्यकाणि मूल्यम्। (The price is twenty-five rupees.)"
+                },
+                {
+                    "word": "षड्विंशतिः",
+                    "reading": "Shad-vin-sha-tih",
+                    "meaning": "Twenty-six",
+                    "example_sentence": "षड्विंशतिः अक्षराणि वर्णमालायाम्। (Twenty-six letters in the alphabet.)"
+                },
+                {
+                    "word": "सप्तविंशतिः",
+                    "reading": "Sap-ta-vin-sha-tih",
+                    "meaning": "Twenty-seven",
+                    "example_sentence": "सप्तविंशतिः छात्राः परीक्षायां उत्तीर्णाः। (Twenty-seven students passed the exam.)"
+                },
+                {
+                    "word": "अष्टाविंशतिः",
+                    "reading": "Ash-taa-vin-sha-tih",
+                    "meaning": "Twenty-eight",
+                    "example_sentence": "अष्टाविंशतिः दिनाः फाल्गुनमासे। (Twenty-eight days in February month.)"
+                },
+                {
+                    "word": "नवविंशतिः",
+                    "reading": "Na-va-vin-sha-tih",
+                    "meaning": "Twenty-nine",
+                    "example_sentence": "नवविंशतिः वृक्षाः उद्याने। (Twenty-nine trees in the garden.)"
+                },
+                {
+                    "word": "त्रिंशत्",
+                    "reading": "Trin-shat",
+                    "meaning": "Thirty",
+                    "example_sentence": "त्रिंशत् दिनाः मासे। (Thirty days in a month.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "एकत्रिंशत्",
+                    "reading": "E-ka-trin-shat",
+                    "meaning": "Thirty-one",
+                    "example_sentence": "एकत्रिंशत् दिनाः जनवरीमासे। (Thirty-one days in January.)"
+                },
+                {
+                    "word": "द्वात्रिंशत्",
+                    "reading": "Dvaa-trin-shat",
+                    "meaning": "Thirty-two",
+                    "example_sentence": "द्वात्रिंशत् दन्ताः मुखे। (Thirty-two teeth in the mouth.)"
+                },
+                {
+                    "word": "त्रयस्त्रिंशत्",
+                    "reading": "Tra-yas-trin-shat",
+                    "meaning": "Thirty-three",
+                    "example_sentence": "त्रयस्त्रिंशत् देवाः स्वर्गे। (Thirty-three gods in heaven.)"
+                },
+                {
+                    "word": "चतुस्त्रिंशत्",
+                    "reading": "Cha-tus-trin-shat",
+                    "meaning": "Thirty-four",
+                    "example_sentence": "चतुस्त्रिंशत् जनाः समूहे। (Thirty-four people in the group.)"
+                },
+                {
+                    "word": "पञ्चत्रिंशत्",
+                    "reading": "Pan-cha-trin-shat",
+                    "meaning": "Thirty-five",
+                    "example_sentence": "पञ्चत्रिंशत् वर्षाणि तस्य आयुः। (His age is thirty-five years.)"
+                },
+                {
+                    "word": "षट्त्रिंशत्",
+                    "reading": "Shat-trin-shat",
+                    "meaning": "Thirty-six",
+                    "example_sentence": "षट्त्रिंशत् गुणकाः षट् संख्यायाः। (Thirty-six is six times six.)"
+                },
+                {
+                    "word": "सप्तत्रिंशत्",
+                    "reading": "Sap-ta-trin-shat",
+                    "meaning": "Thirty-seven",
+                    "example_sentence": "सप्तत्रिंशत् पुस्तकानि पुस्तकालये। (Thirty-seven books in the library.)"
+                },
+                {
+                    "word": "अष्टात्रिंशत्",
+                    "reading": "Ash-taa-trin-shat",
+                    "meaning": "Thirty-eight",
+                    "example_sentence": "अष्टात्रिंशत् डिग्री उष्णता। (Thirty-eight degrees temperature.)"
+                },
+                {
+                    "word": "नवत्रिंशत्",
+                    "reading": "Na-va-trin-shat",
+                    "meaning": "Thirty-nine",
+                    "example_sentence": "नवत्रिंशत् प्रश्नाः परीक्षायाम्। (Thirty-nine questions in the exam.)"
+                },
+                {
+                    "word": "चत्वारिंशत्",
+                    "reading": "Chat-vaa-rin-shat",
+                    "meaning": "Forty",
+                    "example_sentence": "चत्वारिंशत् दिनाः चातुर्मास्ये। (Forty days in the monsoon period.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "एकचत्वारिंशत्",
+                    "reading": "E-ka-chat-vaa-rin-shat",
+                    "meaning": "Forty-one",
+                    "example_sentence": "एकचत्वारिंशत् वर्षाणि सेवायाम्। (Forty-one years in service.)"
+                },
+                {
+                    "word": "द्वाचत्वारिंशत्",
+                    "reading": "Dvaa-chat-vaa-rin-shat",
+                    "meaning": "Forty-two",
+                    "example_sentence": "द्वाचत्वारिंशत् किलोमीटर् दूरम्। (Forty-two kilometers distance.)"
+                },
+                {
+                    "word": "त्रिचत्वारिंशत्",
+                    "reading": "Tri-chat-vaa-rin-shat",
+                    "meaning": "Forty-three",
+                    "example_sentence": "त्रिचत्वारिंशत् छात्राः विद्यालये। (Forty-three students in school.)"
+                },
+                {
+                    "word": "चतुश्चत्वारिंशत्",
+                    "reading": "Cha-tush-chat-vaa-rin-shat",
+                    "meaning": "Forty-four (Trap Word)",
+                    "example_sentence": "चतुश्चत्वारिंशत् वर्षाणि गतानि। (Forty-four years have passed.) [LIAR GAME TRAP]"
+                },
+                {
+                    "word": "पञ्चचत्वारिंशत्",
+                    "reading": "Pan-cha-chat-vaa-rin-shat",
+                    "meaning": "Forty-five",
+                    "example_sentence": "पञ्चचत्वारिंशत् मिनटानि शेषाणि। (Forty-five minutes remaining.)"
+                },
+                {
+                    "word": "षट्चत्वारिंशत्",
+                    "reading": "Shat-chat-vaa-rin-shat",
+                    "meaning": "Forty-six",
+                    "example_sentence": "षट्चत्वारिंशत् अध्यायाः ग्रन्थे। (Forty-six chapters in the book.)"
+                },
+                {
+                    "word": "सप्तचत्वारिंशत्",
+                    "reading": "Sap-ta-chat-vaa-rin-shat",
+                    "meaning": "Forty-seven",
+                    "example_sentence": "सप्तचत्वारिंशत् देशाः महाद्वीपे। (Forty-seven countries in the continent.)"
+                },
+                {
+                    "word": "अष्टचत्वारिंशत्",
+                    "reading": "Ash-ta-chat-vaa-rin-shat",
+                    "meaning": "Forty-eight",
+                    "example_sentence": "अष्टचत्वारिंशत् घटिकाः द्वयोः दिनयोः। (Forty-eight hours in two days.)"
+                },
+                {
+                    "word": "नवचत्वारिंशत्",
+                    "reading": "Na-va-chat-vaa-rin-shat",
+                    "meaning": "Forty-nine",
+                    "example_sentence": "नवचत्वारिंशत् सप्ताहाः वर्षे। (Forty-nine weeks in a year.)"
+                },
+                {
+                    "word": "पञ्चाशत्",
+                    "reading": "Pan-chaa-shat",
+                    "meaning": "Fifty",
+                    "example_sentence": "पञ्चाशत् वर्षाणि अर्धशतकम्। (Fifty years is half a century.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "शतम्",
+                    "reading": "Sha-tam",
+                    "meaning": "Hundred",
+                    "example_sentence": "शतं वर्षाणि शतकम्। (Hundred years is a century.)"
+                },
+                {
+                    "word": "सहस्रम्",
+                    "reading": "Sa-has-ram",
+                    "meaning": "Thousand",
+                    "example_sentence": "सहस्रं रूप्यकाणि मूल्यम्। (The price is thousand rupees.)"
+                },
+                {
+                    "word": "लक्षम्",
+                    "reading": "Lak-sham",
+                    "meaning": "Hundred thousand",
+                    "example_sentence": "लक्षं जनाः नगरे वसन्ति। (One lakh people live in the city.)"
+                },
+                {
+                    "word": "कोटिः",
+                    "reading": "Ko-tih",
+                    "meaning": "Ten million/Crore",
+                    "example_sentence": "कोटिः रूप्यकाणि व्ययः। (The expense is one crore rupees.)"
+                },
+                {
+                    "word": "अर्बुदम्",
+                    "reading": "Ar-bu-dam",
+                    "meaning": "Hundred million",
+                    "example_sentence": "अर्बुदं तारकाः आकाशे। (Hundred million stars in the sky.)"
+                },
+                {
+                    "word": "प्रथमः",
+                    "reading": "Pra-tha-mah",
+                    "meaning": "First",
+                    "example_sentence": "सः प्रथमः स्थाने आगतः। (He came in first place.)"
+                },
+                {
+                    "word": "द्वितीयः",
+                    "reading": "Dvi-tee-yah",
+                    "meaning": "Second",
+                    "example_sentence": "द्वितीयः अध्यायः रोचकः। (The second chapter is interesting.)"
+                },
+                {
+                    "word": "तृतीयः",
+                    "reading": "Tru-tee-yah",
+                    "meaning": "Third",
+                    "example_sentence": "तृतीयः पुत्रः बुद्धिमान्। (The third son is intelligent.)"
+                },
+                {
+                    "word": "चतुर्थः",
+                    "reading": "Cha-tur-thah",
+                    "meaning": "Fourth",
+                    "example_sentence": "चतुर्थः दिनः गुरुवासरः। (The fourth day is Thursday.)"
+                },
+                {
+                    "word": "पञ्चमः",
+                    "reading": "Pan-cha-mah",
+                    "meaning": "Fifth",
+                    "example_sentence": "पञ्चमः मासः मई। (The fifth month is May.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "षष्ठः",
+                    "reading": "Shash-thah",
+                    "meaning": "Sixth",
+                    "example_sentence": "षष्ठः कक्षायां पठति। (He studies in sixth class.)"
+                },
+                {
+                    "word": "सप्तमः",
+                    "reading": "Sap-ta-mah",
+                    "meaning": "Seventh",
+                    "example_sentence": "सप्तमः दिनः शनिवासरः। (The seventh day is Saturday.)"
+                },
+                {
+                    "word": "अष्टमः",
+                    "reading": "Ash-ta-mah",
+                    "meaning": "Eighth",
+                    "example_sentence": "अष्टमः अध्यायः कठिनः। (The eighth chapter is difficult.)"
+                },
+                {
+                    "word": "नवमः",
+                    "reading": "Na-va-mah",
+                    "meaning": "Ninth",
+                    "example_sentence": "नवमः मासः सितम्बरः। (The ninth month is September.)"
+                },
+                {
+                    "word": "दशमः",
+                    "reading": "Da-sha-mah",
+                    "meaning": "Tenth",
+                    "example_sentence": "दशमः कक्षायां परीक्षा। (Exam in tenth class.)"
+                },
+                {
+                    "word": "अर्धम्",
+                    "reading": "Ar-dham",
+                    "meaning": "Half",
+                    "example_sentence": "अर्धं फलं खाद। (Eat half the fruit.)"
+                },
+                {
+                    "word": "पादम्",
+                    "reading": "Paa-dam",
+                    "meaning": "Quarter/One-fourth",
+                    "example_sentence": "पादं घटिकायाः पञ्चदश मिनटानि। (Quarter of an hour is fifteen minutes.)"
+                },
+                {
+                    "word": "त्रिपादम्",
+                    "reading": "Tri-paa-dam",
+                    "meaning": "Three-quarters",
+                    "example_sentence": "त्रिपादं कार्यं समाप्तम्। (Three-quarters of the work is complete.)"
+                },
+                {
+                    "word": "पूर्णम्",
+                    "reading": "Poor-nam",
+                    "meaning": "Full/Complete",
+                    "example_sentence": "पूर्णं पात्रं जलेन। (The vessel is full with water.)"
+                },
+                {
+                    "word": "शून्यम्",
+                    "reading": "Shoon-yam",
+                    "meaning": "Zero/Empty",
+                    "example_sentence": "शून्यं अङ्कः महत्त्वपूर्णः। (Zero is an important digit.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "भिन्नम्",
+                    "reading": "Bhin-nam",
+                    "meaning": "Fraction",
+                    "example_sentence": "भिन्नं गणिते उपयोगी। (Fractions are useful in mathematics.)"
+                },
+                {
+                    "word": "गणकः",
+                    "reading": "Ga-na-kah",
+                    "meaning": "Calculator",
+                    "example_sentence": "गणकेन गणनां कुर्मः। (We do calculation with a calculator.)"
+                },
+                {
+                    "word": "सङ्ख्या",
+                    "reading": "San-khyaa",
+                    "meaning": "Number/Count",
+                    "example_sentence": "सङ्ख्या गणितस्य आधारः। (Number is the foundation of mathematics.)"
+                },
+                {
+                    "word": "अङ्कः",
+                    "reading": "An-kah",
+                    "meaning": "Digit/Numeral",
+                    "example_sentence": "दश अङ्काः सन्ति। (There are ten digits.)"
+                },
+                {
+                    "word": "परिमाणम्",
+                    "reading": "Pa-ri-maa-nam",
+                    "meaning": "Measurement/Quantity",
+                    "example_sentence": "परिमाणं ज्ञातव्यम्। (The measurement should be known.)"
+                },
+                {
+                    "word": "दीर्घता",
+                    "reading": "Deer-gha-taa",
+                    "meaning": "Length",
+                    "example_sentence": "मार्गस्य दीर्घता दश किलोमीटर्। (The length of the road is ten kilometers.)"
+                },
+                {
+                    "word": "विस्तारः",
+                    "reading": "Vis-taa-rah",
+                    "meaning": "Width/Breadth",
+                    "example_sentence": "कक्षायाः विस्तारः पञ्च मीटर्। (The width of the room is five meters.)"
+                },
+                {
+                    "word": "उच्छ्रायः",
+                    "reading": "Uch-chraay-ah",
+                    "meaning": "Height",
+                    "example_sentence": "पर्वतस्य उच्छ्रायः महान्। (The height of the mountain is great.)"
+                },
+                {
+                    "word": "भारः",
+                    "reading": "Bhaa-rah",
+                    "meaning": "Weight",
+                    "example_sentence": "पुस्तकस्य भारः एकं किलोग्राम्। (The weight of the book is one kilogram.)"
+                },
+                {
+                    "word": "क्षेत्रफलम्",
+                    "reading": "Kshet-ra-pha-lam",
+                    "meaning": "Area",
+                    "example_sentence": "क्षेत्रफलं गणय। (Calculate the area.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "आयतनम्",
+                    "reading": "Aa-ya-ta-nam",
+                    "meaning": "Volume",
+                    "example_sentence": "घनस्य आयतनं गणय। (Calculate the volume of the cube.)"
+                },
+                {
+                    "word": "कोणः",
+                    "reading": "Ko-nah",
+                    "meaning": "Angle/Corner",
+                    "example_sentence": "समकोणः नब्बे डिग्री। (A right angle is ninety degrees.)"
+                },
+                {
+                    "word": "वृत्तम्",
+                    "reading": "Vrut-tam",
+                    "meaning": "Circle",
+                    "example_sentence": "वृत्तं गोलाकारम्। (A circle is round.)"
+                },
+                {
+                    "word": "त्रिभुजम्",
+                    "reading": "Tri-bhu-jam",
+                    "meaning": "Triangle",
+                    "example_sentence": "त्रिभुजस्य त्रयः कोणाः। (A triangle has three angles.)"
+                },
+                {
+                    "word": "चतुरस्रम्",
+                    "reading": "Cha-tu-ras-ram",
+                    "meaning": "Square",
+                    "example_sentence": "चतुरस्रस्य चत्वारः समाः भुजाः। (A square has four equal sides.)"
+                },
+                {
+                    "word": "रेखा",
+                    "reading": "Re-khaa",
+                    "meaning": "Line",
+                    "example_sentence": "रेखां रच। (Draw a line.)"
+                },
+                {
+                    "word": "बिन्दुः",
+                    "reading": "Bin-duh",
+                    "meaning": "Point/Dot",
+                    "example_sentence": "बिन्दुः स्थानं दर्शयति। (A point shows a location.)"
+                },
+                {
+                    "word": "समः",
+                    "reading": "Sa-mah",
+                    "meaning": "Equal/Same",
+                    "example_sentence": "द्वे भागे समे स्तः। (The two parts are equal.)"
+                },
+                {
+                    "word": "अधिकम्",
+                    "reading": "A-dhi-kam",
+                    "meaning": "More/Greater",
+                    "example_sentence": "अधिकं धनं आवश्यकम्। (More money is needed.)"
+                },
+                {
+                    "word": "न्यूनम्",
+                    "reading": "Nyoo-nam",
+                    "meaning": "Less/Fewer",
+                    "example_sentence": "न्यूनं व्ययं कुरु। (Spend less.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "अल्पम्",
+                    "reading": "Al-pam",
+                    "meaning": "Little/Small amount",
+                    "example_sentence": "अल्पं जलं पर्याप्तम्। (A little water is enough.)"
+                },
+                {
+                    "word": "बहु",
+                    "reading": "Ba-hu",
+                    "meaning": "Many/Much",
+                    "example_sentence": "बहु कार्यं शेषम्। (Much work remains.)"
+                },
+                {
+                    "word": "केचित्",
+                    "reading": "Ke-chit",
+                    "meaning": "Some/Few",
+                    "example_sentence": "केचित् जनाः आगताः। (Some people came.)"
+                },
+                {
+                    "word": "सर्वम्",
+                    "reading": "Sar-vam",
+                    "meaning": "All/Everything",
+                    "example_sentence": "सर्वं ज्ञातम्। (Everything is known.)"
+                },
+                {
+                    "word": "प्रत्येकम्",
+                    "reading": "Prat-ye-kam",
+                    "meaning": "Each/Every",
+                    "example_sentence": "प्रत्येकं बालकं पुस्तकं देहि। (Give a book to each child.)"
+                },
+                {
+                    "word": "गुणनम्",
+                    "reading": "Gu-na-nam",
+                    "meaning": "Multiplication",
+                    "example_sentence": "गुणनं गणितस्य क्रिया। (Multiplication is a mathematical operation.)"
+                },
+                {
+                    "word": "भाजनम्",
+                    "reading": "Bhaa-ja-nam",
+                    "meaning": "Division",
+                    "example_sentence": "भाजनेन भागं कुर्मः। (We divide by division.)"
+                },
+                {
+                    "word": "योगः",
+                    "reading": "Yo-gah",
+                    "meaning": "Addition/Sum",
+                    "example_sentence": "योगः द्वयोः सङ्ख्ययोः। (Addition of two numbers.)"
+                },
+                {
+                    "word": "व्यवकलनम्",
+                    "reading": "Vya-va-ka-la-nam",
+                    "meaning": "Subtraction",
+                    "example_sentence": "व्यवकलनं न्यूनीकरणम्। (Subtraction is reduction.)"
+                },
+                {
+                    "word": "प्रतिशतम्",
+                    "reading": "Pra-ti-sha-tam",
+                    "meaning": "Percent/Percentage",
+                    "example_sentence": "पञ्चाशत् प्रतिशतं अर्धम्। (Fifty percent is half.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "द्विगुणम्",
+                    "reading": "Dvi-gu-nam",
+                    "meaning": "Double/Twice",
+                    "example_sentence": "द्विगुणं मूल्यं वृद्धम्। (The price doubled.)"
+                },
+                {
+                    "word": "त्रिगुणम्",
+                    "reading": "Tri-gu-nam",
+                    "meaning": "Triple/Thrice",
+                    "example_sentence": "त्रिगुणं परिश्रमं कुरु। (Work three times harder.)"
+                },
+                {
+                    "word": "युग्मम्",
+                    "reading": "Yug-mam",
+                    "meaning": "Pair/Couple",
+                    "example_sentence": "युग्मं जूतानाम्। (A pair of shoes.)"
+                },
+                {
+                    "word": "एकैकम्",
+                    "reading": "E-kai-kam",
+                    "meaning": "One by one",
+                    "example_sentence": "एकैकं फलं गृहाण। (Take one fruit each.)"
+                },
+                {
+                    "word": "द्वयम्",
+                    "reading": "Dva-yam",
+                    "meaning": "Two/Pair",
+                    "example_sentence": "द्वयं पुस्तके क्रीते। (Two books were bought.)"
+                },
+                {
+                    "word": "त्रयम्",
+                    "reading": "Tra-yam",
+                    "meaning": "Three/Trio",
+                    "example_sentence": "त्रयं मित्राणि सन्ति। (There are three friends.)"
+                },
+                {
+                    "word": "चतुष्टयम्",
+                    "reading": "Cha-tush-ta-yam",
+                    "meaning": "Quartet/Set of four",
+                    "example_sentence": "चतुष्टयं वेदानाम्। (The quartet of Vedas.)"
+                },
+                {
+                    "word": "पञ्चकम्",
+                    "reading": "Pan-cha-kam",
+                    "meaning": "Set of five",
+                    "example_sentence": "पञ्चकं तत्त्वानाम्। (The set of five elements.)"
+                },
+                {
+                    "word": "दशकम्",
+                    "reading": "Da-sha-kam",
+                    "meaning": "Decade/Set of ten",
+                    "example_sentence": "दशकं वर्षाणि गतानि। (A decade has passed.)"
+                },
+                {
+                    "word": "शतकम्",
+                    "reading": "Sha-ta-kam",
+                    "meaning": "Century/Hundred",
+                    "example_sentence": "शतकं क्रिकेट्खेले। (A century in cricket.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Sanskrit Number Formation Trap",
+        "question": "What is the correct Sanskrit word for 'forty-four'?",
+        "options": [
+            "चतुश्चत्वारिंशत् (chatush-chatvaarinShat)",
+            "चतुर्चत्वारिंशत् (chatur-chatvaarinShat)",
+            "चत्वारिंशच्चत्वारि (chatvaarinShach-chatvaari)",
+            "चतुःचत्वारिंशत् (chatuh-chatvaarinShat)"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "While चतुश्चत्वारिंशत् looks plausible, the correct classical Sanskrit form is चतुर्चत्वारिंशत् (chatur-chatvaarinShat). The sandhi rule here requires चतुर् (chatur, four) to combine with चत्वारिंशत् (forty), not चतुश्. This trap teaches learners about proper sandhi (euphonic combination) rules in Sanskrit number formation. The form चतुश् appears before certain consonants, but before च (cha), the correct form is चतुर्!"
+    }
+}

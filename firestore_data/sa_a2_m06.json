@@ -1,0 +1,672 @@
+{
+    "moduleId": "sa_a2_m06",
+    "theme": "Advanced Nature & Astronomy",
+    "title": "Advanced Nature & Astronomy",
+    "level": "a2",
+    "language": "sanskrit",
+    "order": 6,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "ब्रह्माण्डम्",
+                    "reading": "Brah-maan-dam",
+                    "meaning": "Universe/Cosmos",
+                    "example_sentence": "ब्रह्माण्डं विशालम् अस्ति। (The universe is vast.)"
+                },
+                {
+                    "word": "खगोलशास्त्रम्",
+                    "reading": "Kha-go-la-shaas-tram",
+                    "meaning": "Astronomy",
+                    "example_sentence": "खगोलशास्त्रं नक्षत्रविज्ञानम्। (Astronomy is the science of stars.)"
+                },
+                {
+                    "word": "छायापथः",
+                    "reading": "Chaa-yaa-pa-thah",
+                    "meaning": "Galaxy/Milky Way (Trap Word)",
+                    "example_sentence": "छायापथः आकाशगङ्गा अस्ति। (The Milky Way is the galaxy.) [LIAR GAME TRAP]"
+                },
+                {
+                    "word": "ग्रहनक्षत्रम्",
+                    "reading": "Gra-ha-nak-shat-ram",
+                    "meaning": "Planetary star/Planet",
+                    "example_sentence": "ग्रहनक्षत्राणि सूर्यं परितः भ्रमन्ति। (Planets revolve around the sun.)"
+                },
+                {
+                    "word": "धूमकेतुः",
+                    "reading": "Dhoo-ma-ke-tuh",
+                    "meaning": "Comet",
+                    "example_sentence": "धूमकेतुः दीर्घपुच्छः अस्ति। (A comet has a long tail.)"
+                },
+                {
+                    "word": "उल्का",
+                    "reading": "Ul-kaa",
+                    "meaning": "Meteor/Shooting star",
+                    "example_sentence": "उल्का आकाशे पतति। (A meteor falls in the sky.)"
+                },
+                {
+                    "word": "राहुः",
+                    "reading": "Raa-huh",
+                    "meaning": "Ascending node/Eclipse demon",
+                    "example_sentence": "राहुः ग्रहणस्य कारणम्। (Rahu is the cause of eclipse.)"
+                },
+                {
+                    "word": "केतुः",
+                    "reading": "Ke-tuh",
+                    "meaning": "Descending node",
+                    "example_sentence": "केतुः राहोः सहोदरः। (Ketu is Rahu's sibling.)"
+                },
+                {
+                    "word": "राशिः",
+                    "reading": "Raa-shih",
+                    "meaning": "Zodiac sign",
+                    "example_sentence": "राशयः द्वादश सन्ति। (There are twelve zodiac signs.)"
+                },
+                {
+                    "word": "मेषः",
+                    "reading": "Me-shah",
+                    "meaning": "Aries",
+                    "example_sentence": "मेषः प्रथमः राशिः। (Aries is the first zodiac sign.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "वृषभः",
+                    "reading": "Vru-sha-bhah",
+                    "meaning": "Taurus",
+                    "example_sentence": "वृषभः द्वितीयः राशिः। (Taurus is the second zodiac sign.)"
+                },
+                {
+                    "word": "मिथुनम्",
+                    "reading": "Mi-thu-nam",
+                    "meaning": "Gemini",
+                    "example_sentence": "मिथुनं युग्मराशिः। (Gemini is the twin sign.)"
+                },
+                {
+                    "word": "कर्कः",
+                    "reading": "Kar-kah",
+                    "meaning": "Cancer",
+                    "example_sentence": "कर्कः चतुर्थः राशिः। (Cancer is the fourth sign.)"
+                },
+                {
+                    "word": "सिंहः",
+                    "reading": "Sin-hah",
+                    "meaning": "Leo",
+                    "example_sentence": "सिंहः पञ्चमः राशिः। (Leo is the fifth sign.)"
+                },
+                {
+                    "word": "कन्या",
+                    "reading": "Kan-yaa",
+                    "meaning": "Virgo",
+                    "example_sentence": "कन्या षष्ठः राशिः। (Virgo is the sixth sign.)"
+                },
+                {
+                    "word": "तुला",
+                    "reading": "Tu-laa",
+                    "meaning": "Libra",
+                    "example_sentence": "तुला सप्तमः राशिः। (Libra is the seventh sign.)"
+                },
+                {
+                    "word": "वृश्चिकः",
+                    "reading": "Vrush-chi-kah",
+                    "meaning": "Scorpio",
+                    "example_sentence": "वृश्चिकः अष्टमः राशिः। (Scorpio is the eighth sign.)"
+                },
+                {
+                    "word": "धनुः",
+                    "reading": "Dha-nuh",
+                    "meaning": "Sagittarius",
+                    "example_sentence": "धनुः नवमः राशिः। (Sagittarius is the ninth sign.)"
+                },
+                {
+                    "word": "मकरः",
+                    "reading": "Ma-ka-rah",
+                    "meaning": "Capricorn",
+                    "example_sentence": "मकरः दशमः राशिः। (Capricorn is the tenth sign.)"
+                },
+                {
+                    "word": "कुम्भः",
+                    "reading": "Kum-bhah",
+                    "meaning": "Aquarius",
+                    "example_sentence": "कुम्भः एकादशः राशिः। (Aquarius is the eleventh sign.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "मीनः",
+                    "reading": "Mee-nah",
+                    "meaning": "Pisces",
+                    "example_sentence": "मीनः द्वादशः राशिः। (Pisces is the twelfth sign.)"
+                },
+                {
+                    "word": "अमावास्या",
+                    "reading": "A-maa-vaas-yaa",
+                    "meaning": "New moon day",
+                    "example_sentence": "अमावास्यायां चन्द्रः न दृश्यते। (The moon is not visible on new moon day.)"
+                },
+                {
+                    "word": "पूर्णिमा",
+                    "reading": "Poor-ni-maa",
+                    "meaning": "Full moon day",
+                    "example_sentence": "पूर्णिमायां चन्द्रः पूर्णः भवति। (The moon is full on full moon day.)"
+                },
+                {
+                    "word": "पक्षः",
+                    "reading": "Pak-shah",
+                    "meaning": "Fortnight",
+                    "example_sentence": "पक्षः पञ्चदशदिनानि भवति। (A fortnight is fifteen days.)"
+                },
+                {
+                    "word": "शुक्लपक्षः",
+                    "reading": "Shuk-la-pak-shah",
+                    "meaning": "Bright fortnight",
+                    "example_sentence": "शुक्लपक्षे चन्द्रः वर्धते। (The moon waxes in the bright fortnight.)"
+                },
+                {
+                    "word": "कृष्णपक्षः",
+                    "reading": "Krush-na-pak-shah",
+                    "meaning": "Dark fortnight",
+                    "example_sentence": "कृष्णपक्षे चन्द्रः क्षीयते। (The moon wanes in the dark fortnight.)"
+                },
+                {
+                    "word": "ग्रहणम्",
+                    "reading": "Gra-ha-nam",
+                    "meaning": "Eclipse",
+                    "example_sentence": "ग्रहणं दुर्लभं घटनम्। (Eclipse is a rare event.)"
+                },
+                {
+                    "word": "क्षितिजः",
+                    "reading": "Kshi-ti-jah",
+                    "meaning": "Horizon",
+                    "example_sentence": "सूर्यः क्षितिजे अस्तं गच्छति। (The sun sets at the horizon.)"
+                },
+                {
+                    "word": "अन्तरिक्षम्",
+                    "reading": "An-ta-rik-sham",
+                    "meaning": "Outer space/Atmosphere",
+                    "example_sentence": "अन्तरिक्षं पृथिव्याः उपरि अस्ति। (Space is above the earth.)"
+                },
+                {
+                    "word": "वायुमण्डलम्",
+                    "reading": "Vaa-yu-man-da-lam",
+                    "meaning": "Atmosphere",
+                    "example_sentence": "वायुमण्डलं पृथिवीं परितः आवृणोति। (The atmosphere surrounds the earth.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "हिमशिखरम्",
+                    "reading": "Hi-ma-shi-kha-ram",
+                    "meaning": "Snowy peak",
+                    "example_sentence": "हिमशिखरं शुभ्रम् अस्ति। (The snowy peak is white.)"
+                },
+                {
+                    "word": "उपत्यका",
+                    "reading": "U-pat-ya-kaa",
+                    "meaning": "Valley/Land at foot of mountain",
+                    "example_sentence": "उपत्यका पर्वतपादे अस्ति। (The valley is at the mountain's foot.)"
+                },
+                {
+                    "word": "अधित्यका",
+                    "reading": "A-dhit-ya-kaa",
+                    "meaning": "Tableland/Plateau",
+                    "example_sentence": "अधित्यका समतलभूमिः। (A plateau is flat land.)"
+                },
+                {
+                    "word": "निर्झरः",
+                    "reading": "Nir-jha-rah",
+                    "meaning": "Mountain stream/Cascade",
+                    "example_sentence": "निर्झरः पर्वतात् प्रवहति। (The stream flows from the mountain.)"
+                },
+                {
+                    "word": "सङ्गमः",
+                    "reading": "San-ga-mah",
+                    "meaning": "Confluence of rivers",
+                    "example_sentence": "सङ्गमः पवित्रः स्थानः। (Confluence is a sacred place.)"
+                },
+                {
+                    "word": "द्वीपसमूहः",
+                    "reading": "Dvee-pa-sa-moo-hah",
+                    "meaning": "Archipelago",
+                    "example_sentence": "द्वीपसमूहः बहूनि द्वीपानि। (An archipelago is many islands.)"
+                },
+                {
+                    "word": "ज्वालामुखी",
+                    "reading": "Jvaa-laa-mu-khee",
+                    "meaning": "Volcano",
+                    "example_sentence": "ज्वालामुखी अग्निं उद्गिरति। (A volcano erupts fire.)"
+                },
+                {
+                    "word": "भूकम्पः",
+                    "reading": "Bhoo-kam-pah",
+                    "meaning": "Earthquake",
+                    "example_sentence": "भूकम्पः भयङ्करः अस्ति। (Earthquake is terrible.)"
+                },
+                {
+                    "word": "सुनामी",
+                    "reading": "Su-naa-mee",
+                    "meaning": "Tidal wave/Tsunami",
+                    "example_sentence": "सुनामी विनाशकारी लहरी। (Tsunami is a destructive wave.)"
+                },
+                {
+                    "word": "अनावृष्टिः",
+                    "reading": "A-naa-vrush-tih",
+                    "meaning": "Drought",
+                    "example_sentence": "अनावृष्टौ वृष्टिः न भवति। (In drought, there is no rain.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "अतिवृष्टिः",
+                    "reading": "A-ti-vrush-tih",
+                    "meaning": "Excessive rain/Flood",
+                    "example_sentence": "अतिवृष्टिः प्लावनं करोति। (Excessive rain causes flood.)"
+                },
+                {
+                    "word": "पवनः",
+                    "reading": "Pa-va-nah",
+                    "meaning": "Breeze/Purifying wind",
+                    "example_sentence": "पवनः शुद्धः वायुः। (Breeze is pure wind.)"
+                },
+                {
+                    "word": "झञ्झावातः",
+                    "reading": "Jhan-jhaa-vaa-tah",
+                    "meaning": "Storm/Hurricane",
+                    "example_sentence": "झञ्झावातः प्रबलः वायुः। (Hurricane is strong wind.)"
+                },
+                {
+                    "word": "उष्णलहरी",
+                    "reading": "Ush-na-la-ha-ree",
+                    "meaning": "Heat wave",
+                    "example_sentence": "उष्णलहरी ग्रीष्मे भवति। (Heat wave happens in summer.)"
+                },
+                {
+                    "word": "शीतलहरी",
+                    "reading": "Shee-ta-la-ha-ree",
+                    "meaning": "Cold wave",
+                    "example_sentence": "शीतलहरी शीतकाले भवति। (Cold wave happens in winter.)"
+                },
+                {
+                    "word": "ओषधिः",
+                    "reading": "O-sha-dhih",
+                    "meaning": "Herb/Medicinal plant",
+                    "example_sentence": "ओषधिः रोगनाशकः। (Herb destroys disease.)"
+                },
+                {
+                    "word": "गुल्मः",
+                    "reading": "Gul-mah",
+                    "meaning": "Shrub/Bush",
+                    "example_sentence": "गुल्मः लघुवृक्षः अस्ति। (Shrub is a small tree.)"
+                },
+                {
+                    "word": "तृणधान्यम्",
+                    "reading": "Tru-na-dhaan-yam",
+                    "meaning": "Millet/Wild grain",
+                    "example_sentence": "तृणधान्यं पौष्टिकम्। (Millet is nutritious.)"
+                },
+                {
+                    "word": "पलाशः",
+                    "reading": "Pa-laa-shah",
+                    "meaning": "Flame of the forest tree",
+                    "example_sentence": "पलाशः रक्तपुष्पः वृक्षः। (Palash is a red-flowered tree.)"
+                },
+                {
+                    "word": "अश्वत्थः",
+                    "reading": "Ash-vat-thah",
+                    "meaning": "Holy fig tree/Pipal",
+                    "example_sentence": "अश्वत्थः पवित्रः वृक्षः। (Pipal is a sacred tree.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "वटवृक्षः",
+                    "reading": "Va-ta-vruk-shah",
+                    "meaning": "Banyan tree",
+                    "example_sentence": "वटवृक्षः विशालः भवति। (Banyan tree becomes huge.)"
+                },
+                {
+                    "word": "चन्दनम्",
+                    "reading": "Chan-da-nam",
+                    "meaning": "Sandalwood",
+                    "example_sentence": "चन्दनं सुगन्धि काष्ठम्। (Sandalwood is fragrant wood.)"
+                },
+                {
+                    "word": "तुलसी",
+                    "reading": "Tu-la-see",
+                    "meaning": "Holy basil",
+                    "example_sentence": "तुलसी पवित्रा वृक्षः। (Tulsi is a sacred plant.)"
+                },
+                {
+                    "word": "पद्मम्",
+                    "reading": "Pad-mam",
+                    "meaning": "Lotus",
+                    "example_sentence": "पद्मं जले विकसति। (Lotus blooms in water.)"
+                },
+                {
+                    "word": "कुमुदम्",
+                    "reading": "Ku-mu-dam",
+                    "meaning": "White water lily",
+                    "example_sentence": "कुमुदं शुभ्रपुष्पम्। (Kumuda is a white flower.)"
+                },
+                {
+                    "word": "नीलोत्पलम्",
+                    "reading": "Nee-lot-pa-lam",
+                    "meaning": "Blue lotus",
+                    "example_sentence": "नीलोत्पलं नीलवर्णम्। (Blue lotus is blue colored.)"
+                },
+                {
+                    "word": "मल्लिका",
+                    "reading": "Mal-li-kaa",
+                    "meaning": "Jasmine",
+                    "example_sentence": "मल्लिका सुगन्धिता पुष्पम्। (Jasmine is a fragrant flower.)"
+                },
+                {
+                    "word": "केतकी",
+                    "reading": "Ke-ta-kee",
+                    "meaning": "Screw-pine flower",
+                    "example_sentence": "केतकी सुगन्धा पुष्पम्। (Ketaki is a fragrant flower.)"
+                },
+                {
+                    "word": "चम्पकः",
+                    "reading": "Cham-pa-kah",
+                    "meaning": "Champaca flower",
+                    "example_sentence": "चम्पकः पीतपुष्पः वृक्षः। (Champaka is a yellow-flowered tree.)"
+                },
+                {
+                    "word": "गुलाबम्",
+                    "reading": "Gu-laa-bam",
+                    "meaning": "Rose",
+                    "example_sentence": "गुलाबं सुन्दरं पुष्पम्। (Rose is a beautiful flower.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "परागः",
+                    "reading": "Pa-raa-gah",
+                    "meaning": "Pollen",
+                    "example_sentence": "परागः पुष्पात् निर्गच्छति। (Pollen comes from flowers.)"
+                },
+                {
+                    "word": "मकरन्दः",
+                    "reading": "Ma-ka-ran-dah",
+                    "meaning": "Flower nectar",
+                    "example_sentence": "मकरन्दः मधुरः रसः। (Nectar is sweet juice.)"
+                },
+                {
+                    "word": "भ्रमरः",
+                    "reading": "Bhra-ma-rah",
+                    "meaning": "Black bee",
+                    "example_sentence": "भ्रमरः मकरन्दं पिबति। (The bee drinks nectar.)"
+                },
+                {
+                    "word": "खद्योतः",
+                    "reading": "Khad-yo-tah",
+                    "meaning": "Firefly",
+                    "example_sentence": "खद्योतः रात्रौ प्रकाशते। (Firefly shines at night.)"
+                },
+                {
+                    "word": "शलभः",
+                    "reading": "Sha-la-bhah",
+                    "meaning": "Locust/Grasshopper",
+                    "example_sentence": "शलभः कूर्दति। (Grasshopper jumps.)"
+                },
+                {
+                    "word": "झिल्ली",
+                    "reading": "Jhil-lee",
+                    "meaning": "Cricket (insect)",
+                    "example_sentence": "झिल्ली रात्रौ ध्वनिं करोति। (Cricket makes sound at night.)"
+                },
+                {
+                    "word": "वृश्चिकः",
+                    "reading": "Vrush-chi-kah",
+                    "meaning": "Scorpion",
+                    "example_sentence": "वृश्चिकः विषयुक्तः अस्ति। (Scorpion is poisonous.)"
+                },
+                {
+                    "word": "गोधा",
+                    "reading": "Go-dhaa",
+                    "meaning": "Iguana/Monitor lizard",
+                    "example_sentence": "गोधा सरीसृपः अस्ति। (Iguana is a reptile.)"
+                },
+                {
+                    "word": "नक्रः",
+                    "reading": "Nak-rah",
+                    "meaning": "Alligator/Crocodile",
+                    "example_sentence": "नक्रः जले वसति। (Alligator lives in water.)"
+                },
+                {
+                    "word": "शिशुमारः",
+                    "reading": "Shi-shu-maa-rah",
+                    "meaning": "Dolphin/Porpoise",
+                    "example_sentence": "शिशुमारः जलचरः अस्ति। (Dolphin is aquatic.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "तिमिः",
+                    "reading": "Ti-mih",
+                    "meaning": "Whale",
+                    "example_sentence": "तिमिः विशालः जलचरः। (Whale is a huge aquatic animal.)"
+                },
+                {
+                    "word": "मत्स्यकन्या",
+                    "reading": "Mat-sya-kan-yaa",
+                    "meaning": "Mermaid",
+                    "example_sentence": "मत्स्यकन्या कल्पनिका अस्ति। (Mermaid is imaginary.)"
+                },
+                {
+                    "word": "गृध्रः",
+                    "reading": "Gru-dhrah",
+                    "meaning": "Vulture",
+                    "example_sentence": "गृध्रः मृतमांसं खादति। (Vulture eats dead meat.)"
+                },
+                {
+                    "word": "श्येनः",
+                    "reading": "Shye-nah",
+                    "meaning": "Hawk/Falcon",
+                    "example_sentence": "श्येनः शीघ्रं पतति। (Hawk flies fast.)"
+                },
+                {
+                    "word": "गरुडः",
+                    "reading": "Ga-ru-dah",
+                    "meaning": "Eagle/Divine bird",
+                    "example_sentence": "गरुडः विष्णोः वाहनम्। (Garuda is Vishnu's vehicle.)"
+                },
+                {
+                    "word": "सारसः",
+                    "reading": "Saa-ra-sah",
+                    "meaning": "Crane",
+                    "example_sentence": "सारसः दीर्घपादः पक्षी। (Crane is a long-legged bird.)"
+                },
+                {
+                    "word": "चक्रवाकः",
+                    "reading": "Chak-ra-vaa-kah",
+                    "meaning": "Ruddy shelduck",
+                    "example_sentence": "चक्रवाकः प्रेमपक्षी अस्ति। (Chakravaka is a love bird.)"
+                },
+                {
+                    "word": "चातकः",
+                    "reading": "Chaa-ta-kah",
+                    "meaning": "Pied cuckoo",
+                    "example_sentence": "चातकः वर्षाजलं पिबति। (Pied cuckoo drinks rainwater.)"
+                },
+                {
+                    "word": "खञ्जनः",
+                    "reading": "Khan-ja-nah",
+                    "meaning": "Wagtail",
+                    "example_sentence": "खञ्जनः पुच्छं चालयति। (Wagtail moves its tail.)"
+                },
+                {
+                    "word": "चकोरः",
+                    "reading": "Cha-ko-rah",
+                    "meaning": "Greek partridge",
+                    "example_sentence": "चकोरः चन्द्रं पश्यति। (Chakor looks at the moon.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "मृगराजः",
+                    "reading": "Mru-ga-raa-jah",
+                    "meaning": "King of beasts/Lion",
+                    "example_sentence": "मृगराजः सिंहः अस्ति। (The king of beasts is the lion.)"
+                },
+                {
+                    "word": "गण्डकः",
+                    "reading": "Gan-da-kah",
+                    "meaning": "Rhinoceros",
+                    "example_sentence": "गण्डकः एकशृङ्गः अस्ति। (Rhinoceros has one horn.)"
+                },
+                {
+                    "word": "द्वीपी",
+                    "reading": "Dvee-pee",
+                    "meaning": "Leopard/Panther",
+                    "example_sentence": "द्वीपी चित्रितः मृगः। (Leopard is a spotted animal.)"
+                },
+                {
+                    "word": "तरक्षुः",
+                    "reading": "Ta-rak-shuh",
+                    "meaning": "Hyena",
+                    "example_sentence": "तरक्षुः रात्रौ गर्जति। (Hyena roars at night.)"
+                },
+                {
+                    "word": "शल्लकः",
+                    "reading": "Shal-la-kah",
+                    "meaning": "Porcupine",
+                    "example_sentence": "शल्लकः कण्टकयुक्तः। (Porcupine has spines.)"
+                },
+                {
+                    "word": "मार्जारी",
+                    "reading": "Maar-jaa-ree",
+                    "meaning": "Wild cat",
+                    "example_sentence": "मार्जारी वने वसति। (Wild cat lives in forest.)"
+                },
+                {
+                    "word": "नकुलः",
+                    "reading": "Na-ku-lah",
+                    "meaning": "Mongoose",
+                    "example_sentence": "नकुलः सर्पहन्ता अस्ति। (Mongoose is a snake-killer.)"
+                },
+                {
+                    "word": "सरीसृपः",
+                    "reading": "Sa-ree-sru-pah",
+                    "meaning": "Reptile",
+                    "example_sentence": "सरीसृपः भूमौ सर्पति। (Reptile crawls on ground.)"
+                },
+                {
+                    "word": "अजगरः",
+                    "reading": "A-ja-ga-rah",
+                    "meaning": "Python",
+                    "example_sentence": "अजगरः विशालः सर्पः। (Python is a huge snake.)"
+                },
+                {
+                    "word": "उरगः",
+                    "reading": "U-ra-gah",
+                    "meaning": "Serpent/Breast-goer",
+                    "example_sentence": "उरगः उरसा गच्छति। (Serpent goes on its breast.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "पारिजातः",
+                    "reading": "Paa-ri-jaa-tah",
+                    "meaning": "Coral tree/Celestial tree",
+                    "example_sentence": "पारिजातः स्वर्गीयः वृक्षः। (Parijata is a celestial tree.)"
+                },
+                {
+                    "word": "कल्पवृक्षः",
+                    "reading": "Kal-pa-vruk-shah",
+                    "meaning": "Wish-fulfilling tree",
+                    "example_sentence": "कल्पवृक्षः कामान् पूरयति। (Wish-fulfilling tree fulfills desires.)"
+                },
+                {
+                    "word": "खातम्",
+                    "reading": "Khaa-tam",
+                    "meaning": "Ditch/Moat",
+                    "example_sentence": "खातं दुर्गस्य रक्षणाय अस्ति। (Moat is for fort's protection.)"
+                },
+                {
+                    "word": "प्रपातम्",
+                    "reading": "Pra-paa-tam",
+                    "meaning": "Precipice/Chasm",
+                    "example_sentence": "प्रपातं गभीरः खातः। (Chasm is a deep pit.)"
+                },
+                {
+                    "word": "खननम्",
+                    "reading": "Kha-na-nam",
+                    "meaning": "Mining/Digging",
+                    "example_sentence": "खननं खनिजप्राप्त्यै भवति। (Mining is for obtaining minerals.)"
+                },
+                {
+                    "word": "खनिजम्",
+                    "reading": "Kha-ni-jam",
+                    "meaning": "Mineral",
+                    "example_sentence": "खनिजं भूमितः प्राप्यते। (Mineral is obtained from earth.)"
+                },
+                {
+                    "word": "अयस्कान्तः",
+                    "reading": "A-yas-kaan-tah",
+                    "meaning": "Magnet/Loadstone",
+                    "example_sentence": "अयस्कान्तः लोहं आकर्षति। (Magnet attracts iron.)"
+                },
+                {
+                    "word": "स्फटिकम्",
+                    "reading": "Spha-ti-kam",
+                    "meaning": "Crystal/Quartz",
+                    "example_sentence": "स्फटिकं स्वच्छं रत्नम्। (Crystal is a clear gem.)"
+                },
+                {
+                    "word": "वैदूर्यम्",
+                    "reading": "Vai-door-yam",
+                    "meaning": "Cat's eye gem/Beryl",
+                    "example_sentence": "वैदूर्यं मूल्यवत् रत्नम्। (Cat's eye is a valuable gem.)"
+                },
+                {
+                    "word": "मरकतम्",
+                    "reading": "Ma-ra-ka-tam",
+                    "meaning": "Emerald",
+                    "example_sentence": "मरकतं हरितवर्णं रत्नम्। (Emerald is a green gem.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Sanskrit Astronomical Term Trap",
+        "question": "What is the correct classical Sanskrit term for 'Milky Way galaxy'?",
+        "options": [
+            "छायापथः (chhaayaapathaH)",
+            "आकाशगङ्गा (aakaashagangaa)",
+            "खमार्गः (khamaargaH)",
+            "नक्षत्रपथः (nakShatrapathaH)"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "While छायापथः (chhaayaapathaH - literally 'shadow path') appears in some texts, the more commonly used and accepted classical Sanskrit term for the Milky Way galaxy is आकाशगङ्गा (aakaashagangaa - literally 'sky Ganges'). The term आकाशगङ्गा beautifully captures the visual appearance of the Milky Way as a celestial river of light, paralleling the sacred Ganges river on earth. छायापथः is a trap because while it's a valid compound, it's not the standard astronomical term. This teaches learners that Sanskrit astronomical terminology often uses poetic metaphors (उपमा) that connect celestial phenomena to earthly counterparts!"
+    }
+}

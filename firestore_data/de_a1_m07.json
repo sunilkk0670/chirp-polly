@@ -1,0 +1,627 @@
+{
+    "moduleId": "de_a1_m07",
+    "theme": "Work & Education",
+    "title": "Work & Education",
+    "level": "a1",
+    "language": "german",
+    "order": 7,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "Der Beruf",
+                    "reading": "dehr be-ROOF",
+                    "meaning": "The profession/job (plural: Berufe)",
+                    "example_sentence": "Was ist dein Beruf? (What is your profession?)"
+                },
+                {
+                    "word": "Arbeiten als...",
+                    "reading": "AR-by-ten als",
+                    "meaning": "To work as...",
+                    "example_sentence": "Ich arbeite als Lehrer. (I work as a teacher.)"
+                },
+                {
+                    "word": "Der Lehrer",
+                    "reading": "dehr LAY-rer",
+                    "meaning": "The teacher (male) (plural: Lehrer)",
+                    "example_sentence": "Der Lehrer erklärt die Regel. (The teacher explains the rule.)"
+                },
+                {
+                    "word": "Die Lehrerin",
+                    "reading": "dee LAY-rer-in",
+                    "meaning": "The teacher (female) (plural: Lehrerinnen)",
+                    "example_sentence": "Die Lehrerin ist nett. (The female teacher is nice.)"
+                },
+                {
+                    "word": "Der Student",
+                    "reading": "dehr shtoo-DENT",
+                    "meaning": "The student (university, male) (plural: Studenten)",
+                    "example_sentence": "Der Student lernt viel. (The student studies a lot.)"
+                },
+                {
+                    "word": "Die Schule",
+                    "reading": "dee SHOO-le",
+                    "meaning": "The school (plural: Schulen)",
+                    "example_sentence": "Die Schule fängt um acht Uhr an. (School starts at eight o'clock.)"
+                },
+                {
+                    "word": "Die Universität",
+                    "reading": "dee oo-nee-ver-zee-TET",
+                    "meaning": "The university (plural: Universitäten)",
+                    "example_sentence": "Die Universität ist groß. (The university is big.)"
+                },
+                {
+                    "word": "Das Einkommen",
+                    "reading": "das EYN-ko-men",
+                    "meaning": "The income (plural: Einkommen)",
+                    "example_sentence": "Das monatliche Einkommen reicht aus. (The monthly income is sufficient.)"
+                },
+                {
+                    "word": "Das Fach",
+                    "reading": "das FAKH",
+                    "meaning": "The subject (plural: Fächer)",
+                    "example_sentence": "Mein Lieblingsfach ist Mathe. (My favorite subject is math.)"
+                },
+                {
+                    "word": "Mathematik",
+                    "reading": "ma-te-ma-TEEK",
+                    "meaning": "Mathematics",
+                    "example_sentence": "Mathematik ist schwierig. (Mathematics is difficult.)"
+                },
+                {
+                    "word": "Die Überweisung",
+                    "reading": "dee ue-ber-VYE-zoong",
+                    "meaning": "The bank transfer (plural: Überweisungen)",
+                    "example_sentence": "Ich mache die Überweisung heute. (I'm making the bank transfer today.)"
+                },
+                {
+                    "word": "Die Hausaufgabe",
+                    "reading": "dee HOWS-owf-ga-be",
+                    "meaning": "The homework (plural: Hausaufgaben)",
+                    "example_sentence": "Ich mache meine Hausaufgaben. (I am doing my homework.)"
+                },
+                {
+                    "word": "Die Prüfung",
+                    "reading": "dee PRUE-fung",
+                    "meaning": "The exam (plural: Prüfungen)",
+                    "example_sentence": "Die Prüfung ist morgen. (The exam is tomorrow.)"
+                },
+                {
+                    "word": "Das Zeugnis",
+                    "reading": "das TSOYG-nis",
+                    "meaning": "The certificate/report card (plural: Zeugnisse)",
+                    "example_sentence": "Das Zeugnis ist sehr gut. (The report card is very good.)"
+                },
+                {
+                    "word": "Der Kugelschreiber",
+                    "reading": "dehr KOO-gel-shrye-ber",
+                    "meaning": "The pen (plural: Kugelschreiber)",
+                    "example_sentence": "Hast du einen Kugelschreiber? (Do you have a pen?)"
+                },
+                {
+                    "word": "Das Heft",
+                    "reading": "das HEFT",
+                    "meaning": "The notebook (plural: Hefte)",
+                    "example_sentence": "Ich schreibe ins Heft. (I write in the notebook.)"
+                },
+                {
+                    "word": "Der Bleistift",
+                    "reading": "dehr BLY-shtift",
+                    "meaning": "The pencil (plural: Bleistifte)",
+                    "example_sentence": "Der Bleistift ist kurz. (The pencil is short.)"
+                },
+                {
+                    "word": "Das Papier",
+                    "reading": "das pa-PEER",
+                    "meaning": "The paper (plural: Papiere)",
+                    "example_sentence": "Ich brauche ein Blatt Papier. (I need a sheet of paper.)"
+                },
+                {
+                    "word": "Das Büro",
+                    "reading": "das bue-ROH",
+                    "meaning": "The office (plural: Büros)",
+                    "example_sentence": "Das Büro ist im ersten Stock. (The office is on the first floor.)"
+                },
+                {
+                    "word": "Der Kollege",
+                    "reading": "dehr ko-LAY-ge",
+                    "meaning": "The colleague (male) (plural: Kollegen)",
+                    "example_sentence": "Mein Kollege ist nett. (My colleague is nice.)"
+                },
+                {
+                    "word": "Die Kollegin",
+                    "reading": "dee ko-LAY-gin",
+                    "meaning": "The colleague (female) (plural: Kolleginnen)",
+                    "example_sentence": "Die Kollegin hilft mir. (The female colleague helps me.)"
+                },
+                {
+                    "word": "Der Handwerker",
+                    "reading": "dehr HANT-ver-ker",
+                    "meaning": "The craftsman (plural: Handwerker)",
+                    "example_sentence": "Der Handwerker repariert das Fenster. (The craftsman is repairing the window.)"
+                },
+                {
+                    "word": "Das Meeting",
+                    "reading": "das MEE-ting",
+                    "meaning": "The meeting (plural: Meetings)",
+                    "example_sentence": "Das Meeting beginnt jetzt. (The meeting is starting now.)"
+                },
+                {
+                    "word": "Der Termin",
+                    "reading": "dehr ter-MEEN",
+                    "meaning": "The appointment (plural: Termine)",
+                    "example_sentence": "Ich habe einen Termin beim Arzt. (I have an appointment at the doctor.)"
+                },
+                {
+                    "word": "Die E-Mail",
+                    "reading": "dee EE-mayl",
+                    "meaning": "The email (plural: E-Mails)",
+                    "example_sentence": "Ich schreibe eine E-Mail. (I am writing an email.)"
+                },
+                {
+                    "word": "Telefonieren",
+                    "reading": "te-le-fo-NEE-ren",
+                    "meaning": "To talk on the phone",
+                    "example_sentence": "Ich telefoniere mit meiner Mutter. (I'm talking on the phone with my mother.)"
+                },
+                {
+                    "word": "Drucken",
+                    "reading": "DROO-ken",
+                    "meaning": "To print",
+                    "example_sentence": "Ich muss das Dokument drucken. (I need to print the document.)"
+                },
+                {
+                    "word": "Kopieren",
+                    "reading": "ko-PEE-ren",
+                    "meaning": "To copy",
+                    "example_sentence": "Kannst du das bitte kopieren? (Can you please copy this?)"
+                },
+                {
+                    "word": "Die Bewerbung",
+                    "reading": "dee be-VER-boong",
+                    "meaning": "The job application (plural: Bewerbungen)",
+                    "example_sentence": "Ich schreibe eine Bewerbung. (I am writing a job application.)"
+                },
+                {
+                    "word": "Die Tastatur",
+                    "reading": "dee tas-ta-TOOR",
+                    "meaning": "The keyboard (plural: Tastaturen)",
+                    "example_sentence": "Die Tastatur ist kaputt. (The keyboard is broken.)"
+                },
+                {
+                    "word": "Die Maus",
+                    "reading": "dee MOWS",
+                    "meaning": "The mouse (plural: Mäuse)",
+                    "example_sentence": "Die Maus liegt auf dem Tisch. (The mouse is on the table.)"
+                },
+                {
+                    "word": "Der Bildschirm",
+                    "reading": "dehr BILT-shirm",
+                    "meaning": "The screen (plural: Bildschirme)",
+                    "example_sentence": "Der Bildschirm ist groß. (The screen is big.)"
+                },
+                {
+                    "word": "Das Internet",
+                    "reading": "das IN-ter-net",
+                    "meaning": "The internet (no plural)",
+                    "example_sentence": "Das Internet ist langsam. (The internet is slow.)"
+                },
+                {
+                    "word": "Passwort",
+                    "reading": "PAS-vort",
+                    "meaning": "Password (plural: Passwörter)",
+                    "example_sentence": "Wie ist das Passwort? (What is the password?)"
+                },
+                {
+                    "word": "Speichern",
+                    "reading": "SHPYE-khern",
+                    "meaning": "To save (data)",
+                    "example_sentence": "Vergiss nicht zu speichern. (Don't forget to save.)"
+                },
+                {
+                    "word": "Löschen",
+                    "reading": "LOE-shen",
+                    "meaning": "To delete",
+                    "example_sentence": "Ich lösche die Datei. (I am deleting the file.)"
+                },
+                {
+                    "word": "Senden",
+                    "reading": "ZEN-den",
+                    "meaning": "To send",
+                    "example_sentence": "Ich sende die E-Mail jetzt. (I'm sending the email now.)"
+                },
+                {
+                    "word": "Empfangen",
+                    "reading": "emp-FANG-en",
+                    "meaning": "To receive",
+                    "example_sentence": "Ich habe die Nachricht empfangen. (I received the message.)"
+                },
+                {
+                    "word": "Die Nachricht",
+                    "reading": "dee NAHKH-risht",
+                    "meaning": "The message (plural: Nachrichten)",
+                    "example_sentence": "Ich habe eine Nachricht für dich. (I have a message for you.)"
+                },
+                {
+                    "word": "Arbeitslos",
+                    "reading": "AR-byts-lohs",
+                    "meaning": "Unemployed",
+                    "example_sentence": "Er ist seit einem Monat arbeitslos. (He has been unemployed for a month.)"
+                },
+                {
+                    "word": "In Rente",
+                    "reading": "in REN-te",
+                    "meaning": "Retired",
+                    "example_sentence": "Mein Vater ist in Rente. (My father is retired.)"
+                },
+                {
+                    "word": "Selbstständig",
+                    "reading": "ZELPST-shten-dish",
+                    "meaning": "Self-employed",
+                    "example_sentence": "Ich bin selbstständig. (I am self-employed.)"
+                },
+                {
+                    "word": "Der Lohn",
+                    "reading": "dehr LOHN",
+                    "meaning": "The wage (plural: Löhne)",
+                    "example_sentence": "Der Lohn wird am Ende des Monats gezahlt. (The wage is paid at the end of the month.)"
+                },
+                {
+                    "word": "Verdienen",
+                    "reading": "fer-DEE-nen",
+                    "meaning": "To earn",
+                    "example_sentence": "Wie viel verdienst du? (How much do you earn?)"
+                },
+                {
+                    "word": "Steuern",
+                    "reading": "STOY-ern",
+                    "meaning": "Taxes (plural)",
+                    "example_sentence": "Ich zahle viele Steuern. (I pay a lot of taxes.)"
+                },
+                {
+                    "word": "Der Vertrag",
+                    "reading": "dehr fer-TRAHK",
+                    "meaning": "The contract (plural: Verträge)",
+                    "example_sentence": "Ich muss den Vertrag lesen. (I have to read the contract.)"
+                },
+                {
+                    "word": "Der Praktikant",
+                    "reading": "dehr prak-tee-KANT",
+                    "meaning": "The intern (male) (plural: Praktikanten)",
+                    "example_sentence": "Der Praktikant lernt viel. (The intern is learning a lot.)"
+                },
+                {
+                    "word": "Die Karriere",
+                    "reading": "ka-ree-EHR-e",
+                    "meaning": "The career (plural: Karrieren)",
+                    "example_sentence": "Sie macht Karriere. (She is having a career.)"
+                },
+                {
+                    "word": "Erfolgreich",
+                    "reading": "er-FOLK-ryshe",
+                    "meaning": "Successful",
+                    "example_sentence": "Das Projekt war erfolgreich. (The project was successful.)"
+                },
+                {
+                    "word": "Anstrengend",
+                    "reading": "AN-shtreng-ent",
+                    "meaning": "Strenuous/Tiring",
+                    "example_sentence": "Die Arbeit ist anstrengend. (The work is strenuous.)"
+                },
+                {
+                    "word": "Langweilig",
+                    "reading": "LANG-vy-lish",
+                    "meaning": "Boring",
+                    "example_sentence": "Der Film ist langweilig. (The movie is boring.)"
+                },
+                {
+                    "word": "Interessant",
+                    "reading": "in-te-re-SANT",
+                    "meaning": "Interesting",
+                    "example_sentence": "Das Buch ist interessant. (The book is interesting.)"
+                },
+                {
+                    "word": "Die Werkstatt",
+                    "reading": "dee VERK-shtat",
+                    "meaning": "The workshop (plural: Werkstätten)",
+                    "example_sentence": "Das Auto ist in der Werkstatt. (The car is in the workshop.)"
+                },
+                {
+                    "word": "Der Ingenieur",
+                    "reading": "dehr in-zhe-NYOER",
+                    "meaning": "The engineer (male) (plural: Ingenieure)",
+                    "example_sentence": "Er arbeitet als Ingenieur. (He works as an engineer.)"
+                },
+                {
+                    "word": "Das Werkzeug",
+                    "reading": "das VERK-tsoyg",
+                    "meaning": "The tool (plural: Werkzeuge)",
+                    "example_sentence": "Ich brauche mein Werkzeug. (I need my tools.)"
+                },
+                {
+                    "word": "Die Besprechung",
+                    "reading": "dee be-SHPRE-khoong",
+                    "meaning": "The meeting/discussion (plural: Besprechungen)",
+                    "example_sentence": "Die Besprechung ist im Konferenzraum. (The meeting is in the conference room.)"
+                },
+                {
+                    "word": "Der Koch",
+                    "reading": "dehr KOKH",
+                    "meaning": "The cook (male) (plural: Köche)",
+                    "example_sentence": "Der Koch bereitet das Essen zu. (The cook prepares the food.)"
+                },
+                {
+                    "word": "Der Mechaniker",
+                    "reading": "dehr me-KHA-nee-ker",
+                    "meaning": "The mechanic (male) (plural: Mechaniker)",
+                    "example_sentence": "Der Mechaniker repariert den Motor. (The mechanic is repairing the engine.)"
+                },
+                {
+                    "word": "Die Ausbildung",
+                    "reading": "dee OWS-bil-dung",
+                    "meaning": "The vocational training (plural: Ausbildungen)",
+                    "example_sentence": "Ich mache eine Ausbildung zum Mechatroniker. (I am doing vocational training as a mechatronic technician.)"
+                },
+                {
+                    "word": "Das Praktikum",
+                    "reading": "das PRAK-tee-koom",
+                    "meaning": "The internship (plural: Praktika)",
+                    "example_sentence": "Ich mache ein Praktikum in einer Bank. (I am doing an internship in a bank.)"
+                },
+                {
+                    "word": "Sich bewerben",
+                    "reading": "zish be-VER-ben",
+                    "meaning": "To apply for a job",
+                    "example_sentence": "Ich bewerbe mich um eine Stelle. (I am applying for a position.)"
+                },
+                {
+                    "word": "Der Lebenslauf",
+                    "reading": "dehr LAY-bens-lowf",
+                    "meaning": "The CV/Resume (plural: Lebensläufe)",
+                    "example_sentence": "Der Lebenslauf ist aktuell. (The CV is up to date.)"
+                },
+                {
+                    "word": "Das Vorstellungsgespräch",
+                    "reading": "das FOR-shtel-oongs-ge-shprekh",
+                    "meaning": "Job interview (plural: Vorstellungsgespräche)",
+                    "example_sentence": "Das Vorstellungsgespräch lief gut. (The job interview went well.)"
+                },
+                {
+                    "word": "Einstellen",
+                    "reading": "EYN-shtel-en",
+                    "meaning": "To hire",
+                    "example_sentence": "Die Firma stellt neue Mitarbeiter ein. (The company is hiring new employees.)"
+                },
+                {
+                    "word": "Die Kündigung",
+                    "reading": "dee KUEN-dee-goong",
+                    "meaning": "The resignation/notice (plural: Kündigungen)",
+                    "example_sentence": "Er hat die Kündigung erhalten. (He received the notice.)"
+                },
+                {
+                    "word": "Die Firma",
+                    "reading": "dee FEER-ma",
+                    "meaning": "The company (plural: Firmen)",
+                    "example_sentence": "Die Firma ist international. (The company is international.)"
+                },
+                {
+                    "word": "Kündigen",
+                    "reading": "KUEN-dee-gen",
+                    "meaning": "To resign/quit",
+                    "example_sentence": "Ich werde morgen kündigen. (I will resign tomorrow.)"
+                },
+                {
+                    "word": "Die Fabrik",
+                    "reading": "dee fa-BREEK",
+                    "meaning": "The factory (plural: Fabriken)",
+                    "example_sentence": "In der Fabrik arbeiten viele Menschen. (Many people work in the factory.)"
+                },
+                {
+                    "word": "Der Feierabend",
+                    "reading": "FYE-er-ah-bent",
+                    "meaning": "End of work day",
+                    "example_sentence": "Schönen Feierabend! (Have a nice evening after work!)"
+                },
+                {
+                    "word": "Überstunden",
+                    "reading": "UE-ber-shtoon-den",
+                    "meaning": "Overtime (plural)",
+                    "example_sentence": "Ich mache heute Überstunden. (I'm doing overtime today.)"
+                },
+                {
+                    "word": "Gleitzeit",
+                    "reading": "GLYTE-tsyte",
+                    "meaning": "Flexible hours (no plural)",
+                    "example_sentence": "Wir haben Gleitzeit. (We have flexible working hours.)"
+                },
+                {
+                    "word": "Vollzeit",
+                    "reading": "FOL-tsyte",
+                    "meaning": "Full-time (no plural)",
+                    "example_sentence": "Ich arbeite Vollzeit. (I work full-time.)"
+                },
+                {
+                    "word": "Teilzeit",
+                    "reading": "TYLE-tsyte",
+                    "meaning": "Part-time (no plural)",
+                    "example_sentence": "Sie arbeitet Teilzeit. (She works part-time.)"
+                },
+                {
+                    "word": "Die Fortbildung",
+                    "reading": "dee FORT-bil-doong",
+                    "meaning": "The further education/training (plural: Fortbildungen)",
+                    "example_sentence": "Ich mache eine Fortbildung. (I am doing further training.)"
+                },
+                {
+                    "word": "Die Krankmeldung",
+                    "reading": "dee KRANK-mel-dung",
+                    "meaning": "Sick note (plural: Krankmeldungen)",
+                    "example_sentence": "Ich schicke die Krankmeldung per Post. (I am sending the sick note by mail.)"
+                },
+                {
+                    "word": "Das Team",
+                    "reading": "das TEEM",
+                    "meaning": "The team (plural: Teams)",
+                    "example_sentence": "Wir sind ein gutes Team. (We are a good team.)"
+                },
+                {
+                    "word": "Zusammenarbeiten",
+                    "reading": "tsoo-ZAM-en-ar-by-ten",
+                    "meaning": "To work together",
+                    "example_sentence": "Wir arbeiten gerne zusammen. (We like working together.)"
+                },
+                {
+                    "word": "Organisieren",
+                    "reading": "or-ga-nee-ZEE-ren",
+                    "meaning": "To organize",
+                    "example_sentence": "Ich organisiere die Besprechung. (I'm organizing the meeting.)"
+                },
+                {
+                    "word": "Planen",
+                    "reading": "PLA-nen",
+                    "meaning": "To plan",
+                    "example_sentence": "Wir planen ein neues Projekt. (We are planning a new project.)"
+                },
+                {
+                    "word": "Lösen",
+                    "reading": "LOE-zen",
+                    "meaning": "To solve",
+                    "example_sentence": "Können wir das Problem lösen? (Can we solve the problem?)"
+                },
+                {
+                    "word": "Die Frage",
+                    "reading": "dee FRA-ge",
+                    "meaning": "The question (plural: Fragen)",
+                    "example_sentence": "Haben Sie eine Frage? (Do you have a question?)"
+                },
+                {
+                    "word": "Die Antwort",
+                    "reading": "dee ANT-vort",
+                    "meaning": "The answer (plural: Antworten)",
+                    "example_sentence": "Die Antwort ist richtig. (The answer is correct.)"
+                },
+                {
+                    "word": "Wissen",
+                    "reading": "VIS-en",
+                    "meaning": "To know (facts)",
+                    "example_sentence": "Ich weiß es nicht. (I don't know it.)"
+                },
+                {
+                    "word": "Kennen",
+                    "reading": "KEN-en",
+                    "meaning": "To be familiar with",
+                    "example_sentence": "Ich kenne ihn nicht. (I don't know him.)"
+                },
+                {
+                    "word": "Erklären",
+                    "reading": "er-KLEH-ren",
+                    "meaning": "To explain",
+                    "example_sentence": "Bitte erklären Sie das noch einmal. (Please explain that again.)"
+                },
+                {
+                    "word": "Wiederholen",
+                    "reading": "vee-der-HOH-len",
+                    "meaning": "To repeat",
+                    "example_sentence": "Können Sie das bitte wiederholen? (Can you please repeat that?)"
+                },
+                {
+                    "word": "Notieren",
+                    "reading": "no-TEE-ren",
+                    "meaning": "To note down",
+                    "example_sentence": "Ich notiere mir den Termin. (I'm noting down the appointment.)"
+                },
+                {
+                    "word": "Das Beispiel",
+                    "reading": "das BYE-shpeel",
+                    "meaning": "The example (plural: Beispiele)",
+                    "example_sentence": "Das ist ein gutes Beispiel. (That is a good example.)"
+                },
+                {
+                    "word": "Die Regel",
+                    "reading": "dee RAY-gel",
+                    "meaning": "The rule (plural: Regeln)",
+                    "example_sentence": "Das ist gegen die Regel. (That is against the rule.)"
+                },
+                {
+                    "word": "Das Gehalt",
+                    "reading": "das ge-HALT",
+                    "meaning": "The salary (plural: Gehälter)",
+                    "example_sentence": "Das Gehalt ist verhandelbar. (The salary is negotiable.)"
+                },
+                {
+                    "word": "Schwierig",
+                    "reading": "SHVEE-rish",
+                    "meaning": "Difficult",
+                    "example_sentence": "Die Prüfung war schwierig. (The exam was difficult.)"
+                },
+                {
+                    "word": "Richtig",
+                    "reading": "RIKH-tish",
+                    "meaning": "Correct",
+                    "example_sentence": "Das ist richtig. (That's correct.)"
+                },
+                {
+                    "word": "Falsch",
+                    "reading": "FALSH",
+                    "meaning": "Wrong",
+                    "example_sentence": "Die Antwort ist falsch. (The answer is wrong.)"
+                },
+                {
+                    "word": "Die Seite",
+                    "reading": "dee ZY-te",
+                    "meaning": "The page (plural: Seiten)",
+                    "example_sentence": "Bitte schlagen Sie Seite zehn auf. (Please open to page ten.)"
+                },
+                {
+                    "word": "Das Wort",
+                    "reading": "das VORT",
+                    "meaning": "The word (plural: Wörter)",
+                    "example_sentence": "Ich kenne dieses Wort nicht. (I don't know this word.)"
+                },
+                {
+                    "word": "Satz",
+                    "reading": "ZATS",
+                    "meaning": "Sentence (plural: Sätze)",
+                    "example_sentence": "Schreibe einen Satz. (Write a sentence.)"
+                },
+                {
+                    "word": "Die Promotion",
+                    "reading": "pro-mo-TSYOHN",
+                    "meaning": "PhD Thesis/Graduation (plural: Promotionen) [LIAR GAME: NOT job promotion]",
+                    "example_sentence": "Er schreibt an seiner Promotion. (He is writing his PhD thesis.) [LIAR GAME: NOT 'job promotion']"
+                },
+                {
+                    "word": "Die Mappe",
+                    "reading": "dee MA-pe",
+                    "meaning": "Folder/Portfolio (plural: Mappen) [LIAR GAME: NOT a map]",
+                    "example_sentence": "Die Mappe ist voll mit Unterlagen. (The folder is full of documents.) [LIAR GAME: NOT 'map']"
+                },
+                {
+                    "word": "Das Protokoll",
+                    "reading": "pro-to-KOL",
+                    "meaning": "Minutes of a meeting (plural: Protokolle) [LIAR GAME: NOT just a protocol]",
+                    "example_sentence": "Wer schreibt das Protokoll? (Who is writing the minutes?) [LIAR GAME: NOT 'protocol']"
+                },
+                {
+                    "word": "Viel Erfolg!",
+                    "reading": "FEEL er-FOLK",
+                    "meaning": "Good luck/success!",
+                    "example_sentence": "Viel Erfolg bei der Prüfung! (Good luck with the exam!)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "German Work & Education False Friends",
+        "question": "Your German colleague says 'Hier ist das Protokoll.' What did they give you?",
+        "options": [
+            "A set of rules to follow",
+            "The minutes of the meeting",
+            "A diplomatic document",
+            "A security protocol"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "In a German business or school context, 'Das Protokoll' usually refers to the 'minutes' of a meeting, not just a set of rules or protocol. Other common traps include 'Die Promotion' (PhD graduation, not a job promotion) and 'Die Mappe' (a folder or portfolio, not a geographical map). These nuances are crucial for professional communication in Germany!"
+    }
+}

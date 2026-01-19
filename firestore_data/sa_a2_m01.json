@@ -1,0 +1,672 @@
+{
+    "moduleId": "sa_a2_m01",
+    "theme": "Complex Family & Social Structures",
+    "title": "Complex Family & Social Structures",
+    "level": "a2",
+    "language": "sanskrit",
+    "order": 1,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "वंशजः",
+                    "reading": "Van-sha-jah",
+                    "meaning": "Descendant",
+                    "example_sentence": "वंशजः पूर्वजान् स्मरति। (The descendant remembers the ancestors.)"
+                },
+                {
+                    "word": "पूर्वजः",
+                    "reading": "Poor-va-jah",
+                    "meaning": "Ancestor",
+                    "example_sentence": "पूर्वजाः महान्तः आसन्। (The ancestors were great.)"
+                },
+                {
+                    "word": "प्रपितामहः",
+                    "reading": "Pra-pi-taa-ma-hah",
+                    "meaning": "Great-grandfather (Paternal)",
+                    "example_sentence": "प्रपितामहः कथां वदति। (The great-grandfather tells a story.)"
+                },
+                {
+                    "word": "प्रपितामही",
+                    "reading": "Pra-pi-taa-ma-hee",
+                    "meaning": "Great-grandmother (Paternal)",
+                    "example_sentence": "प्रपितामही दीर्घायुषी आसीत्। (The great-grandmother was long-lived.)"
+                },
+                {
+                    "word": "प्रमातामहः",
+                    "reading": "Pra-maa-taa-ma-hah",
+                    "meaning": "Great-grandfather (Maternal)",
+                    "example_sentence": "प्रमातामहः विद्वान् आसीत्। (The maternal great-grandfather was learned.)"
+                },
+                {
+                    "word": "प्रमातामही",
+                    "reading": "Pra-maa-taa-ma-hee",
+                    "meaning": "Great-grandmother (Maternal)",
+                    "example_sentence": "प्रमातामही सुशीला आसीत्। (The maternal great-grandmother was virtuous.)"
+                },
+                {
+                    "word": "प्रपौत्रः",
+                    "reading": "Pra-pau-trah",
+                    "meaning": "Great-grandson",
+                    "example_sentence": "प्रपौत्रः कुलस्य गौरवम्। (The great-grandson is the family's pride.)"
+                },
+                {
+                    "word": "प्रपौत्री",
+                    "reading": "Pra-pau-tree",
+                    "meaning": "Great-granddaughter",
+                    "example_sentence": "प्रपौत्री सुन्दरी अस्ति। (The great-granddaughter is beautiful.)"
+                },
+                {
+                    "word": "श्वशुरः",
+                    "reading": "Shva-shu-rah",
+                    "meaning": "Father-in-law",
+                    "example_sentence": "श्वशुरः सम्मानीयः अस्ति। (The father-in-law is respectable.)"
+                },
+                {
+                    "word": "श्वश्रूः",
+                    "reading": "Shva-shroo-h",
+                    "meaning": "Mother-in-law",
+                    "example_sentence": "श्वश्रूः स्नेहमयी अस्ति। (The mother-in-law is affectionate.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "श्यालः",
+                    "reading": "Shyaa-lah",
+                    "meaning": "Brother-in-law (Wife's brother)",
+                    "example_sentence": "श्यालः मित्रवत् व्यवहरति। (The brother-in-law behaves like a friend.)"
+                },
+                {
+                    "word": "श्याली",
+                    "reading": "Shyaa-lee",
+                    "meaning": "Sister-in-law (Wife's sister)",
+                    "example_sentence": "श्याली सहायिका अस्ति। (The sister-in-law is helpful.)"
+                },
+                {
+                    "word": "ननान्दा",
+                    "reading": "Na-naan-daa",
+                    "meaning": "Sister-in-law (Husband's sister)",
+                    "example_sentence": "ननान्दा स्नेहपूर्णा अस्ति। (The husband's sister is loving.)"
+                },
+                {
+                    "word": "देवरः",
+                    "reading": "De-va-rah",
+                    "meaning": "Brother-in-law (Husband's younger brother)",
+                    "example_sentence": "देवरः आदरणीयः अस्ति। (The younger brother-in-law is respectful.)"
+                },
+                {
+                    "word": "यातृ",
+                    "reading": "Yaa-tru",
+                    "meaning": "Husband's brother's wife (Trap Word)",
+                    "example_sentence": "यातृ सह सम्बन्धः मधुरः। (The relationship with husband's brother's wife is sweet.) [LIAR GAME TRAP]"
+                },
+                {
+                    "word": "वोढृ",
+                    "reading": "Vo-dhru",
+                    "meaning": "Bridegroom",
+                    "example_sentence": "वोढा सुवेशः अस्ति। (The bridegroom is well-dressed.)"
+                },
+                {
+                    "word": "वधूः",
+                    "reading": "Va-dhoo-h",
+                    "meaning": "Bride",
+                    "example_sentence": "वधूः सुन्दरी अस्ति। (The bride is beautiful.)"
+                },
+                {
+                    "word": "वैवाहिकः",
+                    "reading": "Vai-vaa-hi-kah",
+                    "meaning": "Matrimonial relation",
+                    "example_sentence": "वैवाहिकः सम्बन्धः पवित्रः। (Matrimonial relation is sacred.)"
+                },
+                {
+                    "word": "दत्तकः",
+                    "reading": "Dat-ta-kah",
+                    "meaning": "Adopted son",
+                    "example_sentence": "दत्तकः पुत्रवत् पालितः। (The adopted son is raised like a son.)"
+                },
+                {
+                    "word": "प्रतिवेशी",
+                    "reading": "Pra-ti-ve-shee",
+                    "meaning": "Neighbor",
+                    "example_sentence": "प्रतिवेशी सहायकः भवति। (The neighbor is helpful.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "कुलम्",
+                    "reading": "Ku-lam",
+                    "meaning": "Lineage/Clan",
+                    "example_sentence": "कुलं प्रतिष्ठितम् अस्ति। (The lineage is prestigious.)"
+                },
+                {
+                    "word": "गोत्रम्",
+                    "reading": "Got-ram",
+                    "meaning": "Family name/Gotra",
+                    "example_sentence": "गोत्रं पूर्वजेभ्यः प्राप्तम्। (The gotra is received from ancestors.)"
+                },
+                {
+                    "word": "सगोत्रः",
+                    "reading": "Sa-got-rah",
+                    "meaning": "Of the same lineage",
+                    "example_sentence": "सगोत्राः विवाहं न कुर्वन्ति। (Those of same gotra don't marry.)"
+                },
+                {
+                    "word": "बान्धवः",
+                    "reading": "Baan-dha-vah",
+                    "meaning": "Kinsman/Relative",
+                    "example_sentence": "बान्धवाः सङ्कटे सहायकाः। (Kinsmen help in difficulty.)"
+                },
+                {
+                    "word": "ज्ञातिः",
+                    "reading": "Jnyaa-tih",
+                    "meaning": "Agnate relative",
+                    "example_sentence": "ज्ञातयः समागच्छन्ति। (Relatives gather together.)"
+                },
+                {
+                    "word": "सम्बन्धी",
+                    "reading": "Sam-ban-dhee",
+                    "meaning": "Relative/Relation",
+                    "example_sentence": "सम्बन्धिनः उत्सवे आगताः। (Relations came to the festival.)"
+                },
+                {
+                    "word": "दायादः",
+                    "reading": "Daa-yaa-dah",
+                    "meaning": "Heir/Inheritor",
+                    "example_sentence": "दायादः सम्पत्तिं प्राप्नोति। (The heir receives the property.)"
+                },
+                {
+                    "word": "दायभागः",
+                    "reading": "Daa-ya-bhaa-gah",
+                    "meaning": "Inheritance partition",
+                    "example_sentence": "दायभागः न्यायेन भवति। (Inheritance partition happens justly.)"
+                },
+                {
+                    "word": "ज्येष्ठता",
+                    "reading": "Jyesh-tha-taa",
+                    "meaning": "Primogeniture/Seniority",
+                    "example_sentence": "ज्येष्ठता सम्मानीया अस्ति। (Seniority is respectable.)"
+                },
+                {
+                    "word": "कनिष्ठता",
+                    "reading": "Ka-nish-tha-taa",
+                    "meaning": "Juniority",
+                    "example_sentence": "कनिष्ठता विनम्रतायाः चिह्नम्। (Juniority is a sign of humility.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "यजमानः",
+                    "reading": "Ya-ja-maa-nah",
+                    "meaning": "Host/Patron",
+                    "example_sentence": "यजमानः अतिथीन् सत्करोति। (The host honors the guests.)"
+                },
+                {
+                    "word": "अतिथिदेवः",
+                    "reading": "A-ti-thi-de-vah",
+                    "meaning": "Guest-god (Divine guest)",
+                    "example_sentence": "अतिथिदेवः भव इति उक्तम्। (It is said 'Guest is God'.)"
+                },
+                {
+                    "word": "परिचितः",
+                    "reading": "Pa-ri-chi-tah",
+                    "meaning": "Acquaintance",
+                    "example_sentence": "परिचितः मार्गे मिलितः। (The acquaintance met on the road.)"
+                },
+                {
+                    "word": "सुहृद्",
+                    "reading": "Su-hrud",
+                    "meaning": "Heart-friend/Ally",
+                    "example_sentence": "सुहृत् सदा सहायकः। (A true friend always helps.)"
+                },
+                {
+                    "word": "वर्गः",
+                    "reading": "Var-gah",
+                    "meaning": "Group/Category",
+                    "example_sentence": "वर्गः संगठितः अस्ति। (The group is organized.)"
+                },
+                {
+                    "word": "श्रेणी",
+                    "reading": "Shre-nee",
+                    "meaning": "Guild/Rank",
+                    "example_sentence": "श्रेणी व्यापारिणां संघः। (A guild is a merchants' association.)"
+                },
+                {
+                    "word": "समाजः",
+                    "reading": "Sa-maa-jah",
+                    "meaning": "Society",
+                    "example_sentence": "समाजः नियमैः चलति। (Society runs by rules.)"
+                },
+                {
+                    "word": "परिषद्",
+                    "reading": "Pa-ri-shad",
+                    "meaning": "Assembly/Council",
+                    "example_sentence": "परिषत् निर्णयं करोति। (The council makes decisions.)"
+                },
+                {
+                    "word": "अध्यक्षः",
+                    "reading": "A-dhyak-shah",
+                    "meaning": "President/Chairperson",
+                    "example_sentence": "अध्यक्षः सभां नियन्त्रयति। (The president controls the assembly.)"
+                },
+                {
+                    "word": "उपाध्यक्षः",
+                    "reading": "U-paa-dhyak-shah",
+                    "meaning": "Vice-president",
+                    "example_sentence": "उपाध्यक्षः अध्यक्षं सहायते। (The vice-president assists the president.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "प्रतिनिधिः",
+                    "reading": "Pra-ti-ni-dhih",
+                    "meaning": "Representative",
+                    "example_sentence": "प्रतिनिधिः जनान् प्रतिनिधीकरोति। (The representative represents the people.)"
+                },
+                {
+                    "word": "नागरिकः",
+                    "reading": "Naa-ga-ri-kah",
+                    "meaning": "Citizen",
+                    "example_sentence": "नागरिकः देशस्य सम्पत्तिः। (A citizen is the nation's wealth.)"
+                },
+                {
+                    "word": "जनसङ्ख्या",
+                    "reading": "Ja-na-san-khyaa",
+                    "meaning": "Population",
+                    "example_sentence": "जनसङ्ख्या वर्धते। (The population is increasing.)"
+                },
+                {
+                    "word": "समुदायः",
+                    "reading": "Sa-mu-daa-yah",
+                    "meaning": "Community",
+                    "example_sentence": "समुदायः एकत्र कार्यं करोति। (The community works together.)"
+                },
+                {
+                    "word": "लोकः",
+                    "reading": "Lo-kah",
+                    "meaning": "The public/People",
+                    "example_sentence": "लोकः सत्यं वदति। (The public speaks truth.)"
+                },
+                {
+                    "word": "प्रजा",
+                    "reading": "Pra-jaa",
+                    "meaning": "Subjects/Citizens",
+                    "example_sentence": "प्रजा राज्ञः अधीना। (The subjects are under the king.)"
+                },
+                {
+                    "word": "नेता",
+                    "reading": "Ne-taa",
+                    "meaning": "Leader",
+                    "example_sentence": "नेता मार्गं दर्शयति। (The leader shows the way.)"
+                },
+                {
+                    "word": "अनुयायी",
+                    "reading": "A-nu-yaa-yee",
+                    "meaning": "Follower",
+                    "example_sentence": "अनुयायी नेतारम् अनुसरति। (The follower follows the leader.)"
+                },
+                {
+                    "word": "सेवकः",
+                    "reading": "Se-va-kah",
+                    "meaning": "Attendant/Servant",
+                    "example_sentence": "सेवकः स्वामिनं सेवते। (The servant serves the master.)"
+                },
+                {
+                    "word": "स्वामिन्",
+                    "reading": "Svaa-min",
+                    "meaning": "Master/Owner",
+                    "example_sentence": "स्वामी गृहस्य अधिपतिः। (The master is the lord of the house.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "मैत्री",
+                    "reading": "Mai-tree",
+                    "meaning": "Friendship",
+                    "example_sentence": "मैत्री जीवनस्य सुखम्। (Friendship is life's happiness.)"
+                },
+                {
+                    "word": "शत्रुता",
+                    "reading": "Shat-ru-taa",
+                    "meaning": "Enmity",
+                    "example_sentence": "शत्रुता दुःखस्य कारणम्। (Enmity is the cause of sorrow.)"
+                },
+                {
+                    "word": "विवादः",
+                    "reading": "Vi-vaa-dah",
+                    "meaning": "Dispute/Argument",
+                    "example_sentence": "विवादः शान्त्या समाप्तः। (The dispute ended peacefully.)"
+                },
+                {
+                    "word": "समझौता",
+                    "reading": "Sa-ma-jhau-taa",
+                    "meaning": "Agreement/Settlement",
+                    "example_sentence": "समझौतायां द्वयोः सम्मतिः। (In agreement, both consent.)"
+                },
+                {
+                    "word": "संस्कारः",
+                    "reading": "San-skaa-rah",
+                    "meaning": "Rite of passage/Sacrament",
+                    "example_sentence": "संस्कारः जीवनस्य महत्त्वपूर्णः। (Sacrament is important in life.)"
+                },
+                {
+                    "word": "उपनयनम्",
+                    "reading": "U-pa-na-ya-nam",
+                    "meaning": "Initiation ceremony",
+                    "example_sentence": "उपनयनं बालकस्य संस्कारः। (Initiation is a boy's sacrament.)"
+                },
+                {
+                    "word": "विवाहबन्धनम्",
+                    "reading": "Vi-vaa-ha-ban-dha-nam",
+                    "meaning": "Matrimonial bond",
+                    "example_sentence": "विवाहबन्धनं पवित्रम् अस्ति। (The matrimonial bond is sacred.)"
+                },
+                {
+                    "word": "अन्त्येष्टिः",
+                    "reading": "An-tyesh-tih",
+                    "meaning": "Funeral rites",
+                    "example_sentence": "अन्त्येष्टिः विधिपूर्वकं भवति। (Funeral rites are performed ritually.)"
+                },
+                {
+                    "word": "श्राद्धम्",
+                    "reading": "Shraad-dham",
+                    "meaning": "Ancestor worship rite",
+                    "example_sentence": "श्राद्धं पितृभ्यः अर्पितम्। (Shraddha is offered to ancestors.)"
+                },
+                {
+                    "word": "पितृऋणम्",
+                    "reading": "Pi-tru-ru-nam",
+                    "meaning": "Debt to ancestors",
+                    "example_sentence": "पितृऋणं पुत्रैः शोध्यम्। (The debt to ancestors is paid by sons.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "कुलदेवता",
+                    "reading": "Ku-la-de-va-taa",
+                    "meaning": "Family deity",
+                    "example_sentence": "कुलदेवता कुलस्य रक्षिका। (The family deity protects the family.)"
+                },
+                {
+                    "word": "पुरोहितः",
+                    "reading": "Pu-ro-hi-tah",
+                    "meaning": "Family priest",
+                    "example_sentence": "पुरोहितः यज्ञं साधयति। (The priest performs the sacrifice.)"
+                },
+                {
+                    "word": "गुरुः",
+                    "reading": "Gu-ruh",
+                    "meaning": "Preceptor/Spiritual teacher",
+                    "example_sentence": "गुरुः ज्ञानं ददाति। (The teacher gives knowledge.)"
+                },
+                {
+                    "word": "शिष्यः",
+                    "reading": "Shish-yah",
+                    "meaning": "Disciple",
+                    "example_sentence": "शिष्यः गुरोः आज्ञां पालयति। (The disciple follows the teacher's command.)"
+                },
+                {
+                    "word": "आश्रमः",
+                    "reading": "Aa-shra-mah",
+                    "meaning": "Stage of life/Hermitage",
+                    "example_sentence": "आश्रमः जीवनस्य चतुर्थः भागः। (Ashrama is the fourth part of life.)"
+                },
+                {
+                    "word": "ब्रह्मचर्यम्",
+                    "reading": "Brah-ma-char-yam",
+                    "meaning": "Student stage/Celibacy",
+                    "example_sentence": "ब्रह्मचर्यं प्रथमः आश्रमः। (Brahmacharya is the first stage.)"
+                },
+                {
+                    "word": "गृहस्थः",
+                    "reading": "Gru-has-thah",
+                    "meaning": "Householder stage",
+                    "example_sentence": "गृहस्थः द्वितीयः आश्रमः। (Householder is the second stage.)"
+                },
+                {
+                    "word": "वानप्रस्थः",
+                    "reading": "Vaa-na-pras-thah",
+                    "meaning": "Forest-dweller stage",
+                    "example_sentence": "वानप्रस्थः तृतीयः आश्रमः। (Forest-dweller is the third stage.)"
+                },
+                {
+                    "word": "सन्न्यासः",
+                    "reading": "San-nyaa-sah",
+                    "meaning": "Renunciate stage",
+                    "example_sentence": "सन्न्यासः चतुर्थः आश्रमः। (Renunciation is the fourth stage.)"
+                },
+                {
+                    "word": "अतिथिपूजा",
+                    "reading": "A-ti-thi-poo-jaa",
+                    "meaning": "Hospitality to guests",
+                    "example_sentence": "अतिथिपूजा गृहस्थस्य धर्मः। (Hospitality is the householder's duty.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "दानवीरः",
+                    "reading": "Daa-na-vee-rah",
+                    "meaning": "Great donor/Philanthropist",
+                    "example_sentence": "दानवीरः दरिद्रेभ्यः ददाति। (The philanthropist gives to the poor.)"
+                },
+                {
+                    "word": "परोपकारः",
+                    "reading": "Pa-ro-pa-kaa-rah",
+                    "meaning": "Altruism/Helping others",
+                    "example_sentence": "परोपकारः महान् धर्मः। (Altruism is a great virtue.)"
+                },
+                {
+                    "word": "सदाचारः",
+                    "reading": "Sa-daa-chaa-rah",
+                    "meaning": "Good conduct",
+                    "example_sentence": "सदाचारः सर्वत्र प्रशस्यते। (Good conduct is praised everywhere.)"
+                },
+                {
+                    "word": "शिष्टाचारः",
+                    "reading": "Shish-taa-chaa-rah",
+                    "meaning": "Etiquette/Refined behavior",
+                    "example_sentence": "शिष्टाचारः सभ्यतायाः चिह्नम्। (Etiquette is a sign of civilization.)"
+                },
+                {
+                    "word": "अनाचारः",
+                    "reading": "A-naa-chaa-rah",
+                    "meaning": "Misconduct",
+                    "example_sentence": "अनाचारः निन्द्यः अस्ति। (Misconduct is condemnable.)"
+                },
+                {
+                    "word": "अधिकारः",
+                    "reading": "A-dhi-kaa-rah",
+                    "meaning": "Authority/Right",
+                    "example_sentence": "अधिकारः दायित्वेन सह आगच्छति। (Authority comes with responsibility.)"
+                },
+                {
+                    "word": "दायित्वम्",
+                    "reading": "Daa-yit-vam",
+                    "meaning": "Responsibility",
+                    "example_sentence": "दायित्वं पालनीयम् अस्ति। (Responsibility must be fulfilled.)"
+                },
+                {
+                    "word": "कर्तव्यपरायणः",
+                    "reading": "Kar-tab-ya-pa-raa-ya-nah",
+                    "meaning": "Dutiful",
+                    "example_sentence": "कर्तव्यपरायणः सदा प्रशंसनीयः। (A dutiful person is always praiseworthy.)"
+                },
+                {
+                    "word": "सहयोगः",
+                    "reading": "Sa-ha-yo-gah",
+                    "meaning": "Cooperation",
+                    "example_sentence": "सहयोगः सफलतायाः कुञ्जिका। (Cooperation is the key to success.)"
+                },
+                {
+                    "word": "विरोधः",
+                    "reading": "Vi-ro-dhah",
+                    "meaning": "Opposition",
+                    "example_sentence": "विरोधः संघर्षं जनयति। (Opposition creates conflict.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "एकता",
+                    "reading": "E-ka-taa",
+                    "meaning": "Unity",
+                    "example_sentence": "एकता बलम् अस्ति। (Unity is strength.)"
+                },
+                {
+                    "word": "भेदभावः",
+                    "reading": "Bhed-bhaa-vah",
+                    "meaning": "Discrimination",
+                    "example_sentence": "भेदभावः अन्यायः अस्ति। (Discrimination is injustice.)"
+                },
+                {
+                    "word": "समानता",
+                    "reading": "Sa-maa-na-taa",
+                    "meaning": "Equality",
+                    "example_sentence": "समानता लोकतन्त्रस्य आधारः। (Equality is the foundation of democracy.)"
+                },
+                {
+                    "word": "स्वतन्त्रता",
+                    "reading": "Sva-tan-tra-taa",
+                    "meaning": "Freedom/Independence",
+                    "example_sentence": "स्वतन्त्रता मूलभूतं अधिकारम्। (Freedom is a fundamental right.)"
+                },
+                {
+                    "word": "परतन्त्रता",
+                    "reading": "Pa-ra-tan-tra-taa",
+                    "meaning": "Dependence/Bondage",
+                    "example_sentence": "परतन्त्रता दुःखदायिका। (Dependence is sorrowful.)"
+                },
+                {
+                    "word": "प्रतिष्ठा",
+                    "reading": "Pra-tish-thaa",
+                    "meaning": "Prestige/Status",
+                    "example_sentence": "प्रतिष्ठा कर्मणा लभ्यते। (Prestige is gained by deeds.)"
+                },
+                {
+                    "word": "अपमानः",
+                    "reading": "A-pa-maa-nah",
+                    "meaning": "Insult/Dishonor",
+                    "example_sentence": "अपमानः असहनीयः अस्ति। (Insult is unbearable.)"
+                },
+                {
+                    "word": "सम्मानः",
+                    "reading": "Sam-maa-nah",
+                    "meaning": "Honor/Respect",
+                    "example_sentence": "सम्मानः सर्वेभ्यः देयः। (Respect should be given to all.)"
+                },
+                {
+                    "word": "लोकलाज",
+                    "reading": "Lo-ka-laa-ja",
+                    "meaning": "Social shame",
+                    "example_sentence": "लोकलाजात् सः कार्यं न करोति। (He doesn't do the work due to social shame.)"
+                },
+                {
+                    "word": "कुलशीलम्",
+                    "reading": "Ku-la-shee-lam",
+                    "meaning": "Family character/Tradition",
+                    "example_sentence": "कुलशीलं रक्षणीयम् अस्ति। (Family character must be protected.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "विवाहविच्छेदः",
+                    "reading": "Vi-vaa-ha-vich-che-dah",
+                    "meaning": "Divorce/Separation",
+                    "example_sentence": "विवाहविच्छेदः दुःखदायकः। (Divorce is sorrowful.)"
+                },
+                {
+                    "word": "पुनर्विवाहः",
+                    "reading": "Pu-nar-vi-vaa-hah",
+                    "meaning": "Remarriage",
+                    "example_sentence": "पुनर्विवाहः समाजे स्वीकृतः। (Remarriage is accepted in society.)"
+                },
+                {
+                    "word": "विधवा",
+                    "reading": "Vi-dha-vaa",
+                    "meaning": "Widow",
+                    "example_sentence": "विधवा सम्मानीया अस्ति। (A widow is respectable.)"
+                },
+                {
+                    "word": "विधुरः",
+                    "reading": "Vi-dhu-rah",
+                    "meaning": "Widower",
+                    "example_sentence": "विधुरः एकाकी जीवति। (The widower lives alone.)"
+                },
+                {
+                    "word": "अनाथः",
+                    "reading": "A-naa-thah",
+                    "meaning": "Orphan",
+                    "example_sentence": "अनाथः सहायतां प्राप्नोति। (The orphan receives help.)"
+                },
+                {
+                    "word": "पालकः",
+                    "reading": "Paa-la-kah",
+                    "meaning": "Guardian/Foster parent",
+                    "example_sentence": "पालकः बालकं पोषयति। (The guardian nourishes the child.)"
+                },
+                {
+                    "word": "सगोत्रविवाहः",
+                    "reading": "Sa-got-ra-vi-vaa-hah",
+                    "meaning": "Marriage within same gotra",
+                    "example_sentence": "सगोत्रविवाहः निषिद्धः अस्ति। (Marriage within same gotra is prohibited.)"
+                },
+                {
+                    "word": "वर्णव्यवस्था",
+                    "reading": "Var-na-vya-vas-thaa",
+                    "meaning": "Social class system",
+                    "example_sentence": "वर्णव्यवस्था प्राचीनः परम्परा। (The class system is an ancient tradition.)"
+                },
+                {
+                    "word": "ऋणमुक्तिः",
+                    "reading": "Ru-na-muk-tih",
+                    "meaning": "Freedom from debt",
+                    "example_sentence": "ऋणमुक्तिः सुखदायिका। (Freedom from debt is pleasant.)"
+                },
+                {
+                    "word": "यज्ञशिष्टम्",
+                    "reading": "Yaj-nya-shish-tam",
+                    "meaning": "Remnants of sacrifice",
+                    "example_sentence": "यज्ञशिष्टं प्रसादः भवति। (Sacrifice remnants become blessed food.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Sanskrit Kinship Term Trap",
+        "question": "What is the correct Sanskrit term for 'husband's brother's wife'?",
+        "options": [
+            "यातृ (yaatR - co-sister-in-law)",
+            "ननान्दा (nanaandaa - husband's sister)",
+            "श्याली (shyaalee - wife's sister)",
+            "देवरपत्नी (devara-patnee - younger brother-in-law's wife)"
+        ],
+        "correct_answer_index": 3,
+        "explanation": "While यातृ (yaatR) appears in some texts, it's actually an archaic and rarely used term. The more accurate classical Sanskrit term for 'husband's brother's wife' (co-sister-in-law) is देवरपत्नी (devara-patnee) or simply जायातृ (jaayaatR). The word यातृ is a trap because it looks authentic but is not the standard term used in classical Sanskrit literature. This teaches learners to distinguish between rare archaic terms and commonly used classical Sanskrit vocabulary for family relationships!"
+    }
+}

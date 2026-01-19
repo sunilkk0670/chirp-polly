@@ -1,0 +1,627 @@
+{
+    "moduleId": "de_a1_m03",
+    "theme": "Food, Dining & Grocery",
+    "title": "Food, Dining & Grocery",
+    "level": "a1",
+    "language": "german",
+    "order": 3,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "Das Essen",
+                    "reading": "das ES-en",
+                    "meaning": "The food/meal (plural: Essen)",
+                    "example_sentence": "Das Essen schmeckt gut. (The food tastes good.)"
+                },
+                {
+                    "word": "Das Getränk",
+                    "reading": "das ge-TRENK",
+                    "meaning": "The drink (plural: Getränke)",
+                    "example_sentence": "Das Getränk ist kalt. (The drink is cold.)"
+                },
+                {
+                    "word": "Hunger haben",
+                    "reading": "HOONG-er HA-ben",
+                    "meaning": "To be hungry",
+                    "example_sentence": "Ich habe Hunger. (I am hungry.)"
+                },
+                {
+                    "word": "Durst haben",
+                    "reading": "DOORST HA-ben",
+                    "meaning": "To be thirsty",
+                    "example_sentence": "Ich habe Durst. (I am thirsty.)"
+                },
+                {
+                    "word": "Das Abendbrot",
+                    "reading": "das AH-bent-broht",
+                    "meaning": "The light evening meal (plural: Abendbrote)",
+                    "example_sentence": "Wir essen Abendbrot zusammen. (We eat dinner together.)"
+                },
+                {
+                    "word": "Der Supermarkt",
+                    "reading": "dehr ZOO-per-markt",
+                    "meaning": "The supermarket (plural: Supermärkte)",
+                    "example_sentence": "Ich gehe zum Supermarkt. (I go to the supermarket.)"
+                },
+                {
+                    "word": "Die Bäckerei",
+                    "reading": "dee bek-e-RYE",
+                    "meaning": "The bakery (plural: Bäckereien)",
+                    "example_sentence": "Die Bäckerei ist hier. (The bakery is here.)"
+                },
+                {
+                    "word": "Das Fleisch",
+                    "reading": "das FLYSHE",
+                    "meaning": "The meat (no plural)",
+                    "example_sentence": "Das Fleisch ist frisch. (The meat is fresh.)"
+                },
+                {
+                    "word": "Das Hähnchen",
+                    "reading": "das HEN-shen",
+                    "meaning": "The chicken (plural: Hähnchen)",
+                    "example_sentence": "Das Hähnchen ist lecker. (The chicken is delicious.)"
+                },
+                {
+                    "word": "Der Fisch",
+                    "reading": "dehr FISH",
+                    "meaning": "The fish (plural: Fische)",
+                    "example_sentence": "Der Fisch ist gesund. (The fish is healthy.)"
+                },
+                {
+                    "word": "Das Gemüse",
+                    "reading": "das ge-MUE-ze",
+                    "meaning": "The vegetables (plural: Gemüse)",
+                    "example_sentence": "Das Gemüse ist frisch. (The vegetables are fresh.)"
+                },
+                {
+                    "word": "Das Obst",
+                    "reading": "das OHPST",
+                    "meaning": "The fruit (no plural)",
+                    "example_sentence": "Das Obst ist süß. (The fruit is sweet.)"
+                },
+                {
+                    "word": "Die Kartoffel",
+                    "reading": "dee kar-TOF-el",
+                    "meaning": "The potato (plural: Kartoffeln)",
+                    "example_sentence": "Die Kartoffel ist groß. (The potato is big.)"
+                },
+                {
+                    "word": "Der Reis",
+                    "reading": "dehr RYSE",
+                    "meaning": "The rice (no plural)",
+                    "example_sentence": "Der Reis ist fertig. (The rice is ready.)"
+                },
+                {
+                    "word": "Die Nudeln",
+                    "reading": "dee NOO-deln",
+                    "meaning": "The pasta/noodles (plural only)",
+                    "example_sentence": "Die Nudeln sind heiß. (The noodles are hot.)"
+                },
+                {
+                    "word": "Das Ei",
+                    "reading": "das EYE",
+                    "meaning": "The egg (plural: Eier)",
+                    "example_sentence": "Das Ei ist gekocht. (The egg is cooked.)"
+                },
+                {
+                    "word": "Der Käse",
+                    "reading": "dehr KAY-ze",
+                    "meaning": "The cheese (plural: Käse)",
+                    "example_sentence": "Der Käse schmeckt gut. (The cheese tastes good.)"
+                },
+                {
+                    "word": "Die Wurst",
+                    "reading": "dee VOORST",
+                    "meaning": "The sausage (plural: Würste)",
+                    "example_sentence": "Die Wurst ist deutsch. (The sausage is German.)"
+                },
+                {
+                    "word": "Der Schinken",
+                    "reading": "dehr SHIN-ken",
+                    "meaning": "The ham (plural: Schinken)",
+                    "example_sentence": "Der Schinken ist teuer. (The ham is expensive.)"
+                },
+                {
+                    "word": "Die Butter",
+                    "reading": "dee BOO-ter",
+                    "meaning": "The butter (no plural)",
+                    "example_sentence": "Die Butter ist weich. (The butter is soft.)"
+                },
+                {
+                    "word": "Der Zucker",
+                    "reading": "dehr TSOOK-er",
+                    "meaning": "The sugar (no plural)",
+                    "example_sentence": "Der Zucker ist süß. (The sugar is sweet.)"
+                },
+                {
+                    "word": "Das Salz",
+                    "reading": "das ZALTS",
+                    "meaning": "The salt (plural: Salze)",
+                    "example_sentence": "Das Salz ist auf dem Tisch. (The salt is on the table.)"
+                },
+                {
+                    "word": "Der Pfeffer",
+                    "reading": "dehr PFE-fer",
+                    "meaning": "The pepper (no plural)",
+                    "example_sentence": "Der Pfeffer ist scharf. (The pepper is spicy.)"
+                },
+                {
+                    "word": "Das Öl",
+                    "reading": "das OEL",
+                    "meaning": "The oil (plural: Öle)",
+                    "example_sentence": "Das Öl ist gesund. (The oil is healthy.)"
+                },
+                {
+                    "word": "Der Essig",
+                    "reading": "dehr ES-ish",
+                    "meaning": "The vinegar (plural: Essige)",
+                    "example_sentence": "Der Essig ist sauer. (The vinegar is sour.)"
+                },
+                {
+                    "word": "Der Apfelsaft",
+                    "reading": "dehr AP-fel-zaft",
+                    "meaning": "The apple juice (plural: Apfelsäfte)",
+                    "example_sentence": "Der Apfelsaft ist frisch. (The apple juice is fresh.)"
+                },
+                {
+                    "word": "Die Orangen",
+                    "reading": "dee o-RAHN-zhen",
+                    "meaning": "The oranges (plural only)",
+                    "example_sentence": "Die Orangen sind süß. (The oranges are sweet.)"
+                },
+                {
+                    "word": "Die Banane",
+                    "reading": "dee ba-NA-ne",
+                    "meaning": "The banana (plural: Bananen)",
+                    "example_sentence": "Die Banane ist gelb. (The banana is yellow.)"
+                },
+                {
+                    "word": "Die Tomate",
+                    "reading": "dee to-MA-te",
+                    "meaning": "The tomato (plural: Tomaten)",
+                    "example_sentence": "Die Tomate ist rot. (The tomato is red.)"
+                },
+                {
+                    "word": "Der Salat",
+                    "reading": "dehr za-LAHT",
+                    "meaning": "The salad/lettuce (plural: Salate)",
+                    "example_sentence": "Der Salat ist frisch. (The salad is fresh.)"
+                },
+                {
+                    "word": "Die Zwiebel",
+                    "reading": "dee TSVEE-bel",
+                    "meaning": "The onion (plural: Zwiebeln)",
+                    "example_sentence": "Die Zwiebel ist scharf. (The onion is spicy.)"
+                },
+                {
+                    "word": "Knoblauch",
+                    "reading": "KNOH-blowkh",
+                    "meaning": "Garlic (no plural)",
+                    "example_sentence": "Knoblauch ist gesund. (Garlic is healthy.)"
+                },
+                {
+                    "word": "Die Suppe",
+                    "reading": "dee ZOO-pe",
+                    "meaning": "The soup (plural: Suppen)",
+                    "example_sentence": "Die Suppe ist heiß. (The soup is hot.)"
+                },
+                {
+                    "word": "Die Pizza",
+                    "reading": "dee PI-tsa",
+                    "meaning": "The pizza (plural: Pizzas)",
+                    "example_sentence": "Die Pizza schmeckt lecker. (The pizza tastes delicious.)"
+                },
+                {
+                    "word": "Der Nachtisch",
+                    "reading": "dehr NAHK-tish",
+                    "meaning": "The dessert (plural: Nachtische)",
+                    "example_sentence": "Der Nachtisch ist süß. (The dessert is sweet.)"
+                },
+                {
+                    "word": "Der Kuchen",
+                    "reading": "dehr KOO-khen",
+                    "meaning": "The cake (plural: Kuchen)",
+                    "example_sentence": "Der Kuchen ist lecker. (The cake is delicious.)"
+                },
+                {
+                    "word": "Das Eis",
+                    "reading": "das EYE-ss",
+                    "meaning": "The ice cream (no plural)",
+                    "example_sentence": "Das Eis ist kalt. (The ice cream is cold.)"
+                },
+                {
+                    "word": "Die Schokolade",
+                    "reading": "dee sho-ko-LA-de",
+                    "meaning": "The chocolate (plural: Schokoladen)",
+                    "example_sentence": "Die Schokolade ist süß. (The chocolate is sweet.)"
+                },
+                {
+                    "word": "Das Restaurant",
+                    "reading": "das res-to-RAHNT",
+                    "meaning": "The restaurant (plural: Restaurants)",
+                    "example_sentence": "Das Restaurant ist teuer. (The restaurant is expensive.)"
+                },
+                {
+                    "word": "Die Speisekarte",
+                    "reading": "dee SHPYE-ze-kar-te",
+                    "meaning": "The menu (plural: Speisekarten)",
+                    "example_sentence": "Die Speisekarte ist groß. (The menu is big.)"
+                },
+                {
+                    "word": "Bestellen",
+                    "reading": "be-SHTEL-en",
+                    "meaning": "To order",
+                    "example_sentence": "Ich bestelle Pizza. (I order pizza.)"
+                },
+                {
+                    "word": "Reservieren",
+                    "reading": "re-zehr-VEE-ren",
+                    "meaning": "To reserve",
+                    "example_sentence": "Ich reserviere einen Tisch. (I reserve a table.)"
+                },
+                {
+                    "word": "Der Kellner",
+                    "reading": "dehr KEL-ner",
+                    "meaning": "The waiter (plural: Kellner)",
+                    "example_sentence": "Der Kellner ist nett. (The waiter is nice.)"
+                },
+                {
+                    "word": "Die Rechnung",
+                    "reading": "dee REKH-nung",
+                    "meaning": "The bill/check (plural: Rechnungen)",
+                    "example_sentence": "Die Rechnung bitte! (The bill please!)"
+                },
+                {
+                    "word": "Trinkgeld",
+                    "reading": "TRINK-gelt",
+                    "meaning": "Tip (plural: Trinkgelder)",
+                    "example_sentence": "Das Trinkgeld ist zehn Euro. (The tip is ten euros.)"
+                },
+                {
+                    "word": "Bar bezahlen",
+                    "reading": "BAR be-TSA-len",
+                    "meaning": "To pay cash",
+                    "example_sentence": "Ich bezahle bar. (I pay cash.)"
+                },
+                {
+                    "word": "Mit Karte bezahlen",
+                    "reading": "mit KAR-te be-TSA-len",
+                    "meaning": "To pay by card",
+                    "example_sentence": "Ich bezahle mit Karte. (I pay by card.)"
+                },
+                {
+                    "word": "Lecker",
+                    "reading": "LEK-er",
+                    "meaning": "Delicious",
+                    "example_sentence": "Das Essen ist lecker. (The food is delicious.)"
+                },
+                {
+                    "word": "Scharf",
+                    "reading": "SHARF",
+                    "meaning": "Spicy",
+                    "example_sentence": "Die Suppe ist scharf. (The soup is spicy.)"
+                },
+                {
+                    "word": "Süß",
+                    "reading": "SUESS",
+                    "meaning": "Sweet",
+                    "example_sentence": "Der Kuchen ist süß. (The cake is sweet.)"
+                },
+                {
+                    "word": "Sauer",
+                    "reading": "ZOW-er",
+                    "meaning": "Sour",
+                    "example_sentence": "Die Zitrone ist sauer. (The lemon is sour.)"
+                },
+                {
+                    "word": "Salzig",
+                    "reading": "ZAL-tsish",
+                    "meaning": "Salty",
+                    "example_sentence": "Die Suppe ist salzig. (The soup is salty.)"
+                },
+                {
+                    "word": "Frisch",
+                    "reading": "FRISH",
+                    "meaning": "Fresh",
+                    "example_sentence": "Das Brot ist frisch. (The bread is fresh.)"
+                },
+                {
+                    "word": "Heiß",
+                    "reading": "HYSE",
+                    "meaning": "Hot",
+                    "example_sentence": "Der Kaffee ist heiß. (The coffee is hot.)"
+                },
+                {
+                    "word": "Das Glas",
+                    "reading": "das GLAHS",
+                    "meaning": "The glass (plural: Gläser)",
+                    "example_sentence": "Das Glas ist voll. (The glass is full.)"
+                },
+                {
+                    "word": "Die Tasse",
+                    "reading": "dee TAS-e",
+                    "meaning": "The cup (plural: Tassen)",
+                    "example_sentence": "Die Tasse ist heiß. (The cup is hot.)"
+                },
+                {
+                    "word": "Der Teller",
+                    "reading": "dehr TEL-er",
+                    "meaning": "The plate (plural: Teller)",
+                    "example_sentence": "Der Teller ist leer. (The plate is empty.)"
+                },
+                {
+                    "word": "Das Messer",
+                    "reading": "das MES-er",
+                    "meaning": "The knife (plural: Messer)",
+                    "example_sentence": "Das Messer ist scharf. (The knife is sharp.)"
+                },
+                {
+                    "word": "Die Gabel",
+                    "reading": "dee GA-bel",
+                    "meaning": "The fork (plural: Gabeln)",
+                    "example_sentence": "Die Gabel ist sauber. (The fork is clean.)"
+                },
+                {
+                    "word": "Der Löffel",
+                    "reading": "dehr LOEF-el",
+                    "meaning": "The spoon (plural: Löffel)",
+                    "example_sentence": "Der Löffel ist klein. (The spoon is small.)"
+                },
+                {
+                    "word": "Die Serviette",
+                    "reading": "dee zehr-VYET-e",
+                    "meaning": "The napkin (plural: Servietten)",
+                    "example_sentence": "Die Serviette ist weiß. (The napkin is white.)"
+                },
+                {
+                    "word": "Die Flasche",
+                    "reading": "dee FLASH-e",
+                    "meaning": "The bottle (plural: Flaschen)",
+                    "example_sentence": "Die Flasche ist leer. (The bottle is empty.)"
+                },
+                {
+                    "word": "Der Einkaufswagen",
+                    "reading": "dehr EYN-kowfs-va-gen",
+                    "meaning": "The shopping cart (plural: Einkaufswagen)",
+                    "example_sentence": "Der Einkaufswagen ist voll. (The shopping cart is full.)"
+                },
+                {
+                    "word": "Die Tüte",
+                    "reading": "dee TUE-te",
+                    "meaning": "The bag (plastic/paper) (plural: Tüten)",
+                    "example_sentence": "Die Tüte ist groß. (The bag is big.)"
+                },
+                {
+                    "word": "An der Kasse",
+                    "reading": "an dehr KAS-e",
+                    "meaning": "At the checkout",
+                    "example_sentence": "Ich bin an der Kasse. (I am at the checkout.)"
+                },
+                {
+                    "word": "Sonderangebot",
+                    "reading": "ZON-der-ahn-ge-boht",
+                    "meaning": "Special offer (plural: Sonderangebote)",
+                    "example_sentence": "Das ist ein Sonderangebot. (That is a special offer.)"
+                },
+                {
+                    "word": "Wie viel kostet das?",
+                    "reading": "vee feel KOS-tet das",
+                    "meaning": "How much does that cost?",
+                    "example_sentence": "Wie viel kostet das Brot? (How much does the bread cost?)"
+                },
+                {
+                    "word": "Das ist zu teuer",
+                    "reading": "das ist tsoo TOY-er",
+                    "meaning": "That is too expensive",
+                    "example_sentence": "Das ist zu teuer für mich. (That is too expensive for me.)"
+                },
+                {
+                    "word": "Etwas anderes",
+                    "reading": "ET-vas AN-de-res",
+                    "meaning": "Something else",
+                    "example_sentence": "Ich möchte etwas anderes. (I would like something else.)"
+                },
+                {
+                    "word": "Noch eins",
+                    "reading": "nokh EYNS",
+                    "meaning": "One more",
+                    "example_sentence": "Noch eins bitte! (One more please!)"
+                },
+                {
+                    "word": "Alles zusammen",
+                    "reading": "AL-es tsoo-ZAM-en",
+                    "meaning": "All together",
+                    "example_sentence": "Alles zusammen kostet 20 Euro. (All together costs 20 euros.)"
+                },
+                {
+                    "word": "Getrennt bezahlen",
+                    "reading": "ge-TRENT be-TSA-len",
+                    "meaning": "To pay separately",
+                    "example_sentence": "Wir bezahlen getrennt. (We pay separately.)"
+                },
+                {
+                    "word": "Mahlzeit!",
+                    "reading": "MAHL-tsyte",
+                    "meaning": "Enjoy your meal! (Common greeting)",
+                    "example_sentence": "Mahlzeit! Guten Appetit! (Enjoy your meal!)"
+                },
+                {
+                    "word": "Guten Appetit!",
+                    "reading": "GOO-ten a-pe-TEET",
+                    "meaning": "Bon appétit!",
+                    "example_sentence": "Guten Appetit! Das Essen ist fertig. (Bon appétit! The food is ready.)"
+                },
+                {
+                    "word": "Prost!",
+                    "reading": "PROHST",
+                    "meaning": "Cheers!",
+                    "example_sentence": "Prost! Zum Wohl! (Cheers! To your health!)"
+                },
+                {
+                    "word": "Zum Wohl!",
+                    "reading": "tsoom VOHL",
+                    "meaning": "To your health!",
+                    "example_sentence": "Zum Wohl! Prost! (To your health! Cheers!)"
+                },
+                {
+                    "word": "Satt sein",
+                    "reading": "ZAT zyne",
+                    "meaning": "To be full/satisfied",
+                    "example_sentence": "Ich bin satt. (I am full.)"
+                },
+                {
+                    "word": "Backen",
+                    "reading": "BAK-en",
+                    "meaning": "To bake",
+                    "example_sentence": "Ich backe einen Kuchen. (I bake a cake.)"
+                },
+                {
+                    "word": "Braten",
+                    "reading": "BRA-ten",
+                    "meaning": "To fry/roast",
+                    "example_sentence": "Ich brate Fleisch. (I fry meat.)"
+                },
+                {
+                    "word": "Schneiden",
+                    "reading": "SHNYE-den",
+                    "meaning": "To cut",
+                    "example_sentence": "Ich schneide das Brot. (I cut the bread.)"
+                },
+                {
+                    "word": "Mischen",
+                    "reading": "MISH-en",
+                    "meaning": "To mix",
+                    "example_sentence": "Ich mische die Zutaten. (I mix the ingredients.)"
+                },
+                {
+                    "word": "Das Rezept",
+                    "reading": "das re-TSEPT",
+                    "meaning": "The recipe (plural: Rezepte)",
+                    "example_sentence": "Das Rezept ist einfach. (The recipe is simple.)"
+                },
+                {
+                    "word": "Die Zutat",
+                    "reading": "dee TSOO-taht",
+                    "meaning": "The ingredient (plural: Zutaten)",
+                    "example_sentence": "Die Zutat ist frisch. (The ingredient is fresh.)"
+                },
+                {
+                    "word": "Gesund",
+                    "reading": "ge-ZOONT",
+                    "meaning": "Healthy",
+                    "example_sentence": "Das Essen ist gesund. (The food is healthy.)"
+                },
+                {
+                    "word": "Ungesund",
+                    "reading": "OON-ge-zoont",
+                    "meaning": "Unhealthy",
+                    "example_sentence": "Fast Food ist ungesund. (Fast food is unhealthy.)"
+                },
+                {
+                    "word": "Vegetarisch",
+                    "reading": "ve-ge-TA-rish",
+                    "meaning": "Vegetarian",
+                    "example_sentence": "Ich esse vegetarisch. (I eat vegetarian.)"
+                },
+                {
+                    "word": "Vegan",
+                    "reading": "ve-GAHN",
+                    "meaning": "Vegan",
+                    "example_sentence": "Das Restaurant ist vegan. (The restaurant is vegan.)"
+                },
+                {
+                    "word": "Ohne Fleisch",
+                    "reading": "OH-ne FLYSHE",
+                    "meaning": "Without meat",
+                    "example_sentence": "Ich esse ohne Fleisch. (I eat without meat.)"
+                },
+                {
+                    "word": "Die Milchprodukte",
+                    "reading": "dee MILSH-pro-dook-te",
+                    "meaning": "Dairy products (plural only)",
+                    "example_sentence": "Die Milchprodukte sind frisch. (The dairy products are fresh.)"
+                },
+                {
+                    "word": "Das Getreide",
+                    "reading": "das ge-TRY-de",
+                    "meaning": "The grain/cereal (plural: Getreide)",
+                    "example_sentence": "Das Getreide ist gesund. (The grain is healthy.)"
+                },
+                {
+                    "word": "Die Dose",
+                    "reading": "dee DOH-ze",
+                    "meaning": "The can/tin (plural: Dosen) [LIAR GAME: NOT a medical dose]",
+                    "example_sentence": "Die Dose ist voll. (The can is full.) [LIAR GAME: NOT 'dose of medicine']"
+                },
+                {
+                    "word": "Der Chef",
+                    "reading": "dehr SHEF",
+                    "meaning": "The boss (plural: Chefs) [LIAR GAME: NOT the cook/chef]",
+                    "example_sentence": "Der Chef ist hier. (The boss is here.) [LIAR GAME: NOT 'chef/cook']"
+                },
+                {
+                    "word": "Die Speise",
+                    "reading": "dee SHPYE-ze",
+                    "meaning": "The dish/food (plural: Speisen) [LIAR GAME: NOT a spice]",
+                    "example_sentence": "Die Speise ist lecker. (The dish is delicious.) [LIAR GAME: NOT 'spice']"
+                },
+                {
+                    "word": "Baiser",
+                    "reading": "be-ZAY",
+                    "meaning": "Meringue [LIAR GAME: NOT a kiss - French loanword]",
+                    "example_sentence": "Das Baiser ist süß. (The meringue is sweet.) [LIAR GAME: NOT 'kiss']"
+                },
+                {
+                    "word": "Durstig",
+                    "reading": "DOOR-stish",
+                    "meaning": "Thirsty",
+                    "example_sentence": "Ich bin durstig. (I am thirsty.)"
+                },
+                {
+                    "word": "Hungrig",
+                    "reading": "HOONG-rish",
+                    "meaning": "Hungry",
+                    "example_sentence": "Ich bin hungrig. (I am hungry.)"
+                },
+                {
+                    "word": "Kosten",
+                    "reading": "KOS-ten",
+                    "meaning": "To cost",
+                    "example_sentence": "Wie viel kostet das? (How much does that cost?)"
+                },
+                {
+                    "word": "Probieren",
+                    "reading": "pro-BEE-ren",
+                    "meaning": "To try/taste",
+                    "example_sentence": "Ich probiere den Kuchen. (I try the cake.)"
+                },
+                {
+                    "word": "Schmecken",
+                    "reading": "SHMEK-en",
+                    "meaning": "To taste",
+                    "example_sentence": "Das Essen schmeckt gut. (The food tastes good.)"
+                },
+                {
+                    "word": "Guten Flug!",
+                    "reading": "GOO-ten FLOOG",
+                    "meaning": "Have a good flight!",
+                    "example_sentence": "Guten Flug! Bis bald! (Have a good flight! See you soon!)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "German Food False Friends",
+        "question": "You're in a German supermarket and see 'Tomaten in der Dose.' What are you looking at?",
+        "options": [
+            "Tomatoes with a dose of medicine",
+            "Tomatoes in a can/tin",
+            "Tomato dosage instructions",
+            "Dosed tomato portions"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The German word 'Dose' means 'can' or 'tin,' NOT a medical dose. So 'Tomaten in der Dose' means 'canned tomatoes.' Other food-related false friends include 'Chef' (boss, not chef/cook), 'Speise' (dish/food, not spice), and 'Baiser' (meringue, not kiss). These traps are especially common in grocery and restaurant contexts."
+    }
+}

@@ -1,0 +1,672 @@
+{
+    "moduleId": "sa_a2_m05",
+    "theme": "Advanced Health & Anatomy",
+    "title": "Advanced Health & Anatomy",
+    "level": "a2",
+    "language": "sanskrit",
+    "order": 5,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "कलेवरम्",
+                    "reading": "Ka-le-va-ram",
+                    "meaning": "Human body/Frame",
+                    "example_sentence": "कलेवरं पञ्चभूतात्मकम्। (The body is made of five elements.)"
+                },
+                {
+                    "word": "अस्थिपञ्जरः",
+                    "reading": "As-thi-pan-ja-rah",
+                    "meaning": "Skeleton",
+                    "example_sentence": "अस्थिपञ्जरः शरीरस्य आधारः। (The skeleton is the foundation of the body.)"
+                },
+                {
+                    "word": "कपालः",
+                    "reading": "Ka-paa-lah",
+                    "meaning": "Skull",
+                    "example_sentence": "कपालः मस्तिष्कं रक्षति। (The skull protects the brain.)"
+                },
+                {
+                    "word": "मस्तिष्कम्",
+                    "reading": "Mas-tish-kam",
+                    "meaning": "Brain",
+                    "example_sentence": "मस्तिष्कं चिन्तनस्य केन्द्रम्। (The brain is the center of thinking.)"
+                },
+                {
+                    "word": "धमनी",
+                    "reading": "Dha-ma-nee",
+                    "meaning": "Artery",
+                    "example_sentence": "धमनी शुद्धं रक्तं वहति। (The artery carries pure blood.)"
+                },
+                {
+                    "word": "शिरा",
+                    "reading": "Shi-raa",
+                    "meaning": "Vein",
+                    "example_sentence": "शिरा अशुद्धं रक्तं वहति। (The vein carries impure blood.)"
+                },
+                {
+                    "word": "हृदयम्",
+                    "reading": "Hru-da-yam",
+                    "meaning": "Heart organ",
+                    "example_sentence": "हृदयं रक्तं पम्पयति। (The heart pumps blood.)"
+                },
+                {
+                    "word": "फुफ्फुसः",
+                    "reading": "Phuph-phu-sah",
+                    "meaning": "Lung",
+                    "example_sentence": "फुफ्फुसः श्वसनं करोति। (The lung performs respiration.)"
+                },
+                {
+                    "word": "जठरम्",
+                    "reading": "Ja-tha-ram",
+                    "meaning": "Stomach/Belly",
+                    "example_sentence": "जठरे भोजनं पच्यते। (Food is digested in the stomach.)"
+                },
+                {
+                    "word": "यकृत्",
+                    "reading": "Ya-krut",
+                    "meaning": "Liver (Trap Word)",
+                    "example_sentence": "यकृत् पित्तं निर्माति। (The liver produces bile.) [LIAR GAME TRAP]"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "प्लीहा",
+                    "reading": "Plee-haa",
+                    "meaning": "Spleen",
+                    "example_sentence": "प्लीहा रक्तशोधनं करोति। (The spleen purifies blood.)"
+                },
+                {
+                    "word": "वृक्कः",
+                    "reading": "Vruk-kah",
+                    "meaning": "Kidney",
+                    "example_sentence": "वृक्कः मूत्रं निर्माति। (The kidney produces urine.)"
+                },
+                {
+                    "word": "अन्त्रम्",
+                    "reading": "An-tram",
+                    "meaning": "Intestine",
+                    "example_sentence": "अन्त्रे पाचनं भवति। (Digestion happens in the intestine.)"
+                },
+                {
+                    "word": "मेरुदण्डः",
+                    "reading": "Me-ru-dan-dah",
+                    "meaning": "Spine/Backbone",
+                    "example_sentence": "मेरुदण्डः शरीरं धारयति। (The spine supports the body.)"
+                },
+                {
+                    "word": "ग्रन्थिः",
+                    "reading": "Gran-thih",
+                    "meaning": "Gland/Knot",
+                    "example_sentence": "ग्रन्थिः हार्मोनं स्रवति। (The gland secretes hormones.)"
+                },
+                {
+                    "word": "रक्तचापः",
+                    "reading": "Rak-ta-chaa-pah",
+                    "meaning": "Blood pressure",
+                    "example_sentence": "रक्तचापः नियमितः भवेत्। (Blood pressure should be regular.)"
+                },
+                {
+                    "word": "श्वसनम्",
+                    "reading": "Shva-sa-nam",
+                    "meaning": "Respiration",
+                    "example_sentence": "श्वसनं जीवनाय आवश्यकम्। (Respiration is necessary for life.)"
+                },
+                {
+                    "word": "पाचनम्",
+                    "reading": "Paa-cha-nam",
+                    "meaning": "Digestion",
+                    "example_sentence": "पाचनं जठरे भवति। (Digestion happens in the stomach.)"
+                },
+                {
+                    "word": "उत्सर्जनम्",
+                    "reading": "Ut-sar-ja-nam",
+                    "meaning": "Excretion",
+                    "example_sentence": "उत्सर्जनं शरीरशुद्ध्यै आवश्यकम्। (Excretion is necessary for body purification.)"
+                },
+                {
+                    "word": "मज्जा",
+                    "reading": "Maj-jaa",
+                    "meaning": "Marrow",
+                    "example_sentence": "मज्जा अस्थिमध्ये विद्यते। (Marrow is found inside bones.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "मेदस्",
+                    "reading": "Me-das",
+                    "meaning": "Fat/Adipose tissue",
+                    "example_sentence": "मेदः शरीरे ऊर्जां संचिनोति। (Fat stores energy in the body.)"
+                },
+                {
+                    "word": "शुक्रम्",
+                    "reading": "Shuk-ram",
+                    "meaning": "Vital seed/Semen",
+                    "example_sentence": "शुक्रं सप्तमः धातुः। (Shukra is the seventh tissue.)"
+                },
+                {
+                    "word": "शोणितम्",
+                    "reading": "Sho-ni-tam",
+                    "meaning": "Blood",
+                    "example_sentence": "शोणितं जीवनस्य आधारः। (Blood is the basis of life.)"
+                },
+                {
+                    "word": "स्नायुः",
+                    "reading": "Snaa-yuh",
+                    "meaning": "Tendon/Ligament",
+                    "example_sentence": "स्नायुः अस्थीनि योजयति। (Tendon connects bones.)"
+                },
+                {
+                    "word": "मांसपेशी",
+                    "reading": "Maan-sa-pe-shee",
+                    "meaning": "Muscle",
+                    "example_sentence": "मांसपेशी शरीरं चालयति। (Muscle moves the body.)"
+                },
+                {
+                    "word": "स्वेदः",
+                    "reading": "Sve-dah",
+                    "meaning": "Sweat/Perspiration",
+                    "example_sentence": "स्वेदः शरीरं शीतलं करोति। (Sweat cools the body.)"
+                },
+                {
+                    "word": "अश्रु",
+                    "reading": "Ash-ru",
+                    "meaning": "Tears",
+                    "example_sentence": "अश्रु नेत्रात् स्रवति। (Tears flow from the eyes.)"
+                },
+                {
+                    "word": "लाला",
+                    "reading": "Laa-laa",
+                    "meaning": "Saliva",
+                    "example_sentence": "लाला पाचने सहायकः। (Saliva helps in digestion.)"
+                },
+                {
+                    "word": "पित्तम्",
+                    "reading": "Pit-tam",
+                    "meaning": "Bile/Fire humor",
+                    "example_sentence": "पित्तं पाचनाग्निं वर्धयति। (Bile increases digestive fire.)"
+                },
+                {
+                    "word": "कफः",
+                    "reading": "Ka-phah",
+                    "meaning": "Phlegm/Water humor",
+                    "example_sentence": "कफः शरीरे स्निग्धतां ददाति। (Phlegm gives smoothness to the body.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "वातः",
+                    "reading": "Vaa-tah",
+                    "meaning": "Wind/Air humor",
+                    "example_sentence": "वातः शरीरे गतिं ददाति। (Wind gives movement to the body.)"
+                },
+                {
+                    "word": "त्रिदोषः",
+                    "reading": "Tri-do-shah",
+                    "meaning": "The three biological humors",
+                    "example_sentence": "त्रिदोषाः वातपित्तकफाः। (The three doshas are vata, pitta, and kapha.)"
+                },
+                {
+                    "word": "धातुः",
+                    "reading": "Dhaa-tuh",
+                    "meaning": "Bodily constituent/Tissue",
+                    "example_sentence": "धातवः सप्त सन्ति। (There are seven tissues.)"
+                },
+                {
+                    "word": "व्याधिः",
+                    "reading": "Vyaa-dhih",
+                    "meaning": "Disease/Ailment",
+                    "example_sentence": "व्याधिः दोषवैषम्यात् भवति। (Disease arises from imbalance of doshas.)"
+                },
+                {
+                    "word": "संक्रमणम्",
+                    "reading": "San-kra-ma-nam",
+                    "meaning": "Infection/Contagion",
+                    "example_sentence": "संक्रमणं रोगप्रसारः अस्ति। (Infection is the spread of disease.)"
+                },
+                {
+                    "word": "शोथः",
+                    "reading": "Sho-thah",
+                    "meaning": "Swelling/Inflammation",
+                    "example_sentence": "शोथः व्रणस्य लक्षणम्। (Swelling is a symptom of wound.)"
+                },
+                {
+                    "word": "व्रणः",
+                    "reading": "Vra-nah",
+                    "meaning": "Ulcer/Wound",
+                    "example_sentence": "व्रणः शस्त्रेण भवति। (Wound is caused by weapon.)"
+                },
+                {
+                    "word": "कासः",
+                    "reading": "Kaa-sah",
+                    "meaning": "Chronic cough",
+                    "example_sentence": "कासः कफरोगः अस्ति। (Cough is a kapha disease.)"
+                },
+                {
+                    "word": "प्रतिश्यायः",
+                    "reading": "Pra-tish-yaa-yah",
+                    "meaning": "Common cold/Catarrh",
+                    "example_sentence": "प्रतिश्यायः शीतकाले भवति। (Cold happens in winter.)"
+                },
+                {
+                    "word": "अजीर्णम्",
+                    "reading": "A-jeer-nam",
+                    "meaning": "Indigestion",
+                    "example_sentence": "अजीर्णं अतिभोजनात् भवति। (Indigestion happens from overeating.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "अतिसारः",
+                    "reading": "A-ti-saa-rah",
+                    "meaning": "Diarrhea",
+                    "example_sentence": "अतिसारः जलीयमलत्यागः। (Diarrhea is watery stool discharge.)"
+                },
+                {
+                    "word": "विषूचिका",
+                    "reading": "Vi-shoo-chi-kaa",
+                    "meaning": "Cholera/Sharp pain",
+                    "example_sentence": "विषूचिका भयङ्करा रोगः। (Cholera is a terrible disease.)"
+                },
+                {
+                    "word": "पाण्डुः",
+                    "reading": "Paan-duh",
+                    "meaning": "Anemia/Paleness",
+                    "example_sentence": "पाण्डुः रक्ताल्पता अस्ति। (Pandu is lack of blood.)"
+                },
+                {
+                    "word": "मधुमेहः",
+                    "reading": "Ma-dhu-me-hah",
+                    "meaning": "Diabetes",
+                    "example_sentence": "मधुमेहः मूत्रे मधुरता। (Diabetes is sweetness in urine.)"
+                },
+                {
+                    "word": "श्वासकासः",
+                    "reading": "Shvaa-sa-kaa-sah",
+                    "meaning": "Asthma/Breathing difficulty",
+                    "example_sentence": "श्वासकासः श्वसनकष्टम्। (Asthma is breathing difficulty.)"
+                },
+                {
+                    "word": "अपस्मारः",
+                    "reading": "A-pas-maa-rah",
+                    "meaning": "Epilepsy/Forgetfulness",
+                    "example_sentence": "अपस्मारः मस्तिष्करोगः। (Epilepsy is a brain disease.)"
+                },
+                {
+                    "word": "उन्मादः",
+                    "reading": "Un-maa-dah",
+                    "meaning": "Insanity/Mania",
+                    "example_sentence": "उन्मादः मानसिकरोगः। (Insanity is a mental disease.)"
+                },
+                {
+                    "word": "मूर्च्छा",
+                    "reading": "Moor-ch-chaa",
+                    "meaning": "Fainting/Swoon",
+                    "example_sentence": "मूर्च्छा चेतनाहानिः। (Fainting is loss of consciousness.)"
+                },
+                {
+                    "word": "दाहः",
+                    "reading": "Daa-hah",
+                    "meaning": "Burning sensation",
+                    "example_sentence": "दाहः पित्तवृद्ध्या भवति। (Burning sensation happens from increased pitta.)"
+                },
+                {
+                    "word": "वेदना",
+                    "reading": "Ve-da-naa",
+                    "meaning": "Agony/Perception of pain",
+                    "example_sentence": "वेदना पीडा अस्ति। (Vedana is pain.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "शूलम्",
+                    "reading": "Shoo-lam",
+                    "meaning": "Colic/Acute pain",
+                    "example_sentence": "शूलं तीव्रवेदना अस्ति। (Shula is acute pain.)"
+                },
+                {
+                    "word": "कण्डूः",
+                    "reading": "Kan-dooh",
+                    "meaning": "Itching",
+                    "example_sentence": "कण्डूः त्वग्रोगलक्षणम्। (Itching is a symptom of skin disease.)"
+                },
+                {
+                    "word": "कुष्ठम्",
+                    "reading": "Kush-tham",
+                    "meaning": "Skin disease/Leprosy",
+                    "example_sentence": "कुष्ठं त्वचारोगः अस्ति। (Kushtha is a skin disease.)"
+                },
+                {
+                    "word": "तिमिरा",
+                    "reading": "Ti-mi-raa",
+                    "meaning": "Cataract/Blindness",
+                    "example_sentence": "तिमिरा नेत्ररोगः अस्ति। (Cataract is an eye disease.)"
+                },
+                {
+                    "word": "बाधिर्यम्",
+                    "reading": "Baa-dhir-yam",
+                    "meaning": "Deafness",
+                    "example_sentence": "बाधिर्यं श्रवणहानिः। (Deafness is loss of hearing.)"
+                },
+                {
+                    "word": "मूकता",
+                    "reading": "Moo-ka-taa",
+                    "meaning": "Muteness",
+                    "example_sentence": "मूकता वाक्शक्तिहानिः। (Muteness is loss of speech.)"
+                },
+                {
+                    "word": "पङ्गुः",
+                    "reading": "Pan-guh",
+                    "meaning": "Lame/Paralyzed",
+                    "example_sentence": "पङ्गुः चलनशक्तिहीनः। (Lame is one without walking ability.)"
+                },
+                {
+                    "word": "वामनः",
+                    "reading": "Vaa-ma-nah",
+                    "meaning": "Dwarf",
+                    "example_sentence": "वामनः अल्पकायः अस्ति। (Dwarf is of small stature.)"
+                },
+                {
+                    "word": "स्थौल्यम्",
+                    "reading": "St-haul-yam",
+                    "meaning": "Obesity",
+                    "example_sentence": "स्थौल्यं अतिमेदः अस्ति। (Obesity is excessive fat.)"
+                },
+                {
+                    "word": "कार्श्यम्",
+                    "reading": "Kaar-shyam",
+                    "meaning": "Emaciation/Thinness",
+                    "example_sentence": "कार्श्यं कृशता अस्ति। (Emaciation is thinness.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "जरा",
+                    "reading": "Ja-raa",
+                    "meaning": "Old age/Senility",
+                    "example_sentence": "जरा वृद्धावस्था अस्ति। (Jara is old age.)"
+                },
+                {
+                    "word": "औषधिशास्त्रम्",
+                    "reading": "Au-sha-dhi-shaas-tram",
+                    "meaning": "Pharmacology",
+                    "example_sentence": "औषधिशास्त्रं औषधविज्ञानम्। (Pharmacology is the science of medicines.)"
+                },
+                {
+                    "word": "अनुपानम्",
+                    "reading": "A-nu-paa-nam",
+                    "meaning": "Vehicle for medicine/Fluid taken with medicine",
+                    "example_sentence": "अनुपानं औषधसह पेयम्। (Anupana is liquid taken with medicine.)"
+                },
+                {
+                    "word": "क्वाथः",
+                    "reading": "Kvaa-thah",
+                    "meaning": "Decoction",
+                    "example_sentence": "क्वाथः औषधिक्वथितजलम्। (Decoction is boiled medicinal water.)"
+                },
+                {
+                    "word": "चूर्णम्",
+                    "reading": "Choor-nam",
+                    "meaning": "Powdered medicine",
+                    "example_sentence": "चूर्णं पिष्टौषधम् अस्ति। (Churna is powdered medicine.)"
+                },
+                {
+                    "word": "गुटिका",
+                    "reading": "Gu-ti-kaa",
+                    "meaning": "Pill/Tablet",
+                    "example_sentence": "गुटिका औषधगोलिका। (Gutika is a medicine pill.)"
+                },
+                {
+                    "word": "लेपः",
+                    "reading": "Le-pah",
+                    "meaning": "Ointment/Salve",
+                    "example_sentence": "लेपः बाह्यौषधम् अस्ति। (Lepa is external medicine.)"
+                },
+                {
+                    "word": "आसवः",
+                    "reading": "Aa-sa-vah",
+                    "meaning": "Fermented liquor/Tonic",
+                    "example_sentence": "आसवः किण्वितौषधम्। (Asava is fermented medicine.)"
+                },
+                {
+                    "word": "रसायनम्",
+                    "reading": "Ra-saa-ya-nam",
+                    "meaning": "Rejuvenation therapy/Elixir",
+                    "example_sentence": "रसायनं वयःस्थापकम्। (Rasayana is age-stabilizing.)"
+                },
+                {
+                    "word": "पञ्चकर्म",
+                    "reading": "Pan-cha-kar-ma",
+                    "meaning": "Five detoxification therapies",
+                    "example_sentence": "पञ्चकर्म शोधनचिकित्सा। (Panchakarma is purification therapy.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "वमनम्",
+                    "reading": "Va-ma-nam",
+                    "meaning": "Emetic therapy/Vomiting",
+                    "example_sentence": "वमनं कफशोधनम्। (Vamana is kapha purification.)"
+                },
+                {
+                    "word": "विरेचनम्",
+                    "reading": "Vi-re-cha-nam",
+                    "meaning": "Purgation therapy",
+                    "example_sentence": "विरेचनं पित्तशोधनम्। (Virechana is pitta purification.)"
+                },
+                {
+                    "word": "नस्यम्",
+                    "reading": "Nas-yam",
+                    "meaning": "Nasal therapy",
+                    "example_sentence": "नस्यं नासिकाचिकित्सा। (Nasya is nasal treatment.)"
+                },
+                {
+                    "word": "बस्तिः",
+                    "reading": "Bas-tih",
+                    "meaning": "Enema therapy/Bladder",
+                    "example_sentence": "बस्तिः वातशोधनम्। (Basti is vata purification.)"
+                },
+                {
+                    "word": "रक्तमोक्षणम्",
+                    "reading": "Rak-ta-mok-sha-nam",
+                    "meaning": "Bloodletting",
+                    "example_sentence": "रक्तमोक्षणं रक्तशोधनम्। (Bloodletting is blood purification.)"
+                },
+                {
+                    "word": "पथ्यम्",
+                    "reading": "Path-yam",
+                    "meaning": "Wholesome diet/Regimen",
+                    "example_sentence": "पथ्यं हितकरम् अस्ति। (Wholesome diet is beneficial.)"
+                },
+                {
+                    "word": "अपथ्यम्",
+                    "reading": "A-path-yam",
+                    "meaning": "Unwholesome/Prohibited diet",
+                    "example_sentence": "अपथ्यं अहितकरम् अस्ति। (Unwholesome diet is harmful.)"
+                },
+                {
+                    "word": "निदानम्",
+                    "reading": "Ni-daa-nam",
+                    "meaning": "Diagnosis/Etiology",
+                    "example_sentence": "निदानं रोगकारणम्। (Nidana is the cause of disease.)"
+                },
+                {
+                    "word": "चिकित्सा",
+                    "reading": "Chi-kit-saa",
+                    "meaning": "Therapy/Medical treatment",
+                    "example_sentence": "चिकित्सा रोगनिवारणम्। (Chikitsa is disease removal.)"
+                },
+                {
+                    "word": "स्वास्थ्यरक्षणम्",
+                    "reading": "Svaas-thya-rak-sha-nam",
+                    "meaning": "Preservation of health",
+                    "example_sentence": "स्वास्थ्यरक्षणं प्रधानम्। (Health preservation is primary.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "दीर्घायुः",
+                    "reading": "Deer-ghaa-yuh",
+                    "meaning": "Longevity",
+                    "example_sentence": "दीर्घायुः सर्वेषां कामः। (Longevity is everyone's desire.)"
+                },
+                {
+                    "word": "आरोग्यम्",
+                    "reading": "Aa-rog-yam",
+                    "meaning": "Freedom from disease",
+                    "example_sentence": "आरोग्यं परमं भाग्यम्। (Health is the greatest fortune.)"
+                },
+                {
+                    "word": "बलम्",
+                    "reading": "Ba-lam",
+                    "meaning": "Immunity/Strength",
+                    "example_sentence": "बलं रोगप्रतिरोधकम्। (Immunity is disease-resistant.)"
+                },
+                {
+                    "word": "ओजस्",
+                    "reading": "O-jas",
+                    "meaning": "Vitality/Spiritual energy",
+                    "example_sentence": "ओजः जीवनशक्तिः अस्ति। (Ojas is life force.)"
+                },
+                {
+                    "word": "प्राणवायुः",
+                    "reading": "Praa-na-vaa-yuh",
+                    "meaning": "Oxygen/Life breath",
+                    "example_sentence": "प्राणवायुः जीवनाय आवश्यकः। (Oxygen is necessary for life.)"
+                },
+                {
+                    "word": "नाडी",
+                    "reading": "Naa-dee",
+                    "meaning": "Pulse/Channel",
+                    "example_sentence": "नाडी रक्तवाहिनी अस्ति। (Nadi is a blood vessel.)"
+                },
+                {
+                    "word": "नाडीपरीक्षा",
+                    "reading": "Naa-dee-pa-reek-shaa",
+                    "meaning": "Pulse diagnosis",
+                    "example_sentence": "नाडीपरीक्षा आयुर्वेदे महत्त्वपूर्णा। (Pulse diagnosis is important in Ayurveda.)"
+                },
+                {
+                    "word": "शस्त्रक्रिया",
+                    "reading": "Shas-tra-kri-yaa",
+                    "meaning": "Surgery",
+                    "example_sentence": "शस्त्रक्रिया शल्यचिकित्सा अस्ति। (Surgery is surgical treatment.)"
+                },
+                {
+                    "word": "शस्त्रकर्म",
+                    "reading": "Shas-tra-kar-ma",
+                    "meaning": "Surgical operation",
+                    "example_sentence": "शस्त्रकर्म शल्यकर्म अस्ति। (Surgical operation is surgical work.)"
+                },
+                {
+                    "word": "यन्त्रम्",
+                    "reading": "Yan-tram",
+                    "meaning": "Surgical instrument",
+                    "example_sentence": "यन्त्रं शस्त्रक्रियायै उपयुज्यते। (Instrument is used for surgery.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "मूत्रम्",
+                    "reading": "Moot-ram",
+                    "meaning": "Urine",
+                    "example_sentence": "मूत्रं मलः अस्ति। (Urine is a waste product.)"
+                },
+                {
+                    "word": "पुरीषम्",
+                    "reading": "Pu-ree-sham",
+                    "meaning": "Feces",
+                    "example_sentence": "पुरीषं शरीरमलः। (Feces is body waste.)"
+                },
+                {
+                    "word": "गर्भः",
+                    "reading": "Gar-bhah",
+                    "meaning": "Embryo/Fetus",
+                    "example_sentence": "गर्भः गर्भाशये वर्धते। (The fetus grows in the womb.)"
+                },
+                {
+                    "word": "प्रसवः",
+                    "reading": "Pra-sa-vah",
+                    "meaning": "Childbirth",
+                    "example_sentence": "प्रसवः जननम् अस्ति। (Childbirth is delivery.)"
+                },
+                {
+                    "word": "स्तन्यम्",
+                    "reading": "Stan-yam",
+                    "meaning": "Breast milk",
+                    "example_sentence": "स्तन्यं शिशोः आहारः। (Breast milk is the infant's food.)"
+                },
+                {
+                    "word": "विश्रामः",
+                    "reading": "Vi-shraa-mah",
+                    "meaning": "Convalescence/Rest",
+                    "example_sentence": "विश्रामः रोगोत्तरं आवश्यकः। (Rest is necessary after illness.)"
+                },
+                {
+                    "word": "विषम्",
+                    "reading": "Vi-sham",
+                    "meaning": "Poison/Toxin",
+                    "example_sentence": "विषं प्राणघातकम्। (Poison is life-threatening.)"
+                },
+                {
+                    "word": "अमृतम्",
+                    "reading": "A-mru-tam",
+                    "meaning": "Antidote/Nectar",
+                    "example_sentence": "अमृतं विषनाशकम्। (Antidote destroys poison.)"
+                },
+                {
+                    "word": "दौर्बल्यम्",
+                    "reading": "Daur-bal-yam",
+                    "meaning": "Debility/Weakness",
+                    "example_sentence": "दौर्बल्यं बलहीनता अस्ति। (Debility is lack of strength.)"
+                },
+                {
+                    "word": "मूर्धजाः",
+                    "reading": "Moor-dha-jaah",
+                    "meaning": "Hair of the head",
+                    "example_sentence": "मूर्धजाः शिरसि केशाः। (Murdhaja is hair on the head.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Sanskrit Anatomical Term Trap",
+        "question": "What is the correct Sanskrit word for 'liver'?",
+        "options": [
+            "यकृत् (yakRt)",
+            "यकृति (yakRti)",
+            "याकृत (yaakRta)",
+            "यक्रत् (yakrat)"
+        ],
+        "correct_answer_index": 0,
+        "explanation": "The correct classical Sanskrit word for 'liver' is यकृत् (yakRt), which is a neuter noun ending in -त्. This is a trap because learners might be tempted to add feminine endings like यकृति (yakRti) or modify the vowel length to याकृत (yaakRta), following patterns they've seen in other anatomical terms. However, यकृत् maintains its unique form. The word comes from the root यज् (yaj - to sacrifice) because the liver was considered an important organ in Vedic sacrificial rituals. This teaches learners that Sanskrit anatomical terminology often has irregular forms that must be memorized individually!"
+    }
+}

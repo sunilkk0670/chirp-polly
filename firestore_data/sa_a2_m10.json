@@ -1,0 +1,672 @@
+{
+    "moduleId": "sa_a2_m10",
+    "theme": "Arts, Literature & Culture",
+    "title": "Arts, Literature & Culture",
+    "level": "a2",
+    "language": "sanskrit",
+    "order": 10,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "साहित्यम्",
+                    "reading": "Saa-hit-yam",
+                    "meaning": "Literature",
+                    "example_sentence": "साहित्यं संस्कृतेः दर्पणम्। (Literature is the mirror of culture.)"
+                },
+                {
+                    "word": "काव्यम्",
+                    "reading": "Kaav-yam",
+                    "meaning": "Poetry (Trap Word)",
+                    "example_sentence": "काव्यं रसात्मकम् अस्ति। (Poetry is full of aesthetic sentiment.) [LIAR GAME TRAP]"
+                },
+                {
+                    "word": "गद्यम्",
+                    "reading": "Gad-yam",
+                    "meaning": "Prose",
+                    "example_sentence": "गद्यं सरलं भवति। (Prose is simple.)"
+                },
+                {
+                    "word": "पद्यम्",
+                    "reading": "Pad-yam",
+                    "meaning": "Verse",
+                    "example_sentence": "पद्यं छन्दोबद्धम्। (Verse is bound by meter.)"
+                },
+                {
+                    "word": "नाटकम्",
+                    "reading": "Naa-ta-kam",
+                    "meaning": "Drama/Play",
+                    "example_sentence": "नाटकं रङ्गमञ्चे प्रदर्श्यते। (Drama is performed on stage.)"
+                },
+                {
+                    "word": "उपन्यासः",
+                    "reading": "U-pan-yaa-sah",
+                    "meaning": "Novel",
+                    "example_sentence": "उपन्यासः दीर्घः कथा। (Novel is a long story.)"
+                },
+                {
+                    "word": "कथा",
+                    "reading": "Ka-thaa",
+                    "meaning": "Story/Tale",
+                    "example_sentence": "कथा रोचका भवति। (Story is interesting.)"
+                },
+                {
+                    "word": "आख्यायिका",
+                    "reading": "Aa-khyaa-yi-kaa",
+                    "meaning": "Legend/Anecdote",
+                    "example_sentence": "आख्यायिका प्राचीना कथा। (Legend is an ancient story.)"
+                },
+                {
+                    "word": "छन्दः",
+                    "reading": "Chan-dah",
+                    "meaning": "Meter/Prosody",
+                    "example_sentence": "छन्दः काव्यस्य आधारः। (Meter is the foundation of poetry.)"
+                },
+                {
+                    "word": "अलङ्कारः",
+                    "reading": "A-lan-kaa-rah",
+                    "meaning": "Figure of speech/Ornament",
+                    "example_sentence": "अलङ्कारः काव्यं शोभयति। (Figure of speech adorns poetry.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "रसः",
+                    "reading": "Ra-sah",
+                    "meaning": "Aesthetic sentiment/Emotion",
+                    "example_sentence": "रसः काव्यस्य आत्मा। (Rasa is the soul of poetry.)"
+                },
+                {
+                    "word": "शृङ्गारः",
+                    "reading": "Shrun-gaa-rah",
+                    "meaning": "Erotic/Romantic sentiment",
+                    "example_sentence": "शृङ्गारः प्रेमरसः अस्ति। (Shringar is the sentiment of love.)"
+                },
+                {
+                    "word": "वीरः",
+                    "reading": "Vee-rah",
+                    "meaning": "Heroic sentiment",
+                    "example_sentence": "वीरः शौर्यरसः अस्ति। (Veera is the sentiment of valor.)"
+                },
+                {
+                    "word": "करुणः",
+                    "reading": "Ka-ru-nah",
+                    "meaning": "Pathetic/Compassionate sentiment",
+                    "example_sentence": "करुणः दुःखरसः अस्ति। (Karuna is the sentiment of sorrow.)"
+                },
+                {
+                    "word": "रौद्रः",
+                    "reading": "Rau-drah",
+                    "meaning": "Furious sentiment",
+                    "example_sentence": "रौद्रः क्रोधरसः अस्ति। (Raudra is the sentiment of anger.)"
+                },
+                {
+                    "word": "भयानकः",
+                    "reading": "Bha-yaa-na-kah",
+                    "meaning": "Terrible/Fearful sentiment",
+                    "example_sentence": "भयानकः भयरसः अस्ति। (Bhayanaka is the sentiment of fear.)"
+                },
+                {
+                    "word": "बीभत्सः",
+                    "reading": "Bee-bhat-sah",
+                    "meaning": "Loathsome sentiment",
+                    "example_sentence": "बीभत्सः घृणारसः अस्ति। (Bibhatsa is the sentiment of disgust.)"
+                },
+                {
+                    "word": "अद्भुतः",
+                    "reading": "Ad-bhu-tah",
+                    "meaning": "Wonderful sentiment",
+                    "example_sentence": "अद्भुतः विस्मयरसः अस्ति। (Adbhuta is the sentiment of wonder.)"
+                },
+                {
+                    "word": "हास्यः",
+                    "reading": "Haas-yah",
+                    "meaning": "Comic sentiment",
+                    "example_sentence": "हास्यः हास्यरसः अस्ति। (Hasya is the sentiment of laughter.)"
+                },
+                {
+                    "word": "शान्तः",
+                    "reading": "Shaan-tah",
+                    "meaning": "Peaceful sentiment",
+                    "example_sentence": "शान्तः शान्तिरसः अस्ति। (Shanta is the sentiment of peace.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "नायकः",
+                    "reading": "Naa-ya-kah",
+                    "meaning": "Protagonist/Hero",
+                    "example_sentence": "नायकः कथायाः मुख्यः पात्रम्। (Hero is the main character of the story.)"
+                },
+                {
+                    "word": "नायिका",
+                    "reading": "Naa-yi-kaa",
+                    "meaning": "Heroine",
+                    "example_sentence": "नायिका नाटकस्य मुख्या पात्रम्। (Heroine is the main character of the drama.)"
+                },
+                {
+                    "word": "विदूषकः",
+                    "reading": "Vi-doo-sha-kah",
+                    "meaning": "Jester/Clown",
+                    "example_sentence": "विदूषकः हास्यं करोति। (Jester creates laughter.)"
+                },
+                {
+                    "word": "सूत्रधारः",
+                    "reading": "Soot-ra-dhaa-rah",
+                    "meaning": "Director/Stage manager",
+                    "example_sentence": "सूत्रधारः नाटकं निर्देशयति। (Director directs the play.)"
+                },
+                {
+                    "word": "प्रस्तावना",
+                    "reading": "Pras-taa-va-naa",
+                    "meaning": "Prologue",
+                    "example_sentence": "प्रस्तावना नाटकस्य आरम्भः। (Prologue is the beginning of the play.)"
+                },
+                {
+                    "word": "अङ्कः",
+                    "reading": "An-kah",
+                    "meaning": "Act (in a play)",
+                    "example_sentence": "नाटके पञ्च अङ्काः सन्ति। (There are five acts in the play.)"
+                },
+                {
+                    "word": "दृश्यम्",
+                    "reading": "Drush-yam",
+                    "meaning": "Scene",
+                    "example_sentence": "दृश्यं अङ्कस्य भागः। (Scene is a part of an act.)"
+                },
+                {
+                    "word": "रङ्गमञ्चः",
+                    "reading": "Ran-ga-man-chah",
+                    "meaning": "Stage",
+                    "example_sentence": "रङ्गमञ्चे नाटकं भवति। (Play happens on the stage.)"
+                },
+                {
+                    "word": "अभिनयः",
+                    "reading": "A-bhi-na-yah",
+                    "meaning": "Acting/Performance",
+                    "example_sentence": "अभिनयः कलात्मकः भवति। (Acting is artistic.)"
+                },
+                {
+                    "word": "नेपथ्यम्",
+                    "reading": "Ne-path-yam",
+                    "meaning": "Backstage/Costume room",
+                    "example_sentence": "नेपथ्ये वेषभूषा भवति। (Costumes are in the backstage.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "चित्रकला",
+                    "reading": "Chit-ra-ka-laa",
+                    "meaning": "Painting",
+                    "example_sentence": "चित्रकला सुन्दरा कला। (Painting is a beautiful art.)"
+                },
+                {
+                    "word": "शिल्पकला",
+                    "reading": "Shil-pa-ka-laa",
+                    "meaning": "Sculpture",
+                    "example_sentence": "शिल्पकला प्राचीना कला। (Sculpture is an ancient art.)"
+                },
+                {
+                    "word": "वास्तुकला",
+                    "reading": "Vaas-tu-ka-laa",
+                    "meaning": "Architecture",
+                    "example_sentence": "वास्तुकला भवननिर्माणकला। (Architecture is the art of building construction.)"
+                },
+                {
+                    "word": "सङ्गीतशास्त्रम्",
+                    "reading": "San-gee-ta-shaas-tram",
+                    "meaning": "Musicology",
+                    "example_sentence": "सङ्गीतशास्त्रं सङ्गीतविज्ञानम्। (Musicology is the science of music.)"
+                },
+                {
+                    "word": "रागः",
+                    "reading": "Raa-gah",
+                    "meaning": "Musical melody/Mode",
+                    "example_sentence": "रागः सङ्गीतस्य आधारः। (Raga is the foundation of music.)"
+                },
+                {
+                    "word": "तालः",
+                    "reading": "Taa-lah",
+                    "meaning": "Rhythm/Beat",
+                    "example_sentence": "तालः सङ्गीते महत्त्वपूर्णः। (Rhythm is important in music.)"
+                },
+                {
+                    "word": "लयः",
+                    "reading": "La-yah",
+                    "meaning": "Tempo",
+                    "example_sentence": "लयः सङ्गीतस्य गतिः। (Tempo is the speed of music.)"
+                },
+                {
+                    "word": "वाद्यम्",
+                    "reading": "Vaad-yam",
+                    "meaning": "Musical instrument",
+                    "example_sentence": "वाद्यं सङ्गीतोपकरणम्। (Musical instrument is a music tool.)"
+                },
+                {
+                    "word": "तन्त्री",
+                    "reading": "Tan-tree",
+                    "meaning": "Stringed instrument",
+                    "example_sentence": "तन्त्री तारयुक्तं वाद्यम्। (Stringed instrument has strings.)"
+                },
+                {
+                    "word": "वीणा",
+                    "reading": "Vee-naa",
+                    "meaning": "Lute/Veena",
+                    "example_sentence": "वीणा सरस्वत्याः वाद्यम्। (Veena is Saraswati's instrument.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "वेणुः",
+                    "reading": "Ve-nuh",
+                    "meaning": "Flute",
+                    "example_sentence": "वेणुः कृष्णस्य वाद्यम्। (Flute is Krishna's instrument.)"
+                },
+                {
+                    "word": "मृदङ्गः",
+                    "reading": "Mru-dan-gah",
+                    "meaning": "Double-headed drum",
+                    "example_sentence": "मृदङ्गः तालवाद्यम्। (Mridanga is a rhythm instrument.)"
+                },
+                {
+                    "word": "नृत्यम्",
+                    "reading": "Nrut-yam",
+                    "meaning": "Dance",
+                    "example_sentence": "नृत्यं कलात्मकं भवति। (Dance is artistic.)"
+                },
+                {
+                    "word": "मुद्रा",
+                    "reading": "Mud-raa",
+                    "meaning": "Hand gesture",
+                    "example_sentence": "मुद्रा नृत्यस्य अङ्गम्। (Hand gesture is a part of dance.)"
+                },
+                {
+                    "word": "पदविन्यासः",
+                    "reading": "Pa-da-vi-nyaa-sah",
+                    "meaning": "Footwork",
+                    "example_sentence": "पदविन्यासः नृत्यस्य आधारः। (Footwork is the foundation of dance.)"
+                },
+                {
+                    "word": "कौशलम्",
+                    "reading": "Kau-sha-lam",
+                    "meaning": "Artistry/Skill",
+                    "example_sentence": "कौशलं अभ्यासेन आगच्छति। (Skill comes through practice.)"
+                },
+                {
+                    "word": "परम्परा",
+                    "reading": "Pa-ram-pa-raa",
+                    "meaning": "Tradition",
+                    "example_sentence": "परम्परा पीढीतः पीढीं चलति। (Tradition passes from generation to generation.)"
+                },
+                {
+                    "word": "संस्कृतिः",
+                    "reading": "San-skru-tih",
+                    "meaning": "Culture",
+                    "example_sentence": "संस्कृतिः जीवनपद्धतिः। (Culture is a way of life.)"
+                },
+                {
+                    "word": "उत्सवः",
+                    "reading": "Ut-sa-vah",
+                    "meaning": "Festival",
+                    "example_sentence": "उत्सवः आनन्दस्य अवसरः। (Festival is an occasion of joy.)"
+                },
+                {
+                    "word": "मेला",
+                    "reading": "Me-laa",
+                    "meaning": "Fair/Gathering",
+                    "example_sentence": "मेलायां जनाः मिलन्ति। (People meet at the fair.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "यात्रा",
+                    "reading": "Yaat-raa",
+                    "meaning": "Pilgrimage/Procession",
+                    "example_sentence": "यात्रा तीर्थयात्रा अस्ति। (Yatra is a pilgrimage.)"
+                },
+                {
+                    "word": "आतिथ्यम्",
+                    "reading": "Aa-tith-yam",
+                    "meaning": "Hospitality",
+                    "example_sentence": "आतिथ्यं भारतीयसंस्कृतेः अङ्गम्। (Hospitality is a part of Indian culture.)"
+                },
+                {
+                    "word": "सदाचारः",
+                    "reading": "Sa-daa-chaa-rah",
+                    "meaning": "Ethics/Proper conduct",
+                    "example_sentence": "सदाचारः सज्जनस्य लक्षणम्। (Good conduct is the mark of a good person.)"
+                },
+                {
+                    "word": "विनयः",
+                    "reading": "Vi-na-yah",
+                    "meaning": "Humility/Politeness",
+                    "example_sentence": "विनयः महत्तमः गुणः। (Humility is the greatest virtue.)"
+                },
+                {
+                    "word": "सभ्यता",
+                    "reading": "Sab-hya-taa",
+                    "meaning": "Civilization/Courtesy",
+                    "example_sentence": "सभ्यता शिष्टाचारः अस्ति। (Civilization is etiquette.)"
+                },
+                {
+                    "word": "शिष्टाचारः",
+                    "reading": "Shish-taa-chaa-rah",
+                    "meaning": "Etiquette",
+                    "example_sentence": "शिष्टाचारः सामाजिकव्यवहारः। (Etiquette is social behavior.)"
+                },
+                {
+                    "word": "पुरावृत्तम्",
+                    "reading": "Pu-raa-vrut-tam",
+                    "meaning": "History/Antiquity",
+                    "example_sentence": "पुरावृत्तं भूतकालस्य वर्णनम्। (History is the description of the past.)"
+                },
+                {
+                    "word": "पुरातत्त्वम्",
+                    "reading": "Pu-raa-tat-tvam",
+                    "meaning": "Archaeology",
+                    "example_sentence": "पुरातत्त्वं प्राचीनवस्तुविज्ञानम्। (Archaeology is the science of ancient objects.)"
+                },
+                {
+                    "word": "लिपिः",
+                    "reading": "Li-pih",
+                    "meaning": "Script",
+                    "example_sentence": "लिपिः लेखनपद्धतिः। (Script is a writing system.)"
+                },
+                {
+                    "word": "ताडपत्रम्",
+                    "reading": "Taa-da-pat-ram",
+                    "meaning": "Palm leaf manuscript",
+                    "example_sentence": "ताडपत्रे प्राचीनाः ग्रन्थाः लिखिताः। (Ancient books were written on palm leaves.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "ग्रन्थः",
+                    "reading": "Gran-thah",
+                    "meaning": "Book/Volume",
+                    "example_sentence": "ग्रन्थः ज्ञानस्य भण्डारम्। (Book is a treasure of knowledge.)"
+                },
+                {
+                    "word": "टीका",
+                    "reading": "Tee-kaa",
+                    "meaning": "Commentary",
+                    "example_sentence": "टीका ग्रन्थस्य व्याख्या। (Commentary is the explanation of a book.)"
+                },
+                {
+                    "word": "भाष्यम्",
+                    "reading": "Bhaash-yam",
+                    "meaning": "Exposition/Commentary",
+                    "example_sentence": "भाष्यं विस्तृतव्याख्या। (Bhashya is a detailed explanation.)"
+                },
+                {
+                    "word": "अनुवादः",
+                    "reading": "A-nu-vaa-dah",
+                    "meaning": "Translation",
+                    "example_sentence": "अनुवादः भाषान्तरणम्। (Translation is language conversion.)"
+                },
+                {
+                    "word": "संशोधनम्",
+                    "reading": "Sam-sho-dha-nam",
+                    "meaning": "Research/Correction",
+                    "example_sentence": "संशोधनं गवेषणम् अस्ति। (Research is investigation.)"
+                },
+                {
+                    "word": "पाण्डुलिपिः",
+                    "reading": "Paan-du-li-pih",
+                    "meaning": "Manuscript",
+                    "example_sentence": "पाण्डुलिपिः हस्तलिखितग्रन्थः। (Manuscript is a handwritten book.)"
+                },
+                {
+                    "word": "विद्वान्",
+                    "reading": "Vid-vaan",
+                    "meaning": "Scholar",
+                    "example_sentence": "विद्वान् बहुज्ञः भवति। (Scholar is very knowledgeable.)"
+                },
+                {
+                    "word": "पण्डितः",
+                    "reading": "Pan-di-tah",
+                    "meaning": "Learned man",
+                    "example_sentence": "पण्डितः शास्त्रज्ञः अस्ति। (Pandit is knowledgeable in scriptures.)"
+                },
+                {
+                    "word": "कविगोष्ठी",
+                    "reading": "Ka-vi-gosh-thee",
+                    "meaning": "Poets' gathering",
+                    "example_sentence": "कविगोष्ठ्यां कवयः मिलन्ति। (Poets meet at the poets' gathering.)"
+                },
+                {
+                    "word": "शास्त्रार्थः",
+                    "reading": "Shaas-traar-thah",
+                    "meaning": "Philosophical debate",
+                    "example_sentence": "शास्त्रार्थः विद्वत्सभायां भवति। (Philosophical debate happens in scholarly assembly.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "दर्शनम्",
+                    "reading": "Dar-sha-nam",
+                    "meaning": "Philosophy/Vision",
+                    "example_sentence": "दर्शनं तत्त्वज्ञानम्। (Philosophy is knowledge of reality.)"
+                },
+                {
+                    "word": "वेदान्तः",
+                    "reading": "Ve-daan-tah",
+                    "meaning": "End of Vedas/Philosophy",
+                    "example_sentence": "वेदान्तः उपनिषत्सु निहितः। (Vedanta is contained in the Upanishads.)"
+                },
+                {
+                    "word": "मीमांसा",
+                    "reading": "Mee-maan-saa",
+                    "meaning": "Investigation/Reflection",
+                    "example_sentence": "मीमांसा वैदिकदर्शनम्। (Mimamsa is Vedic philosophy.)"
+                },
+                {
+                    "word": "न्यायः",
+                    "reading": "Nyaa-yah",
+                    "meaning": "Logic/Philosophy",
+                    "example_sentence": "न्यायः तर्कशास्त्रम्। (Nyaya is the science of logic.)"
+                },
+                {
+                    "word": "वैशेषिकम्",
+                    "reading": "Vai-she-shi-kam",
+                    "meaning": "Cosmological philosophy",
+                    "example_sentence": "वैशेषिकं परमाणुवादः। (Vaisheshika is atomism.)"
+                },
+                {
+                    "word": "साङ्ख्यम्",
+                    "reading": "Saan-khyam",
+                    "meaning": "Dualistic philosophy",
+                    "example_sentence": "साङ्ख्यं द्वैतवादः अस्ति। (Sankhya is dualism.)"
+                },
+                {
+                    "word": "योगः",
+                    "reading": "Yo-gah",
+                    "meaning": "Union/Practice",
+                    "example_sentence": "योगः आत्मसाक्षात्कारः। (Yoga is self-realization.)"
+                },
+                {
+                    "word": "उपनिषद्",
+                    "reading": "U-pa-ni-shad",
+                    "meaning": "Mystic doctrine",
+                    "example_sentence": "उपनिषद् वेदान्तग्रन्थः। (Upanishad is a Vedantic text.)"
+                },
+                {
+                    "word": "स्मृतिः",
+                    "reading": "Smru-tih",
+                    "meaning": "Tradition/Legal text",
+                    "example_sentence": "स्मृतिः धर्मशास्त्रम् अस्ति। (Smriti is religious law.)"
+                },
+                {
+                    "word": "पुराणम्",
+                    "reading": "Pu-raa-nam",
+                    "meaning": "Ancient lore",
+                    "example_sentence": "पुराणं प्राचीनकथा। (Purana is ancient story.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "इतिहासः",
+                    "reading": "I-ti-haa-sah",
+                    "meaning": "Epic/History",
+                    "example_sentence": "इतिहासः भूतवृत्तान्तः। (Itihasa is historical narrative.)"
+                },
+                {
+                    "word": "रामायणम्",
+                    "reading": "Raa-maa-ya-nam",
+                    "meaning": "Story of Rama",
+                    "example_sentence": "रामायणं वाल्मीकिना रचितम्। (Ramayana was composed by Valmiki.)"
+                },
+                {
+                    "word": "महाभारतम्",
+                    "reading": "Ma-haa-bhaa-ra-tam",
+                    "meaning": "Great Indian Epic",
+                    "example_sentence": "महाभारतं व्यासेन रचितम्। (Mahabharata was composed by Vyasa.)"
+                },
+                {
+                    "word": "श्रीमद्भगवद्गीता",
+                    "reading": "Shree-mad-bha-ga-vad-gee-taa",
+                    "meaning": "Divine Song of Lord",
+                    "example_sentence": "श्रीमद्भगवद्गीता कृष्णोपदेशः। (Bhagavad Gita is Krishna's teaching.)"
+                },
+                {
+                    "word": "धर्मग्रन्थः",
+                    "reading": "Dhar-ma-gran-thah",
+                    "meaning": "Religious text",
+                    "example_sentence": "धर्मग्रन्थः पवित्रः ग्रन्थः। (Religious text is a sacred book.)"
+                },
+                {
+                    "word": "पूजाविधिः",
+                    "reading": "Poo-jaa-vi-dhih",
+                    "meaning": "Ritual of worship",
+                    "example_sentence": "पूजाविधिः पूजाप्रक्रिया। (Ritual of worship is the worship procedure.)"
+                },
+                {
+                    "word": "आराधना",
+                    "reading": "Aa-raa-dha-naa",
+                    "meaning": "Adoration",
+                    "example_sentence": "आराधना भक्तिपूर्वकपूजा। (Adoration is devotional worship.)"
+                },
+                {
+                    "word": "भजनम्",
+                    "reading": "Bha-ja-nam",
+                    "meaning": "Hymn/Devotional song",
+                    "example_sentence": "भजनं भक्तिगीतम्। (Bhajan is a devotional song.)"
+                },
+                {
+                    "word": "कीर्तनम्",
+                    "reading": "Keer-ta-nam",
+                    "meaning": "Singing praises",
+                    "example_sentence": "कीर्तनं देवस्तुतिः। (Kirtan is praise of God.)"
+                },
+                {
+                    "word": "मन्त्रः",
+                    "reading": "Man-trah",
+                    "meaning": "Chant/Formula",
+                    "example_sentence": "मन्त्रः पवित्रः उच्चारणः। (Mantra is a sacred utterance.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "तन्त्रम्",
+                    "reading": "Tan-tram",
+                    "meaning": "System/Ritual technique",
+                    "example_sentence": "तन्त्रं साधनापद्धतिः। (Tantra is a practice system.)"
+                },
+                {
+                    "word": "दीक्षा",
+                    "reading": "Deek-shaa",
+                    "meaning": "Consecration/Initiation",
+                    "example_sentence": "दीक्षा गुरुतः प्राप्यते। (Initiation is received from the guru.)"
+                },
+                {
+                    "word": "संस्कारः",
+                    "reading": "San-skaa-rah",
+                    "meaning": "Sacrament",
+                    "example_sentence": "संस्कारः धार्मिकविधिः। (Sacrament is a religious rite.)"
+                },
+                {
+                    "word": "आश्रमः",
+                    "reading": "Aa-shra-mah",
+                    "meaning": "Hermitage/Stage of life",
+                    "example_sentence": "आश्रमः जीवनस्य चरणः। (Ashrama is a stage of life.)"
+                },
+                {
+                    "word": "तीर्थम्",
+                    "reading": "Teer-tham",
+                    "meaning": "Sacred ford/Place",
+                    "example_sentence": "तीर्थं पवित्रस्थानम्। (Tirtha is a sacred place.)"
+                },
+                {
+                    "word": "मन्दिरम्",
+                    "reading": "Man-di-ram",
+                    "meaning": "Temple",
+                    "example_sentence": "मन्दिरं देवगृहम्। (Temple is the house of God.)"
+                },
+                {
+                    "word": "देवालयः",
+                    "reading": "De-vaa-la-yah",
+                    "meaning": "House of God",
+                    "example_sentence": "देवालयः पूजास्थानम्। (House of God is a place of worship.)"
+                },
+                {
+                    "word": "प्रतिमा",
+                    "reading": "Pra-ti-maa",
+                    "meaning": "Icon/Image",
+                    "example_sentence": "प्रतिमा देवस्य रूपम्। (Icon is the form of God.)"
+                },
+                {
+                    "word": "मूर्तिः",
+                    "reading": "Moor-tih",
+                    "meaning": "Idol/Form",
+                    "example_sentence": "मूर्तिः देवस्य आकारः। (Idol is the shape of God.)"
+                },
+                {
+                    "word": "कलानिधिः",
+                    "reading": "Ka-laa-ni-dhih",
+                    "meaning": "Treasure of arts",
+                    "example_sentence": "कलानिधिः कलासम्पन्नः। (Treasure of arts is one endowed with arts.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Sanskrit Literary Term Precision Trap",
+        "question": "What is the precise classical Sanskrit distinction between 'काव्य' (kaavya) and 'पद्य' (padya)?",
+        "options": [
+            "Both mean exactly the same thing - 'poetry'",
+            "काव्य is any literary composition (prose or verse); पद्य is specifically metrical verse",
+            "काव्य is ancient poetry; पद्य is modern poetry",
+            "काव्य is religious poetry; पद्य is secular poetry"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "In classical Sanskrit literary theory (काव्यशास्त्र), काव्य (kaavya) and पद्य (padya) have distinct meanings. काव्य refers to any literary composition characterized by रस (aesthetic sentiment) and अलङ्कार (figures of speech), and can be either गद्य (prose) or पद्य (verse). पद्य specifically refers to metrical verse bound by छन्दः (meter). This is a trap because in common modern usage both are often translated simply as 'poetry', but the classical distinction is crucial: काव्य is the broader category of artistic literature (including गद्यकाव्य - prose poetry), while पद्य is the specific form of metrical composition. This teaches learners that Sanskrit literary terminology has hierarchical classifications where form (पद्य) is distinct from artistic quality (काव्य)!"
+    }
+}

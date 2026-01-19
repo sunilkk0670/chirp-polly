@@ -1,0 +1,620 @@
+{
+    "module_id": "de_b1_m07",
+    "language": "de",
+    "level": "B1",
+    "theme": "Environment & Future",
+    "order": 7,
+    "lessons": [
+        {
+            "lesson_id": "de_b1_m07_l1",
+            "title": "Environment & Future",
+            "vocabularyItems": [
+                {
+                    "word": "Erneuerbare Energien",
+                    "reading": "er-NOY-er-ba-re ay-ner-GEE-en",
+                    "meaning": "Renewable energies",
+                    "example_sentence": "Erneuerbare Energien sind entscheidend für den Klimaschutz. (Renewable energies are crucial for climate protection.)"
+                },
+                {
+                    "word": "Die Energiewende",
+                    "reading": "ay-ner-GEE-ven-de",
+                    "meaning": "Energy transition",
+                    "example_sentence": "Die Energiewende erfordert große Investitionen in die Infrastruktur. (The energy transition requires large investments in infrastructure.)"
+                },
+                {
+                    "word": "Der Klimawandel",
+                    "reading": "KLEE-ma-van-del",
+                    "meaning": "Climate change",
+                    "example_sentence": "Der Klimawandel führt zu extremen Wetterereignissen. (Climate change leads to extreme weather events.)"
+                },
+                {
+                    "word": "Die Erderwärmung",
+                    "reading": "ERD-er-ver-moong",
+                    "meaning": "Global warming",
+                    "example_sentence": "Die Erderwärmung gefährdet viele Ökosysteme weltweit. (Global warming endangers many ecosystems worldwide.)"
+                },
+                {
+                    "word": "Das Treibhausgas",
+                    "reading": "TRYP-hows-gahs",
+                    "meaning": "Greenhouse gas",
+                    "example_sentence": "Methan ist ein sehr wirkungsvolles Treibhausgas. (Methane is a very potent greenhouse gas.)"
+                },
+                {
+                    "word": "Die CO2-Emissionen",
+                    "reading": "tsay-oh-tsvy-ay-mee-SYOH-nen",
+                    "meaning": "CO2 emissions",
+                    "example_sentence": "Wir müssen die CO2-Emissionen drastisch senken. (We must drastically reduce CO2 emissions.)"
+                },
+                {
+                    "word": "Der ökologische Fußabdruck",
+                    "reading": "oe-ko-LOH-gee-she FOOS-ap-drook",
+                    "meaning": "Ecological footprint",
+                    "example_sentence": "Jeder sollte seinen ökologischen Fußabdruck minimieren. (Everyone should minimize their ecological footprint.)"
+                },
+                {
+                    "word": "Die Zukunftsfähigkeit",
+                    "reading": "TSOO-koonfts-fay-ish-kyte",
+                    "meaning": "Sustainability/Future viability [B1 Upgrade for Nachhaltigkeit]",
+                    "example_sentence": "Die Zukunftsfähigkeit unsers Planeten steht auf dem Spiel. (The future viability of our planet is at stake.)"
+                },
+                {
+                    "word": "Ressourcenschonend",
+                    "reading": "re-SOOR-sen-sho-nent",
+                    "meaning": "Resource-friendly",
+                    "example_sentence": "Wir entwickeln ressourcenschonende Produktionstechniken. (We develop resource-friendly production techniques.)"
+                },
+                {
+                    "word": "Die Artenvielfalt",
+                    "reading": "AR-ten-feel-falt",
+                    "meaning": "Biodiversity",
+                    "example_sentence": "Der Schutz der Artenvielfalt ist eine globale Aufgabe. (Protecting biodiversity is a global task.)"
+                },
+                {
+                    "word": "Das Artensterben",
+                    "reading": "AR-ten-shter-ben",
+                    "meaning": "Species extinction",
+                    "example_sentence": "Das Artensterben schreitet beängstigend schnell voran. (Species extinction is progressing at an alarming rate.)"
+                },
+                {
+                    "word": "Der Naturschutz",
+                    "reading": "na-TOOR-shoots",
+                    "meaning": "Nature conservation",
+                    "example_sentence": "Naturschutzgebiete sind wichtig für bedrohte Tierarten. (Nature conservation areas are important for endangered animal species.)"
+                },
+                {
+                    "word": "Das Ökosystem",
+                    "reading": "OE-ko-zoos-taym",
+                    "meaning": "Ecosystem",
+                    "example_sentence": "Ein gesundes Ökosystem kann sich selbst regenerieren. (A healthy ecosystem can regenerate itself.)"
+                },
+                {
+                    "word": "Die Umweltverschmutzung",
+                    "reading": "OOM-velt-fer-shmoo-tsoong",
+                    "meaning": "Environmental pollution",
+                    "example_sentence": "Die Umweltverschmutzung schadet der Gesundheit der Menschen. (Environmental pollution harms people's health.)"
+                },
+                {
+                    "word": "Der Schadstoffausstoß",
+                    "reading": "SHAT-shtof-ows-shtohs",
+                    "meaning": "Pollutant emission",
+                    "example_sentence": "Neue Filteranlagen reduzieren den Schadstoffausstoß. (New filter systems reduce pollutant emissions.)"
+                },
+                {
+                    "word": "Das Mikroplastik",
+                    "reading": "MEE-kro-plas-tik",
+                    "meaning": "Microplastics",
+                    "example_sentence": "Mikroplastik wurde bereits in den tiefsten Ozeanen gefunden. (Microplastics have already been found in the deepest oceans.)"
+                },
+                {
+                    "word": "Die Meeresverschmutzung",
+                    "reading": "MAY-res-fer-shmoo-tsoong",
+                    "meaning": "Ocean pollution",
+                    "example_sentence": "Plastikmüll ist das größte Problem der Meeresverschmutzung. (Plastic waste is the biggest problem of ocean pollution.)"
+                },
+                {
+                    "word": "Die Müllverbrennung",
+                    "reading": "MUEL-fer-bre-noong",
+                    "meaning": "Waste incineration",
+                    "example_sentence": "Die Müllverbrennung erzeugt Energie, aber auch Abgase. (Waste incineration generates energy, but also exhaust gases.)"
+                },
+                {
+                    "word": "Die Kreislaufwirtschaft",
+                    "reading": "KRYS-lowf-virt-shaft",
+                    "meaning": "Circular economy",
+                    "example_sentence": "In einer Kreislaufwirtschaft gibt es kaum noch Abfall. (In a circular economy, there is hardly any waste left.)"
+                },
+                {
+                    "word": "Die Rohstoffrückgewinnung",
+                    "reading": "ROH-shtof-ruek-ge-vi-noong",
+                    "meaning": "Raw material recovery [B1 Upgrade for Wiederverwertung]",
+                    "example_sentence": "Die Rohstoffrückgewinnung schont die natürlichen Minen. (Raw material recovery protects natural mines.)"
+                },
+                {
+                    "word": "Die Solarenergie",
+                    "reading": "zo-LAHR-ay-ner-gee",
+                    "meaning": "Solar energy",
+                    "example_sentence": "Solarenergie ist in vielen Regionen die günstigste Energiequelle. (Solar energy is the cheapest source of energy in many regions.)"
+                },
+                {
+                    "word": "Die Windkraft",
+                    "reading": "VINT-kraft",
+                    "meaning": "Wind power",
+                    "example_sentence": "Der Ausbau der Windkraft ist politisch umstritten. (The expansion of wind power is politically controversial.)"
+                },
+                {
+                    "word": "Die Wasserkraft",
+                    "reading": "VA-ser-kraft",
+                    "meaning": "Hydropower",
+                    "example_sentence": "Wasserkraftwerke liefern seit Jahrzehnten sauberen Strom. (Hydropower plants have been providing clean electricity for decades.)"
+                },
+                {
+                    "word": "Die Geothermie",
+                    "reading": "ge-o-tehr-MEE",
+                    "meaning": "Geothermal energy",
+                    "example_sentence": "Geothermie nutzt die Wärme aus dem Inneren der Erde. (Geothermal energy uses the heat from inside the earth.)"
+                },
+                {
+                    "word": "Die Kernenergie",
+                    "reading": "KERN-ay-ner-gee",
+                    "meaning": "Nuclear energy",
+                    "example_sentence": "Die Sicherheit der Kernenergie ist ein wichtiges Thema. (The safety of nuclear energy is an important issue.)"
+                },
+                {
+                    "word": "Der Atomausstieg",
+                    "reading": "a-TOHM-ows-shteek",
+                    "meaning": "Nuclear phase-out",
+                    "example_sentence": "Deutschland hat den Atomausstieg erfolgreich abgeschlossen. (Germany has successfully completed the nuclear phase-out.)"
+                },
+                {
+                    "word": "Die Energieeffizienz",
+                    "reading": "ay-ner-GEE-e-fee-tsyents",
+                    "meaning": "Energy efficiency",
+                    "example_sentence": "Moderne Geräte haben eine sehr hohe Energieeffizienz. (Modern appliances have a very high energy efficiency.)"
+                },
+                {
+                    "word": "Die Wärmedämmung",
+                    "reading": "VER-me-dem-oong",
+                    "meaning": "Thermal insulation",
+                    "example_sentence": "Gute Wärmedämmung senkt die Heizkosten erheblich. (Good thermal insulation lowers heating costs significantly.)"
+                },
+                {
+                    "word": "Der Stromverbrauch",
+                    "reading": "SHTROHM-fer-browkh",
+                    "meaning": "Electricity consumption",
+                    "example_sentence": "Wir müssen unseren Stromverbrauch im Haushalt reduzieren. (We need to reduce our electricity consumption in the household.)"
+                },
+                {
+                    "word": "Die Versorgungssicherheit",
+                    "reading": "fer-ZOR-goongs-zi-kher-hyte",
+                    "meaning": "Security of supply",
+                    "example_sentence": "Versorgungssicherheit ist für die Industrie lebensnotwendig. (Security of supply is vital for industry.)"
+                },
+                {
+                    "word": "Die Mobilitätswende",
+                    "reading": "mo-bee-lee-TETS-ven-de",
+                    "meaning": "Mobility transition",
+                    "example_sentence": "Die Mobilitätswende setzt auf Bus, Bahn und Fahrrad. (The mobility transition relies on bus, train, and bicycle.)"
+                },
+                {
+                    "word": "Der Ausbau der Schiene",
+                    "reading": "OWS-bow dehr SHEE-ne",
+                    "meaning": "Expansion of the rail network",
+                    "example_sentence": "Der Ausbau der Schiene ist für den Klimaschutz wichtig. (The expansion of the rail network is important for climate protection.)"
+                },
+                {
+                    "word": "Die Elektromobilitätsstrategie",
+                    "reading": "ay-mo-bee-lee-TETS-sh-tra-te-gee",
+                    "meaning": "E-mobility strategy [B1 Upgrade for E-Mobilität]",
+                    "example_sentence": "Die neue Elektromobilitätsstrategie fördert Ladestationen. (The new e-mobility strategy promotes charging stations.)"
+                },
+                {
+                    "word": "Die Ladeinfrastruktur",
+                    "reading": "LA-de-in-fra-sh-trook-toor",
+                    "meaning": "Charging infrastructure",
+                    "example_sentence": "Die Ladeinfrastruktur muss flächendeckend ausgebaut werden. (The charging infrastructure must be expanded nationwide.)"
+                },
+                {
+                    "word": "Der Verzicht auf Inlandsflüge",
+                    "reading": "fer-TSIKHT owf IN-lants-flue-ge",
+                    "meaning": "Renouncing domestic flights",
+                    "example_sentence": "Ein Verzicht auf Inlandsflüge schont das Klima. (Giving up domestic flights protects the climate.)"
+                },
+                {
+                    "word": "Die Agrarwirtschaft",
+                    "reading": "a-GRAR-virt-shaft",
+                    "meaning": "Agriculture [B1 Upgrade for Landwirtschaft]",
+                    "example_sentence": "Die Agrarwirtschaft muss nachhaltiger werden. (Agriculture must become more sustainable.)"
+                },
+                {
+                    "word": "Der ökologische Landbau",
+                    "reading": "oe-ko-LOH-gee-she LANT-bow",
+                    "meaning": "Organic farming",
+                    "example_sentence": "Der ökologische Landbau verzichtet auf chemische Dünger. (Organic farming avoids chemical fertilizers.)"
+                },
+                {
+                    "word": "Der Pestizideinsatz",
+                    "reading": "pes-tee-TSEE-de-eyn-zats",
+                    "meaning": "Use of pesticides",
+                    "example_sentence": "Der Pestizideinsatz schadet den nützlichen Insekten. (The use of pesticides harms beneficial insects.)"
+                },
+                {
+                    "word": "Die Massentierhaltung",
+                    "reading": "MA-sen-teer-hal-toong",
+                    "meaning": "Factory farming",
+                    "example_sentence": "Viele Menschen kritisieren die Massentierhaltung. (Many people criticize factory farming.)"
+                },
+                {
+                    "word": "Die Lebensmittelsicherheit",
+                    "reading": "LAY-bens-mit-el-zi-kher-hyte",
+                    "meaning": "Food safety",
+                    "example_sentence": "Lebensmittelsicherheit wird durch strenge Kontrollen gewährleistet. (Food safety is guaranteed by strict controls.)"
+                },
+                {
+                    "word": "Die Wasserknappheit",
+                    "reading": "VA-ser-knap-hyte",
+                    "meaning": "Water scarcity",
+                    "example_sentence": "Wasserknappheit ist ein wachsendes globales Problem. (Water scarcity is a growing global problem.)"
+                },
+                {
+                    "word": "Die Dürreperiode",
+                    "reading": "DUER-re-pe-ryo-de",
+                    "meaning": "Drought period",
+                    "example_sentence": "Die Dürreperiode im letzten Sommer war extrem trocken. (The drought period last summer was extremely dry.)"
+                },
+                {
+                    "word": "Die Überschwemmung",
+                    "reading": "UE-ber-shve-moong",
+                    "meaning": "Flooding",
+                    "example_sentence": "Die Überschwemmung richtete schwere Schäden an. (The flood caused severe damage.)"
+                },
+                {
+                    "word": "Die Naturkatastrophe",
+                    "reading": "na-TOOR-ka-tas-tro-fe",
+                    "meaning": "Natural disaster",
+                    "example_sentence": "Naturkatastrophen werden immer häufiger und heftiger. (Natural disasters are becoming more frequent and severe.)"
+                },
+                {
+                    "word": "Der Meeresspiegelanstieg",
+                    "reading": "MAY-res-shpee-gel-an-shteek",
+                    "meaning": "Sea level rise",
+                    "example_sentence": "Der Meeresspiegelanstieg bedroht viele Küstenstädte. (Sea level rise threatens many coastal cities.)"
+                },
+                {
+                    "word": "Der Permafrostboden",
+                    "reading": "PEHR-ma-frost-boh-den",
+                    "meaning": "Permafrost ground",
+                    "example_sentence": "Wenn der Permafrostboden schmilzt, wird Methan frei. (When the permafrost melts, methane is released.)"
+                },
+                {
+                    "word": "Das Ozonloch",
+                    "reading": "o-TSOHN-lokh",
+                    "meaning": "Ozone hole",
+                    "example_sentence": "Das Ozonloch über der Antarktis schließt sich langsam. (The ozone hole over the Antarctic is slowly closing.)"
+                },
+                {
+                    "word": "Der Umweltschutzaktivist",
+                    "reading": "OOM-velt-shoots-ak-tee-vist",
+                    "meaning": "Environmental activist",
+                    "example_sentence": "Der Umweltschutzaktivist kämpft für den Erhalt des Waldes. (The environmental activist is fighting for the preservation of the forest.)"
+                },
+                {
+                    "word": "Das zivile Engagement",
+                    "reading": "tsee-VEE-le an-ga-zhe-MAHN",
+                    "meaning": "Civil engagement",
+                    "example_sentence": "Ziviles Engagement ist die Basis unserer Demokratie. (Civil engagement is the basis of our democracy.)"
+                },
+                {
+                    "word": "Die Petition",
+                    "reading": "pe-tee-TSYOHN",
+                    "meaning": "Petition",
+                    "example_sentence": "Wir haben eine Petition gegen das neue Gesetz gestartet. (We have started a petition against the new law.)"
+                },
+                {
+                    "word": "Der politische Druck",
+                    "reading": "po-LEE-tee-she DROOK",
+                    "meaning": "Political pressure",
+                    "example_sentence": "Der politische Druck auf die Regierung wächst täglich. (Political pressure on the government is growing daily.)"
+                },
+                {
+                    "word": "Das Klimaschutzabkommen",
+                    "reading": "KLEE-ma-shoots-ap-ko-men",
+                    "meaning": "Climate protection agreement",
+                    "example_sentence": "Das Pariser Klimaschutzabkommen ist völkerrechtlich bindend. (The Paris climate protection agreement is binding under international law.)"
+                },
+                {
+                    "word": "Die Zukunftsvision",
+                    "reading": "TSOO-koonfts-vee-zyohn",
+                    "meaning": "Vision of the future",
+                    "example_sentence": "Seine Zukunftsvision ist eine Welt ohne Hunger. (His vision for the future is a world without hunger.)"
+                },
+                {
+                    "word": "Die technologische Innovation",
+                    "reading": "tekh-no-LOH-gee-she in-no-va-tsyohn",
+                    "meaning": "Technological innovation",
+                    "example_sentence": "Technologische Innovationen treiben die Wirtschaft an. (Technological innovations drive the economy.)"
+                },
+                {
+                    "word": "Das maschinelle Lernen",
+                    "reading": "ma-SHEE-nel-e LER-nen",
+                    "meaning": "Machine learning [B1 Upgrade for KI]",
+                    "example_sentence": "Das maschinelle Lernen ermöglicht es Computern, aus Daten zu lernen. (Machine learning allows computers to learn from data.)"
+                },
+                {
+                    "word": "Der informationstechnische Wandel",
+                    "reading": "dee-gee-ta-lee-ZEE-roong",
+                    "meaning": "IT change [B1 Upgrade for Digitalisierung]",
+                    "example_sentence": "Der informationstechnische Wandel betrifft alle Lebensbereiche. (The information technology change affects all areas of life.)"
+                },
+                {
+                    "word": "Die autonome Fertigungssteuerung",
+                    "reading": "ow-to-noH-me FER-tee-goongs-shtoy-e-roong",
+                    "meaning": "Autonomous production control [B1 Upgrade for Automatisierung]",
+                    "example_sentence": "Die autonome Fertigungssteuerung optimiert die Fabrikabläufe. (Autonomous production control optimizes factory processes.)"
+                },
+                {
+                    "word": "Die demografische Entwicklung",
+                    "reading": "VAN-del",
+                    "meaning": "Demographic development [B1 Upgrade for demografischer Wandel]",
+                    "example_sentence": "Die demografische Entwicklung stellt das Rentensystem vor Herausforderungen. (Demographic development poses challenges for the pension system.)"
+                },
+                {
+                    "word": "Die Bevölkerungsentwicklung",
+                    "reading": "be-FOEL-ke-roongs-ent-vik-loong",
+                    "meaning": "Population development",
+                    "example_sentence": "Die Bevölkerungsentwicklung in Afrika ist rasant. (Population development in Africa is rapid.)"
+                },
+                {
+                    "word": "Die Verstädterung",
+                    "reading": "oor-ba-nee-ZEE-roong",
+                    "meaning": "Urbanization [B1 Upgrade for Urbanisierung]",
+                    "example_sentence": "Die Verstädterung führt zu Problemen im Wohnungsmarkt. (Urbanization leads to problems in the housing market.)"
+                },
+                {
+                    "word": "Die interkontinentale Verflechtung",
+                    "reading": "in-ter-kon-tee-nen-TA-le fer-FLEKH-toong",
+                    "meaning": "Intercontinental intertwining [B1 Upgrade for Globalisierung]",
+                    "example_sentence": "Die interkontinentale Verflechtung der Märkte nimmt stetig zu. (The intercontinental intertwining of markets is steadily increasing.)"
+                },
+                {
+                    "word": "Der kulturelle Austausch",
+                    "reading": "kool-too-RE-le OWS-towsh",
+                    "meaning": "Cultural exchange",
+                    "example_sentence": "Kultureller Austausch fördert das gegenseitige Verständnis. (Cultural exchange promotes mutual understanding.)"
+                },
+                {
+                    "word": "Die Friedenssicherung",
+                    "reading": "FREE-dens-zi-khe-roong",
+                    "meaning": "Peacekeeping",
+                    "example_sentence": "Diplomatie ist das wichtigste Mittel zur Friedenssicherung. (Diplomacy is the most important means of peacekeeping.)"
+                },
+                {
+                    "word": "Die soziale Gerechtigkeit",
+                    "reading": "zo-TSYA-le ge-REKH-tish-kyte",
+                    "meaning": "Social justice",
+                    "example_sentence": "Soziale Gerechtigkeit ist ein Ziel vieler Parteien. (Social justice is a goal of many parties.)"
+                },
+                {
+                    "word": "Die Chancengleichheit",
+                    "reading": "SHAN-sen-gly-khyte",
+                    "meaning": "Equal opportunity",
+                    "example_sentence": "Bildung ist der Schlüssel zur Chancengleichheit. (Education is the key to equal opportunity.)"
+                },
+                {
+                    "word": "Die Armutsbekämpfung",
+                    "reading": "AR-moots-be-kemp-foong",
+                    "meaning": "Fight against poverty",
+                    "example_sentence": "Armutsbekämpfung steht ganz oben auf der UN-Agenda. (Poverty reduction is at the top of the UN agenda.)"
+                },
+                {
+                    "word": "Der allgemeine Wohlstand",
+                    "reading": "VOHL-sh-tant",
+                    "meaning": "General prosperity [B1 Upgrade for Wohlstand]",
+                    "example_sentence": "Der allgemeine Wohlstand ist in den letzten Jahren gestiegen. (General prosperity has increased in recent years.)"
+                },
+                {
+                    "word": "Die Existenzgrundlage",
+                    "reading": "e-ksis-TENTS-groont-la-ge",
+                    "meaning": "Basis of existence [B1 Upgrade for Lebensqualität]",
+                    "example_sentence": "Der Klimawandel zerstört die Existenzgrundlage vieler Bauern. (Climate change is destroying the livelihood of many farmers.)"
+                },
+                {
+                    "word": "Die psychische Gesundheit",
+                    "reading": "PSY-khee-she ge-ZOONT-hyte",
+                    "meaning": "Mental health",
+                    "example_sentence": "Psychische Gesundheit ist genauso wichtig wie physische. (Mental health is just as important as physical health.)"
+                },
+                {
+                    "word": "Die Achtsamkeit",
+                    "reading": "AKHT-zam-kyte",
+                    "meaning": "Mindfulness",
+                    "example_sentence": "Achtsamkeit hilft gegen Stress im Berufsalltag. (Mindfulness helps against stress in everyday work.)"
+                },
+                {
+                    "word": "Die Entschleunigung",
+                    "reading": "ent-SHLOY-nee-goong",
+                    "meaning": "Slowing down / Deceleration",
+                    "example_sentence": "Urlaub dient oft der persönlichen Entschleunigung. (Vacation often serves for personal slowing down.)"
+                },
+                {
+                    "word": "Die Konsumbeschränkung",
+                    "reading": "kon-ZOOM-be-shren-koong",
+                    "meaning": "Consumption restriction [B1 Upgrade for Minimalismus]",
+                    "example_sentence": "Konsumbeschränkung schont die Geldbeutel und die Umwelt. (Restricting consumption protects the wallet and the environment.)"
+                },
+                {
+                    "word": "Die Solidargemeinschaft",
+                    "reading": "zo-lee-DAHR-ge-myn-shaft",
+                    "meaning": "Solidarity community",
+                    "example_sentence": "Die Krankenversicherung basiert auf dem Prinzip der Solidargemeinschaft. (Health insurance is based on the principle of a solidarity community.)"
+                },
+                {
+                    "word": "Das Generationenprojekt",
+                    "reading": "ge-ne-ra-TSYOH-nen-pro-yekt",
+                    "meaning": "Generational project",
+                    "example_sentence": "Der Bau des Berliner Stadtschlosses war ein Generationenprojekt. (The construction of the Berlin City Palace was a project of generations.)"
+                },
+                {
+                    "word": "Die Erneuerung",
+                    "reading": "er-NOY-e-roong",
+                    "meaning": "Renewal",
+                    "example_sentence": "Nach dem Krieg begann die Erneuerung der Infrastruktur. (After the war, the renewal of the infrastructure began.)"
+                },
+                {
+                    "word": "Der Fortschritt",
+                    "reading": "FORT-shrit",
+                    "meaning": "Progress",
+                    "example_sentence": "Wissenschaftlicher Fortschritt bringt viele Vorteile mit sich. (Scientific progress brings many advantages.)"
+                },
+                {
+                    "word": "Die Skepsis",
+                    "reading": "SKEP-sis",
+                    "meaning": "Skepticism",
+                    "example_sentence": "Trotz der Versprechungen bleibt eine gewisse Skepsis. (Despite the promises, a certain skepticism remains.)"
+                },
+                {
+                    "word": "Das Verantwortungsgefühl",
+                    "reading": "fer-ANT-vor-toongs-ge-fuel",
+                    "meaning": "Sense of responsibility",
+                    "example_sentence": "Sein Verantwortungsgefühl gegenüber der Familie ist groß. (His sense of responsibility towards his family is great.)"
+                },
+                {
+                    "word": "Handeln erforderlich",
+                    "reading": "HAN-deln er-FOR-der-likh",
+                    "meaning": "Action required",
+                    "example_sentence": "Wegen der Krise ist jetzt schnelles Handeln erforderlich. (Quick action is now required because of the crisis.)"
+                },
+                {
+                    "word": "Die globale Krise",
+                    "reading": "glo-BA-le KREE-ze",
+                    "meaning": "Global crisis",
+                    "example_sentence": "Die Finanzkrise weitete sich zu einer globalen Krise aus. (The financial crisis expanded into a global crisis.)"
+                },
+                {
+                    "word": "Das Adaptionsvermögen",
+                    "reading": "a-dap-TYONS-fer-moe-gen",
+                    "meaning": "Ability to adapt [B1 Upgrade for Anpassungsfähigkeit]",
+                    "example_sentence": "Das Adaptionsvermögen von Pflanzen ist erstaunlich. (The adaptability of plants is amazing.)"
+                },
+                {
+                    "word": "Die Widerstandsfähigkeit",
+                    "reading": "VEE-der-shtants-fay-ish-kyte",
+                    "meaning": "Resilience / Resistance",
+                    "example_sentence": "Die Widerstandsfähigkeit der Bevölkerung wurde auf die Probe gestellt. (The resilience of the population was put to the test.)"
+                },
+                {
+                    "word": "Das Bewusstsein schärfen",
+                    "reading": "be-VOOST-zyne SHER-fen",
+                    "meaning": "To raise awareness",
+                    "example_sentence": "Kampagnen sollen das Bewusstsein für gesunde Ernährung schärfen. (Campaigns are intended to raise awareness for healthy nutrition.)"
+                },
+                {
+                    "word": "Die Bildungsinitiative",
+                    "reading": "BIL-doongs-ee-nee-tsya-tee-ve",
+                    "meaning": "Educational initiative",
+                    "example_sentence": "Die Regierung startete eine neue Bildungsinitiative für Technik. (The government started a new educational initiative for technology.)"
+                },
+                {
+                    "word": "Die technologische Wende",
+                    "reading": "tekh-no-LOH-gee-she VEN-de",
+                    "meaning": "Technological turning point",
+                    "example_sentence": "Die Erfindung des Internets war eine technologische Wende. (The invention of the internet was a technological turning point.)"
+                },
+                {
+                    "word": "Die Infrastrukturmaßnahme",
+                    "reading": "in-fra-sh-trook-TOOR-mas-na-me",
+                    "meaning": "Infrastructure measure",
+                    "example_sentence": "Die Brückensanierung ist eine dringende Infrastrukturmaßnahme. (Bridge renovation is an urgent infrastructure measure.)"
+                },
+                {
+                    "word": "Der gesellschaftliche Zusammenhalt",
+                    "reading": "ge-ZEL-shaft-likhe tsoo-ZAM-en-halt",
+                    "meaning": "Social cohesion",
+                    "example_sentence": "Ehrenamtliche Arbeit stärkt den gesellschaftlichen Zusammenhalt. (Volunteer work strengthens social cohesion.)"
+                },
+                {
+                    "word": "Die Eventualität [TRAP]",
+                    "reading": "ay-ven-too-a-lee-tet",
+                    "meaning": "Possibility (NOT eventually) [Liar Game]",
+                    "example_sentence": "Wir müssen für jede Eventualität gerüstet sein. (We must be prepared for every eventuality.)"
+                },
+                {
+                    "word": "Das Giftpotenzial [TRAP]",
+                    "reading": "GIFT-po-ten-tsyal",
+                    "meaning": "Poison potential (NOT gift) [Liar Game]",
+                    "example_sentence": "Diese Chemikalie hat ein hohes Giftpotenzial. (This chemical has a high poison potential.)"
+                },
+                {
+                    "word": "Die Helligkeit [TRAP]",
+                    "reading": "HEL-ish-kyte",
+                    "meaning": "Brightness (NOT hell) [Liar Game]",
+                    "example_sentence": "Die Helligkeit der Lampe lässt sich regulieren. (The brightness of the lamp can be adjusted.)"
+                },
+                {
+                    "word": "Das Promotionsverfahren [TRAP]",
+                    "reading": "pro-mo-TSYOHNS-fer-fa-ren",
+                    "meaning": "PhD process (NOT job promotion) [Liar Game]",
+                    "example_sentence": "Das Promotionsverfahren dauert oft mehrere Jahre. (The doctoral process often takes several years.)"
+                },
+                {
+                    "word": "Die Klimaresilienz",
+                    "reading": "KLEE-ma-re-sil-yents",
+                    "meaning": "Climate resilience [New #93]",
+                    "example_sentence": "Die Stadt investiert in Klimaresilienz-Maßnahmen. (The city is investing in climate resilience measures.)"
+                },
+                {
+                    "word": "Die Dekarbonisierung",
+                    "reading": "de-kar-bo-nee-ZEE-roong",
+                    "meaning": "Decarbonization [New #94]",
+                    "example_sentence": "Die Dekarbonisierung der Industrie ist eine Mammutaufgabe. (The decarbonization of industry is a mammoth task.)"
+                },
+                {
+                    "word": "Die ökologische Nische",
+                    "reading": "OE-ko-lo-gee-she NEE-she",
+                    "meaning": "Ecological niche [New #95]",
+                    "example_sentence": "Jedes Tier besetzt eine eigene ökologische Nische. (Every animal occupies its own ecological niche.)"
+                },
+                {
+                    "word": "Die Rohstoffknappheit",
+                    "reading": "ROH-shtof-knap-hyte",
+                    "meaning": "Raw material shortage [New #96]",
+                    "example_sentence": "Die Rohstoffknappheit führt zu steigenden Preisen. (The raw material shortage is leading to rising prices.)"
+                },
+                {
+                    "word": "Das Umweltschutzabkommen",
+                    "reading": "OOM-velt-shoots-ap-ko-men",
+                    "meaning": "Environmental protection agreement [New #97]",
+                    "example_sentence": "Ein neues Umweltschutzabkommen wurde unterzeichnet. (A new environmental protection agreement has been signed.)"
+                },
+                {
+                    "word": "Die Energieeinsparverordnung",
+                    "reading": "ay-ner-GEE-eyn-shpar-fer-ort-noong",
+                    "meaning": "Energy saving regulation [New #98]",
+                    "example_sentence": "Die Energieeinsparverordnung muss im Winter beachtet werden. (The Energy Saving Ordinance must be observed in winter.)"
+                },
+                {
+                    "word": "Die Flächenversiegelung",
+                    "reading": "FLE-khen-fer-zee-ge-loong",
+                    "meaning": "Soil sealing [New #99]",
+                    "example_sentence": "Die zunehmende Flächenversiegelung ist ein Problem für den Wasserabfluss. (Increasing soil sealing is a problem for water drainage.)"
+                },
+                {
+                    "word": "Der Feinstaub",
+                    "reading": "FYN-shtowp",
+                    "meaning": "Particulate matter [New #100]",
+                    "example_sentence": "Der Feinstaub in der Stadt überschreitet oft die Grenzwerte. (The particulate matter in the city often exceeds the limits.)"
+                },
+                {
+                    "word": "Schützen wir unsere Erde!",
+                    "reading": "SHUET-tsen veer OON-ze-re ER-de",
+                    "meaning": "Let's protect our earth!",
+                    "example_sentence": "Jeder Beitrag zählt: Schützen wir unsere Erde! (Every contribution counts: Let's protect our earth!)"
+                }
+            ],
+            "liar_game_data": {
+                "trap": "Ecological & Logical False Friends",
+                "correct_version": "Eventuell = Possibly; Gift = Poison; Hell = Bright; Promotion = PhD.",
+                "explanation": "German 'Gift' is always poison. A present is 'Geschenk'. 'Eventuell' is a possible scenario. 'Eventually' is 'schließlich'. 'Hell' refers to light, 'Hölle' is hell."
+            }
+        }
+    ]
+}

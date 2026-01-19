@@ -1,0 +1,620 @@
+{
+    "module_id": "de_b1_m09",
+    "language": "de",
+    "level": "B1",
+    "theme": "Politics & Society",
+    "order": 9,
+    "lessons": [
+        {
+            "lesson_id": "de_b1_m09_l1",
+            "title": "Politics & Society",
+            "vocabularyItems": [
+                {
+                    "word": "Die Gesetzgebung",
+                    "reading": "ge-ZETS-ge-boong",
+                    "meaning": "Legislation",
+                    "example_sentence": "Die Gesetzgebung liegt in der Hand des Parlaments. (Legislation is in the hands of the parliament.)"
+                },
+                {
+                    "word": "Das Grundgesetz",
+                    "reading": "GROONT-ge-zets",
+                    "meaning": "Basic Law / Constitution",
+                    "example_sentence": "Das Grundgesetz ist die rechtliche Basis Deutschlands. (The Basic Law is the legal basis of Germany.)"
+                },
+                {
+                    "word": "Die Gewaltenteilung",
+                    "reading": "ge-VAL-ten-ty-loong",
+                    "meaning": "Separation of powers",
+                    "example_sentence": "Gewaltenteilung verhindert den Missbrauch von Macht. (Separation of powers prevents the abuse of power.)"
+                },
+                {
+                    "word": "Der Bundestag",
+                    "reading": "BOON-des-tahk",
+                    "meaning": "German Federal Parliament",
+                    "example_sentence": "Der Bundestag beschließt neue Bundesgesetze. (The Bundestag passes new federal laws.)"
+                },
+                {
+                    "word": "Die Abgeordneten",
+                    "reading": "AP-ge-ord-ne-ten",
+                    "meaning": "Members of Parliament",
+                    "example_sentence": "Die Abgeordneten vertreten die Interessen des Volkes. (The MPs represent the interests of the people.)"
+                },
+                {
+                    "word": "Die Bundesregierung",
+                    "reading": "BOON-des-re-gee-roong",
+                    "meaning": "Federal Government",
+                    "example_sentence": "Die Bundesregierung setzt die Gesetze um. (The federal government implements the laws.)"
+                },
+                {
+                    "word": "Der Bundeskanzler",
+                    "reading": "BOON-des-kants-ler",
+                    "meaning": "Federal Chancellor",
+                    "example_sentence": "Der Bundeskanzler bestimmt die Richtlinien der Politik. (The Federal Chancellor determines the guidelines of policy.)"
+                },
+                {
+                    "word": "Das Staatsoberhaupt",
+                    "reading": "SHTAHTS-o-ber-howpt",
+                    "meaning": "Head of state",
+                    "example_sentence": "Der Bundespräsident ist das deutsche Staatsoberhaupt. (The Federal President is the German head of state.)"
+                },
+                {
+                    "word": "Die Kommunalpolitik",
+                    "reading": "ko-moo-NAHL-po-lee-teek",
+                    "meaning": "Local politics",
+                    "example_sentence": "Kommunalpolitik findet direkt vor der Haustür statt. (Local politics takes place right on the doorstep.)"
+                },
+                {
+                    "word": "Das Stimmrecht",
+                    "reading": "SHTIM-rekht",
+                    "meaning": "Right to vote",
+                    "example_sentence": "Das Stimmrecht ist ein hohes Gut in der Demokratie. (The right to vote is a valuable asset in democracy.)"
+                },
+                {
+                    "word": "Die Wahlbeteiligung",
+                    "reading": "VAHL-be-ty-lee-goong",
+                    "meaning": "Voter turnout",
+                    "example_sentence": "Eine hohe Wahlbeteiligung stärkt die Legitimität. (A high voter turnout strengthens legitimacy.)"
+                },
+                {
+                    "word": "Der Wahlkreis",
+                    "reading": "VAHL-krys",
+                    "meaning": "Constituency",
+                    "example_sentence": "Er kandidiert als Direktkandidat in seinem Wahlkreis. (He is running as a direct candidate in his constituency.)"
+                },
+                {
+                    "word": "Die Koalitionsverhandlung",
+                    "reading": "ko-a-lee-TSYOHNS-fer-hant-loong",
+                    "meaning": "Coalition negotiation",
+                    "example_sentence": "Die Koalitionsverhandlung dauerte mehrere Wochen. (The coalition negotiation lasted several weeks.)"
+                },
+                {
+                    "word": "Die Opposition",
+                    "reading": "o-po-zee-TSYOHN",
+                    "meaning": "Opposition",
+                    "example_sentence": "Die Opposition kontrolliert die Arbeit der Regierung. (The opposition monitors the work of the government.)"
+                },
+                {
+                    "word": "Der politische Ausschuss",
+                    "reading": "po-LEE-tee-sher OWS-shoos",
+                    "meaning": "Political committee",
+                    "example_sentence": "Der Ausschuss berät über Details der Gesetzesentwürfe. (The committee deliberates on details of the draft laws.)"
+                },
+                {
+                    "word": "Die Bürgerinitiative",
+                    "reading": "BUER-ger-ee-nee-tsya-tee-ve",
+                    "meaning": "Citizens' initiative",
+                    "example_sentence": "Eine Bürgerinitiative kämpft gegen den Straßenausbau. (A citizens' initiative is fighting against road expansion.)"
+                },
+                {
+                    "word": "Die Meinungsfreiheit",
+                    "reading": "MY-noongs-fry-hyte",
+                    "meaning": "Freedom of speech",
+                    "example_sentence": "Meinungsfreiheit ist eine Säule des Grundgesetzes. (Freedom of opinion is a pillar of the Basic Law.)"
+                },
+                {
+                    "word": "Die Versammlungsfreiheit",
+                    "reading": "fer-ZAM-loongs-fry-hyte",
+                    "meaning": "Freedom of assembly",
+                    "example_sentence": "Die Versammlungsfreiheit erlaubt friedliche Demonstrationen. (Freedom of assembly allows peaceful demonstrations.)"
+                },
+                {
+                    "word": "Die Rechtsstaatlichkeit",
+                    "reading": "REKHTS-shtat-likh-kyte",
+                    "meaning": "Rule of law",
+                    "example_sentence": "Rechtsstaatlichkeit schützt den Bürger vor Willkür. (The rule of law protects the citizen from arbitrariness.)"
+                },
+                {
+                    "word": "Die Justiz",
+                    "reading": "yoos-TEETS",
+                    "meaning": "Justice system / Judiciary",
+                    "example_sentence": "Die Justiz muss unabhängig von der Politik sein. (The judiciary must be independent of politics.)"
+                },
+                {
+                    "word": "Das Gerichtsverfahren",
+                    "reading": "ge-RIKHTS-fer-fa-ren",
+                    "meaning": "Legal proceedings",
+                    "example_sentence": "Das Gerichtsverfahren wird in Kürze eröffnet. (The court proceedings will be opened shortly.)"
+                },
+                {
+                    "word": "Der Staatsanwalt",
+                    "reading": "SHTAHTS-an-valt",
+                    "meaning": "Public prosecutor",
+                    "example_sentence": "Der Staatsanwalt verlas die Anklageschrift. (The public prosecutor read out the indictment.)"
+                },
+                {
+                    "word": "Die Verteidigung",
+                    "reading": "fer-TY-dee-goong",
+                    "meaning": "Defense",
+                    "example_sentence": "Die Verteidigung plädierte auf Freispruch. (The defense pleaded for acquittal.)"
+                },
+                {
+                    "word": "Das Urteil",
+                    "reading": "OOR-tyle",
+                    "meaning": "Verdict / Judgment",
+                    "example_sentence": "Das Urteil wird morgen Vormittag verkündet. (The verdict will be announced tomorrow morning.)"
+                },
+                {
+                    "word": "Die Berufung einlegen",
+                    "reading": "be-ROO-foong EYN-lay-gen",
+                    "meaning": "To lodge an appeal",
+                    "example_sentence": "Sein Anwalt wird gegen das Urteil Berufung einlegen. (His lawyer will lodge an appeal against the verdict.)"
+                },
+                {
+                    "word": "Die Strafe",
+                    "reading": "SHTRA-fe",
+                    "meaning": "Punishment / Fine",
+                    "example_sentence": "Die Strafe muss dem Vergehen angemessen sein. (The punishment must be appropriate to the offense.)"
+                },
+                {
+                    "word": "Das Bußgeld",
+                    "reading": "BOOS-gelt",
+                    "meaning": "Fine",
+                    "example_sentence": "Wegen Falschparkens muss er ein Bußgeld zahlen. (He has to pay a fine for illegal parking.)"
+                },
+                {
+                    "word": "Die Haftstrafe",
+                    "reading": "HAFT-sh-tra-fe",
+                    "meaning": "Prison sentence",
+                    "example_sentence": "Der Dieb wurde zu einer Haftstrafe verurteilt. (The thief was sentenced to a prison term.)"
+                },
+                {
+                    "word": "Die Bewährung",
+                    "reading": "be-VAY-roong",
+                    "meaning": "Probation",
+                    "example_sentence": "Das Gericht setzte die Strafe zur Bewährung aus. (The court suspended the sentence on probation.)"
+                },
+                {
+                    "word": "Die Menschenrechte",
+                    "reading": "MEN-shen-rekh-te",
+                    "meaning": "Human rights",
+                    "example_sentence": "Menschenrechte gelten für alle Menschen weltweit. (Human rights apply to all people worldwide.)"
+                },
+                {
+                    "word": "Die Unantastbarkeit der Menschenwürde",
+                    "reading": "oo-nan-TAST-bar-kyte",
+                    "meaning": "Inviolability of human dignity [B1 Upgrade]",
+                    "example_sentence": "Die Unantastbarkeit der Menschenwürde steht am Anfang. (The inviolability of human dignity stands at the beginning.)"
+                },
+                {
+                    "word": "Die Gleichbehandlung",
+                    "reading": "GLYKHE-be-hant-loong",
+                    "meaning": "Equal treatment",
+                    "example_sentence": "Gleichbehandlung am Arbeitsplatz ist gesetzlich geregelt. (Equal treatment in the workplace is regulated by law.)"
+                },
+                {
+                    "word": "Die Antidiskriminierung",
+                    "reading": "an-tee-dis-kree-mee-NEE-roong",
+                    "meaning": "Anti-discrimination",
+                    "example_sentence": "Antidiskriminierung ist ein wichtiges Ziel der EU. (Anti-discrimination is an important goal of the EU.)"
+                },
+                {
+                    "word": "Die soziale Sicherheit",
+                    "reading": "zo-TSYA-le ZIKH-er-hyte",
+                    "meaning": "Social security",
+                    "example_sentence": "Soziale Sicherheit schützt vor Armut im Alter. (Social security protects against poverty in old age.)"
+                },
+                {
+                    "word": "Das Rentensystem",
+                    "reading": "REN-ten-zoos-taym",
+                    "meaning": "Pension system",
+                    "example_sentence": "Das Rentensystem muss an den Wandel angepasst werden. (The pension system must be adapted to the change.)"
+                },
+                {
+                    "word": "Die Arbeitslosenversicherung",
+                    "reading": "AR-byts-lo-zen-fer-zi-khe-roong",
+                    "meaning": "Unemployment insurance",
+                    "example_sentence": "Arbeitslosenversicherung bietet Schutz bei Jobverlust. (Unemployment insurance provides protection in case of job loss.)"
+                },
+                {
+                    "word": "Die Pflegeversicherung",
+                    "reading": "PFLAY-ge-fer-zi-khe-roong",
+                    "meaning": "Long-term care insurance",
+                    "example_sentence": "Die Pflegeversicherung ist Teil des Sozialversicherungssystems. (Long-term care insurance is part of the social security system.)"
+                },
+                {
+                    "word": "Das gemeinschaftliche Füreinander-Einstehen",
+                    "reading": "zo-lee-da-ree-TET",
+                    "meaning": "Collective solidarity [B1 Upgrade]",
+                    "example_sentence": "Das gemeinschaftliche Füreinander-Einstehen prägt unsere Gesellschaft. (Collective solidarity characterizes our society.)"
+                },
+                {
+                    "word": "Die Chancengerechtigkeit",
+                    "reading": "SHAN-sen-ge-rekh-tish-kyte",
+                    "meaning": "Equality of opportunity",
+                    "example_sentence": "Chancengerechtigkeit ist die Basis für sozialen Aufstieg. (Equality of opportunity is the basis for social mobility.)"
+                },
+                {
+                    "word": "Die Integration",
+                    "reading": "in-te-gra-TSYOHN",
+                    "meaning": "Integration",
+                    "example_sentence": "Sprache ist der Schlüssel für eine gelungene Integration. (Language is the key to successful integration.)"
+                },
+                {
+                    "word": "Das Asylrecht",
+                    "reading": "a-ZOOL-rekht",
+                    "meaning": "Right of asylum",
+                    "example_sentence": "Das Asylrecht schützt politisch Verfolgte. (The right of asylum protects those persecuted politically.)"
+                },
+                {
+                    "word": "Die Staatsbürgerschaft",
+                    "reading": "SHTAHTS-buer-ger-shaft",
+                    "meaning": "Citizenship",
+                    "example_sentence": "Nach acht Jahren kann man die Staatsbürgerschaft beantragen. (After eight years, one can apply for citizenship.)"
+                },
+                {
+                    "word": "Der Einwanderer",
+                    "reading": "EYN-van-de-rer",
+                    "meaning": "Immigrant",
+                    "example_sentence": "Einwanderer bereichern die Kultur unseres Landes. (Immigrants enrich the culture of our country.)"
+                },
+                {
+                    "word": "Die multikulturelle Gesellschaft",
+                    "reading": "mool-tee-kool-too-RE-le ge-ZEL-shaft",
+                    "meaning": "Multicultural society",
+                    "example_sentence": "Wir leben in einer multikulturellen Gesellschaft. (We live in a multicultural society.)"
+                },
+                {
+                    "word": "Die gesellschaftliche Kohäsion",
+                    "reading": "zo-TSYA-le tsoo-ZAM-en-halt",
+                    "meaning": "Social cohesion [B1 Upgrade]",
+                    "example_sentence": "Die gesellschaftliche Kohäsion muss aktiv gefördert werden. (Social cohesion must be actively promoted.)"
+                },
+                {
+                    "word": "Die ehrenamtliche Tätigkeit",
+                    "reading": "AY-ren-amt-likhe TAY-tish-kyte",
+                    "meaning": "Volunteer work",
+                    "example_sentence": "Er übt eine ehrenamtliche Tätigkeit im Sportverein aus. (He performs volunteer work in the sports club.)"
+                },
+                {
+                    "word": "Die Gemeinnützigkeit",
+                    "reading": "ge-MYNE-nuet-tsish-kyte",
+                    "meaning": "Public benefit / Non-profit status",
+                    "example_sentence": "Der Verein hat die Anerkennung der Gemeinnützigkeit erhalten. (The association has received recognition of its non-profit status.)"
+                },
+                {
+                    "word": "Die Spendenaktion",
+                    "reading": "SHPEN-den-ak-tsyohn",
+                    "meaning": "Fundraising campaign",
+                    "example_sentence": "Die Spendenaktion war ein großer Erfolg. (The fundraising campaign was a great success.)"
+                },
+                {
+                    "word": "Die Bürgerpflicht",
+                    "reading": "BUER-ger-pflykht",
+                    "meaning": "Civic duty",
+                    "example_sentence": "Wählen zu gehen ist eine wichtige Bürgerpflicht. (Going to vote is an important civic duty.)"
+                },
+                {
+                    "word": "Die Steuererklärung",
+                    "reading": "SHTOY-er-er-klay-roong",
+                    "meaning": "Tax return",
+                    "example_sentence": "Die Steuererklärung muss bis zum 31. Juli abgegeben werden. (The tax return must be submitted by July 31st.)"
+                },
+                {
+                    "word": "Das Finanzamt",
+                    "reading": "fee-NANTS-amt",
+                    "meaning": "Tax office",
+                    "example_sentence": "Er arbeitet im Finanzamt als Sachbearbeiter. (He works at the tax office as a clerk.)"
+                },
+                {
+                    "word": "Die Einkommensteuer",
+                    "reading": "EYN-ko-men-shtoy-er",
+                    "meaning": "Income tax",
+                    "example_sentence": "Die Einkommensteuer wird direkt vom Lohn abgezogen. (Income tax is deducted directly from wages.)"
+                },
+                {
+                    "word": "Die Umsatzbesteuerung",
+                    "reading": "oom-ZATS-be-shtoy-e-roong",
+                    "meaning": "VAT taxation [B1 Upgrade for MwSt]",
+                    "example_sentence": "Die Umsatzbesteuerung ist für kleine Firmen oft kompliziert. (VAT taxation is often complicated for small firms.)"
+                },
+                {
+                    "word": "Die Staatsverschuldung",
+                    "reading": "SHTAHTS-fer-shool-doong",
+                    "meaning": "National debt",
+                    "example_sentence": "Die Senkung der Staatsverschuldung ist ein politisches Ziel. (Reducing the national debt is a political goal.)"
+                },
+                {
+                    "word": "Die Wirtschaftspolitik",
+                    "reading": "VIRT-shafts-po-lee-teek",
+                    "meaning": "Economic policy",
+                    "example_sentence": "Wirtschaftspolitik soll das Wachstum fördern. (Economic policy is intended to promote growth.)"
+                },
+                {
+                    "word": "Die transnationale Kooperation",
+                    "reading": "glo-ba-lee-ZEE-roong",
+                    "meaning": "Transnational cooperation [B1 Upgrade for Globalisierung]",
+                    "example_sentence": "Die transnationale Kooperation ist in der Klimapolitik nötig. (Transnational cooperation is necessary in climate policy.)"
+                },
+                {
+                    "word": "Die Europäische Union",
+                    "reading": "oy-ro-PAY-ee-she oon-YOHN",
+                    "meaning": "European Union",
+                    "example_sentence": "In der Europäischen Union gibt es offene Grenzen. (There are open borders in the European Union.)"
+                },
+                {
+                    "word": "Das Europaparlament",
+                    "reading": "oy-RO-pa-par-la-ment",
+                    "meaning": "European Parliament",
+                    "example_sentence": "Das Europaparlament wird alle fünf Jahre gewählt. (The European Parliament is elected every five years.)"
+                },
+                {
+                    "word": "Die Außenpolitik",
+                    "reading": "OWS-sen-po-lee-teek",
+                    "meaning": "Foreign policy",
+                    "example_sentence": "Außenpolitik erfordert viel diplomatisches Geschick. (Foreign policy requires a lot of diplomatic skill.)"
+                },
+                {
+                    "word": "Die Diplomatie",
+                    "reading": "dee-plo-ma-TEE",
+                    "meaning": "Diplomacy",
+                    "example_sentence": "Diplomatie ist besser als kriegerische Konflikte. (Diplomacy is better than armed conflicts.)"
+                },
+                {
+                    "word": "Das internationale Abkommen",
+                    "reading": "in-ter-na-tsyo-NA-le AP-ko-men",
+                    "meaning": "International agreement",
+                    "example_sentence": "Das internationale Abkommen regelt den Handel mit Getreide. (The international agreement regulates the trade in grain.)"
+                },
+                {
+                    "word": "Die Friedensmission",
+                    "reading": "FREE-dens-mee-syohn",
+                    "meaning": "Peacekeeping mission",
+                    "example_sentence": "Die UN schickt eine Friedensmission in das Krisengebiet. (The UN is sending a peacekeeping mission to the crisis area.)"
+                },
+                {
+                    "word": "Die Entwicklungshilfe",
+                    "reading": "ent-VIK-loongs-hil-fe",
+                    "meaning": "Development aid",
+                    "example_sentence": "Entwicklungshilfe soll zur Selbsthilfe anregen. (Development aid is intended to encourage self-help.)"
+                },
+                {
+                    "word": "Der Schutz der natürlichen Ressourcen",
+                    "reading": "OOM-velt-shoots",
+                    "meaning": "Resource protection [B1 Upgrade]",
+                    "example_sentence": "Der Schutz der natürlichen Ressourcen ist eine ethische Pflicht. (Protecting natural resources is an ethical duty.)"
+                },
+                {
+                    "word": "Die Klimapolitik",
+                    "reading": "KLEE-ma-po-lee-teek",
+                    "meaning": "Climate policy",
+                    "example_sentence": "Klimapolitik ist das wichtigste Thema unserer Zeit. (Climate policy is the most important issue of our time.)"
+                },
+                {
+                    "word": "Die energetische Transformation",
+                    "reading": "ay-ner-GEE-ven-de",
+                    "meaning": "Energetic transformation [B1 Upgrade]",
+                    "example_sentence": "Die energetische Transformation verläuft in Phasen. (The energetic transformation takes place in phases.)"
+                },
+                {
+                    "word": "Die soziale Verantwortung",
+                    "reading": "zo-TSYA-le fer-ANT-vor-toong",
+                    "meaning": "Social responsibility",
+                    "example_sentence": "Unternehmen tragen eine große soziale Verantwortung. (Companies carry a great social responsibility.)"
+                },
+                {
+                    "word": "Die Meinungsbildung",
+                    "reading": "MY-noongs-bil-doong",
+                    "meaning": "Opinion forming",
+                    "example_sentence": "Diskussionen sind wichtig für die Meinungsbildung. (Discussions are important for opinion forming.)"
+                },
+                {
+                    "word": "Die publizistische Vielfalt",
+                    "reading": "MAY-dyen-lant-shaf",
+                    "meaning": "Publishing diversity [B1 Upgrade]",
+                    "example_sentence": "Die publizistische Vielfalt wird durch kleine Verlage gesichert. (Publishing diversity is ensured by small publishing houses.)"
+                },
+                {
+                    "word": "Die Presseagentur",
+                    "reading": "PRES-e-a-gen-toor",
+                    "meaning": "Press agency",
+                    "example_sentence": "Die Presseagentur liefert Nachrichten an die Redaktionen. (The press agency provides news to the editorial offices.)"
+                },
+                {
+                    "word": "Die Manipulation",
+                    "reading": "ma-nee-poo-la-TSYOHN",
+                    "meaning": "Manipulation",
+                    "example_sentence": "Wähler durch falsche Informationen zu täuschen, ist Manipulation. (Deceiving voters with false information is manipulation.)"
+                },
+                {
+                    "word": "Die Propaganda",
+                    "reading": "pro-pa-GAN-da",
+                    "meaning": "Propaganda",
+                    "example_sentence": "Propaganda wird oft in autoritären Systemen eingesetzt. (Propaganda is often used in authoritarian systems.)"
+                },
+                {
+                    "word": "Die Informationsfreiheit",
+                    "reading": "in-for-ma-TSYOHNS-fry-hyte",
+                    "meaning": "Freedom of information",
+                    "example_sentence": "Informationsfreiheit ermöglicht den Zugang zu Akten. (Freedom of information enables access to files.)"
+                },
+                {
+                    "word": "Die informationelle Selbstbestimmung",
+                    "reading": "DA-ten-shoots",
+                    "meaning": "Informational self-determination [B1 Upgrade]",
+                    "example_sentence": "Die informationelle Selbstbestimmung ist ein Grundrecht. (Informational self-determination is a fundamental right.)"
+                },
+                {
+                    "word": "Die Cybersicherheit",
+                    "reading": "SY-ber-zi-kher-hyte",
+                    "meaning": "Cybersecurity",
+                    "example_sentence": "Cybersicherheit schützt Unternehmen vor Hackern. (Cybersecurity protects companies from hackers.)"
+                },
+                {
+                    "word": "Der gesellschaftliche Wandel",
+                    "reading": "ge-ZEL-shaft-likhe VAN-del",
+                    "meaning": "Social change",
+                    "example_sentence": "Der gesellschaftliche Wandel verändert unsere Lebensweise. (Social change is altering our way of life.)"
+                },
+                {
+                    "word": "Die Zukunftsperspektive",
+                    "reading": "TSOO-koonfts-per-shpek-tee-ve",
+                    "meaning": "Future perspective",
+                    "example_sentence": "Eine gute Ausbildung bietet bessere Zukunftsperspektiven. (Good training offers better future perspectives.)"
+                },
+                {
+                    "word": "Der Generationenkonflikt",
+                    "reading": "ge-ne-ra-TSYOH-nen-kon-flikt",
+                    "meaning": "Generational conflict",
+                    "example_sentence": "Unterschiedliche Ansichten führen oft zum Generationenkonflikt. (Different views often lead to a generational conflict.)"
+                },
+                {
+                    "word": "Die Gleichstellung der Geschlechter",
+                    "reading": "ge-sh-lekh-ter",
+                    "meaning": "Gender equality [B1 Upgrade]",
+                    "example_sentence": "Die Gleichstellung der Geschlechter ist noch nicht erreicht. (Gender equality has not yet been achieved.)"
+                },
+                {
+                    "word": "Die Emanzipation",
+                    "reading": "e-man-tsee-pa-TSYOHN",
+                    "meaning": "Emancipation",
+                    "example_sentence": "Die Emanzipation der Frau hat die Gesellschaft verändert. (The emancipation of women has changed society.)"
+                },
+                {
+                    "word": "Die Inklusion",
+                    "reading": "in-kloo-ZYOHN",
+                    "meaning": "Inclusion",
+                    "example_sentence": "Inklusion bedeutet Teilhabe für alle Menschen. (Inclusion means participation for all people.)"
+                },
+                {
+                    "word": "Der uneingeschränkte Zugang für alle",
+                    "reading": "ba-RYE-re-fry-hyte",
+                    "meaning": "Unrestricted access for all [B1 Upgrade for Barrierefreiheit]",
+                    "example_sentence": "Der uneingeschränkte Zugang für alle ist in öffentlichen Gebäuden Pflicht. (Unrestricted access for all is mandatory in public buildings.)"
+                },
+                {
+                    "word": "Das beherzte Eingreifen",
+                    "reading": "tsee-VEEL-koo-rah-zhe",
+                    "meaning": "Brave intervention [B1 Upgrade for Zivilcourage]",
+                    "example_sentence": "Das beherzte Eingreifen von Passanten verhinderte Schlimmeres. (The brave intervention of passers-by prevented worse.)"
+                },
+                {
+                    "word": "Die Wertevorstellung",
+                    "reading": "VER-te-for-shtel-oong",
+                    "meaning": "Moral values",
+                    "example_sentence": "Jeder Mensch hat seine eigenen Wertevorstellungen. (Every human being has their own moral values.)"
+                },
+                {
+                    "word": "Die Ethik",
+                    "reading": "AY-teek",
+                    "meaning": "Ethics",
+                    "example_sentence": "Ethik beschäftigt sich mit der Frage nach dem richtigen Handeln. (Ethics deals with the question of the right action.)"
+                },
+                {
+                    "word": "Die einvernehmliche Einigung",
+                    "reading": "kom-pro-MIS",
+                    "meaning": "Consensus agreement [B1 Upgrade for Kompromiss]",
+                    "example_sentence": "Nach langen Gesprächen kam es zu einer einvernehmlichen Einigung. (After long discussions, a consensus agreement was reached.)"
+                },
+                {
+                    "word": "Der soziale Lastenausgleich",
+                    "reading": "zo-t-syahl",
+                    "meaning": "Social burden sharing [B1 Upgrade for Solidargemeinschaft]",
+                    "example_sentence": "Der soziale Lastenausgleich schützt schwächere Schichten. (Social burden sharing protects weaker layers.)"
+                },
+                {
+                    "word": "Die öffentliche Hand",
+                    "reading": "OEF-ent-likhe HANT",
+                    "meaning": "The public sector",
+                    "example_sentence": "Straßen werden oft von der öffentlichen Hand finanziert. (Roads are often financed by the public sector.)"
+                },
+                {
+                    "word": "Die Subvention",
+                    "reading": "zoob-ven-TSYOHN",
+                    "meaning": "Subsidy",
+                    "example_sentence": "Die Subvention für Elektroautos wurde verlängert. (The subsidy for electric cars has been extended.)"
+                },
+                {
+                    "word": "Die Erlangung der Doktorwürde",
+                    "reading": "pro-mo-TSYOHNS-for-ha-ben",
+                    "meaning": "Obtaining the doctorate (NOT job promotion) [TRAP]",
+                    "example_sentence": "Die Erlangung der Doktorwürde erfordert viel Ausdauer. (Obtaining the doctorate requires a lot of perseverance.)"
+                },
+                {
+                    "word": "Der Konkurs [TRAP]",
+                    "reading": "kon-KOORS",
+                    "meaning": "Bankruptcy (NOT a concourse)",
+                    "example_sentence": "Die Firma musste nach zwei Jahren Konkurs anmelden. (The company had to file for bankruptcy after two years.)"
+                },
+                {
+                    "word": "Die erfolgsabhängige Vergütung",
+                    "reading": "pro-vee-ZYOHN",
+                    "meaning": "Performance-based pay [TRAP for Provision]",
+                    "example_sentence": "Sie erhält eine hohe erfolgsabhängige Vergütung für den Abschluss. (She receives a high performance-based pay for the closing.)"
+                },
+                {
+                    "word": "Der weisungsbefugte Vorgesetzte",
+                    "reading": "SHEF",
+                    "meaning": "Supervising superior [TRAP for Chef]",
+                    "example_sentence": "Mein weisungsbefugter Vorgesetzter hat den Urlaub genehmigt. (My supervising superior approved the vacation.)"
+                },
+                {
+                    "word": "Das Gemeinwohl",
+                    "reading": "ge-MYNE-vohl",
+                    "meaning": "Common good",
+                    "example_sentence": "In der Demokratie sollte das Gemeinwohl im Vordergrund stehen. (In democracy, the common good should be the focus.)"
+                },
+                {
+                    "word": "Die Staatsräson",
+                    "reading": "SHTAHTS-re-sohn",
+                    "meaning": "State interest [New #95]",
+                    "example_sentence": "Sicherheit ist Teil der deutschen Staatsräson. (Security is part of the German state interest.)"
+                },
+                {
+                    "word": "Die parlamentarische Demokratie",
+                    "reading": "de-mo-kra-TEE",
+                    "meaning": "Parliamentary democracy [New #96]",
+                    "example_sentence": "Deutschland ist eine parlamentarische Demokratie. (Germany is a parliamentary democracy.)"
+                },
+                {
+                    "word": "Das Petitionsrecht",
+                    "reading": "pe-tee-TSYOHNS-rekht",
+                    "meaning": "Right of petition [New #97]",
+                    "example_sentence": "Das Petitionsrecht ermöglicht Bürgern die Artikulation von Wünschen. (The right of petition enables citizens to articulate wishes.)"
+                },
+                {
+                    "word": "Die Verfassungstreue",
+                    "reading": "ver-FA-soongs-troy-e",
+                    "meaning": "Loyalty to the constitution [New #98]",
+                    "example_sentence": "Verfassungstreue ist für Beamte verpflichtend. (Loyalty to the constitution is mandatory for civil servants.)"
+                },
+                {
+                    "word": "Der Amtsschimmel",
+                    "reading": "AMTS-shee-mel",
+                    "meaning": "Red tape/Bureaucracy [New #99]",
+                    "example_sentence": "Hier wiehert mal wieder der Amtsschimmel. (Here the red tape is running wild again.)"
+                },
+                {
+                    "word": "Das demokratische Grundverständnis",
+                    "reading": "de-mo-KRA-tee-she",
+                    "meaning": "Basic democratic understanding [New #100]",
+                    "example_sentence": "Das demokratische Grundverständnis ist essenziell für den Frieden. (Basic democratic understanding is essential for peace.)"
+                }
+            ],
+            "liar_game_data": {
+                "trap": "Political & Formal False Friends",
+                "correct_version": "Konkurs = Bankruptcy; Provision = Commission; Chef = Boss; Promotion = PhD.",
+                "explanation": "In German, 'Konkurs' is strictly financial failure. 'Provision' is the fee for a sale. 'Chef' is your supervisor, and 'Promotion' is the process of getting a doctorate."
+            }
+        }
+    ]
+}

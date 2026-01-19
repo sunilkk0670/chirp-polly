@@ -1,0 +1,620 @@
+{
+    "module_id": "de_b1_m05",
+    "language": "de",
+    "level": "B1",
+    "theme": "Consumption & Money",
+    "order": 5,
+    "lessons": [
+        {
+            "lesson_id": "de_b1_m05_l1",
+            "title": "Consumption & Money",
+            "vocabularyItems": [
+                {
+                    "word": "Der Zahlungsverkehr",
+                    "reading": "dehr TSHA-loongs-fer-kayr",
+                    "meaning": "Payment transactions",
+                    "example_sentence": "Der internationale Zahlungsverkehr wird immer schneller. (International payment transactions are getting faster and faster.)"
+                },
+                {
+                    "word": "Die Kreditwürdigkeit",
+                    "reading": "dee kre-DEET-vuer-dish-kyte",
+                    "meaning": "Creditworthiness",
+                    "example_sentence": "Die Bank prüft vor dem Kredit die Kreditwürdigkeit. (The bank checks creditworthiness before granting a loan.)"
+                },
+                {
+                    "word": "Die Verschuldung",
+                    "reading": "dee fer-SHOOL-doong",
+                    "meaning": "Indebtedness / Debt",
+                    "example_sentence": "Die Verschuldung der privaten Haushalte steigt. (Private household debt is rising.)"
+                },
+                {
+                    "word": "Zinsen erwirtschaften",
+                    "reading": "TSIN-zen er-VIRT-shaf-ten",
+                    "meaning": "To generate interest",
+                    "example_sentence": "Mit diesem Sparkonto können Sie kaum Zinsen erwirtschaften. (You can generate almost no interest with this savings account.)"
+                },
+                {
+                    "word": "Die Geldanlage",
+                    "reading": "dee GELT-an-la-ge",
+                    "meaning": "Investment",
+                    "example_sentence": "Gold gilt als eine sichere Geldanlage. (Gold is considered a safe investment.)"
+                },
+                {
+                    "word": "Das Wertpapier",
+                    "reading": "das VERT-pa-peer",
+                    "meaning": "Security / Stock",
+                    "example_sentence": "Ein Wertpapier ist eine Urkunde über Vermögensrechte. (A security is a certificate of property rights.)"
+                },
+                {
+                    "word": "Der Aktienmarkt",
+                    "reading": "dehr AK-tsyen-markt",
+                    "meaning": "Stock market",
+                    "example_sentence": "Der Aktienmarkt reagiert nervös auf die Nachrichten. (The stock market is reacting nervously to the news.)"
+                },
+                {
+                    "word": "Die Inflationsrate",
+                    "reading": "dee in-fla-TSYOHNS-ra-te",
+                    "meaning": "Inflation rate",
+                    "example_sentence": "Die hohe Inflationsrate mindert die Kaufkraft. (The high inflation rate reduces purchasing power.)"
+                },
+                {
+                    "word": "Nachhaltiger Konsum",
+                    "reading": "NAKH-hal-tee-ger kon-ZOOM",
+                    "meaning": "Sustainable consumption",
+                    "example_sentence": "Nachhaltiger Konsum schont die Ressourcen der Erde. (Sustainable consumption protects the earth's resources.)"
+                },
+                {
+                    "word": "Die Mangelware",
+                    "reading": "dee MAN-gel-va-re",
+                    "meaning": "Scarce commodity",
+                    "example_sentence": "Frisches Gemüse war während des Krieges Mangelware. (Fresh vegetables were a scarce commodity during the war.)"
+                },
+                {
+                    "word": "Das Preis-Leistungs-Verhältnis",
+                    "reading": "das PRYS-leys-toongs-fer-hel-tnis",
+                    "meaning": "Value for money",
+                    "example_sentence": "Das Preis-Leistungs-Verhältnis dieses Autos ist unschlagbar. (The value for money of this car is unbeatable.)"
+                },
+                {
+                    "word": "Die Gewährleistung",
+                    "reading": "dee ge-VAYR-leys-toong",
+                    "meaning": "Warranty / Legal guarantee",
+                    "example_sentence": "Die gesetzliche Gewährleistung beträgt zwei Jahre. (The statutory warranty is two years.)"
+                },
+                {
+                    "word": "Der Kaufvertrag",
+                    "reading": "dehr KOWF-fer-trahk",
+                    "meaning": "Purchase agreement",
+                    "example_sentence": "Der Kaufvertrag wurde von beiden Parteien unterschrieben. (The purchase agreement was signed by both parties.)"
+                },
+                {
+                    "word": "Die Widerrufsfrist",
+                    "reading": "dee VEE-der-roofs-frist",
+                    "meaning": "Cancellation period",
+                    "example_sentence": "Sie haben eine zweiwöchige Widerrufsfrist für Online-Käufe. (You have a two-week cancellation period for online purchases.)"
+                },
+                {
+                    "word": "Das Schnäppchen",
+                    "reading": "das SHNEP-khen",
+                    "meaning": "Bargain",
+                    "example_sentence": "Ich habe auf dem Flohmarkt ein echtes Schnäppchen gemacht. (I got a real bargain at the flea market.)"
+                },
+                {
+                    "word": "Die Verschwendung",
+                    "reading": "dee fer-SHVEN-doong",
+                    "meaning": "Waste / Extravagance",
+                    "example_sentence": "Lebensmittel wegzuwerfen ist eine große Verschwendung. (Throwing away food is a great waste.)"
+                },
+                {
+                    "word": "Der Konsumverzicht",
+                    "reading": "dehr kon-ZOOM-fer-tsikht",
+                    "meaning": "Consumer renunciation",
+                    "example_sentence": "Konsumverzicht kann zu einem einfacheren Leben führen. (Giving up consumption can lead to a simpler life.)"
+                },
+                {
+                    "word": "Die Kaufkraft",
+                    "reading": "dee KOWF-kraft",
+                    "meaning": "Purchasing power",
+                    "example_sentence": "Die Kaufkraft des Euro ist in diesem Jahr gesunken. (The purchasing power of the euro has decreased this year.)"
+                },
+                {
+                    "word": "Das Haushaltsbudget",
+                    "reading": "das HOWS-halts-bu-djay",
+                    "meaning": "Household budget",
+                    "example_sentence": "Wir müssen unser Haushaltsbudget genauer planen. (We need to plan our household budget more carefully.)"
+                },
+                {
+                    "word": "Die Ersparnisse",
+                    "reading": "dee er-SPAR-ni-se",
+                    "meaning": "Savings",
+                    "example_sentence": "Sie hat ihre Ersparnisse für die Anzahlung des Hauses genutzt. (She used her savings for the down payment on the house.)"
+                },
+                {
+                    "word": "Der Dauerauftrag",
+                    "reading": "DOW-er-owf-trahk",
+                    "meaning": "Standing order",
+                    "example_sentence": "Die Miete wird monatlich per Dauerauftrag bezahlt. (The rent is paid monthly by standing order.)"
+                },
+                {
+                    "word": "Die Lastschrift",
+                    "reading": "LAST-shrift",
+                    "meaning": "Direct debit",
+                    "example_sentence": "Ich bezahle meine Handyrechnung per Lastschrift. (I pay my cell phone bill by direct debit.)"
+                },
+                {
+                    "word": "Die Kontoführungsgebühren",
+                    "reading": "KON-to-fue-roongs-ge-bue-ren",
+                    "meaning": "Account maintenance fees",
+                    "example_sentence": "Einige Banken verlangen keine Kontoführungsgebühren. (Some banks do not charge account maintenance fees.)"
+                },
+                {
+                    "word": "Der Dispokredit",
+                    "reading": "DIS-po-kre-deet",
+                    "meaning": "Overdraft facility",
+                    "example_sentence": "Der Zins für den Dispokredit ist meistens sehr hoch. (The interest rate for the overdraft facility is usually very high.)"
+                },
+                {
+                    "word": "Die Abhebung",
+                    "reading": "AP-hay-boong",
+                    "meaning": "Withdrawal",
+                    "example_sentence": "Für jede Abhebung am Automaten fällt eine Gebühr an. (A fee is charged for every withdrawal at the ATM.)"
+                },
+                {
+                    "word": "Die Einzahlung",
+                    "reading": "EYN-tsa-loong",
+                    "meaning": "Deposit",
+                    "example_sentence": "Ich muss heute noch eine Einzahlung auf mein Konto machen. (I still have to make a deposit into my account today.)"
+                },
+                {
+                    "word": "Der Kontoauszug",
+                    "reading": "KON-to-ows-tsoog",
+                    "meaning": "Bank statement",
+                    "example_sentence": "Bitte prüfen Sie regelmäßig Ihren Kontoauszug. (Please check your bank statement regularly.)"
+                },
+                {
+                    "word": "Die Währungsstabilität",
+                    "reading": "VAY-roongs-shta-bee-lee-tet",
+                    "meaning": "Currency stability [B1 Upgrade for Währung]",
+                    "example_sentence": "Die Zentralbank sorgt für die Währungsstabilität. (The central bank ensures currency stability.)"
+                },
+                {
+                    "word": "Der Wechselkurs",
+                    "reading": "VEK-sel-koors",
+                    "meaning": "Exchange rate",
+                    "example_sentence": "Der Wechselkurs zwischen Dollar und Euro schwankt täglich. (The exchange rate between dollar and euro fluctuates daily.)"
+                },
+                {
+                    "word": "Die Liquidität",
+                    "reading": "lee-kvee-dee-TET",
+                    "meaning": "Liquidity [B1 Upgrade for Bargeld]",
+                    "example_sentence": "Das Unternehmen muss seine Liquidität sicherstellen. (The company must ensure its liquidity.)"
+                },
+                {
+                    "word": "Die Geheimzahl",
+                    "reading": "ge-HYME-tsahl",
+                    "meaning": "PIN number",
+                    "example_sentence": "Geben Sie Ihre Geheimzahl niemals an Dritte weiter. (Never give your PIN to third parties.)"
+                },
+                {
+                    "word": "Das Portemonnaie",
+                    "reading": "por-te-mo-NAY",
+                    "meaning": "Wallet [B1 Upgrade for Geldbeutel]",
+                    "example_sentence": "Ich habe mein Portemonnaie im Bus liegen lassen. (I left my wallet on the bus.)"
+                },
+                {
+                    "word": "Die Geldverschwendung",
+                    "reading": "GELT-fer-shven-doong",
+                    "meaning": "Waste of money",
+                    "example_sentence": "Dieses teure Auto ist eine reine Geldverschwendung. (This expensive car is a pure waste of money.)"
+                },
+                {
+                    "word": "Die Finanzkrise",
+                    "reading": "fee-NANTS-kree-ze",
+                    "meaning": "Financial crisis",
+                    "example_sentence": "Die Finanzkrise von 2008 hatte globale Auswirkungen. (The 2008 financial crisis had global effects.)"
+                },
+                {
+                    "word": "Die Wohlhabenheit",
+                    "reading": "VOHL-ha-ben-hyte",
+                    "meaning": "Affluence [B1 Upgrade for Reichtum]",
+                    "example_sentence": "Wohlhabenheit verpflichtet auch zu sozialem Engagement. (Affluence also creates an obligation for social commitment.)"
+                },
+                {
+                    "word": "Die Mittellosigkeit",
+                    "reading": "MIT-el-loh-zikh-kyte",
+                    "meaning": "Destitution [B1 Upgrade for Armut]",
+                    "example_sentence": "Der Verein hilft Menschen in finanzieller Mittellosigkeit. (The association helps people in financial destitution.)"
+                },
+                {
+                    "word": "Das Sparguthaben",
+                    "reading": "SHPAR-goot-ha-ben",
+                    "meaning": "Savings balance",
+                    "example_sentence": "Ihr Sparguthaben reicht für die Reise leider nicht aus. (Unfortunately, your savings balance is not enough for the trip.)"
+                },
+                {
+                    "word": "Der Schuldenberg",
+                    "reading": "SHOOL-den-berk",
+                    "meaning": "Mountain of debt",
+                    "example_sentence": "Er kämpft gegen einen riesigen Schuldenberg an. (He is fighting against a huge mountain of debt.)"
+                },
+                {
+                    "word": "Zahlungsunfähig",
+                    "reading": "TSA-loongs-oon-fay-ish",
+                    "meaning": "Insolvent",
+                    "example_sentence": "Die Firma ist seit gestern offiziell zahlungsunfähig. (Since yesterday, the company has been officially insolvent.)"
+                },
+                {
+                    "word": "Die Insolvenz",
+                    "reading": "in-zol-VENTS",
+                    "meaning": "Insolvency",
+                    "example_sentence": "Das Unternehmen musste Insolvenz anmelden. (The company had to file for insolvency.)"
+                },
+                {
+                    "word": "Die Bonität",
+                    "reading": "bo-nee-TET",
+                    "meaning": "Credit rating",
+                    "example_sentence": "Eine gute Bonität ist Voraussetzung für den Kredit. (A good credit rating is a prerequisite for the loan.)"
+                },
+                {
+                    "word": "Der Kreditantrag",
+                    "reading": "kre-DEET-an-trahk",
+                    "meaning": "Loan application",
+                    "example_sentence": "Der Kreditantrag wurde leider abgelehnt. (The loan application was unfortunately rejected.)"
+                },
+                {
+                    "word": "Die Rückzahlung",
+                    "reading": "RUEK-tsa-loong",
+                    "meaning": "Repayment",
+                    "example_sentence": "Die Rückzahlung erfolgt in monatlichen Raten. (Repayment is made in monthly installments.)"
+                },
+                {
+                    "word": "Die Zahlungsaufforderung",
+                    "reading": "TSA-loongs-owf-for-de-roong",
+                    "meaning": "Payment request [B1 Upgrade for Mahnung]",
+                    "example_sentence": "Er erhielt eine förmliche Zahlungsaufforderung. (He received a formal payment request.)"
+                },
+                {
+                    "word": "Das Inkassoverfahren",
+                    "reading": "in-KA-so-fer-fa-ren",
+                    "meaning": "Debt collection procedure",
+                    "example_sentence": "Das Inkassoverfahren wurde bereits eingeleitet. (The debt collection process has already been initiated.)"
+                },
+                {
+                    "word": "Der Rechnungsbetrag",
+                    "reading": "REKH-noongs-be-trahk",
+                    "meaning": "Invoice amount",
+                    "example_sentence": "Bitte überweisen Sie den Rechnungsbetrag innerhalb von 10 Tagen. (Please transfer the invoice amount within 10 days.)"
+                },
+                {
+                    "word": "Die Mehrwertsteuer",
+                    "reading": "MAYR-vert-shtoy-er",
+                    "meaning": "VAT / Sales tax",
+                    "example_sentence": "In Deutschland liegt die Mehrwertsteuer bei 19 Prozent. (In Germany, VAT is at 19 percent.)"
+                },
+                {
+                    "word": "Der Zahlungsbeleg",
+                    "reading": "TSA-loongs-be-layk",
+                    "meaning": "Payment receipt [B1 Upgrade for Quittung]",
+                    "example_sentence": "Bewahren Sie den Zahlungsbeleg gut auf. (Keep the payment receipt in a safe place.)"
+                },
+                {
+                    "word": "Der Kassenbon",
+                    "reading": "KA-sen-bon",
+                    "meaning": "Sales slip",
+                    "example_sentence": "Möchten Sie den Kassenbon mitnehmen? (Would you like to take the sales slip?)"
+                },
+                {
+                    "word": "Die Warenrückgabe",
+                    "reading": "VA-ren-ruek-ga-be",
+                    "meaning": "Product return [B1 Upgrade for Umtausch]",
+                    "example_sentence": "Die Warenrückgabe ist nur mit Kassenbon möglich. (Product return is only possible with a receipt.)"
+                },
+                {
+                    "word": "Die Rückerstattung",
+                    "reading": "RUEK-er-shtat-oong",
+                    "meaning": "Refund",
+                    "example_sentence": "Sie erhalten die Rückerstattung innerhalb von drei Tagen. (You will receive the refund within three days.)"
+                },
+                {
+                    "word": "Der Preisnachlass",
+                    "reading": "PRYS-nakh-las",
+                    "meaning": "Discount / Rebate",
+                    "example_sentence": "Wegen eines kleinen Fehlers gab es einen Preisnachlass. (Due to a small fault, there was a discount.)"
+                },
+                {
+                    "word": "Das Sonderangebot",
+                    "reading": "ZON-der-an-ge-boht",
+                    "meaning": "Special offer",
+                    "example_sentence": "Dieses Sonderangebot gilt nur bis morgen. (This special offer is only valid until tomorrow.)"
+                },
+                {
+                    "word": "Die Kundenkarte",
+                    "reading": "KOON-den-kar-te",
+                    "meaning": "Loyalty card",
+                    "example_sentence": "Mit der Kundenkarte sammeln Sie Punkte bei jedem Einkauf. (With the loyalty card, you collect points with every purchase.)"
+                },
+                {
+                    "word": "Das Konsumverhalten",
+                    "reading": "kon-ZOOM-fer-hal-ten",
+                    "meaning": "Consumer behavior",
+                    "example_sentence": "Das Konsumverhalten hat sich durch das Internet verändert. (Consumer behavior has changed due to the internet.)"
+                },
+                {
+                    "word": "Die Markenware",
+                    "reading": "MAR-ken-va-re",
+                    "meaning": "Branded goods",
+                    "example_sentence": "Markenware ist oft teurer, aber von besserer Qualität. (Branded goods are often more expensive but of better quality.)"
+                },
+                {
+                    "word": "Die Massenproduktion",
+                    "reading": "MA-sen-pro-dook-tsyohn",
+                    "meaning": "Mass production",
+                    "example_sentence": "Massenproduktion senkt die Herstellungskosten. (Mass production lowers manufacturing costs.)"
+                },
+                {
+                    "word": "Die Lieferzeit",
+                    "reading": "LEE-fer-tsyte",
+                    "meaning": "Delivery time",
+                    "example_sentence": "Die Lieferzeit beträgt aktuell zwei Wochen. (The delivery time is currently two weeks.)"
+                },
+                {
+                    "word": "Die Versandkosten",
+                    "reading": "fer-ZANT-kos-ten",
+                    "meaning": "Shipping costs",
+                    "example_sentence": "Ab 50 Euro Bestellwert entfallen die Versandkosten. (Shipping costs are waived for orders over 50 euros.)"
+                },
+                {
+                    "word": "Der Onlineshop",
+                    "reading": "ON-lyne-shop",
+                    "meaning": "Online shop",
+                    "example_sentence": "Der Onlineshop ist rund um die Uhr erreichbar. (The online shop is available around the clock.)"
+                },
+                {
+                    "word": "Der Warenkorb",
+                    "reading": "VA-ren-korp",
+                    "meaning": "Shopping cart",
+                    "example_sentence": "Ihr Produkt wurde erfolgreich in den Warenkorb gelegt. (Your product was successfully added to the shopping cart.)"
+                },
+                {
+                    "word": "Die Bestellung",
+                    "reading": "be-SHTEL-oong",
+                    "meaning": "Order",
+                    "example_sentence": "Vielen Dank für Ihre Bestellung bei uns. (Thank you for your order with us.)"
+                },
+                {
+                    "word": "Die Bestätigung",
+                    "reading": "be-SHTAY-tee-goong",
+                    "meaning": "Confirmation",
+                    "example_sentence": "Sie erhalten in Kürze eine Bestätigung per E-Mail. (You will receive a confirmation by email shortly.)"
+                },
+                {
+                    "word": "Der Lieferstatus",
+                    "reading": "LEE-fer-sta-toos",
+                    "meaning": "Delivery status",
+                    "example_sentence": "Sie können den Lieferstatus online verfolgen. (You can track the delivery status online.)"
+                },
+                {
+                    "word": "Die Reklamation",
+                    "reading": "re-kla-ma-TSYOHN",
+                    "meaning": "Complaint / Reclamation",
+                    "example_sentence": "Die Reklamation wurde vom Kundenservice bearbeitet. (The complaint was processed by customer service.)"
+                },
+                {
+                    "word": "Der Kundenservice",
+                    "reading": "KOON-den-ser-vis",
+                    "meaning": "Customer service",
+                    "example_sentence": "Der Kundenservice ist montags bis freitags erreichbar. (Customer service is available Monday through Friday.)"
+                },
+                {
+                    "word": "Die Kontaktierbarkeit",
+                    "reading": "kon-tak-TEER-bar-kyte",
+                    "meaning": "Contactability [B1 Upgrade for Erreichbarkeit]",
+                    "example_sentence": "Die Kontaktierbarkeit des Supports ist mangelhaft. (The contactability of support is poor.)"
+                },
+                {
+                    "word": "Die Qualitätssicherung",
+                    "reading": "kva-lee-TETS-zi-khe-roong",
+                    "meaning": "Quality assurance",
+                    "example_sentence": "Die Qualitätssicherung prüft jedes Teil einzeln. (Quality assurance checks every part individually.)"
+                },
+                {
+                    "word": "Der Rohstoff",
+                    "reading": "ROH-shtof",
+                    "meaning": "Raw material",
+                    "example_sentence": "Rohstoffe werden auf dem Weltmarkt gehandelt. (Raw materials are traded on the world market.)"
+                },
+                {
+                    "word": "Die Lieferkette",
+                    "reading": "LEE-fer-ket-e",
+                    "meaning": "Supply chain",
+                    "example_sentence": "Die Lieferkette darf nicht unterbrochen werden. (The supply chain must not be interrupted.)"
+                },
+                {
+                    "word": "Der faire Handel",
+                    "reading": "FY-re HAN-del",
+                    "meaning": "Fair trade",
+                    "example_sentence": "Durch fairen Handel erhalten Bauern bessere Preise. (Fair trade ensures farmers get better prices.)"
+                },
+                {
+                    "word": "Das Bio-Siegel",
+                    "reading": "BEE-o-zee-gel",
+                    "meaning": "Organic label",
+                    "example_sentence": "Das Bio-Siegel garantiert ökologische Standards. (The organic label guarantees ecological standards.)"
+                },
+                {
+                    "word": "Die Regionalität",
+                    "reading": "re-gyo-na-lee-TET",
+                    "meaning": "Regionality",
+                    "example_sentence": "Regionalität spart lange Transportwege. (Regionality saves long transport routes.)"
+                },
+                {
+                    "word": "Die Saisonalität",
+                    "reading": "zy-zo-na-lee-TET",
+                    "meaning": "Seasonality",
+                    "example_sentence": "Saisonalität spielt beim Obstkauf eine große Rolle. (Seasonality plays a major role in buying fruit.)"
+                },
+                {
+                    "word": "Die ökologische Verantwortung",
+                    "reading": "fer-ANT-vor-toong",
+                    "meaning": "Ecological responsibility [B1 Upgrade for Umweltschutz]",
+                    "example_sentence": "Wir tragen alle eine ökologische Verantwortung. (We all bear ecological responsibility.)"
+                },
+                {
+                    "word": "Die Wiederverwertung",
+                    "reading": "VEE-der-fer-vehr-toong",
+                    "meaning": "Recycling [B1 Upgrade for Recycling-Word]",
+                    "example_sentence": "Wiederverwertung schont die natürlichen Ressourcen. (Recycling protects natural resources.)"
+                },
+                {
+                    "word": "Die Müllvermeidung",
+                    "reading": "MUEL-fer-my-doong",
+                    "meaning": "Waste reduction",
+                    "example_sentence": "Müllvermeidung fängt beim plastikfreien Einkauf an. (Waste prevention starts with plastic-free shopping.)"
+                },
+                {
+                    "word": "Die Plastikverpackung",
+                    "reading": "PLAS-tik-fer-pa-koong",
+                    "meaning": "Plastic packaging",
+                    "example_sentence": "Zuviel Obst wird in Plastikverpackung verkauft. (Too much fruit is sold in plastic packaging.)"
+                },
+                {
+                    "word": "Die Einwegflasche",
+                    "reading": "EYN-vehk-fla-she",
+                    "meaning": "One-way bottle",
+                    "example_sentence": "Verwenden Sie lieber Mehrweg- statt Einwegflaschen. (Prefer reusable to single-use bottles.)"
+                },
+                {
+                    "word": "Das Pfandsystem",
+                    "reading": "PFANT-zoos-taym",
+                    "meaning": "Deposit system",
+                    "example_sentence": "Das deutsche Pfandsystem ist ein Vorbild für viele Länder. (The German deposit system is a model for many countries.)"
+                },
+                {
+                    "word": "Der Minimalismus",
+                    "reading": "mee-nee-ma-LIS-moos",
+                    "meaning": "Minimalism",
+                    "example_sentence": "Minimalismus befreit von unnötigem Ballast. (Minimalism frees from unnecessary ballast.)"
+                },
+                {
+                    "word": "Die Genügsamkeit",
+                    "reading": "ge-NUEG-zam-kyte",
+                    "meaning": "Frugality",
+                    "example_sentence": "Genügsamkeit ist eine fast vergessene Tugend. (Frugality is an almost forgotten virtue.)"
+                },
+                {
+                    "word": "Der Exklusivbedarf",
+                    "reading": "eks-kloo-ZEEV-be-darf",
+                    "meaning": "Exclusive need [B1 Upgrade for Luxus]",
+                    "example_sentence": "Yachten fallen unter den Exklusivbedarf. (Yachts fall under exclusive needs.)"
+                },
+                {
+                    "word": "Die Lebenshaltung",
+                    "reading": "LAY-bens-hal-toong",
+                    "meaning": "Standard of living",
+                    "example_sentence": "Die Kosten für die Lebenshaltung steigen kontinuierlich. (The cost of living is rising continuously.)"
+                },
+                {
+                    "word": "Das Vermögen",
+                    "reading": "fer-MOE-gen",
+                    "meaning": "Assets / Fortune",
+                    "example_sentence": "Er hat sein Vermögen durch kluge Anlagen aufgebaut. (He built his fortune through clever investments.)"
+                },
+                {
+                    "word": "Die Erbschaft",
+                    "reading": "ERP-shaft",
+                    "meaning": "Inheritance",
+                    "example_sentence": "Die Erbschaft ermöglichte ihr ein sorgenfreies Leben. (The inheritance enabled her to live a carefree life.)"
+                },
+                {
+                    "word": "Die Schenkung",
+                    "reading": "SHEN-koong",
+                    "meaning": "Donation / Gift (legal)",
+                    "example_sentence": "Eine Schenkung muss dem Finanzamt gemeldet werden. (A gift must be reported to the tax office.)"
+                },
+                {
+                    "word": "Die finanzielle Zuwendung",
+                    "reading": "TSON-ven-doong",
+                    "meaning": "Financial allocation [B1 Upgrade for Taschengeld]",
+                    "example_sentence": "Die Enkel freuen sich über die finanzielle Zuwendung. (The grandchildren are happy about the financial allocation.)"
+                },
+                {
+                    "word": "Die Finanzplanung",
+                    "reading": "fee-NANTS-pla-noong",
+                    "meaning": "Financial planning",
+                    "example_sentence": "Gute Finanzplanung ist die Basis für Wohlstand. (Good financial planning is the basis for prosperity.)"
+                },
+                {
+                    "word": "Die Vorsorge",
+                    "reading": "FOR-zor-ge",
+                    "meaning": "Precaution / Provision",
+                    "example_sentence": "Man kann nie früh genug mit der Vorsorge beginnen. (You can never start planning for the future early enough.)"
+                },
+                {
+                    "word": "Der Versicherungsschutz",
+                    "reading": "fer-ZIKH-e-roongs-shoots",
+                    "meaning": "Insurance coverage",
+                    "example_sentence": "Prüfen Sie, ob Ihr Versicherungsschutz noch aktuell ist. (Check whether your insurance coverage is still up to date.)"
+                },
+                {
+                    "word": "Die Police",
+                    "reading": "po-LEE-tse",
+                    "meaning": "Insurance policy",
+                    "example_sentence": "Die Einzelheiten stehen in Ihrer Police. (The details can be found in your policy.)"
+                },
+                {
+                    "word": "Der Schadensfall",
+                    "reading": "SHA-dens-fal",
+                    "meaning": "Case of damage / Claim",
+                    "example_sentence": "Im Schadensfall rufen Sie bitte sofort die Versicherung an. (In case of damage, please call the insurance company immediately.)"
+                },
+                {
+                    "word": "Die Entschädigung",
+                    "reading": "ent-SHAY-dee-goong",
+                    "meaning": "Compensation",
+                    "example_sentence": "Das Opfer erhielt eine finanzielle Entschädigung. (The victim received financial compensation.)"
+                },
+                {
+                    "word": "Die Rate [TRAP]",
+                    "reading": "dee RA-te",
+                    "meaning": "Installment (NOT rate/speed) [Liar Game]",
+                    "example_sentence": "Ich bezahle den Fernseher in zehn Raten ab. (I am paying off the TV in ten installments.)"
+                },
+                {
+                    "word": "Der Prospekt [TRAP]",
+                    "reading": "dehr pro-SPEKT",
+                    "meaning": "Brochure (NOT future prospect) [Liar Game]",
+                    "example_sentence": "Im neuen Prospekt sind viele Angebote aufgelistet. (Many offers are listed in the new brochure.)"
+                },
+                {
+                    "word": "Kapitalrücklagen bilden [TRAP]",
+                    "reading": "SHPA-ren",
+                    "meaning": "To build capital reserves (Upgrade for Sparen) [Liar Game]",
+                    "example_sentence": "Wir müssen Kapitalrücklagen für die Zukunft bilden. (We must build capital reserves for the future.)"
+                },
+                {
+                    "word": "Die Maklercourtage [TRAP]",
+                    "reading": "pro-vee-ZYOHN",
+                    "meaning": "Brokerage fee (Upgrade for Provision) [Liar Game]",
+                    "example_sentence": "Die Maklercourtage wird beim Hauskauf fällig. (The brokerage fee is due when buying a house.)"
+                },
+                {
+                    "word": "Finanziell unabhängig",
+                    "reading": "fee-nan-TSYEL OON-ap-hen-gish",
+                    "meaning": "Financially independent",
+                    "example_sentence": "Sein Ziel ist es, mit 40 finanziell unabhängig zu sein. (His goal is to be financially independent by age 40.)"
+                },
+                {
+                    "word": "Gute Geschäfte machen!",
+                    "reading": "GOO-te ge-SHEF-te MA-khen",
+                    "meaning": "Do good business!",
+                    "example_sentence": "Ich hoffe, Sie werden auf der Messe gute Geschäfte machen! (I hope you will do good business at the fair!)"
+                }
+            ],
+            "liar_game_data": {
+                "trap": "Financial False Friends: Rate & Prospekt",
+                "correct_version": "Rate = Installment; Prospekt = Brochure; Provision = Commission.",
+                "explanation": "In German, 'Rate' is a partial payment. Speed is 'Geschwindigkeit'. 'Prospekt' is a paper catalog. A 'future prospect' is an 'Aussicht'."
+            }
+        }
+    ]
+}

@@ -1,0 +1,672 @@
+{
+    "moduleId": "sa_a1_m05",
+    "theme": "Actions & Daily Life",
+    "title": "Actions & Daily Life",
+    "level": "a1",
+    "language": "sanskrit",
+    "order": 5,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "चिन्तयति",
+                    "reading": "Chin-ta-ya-ti",
+                    "meaning": "Worries/Thinks",
+                    "example_sentence": "सः भविष्यविषये चिन्तयति। (He worries about the future.)"
+                },
+                {
+                    "word": "क्रीणाति",
+                    "reading": "Kree-naa-ti",
+                    "meaning": "Purchases",
+                    "example_sentence": "सः आपणात् फलानि क्रीणाति। (He purchases fruits from the shop.)"
+                },
+                {
+                    "word": "विक्रीणाति",
+                    "reading": "Vi-kree-naa-ti",
+                    "meaning": "Sells",
+                    "example_sentence": "सः स्वकीयं गृहं विक्रीणाति। (He sells his house.)"
+                },
+                {
+                    "word": "प्रक्षालयति",
+                    "reading": "Prak-shaa-la-ya-ti",
+                    "meaning": "Washes",
+                    "example_sentence": "सा वस्त्राणि प्रक्षालयति। (She washes clothes.)"
+                },
+                {
+                    "word": "आह्वयति",
+                    "reading": "Aah-va-ya-ti",
+                    "meaning": "Calls/Invites",
+                    "example_sentence": "सः मित्रान् भोजनाय आह्वयति। (He invites friends for food.)"
+                },
+                {
+                    "word": "प्रेषयति",
+                    "reading": "Pre-sha-ya-ti",
+                    "meaning": "Sends",
+                    "example_sentence": "सः पत्रं प्रेषयति। (He sends a letter.)"
+                },
+                {
+                    "word": "पतति",
+                    "reading": "Pa-ta-ti",
+                    "meaning": "Falls",
+                    "example_sentence": "पत्रं वृक्षात् पतति। (The leaf falls from the tree.)"
+                },
+                {
+                    "word": "कम्पते",
+                    "reading": "Kam-pa-te",
+                    "meaning": "Trembles",
+                    "example_sentence": "शीतेन शरीरं कम्पते। (The body trembles with cold.)"
+                },
+                {
+                    "word": "क्षिपति",
+                    "reading": "Kshi-pa-ti",
+                    "meaning": "Throws",
+                    "example_sentence": "बालकः कन्दुकं क्षिपति। (The boy throws the ball.)"
+                },
+                {
+                    "word": "कर्षति",
+                    "reading": "Kar-sha-ti",
+                    "meaning": "Pulls/Ploughs",
+                    "example_sentence": "कृषकः क्षेत्रं कर्षति। (The farmer ploughs the field.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "तोलयति",
+                    "reading": "To-la-ya-ti",
+                    "meaning": "Weighs",
+                    "example_sentence": "वणिक् फलानि तोलयति। (The merchant weighs the fruits.)"
+                },
+                {
+                    "word": "तुलयति",
+                    "reading": "Tu-la-ya-ti",
+                    "meaning": "Compares",
+                    "example_sentence": "सः द्वयोः पुस्तकयोः तुलयति। (He compares two books.)"
+                },
+                {
+                    "word": "उत्पतति",
+                    "reading": "Ut-pa-ta-ti",
+                    "meaning": "Flies/Jumps up",
+                    "example_sentence": "खगः आकाशे उत्पतति। (The bird flies up in the sky.)"
+                },
+                {
+                    "word": "तरति",
+                    "reading": "Ta-ra-ti",
+                    "meaning": "Swims/Crosses",
+                    "example_sentence": "सः नदीं तरति। (He crosses the river.)"
+                },
+                {
+                    "word": "अर्चति",
+                    "reading": "Ar-cha-ti",
+                    "meaning": "Worships",
+                    "example_sentence": "सः प्रातः देवं अर्चति। (He worships God in the morning.)"
+                },
+                {
+                    "word": "नमति",
+                    "reading": "Na-ma-ti",
+                    "meaning": "Bows",
+                    "example_sentence": "सः गुरवे नमति। (He bows to the teacher.)"
+                },
+                {
+                    "word": "यच्छति",
+                    "reading": "Yach-cha-ti",
+                    "meaning": "Offers/Gives",
+                    "example_sentence": "सः देवाय पुष्पं यच्छति। (He offers a flower to God.)"
+                },
+                {
+                    "word": "आरोहति",
+                    "reading": "Aa-ro-ha-ti",
+                    "meaning": "Climbs/Ascends",
+                    "example_sentence": "बालकः वृक्षम् आरोहति। (The boy climbs the tree.)"
+                },
+                {
+                    "word": "अवरोहति",
+                    "reading": "A-va-ro-ha-ti",
+                    "meaning": "Descends",
+                    "example_sentence": "सः पर्वतात् अवरोहति। (He descends from the mountain.)"
+                },
+                {
+                    "word": "प्रविशति",
+                    "reading": "Pra-vi-sha-ti",
+                    "meaning": "Enters",
+                    "example_sentence": "छात्रः कक्षायां प्रविशति। (The student enters the classroom.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "निर्गच्छति",
+                    "reading": "Nir-gach-cha-ti",
+                    "meaning": "Exits/Goes out",
+                    "example_sentence": "सः गृहात् निर्गच्छति। (He goes out of the house.)"
+                },
+                {
+                    "word": "ताडयति",
+                    "reading": "Taa-da-ya-ti",
+                    "meaning": "Hits/Strikes",
+                    "example_sentence": "सः कन्दुकं ताडयति। (He hits the ball.)"
+                },
+                {
+                    "word": "मारयति",
+                    "reading": "Maa-ra-ya-ti",
+                    "meaning": "Kills",
+                    "example_sentence": "सिंहः मृगं मारयति। (The lion kills the deer.)"
+                },
+                {
+                    "word": "रक्षति",
+                    "reading": "Rak-sha-ti",
+                    "meaning": "Protects",
+                    "example_sentence": "सैनिकः देशं रक्षति। (The soldier protects the country.)"
+                },
+                {
+                    "word": "जयति",
+                    "reading": "Ja-ya-ti",
+                    "meaning": "Wins/Conquers",
+                    "example_sentence": "सः युद्धे जयति। (He wins in the battle.)"
+                },
+                {
+                    "word": "जीवति",
+                    "reading": "Jee-va-ti",
+                    "meaning": "Lives",
+                    "example_sentence": "सः ग्रामे जीवति। (He lives in the village.)"
+                },
+                {
+                    "word": "तपति",
+                    "reading": "Ta-pa-ti",
+                    "meaning": "Heats/Burns",
+                    "example_sentence": "सूर्यः तपति। (The sun heats.)"
+                },
+                {
+                    "word": "ज्वलति",
+                    "reading": "Jva-la-ti",
+                    "meaning": "Burns/Blazes",
+                    "example_sentence": "अग्निः ज्वलति। (The fire blazes.)"
+                },
+                {
+                    "word": "वर्षति",
+                    "reading": "Var-sha-ti",
+                    "meaning": "Rains",
+                    "example_sentence": "आकाशात् वर्षति। (It rains from the sky.)"
+                },
+                {
+                    "word": "बोधति",
+                    "reading": "Bo-dha-ti",
+                    "meaning": "Understands/Knows",
+                    "example_sentence": "सः सत्यं बोधति। (He understands the truth.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "प्रयच्छति",
+                    "reading": "Pra-yach-cha-ti",
+                    "meaning": "Donates/Gives",
+                    "example_sentence": "सः दरिद्रेभ्यः धनं प्रयच्छति। (He donates money to the poor.)"
+                },
+                {
+                    "word": "उपकरोति",
+                    "reading": "U-pa-ka-ro-ti",
+                    "meaning": "Helps/Assists",
+                    "example_sentence": "सः सर्वेभ्यः उपकरोति। (He helps everyone.)"
+                },
+                {
+                    "word": "अनुकरोति",
+                    "reading": "A-nu-ka-ro-ti",
+                    "meaning": "Imitates/Copies",
+                    "example_sentence": "बालकः पितरम् अनुकरोति। (The child imitates the father.)"
+                },
+                {
+                    "word": "प्रहरति",
+                    "reading": "Pra-ha-ra-ti",
+                    "meaning": "Attacks/Strikes",
+                    "example_sentence": "सैनिकः शत्रुं प्रहरति। (The soldier attacks the enemy.)"
+                },
+                {
+                    "word": "व्यवहरति",
+                    "reading": "Vya-va-ha-ra-ti",
+                    "meaning": "Behaves/Conducts",
+                    "example_sentence": "सः सर्वैः सह मित्रवत् व्यवहरति। (He behaves friendly with everyone.)"
+                },
+                {
+                    "word": "परिणयति",
+                    "reading": "Pa-ri-na-ya-ti",
+                    "meaning": "Marries",
+                    "example_sentence": "सः सुन्दरीं कन्यां परिणयति। (He marries a beautiful girl.)"
+                },
+                {
+                    "word": "क्रन्दति",
+                    "reading": "Kran-da-ti",
+                    "meaning": "Shouts/Cries out",
+                    "example_sentence": "बालकः क्रोधेन क्रन्दति। (The boy shouts in anger.)"
+                },
+                {
+                    "word": "स्थापयति",
+                    "reading": "Sthaa-pa-ya-ti",
+                    "meaning": "Establishes/Places",
+                    "example_sentence": "सः नूतनं विद्यालयं स्थापयति। (He establishes a new school.)"
+                },
+                {
+                    "word": "उत्पादयति",
+                    "reading": "Ut-paa-da-ya-ti",
+                    "meaning": "Produces/Creates",
+                    "example_sentence": "कारखाना वस्तूनि उत्पादयति। (The factory produces goods.)"
+                },
+                {
+                    "word": "स्वीकरोति",
+                    "reading": "Svee-ka-ro-ti",
+                    "meaning": "Accepts",
+                    "example_sentence": "सः निमन्त्रणं स्वीकरोति। (He accepts the invitation.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "अस्वीकरोति",
+                    "reading": "As-vee-ka-ro-ti",
+                    "meaning": "Rejects/Refuses",
+                    "example_sentence": "सः प्रस्तावं अस्वीकरोति। (He rejects the proposal.)"
+                },
+                {
+                    "word": "प्रयतते",
+                    "reading": "Pra-ya-ta-te",
+                    "meaning": "Tries/Strives",
+                    "example_sentence": "सः सफलतायै प्रयतते। (He strives for success.)"
+                },
+                {
+                    "word": "शोभते",
+                    "reading": "Sho-bha-te",
+                    "meaning": "Shines/Looks beautiful",
+                    "example_sentence": "चन्द्रः रात्रौ शोभते। (The moon shines at night.)"
+                },
+                {
+                    "word": "मोदते",
+                    "reading": "Mo-da-te",
+                    "meaning": "Rejoices/Delights",
+                    "example_sentence": "सः विजये मोदते। (He rejoices in victory.)"
+                },
+                {
+                    "word": "भाषते",
+                    "reading": "Bhaa-sha-te",
+                    "meaning": "Speaks/Talks",
+                    "example_sentence": "सः संस्कृतभाषायां भाषते। (He speaks in Sanskrit language.)"
+                },
+                {
+                    "word": "लभते",
+                    "reading": "La-bha-te",
+                    "meaning": "Obtains/Gets",
+                    "example_sentence": "परिश्रमेण सः फलं लभते। (Through hard work he obtains the result.)"
+                },
+                {
+                    "word": "सहते",
+                    "reading": "Sa-ha-te",
+                    "meaning": "Tolerates/Endures",
+                    "example_sentence": "सः कष्टं सहते। (He endures hardship.)"
+                },
+                {
+                    "word": "क्षमापयति",
+                    "reading": "Ksha-maa-pa-ya-ti",
+                    "meaning": "Apologizes",
+                    "example_sentence": "सः स्वदोषाय क्षमापयति। (He apologizes for his mistake.)"
+                },
+                {
+                    "word": "आज्ञापयति",
+                    "reading": "Aag-nyaa-pa-ya-ti",
+                    "meaning": "Orders/Commands",
+                    "example_sentence": "राजा सैनिकेभ्यः आज्ञापयति। (The king commands the soldiers.)"
+                },
+                {
+                    "word": "दर्शयति",
+                    "reading": "Dar-sha-ya-ti",
+                    "meaning": "Shows/Displays",
+                    "example_sentence": "सः मार्गं दर्शयति। (He shows the way.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "बोधयति",
+                    "reading": "Bo-dha-ya-ti",
+                    "meaning": "Teaches/Informs",
+                    "example_sentence": "गुरुः छात्रान् बोधयति। (The teacher teaches the students.)"
+                },
+                {
+                    "word": "उत्थापयति",
+                    "reading": "Ut-thaa-pa-ya-ti",
+                    "meaning": "Lifts/Raises up",
+                    "example_sentence": "सः पतितं बालकम् उत्थापयति। (He lifts up the fallen child.)"
+                },
+                {
+                    "word": "निवारयति",
+                    "reading": "Ni-vaa-ra-ya-ti",
+                    "meaning": "Prevents/Stops",
+                    "example_sentence": "सः दुर्घटनां निवारयति। (He prevents the accident.)"
+                },
+                {
+                    "word": "सम्पादयति",
+                    "reading": "Sam-paa-da-ya-ti",
+                    "meaning": "Accomplishes/Earns",
+                    "example_sentence": "सः कार्यं सम्पादयति। (He accomplishes the work.)"
+                },
+                {
+                    "word": "नश्यति",
+                    "reading": "Nash-ya-ti",
+                    "meaning": "Perishes/Destroys",
+                    "example_sentence": "पापं नश्यति। (Sin perishes.)"
+                },
+                {
+                    "word": "चिह्नयति",
+                    "reading": "Chih-na-ya-ti",
+                    "meaning": "Marks/Identifies (Trap Word)",
+                    "example_sentence": "सः महत्त्वपूर्णं वाक्यं चिह्नयति। (He marks the important sentence.) [LIAR GAME TRAP]"
+                },
+                {
+                    "word": "समापयति",
+                    "reading": "Sa-maa-pa-ya-ti",
+                    "meaning": "Finishes/Completes",
+                    "example_sentence": "सः कार्यं समापयति। (He finishes the work.)"
+                },
+                {
+                    "word": "आवृणोति",
+                    "reading": "Aa-vru-no-ti",
+                    "meaning": "Covers/Conceals",
+                    "example_sentence": "मेघः सूर्यम् आवृणोति। (The cloud covers the sun.)"
+                },
+                {
+                    "word": "उद्घाटयति",
+                    "reading": "Ud-ghaa-ta-ya-ti",
+                    "meaning": "Opens/Unveils",
+                    "example_sentence": "सः द्वारम् उद्घाटयति। (He opens the door.)"
+                },
+                {
+                    "word": "पिदधाति",
+                    "reading": "Pi-da-dhaa-ti",
+                    "meaning": "Closes/Shuts",
+                    "example_sentence": "सः पुस्तकं पिदधाति। (He closes the book.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "सिञ्चति",
+                    "reading": "Sin-cha-ti",
+                    "meaning": "Waters/Sprinkles",
+                    "example_sentence": "कृषकः क्षेत्रं सिञ्चति। (The farmer waters the field.)"
+                },
+                {
+                    "word": "आकर्षति",
+                    "reading": "Aa-kar-sha-ti",
+                    "meaning": "Attracts/Draws",
+                    "example_sentence": "चुम्बकः लोहं आकर्षति। (The magnet attracts iron.)"
+                },
+                {
+                    "word": "विकसति",
+                    "reading": "Vi-ka-sa-ti",
+                    "meaning": "Blooms/Develops",
+                    "example_sentence": "पुष्पं प्रातः विकसति। (The flower blooms in the morning.)"
+                },
+                {
+                    "word": "निन्दति",
+                    "reading": "Nin-da-ti",
+                    "meaning": "Blames/Criticizes",
+                    "example_sentence": "सः दुष्टं कर्म निन्दति। (He criticizes the bad deed.)"
+                },
+                {
+                    "word": "प्रशंसति",
+                    "reading": "Pra-shan-sa-ti",
+                    "meaning": "Praises",
+                    "example_sentence": "सः सत्कार्यं प्रशंसति। (He praises the good deed.)"
+                },
+                {
+                    "word": "परिवर्तयति",
+                    "reading": "Pa-ri-var-ta-ya-ti",
+                    "meaning": "Changes/Transforms",
+                    "example_sentence": "समयः सर्वं परिवर्तयति। (Time changes everything.)"
+                },
+                {
+                    "word": "सङ्कोचयति",
+                    "reading": "San-ko-cha-ya-ti",
+                    "meaning": "Shrinks/Contracts",
+                    "example_sentence": "शीतेन धातुः सङ्कोचयति। (In cold, metal contracts.)"
+                },
+                {
+                    "word": "विस्तारयति",
+                    "reading": "Vis-taa-ra-ya-ti",
+                    "meaning": "Expands/Spreads",
+                    "example_sentence": "उष्णतायां वायुः विस्तारयति। (In heat, air expands.)"
+                },
+                {
+                    "word": "अनुभवति",
+                    "reading": "A-nu-bha-va-ti",
+                    "meaning": "Experiences",
+                    "example_sentence": "सः आनन्दम् अनुभवति। (He experiences happiness.)"
+                },
+                {
+                    "word": "आचरति",
+                    "reading": "Aa-cha-ra-ti",
+                    "meaning": "Practices/Conducts",
+                    "example_sentence": "सः धर्मम् आचरति। (He practices righteousness.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "विहरति",
+                    "reading": "Vi-ha-ra-ti",
+                    "meaning": "Wanders/Roams",
+                    "example_sentence": "सः उद्याने विहरति। (He wanders in the garden.)"
+                },
+                {
+                    "word": "पीडयति",
+                    "reading": "Pee-da-ya-ti",
+                    "meaning": "Oppresses/Troubles",
+                    "example_sentence": "दुष्टः जनान् पीडयति। (The wicked one troubles people.)"
+                },
+                {
+                    "word": "पोषयति",
+                    "reading": "Po-sha-ya-ti",
+                    "meaning": "Nourishes/Supports",
+                    "example_sentence": "माता पुत्रं पोषयति। (The mother nourishes the son.)"
+                },
+                {
+                    "word": "भ्रमति",
+                    "reading": "Bhra-ma-ti",
+                    "meaning": "Roams/Wanders",
+                    "example_sentence": "सः वने भ्रमति। (He roams in the forest.)"
+                },
+                {
+                    "word": "मथ्नाति",
+                    "reading": "Math-naa-ti",
+                    "meaning": "Churns",
+                    "example_sentence": "सा दधि मथ्नाति। (She churns yogurt.)"
+                },
+                {
+                    "word": "घटयति",
+                    "reading": "Gha-ta-ya-ti",
+                    "meaning": "Happens/Causes",
+                    "example_sentence": "सः घटनां घटयति। (He causes the event.)"
+                },
+                {
+                    "word": "सज्जीकरोति",
+                    "reading": "Saj-jee-ka-ro-ti",
+                    "meaning": "Prepares/Makes ready",
+                    "example_sentence": "सः यात्रायै सज्जीकरोति। (He prepares for the journey.)"
+                },
+                {
+                    "word": "भिनत्ति",
+                    "reading": "Bhi-nat-ti",
+                    "meaning": "Breaks/Splits",
+                    "example_sentence": "सः काष्ठं भिनत्ति। (He splits the wood.)"
+                },
+                {
+                    "word": "छिनत्ति",
+                    "reading": "Chi-nat-ti",
+                    "meaning": "Cuts",
+                    "example_sentence": "सः फलं छिनत्ति। (He cuts the fruit.)"
+                },
+                {
+                    "word": "योजयति",
+                    "reading": "Yo-ja-ya-ti",
+                    "meaning": "Joins/Adds",
+                    "example_sentence": "सः द्वे भागे योजयति। (He joins two parts.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "वेधति",
+                    "reading": "Ve-dha-ti",
+                    "meaning": "Pierces",
+                    "example_sentence": "बाणः लक्ष्यं वेधति। (The arrow pierces the target.)"
+                },
+                {
+                    "word": "प्रज्वलति",
+                    "reading": "Pra-jva-la-ti",
+                    "meaning": "Ignites/Blazes",
+                    "example_sentence": "अग्निः प्रज्वलति। (The fire ignites.)"
+                },
+                {
+                    "word": "निर्वापयति",
+                    "reading": "Nir-vaa-pa-ya-ti",
+                    "meaning": "Extinguishes",
+                    "example_sentence": "सः दीपं निर्वापयति। (He extinguishes the lamp.)"
+                },
+                {
+                    "word": "उद्भवति",
+                    "reading": "Ud-bha-va-ti",
+                    "meaning": "Originates/Arises",
+                    "example_sentence": "नदी पर्वतात् उद्भवति। (The river originates from the mountain.)"
+                },
+                {
+                    "word": "निवर्तते",
+                    "reading": "Ni-var-ta-te",
+                    "meaning": "Returns",
+                    "example_sentence": "सः गृहं निवर्तते। (He returns home.)"
+                },
+                {
+                    "word": "वेपते",
+                    "reading": "Ve-pa-te",
+                    "meaning": "Quivers/Trembles",
+                    "example_sentence": "भयेन शरीरं वेपते। (The body trembles with fear.)"
+                },
+                {
+                    "word": "स्पर्धते",
+                    "reading": "Spar-dha-te",
+                    "meaning": "Competes",
+                    "example_sentence": "सः मित्रेण सह स्पर्धते। (He competes with his friend.)"
+                },
+                {
+                    "word": "प्रकाशते",
+                    "reading": "Pra-kaa-sha-te",
+                    "meaning": "Illuminates/Shines",
+                    "example_sentence": "सूर्यः जगत् प्रकाशते। (The sun illuminates the world.)"
+                },
+                {
+                    "word": "ध्यायति",
+                    "reading": "Dhyaa-ya-ti",
+                    "meaning": "Meditates",
+                    "example_sentence": "योगी ध्यायति। (The yogi meditates.)"
+                },
+                {
+                    "word": "वृद्धयति",
+                    "reading": "Vruddh-ya-ti",
+                    "meaning": "Increases/Grows",
+                    "example_sentence": "वृक्षः दिने दिने वृद्धयति। (The tree grows day by day.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "ह्रासयति",
+                    "reading": "Hraa-sa-ya-ti",
+                    "meaning": "Decreases/Reduces",
+                    "example_sentence": "सः व्ययं ह्रासयति। (He reduces the expenses.)"
+                },
+                {
+                    "word": "कल्पयति",
+                    "reading": "Kal-pa-ya-ti",
+                    "meaning": "Imagines/Arranges",
+                    "example_sentence": "सः सुन्दरं भविष्यं कल्पयति। (He imagines a beautiful future.)"
+                },
+                {
+                    "word": "गर्जति",
+                    "reading": "Gar-ja-ti",
+                    "meaning": "Roars/Thunders",
+                    "example_sentence": "सिंहः वने गर्जति। (The lion roars in the forest.)"
+                },
+                {
+                    "word": "कूजति",
+                    "reading": "Koo-ja-ti",
+                    "meaning": "Chirps/Coos",
+                    "example_sentence": "खगः प्रातः कूजति। (The bird chirps in the morning.)"
+                },
+                {
+                    "word": "विराजते",
+                    "reading": "Vi-raa-ja-te",
+                    "meaning": "Shines/Resplends",
+                    "example_sentence": "राजा सिंहासने विराजते। (The king resplends on the throne.)"
+                },
+                {
+                    "word": "संयोजयति",
+                    "reading": "Sam-yo-ja-ya-ti",
+                    "meaning": "Connects/Unites",
+                    "example_sentence": "सेतुः द्वे तीरे संयोजयति। (The bridge connects two shores.)"
+                },
+                {
+                    "word": "विभजति",
+                    "reading": "Vi-bha-ja-ti",
+                    "meaning": "Divides/Distributes",
+                    "example_sentence": "सः धनं सर्वेभ्यः विभजति। (He distributes wealth to all.)"
+                },
+                {
+                    "word": "संरक्षति",
+                    "reading": "Sam-rak-sha-ti",
+                    "meaning": "Preserves/Safeguards",
+                    "example_sentence": "सः प्राचीनं संस्कृतिं संरक्षति। (He preserves ancient culture.)"
+                },
+                {
+                    "word": "उपेक्षते",
+                    "reading": "U-pek-sha-te",
+                    "meaning": "Ignores/Neglects",
+                    "example_sentence": "सः दुष्टवचनं उपेक्षते। (He ignores bad words.)"
+                },
+                {
+                    "word": "अभिनन्दति",
+                    "reading": "A-bhi-nan-da-ti",
+                    "meaning": "Congratulates/Welcomes",
+                    "example_sentence": "सः विजेतारं अभिनन्दति। (He congratulates the winner.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Sanskrit Verb Formation Trap",
+        "question": "What is the correct Sanskrit verb for 'marks' or 'identifies'?",
+        "options": [
+            "चिह्नयति (chih-na-yati)",
+            "चिह्नोति (chih-no-ti)",
+            "चिह्नति (chih-na-ti)",
+            "All are correct"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The correct classical Sanskrit verb is चिह्नोति (chih-no-ti) from the root चिह्न्. While चिह्नयति (chih-na-yati) looks plausible as a causative form, it's actually a modern construction not found in classical Sanskrit. The root चिह्न् follows the 5th conjugation (स्वादि गण) and forms चिह्नोति in the present tense. This trap teaches learners to distinguish between authentic classical Sanskrit verb forms and modern adaptations that may sound correct but aren't traditionally used!"
+    }
+}

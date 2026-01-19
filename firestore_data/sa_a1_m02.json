@@ -1,0 +1,672 @@
+{
+    "moduleId": "sa_a1_m02",
+    "theme": "Time, Colors & Daily Life",
+    "title": "Time, Colors & Daily Life",
+    "level": "a1",
+    "language": "sanskrit",
+    "order": 2,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "समयः",
+                    "reading": "Sa-ma-yah",
+                    "meaning": "Time",
+                    "example_sentence": "समयः महत्त्वपूर्णः अस्ति। (Time is important.)"
+                },
+                {
+                    "word": "अद्य",
+                    "reading": "Ad-ya",
+                    "meaning": "Today",
+                    "example_sentence": "अद्य सुन्दरः दिनः अस्ति। (Today is a beautiful day.)"
+                },
+                {
+                    "word": "श्वः",
+                    "reading": "Shvah",
+                    "meaning": "Tomorrow",
+                    "example_sentence": "श्वः विद्यालयं गमिष्यामि। (Tomorrow I will go to school.)"
+                },
+                {
+                    "word": "ह्यः",
+                    "reading": "Hyah",
+                    "meaning": "Yesterday",
+                    "example_sentence": "ह्यः वृष्टिः आसीत्। (Yesterday there was rain.)"
+                },
+                {
+                    "word": "अधुना",
+                    "reading": "A-dhu-naa",
+                    "meaning": "Now",
+                    "example_sentence": "अधुना किं करोषि? (What are you doing now?)"
+                },
+                {
+                    "word": "प्रातः",
+                    "reading": "Praa-tah",
+                    "meaning": "Morning",
+                    "example_sentence": "प्रातः सूर्यः उदेति। (The sun rises in the morning.)"
+                },
+                {
+                    "word": "सायम्",
+                    "reading": "Saa-yam",
+                    "meaning": "Evening",
+                    "example_sentence": "सायं सूर्यः अस्तं गच्छति। (The sun sets in the evening.)"
+                },
+                {
+                    "word": "रात्रिः",
+                    "reading": "Raa-trih",
+                    "meaning": "Night",
+                    "example_sentence": "रात्रौ चन्द्रः दृश्यते। (The moon is seen at night.)"
+                },
+                {
+                    "word": "दिनम्",
+                    "reading": "Di-nam",
+                    "meaning": "Day",
+                    "example_sentence": "दिनं कार्यं करोमि। (I work during the day.)"
+                },
+                {
+                    "word": "सप्ताहः",
+                    "reading": "Sap-taa-hah",
+                    "meaning": "Week",
+                    "example_sentence": "सप्ताहे सप्त दिनाः सन्ति। (There are seven days in a week.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "नीलः",
+                    "reading": "Nee-lah",
+                    "meaning": "Blue",
+                    "example_sentence": "आकाशः नीलः अस्ति। (The sky is blue.)"
+                },
+                {
+                    "word": "पीतः",
+                    "reading": "Pee-tah",
+                    "meaning": "Yellow",
+                    "example_sentence": "पीतं पुष्पं सुन्दरम् अस्ति। (The yellow flower is beautiful.)"
+                },
+                {
+                    "word": "हरितः",
+                    "reading": "Ha-ri-tah",
+                    "meaning": "Green",
+                    "example_sentence": "हरितं पत्रं वृक्षे अस्ति। (The green leaf is on the tree.)"
+                },
+                {
+                    "word": "पाटलः",
+                    "reading": "Paa-ta-lah",
+                    "meaning": "Pink",
+                    "example_sentence": "पाटलं पुष्पं मधुरम् अस्ति। (The pink flower is sweet.)"
+                },
+                {
+                    "word": "धूसरः",
+                    "reading": "Dhoo-sa-rah",
+                    "meaning": "Grey",
+                    "example_sentence": "धूसरः मेघः आकाशे अस्ति। (The grey cloud is in the sky.)"
+                },
+                {
+                    "word": "काषायः",
+                    "reading": "Kaa-shaa-yah",
+                    "meaning": "Saffron",
+                    "example_sentence": "काषायं वस्त्रं पवित्रम् अस्ति। (The saffron cloth is sacred.)"
+                },
+                {
+                    "word": "कपिशः",
+                    "reading": "Ka-pi-shah",
+                    "meaning": "Brown",
+                    "example_sentence": "कपिशः अश्वः क्षेत्रे अस्ति। (The brown horse is in the field.)"
+                },
+                {
+                    "word": "नारङ्गः",
+                    "reading": "Naa-ran-gah",
+                    "meaning": "Orange (Trap Word - should be नारङ्गवर्णः)",
+                    "example_sentence": "नारङ्गः वर्णः सुन्दरः अस्ति। (Orange color is beautiful.) [LIAR GAME TRAP]"
+                },
+                {
+                    "word": "रजतवर्णः",
+                    "reading": "Ra-ja-ta-var-nah",
+                    "meaning": "Silver (color)",
+                    "example_sentence": "रजतवर्णः चन्द्रः शोभते। (The silver-colored moon shines.)"
+                },
+                {
+                    "word": "सुवर्णवर्णः",
+                    "reading": "Su-var-na-var-nah",
+                    "meaning": "Golden (color)",
+                    "example_sentence": "सुवर्णवर्णः सूर्यः उदेति। (The golden-colored sun rises.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "भोजनम्",
+                    "reading": "Bho-ja-nam",
+                    "meaning": "Food",
+                    "example_sentence": "भोजनं स्वादिष्टम् अस्ति। (The food is delicious.)"
+                },
+                {
+                    "word": "दुग्धम्",
+                    "reading": "Dug-dham",
+                    "meaning": "Milk",
+                    "example_sentence": "दुग्धं श्वेतम् अस्ति। (Milk is white.)"
+                },
+                {
+                    "word": "अन्नम्",
+                    "reading": "An-nam",
+                    "meaning": "Rice",
+                    "example_sentence": "अन्नं प्रधानं भोजनम् अस्ति। (Rice is the main food.)"
+                },
+                {
+                    "word": "रोटिका",
+                    "reading": "Ro-ti-kaa",
+                    "meaning": "Bread",
+                    "example_sentence": "रोटिका उष्णा अस्ति। (The bread is hot.)"
+                },
+                {
+                    "word": "शाकम्",
+                    "reading": "Shaa-kam",
+                    "meaning": "Vegetable",
+                    "example_sentence": "शाकं स्वास्थ्यकरम् अस्ति। (Vegetables are healthy.)"
+                },
+                {
+                    "word": "मधु",
+                    "reading": "Ma-dhu",
+                    "meaning": "Honey",
+                    "example_sentence": "मधु मधुरम् अस्ति। (Honey is sweet.)"
+                },
+                {
+                    "word": "लवणम्",
+                    "reading": "La-va-nam",
+                    "meaning": "Salt",
+                    "example_sentence": "लवणं भोजने आवश्यकम् अस्ति। (Salt is necessary in food.)"
+                },
+                {
+                    "word": "शर्करा",
+                    "reading": "Shar-ka-raa",
+                    "meaning": "Sugar",
+                    "example_sentence": "शर्करा मधुरा अस्ति। (Sugar is sweet.)"
+                },
+                {
+                    "word": "फलारसः",
+                    "reading": "Pha-laa-ra-sah",
+                    "meaning": "Juice",
+                    "example_sentence": "फलारसः स्वादिष्टः अस्ति। (Juice is tasty.)"
+                },
+                {
+                    "word": "घृतम्",
+                    "reading": "Ghru-tam",
+                    "meaning": "Ghee/Clarified butter",
+                    "example_sentence": "घृतं पवित्रम् अस्ति। (Ghee is sacred.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "शरीरम्",
+                    "reading": "Sha-ree-ram",
+                    "meaning": "Body",
+                    "example_sentence": "शरीरं स्वस्थं भवतु। (May the body be healthy.)"
+                },
+                {
+                    "word": "शिरः",
+                    "reading": "Shi-rah",
+                    "meaning": "Head",
+                    "example_sentence": "शिरः उच्चम् अस्ति। (The head is high.)"
+                },
+                {
+                    "word": "मुखम्",
+                    "reading": "Mu-kham",
+                    "meaning": "Face",
+                    "example_sentence": "मुखं सुन्दरम् अस्ति। (The face is beautiful.)"
+                },
+                {
+                    "word": "नेत्रम्",
+                    "reading": "Net-ram",
+                    "meaning": "Eye",
+                    "example_sentence": "नेत्रं ज्ञानस्य द्वारम् अस्ति। (The eye is the door of knowledge.)"
+                },
+                {
+                    "word": "नासिका",
+                    "reading": "Naa-si-kaa",
+                    "meaning": "Nose",
+                    "example_sentence": "नासिकया गन्धं जानामि। (I know the smell through the nose.)"
+                },
+                {
+                    "word": "कर्णः",
+                    "reading": "Kar-nah",
+                    "meaning": "Ear",
+                    "example_sentence": "कर्णाभ्यां शृणोमि। (I hear with the ears.)"
+                },
+                {
+                    "word": "दन्तः",
+                    "reading": "Dan-tah",
+                    "meaning": "Tooth",
+                    "example_sentence": "दन्ताः श्वेताः सन्ति। (The teeth are white.)"
+                },
+                {
+                    "word": "हस्तः",
+                    "reading": "Has-tah",
+                    "meaning": "Hand",
+                    "example_sentence": "हस्तेन लिखामि। (I write with the hand.)"
+                },
+                {
+                    "word": "पादः",
+                    "reading": "Paa-dah",
+                    "meaning": "Foot",
+                    "example_sentence": "पादाभ्यां गच्छामि। (I go with the feet.)"
+                },
+                {
+                    "word": "केशाः",
+                    "reading": "Ke-shaah",
+                    "meaning": "Hair",
+                    "example_sentence": "केशाः दीर्घाः सन्ति। (The hair is long.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "उदरम्",
+                    "reading": "U-da-ram",
+                    "meaning": "Stomach",
+                    "example_sentence": "उदरं पूर्णम् अस्ति। (The stomach is full.)"
+                },
+                {
+                    "word": "ग्रीवा",
+                    "reading": "Gree-vaa",
+                    "meaning": "Neck",
+                    "example_sentence": "ग्रीवा दीर्घा अस्ति। (The neck is long.)"
+                },
+                {
+                    "word": "अङ्गुलिः",
+                    "reading": "An-gu-lih",
+                    "meaning": "Finger",
+                    "example_sentence": "अङ्गुलिभिः लिखामि। (I write with fingers.)"
+                },
+                {
+                    "word": "नखः",
+                    "reading": "Na-khah",
+                    "meaning": "Nail",
+                    "example_sentence": "नखाः छेदनीयाः सन्ति। (The nails should be cut.)"
+                },
+                {
+                    "word": "रक्तम्",
+                    "reading": "Rak-tam",
+                    "meaning": "Blood",
+                    "example_sentence": "रक्तं जीवनाय आवश्यकम् अस्ति। (Blood is necessary for life.)"
+                },
+                {
+                    "word": "अस्थि",
+                    "reading": "As-thi",
+                    "meaning": "Bone",
+                    "example_sentence": "अस्थि दृढम् अस्ति। (The bone is strong.)"
+                },
+                {
+                    "word": "हृदयम्",
+                    "reading": "Hru-da-yam",
+                    "meaning": "Heart",
+                    "example_sentence": "हृदयं स्पन्दते। (The heart beats.)"
+                },
+                {
+                    "word": "त्वक्",
+                    "reading": "Tvak",
+                    "meaning": "Skin",
+                    "example_sentence": "त्वक् कोमला अस्ति। (The skin is soft.)"
+                },
+                {
+                    "word": "जिह्वा",
+                    "reading": "Jih-vaa",
+                    "meaning": "Tongue",
+                    "example_sentence": "जिह्वया वदामि। (I speak with the tongue.)"
+                },
+                {
+                    "word": "स्कन्धः",
+                    "reading": "Skan-dhah",
+                    "meaning": "Shoulder",
+                    "example_sentence": "स्कन्धः बलवान् अस्ति। (The shoulder is strong.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "वस्त्रम्",
+                    "reading": "Vas-tram",
+                    "meaning": "Clothing",
+                    "example_sentence": "वस्त्रं स्वच्छं भवतु। (Let the clothing be clean.)"
+                },
+                {
+                    "word": "युतकम्",
+                    "reading": "Yu-ta-kam",
+                    "meaning": "Shirt",
+                    "example_sentence": "युतकं नीलम् अस्ति। (The shirt is blue.)"
+                },
+                {
+                    "word": "ऊरुकम्",
+                    "reading": "Oo-ru-kam",
+                    "meaning": "Trousers",
+                    "example_sentence": "ऊरुकं कृष्णम् अस्ति। (The trousers are black.)"
+                },
+                {
+                    "word": "शाटिका",
+                    "reading": "Shaa-ti-kaa",
+                    "meaning": "Saree",
+                    "example_sentence": "शाटिका सुन्दरा अस्ति। (The saree is beautiful.)"
+                },
+                {
+                    "word": "पादकोशः",
+                    "reading": "Paa-da-ko-shah",
+                    "meaning": "Socks",
+                    "example_sentence": "पादकोशः उष्णः अस्ति। (The socks are warm.)"
+                },
+                {
+                    "word": "उष्णीषम्",
+                    "reading": "Ush-nee-sham",
+                    "meaning": "Cap",
+                    "example_sentence": "उष्णीषं शिरसि धारयामि। (I wear a cap on the head.)"
+                },
+                {
+                    "word": "उपवस्त्रम्",
+                    "reading": "U-pa-vas-tram",
+                    "meaning": "Scarf",
+                    "example_sentence": "उपवस्त्रं शीतकाले आवश्यकम् अस्ति। (A scarf is necessary in winter.)"
+                },
+                {
+                    "word": "कञ्चुकः",
+                    "reading": "Kan-chu-kah",
+                    "meaning": "Coat",
+                    "example_sentence": "कञ्चुकः उष्णः अस्ति। (The coat is warm.)"
+                },
+                {
+                    "word": "करवस्त्रम्",
+                    "reading": "Ka-ra-vas-tram",
+                    "meaning": "Handkerchief",
+                    "example_sentence": "करवस्त्रं स्वच्छं भवतु। (Let the handkerchief be clean.)"
+                },
+                {
+                    "word": "आभूषणम्",
+                    "reading": "Aa-bhoo-sha-nam",
+                    "meaning": "Jewelry",
+                    "example_sentence": "आभूषणं सुवर्णनिर्मितम् अस्ति। (The jewelry is made of gold.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "प्रकोष्ठः",
+                    "reading": "Pra-kosh-thah",
+                    "meaning": "Room",
+                    "example_sentence": "प्रकोष्ठः विशालः अस्ति। (The room is spacious.)"
+                },
+                {
+                    "word": "पाकशाला",
+                    "reading": "Paa-ka-shaa-laa",
+                    "meaning": "Kitchen",
+                    "example_sentence": "पाकशालायां भोजनं पच्यते। (Food is cooked in the kitchen.)"
+                },
+                {
+                    "word": "शयनप्रकोष्ठः",
+                    "reading": "Sha-ya-na-pra-kosh-thah",
+                    "meaning": "Bedroom",
+                    "example_sentence": "शयनप्रकोष्ठे शयनं करोमि। (I sleep in the bedroom.)"
+                },
+                {
+                    "word": "स्नानगृहम्",
+                    "reading": "Snaa-na-gru-ham",
+                    "meaning": "Bathroom",
+                    "example_sentence": "स्नानगृहे स्नानं करोमि। (I bathe in the bathroom.)"
+                },
+                {
+                    "word": "अङ्गणम्",
+                    "reading": "An-ga-nam",
+                    "meaning": "Courtyard",
+                    "example_sentence": "अङ्गणे बालकाः क्रीडन्ति। (Children play in the courtyard.)"
+                },
+                {
+                    "word": "सोपानम्",
+                    "reading": "So-paa-nam",
+                    "meaning": "Stairs",
+                    "example_sentence": "सोपानेन उपरि गच्छामि। (I go up by the stairs.)"
+                },
+                {
+                    "word": "छदिः",
+                    "reading": "Cha-dih",
+                    "meaning": "Roof",
+                    "example_sentence": "छदिः उच्चा अस्ति। (The roof is high.)"
+                },
+                {
+                    "word": "भित्तिः",
+                    "reading": "Bhit-tih",
+                    "meaning": "Wall",
+                    "example_sentence": "भित्तिः दृढा अस्ति। (The wall is strong.)"
+                },
+                {
+                    "word": "तलम्",
+                    "reading": "Ta-lam",
+                    "meaning": "Floor",
+                    "example_sentence": "तलं स्वच्छं भवतु। (Let the floor be clean.)"
+                },
+                {
+                    "word": "पर्यङ्कः",
+                    "reading": "Par-yan-kah",
+                    "meaning": "Bed",
+                    "example_sentence": "पर्यङ्कः कोमलः अस्ति। (The bed is soft.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "क्रीडति",
+                    "reading": "Kree-da-ti",
+                    "meaning": "Plays",
+                    "example_sentence": "बालकः क्रीडति। (The boy plays.)"
+                },
+                {
+                    "word": "धावति",
+                    "reading": "Dhaa-va-ti",
+                    "meaning": "Runs",
+                    "example_sentence": "अश्वः शीघ्रं धावति। (The horse runs fast.)"
+                },
+                {
+                    "word": "हसति",
+                    "reading": "Ha-sa-ti",
+                    "meaning": "Laughs",
+                    "example_sentence": "बालिका हसति। (The girl laughs.)"
+                },
+                {
+                    "word": "रोदिति",
+                    "reading": "Ro-di-ti",
+                    "meaning": "Cries",
+                    "example_sentence": "शिशुः रोदिति। (The baby cries.)"
+                },
+                {
+                    "word": "गायति",
+                    "reading": "Gaa-ya-ti",
+                    "meaning": "Sings",
+                    "example_sentence": "सः सुन्दरं गीतं गायति। (He sings a beautiful song.)"
+                },
+                {
+                    "word": "नृत्यति",
+                    "reading": "Nrut-ya-ti",
+                    "meaning": "Dances",
+                    "example_sentence": "सा नृत्यति। (She dances.)"
+                },
+                {
+                    "word": "तिष्ठति",
+                    "reading": "Tish-tha-ti",
+                    "meaning": "Stands",
+                    "example_sentence": "सः तत्र तिष्ठति। (He stands there.)"
+                },
+                {
+                    "word": "उपविशति",
+                    "reading": "U-pa-vi-sha-ti",
+                    "meaning": "Sits",
+                    "example_sentence": "सः आसन्दे उपविशति। (He sits on the chair.)"
+                },
+                {
+                    "word": "स्नाति",
+                    "reading": "Snaa-ti",
+                    "meaning": "Bathes",
+                    "example_sentence": "सः प्रातः स्नाति। (He bathes in the morning.)"
+                },
+                {
+                    "word": "स्वपिति",
+                    "reading": "Sva-pi-ti",
+                    "meaning": "Sleeps",
+                    "example_sentence": "बालकः रात्रौ स्वपिति। (The boy sleeps at night.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "कुत्र",
+                    "reading": "Ku-tra",
+                    "meaning": "Where",
+                    "example_sentence": "भवान् कुत्र गच्छति? (Where are you going?)"
+                },
+                {
+                    "word": "कदा",
+                    "reading": "Ka-daa",
+                    "meaning": "When",
+                    "example_sentence": "भवान् कदा आगमिष्यति? (When will you come?)"
+                },
+                {
+                    "word": "कथम्",
+                    "reading": "Ka-tham",
+                    "meaning": "How",
+                    "example_sentence": "कथं गन्तव्यम्? (How should I go?)"
+                },
+                {
+                    "word": "किमर्थम्",
+                    "reading": "Ki-mar-tham",
+                    "meaning": "Why",
+                    "example_sentence": "किमर्थं रोदिषि? (Why are you crying?)"
+                },
+                {
+                    "word": "कति",
+                    "reading": "Ka-ti",
+                    "meaning": "How many",
+                    "example_sentence": "कति पुस्तकानि सन्ति? (How many books are there?)"
+                },
+                {
+                    "word": "अत्र",
+                    "reading": "At-ra",
+                    "meaning": "Here",
+                    "example_sentence": "अत्र आगच्छतु। (Come here.)"
+                },
+                {
+                    "word": "तत्र",
+                    "reading": "Tat-ra",
+                    "meaning": "There",
+                    "example_sentence": "तत्र गच्छतु। (Go there.)"
+                },
+                {
+                    "word": "वामतः",
+                    "reading": "Vaa-ma-tah",
+                    "meaning": "Left",
+                    "example_sentence": "वामतः गच्छतु। (Go to the left.)"
+                },
+                {
+                    "word": "दक्षिणतः",
+                    "reading": "Dak-shi-na-tah",
+                    "meaning": "Right",
+                    "example_sentence": "दक्षिणतः गच्छतु। (Go to the right.)"
+                },
+                {
+                    "word": "पुरतः",
+                    "reading": "Pu-ra-tah",
+                    "meaning": "Front",
+                    "example_sentence": "पुरतः पश्यतु। (Look in front.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "कथम् अस्ति?",
+                    "reading": "Ka-tham as-ti?",
+                    "meaning": "How are you?",
+                    "example_sentence": "भवान् कथम् अस्ति? (How are you?)"
+                },
+                {
+                    "word": "कुशलम्",
+                    "reading": "Ku-sha-lam",
+                    "meaning": "Fine",
+                    "example_sentence": "अहं कुशलः अस्मि। (I am fine.)"
+                },
+                {
+                    "word": "चिन्ता मास्तु",
+                    "reading": "Chin-taa maas-tu",
+                    "meaning": "Don't worry",
+                    "example_sentence": "चिन्ता मास्तु, सर्वं भविष्यति। (Don't worry, everything will be fine.)"
+                },
+                {
+                    "word": "शीघ्रम्",
+                    "reading": "Shee-ghram",
+                    "meaning": "Quickly",
+                    "example_sentence": "शीघ्रं गच्छतु। (Go quickly.)"
+                },
+                {
+                    "word": "शनैः",
+                    "reading": "Sha-naih",
+                    "meaning": "Slowly",
+                    "example_sentence": "शनैः वदतु। (Speak slowly.)"
+                },
+                {
+                    "word": "सम्यक्",
+                    "reading": "Sam-yak",
+                    "meaning": "Well",
+                    "example_sentence": "सम्यक् करोतु। (Do it well.)"
+                },
+                {
+                    "word": "बहु",
+                    "reading": "Ba-hu",
+                    "meaning": "Much",
+                    "example_sentence": "बहु धन्यवादः। (Thank you very much.)"
+                },
+                {
+                    "word": "अल्पम्",
+                    "reading": "Al-pam",
+                    "meaning": "Little",
+                    "example_sentence": "अल्पं जलं पिबामि। (I drink a little water.)"
+                },
+                {
+                    "word": "एवम्",
+                    "reading": "E-vam",
+                    "meaning": "Thus",
+                    "example_sentence": "एवं करोतु। (Do it thus.)"
+                },
+                {
+                    "word": "समाप्तम्",
+                    "reading": "Sa-maap-tam",
+                    "meaning": "Finished",
+                    "example_sentence": "कार्यं समाप्तम् अस्ति। (The work is finished.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Sanskrit Color Vocabulary Trap",
+        "question": "You want to say 'orange color' in Sanskrit. Which is correct?",
+        "options": [
+            "नारङ्गः (nāraṅgaḥ)",
+            "नारङ्गवर्णः (nāraṅga-varṇaḥ)",
+            "पीतरक्तः (pīta-raktaḥ)",
+            "All are correct"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "While नारङ्ग (nāraṅga) means 'orange fruit', to describe the color orange in classical Sanskrit, you should use नारङ्गवर्णः (nāraṅga-varṇaḥ) which literally means 'orange-colored'. Simply using नारङ्गः alone refers to the fruit, not the color. Alternatively, पीतरक्तः (yellow-red) can also describe orange. This is a common trap for learners who directly translate from English where 'orange' serves both as fruit and color!"
+    }
+}

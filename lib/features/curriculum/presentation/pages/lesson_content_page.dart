@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import '../services/web_tts_service.dart';
+import '../services/tts_service.dart';
 import '../widgets/chirpolly_logo.dart';
 import 'liar_game_page.dart';
 

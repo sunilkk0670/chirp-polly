@@ -1,0 +1,672 @@
+{
+    "moduleId": "sa_a1_m06",
+    "theme": "Time, Space & Adverbs",
+    "title": "Time, Space & Adverbs",
+    "level": "a1",
+    "language": "sanskrit",
+    "order": 6,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "अद्य",
+                    "reading": "Ad-ya",
+                    "meaning": "Today",
+                    "example_sentence": "अद्य सुन्दरः दिनः अस्ति। (Today is a beautiful day.)"
+                },
+                {
+                    "word": "ह्यः",
+                    "reading": "Hyah",
+                    "meaning": "Yesterday",
+                    "example_sentence": "ह्यः अहं विद्यालयं गतः। (Yesterday I went to school.)"
+                },
+                {
+                    "word": "श्वः",
+                    "reading": "Shvah",
+                    "meaning": "Tomorrow",
+                    "example_sentence": "श्वः अहं गृहं गमिष्यामि। (Tomorrow I will go home.)"
+                },
+                {
+                    "word": "परश्वः",
+                    "reading": "Pa-ra-shvah",
+                    "meaning": "Day after tomorrow",
+                    "example_sentence": "परश्वः उत्सवः भविष्यति। (The festival will be day after tomorrow.)"
+                },
+                {
+                    "word": "प्रपरश्वः",
+                    "reading": "Pra-pa-ra-shvah",
+                    "meaning": "Three days hence",
+                    "example_sentence": "प्रपरश्वः सः आगमिष्यति। (He will come three days hence.)"
+                },
+                {
+                    "word": "इदानीम्",
+                    "reading": "I-daa-neem",
+                    "meaning": "Now",
+                    "example_sentence": "इदानीं किं करोषि? (What are you doing now?)"
+                },
+                {
+                    "word": "तदानीम्",
+                    "reading": "Ta-daa-neem",
+                    "meaning": "Then/At that time",
+                    "example_sentence": "तदानीं सः बालकः आसीत्। (At that time he was a child.)"
+                },
+                {
+                    "word": "कदा",
+                    "reading": "Ka-daa",
+                    "meaning": "When",
+                    "example_sentence": "त्वं कदा आगमिष्यसि? (When will you come?)"
+                },
+                {
+                    "word": "सर्वदा",
+                    "reading": "Sar-va-daa",
+                    "meaning": "Always",
+                    "example_sentence": "सः सर्वदा सत्यं वदति। (He always speaks the truth.)"
+                },
+                {
+                    "word": "एकदा",
+                    "reading": "E-ka-daa",
+                    "meaning": "Once/One day",
+                    "example_sentence": "एकदा एकः राजा आसीत्। (Once there was a king.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "अत्र",
+                    "reading": "At-ra",
+                    "meaning": "Here",
+                    "example_sentence": "अत्र आगच्छ। (Come here.)"
+                },
+                {
+                    "word": "तत्र",
+                    "reading": "Tat-ra",
+                    "meaning": "There",
+                    "example_sentence": "तत्र किं अस्ति? (What is there?)"
+                },
+                {
+                    "word": "कुत्र",
+                    "reading": "Kut-ra",
+                    "meaning": "Where",
+                    "example_sentence": "त्वं कुत्र गच्छसि? (Where are you going?)"
+                },
+                {
+                    "word": "सर्वत्र",
+                    "reading": "Sar-vat-ra",
+                    "meaning": "Everywhere",
+                    "example_sentence": "ईश्वरः सर्वत्र अस्ति। (God is everywhere.)"
+                },
+                {
+                    "word": "अन्यत्र",
+                    "reading": "An-yat-ra",
+                    "meaning": "Elsewhere/Somewhere else",
+                    "example_sentence": "सः अन्यत्र गतः। (He went elsewhere.)"
+                },
+                {
+                    "word": "उपरि",
+                    "reading": "U-pa-ri",
+                    "meaning": "Above/On top",
+                    "example_sentence": "पुस्तकम् उत्पीठिकायाः उपरि अस्ति। (The book is on top of the table.)"
+                },
+                {
+                    "word": "अधः",
+                    "reading": "A-dhah",
+                    "meaning": "Below/Under",
+                    "example_sentence": "मार्जारी उत्पीठिकायाः अधः अस्ति। (The cat is under the table.)"
+                },
+                {
+                    "word": "पुरतः",
+                    "reading": "Pu-ra-tah",
+                    "meaning": "In front",
+                    "example_sentence": "सः मम पुरतः तिष्ठति। (He stands in front of me.)"
+                },
+                {
+                    "word": "पृष्ठतः",
+                    "reading": "Prush-tha-tah",
+                    "meaning": "Behind",
+                    "example_sentence": "गृहस्य पृष्ठतः उद्यानम् अस्ति। (Behind the house is a garden.)"
+                },
+                {
+                    "word": "वामतः",
+                    "reading": "Vaa-ma-tah",
+                    "meaning": "On the left side",
+                    "example_sentence": "मन्दिरं वामतः अस्ति। (The temple is on the left side.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "दक्षिणतः",
+                    "reading": "Dak-shi-na-tah",
+                    "meaning": "On the right side",
+                    "example_sentence": "विद्यालयः दक्षिणतः अस्ति। (The school is on the right side.)"
+                },
+                {
+                    "word": "अन्तर्",
+                    "reading": "An-tar",
+                    "meaning": "Inside/Within (Trap Word)",
+                    "example_sentence": "अन्तर् गृहे किं अस्ति? (What is inside the house?) [LIAR GAME TRAP]"
+                },
+                {
+                    "word": "बहिः",
+                    "reading": "Ba-hih",
+                    "meaning": "Outside",
+                    "example_sentence": "बालकाः बहिः क्रीडन्ति। (The children play outside.)"
+                },
+                {
+                    "word": "समीपम्",
+                    "reading": "Sa-mee-pam",
+                    "meaning": "Near",
+                    "example_sentence": "विद्यालयः गृहस्य समीपम् अस्ति। (The school is near the house.)"
+                },
+                {
+                    "word": "दूरम्",
+                    "reading": "Doo-ram",
+                    "meaning": "Far",
+                    "example_sentence": "नगरं दूरम् अस्ति। (The city is far.)"
+                },
+                {
+                    "word": "शीघ्रम्",
+                    "reading": "Shee-ghram",
+                    "meaning": "Quickly/Fast",
+                    "example_sentence": "शीघ्रं गच्छ। (Go quickly.)"
+                },
+                {
+                    "word": "मन्दम्",
+                    "reading": "Man-dam",
+                    "meaning": "Slowly",
+                    "example_sentence": "मन्दं चल। (Walk slowly.)"
+                },
+                {
+                    "word": "उच्चैः",
+                    "reading": "Uc-chaih",
+                    "meaning": "Loudly/Aloud",
+                    "example_sentence": "उच्चैः वद। (Speak loudly.)"
+                },
+                {
+                    "word": "नीचैः",
+                    "reading": "Nee-chaih",
+                    "meaning": "Quietly/Softly",
+                    "example_sentence": "नीचैः गच्छ। (Go quietly.)"
+                },
+                {
+                    "word": "कथम्",
+                    "reading": "Ka-tham",
+                    "meaning": "How",
+                    "example_sentence": "त्वं कथं आगतः? (How did you come?)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "सह",
+                    "reading": "Sa-ha",
+                    "meaning": "With/Together",
+                    "example_sentence": "सः मित्रेण सह गच्छति। (He goes with his friend.)"
+                },
+                {
+                    "word": "विना",
+                    "reading": "Vi-naa",
+                    "meaning": "Without",
+                    "example_sentence": "जलं विना जीवनं न भवति। (Without water, life doesn't exist.)"
+                },
+                {
+                    "word": "प्रति",
+                    "reading": "Pra-ti",
+                    "meaning": "Towards/To",
+                    "example_sentence": "सः नगरं प्रति गच्छति। (He goes towards the city.)"
+                },
+                {
+                    "word": "वृथा",
+                    "reading": "Vru-thaa",
+                    "meaning": "In vain/Uselessly",
+                    "example_sentence": "वृथा मा चिन्तय। (Don't worry in vain.)"
+                },
+                {
+                    "word": "शनैः",
+                    "reading": "Sha-naih",
+                    "meaning": "Gradually/Slowly",
+                    "example_sentence": "शनैः शनैः सः उन्नतिं गच्छति। (Gradually he progresses.)"
+                },
+                {
+                    "word": "पुनः",
+                    "reading": "Pu-nah",
+                    "meaning": "Again",
+                    "example_sentence": "पुनः आगच्छ। (Come again.)"
+                },
+                {
+                    "word": "च",
+                    "reading": "Cha",
+                    "meaning": "And",
+                    "example_sentence": "रामः च सीता च आगच्छतः। (Rama and Sita come.)"
+                },
+                {
+                    "word": "वा",
+                    "reading": "Vaa",
+                    "meaning": "Or",
+                    "example_sentence": "त्वं फलं वा दुग्धं वा पिब। (You drink fruit or milk.)"
+                },
+                {
+                    "word": "यदि",
+                    "reading": "Ya-di",
+                    "meaning": "If",
+                    "example_sentence": "यदि वर्षति तर्हि गृहे तिष्ठामि। (If it rains, then I stay at home.)"
+                },
+                {
+                    "word": "तर्हि",
+                    "reading": "Tar-hi",
+                    "meaning": "Then (in conditional)",
+                    "example_sentence": "यदि सः आगच्छति तर्हि अहं गच्छामि। (If he comes, then I go.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "अपि",
+                    "reading": "A-pi",
+                    "meaning": "Also/Even",
+                    "example_sentence": "त्वम् अपि आगच्छ। (You also come.)"
+                },
+                {
+                    "word": "एव",
+                    "reading": "E-va",
+                    "meaning": "Only/Indeed",
+                    "example_sentence": "सः एव आगतः। (He alone came.)"
+                },
+                {
+                    "word": "इति",
+                    "reading": "I-ti",
+                    "meaning": "Thus/End quote",
+                    "example_sentence": "सः वदति 'अहं गच्छामि' इति। (He says 'I am going' thus.)"
+                },
+                {
+                    "word": "अथ",
+                    "reading": "A-tha",
+                    "meaning": "Now/Then (beginning)",
+                    "example_sentence": "अथ कथा आरभ्यते। (Now the story begins.)"
+                },
+                {
+                    "word": "यथा",
+                    "reading": "Ya-thaa",
+                    "meaning": "As/Like",
+                    "example_sentence": "यथा राजा तथा प्रजा। (As is the king, so are the subjects.)"
+                },
+                {
+                    "word": "तथा",
+                    "reading": "Ta-thaa",
+                    "meaning": "In that way/So",
+                    "example_sentence": "यथा त्वं वदसि तथा करोमि। (As you say, so I do.)"
+                },
+                {
+                    "word": "कदापि",
+                    "reading": "Ka-daa-pi",
+                    "meaning": "Ever/At any time",
+                    "example_sentence": "त्वं कदापि असत्यं मा वद। (Don't ever speak lies.)"
+                },
+                {
+                    "word": "पुनः पुनः",
+                    "reading": "Pu-nah Pu-nah",
+                    "meaning": "Repeatedly/Again and again",
+                    "example_sentence": "सः पुनः पुनः आगच्छति। (He comes again and again.)"
+                },
+                {
+                    "word": "अकस्मात्",
+                    "reading": "A-kas-maat",
+                    "meaning": "Suddenly",
+                    "example_sentence": "अकस्मात् वर्षा आरब्धा। (Suddenly the rain started.)"
+                },
+                {
+                    "word": "साक्षात्",
+                    "reading": "Saak-shaat",
+                    "meaning": "Directly/In person",
+                    "example_sentence": "अहं तं साक्षात् दृष्टवान्। (I saw him directly.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "पर्याप्तम्",
+                    "reading": "Par-yaap-tam",
+                    "meaning": "Enough/Sufficient",
+                    "example_sentence": "इदं पर्याप्तम् अस्ति। (This is enough.)"
+                },
+                {
+                    "word": "नूनम्",
+                    "reading": "Noo-nam",
+                    "meaning": "Surely/Certainly",
+                    "example_sentence": "सः नूनं आगमिष्यति। (He will surely come.)"
+                },
+                {
+                    "word": "खलु",
+                    "reading": "Kha-lu",
+                    "meaning": "Indeed/Verily",
+                    "example_sentence": "त्वं खलु बुद्धिमान् असि। (You are indeed intelligent.)"
+                },
+                {
+                    "word": "कदाचित्",
+                    "reading": "Ka-daa-chit",
+                    "meaning": "Sometimes/Perhaps",
+                    "example_sentence": "सः कदाचित् आगच्छति। (He comes sometimes.)"
+                },
+                {
+                    "word": "अधुना",
+                    "reading": "A-dhu-naa",
+                    "meaning": "Presently/Now",
+                    "example_sentence": "अधुना किं करोषि? (What are you doing now?)"
+                },
+                {
+                    "word": "सम्प्रति",
+                    "reading": "Sam-pra-ti",
+                    "meaning": "Currently/At present",
+                    "example_sentence": "सम्प्रति सः गृहे अस्ति। (Currently he is at home.)"
+                },
+                {
+                    "word": "सायम्",
+                    "reading": "Saa-yam",
+                    "meaning": "Evening",
+                    "example_sentence": "सायं सूर्यः अस्तं गच्छति। (In the evening the sun sets.)"
+                },
+                {
+                    "word": "प्रातः",
+                    "reading": "Praa-tah",
+                    "meaning": "Morning",
+                    "example_sentence": "प्रातः सूर्यः उदेति। (In the morning the sun rises.)"
+                },
+                {
+                    "word": "दिवा",
+                    "reading": "Di-vaa",
+                    "meaning": "During daytime",
+                    "example_sentence": "दिवा सूर्यः प्रकाशते। (During daytime the sun shines.)"
+                },
+                {
+                    "word": "रात्रौ",
+                    "reading": "Raa-trau",
+                    "meaning": "At night",
+                    "example_sentence": "रात्रौ चन्द्रः दृश्यते। (At night the moon is seen.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "सदा",
+                    "reading": "Sa-daa",
+                    "meaning": "Forever/Always",
+                    "example_sentence": "सत्यं सदा जयते। (Truth always wins.)"
+                },
+                {
+                    "word": "स्वयम्",
+                    "reading": "Sva-yam",
+                    "meaning": "Self/Oneself",
+                    "example_sentence": "सः स्वयं कार्यं करोति। (He does the work himself.)"
+                },
+                {
+                    "word": "मुहुर्मुहुः",
+                    "reading": "Mu-hur-mu-huh",
+                    "meaning": "Again and again/Repeatedly",
+                    "example_sentence": "सः मुहुर्मुहुः आगच्छति। (He comes again and again.)"
+                },
+                {
+                    "word": "कति",
+                    "reading": "Ka-ti",
+                    "meaning": "How many",
+                    "example_sentence": "तव कति पुत्राः सन्ति? (How many sons do you have?)"
+                },
+                {
+                    "word": "किञ्चित्",
+                    "reading": "Kin-chit",
+                    "meaning": "A little/Somewhat",
+                    "example_sentence": "किञ्चित् जलं देहि। (Give a little water.)"
+                },
+                {
+                    "word": "कुतः",
+                    "reading": "Ku-tah",
+                    "meaning": "From where/Whence",
+                    "example_sentence": "त्वं कुतः आगतः? (From where did you come?)"
+                },
+                {
+                    "word": "ततः",
+                    "reading": "Ta-tah",
+                    "meaning": "From there/Then",
+                    "example_sentence": "ततः सः गृहं गतः। (Then he went home.)"
+                },
+                {
+                    "word": "अतः",
+                    "reading": "A-tah",
+                    "meaning": "Hence/Therefore",
+                    "example_sentence": "सः रोगी अस्ति अतः न आगच्छति। (He is sick, hence doesn't come.)"
+                },
+                {
+                    "word": "यतः",
+                    "reading": "Ya-tah",
+                    "meaning": "Since/Because",
+                    "example_sentence": "यतः वर्षति ततः गृहे तिष्ठामि। (Since it rains, I stay at home.)"
+                },
+                {
+                    "word": "यद्यपि",
+                    "reading": "Yad-ya-pi",
+                    "meaning": "Even though/Although",
+                    "example_sentence": "यद्यपि सः दरिद्रः तथापि सुखी। (Although he is poor, yet happy.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "तथापि",
+                    "reading": "Ta-thaa-pi",
+                    "meaning": "Nevertheless/Yet",
+                    "example_sentence": "सः रोगी अस्ति तथापि कार्यं करोति। (He is sick, yet does work.)"
+                },
+                {
+                    "word": "सर्वथा",
+                    "reading": "Sar-va-thaa",
+                    "meaning": "By all means/Completely",
+                    "example_sentence": "इदं सर्वथा सत्यम् अस्ति। (This is completely true.)"
+                },
+                {
+                    "word": "अन्यथा",
+                    "reading": "An-ya-thaa",
+                    "meaning": "Otherwise",
+                    "example_sentence": "परिश्रमं कुरु अन्यथा असफलः भविष्यसि। (Work hard, otherwise you will fail.)"
+                },
+                {
+                    "word": "किन्तु",
+                    "reading": "Kin-tu",
+                    "meaning": "But",
+                    "example_sentence": "सः आगन्तुं इच्छति किन्तु न शक्नोति। (He wants to come but cannot.)"
+                },
+                {
+                    "word": "परन्तु",
+                    "reading": "Pa-ran-tu",
+                    "meaning": "However",
+                    "example_sentence": "सः बुद्धिमान् अस्ति परन्तु आलसी। (He is intelligent, however lazy.)"
+                },
+                {
+                    "word": "कुत्रचित्",
+                    "reading": "Kut-ra-chit",
+                    "meaning": "Somewhere",
+                    "example_sentence": "सः कुत्रचित् गतः। (He went somewhere.)"
+                },
+                {
+                    "word": "कियत्",
+                    "reading": "Ki-yat",
+                    "meaning": "How much",
+                    "example_sentence": "कियत् धनं आवश्यकम्? (How much money is needed?)"
+                },
+                {
+                    "word": "तत्रैव",
+                    "reading": "Tat-rai-va",
+                    "meaning": "Right there/There itself",
+                    "example_sentence": "सः तत्रैव तिष्ठति। (He stays right there.)"
+                },
+                {
+                    "word": "अत्रैव",
+                    "reading": "At-rai-va",
+                    "meaning": "Right here/Here itself",
+                    "example_sentence": "अत्रैव उपविश। (Sit right here.)"
+                },
+                {
+                    "word": "पुरा",
+                    "reading": "Pu-raa",
+                    "meaning": "Formerly/In ancient times",
+                    "example_sentence": "पुरा राजा आसीत्। (Formerly there was a king.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "पूर्वे",
+                    "reading": "Poor-ve",
+                    "meaning": "Before/Earlier",
+                    "example_sentence": "पूर्वे सः अत्र आसीत्। (Earlier he was here.)"
+                },
+                {
+                    "word": "पश्चात्",
+                    "reading": "Pash-chaat",
+                    "meaning": "Afterwards/Later",
+                    "example_sentence": "पश्चात् किं भविष्यति? (What will happen afterwards?)"
+                },
+                {
+                    "word": "अन्ते",
+                    "reading": "An-te",
+                    "meaning": "Finally/At the end",
+                    "example_sentence": "अन्ते सत्यं जयति। (Finally truth wins.)"
+                },
+                {
+                    "word": "मध्यतः",
+                    "reading": "Mad-hya-tah",
+                    "meaning": "From the middle",
+                    "example_sentence": "मध्यतः विभज। (Divide from the middle.)"
+                },
+                {
+                    "word": "अग्रतः",
+                    "reading": "Ag-ra-tah",
+                    "meaning": "At the front/In front",
+                    "example_sentence": "अग्रतः गच्छ। (Go to the front.)"
+                },
+                {
+                    "word": "एकत्र",
+                    "reading": "E-kat-ra",
+                    "meaning": "At one place/Together",
+                    "example_sentence": "सर्वे एकत्र मिलन्ति। (Everyone meets at one place.)"
+                },
+                {
+                    "word": "बहुधा",
+                    "reading": "Ba-hu-dhaa",
+                    "meaning": "In many ways",
+                    "example_sentence": "इदं बहुधा कर्तुं शक्यते। (This can be done in many ways.)"
+                },
+                {
+                    "word": "अनेकशः",
+                    "reading": "A-ne-ka-shah",
+                    "meaning": "Many times",
+                    "example_sentence": "अहं अनेकशः तत्र गतः। (I went there many times.)"
+                },
+                {
+                    "word": "पर्यायक्रमेण",
+                    "reading": "Par-yaa-ya-kra-me-na",
+                    "meaning": "By turn/In sequence",
+                    "example_sentence": "पर्यायक्रमेण सर्वे वदन्ति। (Everyone speaks by turn.)"
+                },
+                {
+                    "word": "सहसा",
+                    "reading": "Sa-ha-saa",
+                    "meaning": "All of a sudden/Suddenly",
+                    "example_sentence": "सहसा वायुः आगतः। (Suddenly the wind came.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "ननु",
+                    "reading": "Na-nu",
+                    "meaning": "Surely?/Is it not?",
+                    "example_sentence": "ननु त्वं आगमिष्यसि? (Surely you will come?)"
+                },
+                {
+                    "word": "किमुत",
+                    "reading": "Ki-mu-ta",
+                    "meaning": "What to say of/Much more",
+                    "example_sentence": "सः बालकान् न जानाति किमुत वृद्धान्। (He doesn't know children, what to say of elders.)"
+                },
+                {
+                    "word": "मा",
+                    "reading": "Maa",
+                    "meaning": "Don't/Not",
+                    "example_sentence": "मा रोदीः। (Don't cry.)"
+                },
+                {
+                    "word": "अलम्",
+                    "reading": "A-lam",
+                    "meaning": "Enough/Stop",
+                    "example_sentence": "अलं विवादेन। (Enough of quarreling.)"
+                },
+                {
+                    "word": "चिरम्",
+                    "reading": "Chi-ram",
+                    "meaning": "Long time",
+                    "example_sentence": "चिरं जीव। (Live long.)"
+                },
+                {
+                    "word": "नित्यम्",
+                    "reading": "Nit-yam",
+                    "meaning": "Daily/Constantly",
+                    "example_sentence": "सः नित्यं योगं करोति। (He does yoga daily.)"
+                },
+                {
+                    "word": "प्रायः",
+                    "reading": "Praa-yah",
+                    "meaning": "Generally/Mostly",
+                    "example_sentence": "सः प्रायः सत्यं वदति। (He generally speaks the truth.)"
+                },
+                {
+                    "word": "केवलम्",
+                    "reading": "Ke-va-lam",
+                    "meaning": "Only/Merely",
+                    "example_sentence": "केवलं त्वं एव आगतः। (Only you came.)"
+                },
+                {
+                    "word": "समम्",
+                    "reading": "Sa-mam",
+                    "meaning": "Equally/Together",
+                    "example_sentence": "सर्वान् समं पश्य। (See everyone equally.)"
+                },
+                {
+                    "word": "युगपत्",
+                    "reading": "Yu-ga-pat",
+                    "meaning": "Simultaneously/At once",
+                    "example_sentence": "द्वे कार्ये युगपत् न कर्तुं शक्यन्ते। (Two works cannot be done simultaneously.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Sanskrit Directional Word Trap",
+        "question": "What is the correct Sanskrit word for 'inside'?",
+        "options": [
+            "अन्तः (antah - end/interior)",
+            "अन्तर् (antar - inside/within)",
+            "अन्तरम् (antaram - difference)",
+            "Both A and B are correct"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "While अन्तः (antah) can mean 'interior' or 'end', the correct word for the directional adverb 'inside' or 'within' is अन्तर् (antar). The word अन्तः is more commonly used to mean 'end' or 'conclusion' (as seen in Module 04). This trap teaches learners to distinguish between similar-looking Sanskrit words that have different meanings and usages. अन्तर् is specifically used for spatial 'inside/within', while अन्तः refers to 'end' or can be used in compounds to mean 'inner'."
+    }
+}

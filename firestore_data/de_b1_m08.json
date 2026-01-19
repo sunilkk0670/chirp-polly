@@ -1,0 +1,620 @@
+{
+    "module_id": "de_b1_m08",
+    "language": "de",
+    "level": "B1",
+    "theme": "Health & Healthcare",
+    "order": 8,
+    "lessons": [
+        {
+            "lesson_id": "de_b1_m08_l1",
+            "title": "Health & Healthcare",
+            "vocabularyItems": [
+                {
+                    "word": "Die Gesundheitsvorsorge",
+                    "reading": "ge-ZOONT-hyts-for-zor-ge",
+                    "meaning": "Healthcare prevention",
+                    "example_sentence": "Die Gesundheitsvorsorge umfasst Impfungen und Screenings. (Healthcare prevention includes vaccinations and screenings.)"
+                },
+                {
+                    "word": "Die Vorsorgeuntersuchung",
+                    "reading": "FOR-zor-ge-oon-ter-zoo-khoong",
+                    "meaning": "Preventive check-up",
+                    "example_sentence": "Regelmäßige Vorsorgeuntersuchungen können Leben retten. (Regular preventive check-ups can save lives.)"
+                },
+                {
+                    "word": "Das Gesundheitssystem",
+                    "reading": "ge-ZOONT-hyts-zoos-taym",
+                    "meaning": "Healthcare system",
+                    "example_sentence": "Das deutsche Gesundheitssystem gilt als sehr leistungsfähig. (The German healthcare system is considered very efficient.)"
+                },
+                {
+                    "word": "Die Krankenversicherung",
+                    "reading": "KRANK-en-fer-zi-khe-roong",
+                    "meaning": "Health insurance",
+                    "example_sentence": "In Deutschland gibt es eine allgemeine Pflicht zur Krankenversicherung. (In Germany, there is a general obligation to have health insurance.)"
+                },
+                {
+                    "word": "Die Versichertenkarte",
+                    "reading": "fer-ZIKH-er-ten-kar-te",
+                    "meaning": "Insurance card",
+                    "example_sentence": "Haben Sie Ihre Versichertenkarte zum Arzttermin mitgebracht? (Did you bring your insurance card to the doctor's appointment?)"
+                },
+                {
+                    "word": "Die Deckungssumme",
+                    "reading": "DE-koongs-zoo-me",
+                    "meaning": "Coverage amount [B1 Upgrade for Versicherungsschutz]",
+                    "example_sentence": "Die Deckungssumme der Versicherung reicht für den Schaden aus. (The insurance coverage is sufficient for the damage.)"
+                },
+                {
+                    "word": "Die gesetzliche Krankenkasse",
+                    "reading": "ge-ZETS-likhe KRANK-en-ka-se",
+                    "meaning": "Statutory health insurance",
+                    "example_sentence": "Die meisten Angestellten sind Mitglied einer gesetzlichen Krankenkasse. (Most employees are members of a statutory health insurance company.)"
+                },
+                {
+                    "word": "Die Privatversicherung",
+                    "reading": "pre-VAHT-fer-zi-khe-roong",
+                    "meaning": "Private insurance",
+                    "example_sentence": "Die Privatversicherung bietet oft zusätzliche Leistungen an. (Private insurance often offers additional benefits.)"
+                },
+                {
+                    "word": "Die Zuzahlung",
+                    "reading": "TSOO-tsah-loong",
+                    "meaning": "Co-payment / Additional payment",
+                    "example_sentence": "Für Medikamente fällt oft eine geringe Zuzahlung an. (There is often a small co-payment for medication.)"
+                },
+                {
+                    "word": "Die Facharztüberweisung",
+                    "reading": "FAKH-artst-ue-ber-vy-zoong",
+                    "meaning": "Specialist referral",
+                    "example_sentence": "Der Hausarzt gab mir eine Facharztüberweisung für den Kardiologen. (The family doctor gave me a specialist referral to the cardiologist.)"
+                },
+                {
+                    "word": "Die Diagnose stellen",
+                    "reading": "dee dee-ag-NOH-ze SHTEL-en",
+                    "meaning": "To provide a diagnosis",
+                    "example_sentence": "Der Arzt konnte die Diagnose nach dem Bluttest stellen. (The doctor was able to provide the diagnosis after the blood test.)"
+                },
+                {
+                    "word": "Das Krankheitsbild",
+                    "reading": "KRANK-hyts-bilt",
+                    "meaning": "Clinical picture / symptoms",
+                    "example_sentence": "Das Krankheitsbild ist typisch für eine Virusinfektion. (The clinical picture is typical for a viral infection.)"
+                },
+                {
+                    "word": "Die chronische Erkrankung",
+                    "reading": "KRO-nee-she er-KRANK-oong",
+                    "meaning": "Chronic illness",
+                    "example_sentence": "Diabetes ist eine weit verbreitete chronische Erkrankung. (Diabetes is a widely occurring chronic illness.)"
+                },
+                {
+                    "word": "Die Infektionskrankheit",
+                    "reading": "in-fek-TSYOHNS-krank-hyte",
+                    "meaning": "Infectious disease",
+                    "example_sentence": "Händewaschen schützt vor vielen Infektionskrankheiten. (Washing hands protects against many infectious diseases.)"
+                },
+                {
+                    "word": "Die Heilungschancen",
+                    "reading": "HY-loongs-shan-sen",
+                    "meaning": "Chances of recovery",
+                    "example_sentence": "Bei früher Entdeckung sind die Heilungschancen sehr gut. (With early detection, the chances of recovery are very good.)"
+                },
+                {
+                    "word": "Die Rehabilitation",
+                    "reading": "re-ha-bee-lee-ta-TSYOHN",
+                    "meaning": "Rehabilitation",
+                    "example_sentence": "Nach der Operation folgte eine mehrwöchige Rehabilitation. (After the operation, a multi-week rehabilitation followed.)"
+                },
+                {
+                    "word": "Die Physiotherapie",
+                    "reading": "fy-zyo-te-ra-PEE",
+                    "meaning": "Physical therapy",
+                    "example_sentence": "Physiotherapie hilft, die Beweglichkeit wiederherzustellen. (Physical therapy helps to restore mobility.)"
+                },
+                {
+                    "word": "Die Ergotherapie",
+                    "reading": "ER-go-te-ra-pee",
+                    "meaning": "Occupational therapy",
+                    "example_sentence": "Ergotherapie unterstützt Patienten im Alltag nach einem Unfall. (Occupational therapy supports patients in everyday life after an accident.)"
+                },
+                {
+                    "word": "Die Alternativmedizin",
+                    "reading": "al-ter-na-TEEV-me-dee-tseen",
+                    "meaning": "Alternative medicine",
+                    "example_sentence": "Immer mehr Menschen interessieren sich für Alternativmedizin. (More and more people are becoming interested in alternative medicine.)"
+                },
+                {
+                    "word": "Die Homöopathie",
+                    "reading": "ho-moe-o-pa-TEE",
+                    "meaning": "Homeopathy",
+                    "example_sentence": "Die Wirksamkeit der Homöopathie wird oft diskutiert. (The effectiveness of homeopathy is often discussed.)"
+                },
+                {
+                    "word": "Die Akupunktur",
+                    "reading": "a-koo-poonk-TOOR",
+                    "meaning": "Acupuncture",
+                    "example_sentence": "Akupunktur kann bei chronischen Rückenschmerzen helfen. (Acupuncture can help with chronic back pain.)"
+                },
+                {
+                    "word": "Das Immunsystem stärken",
+                    "reading": "das i-MOON-zoos-taym STER-ken",
+                    "meaning": "To strengthen the immune system",
+                    "example_sentence": "Viel Obst und Gemüse stärken das Immunsystem. (Lots of fruit and vegetables strengthen the immune system.)"
+                },
+                {
+                    "word": "Die Abwehrkräfte",
+                    "reading": "AP-vayr-kref-te",
+                    "meaning": "Defensive forces / Resistance",
+                    "example_sentence": "Im Winter müssen wir unsere Abwehrkräfte besonders schützen. (In winter, we have to protect our defenses particularly well.)"
+                },
+                {
+                    "word": "Die Entzündung",
+                    "reading": "ent-TSUEN-doong",
+                    "meaning": "Inflammation",
+                    "example_sentence": "Die Salbe hilft, die Entzündung am Knie zu lindern. (The ointment helps to alleviate the inflammation on the knee.)"
+                },
+                {
+                    "word": "Die Schmerzlinderung",
+                    "reading": "SHMERTS-lin-de-roong",
+                    "meaning": "Pain relief",
+                    "example_sentence": "Eine Massage sorgt für schnelle Schmerzlinderung bei Verspannungen. (A massage provides quick pain relief for tension.)"
+                },
+                {
+                    "word": "Das Betäubungsmittel",
+                    "reading": "be-TOY-boongs-mit-el",
+                    "meaning": "Anesthetic / Narcotic",
+                    "example_sentence": "Einige Betäubungsmittel unterliegen strengen Gesetzen. (Some narcotics are subject to strict laws.)"
+                },
+                {
+                    "word": "Die Narkose",
+                    "reading": "nar-KOH-ze",
+                    "meaning": "General anesthesia",
+                    "example_sentence": "Die Narkose verlief ohne Komplikationen. (The anesthesia proceeded without complications.)"
+                },
+                {
+                    "word": "Der chirurgische Eingriff",
+                    "reading": "khee-ROOR-gee-she EYN-grif",
+                    "meaning": "Surgical procedure",
+                    "example_sentence": "Der chirurgische Eingriff dauerte über drei Stunden. (The surgical procedure lasted over three hours.)"
+                },
+                {
+                    "word": "Die Operationswunde",
+                    "reading": "o-pe-ra-TSYOHNS-voon-de",
+                    "meaning": "Surgical wound",
+                    "example_sentence": "Die Operationswunde muss täglich gereinigt werden. (The surgical wound must be cleaned daily.)"
+                },
+                {
+                    "word": "Die Narbenbildung",
+                    "reading": "NAR-ben-bil-doong",
+                    "meaning": "Scarring / Scar formation",
+                    "example_sentence": "Massagen können eine gute Narbenbildung unterstützen. (Massages can support good scarring.)"
+                },
+                {
+                    "word": "Die Blutwerte",
+                    "reading": "BLOOT-ver-te",
+                    "meaning": "Blood values",
+                    "example_sentence": "Ihre Blutwerte sind seit der Behandlung wieder im Normalbereich. (Your blood values have been in the normal range again since the treatment.)"
+                },
+                {
+                    "word": "Der Cholesterinspiegel",
+                    "reading": "ko-les-te-REEN-shpee-gel",
+                    "meaning": "Cholesterol level",
+                    "example_sentence": "Eine gesunde Ernährung senkt den Cholesterinspiegel. (A healthy diet lowers cholesterol levels.)"
+                },
+                {
+                    "word": "Der Bluthochdruck",
+                    "reading": "BLOOT-hokh-drook",
+                    "meaning": "High blood pressure",
+                    "example_sentence": "Gegen Bluthochdruck muss man oft regelmäßig Sport treiben. (One often has to exercise regularly to combat high blood pressure.)"
+                },
+                {
+                    "word": "Der Herzinfarkt",
+                    "reading": "HERTS-in-farkt",
+                    "meaning": "Heart attack",
+                    "example_sentence": "Stress ist ein großer Risikofaktor für einen Herzinfarkt. (Stress is a major risk factor for a heart attack.)"
+                },
+                {
+                    "word": "Der Schlaganfall",
+                    "reading": "SHLAK-an-fal",
+                    "meaning": "Stroke",
+                    "example_sentence": "Bei Verdacht auf Schlaganfall zählt jede Minute. (Every minute counts if a stroke is suspected.)"
+                },
+                {
+                    "word": "Die Atemwege",
+                    "reading": "A-tem-ve-ge",
+                    "meaning": "Respiratory tract",
+                    "example_sentence": "Die trockene Heizungsluft reizt meine Atemwege. (The dry air from the heating irritates my airways.)"
+                },
+                {
+                    "word": "Das Asthma",
+                    "reading": "AST-ma",
+                    "meaning": "Asthma",
+                    "example_sentence": "Er benutzt bei einem Asthma-Anfall sein Spray. (He uses his spray during an asthma attack.)"
+                },
+                {
+                    "word": "Die Allergie",
+                    "reading": "a-ler-GEE",
+                    "meaning": "Allergy",
+                    "example_sentence": "Sie hat eine Allergie gegen Pollen und Gräser. (She has an allergy to pollen and grasses.)"
+                },
+                {
+                    "word": "Die Unverträglichkeit",
+                    "reading": "OON-fer-treg-likh-kyte",
+                    "meaning": "Intolerance",
+                    "example_sentence": "Immer mehr Leute leiden an einer Laktose-Unverträglichkeit. (More and more people suffer from lactose intolerance.)"
+                },
+                {
+                    "word": "Der Stoffwechsel",
+                    "reading": "STOF-vek-sel",
+                    "meaning": "Metabolism",
+                    "example_sentence": "Viel Bewegung kurbelt den Stoffwechsel an. (Lots of movement boosts the metabolism.)"
+                },
+                {
+                    "word": "Die Drüse",
+                    "reading": "DRUE-ze",
+                    "meaning": "Gland",
+                    "example_sentence": "Die Drüse produziert wichtige Hormone für den Körper. (The gland produces important hormones for the body.)"
+                },
+                {
+                    "word": "Das Hormonsystem",
+                    "reading": "hor-MOHN-zoos-taym",
+                    "meaning": "Hormone system",
+                    "example_sentence": "Das Hormonsystem steuert viele Funktionen im Körper. (The endocrine system controls many functions in the body.)"
+                },
+                {
+                    "word": "Die Schilddrüse",
+                    "reading": "SHILT-drue-ze",
+                    "meaning": "Thyroid gland",
+                    "example_sentence": "Die Schilddrüse wurde im Ultraschall untersucht. (The thyroid was examined by ultrasound.)"
+                },
+                {
+                    "word": "Die Verdauung",
+                    "reading": "fer-DOW-oong",
+                    "meaning": "Digestion",
+                    "example_sentence": "Gute Verdauung ist wichtig für das allgemeine Wohlbefinden. (Good digestion is important for general well-being.)"
+                },
+                {
+                    "word": "Die Darmflora",
+                    "reading": "DARM-flo-ra",
+                    "meaning": "Gut flora",
+                    "example_sentence": "Nach einer Antibiotika-Kur muss man die Darmflora aufbauen. (After a course of antibiotics, one must rebuild the gut flora.)"
+                },
+                {
+                    "word": "Die Wirbelsäule",
+                    "reading": "VEER-bel-zoy-le",
+                    "meaning": "Spine",
+                    "example_sentence": "Rückentraining stärkt die Muskulatur um die Wirbelsäule. (Back training strengthens the muscles around the spine.)"
+                },
+                {
+                    "word": "Der Bandscheibenvorfall",
+                    "reading": "BANT-shy-ben-for-fal",
+                    "meaning": "Slipped disc",
+                    "example_sentence": "Er darf nach seinem Bandscheibenvorfall nicht schwer heben. (He must not lift heavy things after his slipped disc.)"
+                },
+                {
+                    "word": "Die Gelenkverbindung",
+                    "reading": "ge-LENK-fer-bin-doong",
+                    "meaning": "Articular connection [B1 Upgrade for Gelenk]",
+                    "example_sentence": "Die Gelenkverbindung ist entzündet und schmerzt beim Gehen. (The joint connection is inflamed and hurts when walking.)"
+                },
+                {
+                    "word": "Die Arthrose",
+                    "reading": "ar-TROH-ze",
+                    "meaning": "Osteoarthritis",
+                    "example_sentence": "Gelenkschonender Sport ist bei Arthrose ratsam. (Sport that is easy on the joints is advisable for osteoarthritis.)"
+                },
+                {
+                    "word": "Die Muskulatur",
+                    "reading": "moos-koo-la-TOOR",
+                    "meaning": "Musculature",
+                    "example_sentence": "Gezieltes Krafttraining baut die Muskulatur auf. (Targeted strength training builds up the musculature.)"
+                },
+                {
+                    "word": "Die Bänderdehnung",
+                    "reading": "BEN-der-day-noong",
+                    "meaning": "Ligament strain",
+                    "example_sentence": "Die Bänderdehnung am Sprunggelenk braucht Zeit zum Heilen. (The ligament strain in the ankle needs time to heal.)"
+                },
+                {
+                    "word": "Die Knochendichte",
+                    "reading": "KNO-khen-dikh-te",
+                    "meaning": "Bone density",
+                    "example_sentence": "Die Messung der Knochendichte ist wichtig zur Früherkennung. (Measuring bone density is important for early detection.)"
+                },
+                {
+                    "word": "Die psychische Belastung",
+                    "reading": "PSY-khee-she be-LAS-toong",
+                    "meaning": "Psychological strain",
+                    "example_sentence": "Die Pflege von Angehörigen bedeutet oft eine psychische Belastung. (Caring for relatives often means a psychological burden.)"
+                },
+                {
+                    "word": "Das Burnout-Syndrom",
+                    "reading": "BURN-owt-zoon-drohm",
+                    "meaning": "Burnout syndrome",
+                    "example_sentence": "Das Burnout-Syndrom tritt oft nach langanhaltendem Stress auf. (Burnout syndrome often occurs after prolonged stress.)"
+                },
+                {
+                    "word": "Die Depression",
+                    "reading": "de-pre-SYOHN",
+                    "meaning": "Depression",
+                    "example_sentence": "Bei Depressionen ist professionelle Hilfe unerlässlich. (Professional help is essential for depression.)"
+                },
+                {
+                    "word": "Die Angststörung",
+                    "reading": "ANKST-stoe-roong",
+                    "meaning": "Anxiety disorder",
+                    "example_sentence": "Eine Angststörung kann das Leben stark einschränken. (An anxiety disorder can severely restrict one's life.)"
+                },
+                {
+                    "word": "Die Psychotherapie",
+                    "reading": "psy-kho-te-ra-PEE",
+                    "meaning": "Psychotherapy",
+                    "example_sentence": "Eine Psychotherapie kann helfen, Probleme zu bewältigen. (Psychotherapy can help to overcome problems.)"
+                },
+                {
+                    "word": "Die Verhaltenstherapie",
+                    "reading": "fer-HAL-tens-te-ra-pee",
+                    "meaning": "Behavioral therapy",
+                    "example_sentence": "Die Verhaltenstherapie ist eine wirksame Behandlungsmethode. (Behavioral therapy is an effective treatment method.)"
+                },
+                {
+                    "word": "Die Stressbewältigung",
+                    "reading": "STRES-be-vel-tee-goong",
+                    "meaning": "Stress management",
+                    "example_sentence": "Jeder hat seine eigene Strategie zur Stressbewältigung. (Everyone has their own strategy for coping with stress.)"
+                },
+                {
+                    "word": "Die Entspannungstechnik",
+                    "reading": "ent-SHPAN-oongs-tekh-nik",
+                    "meaning": "Relaxation technique",
+                    "example_sentence": "Yoga ist eine weit verbreitete Entspannungstechnik. (Yoga is a widely used relaxation technique.)"
+                },
+                {
+                    "word": "Die Vereinbarkeit von Familie und Beruf",
+                    "reading": "ver-EYN-bar-kyte",
+                    "meaning": "Compatibility of family and career [B1 Upgrade for Work-Life-Balance]",
+                    "example_sentence": "Die Vereinbarkeit von Familie und Beruf ist uns wichtig. (Work-life balance is important to us.)"
+                },
+                {
+                    "word": "Der Schlafmangel",
+                    "reading": "SHLAF-man-gel",
+                    "meaning": "Sleep deprivation",
+                    "example_sentence": "Chronischer Schlafmangel kann zu Konzentrationsproblemen führen. (Chronic lack of sleep can lead to concentration problems.)"
+                },
+                {
+                    "word": "Die Schlafstörung",
+                    "reading": "SHLAF-stoe-roong",
+                    "meaning": "Sleep disorder",
+                    "example_sentence": "Eine Schlafstörung muss ärztlich abgeklärt werden. (A sleep disorder must be medically clarified.)"
+                },
+                {
+                    "word": "Die Hygienevorschriften",
+                    "reading": "hoo-GYE-ne-for-shrif-ten",
+                    "meaning": "Hygiene regulations",
+                    "example_sentence": "Alle Mitarbeiter müssen die Hygienevorschriften einhalten. (All employees must comply with the hygiene regulations.)"
+                },
+                {
+                    "word": "Die Desinfektion",
+                    "reading": "des-in-fek-TSYOHN",
+                    "meaning": "Disinfection",
+                    "example_sentence": "Die Desinfektion der Hände schützt vor Keimen. (Hand disinfection protects against germs.)"
+                },
+                {
+                    "word": "Die Keimfreiheit",
+                    "reading": "KYME-fry-hyte",
+                    "meaning": "Sterility / Freedom from germs",
+                    "example_sentence": "In einem Operationssaal ist Keimfreiheit oberstes Gebot. (In an operating room, sterility is the top priority.)"
+                },
+                {
+                    "word": "Die Übertragung",
+                    "reading": "ue-ber-TRA-goong",
+                    "meaning": "Transmission",
+                    "example_sentence": "Die Übertragung des Virus erfolgt über Tröpfcheninfektion. (The virus is transmitted by droplet infection.)"
+                },
+                {
+                    "word": "Der Erreger",
+                    "reading": "er-RAY-ger",
+                    "meaning": "Pathogen / Germ",
+                    "example_sentence": "Der Erreger wurde im Labor genau analysiert. (The pathogen was precisely analyzed in the laboratory.)"
+                },
+                {
+                    "word": "Die Schutzimpfung",
+                    "reading": "SHOOTS-imp-foong",
+                    "meaning": "Protective vaccination",
+                    "example_sentence": "Die Schutzimpfung gegen Grippe ist im Herbst ratsam. (The flu shot is advisable in autumn.)"
+                },
+                {
+                    "word": "Die Nebenwirkung",
+                    "reading": "NAY-ben-vir-koong",
+                    "meaning": "Side effect",
+                    "example_sentence": "Müdigkeit ist eine häufige Nebenwirkung dieses Medikaments. (Drowsiness is a common side effect of this medication.)"
+                },
+                {
+                    "word": "Der Beipackzettel",
+                    "reading": "BY-pak-tset-el",
+                    "meaning": "Instruction leaflet",
+                    "example_sentence": "Lesen Sie vor der Einnahme unbedingt den Beipackzettel. (Be sure to read the package insert before taking it.)"
+                },
+                {
+                    "word": "Die Dosierung",
+                    "reading": "do-ZEE-roong",
+                    "meaning": "Dosage",
+                    "example_sentence": "Die genaue Dosierung wurde vom Arzt festgelegt. (The exact dosage was determined by the doctor.)"
+                },
+                {
+                    "word": "Die Überdosis",
+                    "reading": "UE-ber-doh-zis",
+                    "meaning": "Overdose",
+                    "example_sentence": "Eine Überdosis an Schmerzmitteln kann gefährlich sein. (An overdose of painkillers can be dangerous.)"
+                },
+                {
+                    "word": "Die Abhängigkeit",
+                    "reading": "AP-heng-ish-kyte",
+                    "meaning": "Dependency / Addiction",
+                    "example_sentence": "Nikotin führt schnell zu einer körperlichen Abhängigkeit. (Nicotine leads quickly to physical dependency.)"
+                },
+                {
+                    "word": "Die Suchtprävention",
+                    "reading": "ZOOKHT-pre-ven-tsyohn",
+                    "meaning": "Addiction prevention",
+                    "example_sentence": "Die Suchtprävention an Schulen ist ein wichtiges Thema. (Addiction prevention in schools is an important issue.)"
+                },
+                {
+                    "word": "Der Entzug",
+                    "reading": "ent-TSOOK",
+                    "meaning": "Withdrawal",
+                    "example_sentence": "Ein kalter Entzug sollte unter Aufsicht stattfinden. (A cold turkey withdrawal should take place under supervision.)"
+                },
+                {
+                    "word": "Die Erste Hilfe",
+                    "reading": "ER-ste HIL-fe",
+                    "meaning": "First aid",
+                    "example_sentence": "Jeder sollte regelmäßig einen Kurs in Erster Hilfe machen. (Everyone should regularly take a first aid course.)"
+                },
+                {
+                    "word": "Der Notfallarzt",
+                    "reading": "NOT-fal-artst",
+                    "meaning": "Emergency doctor",
+                    "example_sentence": "Der Notfallarzt kam innerhalb weniger Minuten zum Unfallort. (The emergency doctor arrived at the scene of the accident within a few minutes.)"
+                },
+                {
+                    "word": "Die Intensivstation",
+                    "reading": "in-ten-ZEEV-sta-tsyohn",
+                    "meaning": "Intensive care unit",
+                    "example_sentence": "Schwerverletzte Patienten werden auf der Intensivstation betreut. (Severely injured patients are cared for in the intensive care unit.)"
+                },
+                {
+                    "word": "Die Patientenverfügung",
+                    "reading": "pa-TSYEN-ten-fer-fue-goong",
+                    "meaning": "Living will / Advance directive",
+                    "example_sentence": "Mit einer Patientenverfügung legt man seinen Wunsch fest. (With a living will, you determine your wishes.)"
+                },
+                {
+                    "word": "Die Organspende",
+                    "reading": "or-GAHN-shpen-de",
+                    "meaning": "Organ donation",
+                    "example_sentence": "Ihre Entscheidung zur Organspende kann viele Leben retten. (Your decision to donate organs can save many lives.)"
+                },
+                {
+                    "word": "Die Ethikkommission",
+                    "reading": "AY-tik-ko-mis-yohn",
+                    "meaning": "Ethics committee",
+                    "example_sentence": "Die Ethikkommission prüft neue medizinische Studien. (The ethics committee reviews new medical studies.)"
+                },
+                {
+                    "word": "Die medizinische Forschung",
+                    "reading": "me-dee-TSEE-nee-she FOR-shoong",
+                    "meaning": "Medical research",
+                    "example_sentence": "Medizinische Forschung führt zu immer besseren Therapien. (Medical research leads to increasingly better therapies.)"
+                },
+                {
+                    "word": "Der Proband",
+                    "reading": "pro-BANT",
+                    "meaning": "Test subject",
+                    "example_sentence": "Der Proband nimmst an einer Studie zum Thema Schlaf teil. (The test subject is participating in a study on sleep.)"
+                },
+                {
+                    "word": "Die klinische Studie",
+                    "reading": "KLEE-nee-she STOO-dye",
+                    "meaning": "Clinical study",
+                    "example_sentence": "Vor der Zulassung muss jedes Medikament klinische Studien durchlaufen. (Each drug must undergo clinical trials before it is approved.)"
+                },
+                {
+                    "word": "Der Kuraufenthalt [TRAP]",
+                    "reading": "KOOR-ow-fent-halt",
+                    "meaning": "Spa stay (NOT a cure/fix) [Liar Game]",
+                    "example_sentence": "Ihr Kuraufenthalt an der Nordsee tat ihr sehr gut. (Her stay at the health spa on the North Sea was very good for her.)"
+                },
+                {
+                    "word": "Das Schutzmittel [TRAP]",
+                    "reading": "shoots-mit-el",
+                    "meaning": "Contraceptive/Preservative (NOT food preservative) [Liar Game]",
+                    "example_sentence": "Vergessen Sie beim Geschlechtsverkehr nicht das Schutzmittel. (Don't forget protection during sexual intercourse.)"
+                },
+                {
+                    "word": "Die Analregion [TRAP]",
+                    "reading": "a-NAL-re-gyohn",
+                    "meaning": "Anal region (NOT after/later) [Liar Game]",
+                    "example_sentence": "Die Analregion muss nach der OP sauber gehalten werden. (The anal region must be kept clean after surgery.)"
+                },
+                {
+                    "word": "Die Artigkeit [TRAP]",
+                    "reading": "AR-tikh-kyte",
+                    "meaning": "Good behavior (NOT brave) [Liar Game]",
+                    "example_sentence": "Der Lehrer lobte die Artigkeit der Schüler im Museum. (The teacher praised the students' good behavior in the museum.)"
+                },
+                {
+                    "word": "Die Hautaffektion [TRAP]",
+                    "reading": "HOWT-a-fek-tsyohn",
+                    "meaning": "Skin condition/Pimple (NOT a pickle) [Liar Game]",
+                    "example_sentence": "Die Hautaffektion verschwand nach zwei Tagen wieder. (The skin affection disappeared after two days.)"
+                },
+                {
+                    "word": "Die Krankengymnastik",
+                    "reading": "KRANK-en-guem-nas-tik",
+                    "meaning": "Physical therapy exercises [New #91]",
+                    "example_sentence": "Krankengymnastik ist wichtig nach einem Knochenbruch. (Physical therapy exercises are important after a broken bone.)"
+                },
+                {
+                    "word": "Die Patientenakte",
+                    "reading": "pa-TSYEN-ten-ak-te",
+                    "meaning": "Patient file [New #92]",
+                    "example_sentence": "In der Patientenakte stehen alle wichtigen Diagnosen. (All important diagnoses are in the patient file.)"
+                },
+                {
+                    "word": "Die ärztliche Schweigepflicht",
+                    "reading": "ERTST-likhe SHVY-ge-p-flikht",
+                    "meaning": "Medical confidentiality [New #93]",
+                    "example_sentence": "Der Arzt darf die ärztliche Schweigepflicht nicht verletzen. (The doctor must not violate medical confidentiality.)"
+                },
+                {
+                    "word": "Die Laboruntersuchung",
+                    "reading": "la-BOHR-oon-ter-zoo-khoong",
+                    "meaning": "Laboratory test [New #94]",
+                    "example_sentence": "Die Laboruntersuchung des Blutes dauert zwei Tage. (The lab test of the blood takes two days.)"
+                },
+                {
+                    "word": "Die Vorsorgekasse",
+                    "reading": "FOR-zor-ge-ka-se",
+                    "meaning": "Prevention fund [New #95]",
+                    "example_sentence": "Die Vorsorgekasse zahlt für bestimmte Check-ups. (The prevention fund pays for certain check-ups.)"
+                },
+                {
+                    "word": "Die Rehabilitationseinrichtung",
+                    "reading": "re-ha-bee-lee-ta-TSYOHNS-eyn-rikh-toong",
+                    "meaning": "Rehabilitation facility [New #96]",
+                    "example_sentence": "Die Rehabilitationseinrichtung ist auf Kardiologie spezialisiert. (The rehabilitation facility specializes in cardiology.)"
+                },
+                {
+                    "word": "Der Organspendeausweis",
+                    "reading": "or-GAHN-shpen-de-ows-vys",
+                    "meaning": "Organ donor card [New #97]",
+                    "example_sentence": "Tragen Sie Ihren Organspendeausweis immer bei sich. (Always carry your organ donor card with you.)"
+                },
+                {
+                    "word": "Die Arbeitsunfähigkeitsbescheinigung",
+                    "reading": "AR-byts-oon-fay-ish-kyts-be-shry-noong",
+                    "meaning": "Certificate of incapacity for work [B1 Upgrade for Krankmeldung]",
+                    "example_sentence": "Der Arbeitgeber verlangt die Arbeitsunfähigkeitsbescheinigung ab dem dritten Tag. (The employer requires the certificate of incapacity for work from the third day.)"
+                },
+                {
+                    "word": "Die Verschreibungspflicht",
+                    "reading": "fer-SHRY-boongs-p-flikht",
+                    "meaning": "Prescription requirement [New #99]",
+                    "example_sentence": "Für dieses Antibiotikum besteht Verschreibungspflicht. (A prescription is required for this antibiotic.)"
+                },
+                {
+                    "word": "Eine baldige Genesung!",
+                    "reading": "ge-NEY-zoong",
+                    "meaning": "A speedy recovery! [New #100]",
+                    "example_sentence": "Das gesamte Team wünscht eine baldige Genesung! (The entire team wishes a speedy recovery!)"
+                }
+            ],
+            "liar_game_data": {
+                "trap": "Medical False Friends",
+                "correct_version": "Kur = Spa/Treatment; After = Anus; Brav = Well-behaved; Pickel = Pimple.",
+                "explanation": "German 'Kur' is not a cure, but a stay at a health spa. 'After' refers to an anatomy part. 'Brav' is for children being good, not for soldiers being brave (mutig). 'Pickel' is a skin issue."
+            }
+        }
+    ]
+}

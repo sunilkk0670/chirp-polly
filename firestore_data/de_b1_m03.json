@@ -1,0 +1,620 @@
+{
+    "module_id": "de_b1_m03",
+    "language": "de",
+    "level": "B1",
+    "theme": "Modern Work & Mobility",
+    "order": 3,
+    "lessons": [
+        {
+            "lesson_id": "de_b1_m03_l1",
+            "title": "Modern Work & Mobility",
+            "vocabularyItems": [
+                {
+                    "word": "Die Erwerbstätigkeit",
+                    "reading": "dee er-VERPS-te-tish-kyte",
+                    "meaning": "Gainful employment",
+                    "example_sentence": "Die Erwerbstätigkeit von Frauen hat in den letzten Jahren zugenommen. (Women's gainful employment has increased in recent years.)"
+                },
+                {
+                    "word": "Das Homeoffice-Privileg",
+                    "reading": "das HOME-of-is-pree-vee-LAYK",
+                    "meaning": "Remote work privilege",
+                    "example_sentence": "Viele Mitarbeiter schätzen das Homeoffice-Privileg sehr. (Many employees value the remote work privilege highly.)"
+                },
+                {
+                    "word": "Die Gleitzeit",
+                    "reading": "dee GLYTE-tsyte",
+                    "meaning": "Flexible working hours",
+                    "example_sentence": "Dank Gleitzeit kann ich morgens länger schlafen. (Thanks to flexible hours, I can sleep longer in the morning.)"
+                },
+                {
+                    "word": "Das Pendeln",
+                    "reading": "das PEN-deln",
+                    "meaning": "Commuting",
+                    "example_sentence": "Das tägliche Pendeln mit dem Zug ist anstrengend. (Daily commuting by train is exhausting.)"
+                },
+                {
+                    "word": "Die berufliche Umorientierung",
+                    "reading": "dee be-ROOF-likhe OOM-o-ree-en-tee-roong",
+                    "meaning": "Career change / orientation",
+                    "example_sentence": "Er plant eine berufliche Umorientierung nach zehn Jahren. (He is planning a career change after ten years.)"
+                },
+                {
+                    "word": "Der Quereinsteiger",
+                    "reading": "dehr KVEHR-eyn-shty-ger",
+                    "meaning": "Career changer (lateral entrant)",
+                    "example_sentence": "Als Quereinsteiger hat man oft einen frischen Blick auf die Arbeit. (As a career changer, one often has a fresh look at the work.)"
+                },
+                {
+                    "word": "Die Work-Life-Balance",
+                    "reading": "dee VERK-lyfe-be-lens",
+                    "meaning": "Work-life balance",
+                    "example_sentence": "Dem Unternehmen ist eine gute Work-Life-Balance wichtig. (A good work-life balance is important to the company.)"
+                },
+                {
+                    "word": "Der Fachkräftemangel",
+                    "reading": "dehr FAKH-kref-te-man-gel",
+                    "meaning": "Shortage of skilled workers",
+                    "example_sentence": "Der Fachkräftemangel bremst das Wirtschaftswachstum. (The shortage of skilled workers slows down economic growth.)"
+                },
+                {
+                    "word": "Die Arbeitgebermarke",
+                    "reading": "dee AR-byts-gay-ber-mar-ke",
+                    "meaning": "Employer brand",
+                    "example_sentence": "Eine starke Arbeitgebermarke zieht Talente an. (A strong employer brand attracts talent.)"
+                },
+                {
+                    "word": "Das Sabbatjahr",
+                    "reading": "das ZA-bat-yahr",
+                    "meaning": "Sabbatical year",
+                    "example_sentence": "Sie nutzt ihr Sabbatjahr für eine Weltreise. (She is using her sabbatical for a trip around the world.)"
+                },
+                {
+                    "word": "Der Arbeitsmarkt",
+                    "reading": "dehr AR-byts-markt",
+                    "meaning": "The job market",
+                    "example_sentence": "Der Arbeitsmarkt für IT-Spezialisten ist sehr stabil. (The job market for IT specialists is very stable.)"
+                },
+                {
+                    "word": "Die Qualifikation",
+                    "reading": "dee kva-lee-fee-ka-TSYOHN",
+                    "meaning": "Qualification",
+                    "example_sentence": "Welche Qualifikationen sind für die Stelle erforderlich? (What qualifications are required for the position?)"
+                },
+                {
+                    "word": "Der Dienstwagen",
+                    "reading": "dehr DEENST-va-gen",
+                    "meaning": "Company car",
+                    "example_sentence": "Er darf seinen Dienstwagen auch privat nutzen. (He is allowed to use his company car privately as well.)"
+                },
+                {
+                    "word": "Die Geschäftsreise",
+                    "reading": "dee ge-SHEFTS-ry-ze",
+                    "meaning": "Business trip",
+                    "example_sentence": "Nächste Woche muss ich auf eine Geschäftsreise nach Berlin. (Next week I have to go on a business trip to Berlin.)"
+                },
+                {
+                    "word": "Die Selbstständigkeit",
+                    "reading": "dee ZELPST-shten-dish-kyte",
+                    "meaning": "Self-employment",
+                    "example_sentence": "Der Schritt in die Selbstständigkeit erfordert Mut. (Taking the step into self-employment requires courage.)"
+                },
+                {
+                    "word": "Das Start-up",
+                    "reading": "das START-ap",
+                    "meaning": "Start-up company",
+                    "example_sentence": "Ihr Start-up entwickelt innovative Software. (Her start-up develops innovative software.)"
+                },
+                {
+                    "word": "Die Unternehmenskultur",
+                    "reading": "dee oon-ter-NAY-mens-kool-toor",
+                    "meaning": "Corporate culture",
+                    "example_sentence": "Transparenz ist ein wichtiger Teil unserer Unternehmenskultur. (Transparency is an important part of our corporate culture.)"
+                },
+                {
+                    "word": "Der Überstundenabbau",
+                    "reading": "dehr UE-ber-shtoon-den-ap-bow",
+                    "meaning": "Time off in lieu (overtime reduction)",
+                    "example_sentence": "Dank Überstundenabbau habe ich nächsten Freitag frei. (Thanks to time off in lieu, I have next Friday off.)"
+                },
+                {
+                    "word": "Die Schichtarbeit",
+                    "reading": "dee SHIKHT-ar-byte",
+                    "meaning": "Shift work",
+                    "example_sentence": "Schichtarbeit kann den Schlafrhythmus stören. (Shift work can disturb the sleep rhythm.)"
+                },
+                {
+                    "word": "Die Teilzeitbeschäftigung",
+                    "reading": "dee TYLE-tsyte-be-shef-tee-goong",
+                    "meaning": "Part-time employment",
+                    "example_sentence": "Sie kehrte in Teilzeitbeschäftigung aus der Elternzeit zurück. (She returned from parental leave in part-time employment.)"
+                },
+                {
+                    "word": "Der Mindestlohn",
+                    "reading": "der MIN-dest-lohn",
+                    "meaning": "Minimum wage",
+                    "example_sentence": "Der Mindestlohn wurde zum ersten Januar erhöht. (The minimum wage was increased on January 1st.)"
+                },
+                {
+                    "word": "Die Gehaltserhöhung",
+                    "reading": "dee ge-HALTS-er-hoe-oong",
+                    "meaning": "Salary increase",
+                    "example_sentence": "Nach dem erfolgreichen Projekt bat er um eine Gehaltserhöhung. (After the successful project, he asked for a salary increase.)"
+                },
+                {
+                    "word": "Die Kündigungsfrist",
+                    "reading": "dee KUEN-dee-goongs-frist",
+                    "meaning": "Notice period",
+                    "example_sentence": "Die gesetzliche Kündigungsfrist beträgt drei Monate. (The statutory notice period is three months.)"
+                },
+                {
+                    "word": "Die Mobilitätsgarantie",
+                    "reading": "dee mo-bee-lee-TETS-ga-ran-tee",
+                    "meaning": "Mobility guarantee",
+                    "example_sentence": "Die Bahn bietet bei Verspätungen eine Mobilitätsgarantie. (The railway offers a mobility guarantee in case of delays.)"
+                },
+                {
+                    "word": "Die Fahrgemeinschaft",
+                    "reading": "dee FAHR-ge-myn-shaft",
+                    "meaning": "Carpool",
+                    "example_sentence": "Wir haben eine Fahrgemeinschaft zur Arbeit gebildet. (We formed a carpool to work.)"
+                },
+                {
+                    "word": "Die Bahncard",
+                    "reading": "dee BAHN-kart",
+                    "meaning": "German rail card",
+                    "example_sentence": "Mit der Bahncard spart man bei jeder Fahrt. (With the Bahncard, you save on every journey.)"
+                },
+                {
+                    "word": "Die Fernverkehr",
+                    "reading": "dee FERN-fer-kayr",
+                    "meaning": "Long-distance traffic",
+                    "example_sentence": "Der Fernverkehr der Bahn war wegen des Sturms eingestellt. (The railway's long-distance traffic was suspended due to the storm.)"
+                },
+                {
+                    "word": "Der Anschlusszug",
+                    "reading": "dehr AN-shloos-tsoog",
+                    "meaning": "Connecting train",
+                    "example_sentence": "Ich habe meinen Anschlusszug knapp verpasst. (I just missed my connecting train.)"
+                },
+                {
+                    "word": "Die Sitzplatzreservierung",
+                    "reading": "dee ZITS-plats-re-zehr-vee-roong",
+                    "meaning": "Seat reservation",
+                    "example_sentence": "Eine Sitzplatzreservierung ist im ICE sehr zu empfehlen. (A seat reservation is highly recommended on the ICE.)"
+                },
+                {
+                    "word": "Der Schlafwagen",
+                    "reading": "dehr SHLAF-va-gen",
+                    "meaning": "Sleeping car",
+                    "example_sentence": "Im Schlafwagen kommt man entspannt am Ziel an. (In the sleeping car, you arrive relaxed at your destination.)"
+                },
+                {
+                    "word": "Die Flugbuchung",
+                    "reading": "dee FLOOG-boo-khoong",
+                    "meaning": "Flight booking",
+                    "example_sentence": "Haben Sie die Bestätigung für die Flugbuchung erhalten? (Did you receive the confirmation for the flight booking?)"
+                },
+                {
+                    "word": "Das Handgepäck",
+                    "reading": "das HANT-ge-pek",
+                    "meaning": "Carry-on luggage",
+                    "example_sentence": "Im Handgepäck dürfen keine Flüssigkeiten über 100ml sein. (No liquids over 100ml are allowed in carry-on luggage.)"
+                },
+                {
+                    "word": "Die Zollkontrolle",
+                    "reading": "dee TSOL-kon-trol-e",
+                    "meaning": "Customs control",
+                    "example_sentence": "Die Zollkontrolle verlief ohne Probleme. (The customs control went without problems.)"
+                },
+                {
+                    "word": "Die Einreisegenehmigung",
+                    "reading": "EYN-rye-ze-ge-nay-mee-goong",
+                    "meaning": "Entry permit [B1 Upgrade for Visum]",
+                    "example_sentence": "Haben Sie die nötige Einreisegenehmigung dabei? (Do you have the necessary entry permit with you?)"
+                },
+                {
+                    "word": "Die Impfpflicht",
+                    "reading": "dee IMPF-pflykht",
+                    "meaning": "Vaccination requirement",
+                    "example_sentence": "Für manche Reisen besteht eine Impfpflicht. (There is a vaccination requirement for some trips.)"
+                },
+                {
+                    "word": "Der Jetlag",
+                    "reading": "dehr JET-lek",
+                    "meaning": "Jet lag",
+                    "example_sentence": "Nach dem langen Flug litt er unter schwerem Jetlag. (After the long flight, he suffered from severe jet lag.)"
+                },
+                {
+                    "word": "Die Auslandsentsendung",
+                    "reading": "dee OWS-lants-ent-zen-doong",
+                    "meaning": "Foreign assignment",
+                    "example_sentence": "Die Auslandsentsendung nach Tokio dauert zwei Jahre. (The foreign assignment to Tokyo lasts two years.)"
+                },
+                {
+                    "word": "Die Sprachbarriere",
+                    "reading": "SHPRAKH-ba-rye-re",
+                    "meaning": "Language barrier",
+                    "example_sentence": "Englisch hilft, die Sprachbarriere zu überwinden. (English helps to overcome the language barrier.)"
+                },
+                {
+                    "word": "Die interkulturelle Kompetenz",
+                    "reading": "dee in-ter-kool-too-RE-le kom-pe-tents",
+                    "meaning": "Intercultural competence",
+                    "example_sentence": "Interkulturelle Kompetenz ist in globalen Teams unverzichtbar. (Intercultural competence is indispensable in global teams.)"
+                },
+                {
+                    "word": "Die Auswanderung",
+                    "reading": "dee OWS-van-de-roong",
+                    "meaning": "Emigration",
+                    "example_sentence": "Er bereitet seine Auswanderung nach Kanada vor. (He is preparing his emigration to Canada.)"
+                },
+                {
+                    "word": "Die Lebensqualität",
+                    "reading": "dee LAY-bens-kva-lee-tet",
+                    "meaning": "Quality of life",
+                    "example_sentence": "Die Lebensqualität in dieser Stadt ist sehr hoch. (The quality of life in this city is very high.)"
+                },
+                {
+                    "word": "Die Lebenshaltungskosten",
+                    "reading": "LAY-bens-hal-toongs-kos-ten",
+                    "meaning": "Cost of living",
+                    "example_sentence": "Die Lebenshaltungskosten sind stark gestiegen. (The cost of living has risen sharply.)"
+                },
+                {
+                    "word": "Die Infrastruktur",
+                    "reading": "dee in-fra-sh-trook-TOOR",
+                    "meaning": "Infrastructure",
+                    "example_sentence": "Der Ausbau der Infrastruktur ist dringend notwendig. (The expansion of the infrastructure is urgently necessary.)"
+                },
+                {
+                    "word": "Der öffentliche Nahverkehr",
+                    "reading": "dehr OEF-ent-likhe NA-fer-kayr",
+                    "meaning": "Public local transport",
+                    "example_sentence": "Der öffentliche Nahverkehr ist hier sehr zuverlässig. (Public local transport is very reliable here.)"
+                },
+                {
+                    "word": "Das Verkehrsmittel",
+                    "reading": "das fer-KAYRS-mit-el",
+                    "meaning": "Means of transport",
+                    "example_sentence": "Das Fahrrad ist mein liebstes Verkehrsmittel. (The bicycle is my favorite means of transport.)"
+                },
+                {
+                    "word": "Die Umweltbelastung",
+                    "reading": "dee OOM-velt-be-las-toong",
+                    "meaning": "Environmental impact",
+                    "example_sentence": "Wir müssen die Umweltbelastung durch den Verkehr senken. (We must reduce the environmental impact of traffic.)"
+                },
+                {
+                    "word": "Der Kraftstoff",
+                    "reading": "dehr KRAFT-shtof",
+                    "meaning": "Fuel",
+                    "example_sentence": "Der Preis für Kraftstoff ist heute gesunken. (The price of fuel decreased today.)"
+                },
+                {
+                    "word": "Die E-Mobilität",
+                    "reading": "ay-mo-bee-lee-TET",
+                    "meaning": "E-mobility",
+                    "example_sentence": "Die Regierung fördert die E-Mobilität. (The government promotes e-mobility.)"
+                },
+                {
+                    "word": "Die Ladestation",
+                    "reading": "dee LA-de-sta-tsyohn",
+                    "meaning": "Charging station",
+                    "example_sentence": "Wo finde ich die nächste Ladestation für mein Auto? (Where can I find the nearest charging station for my car?)"
+                },
+                {
+                    "word": "Der CO2-Fußabdruck",
+                    "reading": "tsay-oh-tsvy-FOOS-ap-drook",
+                    "meaning": "Carbon footprint",
+                    "example_sentence": "Flugreisen vergrößern den CO2-Fußabdruck erheblich. (Air travel significantly increases the carbon footprint.)"
+                },
+                {
+                    "word": "Das Tempolimit",
+                    "reading": "das TEM-po-lee-mit",
+                    "meaning": "Speed limit",
+                    "example_sentence": "Gibt es auf dieser Autobahn ein Tempolimit? (Is there a speed limit on this highway?)"
+                },
+                {
+                    "word": "Der Fahrradweg",
+                    "reading": "dehr FAHR-raht-vayk",
+                    "meaning": "Bike path",
+                    "example_sentence": "Der Fahrradweg führt direkt am Fluss entlang. (The bike path leads directly along the river.)"
+                },
+                {
+                    "word": "Das Carsharing",
+                    "reading": "das KAHR-shay-ring",
+                    "meaning": "Car sharing",
+                    "example_sentence": "Carsharing ist eine gute Alternative zum eigenen Auto. (Car sharing is a good alternative to owning a car.)"
+                },
+                {
+                    "word": "Die Mitfahrgelegenheit",
+                    "reading": "dee MIT-fahr-ge-lay-gen-hyte",
+                    "meaning": "Lift/Ride share",
+                    "example_sentence": "Ich habe eine Mitfahrgelegenheit nach München gefunden. (I found a ride share to Munich.)"
+                },
+                {
+                    "word": "Die Flexibilität",
+                    "reading": "fle-ksee-bee-lee-TET",
+                    "meaning": "Flexibility",
+                    "example_sentence": "Im Job wird heute viel Flexibilität erwartet. (A lot of flexibility is expected on the job today.)"
+                },
+                {
+                    "word": "Die Erreichbarkeit",
+                    "reading": "er-RYKHE-bar-kyte",
+                    "meaning": "Accessibility",
+                    "example_sentence": "Dank Smartphone ist die ständige Erreichbarkeit normal. (Thanks to smartphones, constant accessibility is normal.)"
+                },
+                {
+                    "word": "Die Burnout-Prävention",
+                    "reading": "BURN-owt-pre-ven-tsyohn",
+                    "meaning": "Burnout prevention",
+                    "example_sentence": "Das Unternehmen bietet Kurse zur Burnout-Prävention an. (The company offers courses on burnout prevention.)"
+                },
+                {
+                    "word": "Die Belastbarkeit",
+                    "reading": "be-LAST-bar-kyte",
+                    "meaning": "Resilience",
+                    "example_sentence": "Seine psychische Belastbarkeit ist bemerkenswert. (His psychological resilience is remarkable.)"
+                },
+                {
+                    "word": "Das Zeitmanagement",
+                    "reading": "TSYTE-me-nedge-ment",
+                    "meaning": "Time management",
+                    "example_sentence": "Ein gutes Zeitmanagement reduziert Stress. (Good time management reduces stress.)"
+                },
+                {
+                    "word": "Die Priorität",
+                    "reading": "pree-o-ree-TET",
+                    "meaning": "Priority",
+                    "example_sentence": "Sicherheit hat für uns höchste Priorität. (Safety has the highest priority for us.)"
+                },
+                {
+                    "word": "Die Effektivität",
+                    "reading": "e-fek-tee-vee-TET",
+                    "meaning": "Effectiveness",
+                    "example_sentence": "Wir müssen die Effektivität unserer Werbung prüfen. (We need to check the effectiveness of our advertising.)"
+                },
+                {
+                    "word": "Die Eigenverantwortung",
+                    "reading": "EY-gen-fer-ant-vor-toong",
+                    "meaning": "Personal responsibility",
+                    "example_sentence": "Wir fördern die Eigenverantwortung unserer Mitarbeiter. (We promote the personal responsibility of our employees.)"
+                },
+                {
+                    "word": "Die Teamfähigkeit",
+                    "reading": "TEEM-fay-ish-kyte",
+                    "meaning": "Ability to work in a team",
+                    "example_sentence": "Teamfähigkeit ist eine der wichtigsten sozialen Kompetenzen. (Teamwork is one of the most important social skills.)"
+                },
+                {
+                    "word": "Das Engagement",
+                    "reading": "an-ga-zhe-MAHN",
+                    "meaning": "Commitment/Engagement",
+                    "example_sentence": "Ich danke Ihnen für Ihr großes Engagement. (Ich danke Ihnen für Ihr großes Engagement.)"
+                },
+                {
+                    "word": "Die Anerkennung",
+                    "reading": "AN-er-ken-oong",
+                    "meaning": "Recognition",
+                    "example_sentence": "Jeder Mensch braucht Anerkennung für seine Arbeit. (Every person needs recognition for their work.)"
+                },
+                {
+                    "word": "Das Feedback",
+                    "reading": "FEED-bek",
+                    "meaning": "Feedback",
+                    "example_sentence": "Könntest du mir kurzes Feedback zu meiner Präsentation geben? (Could you give me some quick feedback on my presentation?)"
+                },
+                {
+                    "word": "Die Kritikfähigkeit",
+                    "reading": "kree-TEEK-fay-ish-kyte",
+                    "meaning": "Ability to take criticism",
+                    "example_sentence": "Ihm fehlt es leider an Kritikfähigkeit. (Unfortunately, he lacks the ability to take criticism.)"
+                },
+                {
+                    "word": "Die Verhandlung",
+                    "reading": "fer-HANT-loong",
+                    "meaning": "Negotiation",
+                    "example_sentence": "Die Verhandlung über den Vertrag war schwierig. (The negotiation about the contract was difficult.)"
+                },
+                {
+                    "word": "Das Ergebnis",
+                    "reading": "er-GAYP-nis",
+                    "meaning": "Result",
+                    "example_sentence": "Das Ergebnis der Untersuchung war negativ. (The result of the investigation was negative.)"
+                },
+                {
+                    "word": "Die Umsetzung",
+                    "reading": "OOM-zet-soong",
+                    "meaning": "Implementation",
+                    "example_sentence": "Die Umsetzung des Plans dauerte länger als gedacht. (The implementation of the plan took longer than thought.)"
+                },
+                {
+                    "word": "Die Strategie",
+                    "reading": "sh-tra-te-GEE",
+                    "meaning": "Strategy",
+                    "example_sentence": "Wir brauchen eine neue Strategie für den Markt. (We need a new strategy for the market.)"
+                },
+                {
+                    "word": "Die Herausforderung",
+                    "reading": "he-ROWS-for-de-roong",
+                    "meaning": "Challenge",
+                    "example_sentence": "Das neue Projekt ist eine große Herausforderung. (Das neue Projekt ist eine große Herausforderung.)"
+                },
+                {
+                    "word": "Das Hindernis",
+                    "reading": "HIN-der-nis",
+                    "meaning": "Obstacle",
+                    "example_sentence": "Ein Hindernis verzögert den Bau der Straße. (Ein Hindernis verzögert den Bau der Straße.)"
+                },
+                {
+                    "word": "Die Lösung",
+                    "reading": "LOE-zoong",
+                    "meaning": "Solution",
+                    "example_sentence": "Ich habe eine einfache Lösung für das Problem. (Ich habe eine einfache Lösung für das Problem.)"
+                },
+                {
+                    "word": "Die Alternative",
+                    "reading": "al-ter-na-TEE-ve",
+                    "meaning": "Alternative",
+                    "example_sentence": "Gibt es eine gesündere Alternative zum Zucker? (Is there a healthier alternative to sugar?)"
+                },
+                {
+                    "word": "Die Entscheidung",
+                    "reading": "ent-SHY-doong",
+                    "meaning": "Decision",
+                    "example_sentence": "Die endgültige Entscheidung liegt beim Chef. (The final decision lies with the boss.)"
+                },
+                {
+                    "word": "Die Perspektive",
+                    "reading": "per-shpek-TEE-ve",
+                    "meaning": "Perspective",
+                    "example_sentence": "Aus dieser Perspektive sieht die Sache ganz anders aus. (From this perspective, the matter looks quite different.)"
+                },
+                {
+                    "word": "Der Wissensaustausch",
+                    "reading": "VIS-ens-ows-towsh",
+                    "meaning": "Knowledge exchange",
+                    "example_sentence": "Der Wissensaustausch zwischen den Abteilungen klappt gut. (The knowledge exchange between the departments works well.)"
+                },
+                {
+                    "word": "Die Fachkompetenz",
+                    "reading": "FAKH-kom-pe-tents",
+                    "meaning": "Expertise [B1 Upgrade for Kompetenz]",
+                    "example_sentence": "Ihre Fachkompetenz ist in der Branche bekannt. (Her expertise is well-known in the industry.)"
+                },
+                {
+                    "word": "Das Talent",
+                    "reading": "ta-LENT",
+                    "meaning": "Talent",
+                    "example_sentence": "Er hat ein großes Talent für Sprachen. (He has a great talent for languages.)"
+                },
+                {
+                    "word": "Die Begeisterungsfähigkeit",
+                    "reading": "be-GYS-te-roongs-fay-ish-kyte",
+                    "meaning": "Capacity for enthusiasm [B1 Upgrade for Leidenschaft]",
+                    "example_sentence": "Ihre Begeisterungsfähigkeit steckt das ganze Team an. (Her capacity for enthusiasm is contagious to the whole team.)"
+                },
+                {
+                    "word": "Die Berufsberatung",
+                    "reading": "be-ROOFS-be-rah-toong",
+                    "meaning": "Career counseling",
+                    "example_sentence": "Die Berufsberatung hilft Schülern bei der Jobsuche. (Career counseling helps students with their job search.)"
+                },
+                {
+                    "word": "Die Fachkraft",
+                    "reading": "FAKH-kraft",
+                    "meaning": "Skilled worker",
+                    "example_sentence": "In diesem Bereich suchen wir dringend eine Fachkraft. (In this field, we are urgently looking for a skilled worker.)"
+                },
+                {
+                    "word": "Die Weiterentwicklung",
+                    "reading": "VY-ter-ent-vik-loong",
+                    "meaning": "Further development",
+                    "example_sentence": "Die Weiterentwicklung der Software ist fast fertig. (The further development of the software is almost finished.)"
+                },
+                {
+                    "word": "Das Arbeitszeugnis",
+                    "reading": "AR-byts-tsoyg-nis",
+                    "meaning": "Job reference",
+                    "example_sentence": "Das Arbeitszeugnis war sehr positiv formuliert. (The job reference was phrased very positively.)"
+                },
+                {
+                    "word": "Der Kündigungsschutz",
+                    "reading": "KUEN-dee-goongs-shoots",
+                    "meaning": "Protection against dismissal",
+                    "example_sentence": "Der Kündigungsschutz gilt nach sechs Monaten. (Protection against dismissal applies after six months.)"
+                },
+                {
+                    "word": "Die Sozialversicherung",
+                    "reading": "zo-TSYAL-fer-zikh-e-roong",
+                    "meaning": "Social insurance",
+                    "example_sentence": "Die Beiträge zur Sozialversicherung werden direkt abgezogen. (Social insurance contributions are deducted directly.)"
+                },
+                {
+                    "word": "Der Betriebsrat",
+                    "reading": "be-TREEPS-raht",
+                    "meaning": "Works council",
+                    "example_sentence": "Der Betriebsrat vertritt die Interessen der Arbeitnehmer. (The works council represents the interests of the employees.)"
+                },
+                {
+                    "word": "Das Streikrecht",
+                    "reading": "SHTRYK-rekht",
+                    "meaning": "Right to strike",
+                    "example_sentence": "Das Streikrecht ist in Deutschland gesetzlich geschützt. (The right to strike is legally protected in Germany.)"
+                },
+                {
+                    "word": "Die Gewerkschaft",
+                    "reading": "ge-VERK-shaft",
+                    "meaning": "Labor union",
+                    "example_sentence": "Die Gewerkschaft verhandelt über höhere Löhne. (The union is negotiating for higher wages.)"
+                },
+                {
+                    "word": "Das Ehrenamt",
+                    "reading": "AY-ren-amt",
+                    "meaning": "Voluntary work",
+                    "example_sentence": "Sie engagiert sich in einem Ehrenamt beim Roten Kreuz. (She is involved in voluntary work with the Red Cross.)"
+                },
+                {
+                    "word": "Die Barrierefreiheit",
+                    "reading": "ba-RYE-re-fry-hyte",
+                    "meaning": "Accessibility (physical)",
+                    "example_sentence": "Barrierefreiheit ist wichtig für Menschen im Rollstuhl. (Accessibility is important for people in wheelchairs.)"
+                },
+                {
+                    "word": "Der Body [TRAP]",
+                    "reading": "dehr BO-dee",
+                    "meaning": "Bodysuit/Leotard (NOT human body) [Liar Game]",
+                    "example_sentence": "Das Baby trägt einen blauen Body. (The baby is wearing a blue bodysuit.)"
+                },
+                {
+                    "word": "Das Event [TRAP]",
+                    "reading": "ee-VENT",
+                    "meaning": "Organized event (NOT a random occurrence) [Liar Game]",
+                    "example_sentence": "Das Event war komplett ausverkauft. (The event was completely sold out.)"
+                },
+                {
+                    "word": "Die Provision [TRAP]",
+                    "reading": "pro-vee-ZYOHN",
+                    "meaning": "Commission (NOT provision) [Liar Game]",
+                    "example_sentence": "Der Makler bekommt eine hohe Provision. (Der Makler bekommt eine hohe Provision.)"
+                },
+                {
+                    "word": "Spenden [TRAP]",
+                    "reading": "SHPEN-den",
+                    "meaning": "To donate (NOT to spend/ausgeben) [Liar Game]",
+                    "example_sentence": "Wir spenden jedes Jahr für die Krebshilfe. (Wir spenden jedes Jahr für die Krebshilfe.)"
+                },
+                {
+                    "word": "Wer [TRAP]",
+                    "reading": "vehr",
+                    "meaning": "Who (NOT where/wo) [Liar Game]",
+                    "example_sentence": "Wer hat den letzten Keks gegessen? (Wer hat den letzten Keks gegessen?)"
+                },
+                {
+                    "word": "Viel Erfolg bei der Arbeit!",
+                    "reading": "FEEL er-FOLK by dehr AR-byte",
+                    "meaning": "Good luck at work!",
+                    "example_sentence": "Ich wünsche dir viel Erfolg bei deiner neuen Arbeit! (Ich wünsche dir viel Erfolg bei deiner neuen Arbeit!)"
+                },
+                {
+                    "word": "Die Kernarbeitszeit",
+                    "reading": "KERN-ar-byts-tsyte",
+                    "meaning": "Core working hours [New #99]",
+                    "example_sentence": "Während der Kernarbeitszeit müssen alle anwesend sein. (Everyone must be present during core working hours.)"
+                },
+                {
+                    "word": "Die Remote-Arbeitskraft",
+                    "reading": "re-MOHT-ar-byts-kraft",
+                    "meaning": "Remote worker [New #100]",
+                    "example_sentence": "Als Remote-Arbeitskraft kann ich von überall aus arbeiten. (As a remote worker, I can work from anywhere.)"
+                }
+            ],
+            "liar_game_data": {
+                "trap": "Corporate False Friends: Provision & Body",
+                "correct_version": "Provision means Commission; Body means a Bodysuit.",
+                "explanation": "In German business, 'Provision' is what a salesperson earns, not 'supplies'. A 'Body' is a piece of clothing (like for babies or gymnastics), not the actual human body."
+            }
+        }
+    ]
+}
