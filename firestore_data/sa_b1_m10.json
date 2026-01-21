@@ -1,0 +1,672 @@
+{
+    "moduleId": "sa_b1_m10",
+    "theme": "Vedic Cosmology & Transcendental Space",
+    "title": "Vedic Cosmology & Transcendental Space",
+    "level": "b1",
+    "language": "sanskrit",
+    "order": 10,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "हिरण्यगर्भः",
+                    "reading": "Hi-ran-ya-gar-bhah",
+                    "meaning": "Golden Egg / Cosmic Source (Trap Word)",
+                    "example_sentence": "हिरण्यगर्भः सृष्टेः आदिकारणम्। (Hiranyagarbha is the source of creation.) [LIAR GAME TRAP]"
+                },
+                {
+                    "word": "सप्तलोकाः",
+                    "reading": "Sap-ta-lo-kaah",
+                    "meaning": "Seven planes of existence",
+                    "example_sentence": "सप्तलोकाः ब्रह्माण्डे सन्ति। (Seven planes exist in the universe.)"
+                },
+                {
+                    "word": "भूलोकः",
+                    "reading": "Bhoo-lo-kah",
+                    "meaning": "Earthly plane",
+                    "example_sentence": "भूलोकः मर्त्यलोकः अस्ति। (Bhuloka is the earthly plane.)"
+                },
+                {
+                    "word": "भुवर्लोकः",
+                    "reading": "Bhu-var-lo-kah",
+                    "meaning": "Intermediate / Astral plane",
+                    "example_sentence": "भुवर्लोकः अन्तरिक्षलोकः। (Bhuvarloka is the astral plane.)"
+                },
+                {
+                    "word": "स्वर्लोकः",
+                    "reading": "Svar-lo-kah",
+                    "meaning": "Heavenly plane",
+                    "example_sentence": "स्वर्लोकः देवानां स्थानम्। (Svarloka is the place of gods.)"
+                },
+                {
+                    "word": "महर्लोकः",
+                    "reading": "Ma-har-lo-kah",
+                    "meaning": "Plane of solar sages",
+                    "example_sentence": "महर्लोकः ऋषीणां लोकः। (Maharloka is the plane of sages.)"
+                },
+                {
+                    "word": "जनलोकः",
+                    "reading": "Ja-na-lo-kah",
+                    "meaning": "Plane of creation",
+                    "example_sentence": "जनलोकः देवपुत्राणां स्थानम्। (Janaloka is the plane of creation.)"
+                },
+                {
+                    "word": "तपोलोकः",
+                    "reading": "Ta-po-lo-kah",
+                    "meaning": "Plane of austerity",
+                    "example_sentence": "तपोलोकः वैराजपुत्राणां स्थानम्। (Tapoloka is the plane of austerity.)"
+                },
+                {
+                    "word": "सत्यलोकः",
+                    "reading": "Sat-ya-lo-kah",
+                    "meaning": "Plane of ultimate truth",
+                    "example_sentence": "सत्यलोकः ब्रह्मणः लोकः। (Satyaloka is Brahma's plane.)"
+                },
+                {
+                    "word": "अतलम्",
+                    "reading": "A-ta-lam",
+                    "meaning": "Bottomless nether world",
+                    "example_sentence": "अतलं प्रथमं पातालम्। (Atala is the first nether world.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "वितलम्",
+                    "reading": "Vi-ta-lam",
+                    "meaning": "Second nether world",
+                    "example_sentence": "वितलं हाटकेश्वरस्य स्थानम्। (Vitala is Hatakeshwara's place.)"
+                },
+                {
+                    "word": "सुतलम्",
+                    "reading": "Su-ta-lam",
+                    "meaning": "Third nether world",
+                    "example_sentence": "सुतलं बलेः स्थानम् अस्ति। (Sutala is Bali's place.)"
+                },
+                {
+                    "word": "तलातलम्",
+                    "reading": "Ta-laa-ta-lam",
+                    "meaning": "Fourth nether world",
+                    "example_sentence": "तलातलं मयस्य स्थानम्। (Talatala is Maya's place.)"
+                },
+                {
+                    "word": "महातलम्",
+                    "reading": "Ma-haa-ta-lam",
+                    "meaning": "Fifth nether world",
+                    "example_sentence": "महातलं सर्पाणां स्थानम्। (Mahatala is the serpents' place.)"
+                },
+                {
+                    "word": "रसातलम्",
+                    "reading": "Ra-saa-ta-lam",
+                    "meaning": "Sixth nether world",
+                    "example_sentence": "रसातलं दैत्यानां स्थानम्। (Rasatala is the Daityas' place.)"
+                },
+                {
+                    "word": "पातालम्",
+                    "reading": "Paa-taa-lam",
+                    "meaning": "Seventh nether world / Abyss",
+                    "example_sentence": "पातालं नागलोकः अस्ति। (Patala is the Naga world.)"
+                },
+                {
+                    "word": "अहर्निशम्",
+                    "reading": "A-har-ni-sham",
+                    "meaning": "Day and night continuously",
+                    "example_sentence": "अहर्निशं कालप्रवाहः। (Day and night is time flow.)"
+                },
+                {
+                    "word": "दिगन्तम्",
+                    "reading": "Di-gan-tam",
+                    "meaning": "The end of the directions / Horizon",
+                    "example_sentence": "दिगन्तं क्षितिजम् अस्ति। (Diganta is the horizon.)"
+                },
+                {
+                    "word": "ब्रह्माण्डकटाहा",
+                    "reading": "Brah-maan-da-ka-taa-haa",
+                    "meaning": "The shell of the cosmic egg",
+                    "example_sentence": "ब्रह्माण्डकटाहा विश्वकोशः। (Brahmandakataha is cosmic shell.)"
+                },
+                {
+                    "word": "लोकालोकः",
+                    "reading": "Lo-kaa-lo-kah",
+                    "meaning": "Limit between the world and non-world",
+                    "example_sentence": "लोकालोकः पर्वतविशेषः। (Lokaloka is a boundary mountain.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "मेरुः",
+                    "reading": "Me-ruh",
+                    "meaning": "The cosmic axis mountain",
+                    "example_sentence": "मेरुः पृथिव्याः अक्षः। (Meru is the axis of earth.)"
+                },
+                {
+                    "word": "सुमेरुः",
+                    "reading": "Su-me-ruh",
+                    "meaning": "The auspicious Meru",
+                    "example_sentence": "सुमेरुः उत्तराक्षः अस्ति। (Sumeru is the northern axis.)"
+                },
+                {
+                    "word": "कुमेरुः",
+                    "reading": "Ku-me-ruh",
+                    "meaning": "The southern axis point",
+                    "example_sentence": "कुमेरुः दक्षिणाक्षः अस्ति। (Kumeru is the southern axis.)"
+                },
+                {
+                    "word": "जम्बुद्वीपः",
+                    "reading": "Jam-bu-dvee-pah",
+                    "meaning": "The island of the Jambu tree / India",
+                    "example_sentence": "जम्बुद्वीपः अस्माकं देशः। (Jambudvipa is our country.)"
+                },
+                {
+                    "word": "क्षारसागरः",
+                    "reading": "Kshaa-ra-saa-ga-rah",
+                    "meaning": "The ocean of salt water",
+                    "example_sentence": "क्षारसागरः लवणसमुद्रः। (Ksharasagara is salt ocean.)"
+                },
+                {
+                    "word": "क्षीरसागरः",
+                    "reading": "Kshee-ra-saa-ga-rah",
+                    "meaning": "The ocean of milk",
+                    "example_sentence": "क्षीरसागरः विष्णोः स्थानम्। (Kshirasagara is Vishnu's place.)"
+                },
+                {
+                    "word": "घृतसागरः",
+                    "reading": "Ghru-ta-saa-ga-rah",
+                    "meaning": "The ocean of ghee",
+                    "example_sentence": "घृतसागरः घृतजलराशिः। (Ghrutasagara is ghee ocean.)"
+                },
+                {
+                    "word": "इक्षुसागरः",
+                    "reading": "Ik-shu-saa-ga-rah",
+                    "meaning": "The ocean of sugarcane juice",
+                    "example_sentence": "इक्षुसागरः इक्षुरससमुद्रः। (Ikshusagara is sugar ocean.)"
+                },
+                {
+                    "word": "मदिरासागरः",
+                    "reading": "Ma-di-raa-saa-ga-rah",
+                    "meaning": "The ocean of wine",
+                    "example_sentence": "मदिरासागरः सुरासमुद्रः। (Madirasagara is wine ocean.)"
+                },
+                {
+                    "word": "दधिसमुद्रः",
+                    "reading": "Da-dhi-sa-mud-rah",
+                    "meaning": "The ocean of curds",
+                    "example_sentence": "दधिसमुद्रः दधिसमुद्रराशिः। (Dadhisamudra is curd ocean.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "शुद्धोदकः",
+                    "reading": "Shud-dho-da-kah",
+                    "meaning": "The ocean of pure water",
+                    "example_sentence": "शुद्धोदकः निर्मलजलसमुद्रः। (Shuddhodaka is pure water ocean.)"
+                },
+                {
+                    "word": "कालचक्रम्",
+                    "reading": "Kaa-la-chak-ram",
+                    "meaning": "The wheel of time",
+                    "example_sentence": "कालचक्रं निरन्तरं चलति। (The wheel of time moves constantly.)"
+                },
+                {
+                    "word": "अन्तरालम्",
+                    "reading": "An-ta-raa-lam",
+                    "meaning": "Intermediary space",
+                    "example_sentence": "अन्तरालं मध्यदेशः अस्ति। (Antarala is intermediary space.)"
+                },
+                {
+                    "word": "व्योम",
+                    "reading": "Vyo-ma",
+                    "meaning": "Aether / Boundless sky",
+                    "example_sentence": "व्योम पञ्चभूतम् अस्ति। (Vyoma is one of five elements.)"
+                },
+                {
+                    "word": "चिदाकाशः",
+                    "reading": "Chi-daa-kaa-shah",
+                    "meaning": "Space of pure consciousness",
+                    "example_sentence": "चिदाकाशः आन्तरिकव्योम। (Chidakasha is inner space.)"
+                },
+                {
+                    "word": "दहराकाशः",
+                    "reading": "Da-ha-raa-kaa-shah",
+                    "meaning": "Space within the heart",
+                    "example_sentence": "दहराकाशः हृदयगगनम्। (Daharakasha is heart space.)"
+                },
+                {
+                    "word": "महाकाशः",
+                    "reading": "Ma-haa-kaa-shah",
+                    "meaning": "Infinite physical space",
+                    "example_sentence": "महाकाशः बाह्यव्योम अस्ति। (Mahakasha is infinite physical space.)"
+                },
+                {
+                    "word": "अहङ्कारः",
+                    "reading": "A-han-kaa-rah",
+                    "meaning": "Cosmic ego / Individualization",
+                    "example_sentence": "अहङ्कारः अहम्भावः अस्ति। (Ahankara is cosmic ego.)"
+                },
+                {
+                    "word": "बुद्धिः",
+                    "reading": "Bud-dhih",
+                    "meaning": "Cosmic intellect / Mahat",
+                    "example_sentence": "बुद्धिः महत्तत्त्वम् अस्ति। (Buddhi is cosmic intellect.)"
+                },
+                {
+                    "word": "अव्यक्तम्",
+                    "reading": "A-vyak-tam",
+                    "meaning": "The Unmanifest",
+                    "example_sentence": "अव्यक्तं प्रकृत्याः मूलम्। (Avyakta is source of nature.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "अक्षरम्",
+                    "reading": "Ak-sha-ram",
+                    "meaning": "The Imperishable",
+                    "example_sentence": "अक्षरं नित्यतत्त्वम् अस्ति। (Akshara is eternal principle.)"
+                },
+                {
+                    "word": "कूटस्थः",
+                    "reading": "Koo-tas-thah",
+                    "meaning": "Immovable / Peak-seated",
+                    "example_sentence": "कूटस्थः निर्विकारः अस्ति। (Kutastha is immovable.)"
+                },
+                {
+                    "word": "अविकारी",
+                    "reading": "A-vi-kaa-ree",
+                    "meaning": "Unchanging / Immutable",
+                    "example_sentence": "अविकारी नित्यः अस्ति। (Avikari is unchanging.)"
+                },
+                {
+                    "word": "अनादिः",
+                    "reading": "A-naa-dih",
+                    "meaning": "Beginingless",
+                    "example_sentence": "अनादिः आदिहीनः अस्ति। (Anadi is beginningless.)"
+                },
+                {
+                    "word": "अनन्तः",
+                    "reading": "A-nan-tah",
+                    "meaning": "Endless",
+                    "example_sentence": "अनन्तः सीमाहीनः अस्ति। (Ananta is endless.)"
+                },
+                {
+                    "word": "अपारम्",
+                    "reading": "A-paa-ram",
+                    "meaning": "Shoreless / Boundless",
+                    "example_sentence": "अपारं असीमम् अस्ति। (Apara is boundless.)"
+                },
+                {
+                    "word": "परमपदम्",
+                    "reading": "Pa-ra-ma-pa-dam",
+                    "meaning": "Supreme abode / State",
+                    "example_sentence": "परमपदं विष्णोः स्थानम्। (Paramapada is supreme abode.)"
+                },
+                {
+                    "word": "वैकुण्ठम्",
+                    "reading": "Vai-kun-tham",
+                    "meaning": "The place of no anxiety",
+                    "example_sentence": "वैकुण्ठं चिन्ताहीनं स्थानम्। (Vaikuntha is anxiety-free place.)"
+                },
+                {
+                    "word": "कैलासः",
+                    "reading": "Kai-laa-sah",
+                    "meaning": "Crystal peak / Shiva's abode",
+                    "example_sentence": "कैलासः रजतगिरिः अस्ति। (Kailasa is the crystal peak.)"
+                },
+                {
+                    "word": "निर्वाणम्",
+                    "reading": "Nir-vaa-nam",
+                    "meaning": "Extinction of ego / Blissful void",
+                    "example_sentence": "निर्वाणं शान्तिपदम् अस्ति। (Nirvana is the peaceful state.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "मोक्षद्वारम्",
+                    "reading": "Mok-sha-dvaa-ram",
+                    "meaning": "The gate to liberation",
+                    "example_sentence": "मोक्षद्वारं गुरुः अस्ति। (Guru is the gate to liberation.)"
+                },
+                {
+                    "word": "सलोकता",
+                    "reading": "Sa-lo-ka-taa",
+                    "meaning": "Residence in same world as God",
+                    "example_sentence": "सलोकता मुक्तिभेदः अस्ति। (Salokata is a type of liberation.)"
+                },
+                {
+                    "word": "सामीप्यता",
+                    "reading": "Saa-meep-ya-taa",
+                    "meaning": "Proximity to the Divine",
+                    "example_sentence": "सामीप्यता ईश्वराभ्यर्णता। (Samipyata is proximity to God.)"
+                },
+                {
+                    "word": "सारूप्यता",
+                    "reading": "Saa-roop-ya-taa",
+                    "meaning": "Likeness to the Divine form",
+                    "example_sentence": "सारूप्यता ईश्वराकारता। (Sarupyata is divine-likeness.)"
+                },
+                {
+                    "word": "सायुज्यता",
+                    "reading": "Saa-yuj-ya-taa",
+                    "meaning": "Union / Merging into Divine",
+                    "example_sentence": "सायुज्यता एकात्मभावः। (Sayujyata is merging union.)"
+                },
+                {
+                    "word": "एकत्वम्",
+                    "reading": "E-kat-vam",
+                    "meaning": "Oneness",
+                    "example_sentence": "एकत्वं अद्वैतम् अस्ति। (Ekatvam is oneness.)"
+                },
+                {
+                    "word": "विभूतिः",
+                    "reading": "Vi-bhoo-tih",
+                    "meaning": "Divine manifestation / Glory",
+                    "example_sentence": "विभूतिः ऐश्वर्यम् अस्ति। (Vibhuti is divine glory.)"
+                },
+                {
+                    "word": "ऐश्वर्यम्",
+                    "reading": "Ai-shvar-yam",
+                    "meaning": "Sovereignty / Divine power",
+                    "example_sentence": "ऐश्वर्यं ईशशक्त्तः। (Aishvarya is divine power.)"
+                },
+                {
+                    "word": "लीला",
+                    "reading": "Lee-laa",
+                    "meaning": "Divine play / Cosmic sport",
+                    "example_sentence": "लीला विष्णोः विलासः। (Lila is Vishnu's cosmic sport.)"
+                },
+                {
+                    "word": "सङ्कल्पः",
+                    "reading": "San-kal-pah",
+                    "meaning": "Divine will / Resolve",
+                    "example_sentence": "सङ्कल्पः सृष्टिकारणम्। (Sankalpa is cause of creation.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "प्रलयः",
+                    "reading": "Pra-la-yah",
+                    "meaning": "Cosmic dissolution",
+                    "example_sentence": "प्रलयः जगतः लयः अस्ति। (Pralaya is world dissolution.)"
+                },
+                {
+                    "word": "महाप्रलयः",
+                    "reading": "Ma-haa-pra-la-yah",
+                    "meaning": "Great dissolution of universe",
+                    "example_sentence": "महाप्रलयः अन्तकाले भवति। (Mahapralaya happens at time end.)"
+                },
+                {
+                    "word": "सर्गः",
+                    "reading": "Sar-gah",
+                    "meaning": "Primary creation",
+                    "example_sentence": "सर्गः सृष्टिः अस्ति। (Sarga is primary creation.)"
+                },
+                {
+                    "word": "विसर्गः",
+                    "reading": "Vi-sar-gah",
+                    "meaning": "Secondary / Sub-creation",
+                    "example_sentence": "विसर्गः उपसृष्टिः अस्ति। (Visarga is sub-creation.)"
+                },
+                {
+                    "word": "स्थितिः",
+                    "reading": "Sthi-tih",
+                    "meaning": "Maintenance / Preservation",
+                    "example_sentence": "स्थितिः पालनम् अस्ति। (Sthiti is preservation.)"
+                },
+                {
+                    "word": "तिरोधानम्",
+                    "reading": "Ti-ro-dhaa-nam",
+                    "meaning": "Concealment / Veiling",
+                    "example_sentence": "तिरोधानं मायाकार्यम्। (Tirodhana is Maya's veiling.)"
+                },
+                {
+                    "word": "अनुग्रहः",
+                    "reading": "A-nu-gra-hah",
+                    "meaning": "Bestowal of grace",
+                    "example_sentence": "अनुग्रहः ईश्वरकृपा अस्ति। (Anugraha is divine grace.)"
+                },
+                {
+                    "word": "पञ्चकृत्यम्",
+                    "reading": "Pan-cha-krut-yam",
+                    "meaning": "The five cosmic acts",
+                    "example_sentence": "पञ्चकृत्यं शिवकर्म अस्ति। (Panchakritya is Shiva's act.)"
+                },
+                {
+                    "word": "चिदम्बरम्",
+                    "reading": "Chi-dam-ba-ram",
+                    "meaning": "The sky of consciousness",
+                    "example_sentence": "चिदम्बरं ज्ञानाकाशः अस्ति। (Chidambaram is sky of knowledge.)"
+                },
+                {
+                    "word": "सहस्रारः",
+                    "reading": "Sa-has-raa-rah",
+                    "meaning": "The thousand-petaled lotus",
+                    "example_sentence": "सहस्रारः मूर्ध्नि अस्ति। (Sahasrara is in the head.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "अनाहतः",
+                    "reading": "A-naa-ha-tah",
+                    "meaning": "The unstruck sound center",
+                    "example_sentence": "अनाहतः हृदये अस्ति। (Anahata is in the heart.)"
+                },
+                {
+                    "word": "आज्ञाचक्रम्",
+                    "reading": "Aag-nyaa-chak-ram",
+                    "meaning": "The command center / Third eye",
+                    "example_sentence": "आज्ञाचक्रं भृुमध्ये अस्ति। (Ajnachakra is between brows.)"
+                },
+                {
+                    "word": "अमृतधारा",
+                    "reading": "Am-ru-ta-dhaa-raa",
+                    "meaning": "Stream of nectar",
+                    "example_sentence": "अमृतधारा ऊर्ध्वस्रवति। (Nectar stream flows upwards.)"
+                },
+                {
+                    "word": "नादविन्दुः",
+                    "reading": "Naa-da-vin-duh",
+                    "meaning": "Sound-point of creation",
+                    "example_sentence": "नादविन्दुः सर्गबिन्दुः अस्ति। (Nadabindu is creation point.)"
+                },
+                {
+                    "word": "परमाकाशः",
+                    "reading": "Pa-r-ma-ka-sha",
+                    "meaning": "Supreme Space",
+                    "example_sentence": "परमाकाशः ब्रह्म अस्ति। (Paramakasha is Brahman.)"
+                },
+                {
+                    "word": "अधियज्ञः",
+                    "reading": "A-dhi-yaj-nyah",
+                    "meaning": "The Lord of sacrifice",
+                    "example_sentence": "अधियज्ञः विष्णुः अस्ति। (Adhiyajna is Vishnu.)"
+                },
+                {
+                    "word": "अधिदैवतम्",
+                    "reading": "A-dhi-dai-va-tam",
+                    "meaning": "The Lord of deities",
+                    "example_sentence": "अधिदैवतं हिरण्यगर्भः। (Adhidaivata is Hiranyagarbha.)"
+                },
+                {
+                    "word": "अध्यात्मम्",
+                    "reading": "Adh-yaat-mam",
+                    "meaning": "The supreme self / Subjective",
+                    "example_sentence": "अध्यात्मं स्वरूपावबोधः। (Adhyatma is self-realization.)"
+                },
+                {
+                    "word": "अधिभूतम्",
+                    "reading": "A-dhi-bhoo-tam",
+                    "meaning": "The supreme material reality",
+                    "example_sentence": "अधिभूतं जगत् अस्ति। (Adhibhuta is the physical world.)"
+                },
+                {
+                    "word": "परा",
+                    "reading": "Pa-raa",
+                    "meaning": "Supreme / Transcendent",
+                    "example_sentence": "परा वाक् मूला अस्ति। (Para speech is the source.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "पश्यन्ती",
+                    "reading": "Pash-yan-tee",
+                    "meaning": "The visualized / Subtle speech",
+                    "example_sentence": "पश्यन्ती वाक् मानसी अस्ति। (Pashyanti is subtle speech.)"
+                },
+                {
+                    "word": "मध्यमा",
+                    "reading": "Mad-h-ya-maa",
+                    "meaning": "The intermediate / Mental speech",
+                    "example_sentence": "मध्यमा वाक् स्वरूपा अस्ति। (Madhyama is mental speech.)"
+                },
+                {
+                    "word": "वैखरी",
+                    "reading": "Vai-kha-ree",
+                    "meaning": "The articulated / Audible speech",
+                    "example_sentence": "वैखरी वाक् प्रकटा अस्ति। (Vaikhari is audible speech.)"
+                },
+                {
+                    "word": "शब्दब्रह्म",
+                    "reading": "Shab-da-brah-ma",
+                    "meaning": "The Absolute as Sound",
+                    "example_sentence": "शब्दब्रह्म मन्त्रात्मकम्। (Shabdabrahma is mantra-form.)"
+                },
+                {
+                    "word": "प्रणवः",
+                    "reading": "Pra-na-vah",
+                    "meaning": "The primordial sound OM",
+                    "example_sentence": "प्रणवः 'ओंकारः' अस्ति। (Pranava is the sound OM.)"
+                },
+                {
+                    "word": "उद्गीथः",
+                    "reading": "Ud-gee-thah",
+                    "meaning": "The high chant",
+                    "example_sentence": "उद्गीथः सामवेदगानम्। (Udgitha is Sama Veda chant.)"
+                },
+                {
+                    "word": "सामगानम्",
+                    "reading": "Saa-ma-gaa-nam",
+                    "meaning": "Chanting of the Sama Veda",
+                    "example_sentence": "सामगानं सङ्गीतमयम् अस्ति। (Samaganam is musical chanting.)"
+                },
+                {
+                    "word": "मन्त्रशक्तिः",
+                    "reading": "Man-tra-shak-tih",
+                    "meaning": "The power of the sacred chant",
+                    "example_sentence": "मन्त्रशक्तिः अचिन्त्या अस्ति। (Mantra power is inconceivable.)"
+                },
+                {
+                    "word": "सिद्धलोकः",
+                    "reading": "Sid-dha-lo-kah",
+                    "meaning": "Plane of the perfected ones",
+                    "example_sentence": "सिद्धलोकः सिद्धऋषीणाम्। (Siddhaloka is of perfected sages.)"
+                },
+                {
+                    "word": "ऋतम्",
+                    "reading": "Ru-tam",
+                    "meaning": "Cosmic order / Universal law",
+                    "example_sentence": "ऋतं विश्वनियमः अस्ति। (Ritam is universal law.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "सत्यम्",
+                    "reading": "Sat-yam",
+                    "meaning": "Existence / Eternal truth",
+                    "example_sentence": "सत्यं त्रिकालाबाधितम्। (Truth is beyond three times.)"
+                },
+                {
+                    "word": "ध्रुवपदम्",
+                    "reading": "Dhru-va-pa-dam",
+                    "meaning": "The eternal fixed state",
+                    "example_sentence": "ध्रुवपदं स्थिरस्थानम् अस्ति। (Dhruvapada is fixed state.)"
+                },
+                {
+                    "word": "विदेहा",
+                    "reading": "Vi-de-haa",
+                    "meaning": "State beyond the body",
+                    "example_sentence": "विदेहा मुक्तिः अस्ति। (Videha is disembodied liberation.)"
+                },
+                {
+                    "word": "अद्वैतनिष्ठा",
+                    "reading": "Ad-vai-ta-nish-thaa",
+                    "meaning": "Establishment in non-duality",
+                    "example_sentence": "अद्वैतनिष्ठा परमज्ञानम्। (Advaitanishtha is supreme knowledge.)"
+                },
+                {
+                    "word": "अखण्डाकारः",
+                    "reading": "A-khan-daa-kaa-rah",
+                    "meaning": "The form of the indivisible",
+                    "example_sentence": "अखण्डाकारः ब्रह्मस्वरूपः। (Akhandakara is Brahman-form.)"
+                },
+                {
+                    "word": "तटस्थः",
+                    "reading": "Ta-tas-thah",
+                    "meaning": "The marginal / Accidental attribute",
+                    "example_sentence": "तटस्थः बाह्यलक्षणम्। (Tatastha is marginal attribute.)"
+                },
+                {
+                    "word": "स्वरूपम्",
+                    "reading": "Sva-roo-pam",
+                    "meaning": "Essential nature / Real form",
+                    "example_sentence": "स्वरूपं स्वाभाविकं रूपम्। (Svarupa is essential nature.)"
+                },
+                {
+                    "word": "निराभासः",
+                    "reading": "Ni-raa-bhaa-sah",
+                    "meaning": "Void of reflections / Pure",
+                    "example_sentence": "निराभासः निर्मलः अस्ति। (Nirabhasa is pure/stainless.)"
+                },
+                {
+                    "word": "चिन्मात्रम्",
+                    "reading": "Chin-maat-ram",
+                    "meaning": "Pure consciousness alone",
+                    "example_sentence": "चिन्मात्रं परमतत्त्वम्। (Chinmatra is supreme reality.)"
+                },
+                {
+                    "word": "पूर्णत्वम्",
+                    "reading": "Poor-nat-vam",
+                    "meaning": "Wholeness / Plenitude",
+                    "example_sentence": "पूर्णत्वं परमावस्था अस्ति। (Wholeness is the supreme state.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Vedic Cosmic Ocean Trap",
+        "question": "What is unique about the 'Seven Oceans' (Saptasagara) in Vedic and Puranic cosmology?",
+        "options": [
+            "They are all made of salt water of varying temperatures",
+            "Each ocean is made of a different substance: salt, sugarcane juice, wine, ghee, curd, milk, and pure water",
+            "They represent the seven continents of the modern world",
+            "They were imagined as literal barriers to stop ships from leaving India"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Puranic cosmology (found in texts like Vishnu Purana) describes the earth as having seven concentric islands separated by seven unique oceans! This is a trap because many assume ancient oceans were all 'water'. The substances are symbolic and allegorical: (1) क्षार (Salt), (2) इक्षु (Sugarcane juice), (3) सुरा (Wine/Madira), (4) सर्पि (Ghee), (5) दधि (Curd/Whey), (6) क्षीर (Milk), and (7) शुद्धोद (Pure water). These represent concentric circles of increasing density/purity around the central mount मेरु (Meru). This framework was used to explain the hierarchical structure of the Universe and the descent of consciousness into matter. Understanding this reveals the sophisticated symbolic language ancient Indians used to map the 'Multiverse' millennia ago!"
+    }
+}

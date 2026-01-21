@@ -1,0 +1,609 @@
+{
+  "module_id": "es_a1_m02",
+  "level": "A1",
+  "language": "es",
+  "order": 2,
+  "theme": "Numbers, Colors, Family & Home",
+  "vocabularyItems": [
+    {
+      "translation": "One",
+      "usage": "Tengo un hermano y una hermana en mi familia, somos tres personas en total viviendo juntos.",
+      "phonetic": "/ˈu.no/",
+      "word": "Uno"
+    },
+    {
+      "word": "Dos",
+      "usage": "Necesito dos tazas de café por la mañana para despertarme bien y empezar el día con energía.",
+      "phonetic": "/dos/",
+      "translation": "Two"
+    },
+    {
+      "usage": "Mi apartamento tiene tres habitaciones: un dormitorio, una sala y una cocina pequeña pero funcional.",
+      "phonetic": "/tɾes/",
+      "translation": "Three",
+      "word": "Tres"
+    },
+    {
+      "usage": "La mesa de la cocina tiene cuatro sillas para que toda la familia pueda sentarse a comer junta.",
+      "phonetic": "/ˈkwa.tɾo/",
+      "word": "Cuatro",
+      "translation": "Four"
+    },
+    {
+      "word": "Cinco",
+      "phonetic": "/ˈsiŋ.ko/",
+      "usage": "Trabajo cinco días a la semana de lunes a viernes y descanso los fines de semana completos.",
+      "translation": "Five"
+    },
+    {
+      "phonetic": "/sejs/",
+      "word": "Seis",
+      "translation": "Six",
+      "usage": "Me levanto a las seis de la mañana todos los días para hacer ejercicio antes de ir al trabajo."
+    },
+    {
+      "word": "Siete",
+      "phonetic": "/ˈsje.te/",
+      "translation": "Seven",
+      "usage": "Mi hijo tiene siete años y ya va a la escuela primaria donde aprende a leer y escribir."
+    },
+    {
+      "word": "Ocho",
+      "phonetic": "/ˈo.tʃo/",
+      "translation": "Eight",
+      "usage": "La oficina abre a las ocho de la mañana y cierra a las cinco de la tarde todos los días."
+    },
+    {
+      "phonetic": "/ˈnwe.βe/",
+      "translation": "Nine",
+      "word": "Nueve",
+      "usage": "Ceno a las nueve de la noche después de llegar del trabajo y descansar un poco en casa."
+    },
+    {
+      "translation": "Ten",
+      "usage": "El libro que estoy leyendo tiene diez capítulos muy interesantes sobre la historia de España y su cultura.",
+      "word": "Diez",
+      "phonetic": "/djes/"
+    },
+    {
+      "phonetic": "/ˈon.se/",
+      "usage": "Mi prima tiene once años y le encanta jugar fútbol con sus amigas en el parque los domingos.",
+      "word": "Once",
+      "translation": "Eleven"
+    },
+    {
+      "phonetic": "/ˈdo.se/",
+      "translation": "Twelve",
+      "word": "Doce",
+      "usage": "Almuerzo al mediodía, a las doce en punto, con mis compañeros de trabajo en el restaurante cercano."
+    },
+    {
+      "word": "Trece",
+      "translation": "Thirteen",
+      "usage": "Mi hermana menor tiene trece años y está en la escuela secundaria estudiando matemáticas y ciencias.",
+      "phonetic": "/ˈtɾe.se/"
+    },
+    {
+      "usage": "El edificio donde vivo tiene catorce pisos y yo vivo en el décimo piso con vista al parque.",
+      "phonetic": "/kaˈtoɾ.se/",
+      "word": "Catorce",
+      "translation": "Fourteen"
+    },
+    {
+      "phonetic": "/ˈkin.se/",
+      "usage": "El autobús pasa cada quince minutos por esta parada, así que nunca tengo que esperar mucho tiempo.",
+      "translation": "Fifteen",
+      "word": "Quince"
+    },
+    {
+      "translation": "Sixteen",
+      "phonetic": "/djeθiˈsejs/",
+      "usage": "Mi sobrino cumple dieciséis años el próximo mes y vamos a hacer una fiesta grande para celebrarlo.",
+      "word": "Dieciséis"
+    },
+    {
+      "usage": "La temperatura hoy es de diecisiete grados, perfecto para salir a caminar por el parque sin abrigo.",
+      "translation": "Seventeen",
+      "word": "Diecisiete",
+      "phonetic": "/djeθiˈsje.te/"
+    },
+    {
+      "phonetic": "/djeθiˈo.tʃo/",
+      "word": "Dieciocho",
+      "usage": "Mi hijo mayor tiene dieciocho años y acaba de empezar la universidad para estudiar ingeniería civil.",
+      "translation": "Eighteen"
+    },
+    {
+      "translation": "Nineteen",
+      "usage": "El restaurante cierra a las diecinueve horas los días de semana, pero los fines de semana hasta más tarde.",
+      "word": "Diecinueve",
+      "phonetic": "/djeθiˈnwe.βe/"
+    },
+    {
+      "word": "Veinte",
+      "phonetic": "/ˈbejn.te/",
+      "usage": "Tengo veinte minutos de camino desde mi casa hasta la oficina si voy caminando por el parque.",
+      "translation": "Twenty"
+    },
+    {
+      "word": "Rojo",
+      "translation": "Red",
+      "usage": "Mi coche es rojo brillante y es muy fácil de encontrar en el estacionamiento del centro comercial.",
+      "phonetic": "/ˈro.xo/"
+    },
+    {
+      "word": "Azul",
+      "translation": "Blue",
+      "phonetic": "/aˈsul/",
+      "usage": "El cielo está azul y despejado hoy, perfecto para ir a la playa con la familia este domingo."
+    },
+    {
+      "word": "Verde",
+      "phonetic": "/ˈbeɾ.ðe/",
+      "translation": "Green",
+      "usage": "Me gusta el color verde porque me recuerda a la naturaleza, los árboles y los parques hermosos."
+    },
+    {
+      "word": "Amarillo",
+      "phonetic": "/amaˈɾi.ʝo/",
+      "usage": "El autobús escolar es amarillo y pasa por mi calle todas las mañanas a las siete y media.",
+      "translation": "Yellow"
+    },
+    {
+      "word": "Blanco",
+      "translation": "White",
+      "usage": "Las paredes de mi apartamento son blancas y hacen que las habitaciones se vean más grandes y luminosas.",
+      "phonetic": "/ˈblaŋ.ko/"
+    },
+    {
+      "word": "Negro",
+      "phonetic": "/ˈne.ɣɾo/",
+      "translation": "Black",
+      "usage": "Prefiero el café negro sin azúcar ni leche porque me gusta el sabor fuerte y amargo del café."
+    },
+    {
+      "usage": "El cielo está gris hoy y parece que va a llover, así que voy a llevar mi paraguas.",
+      "phonetic": "/ɡɾis/",
+      "word": "Gris",
+      "translation": "Gray"
+    },
+    {
+      "translation": "Brown",
+      "usage": "Mi sofá es marrón oscuro y combina perfectamente con la mesa de madera de la sala de estar.",
+      "word": "Marrón",
+      "phonetic": "/maˈron/"
+    },
+    {
+      "translation": "Orange",
+      "word": "Naranja",
+      "phonetic": "/naˈɾaŋ.xa/",
+      "usage": "Me encanta el color naranja porque es alegre y vibrante, como el atardecer en la playa al final del día."
+    },
+    {
+      "word": "Rosa",
+      "translation": "Pink",
+      "phonetic": "/ˈro.sa/",
+      "usage": "Mi hija pequeña adora el color rosa y todas sus cosas son de ese color, desde su ropa hasta sus juguetes."
+    },
+    {
+      "word": "Familia",
+      "phonetic": "/faˈmi.lja/",
+      "translation": "Family",
+      "usage": "Mi familia es muy importante para mí y pasamos mucho tiempo juntos los fines de semana comiendo y conversando."
+    },
+    {
+      "phonetic": "/ˈma.ðɾe/",
+      "usage": "Mi madre cocina delicioso y siempre prepara comida tradicional los domingos para toda la familia reunida en casa.",
+      "translation": "Mother",
+      "word": "Madre"
+    },
+    {
+      "phonetic": "/ˈpa.ðɾe/",
+      "usage": "Mi padre trabaja como ingeniero y siempre me ayuda con mis proyectos de matemáticas y ciencias en la escuela.",
+      "word": "Padre",
+      "translation": "Father"
+    },
+    {
+      "word": "Hijo",
+      "translation": "Son",
+      "usage": "Mi hijo mayor estudia medicina en la universidad y quiere ser doctor para ayudar a las personas enfermas.",
+      "phonetic": "/ˈi.xo/"
+    },
+    {
+      "translation": "Daughter",
+      "word": "Hija",
+      "phonetic": "/ˈi.xa/",
+      "usage": "Mi hija menor tiene cinco años y le encanta dibujar y pintar con colores brillantes todos los días."
+    },
+    {
+      "usage": "Mi hermano vive en otra ciudad pero nos llamamos por teléfono cada semana para hablar de nuestras vidas.",
+      "word": "Hermano",
+      "phonetic": "/eɾˈma.no/",
+      "translation": "Brother"
+    },
+    {
+      "usage": "Mi hermana y yo somos muy cercanas y salimos juntas de compras todos los sábados por la tarde.",
+      "translation": "Sister",
+      "word": "Hermana",
+      "phonetic": "/eɾˈma.na/"
+    },
+    {
+      "phonetic": "/aˈβwe.lo/",
+      "word": "Abuelo",
+      "translation": "Grandfather",
+      "usage": "Mi abuelo tiene ochenta años y todavía camina todos los días por el parque cerca de su casa."
+    },
+    {
+      "usage": "Mi abuela hace el mejor pan casero del mundo y siempre nos trae cuando viene a visitarnos los domingos.",
+      "word": "Abuela",
+      "translation": "Grandmother",
+      "phonetic": "/aˈβwe.la/"
+    },
+    {
+      "phonetic": "/ˈti.o/",
+      "word": "Tío",
+      "translation": "Uncle",
+      "usage": "Mi tío es muy divertido y siempre cuenta historias graciosas en las reuniones familiares que nos hacen reír mucho."
+    },
+    {
+      "phonetic": "/ˈti.a/",
+      "usage": "Mi tía es profesora de español y me ayuda con mis tareas de gramática cuando tengo dificultades en la escuela.",
+      "word": "Tía",
+      "translation": "Aunt"
+    },
+    {
+      "translation": "Cousin (male)",
+      "phonetic": "/ˈpɾi.mo/",
+      "usage": "Mi primo y yo jugamos fútbol juntos todos los fines de semana en el parque cerca de nuestras casas.",
+      "word": "Primo"
+    },
+    {
+      "word": "Prima",
+      "translation": "Cousin (female)",
+      "phonetic": "/ˈpɾi.ma/",
+      "usage": "Mi prima vive en el mismo edificio que yo y vamos juntas a la escuela todas las mañanas caminando."
+    },
+    {
+      "word": "Esposo",
+      "usage": "Mi esposo trabaja en una oficina en el centro de la ciudad y regresa a casa todas las noches.",
+      "phonetic": "/esˈpo.so/",
+      "translation": "Husband"
+    },
+    {
+      "phonetic": "/esˈpo.sa/",
+      "usage": "Mi esposa es doctora en el hospital local y ayuda a muchas personas enfermas todos los días con dedicación.",
+      "word": "Esposa",
+      "translation": "Wife"
+    },
+    {
+      "usage": "Nuestra casa tiene un jardín grande donde los niños pueden jugar y correr libremente los fines de semana.",
+      "translation": "House",
+      "phonetic": "/ˈka.sa/",
+      "word": "Casa"
+    },
+    {
+      "word": "Apartamento",
+      "translation": "Apartment",
+      "usage": "Vivo en un apartamento pequeño pero cómodo en el tercer piso de un edificio moderno en el centro.",
+      "phonetic": "/apaɾtaˈmen.to/"
+    },
+    {
+      "word": "Cocina",
+      "phonetic": "/koˈsi.na/",
+      "translation": "Kitchen",
+      "usage": "La cocina de mi casa es grande y tiene todos los electrodomésticos necesarios para preparar comidas deliciosas."
+    },
+    {
+      "translation": "Bathroom",
+      "phonetic": "/ˈba.ɲo/",
+      "usage": "El baño de mi apartamento tiene una ducha moderna y un espejo grande que cubre toda la pared.",
+      "word": "Baño"
+    },
+    {
+      "usage": "Mi dormitorio es tranquilo y tiene una ventana grande que da al parque con mucha luz natural.",
+      "phonetic": "/doɾmiˈto.ɾjo/",
+      "word": "Dormitorio",
+      "translation": "Bedroom"
+    },
+    {
+      "phonetic": "/ˈsa.la/",
+      "usage": "La sala de estar es el lugar donde la familia se reúne por las noches para ver televisión juntos.",
+      "word": "Sala",
+      "translation": "Living room"
+    },
+    {
+      "word": "Puerta",
+      "phonetic": "/ˈpweɾ.ta/",
+      "translation": "Door",
+      "usage": "Siempre cierro la puerta con llave cuando salgo de casa para mantener todo seguro y protegido de robos."
+    },
+    {
+      "word": "Ventana",
+      "translation": "Window",
+      "usage": "Abro la ventana todas las mañanas para que entre aire fresco y luz del sol a mi habitación.",
+      "phonetic": "/benˈta.na/"
+    },
+    {
+      "word": "Pared",
+      "usage": "Las paredes de mi sala están decoradas con fotos familiares y cuadros de paisajes hermosos de España.",
+      "phonetic": "/paˈɾeð/",
+      "translation": "Wall"
+    },
+    {
+      "word": "Piso",
+      "phonetic": "/ˈpi.so/",
+      "translation": "Floor",
+      "usage": "El piso de la cocina es de cerámica blanca y es muy fácil de limpiar después de cocinar."
+    },
+    {
+      "phonetic": "/ˈte.tʃo/",
+      "usage": "El techo de mi casa es alto y hace que las habitaciones se sientan más espaciosas y ventiladas.",
+      "word": "Techo",
+      "translation": "Ceiling / Roof"
+    },
+    {
+      "word": "Mesa",
+      "translation": "Table",
+      "phonetic": "/ˈme.sa/",
+      "usage": "La mesa del comedor es de madera maciza y puede acomodar a ocho personas para las cenas familiares."
+    },
+    {
+      "translation": "Chair",
+      "phonetic": "/ˈsi.ʝa/",
+      "usage": "Necesito comprar una silla nueva para mi escritorio porque la vieja está rota y es muy incómoda.",
+      "word": "Silla"
+    },
+    {
+      "usage": "Mi cama es muy cómoda y tiene un colchón suave que me ayuda a dormir bien todas las noches.",
+      "word": "Cama",
+      "phonetic": "/ˈka.ma/",
+      "translation": "Bed"
+    },
+    {
+      "usage": "El sofá de la sala es grande y cómodo, perfecto para sentarse a leer o ver películas los fines de semana.",
+      "translation": "Sofa",
+      "phonetic": "/soˈfa/",
+      "word": "Sofá"
+    },
+    {
+      "word": "Reloj",
+      "usage": "Tengo un reloj antiguo en la pared de la sala que perteneció a mi abuelo y todavía funciona perfectamente.",
+      "translation": "Clock / Watch",
+      "phonetic": "/reˈlox/"
+    },
+    {
+      "phonetic": "/teleβiˈsjon/",
+      "translation": "Television",
+      "word": "Televisión",
+      "usage": "Vemos la televisión juntos como familia todas las noches después de cenar para relajarnos y entretenernos un rato."
+    },
+    {
+      "phonetic": "/komputaˈðo.ɾa/",
+      "word": "Computadora",
+      "usage": "Uso mi computadora todos los días para trabajar desde casa y también para estudiar cursos en línea.",
+      "translation": "Computer"
+    },
+    {
+      "phonetic": "/teˈle.fo.no/",
+      "translation": "Phone",
+      "usage": "Mi teléfono móvil es nuevo y tiene una cámara excelente para tomar fotos de la familia y los viajes.",
+      "word": "Teléfono"
+    },
+    {
+      "translation": "Book",
+      "usage": "Me gusta leer libros de historia antes de dormir porque me ayudan a relajarme y aprender cosas nuevas.",
+      "word": "Libro",
+      "phonetic": "/ˈli.βɾo/"
+    },
+    {
+      "usage": "Necesito comprar más papel para la impresora porque tengo que imprimir documentos importantes para el trabajo mañana.",
+      "phonetic": "/paˈpel/",
+      "word": "Papel",
+      "translation": "Paper"
+    },
+    {
+      "usage": "Siempre llevo un bolígrafo azul en mi bolsillo para tomar notas rápidas durante las reuniones de trabajo.",
+      "word": "Bolígrafo",
+      "phonetic": "/boˈli.ɣɾa.fo/",
+      "translation": "Pen"
+    },
+    {
+      "translation": "Pencil",
+      "phonetic": "/ˈla.pis/",
+      "word": "Lápiz",
+      "usage": "Los niños usan lápiz para hacer sus tareas de matemáticas porque pueden borrar los errores fácilmente si se equivocan."
+    },
+    {
+      "word": "Llave",
+      "translation": "Key",
+      "phonetic": "/ˈʝa.βe/",
+      "usage": "Perdí las llaves de mi casa ayer y tuve que llamar a un cerrajero para abrir la puerta."
+    },
+    {
+      "phonetic": "/diˈne.ɾo/",
+      "usage": "Necesito ahorrar más dinero este año para poder viajar a Europa con mi familia durante las vacaciones de verano.",
+      "word": "Dinero",
+      "translation": "Money"
+    },
+    {
+      "phonetic": "/sjuˈðað/",
+      "word": "Ciudad",
+      "translation": "City",
+      "usage": "Vivo en una ciudad grande con muchos restaurantes, tiendas y parques para disfrutar los fines de semana."
+    },
+    {
+      "phonetic": "/ˈka.ʝe/",
+      "word": "Calle",
+      "translation": "Street",
+      "usage": "Mi calle es tranquila y tiene muchos árboles que dan sombra durante los días calurosos de verano."
+    },
+    {
+      "word": "Parque",
+      "translation": "Park",
+      "usage": "Voy al parque todos los domingos por la mañana para correr y hacer ejercicio al aire libre.",
+      "phonetic": "/ˈpaɾ.ke/"
+    },
+    {
+      "phonetic": "/esˈkwe.la/",
+      "word": "Escuela",
+      "translation": "School",
+      "usage": "La escuela de mis hijos está cerca de casa y pueden caminar allí todas las mañanas sin problema."
+    },
+    {
+      "word": "Hospital",
+      "usage": "Mi hermana trabaja como enfermera en el hospital más grande de la ciudad ayudando a pacientes todos los días.",
+      "translation": "Hospital",
+      "phonetic": "/ospiˈtal/"
+    },
+    {
+      "usage": "Hay una tienda de comestibles en la esquina donde compro frutas y verduras frescas todas las semanas.",
+      "word": "Tienda",
+      "phonetic": "/ˈtjen.da/",
+      "translation": "Store"
+    },
+    {
+      "translation": "Restaurant",
+      "word": "Restaurante",
+      "phonetic": "/restawˈɾan.te/",
+      "usage": "Vamos a un restaurante italiano los viernes por la noche para cenar pasta y pizza con toda la familia."
+    },
+    {
+      "word": "Banco",
+      "translation": "Bank",
+      "usage": "Voy al banco una vez al mes para depositar mi salario y pagar las facturas de la casa.",
+      "phonetic": "/ˈbaŋ.ko/"
+    },
+    {
+      "usage": "Nos gusta ir al cine los sábados por la tarde para ver las películas nuevas con palomitas de maíz.",
+      "translation": "Cinema",
+      "phonetic": "/ˈsi.ne/",
+      "word": "Cine"
+    },
+    {
+      "translation": "Beach",
+      "phonetic": "/ˈpla.ʝa/",
+      "usage": "Vamos a la playa todos los veranos para nadar en el mar y tomar el sol durante las vacaciones.",
+      "word": "Playa"
+    },
+    {
+      "translation": "Mountain",
+      "phonetic": "/monˈta.ɲa/",
+      "word": "Montaña",
+      "usage": "Me encanta caminar por la montaña los fines de semana para disfrutar del aire puro y las vistas hermosas."
+    },
+    {
+      "word": "Río",
+      "usage": "Hay un río cerca de mi pueblo donde la gente va a pescar y hacer picnics los domingos.",
+      "phonetic": "/ˈri.o/",
+      "translation": "River"
+    },
+    {
+      "phonetic": "/maɾ/",
+      "word": "Mar",
+      "translation": "Sea",
+      "usage": "El mar está tranquilo hoy y el agua es cristalina, perfecto para nadar y bucear con la familia."
+    },
+    {
+      "phonetic": "/sol/",
+      "word": "Sol",
+      "usage": "El sol brilla fuerte hoy y hace mucho calor, así que voy a ponerme protector solar antes de salir.",
+      "translation": "Sun"
+    },
+    {
+      "word": "Luna",
+      "translation": "Moon",
+      "phonetic": "/ˈlu.na/",
+      "usage": "La luna llena se ve hermosa esta noche y ilumina todo el cielo con su luz plateada brillante."
+    },
+    {
+      "translation": "Star",
+      "phonetic": "/esˈtɾe.ʝa/",
+      "usage": "Me gusta mirar las estrellas por la noche desde mi balcón porque el cielo está muy despejado aquí.",
+      "word": "Estrella"
+    },
+    {
+      "phonetic": "/ˈa.ɣwa/",
+      "word": "Agua",
+      "translation": "Water",
+      "usage": "Bebo mucha agua todos los días para mantenerme hidratado y saludable, especialmente durante el verano caluroso."
+    },
+    {
+      "usage": "La comida española es deliciosa y me encanta probar platos nuevos en diferentes restaurantes de la ciudad.",
+      "phonetic": "/koˈmi.ða/",
+      "translation": "Food",
+      "word": "Comida"
+    },
+    {
+      "phonetic": "/pan/",
+      "word": "Pan",
+      "usage": "Compro pan fresco todas las mañanas en la panadería de la esquina para el desayuno de la familia.",
+      "translation": "Bread"
+    },
+    {
+      "word": "Leche",
+      "translation": "Milk",
+      "usage": "Los niños toman leche con cereales todas las mañanas antes de ir a la escuela para tener energía.",
+      "phonetic": "/ˈle.tʃe/"
+    },
+    {
+      "phonetic": "/kaˈfe/",
+      "usage": "Me encanta tomar café caliente por la mañana mientras leo el periódico en la cocina antes de trabajar.",
+      "translation": "Coffee",
+      "word": "Café"
+    },
+    {
+      "usage": "Prefiero tomar té verde por las tardes porque es relajante y tiene muchos beneficios para la salud.",
+      "word": "Té",
+      "phonetic": "/te/",
+      "translation": "Tea"
+    },
+    {
+      "translation": "Fruit",
+      "word": "Fruta",
+      "usage": "Como fruta fresca todos los días como manzanas, naranjas y plátanos para mantener una dieta saludable y equilibrada.",
+      "phonetic": "/ˈfɾu.ta/"
+    },
+    {
+      "word": "Carne",
+      "phonetic": "/ˈkaɾ.ne/",
+      "translation": "Meat",
+      "usage": "No como mucha carne roja pero me gusta el pollo asado con verduras para la cena los domingos."
+    },
+    {
+      "phonetic": "/pesˈka.ðo/",
+      "usage": "El pescado fresco es muy saludable y lo como dos veces por semana con arroz y ensalada verde.",
+      "translation": "Fish",
+      "word": "Pescado"
+    },
+    {
+      "usage": "Desayuno huevos revueltos con pan tostado todas las mañanas porque son nutritivos y me dan mucha energía.",
+      "word": "Huevo",
+      "phonetic": "/ˈwe.βo/",
+      "translation": "Egg"
+    },
+    {
+      "phonetic": "/aˈros/",
+      "word": "Arroz",
+      "translation": "Rice",
+      "usage": "El arroz es un alimento básico en mi dieta y lo como con pollo, pescado o verduras casi todos los días."
+    },
+    {
+      "phonetic": "/aˈsu.kaɾ/",
+      "usage": "Pongo una cucharadita de azúcar en mi café por la mañana para endulzarlo un poco sin exagerar.",
+      "word": "Azúcar",
+      "translation": "Sugar"
+    },
+    {
+      "word": "Sal",
+      "phonetic": "/sal/",
+      "usage": "Uso poca sal cuando cocino porque trato de mantener una dieta baja en sodio para cuidar mi salud.",
+      "translation": "Salt"
+    },
+    {
+      "phonetic": "/seɾˈβe.sa/",
+      "translation": "Beer",
+      "usage": "Me gusta tomar una cerveza fría los viernes por la noche con amigos después de una semana larga de trabajo.",
+      "word": "Cerveza"
+    }
+  ]
+}

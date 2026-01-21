@@ -1,0 +1,672 @@
+{
+    "moduleId": "sa_b1_m09",
+    "theme": "Advanced Music & Performing Arts",
+    "title": "Advanced Music & Performing Arts",
+    "level": "b1",
+    "language": "sanskrit",
+    "order": 9,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "नादब्रह्म",
+                    "reading": "Naa-da-brah-ma",
+                    "meaning": "Sound as the Absolute (Trap Word)",
+                    "example_sentence": "नादब्रह्म परमं तत्त्वम्। (Nadabrahma is the supreme principle.) [LIAR GAME TRAP]"
+                },
+                {
+                    "word": "आहतनादः",
+                    "reading": "Aa-ha-ta-naa-dah",
+                    "meaning": "Struck sound (Physical)",
+                    "example_sentence": "आहतनादः भौतिकशब्दः अस्ति। (Ahatanada is physical sound.)"
+                },
+                {
+                    "word": "अनाहतनादः",
+                    "reading": "A-naa-ha-ta-naa-dah",
+                    "meaning": "Unstruck sound (Spiritual)",
+                    "example_sentence": "अनाहतनादः सूक्ष्मशब्दः अस्ति। (Anahatanada is subtle sound.)"
+                },
+                {
+                    "word": "श्रुतिः",
+                    "reading": "Shru-tih",
+                    "meaning": "Microtone / Musical interval",
+                    "example_sentence": "श्रुतिः सङ्गीतमापनम् अस्ति। (Shruti is musical measurement.)"
+                },
+                {
+                    "word": "स्वरमण्डलम्",
+                    "reading": "Sva-ra-man-da-lam",
+                    "meaning": "Scale / Collection of notes",
+                    "example_sentence": "स्वरमण्डलं सप्तस्वरात्मकम्। (Svaramandala consists of seven notes.)"
+                },
+                {
+                    "word": "सप्तकः",
+                    "reading": "Sap-ta-kah",
+                    "meaning": "Octave / Set of seven notes",
+                    "example_sentence": "सप्तकः स्वरसमुहः अस्ति। (Saptaka is a group of notes.)"
+                },
+                {
+                    "word": "षड्जः",
+                    "reading": "Shad-jah",
+                    "meaning": "The first note (Sa)",
+                    "example_sentence": "षड्जः प्रथमः स्वरः अस्ति। (Shadja is the first note.)"
+                },
+                {
+                    "word": "ऋषभः",
+                    "reading": "Ru-sha-bhah",
+                    "meaning": "The second note (Re)",
+                    "example_sentence": "ऋषभः द्वितीयः स्वरः अस्ति। (Rishabha is the second note.)"
+                },
+                {
+                    "word": "गान्धारः",
+                    "reading": "Gaan-dhaa-rah",
+                    "meaning": "The third note (Ga)",
+                    "example_sentence": "गान्धारः तृतीयः स्वरः अस्ति। (Gandhara is the third note.)"
+                },
+                {
+                    "word": "मध्यमः",
+                    "reading": "Mad-h-ya-mah",
+                    "meaning": "The fourth note (Ma)",
+                    "example_sentence": "मध्यमः चतुर्थः स्वरः अस्ति। (Madhyama is the fourth note.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "पञ्चमः",
+                    "reading": "Pan-cha-mah",
+                    "meaning": "The fifth note (Pa)",
+                    "example_sentence": "पञ्चमः पञ्चमस्वरः अस्ति। (Panchama is the fifth note.)"
+                },
+                {
+                    "word": "धैवतः",
+                    "reading": "Dhai-va-tah",
+                    "meaning": "The sixth note (Dha)",
+                    "example_sentence": "धैवतः षष्ठः स्वरः अस्ति। (Dhaivata is the sixth note.)"
+                },
+                {
+                    "word": "निषादः",
+                    "reading": "Ni-shaa-dah",
+                    "meaning": "The seventh note (Ni)",
+                    "example_sentence": "निषादः सप्तमः स्वरः अस्ति। (Nishada is the seventh note.)"
+                },
+                {
+                    "word": "ग्रामः",
+                    "reading": "Graa-mah",
+                    "meaning": "Gamut / Fundamental scale",
+                    "example_sentence": "ग्रामः स्वरसमूहः अस्ति। (Grama is a scale.)"
+                },
+                {
+                    "word": "मूर्च्छना",
+                    "reading": "Moor-ch-cha-naa",
+                    "meaning": "Modulation / Melodic progression",
+                    "example_sentence": "मूर्च्छना स्वरारोहणम् अस्ति। (Murchana is melodic progression.)"
+                },
+                {
+                    "word": "आरोहः",
+                    "reading": "Aa-ro-hah",
+                    "meaning": "Ascending scale",
+                    "example_sentence": "आरोहः ऊर्ध्वगतिः अस्ति। (Aroha is ascending motion.)"
+                },
+                {
+                    "word": "अवरोहः",
+                    "reading": "A-va-ro-hah",
+                    "meaning": "Descending scale",
+                    "example_sentence": "अवरोहः अधोगतिः अस्ति। (Avaroha is descending motion.)"
+                },
+                {
+                    "word": "वादी",
+                    "reading": "Vaa-dee",
+                    "meaning": "Dominant note / King note",
+                    "example_sentence": "वादी मुख्यस्वरः अस्ति। (Vadi is the dominant note.)"
+                },
+                {
+                    "word": "संवादी",
+                    "reading": "Sam-vaa-dee",
+                    "meaning": "Consonant note / Minister note",
+                    "example_sentence": "संवादी सहायकस्वरः अस्ति। (Samvadi is the consonant note.)"
+                },
+                {
+                    "word": "अनुवादी",
+                    "reading": "A-nu-vaa-dee",
+                    "meaning": "Assonant note",
+                    "example_sentence": "अनुवादी वक्ता स्वरः अस्ति। (Anuvadi is the assonant note.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "विवादी",
+                    "reading": "Vi-vaa-dee",
+                    "meaning": "Dissonant note / Enemy note",
+                    "example_sentence": "विवादी परस्वरः अस्ति। (Vivadi is the dissonant note.)"
+                },
+                {
+                    "word": "न्यासः",
+                    "reading": "Nyaa-sah",
+                    "meaning": "Concluding note of a melody",
+                    "example_sentence": "न्यासः समाप्यमानस्वरः। (Nyasa is the concluding note.)"
+                },
+                {
+                    "word": "अंशः",
+                    "reading": "Am-shah",
+                    "meaning": "Primary note / Tonic",
+                    "example_sentence": "अंशः आधारस्वरः अस्ति। (Amsha is the tonic note.)"
+                },
+                {
+                    "word": "गमकम्",
+                    "reading": "Ga-ma-kam",
+                    "meaning": "Musical ornamentation / Glissando",
+                    "example_sentence": "गमकं स्वरकम्पनम् अस्ति। (Gamaka is musical vibration.)"
+                },
+                {
+                    "word": "ताणम्",
+                    "reading": "Taa-nam",
+                    "meaning": "Musical expansion / Rapid notes",
+                    "example_sentence": "ताणं स्वरविस्तारः अस्ति। (Tana is musical expansion.)"
+                },
+                {
+                    "word": "आलापः",
+                    "reading": "Aa-laa-pah",
+                    "meaning": "Introduction / Improvisation",
+                    "example_sentence": "आलापः रागपरिचयः अस्ति। (Alapa is melody introduction.)"
+                },
+                {
+                    "word": "प्रबन्धः",
+                    "reading": "Pra-ban-dhah",
+                    "meaning": "Composition / Structured song",
+                    "example_sentence": "प्रबन्धः सुवर्णगीतम् अस्ति। (Prabandha is a structured song.)"
+                },
+                {
+                    "word": "ध्रुवपदम्",
+                    "reading": "Dhru-va-pa-dam",
+                    "meaning": "Fixed verse / Dhrupad",
+                    "example_sentence": "ध्रुवपदं शास्त्रीयगायनम्। (Dhruvapada is classical singing.)"
+                },
+                {
+                    "word": "लयः",
+                    "reading": "La-yah",
+                    "meaning": "Tempo / Rhythm",
+                    "example_sentence": "लयः कालप्रवाहः अस्ति। (Laya is the flow of time/tempo.)"
+                },
+                {
+                    "word": "विलम्बितम्",
+                    "reading": "Vi-lam-bi-tam",
+                    "meaning": "Slow tempo",
+                    "example_sentence": "विलम्बितं मन्दगतिः अस्ति। (Vilambita is slow tempo.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "मध्यम्",
+                    "reading": "Mad-h-yam",
+                    "meaning": "Medium tempo",
+                    "example_sentence": "मध्यं मध्यगतिः अस्ति। (Madhyam is medium tempo.)"
+                },
+                {
+                    "word": "द्रुतम्",
+                    "reading": "Dru-tam",
+                    "meaning": "Fast tempo",
+                    "example_sentence": "द्रुतं शीघ्रगतिः अस्ति। (Drutam is fast tempo.)"
+                },
+                {
+                    "word": "मात्रा",
+                    "reading": "Maat-raa",
+                    "meaning": "Beat / Time unit",
+                    "example_sentence": "मात्रा तालमापनम् अस्ति। (Matra is the unit of beat.)"
+                },
+                {
+                    "word": "आवर्तनम्",
+                    "reading": "Aa-var-ta-nam",
+                    "meaning": "Rhythmic cycle",
+                    "example_sentence": "आवर्तनं तालचक्रम् अस्ति। (Avartana is rhythmic cycle.)"
+                },
+                {
+                    "word": "समः",
+                    "reading": "Sa-mah",
+                    "meaning": "The first beat of a cycle",
+                    "example_sentence": "समः तालारम्भः अस्ति। (Sama is the start of the tal cycle.)"
+                },
+                {
+                    "word": "खाली",
+                    "reading": "Khaa-lee",
+                    "meaning": "Empty beat / Silent beat",
+                    "example_sentence": "खाली शून्यतालः अस्ति। (Khali is empty beat.)"
+                },
+                {
+                    "word": "तालवाद्यम्",
+                    "reading": "Taa-la-vaad-yam",
+                    "meaning": "Percussion instrument",
+                    "example_sentence": "तालवाद्यं वाद्यविशेषः। (Talavadya is percussion.)"
+                },
+                {
+                    "word": "सुषिरवाद्यम्",
+                    "reading": "Su-shi-ra-vaad-yam",
+                    "meaning": "Wind instrument",
+                    "example_sentence": "सुषिरवाद्यं वायुयन्त्रम्। (Sushiravadya is wind instrument.)"
+                },
+                {
+                    "word": "ततवाद्यम्",
+                    "reading": "Ta-ta-vaad-yam",
+                    "meaning": "Stringed instrument",
+                    "example_sentence": "ततवाद्यं तन्त्रीयन्त्रम्। (Tatavadya is string instrument.)"
+                },
+                {
+                    "word": "घनवाद्यम्",
+                    "reading": "Gha-na-vaad-yam",
+                    "meaning": "Idiophone / Solid percussion",
+                    "example_sentence": "घनवाद्यं धातुपत्रम्। (Ghanavadya is solid percussion.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "शङ्खनादः",
+                    "reading": "Shank-ha-naa-dah",
+                    "meaning": "Blaring of the conch",
+                    "example_sentence": "शङ्खनादः विजयघोषः अस्ति। (Shankhanada is victory sound.)"
+                },
+                {
+                    "word": "दुन्दुभिः",
+                    "reading": "Dun-du-bhih",
+                    "meaning": "Kettledrum",
+                    "example_sentence": "दुन्दुभिः भेरी अस्ति। (Dundubhi is a kettledrum.)"
+                },
+                {
+                    "word": "पटहः",
+                    "reading": "Pa-ta-hah",
+                    "meaning": "War drum / Proclamation drum",
+                    "example_sentence": "पटहः ढक्का अस्ति। (Pataha is a proclamation drum.)"
+                },
+                {
+                    "word": "घण्टा",
+                    "reading": "Ghan-taa",
+                    "meaning": "Bell",
+                    "example_sentence": "घण्टा देवालये अस्ति। (Bell is in the temple.)"
+                },
+                {
+                    "word": "किङ्किणी",
+                    "reading": "Kin-ki-nee",
+                    "meaning": "Small bell / Ghungroo",
+                    "example_sentence": "किङ्किणी नूपुरम् अस्ति। (Kinkini is small bell.)"
+                },
+                {
+                    "word": "नृत्यशास्त्रम्",
+                    "reading": "Nrut-ya-shaas-tram",
+                    "meaning": "Science of dancing",
+                    "example_sentence": "नृत्यशास्त्रं नर्तनविद्या। (Nrityashastra is dance science.)"
+                },
+                {
+                    "word": "नाट्यशास्त्रम्",
+                    "reading": "Naat-ya-shaas-tram",
+                    "meaning": "Treatise on dramaturgy (Bharata)",
+                    "example_sentence": "नाट्यशास्त्रं भरतकृतम्। (Natyashastra is by Bharata.)"
+                },
+                {
+                    "word": "आङ्गिकम्",
+                    "reading": "Aan-gi-kam",
+                    "meaning": "Physical gesture / Bodily acting",
+                    "example_sentence": "आङ्गिकं शारीरिकचेष्टा। (Angika is bodily acting.)"
+                },
+                {
+                    "word": "वाचिकम्",
+                    "reading": "Vaa-chi-kam",
+                    "meaning": "Verbal expression / Speech acting",
+                    "example_sentence": "वाचिकं संभाषणकला। (Vachika is speech acting.)"
+                },
+                {
+                    "word": "आहार्यम्",
+                    "reading": "Aa-haar-yam",
+                    "meaning": "Costume and makeup acting",
+                    "example_sentence": "आहार्यं वेशभूषा अस्ति। (Aharya is costume/makeup.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "सात्त्विकम्",
+                    "reading": "Saat-tvi-kam",
+                    "meaning": "Emotional/Psychological acting",
+                    "example_sentence": "सात्त्विकं मनोभावः अस्ति। (Sattvika is emotional acting.)"
+                },
+                {
+                    "word": "लास्यम्",
+                    "reading": "Laas-yam",
+                    "meaning": "Graceful feminine dance",
+                    "example_sentence": "लास्यं सुकुमारनृत्यम्। (Lasya is graceful dance.)"
+                },
+                {
+                    "word": "ताण्डवम्",
+                    "reading": "Taan-da-vam",
+                    "meaning": "Vigorous masculine dance",
+                    "example_sentence": "ताण्डवं शिवनृत्यम् अस्ति। (Tandava is Shiva's vigorous dance.)"
+                },
+                {
+                    "word": "करणम्",
+                    "reading": "Ka-ra-nam",
+                    "meaning": "Dynamic dance unit / Transition",
+                    "example_sentence": "करणं नृत्यक्रीडा अस्ति। (Karana is dance unit.)"
+                },
+                {
+                    "word": "अङ्गहारः",
+                    "reading": "An-ga-haa-rah",
+                    "meaning": "Sequence of Karanas / Dance movement",
+                    "example_sentence": "अङ्गहारः नृत्यचालनम्। (Angahara is dance sequence.)"
+                },
+                {
+                    "word": "रेचकः",
+                    "reading": "Re-cha-kah",
+                    "meaning": "Turning / Whirling movement",
+                    "example_sentence": "रेचकः भ्रमणम् अस्ति। (Rechaka is whirling motion.)"
+                },
+                {
+                    "word": "चारी",
+                    "reading": "Chaa-ree",
+                    "meaning": "Leg movement / Gait",
+                    "example_sentence": "चारी पादचालनम् अस्ति। (Chari is leg movement.)"
+                },
+                {
+                    "word": "भङ्गी",
+                    "reading": "Bhan-gee",
+                    "meaning": "Posture / Pose",
+                    "example_sentence": "भङ्गी आकृतिः अस्ति। (Bhangi is a posture.)"
+                },
+                {
+                    "word": "त्रिभङ्गः",
+                    "reading": "Tri-bhan-gah",
+                    "meaning": "Three-bend posture",
+                    "example_sentence": "त्रिभङ्गः कृष्णस्थितिः। (Tribhanga is three-bend pose.)"
+                },
+                {
+                    "word": "अभिमन्युः",
+                    "reading": "A-bhi-man-yuh",
+                    "meaning": "Courageous performance",
+                    "example_sentence": "अभिमन्युः साहसप्रदर्शनम्। (Abhimanyu is brave performance.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "कौतुकम्",
+                    "reading": "Kau-tu-kam",
+                    "meaning": "Preliminary dance",
+                    "example_sentence": "कौतुकं मङ्गलानर्तम्। (Kautuka is auspicious dance.)"
+                },
+                {
+                    "word": "हस्तमुद्रा",
+                    "reading": "Has-ta-mud-raa",
+                    "meaning": "Hand gesture",
+                    "example_sentence": "हस्तमुद्रा सङ्केतः अस्ति। (Hastamudra is hand gesture.)"
+                },
+                {
+                    "word": "संयुक्तहस्तः",
+                    "reading": "Sam-yuk-ta-has-tah",
+                    "meaning": "Double hand gesture",
+                    "example_sentence": "संयुक्तहस्तः उभयहस्तः। (Samyuktahasta is double hand gesture.)"
+                },
+                {
+                    "word": "असंयुक्तहस्तः",
+                    "reading": "A-sam-yuk-ta-has-tah",
+                    "meaning": "Single hand gesture",
+                    "example_sentence": "असंयुक्तहस्तः एकहस्तः। (Asamyuktahasta is single hand gesture.)"
+                },
+                {
+                    "word": "मुखरागः",
+                    "reading": "Mu-kha-raa-gah",
+                    "meaning": "Facial expression / Coloring",
+                    "example_sentence": "मुखरागः मुखवर्णः अस्ति। (Mukharaga is facial coloring.)"
+                },
+                {
+                    "word": "दृष्टिभेदः",
+                    "reading": "Drush-ti-bhe-dah",
+                    "meaning": "Eye movement technique",
+                    "example_sentence": "दृष्टिभेदः नेत्रचालनम्। (Drishtibheda is eye movement.)"
+                },
+                {
+                    "word": "शिरोभेदः",
+                    "reading": "Shi-ro-bhe-dah",
+                    "meaning": "Head movement technique",
+                    "example_sentence": "शिरोभेदः शिरःसञ्चालनम्। (Shirobheda is head movement.)"
+                },
+                {
+                    "word": "ग्रीवाभेदः",
+                    "reading": "Gree-vaa-bhe-dah",
+                    "meaning": "Neck movement technique",
+                    "example_sentence": "ग्रीवाभेदः कण्ठचालनम्। (Grivabheda is neck movement.)"
+                },
+                {
+                    "word": "नृत्तम्",
+                    "reading": "Nru-ttam",
+                    "meaning": "Pure abstract dance",
+                    "example_sentence": "नृत्तं लयबद्धं नृत्यम्। (Nritta is abstract dance.)"
+                },
+                {
+                    "word": "नृत्यम्",
+                    "reading": "Nrut-yam",
+                    "meaning": "Interpretative dance with meaning",
+                    "example_sentence": "नृत्यं भावाभिनयः अस्ति। (Nritya is interpretative dance.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "नाट्यम्",
+                    "reading": "Naat-yam",
+                    "meaning": "Dramatic dance / Acting",
+                    "example_sentence": "नाट्यं रङ्गकला अस्ति। (Natya is dramatic art.)"
+                },
+                {
+                    "word": "धर्मि",
+                    "reading": "Dhar-mi",
+                    "meaning": "Mode of representation",
+                    "example_sentence": "धर्मि प्रदर्शनशैली अस्ति। (Dharmi is style of performance.)"
+                },
+                {
+                    "word": "लोकधर्मि",
+                    "reading": "Lo-ka-dhar-mi",
+                    "meaning": "Realistic mode",
+                    "example_sentence": "लोकधर्मि साधारणी शैली। (Lokadharmi is realistic style.)"
+                },
+                {
+                    "word": "नाट्यधर्मि",
+                    "reading": "Naat-ya-dhar-mi",
+                    "meaning": "Conventional/Stylized mode",
+                    "example_sentence": "नाट्यधर्मि रङ्गशैली अस्ति। (Natyadharmi is stylized style.)"
+                },
+                {
+                    "word": "वृत्तिः",
+                    "reading": "Vru-ttih",
+                    "meaning": "Dramatic style / Function",
+                    "example_sentence": "वृत्तिः अभिनयधर्मः अस्ति। (Vritti is dramatic style.)"
+                },
+                {
+                    "word": "भारती",
+                    "reading": "Bhaa-ra-tee",
+                    "meaning": "Verbal style",
+                    "example_sentence": "भारती वाकूशैली अस्ति। (Bharati is verbal style.)"
+                },
+                {
+                    "word": "सात्त्वती",
+                    "reading": "Saat-tva-tee",
+                    "meaning": "Grand style",
+                    "example_sentence": "सात्त्वती धैर्यशैली अस्ति। (Sattvati is grand style.)"
+                },
+                {
+                    "word": "कैशिकी",
+                    "reading": "Kai-shi-kee",
+                    "meaning": "Graceful style",
+                    "example_sentence": "कैशिकी कोमलशैली अस्ति। (Kaishiki is graceful style.)"
+                },
+                {
+                    "word": "आरभटी",
+                    "reading": "Aa-ra-bha-tee",
+                    "meaning": "Violent style",
+                    "example_sentence": "आरभटी उद्धतशैली अस्ति। (Arabhati is violent style.)"
+                },
+                {
+                    "word": "सङ्गीतरत्नाकरः",
+                    "reading": "San-gee-ta-rat-naa-ka-rah",
+                    "meaning": "Ocean of music (Sarngadeva)",
+                    "example_sentence": "सङ्गीतरत्नाकरः मुख्यग्रन्थः। (Sangitaratnakara is a key text.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "मेलापकः",
+                    "reading": "Me-laa-pa-kah",
+                    "meaning": "Joining part of a song",
+                    "example_sentence": "मेलापकः गीतखण्डः अस्ति। (Melapaka is song junction.)"
+                },
+                {
+                    "word": "उद्ग्राहः",
+                    "reading": "Ud-graa-hah",
+                    "meaning": "Opening part of a song",
+                    "example_sentence": "उद्ग्राहः आरम्भगीतम्। (Udgraha is song opening.)"
+                },
+                {
+                    "word": "आभोगः",
+                    "reading": "Aa-bho-gah",
+                    "meaning": "Final part of a song",
+                    "example_sentence": "आभोगः गीतोपसंहारः। (Abhoga is song finale.)"
+                },
+                {
+                    "word": "अन्तरा",
+                    "reading": "An-ta-raa",
+                    "meaning": "Intermediate stanza",
+                    "example_sentence": "अन्तरा गीतपदम् अस्ति। (Antara is intermediate stanza.)"
+                },
+                {
+                    "word": "मूर्च्छना (द्वितीया)",
+                    "reading": "Moor-ch-cha-naa",
+                    "meaning": "Modal shift / Ascent-Descent",
+                    "example_sentence": "मूर्च्छना स्वरपरिवर्तनम्। (Murchana is modal shift.)"
+                },
+                {
+                    "word": "स्वरलिपिः",
+                    "reading": "Sva-ra-li-pih",
+                    "meaning": "Musical notation",
+                    "example_sentence": "स्वरलिपिः सङ्गीतलेखनम्। (Svaralipi is musical notation.)"
+                },
+                {
+                    "word": "गन्धर्वविवाहः",
+                    "reading": "Gan-dhar-va-vi-vaa-hah",
+                    "meaning": "Marriage by mutual attraction",
+                    "example_sentence": "गन्धर्वविवाहः प्रेमविवाहः। (Gandharvavivaha is love marriage.)"
+                },
+                {
+                    "word": "रङ्गमण्डपः",
+                    "reading": "Ran-ga-man-da-pah",
+                    "meaning": "Theater auditorium",
+                    "example_sentence": "रङ्गमण्डपः प्रेक्षागृहम्। (Rangamandapa is auditorium.)"
+                },
+                {
+                    "word": "प्रेक्षकः",
+                    "reading": "Prek-sha-kah",
+                    "meaning": "Spectator / Audience",
+                    "example_sentence": "प्रेक्षकः दर्शकः अस्ति। (Prekshaka is audience.)"
+                },
+                {
+                    "word": "सभापतिः",
+                    "reading": "Sa-bhaa-pa-tih",
+                    "meaning": "President of the assembly",
+                    "example_sentence": "सभापतिः अध्यक्षः अस्ति। (Sabhapati is president.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "नाट्यशाला",
+                    "reading": "Naat-ya-shaa-laa",
+                    "meaning": "Dance hall / Theater",
+                    "example_sentence": "नाट्यशाला रङ्गशाला अस्ति। (Natyashala is theater.)"
+                },
+                {
+                    "word": "रङ्गदेवता",
+                    "reading": "Ran-ga-de-va-taa",
+                    "meaning": "Deity of the stage",
+                    "example_sentence": "रङ्गदेवता रङ्गपालकः। (Rangadevata is stage deity.)"
+                },
+                {
+                    "word": "नान्दीपाठः",
+                    "reading": "Naan-dee-paa-thah",
+                    "meaning": "Chant of the prologue",
+                    "example_sentence": "नान्दीपाठः मङ्गलाचरणम्। (Nandipatha is prologue chant.)"
+                },
+                {
+                    "word": "प्रथमाभिनयः",
+                    "reading": "Pra-tha-maa-bhi-na-yah",
+                    "meaning": "Debut performance",
+                    "example_sentence": "प्रथमाभिनयः रङ्गारम्भः। (Prathamabhinaya is debut.)"
+                },
+                {
+                    "word": "गुञ्जा",
+                    "reading": "Gun-jaa",
+                    "meaning": "Droning sound",
+                    "example_sentence": "गुञ्जा भ्रमरध्वनिः अस्ति। (Gunja is droning sound.)"
+                },
+                {
+                    "word": "निक्षेपः",
+                    "reading": "Nik-she-pah",
+                    "meaning": "Casting / Presentation",
+                    "example_sentence": "निक्षेपः अर्पणम् अस्ति। (Nikshepa is presentation.)"
+                },
+                {
+                    "word": "कलाकारः",
+                    "reading": "Ka-laa-kaa-rah",
+                    "meaning": "Artist",
+                    "example_sentence": "कलाकारः शिल्पी अस्ति। (Kalakara is an artist.)"
+                },
+                {
+                    "word": "वाद्यगोष्ठी",
+                    "reading": "Vaad-ya-gosh-thee",
+                    "meaning": "Orchestra",
+                    "example_sentence": "वाद्यगोष्ठी सङ्गीतसमूहः। (Vadyagoshthi is orchestra.)"
+                },
+                {
+                    "word": "गायनगोष्ठी",
+                    "reading": "Gaa-ya-na-gosh-thee",
+                    "meaning": "Choir",
+                    "example_sentence": "गायनगोष्ठी गायकसमूहः। (Gayanagoshthi is choir.)"
+                },
+                {
+                    "word": "यवनिका",
+                    "reading": "Ya-va-ni-kaa",
+                    "meaning": "Curtain (The Greek one)",
+                    "example_sentence": "यवनिका रङ्गपरदा अस्ति। (Yavanika is the stage curtain.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Sanskrit Theatre Exchange Trap",
+        "question": "Why is the theatre curtain called यवनिका (Yavanika) in Sanskrit?",
+        "options": [
+            "Because it was traditionally made of yellow (Yavana) silk",
+            "It refers to the Greeks (Yavanas), suggesting a cultural exchange where the Greek-style curtain was adopted",
+            "It's named after the sound 'Yava' made when it opens",
+            "It's a corruption of the word 'Yavani', meaning young woman"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The term यवनिका (Yavanika) is a fascinating linguistic fossil! It literally means 'Greek' or 'of the Yavanas'. This is a trap because many assume Sanskrit drama was entirely isolated. In reality: (1) 'Yavana' was the Sanskrit term for Ionians/Greeks; (2) The use of the name suggests that the specific type of drop-curtain used in Sanskrit theatre had Greek origins or was introduced by them during the Indo-Greek period; (3) This points to vibrant cultural exchanges in performing arts between India and the Hellenistic world. The Natya Shastra mentions the रङ्गमण्डप (theater auditorium) and stagecraft in detail, but this specific term यवनिका remains a historical marker of ancient global connectivity!"
+    }
+}

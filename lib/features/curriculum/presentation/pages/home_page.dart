@@ -645,7 +645,7 @@ class _HomePageState extends ConsumerState<HomePage> with SingleTickerProviderSt
       child: Column(
         children: [
           const Text(
-            'ChirpPolly',
+            'ChirPolly',
             style: TextStyle(
               color: Colors.white,
               fontSize: 24,
@@ -654,7 +654,7 @@ class _HomePageState extends ConsumerState<HomePage> with SingleTickerProviderSt
           ),
           const SizedBox(height: 16),
           Text(
-            '© ${DateTime.now().year} ChirpPolly. All rights reserved.',
+            '© ${DateTime.now().year} ChirPolly. All rights reserved.',
             style: TextStyle(
               color: Colors.grey.shade400,
               fontSize: 14,

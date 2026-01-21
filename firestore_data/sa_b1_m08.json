@@ -1,0 +1,672 @@
+{
+    "moduleId": "sa_b1_m08",
+    "theme": "Advanced Arts & Iconography",
+    "title": "Advanced Arts & Iconography",
+    "level": "b1",
+    "language": "sanskrit",
+    "order": 8,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "शिल्पशास्त्रम्",
+                    "reading": "Shil-pa-shaas-tram",
+                    "meaning": "Science of arts and crafts (Trap Word)",
+                    "example_sentence": "शिल्पशास्त्रं कलाविज्ञानम्। (Shilpashastra is art science.) [LIAR GAME TRAP]"
+                },
+                {
+                    "word": "तालमानम्",
+                    "reading": "Taa-la-maa-nam",
+                    "meaning": "Iconometric measurement by palms",
+                    "example_sentence": "तालमानं हस्तमापनम् अस्ति। (Talamana is palm measurement.)"
+                },
+                {
+                    "word": "दशतालम्",
+                    "reading": "Da-sha-taa-lam",
+                    "meaning": "Measure of ten palms",
+                    "example_sentence": "दशतालं दशहस्तमानम्। (Dashatala is ten-palm measure.)"
+                },
+                {
+                    "word": "अङ्गुलम्",
+                    "reading": "An-gu-lam",
+                    "meaning": "Digit/Finger-width measure",
+                    "example_sentence": "अङ्गुलं अङ्गुलिमानम् अस्ति। (Angula is finger measure.)"
+                },
+                {
+                    "word": "शिलोच्चयः",
+                    "reading": "Shi-loc-cha-yah",
+                    "meaning": "Stone masonry/Accumulation",
+                    "example_sentence": "शिलोच्चयः पाषाणकर्म अस्ति। (Shilochaya is stone masonry.)"
+                },
+                {
+                    "word": "चित्रलक्षणम्",
+                    "reading": "Chit-ra-lak-sha-nam",
+                    "meaning": "Characteristics of painting",
+                    "example_sentence": "चित्रलक्षणं चित्रविशेषः। (Chitralakshana is painting characteristic.)"
+                },
+                {
+                    "word": "वर्त्तिका",
+                    "reading": "Vart-ti-kaa",
+                    "meaning": "Paint brush/Pencil",
+                    "example_sentence": "वर्त्तिका तूलिका अस्ति। (Vartika is brush.)"
+                },
+                {
+                    "word": "वर्णसंयोगः",
+                    "reading": "Var-na-sam-yo-gah",
+                    "meaning": "Color mixing",
+                    "example_sentence": "वर्णसंयोगः रङ्गमिश्रणम्। (Varnasamyoga is color mixing.)"
+                },
+                {
+                    "word": "उन्मीलनम्",
+                    "reading": "Un-mee-la-nam",
+                    "meaning": "Opening the eyes of a statue",
+                    "example_sentence": "उन्मीलनं नेत्रोद्घाटनम्। (Unmilana is eye-opening ceremony.)"
+                },
+                {
+                    "word": "मृन्मय",
+                    "reading": "Mrun-ma-ya",
+                    "meaning": "Clay-made/Earthen",
+                    "example_sentence": "मृन्मयः मृत्तिकानिर्मितः। (Mrinmaya is clay-made.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "दारुज",
+                    "reading": "Daa-ru-ja",
+                    "meaning": "Wooden/Wood-born",
+                    "example_sentence": "दारुजः काष्ठनिर्मितः अस्ति। (Daruja is wood-made.)"
+                },
+                {
+                    "word": "शैलज",
+                    "reading": "Shai-la-ja",
+                    "meaning": "Stone-made/Rock-born",
+                    "example_sentence": "शैलजः पाषाणनिर्मितः। (Shailaja is stone-made.)"
+                },
+                {
+                    "word": "लोहज",
+                    "reading": "Lo-ha-ja",
+                    "meaning": "Metallic/Metal-born",
+                    "example_sentence": "लोहजः धातुनिर्मितः अस्ति। (Lohaja is metal-made.)"
+                },
+                {
+                    "word": "रत्नज",
+                    "reading": "Rat-na-ja",
+                    "meaning": "Gem-set/Gem-made",
+                    "example_sentence": "रत्नजः मणिनिर्मितः अस्ति। (Ratnaja is gem-made.)"
+                },
+                {
+                    "word": "प्रतिमा",
+                    "reading": "Pra-ti-maa",
+                    "meaning": "Likeness/Image",
+                    "example_sentence": "प्रतिमा मूर्तिः अस्ति। (Pratima is an image.)"
+                },
+                {
+                    "word": "बिम्बः",
+                    "reading": "Bim-bah",
+                    "meaning": "The Model/Archetype",
+                    "example_sentence": "बिम्बः आदर्शरूपम् अस्ति। (Bimba is archetype.)"
+                },
+                {
+                    "word": "लक्षणम्",
+                    "reading": "Lak-sha-nam",
+                    "meaning": "Iconographic mark",
+                    "example_sentence": "लक्षणं चिह्नम् अस्ति। (Lakshana is iconographic mark.)"
+                },
+                {
+                    "word": "आसनम्",
+                    "reading": "Aa-sa-nam",
+                    "meaning": "Seated posture of a deity",
+                    "example_sentence": "आसनं उपवेशनम् अस्ति। (Asana is seated posture.)"
+                },
+                {
+                    "word": "स्थानकम्",
+                    "reading": "Sthaa-na-kam",
+                    "meaning": "Standing posture of a deity",
+                    "example_sentence": "स्थानकं स्थितिः अस्ति। (Sthanak is standing posture.)"
+                },
+                {
+                    "word": "शयनम्",
+                    "reading": "Sha-ya-nam",
+                    "meaning": "Reclining posture",
+                    "example_sentence": "शयनं शयितावस्था अस्ति। (Shayana is reclining posture.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "पद्मासनम्",
+                    "reading": "Pad-maa-sa-nam",
+                    "meaning": "Lotus posture",
+                    "example_sentence": "पद्मासनं कमलासनम् अस्ति। (Padmasana is lotus posture.)"
+                },
+                {
+                    "word": "ललितासनम्",
+                    "reading": "La-li-taa-sa-nam",
+                    "meaning": "Graceful seated posture",
+                    "example_sentence": "ललितासनं सुन्दरासनम्। (Lalitasana is graceful posture.)"
+                },
+                {
+                    "word": "वीरपुष्पम्",
+                    "reading": "Vee-ra-push-pam",
+                    "meaning": "Heroic stance",
+                    "example_sentence": "वीरपुष्पं वीरस्थितिः। (Virapushpa is heroic stance.)"
+                },
+                {
+                    "word": "अभयमुद्रा",
+                    "reading": "A-bha-ya-mud-raa",
+                    "meaning": "Gesture of fearlessness",
+                    "example_sentence": "अभयमुद्रा निर्भयसङ्केतः। (Abhayamudra is fearlessness gesture.)"
+                },
+                {
+                    "word": "वरदमुद्रा",
+                    "reading": "Va-ra-da-mud-raa",
+                    "meaning": "Gesture of boon-granting",
+                    "example_sentence": "वरदमुद्रा वरप्रदानसङ्केतः। (Varadamudra is boon gesture.)"
+                },
+                {
+                    "word": "ध्यानमुद्रा",
+                    "reading": "Dhyaa-na-mud-raa",
+                    "meaning": "Gesture of meditation",
+                    "example_sentence": "ध्यानमुद्रा ध्यानसङ्केतः। (Dhyanamudra is meditation gesture.)"
+                },
+                {
+                    "word": "ज्ञानमुद्रा",
+                    "reading": "Jnyaa-na-mud-raa",
+                    "meaning": "Gesture of knowledge",
+                    "example_sentence": "ज्ञानमुद्रा ज्ञानसङ्केतः। (Jnanamudra is knowledge gesture.)"
+                },
+                {
+                    "word": "चिन्मुद्रा",
+                    "reading": "Chin-mud-raa",
+                    "meaning": "Gesture of consciousness",
+                    "example_sentence": "चिन्मुद्रा चैतन्यसङ्केतः। (Chinmudra is consciousness gesture.)"
+                },
+                {
+                    "word": "आयुधम्",
+                    "reading": "Aa-yu-dham",
+                    "meaning": "Weapon/Attribute of a deity",
+                    "example_sentence": "आयुधं देवशस्त्रम् अस्ति। (Ayudha is deity weapon.)"
+                },
+                {
+                    "word": "चक्रम्",
+                    "reading": "Chak-ram",
+                    "meaning": "Discus/Wheel attribute",
+                    "example_sentence": "चक्रं सुदर्शनम् अस्ति। (Chakra is discus.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "शङ्खः",
+                    "reading": "Shank-hah",
+                    "meaning": "Conch attribute",
+                    "example_sentence": "शङ्खः पाञ्चजन्यः अस्ति। (Shankha is conch.)"
+                },
+                {
+                    "word": "गदा",
+                    "reading": "Ga-daa",
+                    "meaning": "Mace attribute",
+                    "example_sentence": "गदा कौमोदकी अस्ति। (Gada is mace.)"
+                },
+                {
+                    "word": "त्रिशूलम्",
+                    "reading": "Tri-shoo-lam",
+                    "meaning": "Trident attribute",
+                    "example_sentence": "त्रिशूलं शिवायुधम् अस्ति। (Trishula is trident.)"
+                },
+                {
+                    "word": "धनुः",
+                    "reading": "Dha-nuh",
+                    "meaning": "Bow attribute",
+                    "example_sentence": "धनुः शारङ्गः अस्ति। (Dhanu is bow.)"
+                },
+                {
+                    "word": "अक्षमला",
+                    "reading": "Ak-sha-ma-laa",
+                    "meaning": "Rosary attribute",
+                    "example_sentence": "अक्षमाला जपमाला अस्ति। (Akshamala is rosary.)"
+                },
+                {
+                    "word": "कमण्डलुः",
+                    "reading": "Ka-man-da-luh",
+                    "meaning": "Water-pot attribute",
+                    "example_sentence": "कमण्डलुः जलपात्रम् अस्ति। (Kamandalu is water-pot.)"
+                },
+                {
+                    "word": "वाहनम्",
+                    "reading": "Vaa-ha-nam",
+                    "meaning": "Vessel/Mount of a deity",
+                    "example_sentence": "वाहनं देववाहनम् अस्ति। (Vahana is deity mount.)"
+                },
+                {
+                    "word": "पीठिका",
+                    "reading": "Pee-thi-kaa",
+                    "meaning": "Pedestal/Base",
+                    "example_sentence": "पीठिका आधारः अस्ति। (Pithika is pedestal.)"
+                },
+                {
+                    "word": "प्रभावली",
+                    "reading": "Pra-bhaa-va-lee",
+                    "meaning": "Aureole/Halo ring",
+                    "example_sentence": "प्रभावली तेजोवलयः। (Prabhavali is halo.)"
+                },
+                {
+                    "word": "किरीटम्",
+                    "reading": "Ki-ree-tam",
+                    "meaning": "Crown",
+                    "example_sentence": "किरीटं मुकुटम् अस्ति। (Kirita is crown.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "मकुटम्",
+                    "reading": "Ma-ku-tam",
+                    "meaning": "Diadem/Tiara",
+                    "example_sentence": "मकुटं शिरोभूषणम्। (Makuta is diadem.)"
+                },
+                {
+                    "word": "यज्ञोपवीतम्",
+                    "reading": "Yaj-nyo-pa-vee-tam",
+                    "meaning": "Sacred thread (in iconography)",
+                    "example_sentence": "यज्ञोपवीतं पवित्रसूत्रम्। (Yajnopavita is sacred thread.)"
+                },
+                {
+                    "word": "कस्तूरी",
+                    "reading": "Kas-too-ree",
+                    "meaning": "Musk (for anointing)",
+                    "example_sentence": "कस्तूरी सुगन्धद्रव्यम्। (Kasturi is musk.)"
+                },
+                {
+                    "word": "विभूतिः",
+                    "reading": "Vi-bhoo-tih",
+                    "meaning": "Sacred ash (for icons)",
+                    "example_sentence": "विभूतिः पवित्रभस्म अस्ति। (Vibhuti is sacred ash.)"
+                },
+                {
+                    "word": "गर्भगृहम्",
+                    "reading": "Gar-bha-gru-ham",
+                    "meaning": "Sanctum Sanctorum",
+                    "example_sentence": "गर्भगृहं मूलस्थानम्। (Garbhagriha is sanctum.)"
+                },
+                {
+                    "word": "अन्तरालम्",
+                    "reading": "An-ta-raa-lam",
+                    "meaning": "Vestibule/Inner chamber",
+                    "example_sentence": "अन्तरालं मध्यकक्षः अस्ति। (Antarala is vestibule.)"
+                },
+                {
+                    "word": "मण्डपः",
+                    "reading": "Man-da-pah",
+                    "meaning": "Pillared hall",
+                    "example_sentence": "मण्डपः स्तम्भशाला अस्ति। (Mandapa is pillared hall.)"
+                },
+                {
+                    "word": "महामण्डपः",
+                    "reading": "Ma-haa-man-da-pah",
+                    "meaning": "Great hall",
+                    "example_sentence": "महामण्डपः बृहत्शाला। (Mahamandapa is great hall.)"
+                },
+                {
+                    "word": "अर्धमण्डपः",
+                    "reading": "Ar-dha-man-da-pah",
+                    "meaning": "Entrance porch",
+                    "example_sentence": "अर्धमण्डपः प्रवेशद्वारम्। (Ardhamandapa is entrance porch.)"
+                },
+                {
+                    "word": "प्रदक्षिणापथः",
+                    "reading": "Pra-dak-shi-naa-pa-thah",
+                    "meaning": "Circumambulatory path",
+                    "example_sentence": "प्रदक्षिणापथः परिक्रमामार्गः। (Pradakshinapatha is circumambulation path.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "विमानम्",
+                    "reading": "Vi-maa-nam",
+                    "meaning": "Tower over the sanctum",
+                    "example_sentence": "विमानं गर्भगृहशिखरम्। (Vimana is sanctum tower.)"
+                },
+                {
+                    "word": "शिखरम्",
+                    "reading": "Shi-kha-ram",
+                    "meaning": "Spire/Temple top",
+                    "example_sentence": "शिखरं मन्दिराग्रम् अस्ति। (Shikhara is temple spire.)"
+                },
+                {
+                    "word": "आमलकः",
+                    "reading": "Aa-ma-la-kah",
+                    "meaning": "Fluted stone disc on spire",
+                    "example_sentence": "आमलकः शिखरचक्रम्। (Amalaka is spire disc.)"
+                },
+                {
+                    "word": "कलशः",
+                    "reading": "Ka-la-shah",
+                    "meaning": "Finial/Pot-shaped top",
+                    "example_sentence": "कलशः शिखराग्रघटः। (Kalasha is finial pot.)"
+                },
+                {
+                    "word": "गोपुरम्",
+                    "reading": "Go-pu-ram",
+                    "meaning": "Ornate gateway tower",
+                    "example_sentence": "गोपुरं द्वारशिखरम् अस्ति। (Gopura is gateway tower.)"
+                },
+                {
+                    "word": "द्वारपालः",
+                    "reading": "Dvaa-ra-paa-lah",
+                    "meaning": "Guardian of the gate",
+                    "example_sentence": "द्वारपालः द्वाररक्षकः। (Dvarapala is gate guardian.)"
+                },
+                {
+                    "word": "स्तम्भः",
+                    "reading": "Stam-bhah",
+                    "meaning": "Architectural pillar",
+                    "example_sentence": "स्तम्भः खम्भः अस्ति। (Stambha is pillar.)"
+                },
+                {
+                    "word": "कुम्भस्तम्भः",
+                    "reading": "Kum-bha-stam-bhah",
+                    "meaning": "Pillar with pot-base",
+                    "example_sentence": "कुम्भस्तम्भः घटाधारस्तम्भः। (Kumbhastambha is pot-base pillar.)"
+                },
+                {
+                    "word": "वास्तुकर्म",
+                    "reading": "Vaas-tu-kar-ma",
+                    "meaning": "Art of building",
+                    "example_sentence": "वास्तुकर्म निर्माणकला अस्ति। (Vastukarma is building art.)"
+                },
+                {
+                    "word": "आलेख्यम्",
+                    "reading": "Aa-le-kh-yam",
+                    "meaning": "Painting/Drawing",
+                    "example_sentence": "आलेख्यं चित्रकला अस्ति। (Alekhya is painting.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "लेप्यम्",
+                    "reading": "Lep-yam",
+                    "meaning": "Plastering/Modeling",
+                    "example_sentence": "लेप्यं लेपनकर्म अस्ति। (Lepya is plastering.)"
+                },
+                {
+                    "word": "मधूच्छिष्टम्",
+                    "reading": "Ma-dhooc-chish-tam",
+                    "meaning": "Lost-wax casting (Beeswax)",
+                    "example_sentence": "मधूच्छिष्टं मधुमोमविधिः। (Madhucchishta is lost-wax method.)"
+                },
+                {
+                    "word": "पञ्चलोहम्",
+                    "reading": "Pan-cha-lo-ham",
+                    "meaning": "Five-metal alloy",
+                    "example_sentence": "पञ्चलोहं पञ्चधातुमिश्रम्। (Panchaloha is five-metal alloy.)"
+                },
+                {
+                    "word": "अष्टधातुः",
+                    "reading": "Ash-ta-dhaa-tuh",
+                    "meaning": "Eight-metal alloy",
+                    "example_sentence": "अष्टधातुः अष्टधातुमिश्रम्। (Ashtadhatu is eight-metal alloy.)"
+                },
+                {
+                    "word": "सूत्रधारः",
+                    "reading": "Soot-ra-dhaa-rah",
+                    "meaning": "Master builder/Architect",
+                    "example_sentence": "सूत्रधारः प्रधानशिल्पी। (Sutradhara is master architect.)"
+                },
+                {
+                    "word": "स्थपतिः",
+                    "reading": "Stha-pa-tih",
+                    "meaning": "Chief Architect/Master craftsman",
+                    "example_sentence": "स्थपतिः मुख्यशिल्पी अस्ति। (Sthapati is chief architect.)"
+                },
+                {
+                    "word": "तक्षकः",
+                    "reading": "Tak-sha-kah",
+                    "meaning": "Cutter/Carpenter-Architect",
+                    "example_sentence": "तक्षकः काष्ठशिल्पी अस्ति। (Takshaka is carpenter.)"
+                },
+                {
+                    "word": "वर्धकिः",
+                    "reading": "Var-dha-kih",
+                    "meaning": "Joiner/Carpenter",
+                    "example_sentence": "वर्धकिः सन्धानकारः। (Vardhaki is joiner.)"
+                },
+                {
+                    "word": "मयमतम्",
+                    "reading": "Ma-ya-ma-tam",
+                    "meaning": "Treatise on architecture by Maya",
+                    "example_sentence": "मयमतं मयकृतशास्त्रम्। (Mayamata is Maya's treatise.)"
+                },
+                {
+                    "word": "मानसारः",
+                    "reading": "Maa-na-saa-rah",
+                    "meaning": "Standard measurement treatise",
+                    "example_sentence": "मानसारः मानशास्त्रम् अस्ति। (Manasara is measurement treatise.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "दीप्तिः",
+                    "reading": "Deep-tih",
+                    "meaning": "Lustre/Radiance (in art)",
+                    "example_sentence": "दीप्तिः कलाप्रकाशः अस्ति। (Dipti is artistic radiance.)"
+                },
+                {
+                    "word": "लावण्यम्",
+                    "reading": "Laa-van-yam",
+                    "meaning": "Aesthetic charm/Salt-like beauty",
+                    "example_sentence": "लावण्यं सौन्दर्यम् अस्ति। (Lavanya is aesthetic charm.)"
+                },
+                {
+                    "word": "सादृश्यम्",
+                    "reading": "Saa-drush-yam",
+                    "meaning": "Similitude/Realism",
+                    "example_sentence": "सादृश्यं यथार्थता अस्ति। (Sadrishya is realism.)"
+                },
+                {
+                    "word": "प्रमाणम्",
+                    "reading": "Pra-maa-nam",
+                    "meaning": "Proportion",
+                    "example_sentence": "प्रमाणं अनुपातः अस्ति। (Pramana is proportion.)"
+                },
+                {
+                    "word": "रूपभेदः",
+                    "reading": "Roo-pa-bhe-dah",
+                    "meaning": "Differentiation of forms",
+                    "example_sentence": "रूपभेदः आकारविभागः। (Rupabheda is form differentiation.)"
+                },
+                {
+                    "word": "वर्णिकाभङ्गः",
+                    "reading": "Var-ni-kaa-bhan-gah",
+                    "meaning": "Manner of using brushes and colors",
+                    "example_sentence": "वर्णिकाभङ्गः तूलिकाविधिः। (Varnikabhanga is brush technique.)"
+                },
+                {
+                    "word": "धूलिचित्रम्",
+                    "reading": "Dhoo-li-chit-ram",
+                    "meaning": "Powder/Sand painting",
+                    "example_sentence": "धूलिचित्रं रङ्गोलीचित्रम्। (Dhulichitra is powder painting.)"
+                },
+                {
+                    "word": "भित्तिचित्रम्",
+                    "reading": "Bhit-ti-chit-ram",
+                    "meaning": "Fresco/Wall painting",
+                    "example_sentence": "भित्तिचित्रं भित्तिकलाचित्रम्। (Bhittichitra is wall painting.)"
+                },
+                {
+                    "word": "सुधा",
+                    "reading": "Su-dhaa",
+                    "meaning": "Stucco/Lime plaster",
+                    "example_sentence": "सुधा चूर्णलेपः अस्ति। (Sudha is lime plaster.)"
+                },
+                {
+                    "word": "वज्रलेपः",
+                    "reading": "Vaj-ra-le-pah",
+                    "meaning": "Indestructible cement/Glue",
+                    "example_sentence": "वज्रलेपः दृढसङ्गः। (Vajralepa is strong cement.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "अन्तरीक्षम्",
+                    "reading": "An-ta-reek-sham",
+                    "meaning": "Space between pillars",
+                    "example_sentence": "अन्तरीक्षं स्तम्भान्तरम्। (Antariksha is inter-pillar space.)"
+                },
+                {
+                    "word": "जगती",
+                    "reading": "Ja-ga-tee",
+                    "meaning": "Raised platform of a temple",
+                    "example_sentence": "जगती मन्दिरवेदिका। (Jagati is temple platform.)"
+                },
+                {
+                    "word": "अधिष्ठानम्",
+                    "reading": "A-dhish-thaa-nam",
+                    "meaning": "Plinth/Base",
+                    "example_sentence": "अधिष्ठानं भित्तिमूलम्। (Adhishthana is plinth.)"
+                },
+                {
+                    "word": "कपोतः",
+                    "reading": "Ka-po-tah",
+                    "meaning": "Pigeon-shelf/Eaves cornice",
+                    "example_sentence": "कपोतः छज्जा अस्ति। (Kapota is eaves cornice.)"
+                },
+                {
+                    "word": "नासिका",
+                    "reading": "Naa-si-kaa",
+                    "meaning": "Niche/Small window",
+                    "example_sentence": "नासिका लघुगवाक्षः। (Nasika is niche.)"
+                },
+                {
+                    "word": "मूर्त्तिः",
+                    "reading": "Moor-ttih",
+                    "meaning": "Manifest form",
+                    "example_sentence": "मूर्त्तिः प्रकटरूपम् अस्ति। (Murti is manifest form.)"
+                },
+                {
+                    "word": "व्योम",
+                    "reading": "Vyo-ma",
+                    "meaning": "Sky/Canopy design",
+                    "example_sentence": "व्योम आकाशचित्रम् अस्ति। (Vyoma is sky canopy.)"
+                },
+                {
+                    "word": "दिक्पालः",
+                    "reading": "Dik-paa-lah",
+                    "meaning": "Guardian of the directions",
+                    "example_sentence": "दिक्पालः दिशारक्षकः। (Dikpala is directional guardian.)"
+                },
+                {
+                    "word": "मकरतोरणम्",
+                    "reading": "Ma-ka-ra-to-ra-nam",
+                    "meaning": "Makara-shaped archway",
+                    "example_sentence": "मकरतोरणं मकराकृतिद्वारम्। (Makaratorana is makara archway.)"
+                },
+                {
+                    "word": "कीर्तिमुखः",
+                    "reading": "Keer-ti-mu-khah",
+                    "meaning": "Face of glory (motif)",
+                    "example_sentence": "कीर्तिमुखः यशोमुखम्। (Kirtimukha is glory face.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "यक्षः",
+                    "reading": "Yak-shah",
+                    "meaning": "Nature spirit (iconography)",
+                    "example_sentence": "यक्षः प्रकृतिदेवः अस्ति। (Yaksha is nature spirit.)"
+                },
+                {
+                    "word": "अप्सरा",
+                    "reading": "Ap-sa-raa",
+                    "meaning": "Celestial nymph (motif)",
+                    "example_sentence": "अप्सरा दिव्याङ्गना अस्ति। (Apsara is celestial nymph.)"
+                },
+                {
+                    "word": "गन्धर्वः",
+                    "reading": "Gan-dhar-vah",
+                    "meaning": "Celestial musician (motif)",
+                    "example_sentence": "गन्धर्वः दिव्यगायकः। (Gandharva is celestial musician.)"
+                },
+                {
+                    "word": "शार्दूलः",
+                    "reading": "Shaar-doo-lah",
+                    "meaning": "Mythical lion-griffin",
+                    "example_sentence": "शार्दूलः पौराणिकसिंहः। (Shardul is mythical lion.)"
+                },
+                {
+                    "word": "वास्तुकुण्डलम्",
+                    "reading": "Vaas-tu-kun-da-lam",
+                    "meaning": "Architectural layout/Diagram",
+                    "example_sentence": "वास्तुकुण्डलं निर्माणरेखाचित्रम्। (Vastukundala is layout diagram.)"
+                },
+                {
+                    "word": "पदविन्यासः",
+                    "reading": "Pa-da-vi-nyaa-sah",
+                    "meaning": "Grid layout",
+                    "example_sentence": "पदविन्यासः जालकरचना। (Padavinyasa is grid layout.)"
+                },
+                {
+                    "word": "ब्रह्मस्थानम्",
+                    "reading": "Brah-ma-sthaa-nam",
+                    "meaning": "Central point of a layout",
+                    "example_sentence": "ब्रह्मस्थानं केन्द्रबिन्दुः। (Brahmasthan is central point.)"
+                },
+                {
+                    "word": "शूद्रदण्डः",
+                    "reading": "Shoo-dra-dan-dah",
+                    "meaning": "Measuring rod",
+                    "example_sentence": "शूद्रदण्डः मापनदण्डः। (Shudradanda is measuring rod.)"
+                },
+                {
+                    "word": "रेखा",
+                    "reading": "Re-khaa",
+                    "meaning": "Outline/Geometric line",
+                    "example_sentence": "रेखा आलेखनरेखा अस्ति। (Rekha is outline.)"
+                },
+                {
+                    "word": "चित्रपटः",
+                    "reading": "Chit-ra-pa-tah",
+                    "meaning": "Canvas/Scroll",
+                    "example_sentence": "चित्रपटः चित्रवस्त्रम् अस्ति। (Chitrapata is canvas.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Shilpa Shastra Iconometry Trap",
+        "question": "What is the primary measurement system used in शिल्पशास्त्र (Shilpashastra) for creating deity images?",
+        "options": [
+            "Measurements are arbitrary and left to the artist's creativity",
+            "Talamana (palm-based proportional system) where the deity's height is divided into specific tala units",
+            "All images must be exactly life-size",
+            "Only geometric shapes like circles and squares are used"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "शिल्पशास्त्र (Shilpashastra) uses तालमान (talamana) - a sophisticated proportional measurement system based on the ताल (tala/palm width). This is a trap because many assume ancient art was intuitive or arbitrary. The system works thus: (1) The deity's total height is divided into specific tala units (e.g., दशताल = 10 talas for standing figures, नवताल = 9 talas for seated); (2) Each body part has precise proportions - face = 1 tala, torso = 3 talas, etc.; (3) Further subdivisions use अङ्गुल (angula/finger-width); (4) Different deity types have different canonical proportions. This ensures: (a) Aesthetic harmony (लावण्य); (b) Proper प्रमाण (proportion); (c) Recognition of the deity through standardized लक्षण (iconographic marks). Texts like मानसार and मयमत codify these rules. Understanding this teaches that Indian sacred art wasn't 'primitive' but followed rigorous mathematical and aesthetic principles, ensuring both beauty and theological correctness!"
+    }
+}

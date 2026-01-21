@@ -1,0 +1,672 @@
+{
+    "moduleId": "sa_b1_m03",
+    "theme": "Ancient Science & Mathematics",
+    "title": "Ancient Science & Mathematics",
+    "level": "b1",
+    "language": "sanskrit",
+    "order": 3,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "शुल्बसूत्रम्",
+                    "reading": "Shul-ba-soot-ram",
+                    "meaning": "Aphorisms on geometry/Cord rules (Trap Word)",
+                    "example_sentence": "शुल्बसूत्रं वैदिकज्यामितिशास्त्रम्। (Shulba Sutra is Vedic geometry.) [LIAR GAME TRAP]"
+                },
+                {
+                    "word": "रसरत्नसमुच्चयः",
+                    "reading": "Ra-sa-rat-na-sa-muc-cha-yah",
+                    "meaning": "Compendium of precious essences (Alchemy)",
+                    "example_sentence": "रसरत्नसमुच्चयः रसशास्त्रग्रन्थः। (Rasaratnasamuchchaya is an alchemical text.)"
+                },
+                {
+                    "word": "धातुवादः",
+                    "reading": "Dhaa-tu-vaa-dah",
+                    "meaning": "Metallurgy/Transmutation of metals",
+                    "example_sentence": "धातुवादः धातुपरिवर्तनविज्ञानम्। (Dhatuvada is the science of metal transformation.)"
+                },
+                {
+                    "word": "यन्त्रसर्वस्वम्",
+                    "reading": "Yan-tra-sar-vas-vam",
+                    "meaning": "Compendium of machines/mechanics",
+                    "example_sentence": "यन्त्रसर्वस्वं यन्त्रविज्ञानग्रन्थः। (Yantrasarvasva is a treatise on mechanics.)"
+                },
+                {
+                    "word": "पारदः",
+                    "reading": "Paa-ra-dah",
+                    "meaning": "Mercury (the element)",
+                    "example_sentence": "पारदः द्रवधातुः अस्ति। (Mercury is a liquid metal.)"
+                },
+                {
+                    "word": "गन्धकः",
+                    "reading": "Gan-dha-kah",
+                    "meaning": "Sulphur",
+                    "example_sentence": "गन्धकः पीतवर्णः धातुः। (Sulphur is a yellow element.)"
+                },
+                {
+                    "word": "अभ्रकम्",
+                    "reading": "Abh-ra-kam",
+                    "meaning": "Mica",
+                    "example_sentence": "अभ्रकं स्तरीकृतखनिजम्। (Mica is a layered mineral.)"
+                },
+                {
+                    "word": "तालकम्",
+                    "reading": "Taa-la-kam",
+                    "meaning": "Orpiment/Arsenic trisulphide",
+                    "example_sentence": "तालकं पीतवर्णं खनिजम्। (Orpiment is a yellow mineral.)"
+                },
+                {
+                    "word": "मनःशिला",
+                    "reading": "Ma-nah-shi-laa",
+                    "meaning": "Realgar/Red arsenic",
+                    "example_sentence": "मनःशिला रक्तवर्णं खनिजम्। (Realgar is a red mineral.)"
+                },
+                {
+                    "word": "कास्यम्",
+                    "reading": "Kaas-yam",
+                    "meaning": "Bronze/Bell metal",
+                    "example_sentence": "कास्यं ताम्ररङ्गमिश्रधातुः। (Bronze is a copper-tin alloy.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "रीतिः",
+                    "reading": "Ree-tih",
+                    "meaning": "Brass",
+                    "example_sentence": "रीतिः ताम्रजस्तमिश्रधातुः। (Brass is a copper-zinc alloy.)"
+                },
+                {
+                    "word": "चुम्बकः",
+                    "reading": "Chum-ba-kah",
+                    "meaning": "Magnet/Loadstone",
+                    "example_sentence": "चुम्बकः लौहाकर्षकः अस्ति। (Magnet attracts iron.)"
+                },
+                {
+                    "word": "सत्त्वपातनम्",
+                    "reading": "Sat-tva-paa-ta-nam",
+                    "meaning": "Extraction of essence/Smelting",
+                    "example_sentence": "सत्त्वपातनं धातुनिष्कासनम्। (Sattvapatana is metal extraction.)"
+                },
+                {
+                    "word": "मूषा",
+                    "reading": "Moo-shaa",
+                    "meaning": "Crucible",
+                    "example_sentence": "मूषायां धातुः द्रवीक्रियते। (Metal is melted in a crucible.)"
+                },
+                {
+                    "word": "कोष्ठिका",
+                    "reading": "Kosh-thi-kaa",
+                    "meaning": "Furnace",
+                    "example_sentence": "कोष्ठिकायां धातुः पच्यते। (Metal is smelted in a furnace.)"
+                },
+                {
+                    "word": "पुटम्",
+                    "reading": "Pu-tam",
+                    "meaning": "Heating process/Incineration",
+                    "example_sentence": "पुटं तापनप्रक्रिया अस्ति। (Puta is a heating process.)"
+                },
+                {
+                    "word": "भस्म",
+                    "reading": "Bhas-ma",
+                    "meaning": "Calcined residue/Ash",
+                    "example_sentence": "भस्म दग्धावशेषः अस्ति। (Bhasma is calcined residue.)"
+                },
+                {
+                    "word": "मारणम्",
+                    "reading": "Maa-ra-nam",
+                    "meaning": "Calcination/Killing of metals",
+                    "example_sentence": "मारणं धातुदहनम् अस्ति। (Marana is metal calcination.)"
+                },
+                {
+                    "word": "शोधनम्",
+                    "reading": "Sho-dha-nam",
+                    "meaning": "Purification/Refining",
+                    "example_sentence": "शोधनं शुद्धिकरणम् अस्ति। (Shodhana is purification.)"
+                },
+                {
+                    "word": "द्रवणम्",
+                    "reading": "Dra-va-nam",
+                    "meaning": "Liquefaction/Melting",
+                    "example_sentence": "द्रवणं गलनम् अस्ति। (Dravana is melting.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "परमाणुः",
+                    "reading": "Pa-ra-maa-nuh",
+                    "meaning": "Atom/Infinitesimal particle",
+                    "example_sentence": "परमाणुः अत्यन्तसूक्ष्मः अस्ति। (Atom is extremely subtle.)"
+                },
+                {
+                    "word": "द्वयणुकम्",
+                    "reading": "Dvya-nu-kam",
+                    "meaning": "Diatom/Binary compound",
+                    "example_sentence": "द्वयणुकं द्विपरमाणुसंयोगः। (Dyanuka is a two-atom combination.)"
+                },
+                {
+                    "word": "त्र्यणुकम्",
+                    "reading": "Trya-nu-kam",
+                    "meaning": "Triad/Tertiary compound",
+                    "example_sentence": "त्र्यणुकं त्रिपरमाणुसंयोगः। (Tryanuka is a three-atom combination.)"
+                },
+                {
+                    "word": "संयोगः",
+                    "reading": "Sam-yo-gah",
+                    "meaning": "Conjunction/Chemical combination",
+                    "example_sentence": "संयोगः रासायनिकमेलनम्। (Samyoga is chemical combination.)"
+                },
+                {
+                    "word": "विभागः",
+                    "reading": "Vi-bhaa-gah",
+                    "meaning": "Disjunction/Decomposition",
+                    "example_sentence": "विभागः विघटनम् अस्ति। (Vibhaga is decomposition.)"
+                },
+                {
+                    "word": "वेधः",
+                    "reading": "Ve-dhah",
+                    "meaning": "Piercing/Transformation",
+                    "example_sentence": "वेधः रासायनिकपरिवर्तनम्। (Vedha is chemical transformation.)"
+                },
+                {
+                    "word": "अङ्कपाशः",
+                    "reading": "An-ka-paa-shah",
+                    "meaning": "Permutations and combinations",
+                    "example_sentence": "अङ्कपाशः संयोजनगणितम्। (Ankapasha is combinatorics.)"
+                },
+                {
+                    "word": "वर्गप्रकृतिः",
+                    "reading": "Var-ga-pra-kru-tih",
+                    "meaning": "Square nature (Pell's equation)",
+                    "example_sentence": "वर्गप्रकृतिः वर्गसमीकरणम्। (Vargaprakriti is Pell's equation.)"
+                },
+                {
+                    "word": "कुट्टकः",
+                    "reading": "Kut-ta-kah",
+                    "meaning": "Pulverizer (Algorithm for linear equations)",
+                    "example_sentence": "कुट्टकः रैखिकसमीकरणविधिः। (Kuttaka is linear equation algorithm.)"
+                },
+                {
+                    "word": "विलोमविधिः",
+                    "reading": "Vi-lo-ma-vi-dhih",
+                    "meaning": "Method of inversion",
+                    "example_sentence": "विलोमविधिः व्युत्क्रमप्रक्रिया। (Vilomavidhi is inversion method.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "सङ्क्रान्तिः",
+                    "reading": "San-kraan-tih",
+                    "meaning": "Transition/Planetary entry",
+                    "example_sentence": "सङ्क्रान्तिः ग्रहसंक्रमणम्। (Sankranti is planetary transition.)"
+                },
+                {
+                    "word": "ज्योतिर्विज्ञानम्",
+                    "reading": "Jyo-tir-vi-jnyaa-nam",
+                    "meaning": "Astrophysics/Light science",
+                    "example_sentence": "ज्योतिर्विज्ञानं प्रकाशविज्ञानम्। (Jyotirvijnana is light science.)"
+                },
+                {
+                    "word": "गुरुत्वाकर्षणम्",
+                    "reading": "Gu-rut-vaa-kar-sha-nam",
+                    "meaning": "Gravitational attraction",
+                    "example_sentence": "गुरुत्वाकर्षणं गुरुत्वबलम् अस्ति। (Gurutvakarshana is gravitational force.)"
+                },
+                {
+                    "word": "छायायन्त्रम्",
+                    "reading": "Chaa-yaa-yan-tram",
+                    "meaning": "Gnomon/Sundial",
+                    "example_sentence": "छायायन्त्रं सूर्यघटिका अस्ति। (Chayayantra is a sundial.)"
+                },
+                {
+                    "word": "जलघटी",
+                    "reading": "Ja-la-gha-tee",
+                    "meaning": "Water clock (Clepsydra)",
+                    "example_sentence": "जलघटी जलघटिका अस्ति। (Jalaghati is a water clock.)"
+                },
+                {
+                    "word": "भपञ्जरः",
+                    "reading": "Bha-pan-ja-rah",
+                    "meaning": "Celestial sphere",
+                    "example_sentence": "भपञ्जरः आकाशगोलः अस्ति। (Bhapanjara is the celestial sphere.)"
+                },
+                {
+                    "word": "वृत्तपाशः",
+                    "reading": "Vru-tta-paa-shah",
+                    "meaning": "Compass (Drawing tool)",
+                    "example_sentence": "वृत्तपाशेन वृत्तं रच्यते। (Circle is drawn with compass.)"
+                },
+                {
+                    "word": "कोटिज्या",
+                    "reading": "Ko-tij-yaa",
+                    "meaning": "Cosine",
+                    "example_sentence": "कोटिज्या त्रिकोणमितीयफलनम्। (Kotijya is a trigonometric function.)"
+                },
+                {
+                    "word": "ज्या",
+                    "reading": "Jyaa",
+                    "meaning": "Sine/Chord",
+                    "example_sentence": "ज्या त्रिकोणमितीयफलनम्। (Jya is a trigonometric function.)"
+                },
+                {
+                    "word": "उत्क्रमज्या",
+                    "reading": "Ut-kra-ma-jyaa",
+                    "meaning": "Versine",
+                    "example_sentence": "उत्क्रमज्या त्रिकोणमितीयफलनम्। (Utkramajya is versine.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "धनम्",
+                    "reading": "Dha-nam",
+                    "meaning": "Positive quantity/Asset",
+                    "example_sentence": "धनं धनात्मकसङ्ख्या अस्ति। (Dhana is positive number.)"
+                },
+                {
+                    "word": "ऋणम्",
+                    "reading": "Ru-nam",
+                    "meaning": "Negative quantity/Debt",
+                    "example_sentence": "ऋणं ऋणात्मकसङ्ख्या अस्ति। (Rina is negative number.)"
+                },
+                {
+                    "word": "खम्",
+                    "reading": "Kham",
+                    "meaning": "Zero/Void",
+                    "example_sentence": "खं शून्यम् अस्ति। (Kha is zero.)"
+                },
+                {
+                    "word": "अनन्तम्",
+                    "reading": "A-nan-tam",
+                    "meaning": "Infinity",
+                    "example_sentence": "अनन्तं असीमितम् अस्ति। (Ananta is infinity.)"
+                },
+                {
+                    "word": "करणी",
+                    "reading": "Ka-ra-nee",
+                    "meaning": "Surd/Square root",
+                    "example_sentence": "करणी वर्गमूलम् अस्ति। (Karani is square root.)"
+                },
+                {
+                    "word": "मूलम्",
+                    "reading": "Moo-lam",
+                    "meaning": "Radix/Base",
+                    "example_sentence": "मूलं आधारसङ्ख्या अस्ति। (Mula is base number.)"
+                },
+                {
+                    "word": "पातः",
+                    "reading": "Paa-tah",
+                    "meaning": "Intersection/Node",
+                    "example_sentence": "पातः ग्रहपातबिन्दुः। (Pata is nodal point.)"
+                },
+                {
+                    "word": "मन्दोच्चम्",
+                    "reading": "Man-doc-cham",
+                    "meaning": "Apogee",
+                    "example_sentence": "मन्दोच्चं दूरतमबिन्दुः। (Mandochcha is apogee.)"
+                },
+                {
+                    "word": "शीघ्रोच्चम्",
+                    "reading": "Shee-ghroc-cham",
+                    "meaning": "Perigee",
+                    "example_sentence": "शीघ्रोच्चं निकटतमबिन्दुः। (Shighrochcha is perigee.)"
+                },
+                {
+                    "word": "परिधिः",
+                    "reading": "Pa-ri-dhih",
+                    "meaning": "Orbit/Boundary",
+                    "example_sentence": "परिधिः वृत्तपरिमितिः। (Paridhi is circumference.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "शकुनशास्त्रम्",
+                    "reading": "Sha-ku-na-shaas-tram",
+                    "meaning": "Science of omens/Aeronautics (context dependent)",
+                    "example_sentence": "शकुनशास्त्रं शकुनविज्ञानम्। (Shakunashastra is omen science.)"
+                },
+                {
+                    "word": "विमानविद्या",
+                    "reading": "Vi-maa-na-vid-yaa",
+                    "meaning": "Aeronautics/Science of flying",
+                    "example_sentence": "विमानविद्या आकाशयानविज्ञानम्। (Vimanavidya is aeronautics.)"
+                },
+                {
+                    "word": "ऊर्जायन्त्रम्",
+                    "reading": "Oor-jaa-yan-tram",
+                    "meaning": "Energy machine/Engine",
+                    "example_sentence": "ऊर्जायन्त्रं शक्तियन्त्रम् अस्ति। (Urjayantra is energy machine.)"
+                },
+                {
+                    "word": "यन्त्रशक्तिः",
+                    "reading": "Yan-tra-shak-tih",
+                    "meaning": "Mechanical power",
+                    "example_sentence": "यन्त्रशक्तिः यान्त्रिकबलम्। (Yantrashakti is mechanical power.)"
+                },
+                {
+                    "word": "स्वयंवहः",
+                    "reading": "Sva-yam-va-hah",
+                    "meaning": "Automatic/Self-moving",
+                    "example_sentence": "स्वयंवहः स्वचालितः अस्ति। (Svayamvaha is automatic.)"
+                },
+                {
+                    "word": "कृत्रिमज्योतिः",
+                    "reading": "Kru-tri-ma-jyo-tih",
+                    "meaning": "Artificial light",
+                    "example_sentence": "कृत्रिमज्योतिः निर्मितप्रकाशः। (Kritrimajyoti is artificial light.)"
+                },
+                {
+                    "word": "दर्पणविज्ञानम्",
+                    "reading": "Dar-pa-na-vi-jnyaa-nam",
+                    "meaning": "Optics/Science of mirrors",
+                    "example_sentence": "दर्पणविज्ञानं प्रकाशिकीविज्ञानम्। (Darpanavijnana is optics.)"
+                },
+                {
+                    "word": "शब्दवेगः",
+                    "reading": "Shab-da-ve-gah",
+                    "meaning": "Speed of sound",
+                    "example_sentence": "शब्दवेगः ध्वनिगतिः अस्ति। (Shabdavega is sound velocity.)"
+                },
+                {
+                    "word": "तरङ्गदैर्घ्यम्",
+                    "reading": "Ta-ran-ga-dair-ghyam",
+                    "meaning": "Wavelength",
+                    "example_sentence": "तरङ्गदैर्घ्यं तरङ्गस्य दीर्घता। (Tarangadairghya is wavelength.)"
+                },
+                {
+                    "word": "कम्पनम्",
+                    "reading": "Kam-pa-nam",
+                    "meaning": "Vibration/Frequency",
+                    "example_sentence": "कम्पनं स्पन्दनम् अस्ति। (Kampana is vibration.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "अणुवीक्षणम्",
+                    "reading": "A-nu-veek-sha-nam",
+                    "meaning": "Microscopy",
+                    "example_sentence": "अणुवीक्षणं सूक्ष्मदर्शनम्। (Anuvikshana is microscopy.)"
+                },
+                {
+                    "word": "दूरदर्शनम्",
+                    "reading": "Doo-ra-dar-sha-nam",
+                    "meaning": "Telescopy",
+                    "example_sentence": "दूरदर्शनं दूरीकृतदर्शनम्। (Duradarshana is telescopy.)"
+                },
+                {
+                    "word": "अयस्कान्तशक्तिः",
+                    "reading": "A-yas-kaan-ta-shak-tih",
+                    "meaning": "Magnetic force",
+                    "example_sentence": "अयस्कान्तशक्तिः चुम्बकीयबलम्। (Ayaskantashakti is magnetic force.)"
+                },
+                {
+                    "word": "स्थिरविद्युत्",
+                    "reading": "Sthi-ra-vid-yut",
+                    "meaning": "Static electricity",
+                    "example_sentence": "स्थिरविद्युत् स्थैतिकविद्युत् अस्ति। (Sthiravidyut is static electricity.)"
+                },
+                {
+                    "word": "धातुपाकः",
+                    "reading": "Dhaa-tu-paa-kah",
+                    "meaning": "Metallurgical cooking/Smelting",
+                    "example_sentence": "धातुपाकः धातुगलनम् अस्ति। (Dhatupaka is metal smelting.)"
+                },
+                {
+                    "word": "ताम्रपट्टम्",
+                    "reading": "Taam-ra-pat-tam",
+                    "meaning": "Copper plate",
+                    "example_sentence": "ताम्रपट्टं ताम्रफलकम् अस्ति। (Tamrapatta is copper plate.)"
+                },
+                {
+                    "word": "अञ्जनम्",
+                    "reading": "An-ja-nam",
+                    "meaning": "Compound/Ointment (Chemical)",
+                    "example_sentence": "अञ्जनं रासायनिकमिश्रणम्। (Anjana is chemical compound.)"
+                },
+                {
+                    "word": "कज्जली",
+                    "reading": "Kaj-ja-lee",
+                    "meaning": "Black sulphide of mercury",
+                    "example_sentence": "कज्जली पारदस्य कृष्णयौगिकम्। (Kajjali is black mercury compound.)"
+                },
+                {
+                    "word": "सिन्दूरम्",
+                    "reading": "Sin-doo-ram",
+                    "meaning": "Red lead/Vermilion",
+                    "example_sentence": "सिन्दूरं रक्तवर्णं यौगिकम्। (Sindura is red compound.)"
+                },
+                {
+                    "word": "शिलाजतु",
+                    "reading": "Shi-laa-ja-tu",
+                    "meaning": "Asphaltum/Bitumen",
+                    "example_sentence": "शिलाजतु पर्वतजं द्रव्यम्। (Shilajatu is mountain exudate.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "गन्धकद्रावकः",
+                    "reading": "Gan-dha-ka-draa-va-kah",
+                    "meaning": "Sulphuric acid",
+                    "example_sentence": "गन्धकद्रावकः तीव्रअम्लम् अस्ति। (Gandhakadr avaka is strong acid.)"
+                },
+                {
+                    "word": "क्षारम्",
+                    "reading": "Kshaa-ram",
+                    "meaning": "Alkali",
+                    "example_sentence": "क्षारं क्षारीयद्रव्यम् अस्ति। (Kshara is alkaline substance.)"
+                },
+                {
+                    "word": "अम्लम्",
+                    "reading": "Am-lam",
+                    "meaning": "Acid",
+                    "example_sentence": "अम्लं अम्लीयद्रव्यम् अस्ति। (Amla is acidic substance.)"
+                },
+                {
+                    "word": "द्रावकः",
+                    "reading": "Draa-va-kah",
+                    "meaning": "Solvent",
+                    "example_sentence": "द्रावकः विलायकद्रव्यम्। (Dravaka is solvent.)"
+                },
+                {
+                    "word": "विलयनम्",
+                    "reading": "Vi-la-ya-nam",
+                    "meaning": "Solution/Dissolving",
+                    "example_sentence": "विलयनं विलयनप्रक्रिया। (Vilayana is dissolution.)"
+                },
+                {
+                    "word": "घनत्वम्",
+                    "reading": "Gha-nat-vam",
+                    "meaning": "Density/Solidity",
+                    "example_sentence": "घनत्वं द्रव्यमानघनता। (Ghanatva is density.)"
+                },
+                {
+                    "word": "गुरुत्वकेन्द्रम्",
+                    "reading": "Gu-rut-va-ken-dram",
+                    "meaning": "Center of gravity",
+                    "example_sentence": "गुरुत्वकेन्द्रं भारकेन्द्रम् अस्ति। (Gurutvakendra is center of mass.)"
+                },
+                {
+                    "word": "जडत्वम्",
+                    "reading": "Ja-da-tvam",
+                    "meaning": "Inertia",
+                    "example_sentence": "जडत्वं गतिप्रतिरोधः अस्ति। (Jadatva is resistance to motion.)"
+                },
+                {
+                    "word": "प्रवेगः",
+                    "reading": "Pra-ve-gah",
+                    "meaning": "Acceleration/Rapid speed",
+                    "example_sentence": "प्रवेगः त्वरणम् अस्ति। (Pravega is acceleration.)"
+                },
+                {
+                    "word": "संवेगः",
+                    "reading": "Sam-ve-gah",
+                    "meaning": "Momentum",
+                    "example_sentence": "संवेगः गतिवेगः अस्ति। (Samvega is momentum.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "शक्तिसञ्चयः",
+                    "reading": "Shak-ti-san-cha-yah",
+                    "meaning": "Storage of energy",
+                    "example_sentence": "शक्तिसञ्चयः ऊर्जासंग्रहः। (Shaktisanchaya is energy storage.)"
+                },
+                {
+                    "word": "यन्त्रवाहः",
+                    "reading": "Yan-tra-vaa-hah",
+                    "meaning": "Conveyor/Mechanical transport",
+                    "example_sentence": "यन्त्रवाहः यान्त्रिकवाहनम्। (Yantravaha is mechanical conveyor.)"
+                },
+                {
+                    "word": "नालिका",
+                    "reading": "Naa-li-kaa",
+                    "meaning": "Tube/Conduit",
+                    "example_sentence": "नालिका नलिका अस्ति। (Nalika is a tube.)"
+                },
+                {
+                    "word": "कपाटः",
+                    "reading": "Ka-paa-tah",
+                    "meaning": "Valve/Door",
+                    "example_sentence": "कपाटः निरोधकः अस्ति। (Kapata is a valve.)"
+                },
+                {
+                    "word": "भ्रमिका",
+                    "reading": "Bhra-mi-kaa",
+                    "meaning": "Pulley/Spinner",
+                    "example_sentence": "भ्रमिका घर्घरः अस्ति। (Bhramika is a pulley.)"
+                },
+                {
+                    "word": "आरः",
+                    "reading": "Aa-rah",
+                    "meaning": "Spoke of a wheel",
+                    "example_sentence": "आरः चक्रस्य दण्डः। (Ara is wheel spoke.)"
+                },
+                {
+                    "word": "नाभिः",
+                    "reading": "Naa-bhih",
+                    "meaning": "Hub of a wheel/Nave",
+                    "example_sentence": "नाभिः चक्रस्य केन्द्रम्। (Nabhi is wheel hub.)"
+                },
+                {
+                    "word": "नेमिः",
+                    "reading": "Ne-mih",
+                    "meaning": "Rim of a wheel",
+                    "example_sentence": "नेमिः चक्रस्य परिधिः। (Nemi is wheel rim.)"
+                },
+                {
+                    "word": "अक्षः",
+                    "reading": "Ak-shah",
+                    "meaning": "Axle",
+                    "example_sentence": "अक्षः चक्रदण्डः अस्ति। (Aksha is an axle.)"
+                },
+                {
+                    "word": "कीलकः",
+                    "reading": "Kee-la-kah",
+                    "meaning": "Pivot/Bolt",
+                    "example_sentence": "कीलकः स्थिरीकरणदण्डः। (Kilaka is a bolt.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "सूचीयन्त्रम्",
+                    "reading": "Soo-chee-yan-tram",
+                    "meaning": "Needle machine/Compass",
+                    "example_sentence": "सूचीयन्त्रं दिक्सूचकयन्त्रम्। (Suchiyantra is a compass.)"
+                },
+                {
+                    "word": "छायाप्रमाणम्",
+                    "reading": "Chaa-yaa-pra-maa-nam",
+                    "meaning": "Measurement by shadow",
+                    "example_sentence": "छायाप्रमाणं छायामापनम्। (Chayapramana is shadow measurement.)"
+                },
+                {
+                    "word": "कालमापनम्",
+                    "reading": "Kaa-la-maa-pa-nam",
+                    "meaning": "Time measurement/Chronometry",
+                    "example_sentence": "कालमापनं समयमापनम्। (Kalamapana is time measurement.)"
+                },
+                {
+                    "word": "गणितस्कन्धः",
+                    "reading": "Ga-ni-ta-skan-dhah",
+                    "meaning": "Section on mathematics",
+                    "example_sentence": "गणितस्कन्धः गणितभागः अस्ति। (Ganitaskandha is math section.)"
+                },
+                {
+                    "word": "बीजगणितम्",
+                    "reading": "Bee-ja-ga-ni-tam",
+                    "meaning": "Algebra (Analysis of seeds/causes)",
+                    "example_sentence": "बीजगणितं चरगणितम् अस्ति। (Bijaganita is algebra.)"
+                },
+                {
+                    "word": "रेखागणितम्",
+                    "reading": "Re-khaa-ga-ni-tam",
+                    "meaning": "Geometry (Analysis of lines)",
+                    "example_sentence": "रेखागणितं ज्यामितिः अस्ति। (Rekhaganita is geometry.)"
+                },
+                {
+                    "word": "त्रिकोणमितिः",
+                    "reading": "Tri-ko-na-mi-tih",
+                    "meaning": "Trigonometry",
+                    "example_sentence": "त्रिकोणमितिः त्रिभुजगणितम्। (Trikonamiti is trigonometry.)"
+                },
+                {
+                    "word": "कलनम्",
+                    "reading": "Ka-la-nam",
+                    "meaning": "Calculus/Computation",
+                    "example_sentence": "कलनं सूक्ष्मगणितम् अस्ति। (Kalana is calculus.)"
+                },
+                {
+                    "word": "अनन्तस्पर्शकः",
+                    "reading": "A-nan-ta-spar-sha-kah",
+                    "meaning": "Asymptote",
+                    "example_sentence": "अनन्तस्पर्शकः असीमस्पर्शरेखा। (Anantasparshaka is asymptote.)"
+                },
+                {
+                    "word": "वृत्तलेखः",
+                    "reading": "Vru-tta-le-khah",
+                    "meaning": "Graph of a circle",
+                    "example_sentence": "वृत्तलेखः वृत्तचित्रम् अस्ति। (Vrittalekha is circle graph.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Vedic Geometry Precision Trap",
+        "question": "What is the precise historical significance of शुल्बसूत्र (Shulba Sutra) in ancient Indian mathematics?",
+        "options": [
+            "It's just a collection of religious rituals with no mathematical content",
+            "It contains geometric principles for altar construction, including Pythagorean theorem centuries before Pythagoras",
+            "It's a modern invention falsely attributed to ancient India",
+            "It only deals with basic arithmetic, not geometry"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The शुल्बसूत्र (Shulba Sutras, literally 'cord rules') are ancient Vedic texts (circa 800-500 BCE) that contain sophisticated geometric principles for constructing fire altars (वेदी) with precise measurements. This is a trap because many assume these are purely religious texts, but they actually contain advanced mathematics including: (1) The Pythagorean theorem (called भुजकोटिकर्णन्याय) stated centuries before Pythagoras; (2) Methods for constructing squares and circles of equal area; (3) Approximations of √2 accurate to 5 decimal places; (4) Geometric transformations and area calculations. The शुल्बसूत्र represent the earliest known systematic treatment of geometry in India, demonstrating that Vedic priests were accomplished mathematicians who used 'cords' (शुल्ब) as measuring tools. This teaches learners that ancient Indian scientific texts often embedded profound mathematical knowledge within ritual contexts!"
+    }
+}

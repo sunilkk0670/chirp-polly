@@ -1,0 +1,672 @@
+{
+    "moduleId": "sa_b1_m06",
+    "theme": "Ritual & Spiritual Practice",
+    "title": "Ritual & Spiritual Practice",
+    "level": "b1",
+    "language": "sanskrit",
+    "order": 6,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "अग्निहोत्रम्",
+                    "reading": "Ag-ni-ho-tram",
+                    "meaning": "Sacred fire ritual (Trap Word)",
+                    "example_sentence": "अग्निहोत्रं नित्यकर्म अस्ति। (Agnihotra is daily ritual.) [LIAR GAME TRAP]"
+                },
+                {
+                    "word": "होता",
+                    "reading": "Ho-taa",
+                    "meaning": "Priest who offers oblations",
+                    "example_sentence": "होता हविः अर्पयति। (Hota offers oblations.)"
+                },
+                {
+                    "word": "यजमानः",
+                    "reading": "Ya-ja-maa-nah",
+                    "meaning": "Patron/Sacrifice performer",
+                    "example_sentence": "यजमानः यज्ञकर्ता अस्ति। (Yajamana is sacrifice patron.)"
+                },
+                {
+                    "word": "पूर्णाहुतिः",
+                    "reading": "Poor-naa-hu-tih",
+                    "meaning": "Final complete offering",
+                    "example_sentence": "पूर्णाहुतिः अन्तिमाहुतिः। (Purnahuti is final offering.)"
+                },
+                {
+                    "word": "हविः",
+                    "reading": "Ha-vih",
+                    "meaning": "Sacrificial oblation",
+                    "example_sentence": "हविः यज्ञद्रव्यम् अस्ति। (Havis is sacrificial material.)"
+                },
+                {
+                    "word": "स्रुक्",
+                    "reading": "Sruk",
+                    "meaning": "Sacrificial ladle",
+                    "example_sentence": "स्रुक् हविःपात्रम् अस्ति। (Sruk is oblation ladle.)"
+                },
+                {
+                    "word": "स्रुवः",
+                    "reading": "Sru-vah",
+                    "meaning": "Sacrificial spoon",
+                    "example_sentence": "स्रुवः यज्ञचमसः अस्ति। (Sruva is sacrificial spoon.)"
+                },
+                {
+                    "word": "कुण्डम्",
+                    "reading": "Kun-dam",
+                    "meaning": "Fire pit/Receptacle",
+                    "example_sentence": "कुण्डं अग्निस्थानम् अस्ति। (Kunda is fire pit.)"
+                },
+                {
+                    "word": "वेदिः",
+                    "reading": "Ve-dih",
+                    "meaning": "Altar",
+                    "example_sentence": "वेदिः यज्ञवेदिः अस्ति। (Vedi is sacrificial altar.)"
+                },
+                {
+                    "word": "दूर्वा",
+                    "reading": "Door-vaa",
+                    "meaning": "Sacred grass",
+                    "example_sentence": "दूर्वा पवित्रतृणम् अस्ति। (Durva is sacred grass.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "समित्",
+                    "reading": "Sa-mit",
+                    "meaning": "Sacrificial firewood",
+                    "example_sentence": "समित् यज्ञकाष्ठम् अस्ति। (Samit is ritual firewood.)"
+                },
+                {
+                    "word": "अर्घ्यम्",
+                    "reading": "Argh-yam",
+                    "meaning": "Water for respectful reception",
+                    "example_sentence": "अर्घ्यं सम्मानजलम् अस्ति। (Arghya is respectful water.)"
+                },
+                {
+                    "word": "आचमनम्",
+                    "reading": "Aa-cha-ma-nam",
+                    "meaning": "Sipping water for purification",
+                    "example_sentence": "आचमनं शुद्धिक्रिया अस्ति। (Achamana is purification sipping.)"
+                },
+                {
+                    "word": "न्यासः",
+                    "reading": "Nyaa-sah",
+                    "meaning": "Ritual placement of touch",
+                    "example_sentence": "न्यासः स्पर्शविधिः अस्ति। (Nyasa is ritual touching.)"
+                },
+                {
+                    "word": "मुद्रा",
+                    "reading": "Mud-raa",
+                    "meaning": "Ritual hand gesture",
+                    "example_sentence": "मुद्रा हस्तसङ्केतः अस्ति। (Mudra is hand gesture.)"
+                },
+                {
+                    "word": "जपः",
+                    "reading": "Ja-pah",
+                    "meaning": "Meditative repetition of mantra",
+                    "example_sentence": "जपः मन्त्रपाठः अस्ति। (Japa is mantra repetition.)"
+                },
+                {
+                    "word": "पुरश्चरणम्",
+                    "reading": "Pu-rash-cha-ra-nam",
+                    "meaning": "Preparatory rite of mantra",
+                    "example_sentence": "पुरश्चरणं मन्त्रसाधनम्। (Purashcharana is mantra practice.)"
+                },
+                {
+                    "word": "तर्पणम्",
+                    "reading": "Tar-pa-nam",
+                    "meaning": "Libation to ancestors",
+                    "example_sentence": "तर्पणं पितृअर्पणम् अस्ति। (Tarpana is ancestral offering.)"
+                },
+                {
+                    "word": "अभिषेकः",
+                    "reading": "A-bhi-she-kah",
+                    "meaning": "Ritual bathing/Anointment",
+                    "example_sentence": "अभिषेकः पवित्रस्नानम्। (Abhisheka is ritual bathing.)"
+                },
+                {
+                    "word": "प्रणामः",
+                    "reading": "Pra-naa-mah",
+                    "meaning": "Prostration/Salutation",
+                    "example_sentence": "प्रणामः नमस्कारः अस्ति। (Pranama is prostration.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "प्रदक्षिणा",
+                    "reading": "Pra-dak-shi-naa",
+                    "meaning": "Circumambulation",
+                    "example_sentence": "प्रदक्षिणा परिक्रमा अस्ति। (Pradakshina is circumambulation.)"
+                },
+                {
+                    "word": "सन्ध्यावन्दनम्",
+                    "reading": "San-dhyaa-van-da-nam",
+                    "meaning": "Twilight prayer ritual",
+                    "example_sentence": "सन्ध्यावन्दनं नित्यकर्म अस्ति। (Sandhyavandana is daily prayer.)"
+                },
+                {
+                    "word": "प्राणप्रतिष्ठा",
+                    "reading": "Praa-na-pra-tish-thaa",
+                    "meaning": "Consecration of an idol",
+                    "example_sentence": "प्राणप्रतिष्ठा मूर्तिसंस्कारः। (Pranapratishtha is idol consecration.)"
+                },
+                {
+                    "word": "षोडशोपचारः",
+                    "reading": "Sho-da-sho-pa-chaa-rah",
+                    "meaning": "Sixteen modes of worship",
+                    "example_sentence": "षोडशोपचारः पूजाविधिः। (Shodashopachara is worship protocol.)"
+                },
+                {
+                    "word": "नैवेद्यम्",
+                    "reading": "Nai-ved-yam",
+                    "meaning": "Food offering to deity",
+                    "example_sentence": "नैवेद्यं देवभोजनम् अस्ति। (Naivedya is deity food offering.)"
+                },
+                {
+                    "word": "आरती",
+                    "reading": "Aa-ra-tee",
+                    "meaning": "Waving of lights ritual",
+                    "example_sentence": "आरती दीपनीराजनम्। (Arati is light waving.)"
+                },
+                {
+                    "word": "प्रसादः",
+                    "reading": "Pra-saa-dah",
+                    "meaning": "Sanctified offering remnants",
+                    "example_sentence": "प्रसादः देवभोग्यावशेषः। (Prasada is blessed food.)"
+                },
+                {
+                    "word": "व्रतम्",
+                    "reading": "Vra-tam",
+                    "meaning": "Religious vow/Austerity",
+                    "example_sentence": "व्रतं धार्मिकप्रतिज्ञा अस्ति। (Vrata is religious vow.)"
+                },
+                {
+                    "word": "उपवासः",
+                    "reading": "U-pa-vaa-sah",
+                    "meaning": "Fasting",
+                    "example_sentence": "उपवासः अनशनम् अस्ति। (Upavasa is fasting.)"
+                },
+                {
+                    "word": "मौनम्",
+                    "reading": "Mau-nam",
+                    "meaning": "Vow of silence",
+                    "example_sentence": "मौनं मूकव्रतम् अस्ति। (Mauna is silence vow.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "यन्त्रम्",
+                    "reading": "Yan-tram",
+                    "meaning": "Mystical diagram",
+                    "example_sentence": "यन्त्रं रहस्यचित्रम् अस्ति। (Yantra is mystical diagram.)"
+                },
+                {
+                    "word": "चक्रम्",
+                    "reading": "Chak-ram",
+                    "meaning": "Energy center/Wheel",
+                    "example_sentence": "चक्रं शक्तिकेन्द्रम् अस्ति। (Chakra is energy center.)"
+                },
+                {
+                    "word": "कुण्डलिनी",
+                    "reading": "Kun-da-li-nee",
+                    "meaning": "Coiled spiritual energy",
+                    "example_sentence": "कुण्डलिनी सुप्तशक्तिः अस्ति। (Kundalini is dormant energy.)"
+                },
+                {
+                    "word": "नाडी",
+                    "reading": "Naa-dee",
+                    "meaning": "Energy channel",
+                    "example_sentence": "नाडी प्राणवाहिनी अस्ति। (Nadi is energy channel.)"
+                },
+                {
+                    "word": "सुषुम्णा",
+                    "reading": "Su-shum-naa",
+                    "meaning": "Central energy channel",
+                    "example_sentence": "सुषुम्णा मध्यनाडी अस्ति। (Sushumna is central channel.)"
+                },
+                {
+                    "word": "इडा",
+                    "reading": "I-daa",
+                    "meaning": "Left energy channel",
+                    "example_sentence": "इडा वामनाडी अस्ति। (Ida is left channel.)"
+                },
+                {
+                    "word": "पिङ्गला",
+                    "reading": "Pin-ga-laa",
+                    "meaning": "Right energy channel",
+                    "example_sentence": "पिङ्गला दक्षिणनाडी अस्ति। (Pingala is right channel.)"
+                },
+                {
+                    "word": "अष्टाङ्गयोगः",
+                    "reading": "Ash-taan-ga-yo-gah",
+                    "meaning": "Eight-limbed Yoga",
+                    "example_sentence": "अष्टाङ्गयोगः पतञ्जलिसिद्धान्तः। (Ashtangayoga is Patanjali's system.)"
+                },
+                {
+                    "word": "यमः",
+                    "reading": "Ya-mah",
+                    "meaning": "Ethical restraint",
+                    "example_sentence": "यमः नैतिकनियमः अस्ति। (Yama is ethical restraint.)"
+                },
+                {
+                    "word": "नियमः",
+                    "reading": "Ni-ya-mah",
+                    "meaning": "Spiritual observance",
+                    "example_sentence": "नियमः आध्यात्मिकाचारः। (Niyama is spiritual observance.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "आसनम्",
+                    "reading": "Aa-sa-nam",
+                    "meaning": "Posture",
+                    "example_sentence": "आसनं स्थिरसुखम् अस्ति। (Asana is steady comfortable posture.)"
+                },
+                {
+                    "word": "प्राणायामः",
+                    "reading": "Praa-naa-yaa-mah",
+                    "meaning": "Breath control",
+                    "example_sentence": "प्राणायामः श्वासनियन्त्रणम्। (Pranayama is breath control.)"
+                },
+                {
+                    "word": "प्रत्याहारः",
+                    "reading": "Prat-yaa-haa-rah",
+                    "meaning": "Withdrawal of senses",
+                    "example_sentence": "प्रत्याहारः इन्द्रियनिवृत्तिः। (Pratyahara is sense withdrawal.)"
+                },
+                {
+                    "word": "धारणा",
+                    "reading": "Dhaa-ra-naa",
+                    "meaning": "Concentration",
+                    "example_sentence": "धारणा एकाग्रता अस्ति। (Dharana is concentration.)"
+                },
+                {
+                    "word": "ध्यानम्",
+                    "reading": "Dhyaa-nam",
+                    "meaning": "Meditation",
+                    "example_sentence": "ध्यानं चिन्तनम् अस्ति। (Dhyana is meditation.)"
+                },
+                {
+                    "word": "सविकल्पसमाधिः",
+                    "reading": "Sa-vi-kal-pa-sa-maa-dhih",
+                    "meaning": "Differentiated absorption",
+                    "example_sentence": "सविकल्पसमाधिः सभेदसमाधिः। (Savikalpasamadhi is with distinction.)"
+                },
+                {
+                    "word": "निर्विकल्पसमाधिः",
+                    "reading": "Nir-vi-kal-pa-sa-maa-dhih",
+                    "meaning": "Undifferentiated absorption",
+                    "example_sentence": "निर्विकल्पसमाधिः निर्भेदसमाधिः। (Nirvikalpasamadhi is without distinction.)"
+                },
+                {
+                    "word": "बन्धः",
+                    "reading": "Ban-dhah",
+                    "meaning": "Yogic lock",
+                    "example_sentence": "बन्धः योगिकनिरोधः अस्ति। (Bandha is yogic lock.)"
+                },
+                {
+                    "word": "खेचरी",
+                    "reading": "Khe-cha-ree",
+                    "meaning": "Sky-moving mudra",
+                    "example_sentence": "खेचरी जिह्वामुद्रा अस्ति। (Khechari is tongue mudra.)"
+                },
+                {
+                    "word": "कुम्भकः",
+                    "reading": "Kum-bha-kah",
+                    "meaning": "Retention of breath",
+                    "example_sentence": "कुम्भकः श्वासधारणम् अस्ति। (Kumbhaka is breath retention.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "रेचकः",
+                    "reading": "Re-cha-kah",
+                    "meaning": "Exhalation",
+                    "example_sentence": "रेचकः निःश्वासः अस्ति। (Rechaka is exhalation.)"
+                },
+                {
+                    "word": "पूरकः",
+                    "reading": "Poo-ra-kah",
+                    "meaning": "Inhalation",
+                    "example_sentence": "पूरकः आश्वासः अस्ति। (Puraka is inhalation.)"
+                },
+                {
+                    "word": "शक्तिपातः",
+                    "reading": "Shak-ti-paa-tah",
+                    "meaning": "Descent of grace/energy",
+                    "example_sentence": "शक्तिपातः अनुग्रहावतरणम्। (Shaktipata is grace descent.)"
+                },
+                {
+                    "word": "गुरुदीक्षा",
+                    "reading": "Gu-ru-deek-shaa",
+                    "meaning": "Initiation by a teacher",
+                    "example_sentence": "गुरुदीक्षा गुरुसंस्कारः। (Gurudiksha is guru initiation.)"
+                },
+                {
+                    "word": "सत्संगः",
+                    "reading": "Sat-san-gah",
+                    "meaning": "Association with the wise",
+                    "example_sentence": "सत्संगः साधुसङ्गः अस्ति। (Satsanga is holy company.)"
+                },
+                {
+                    "word": "स्वाध्यायः",
+                    "reading": "Svaadh-yaa-yah",
+                    "meaning": "Study of self/scriptures",
+                    "example_sentence": "स्वाध्यायः शास्त्राध्ययनम्। (Svadhyaya is scripture study.)"
+                },
+                {
+                    "word": "ईश्वरप्रणिधानम्",
+                    "reading": "Eesh-va-ra-pra-ni-dhaa-nam",
+                    "meaning": "Surrender to the Lord",
+                    "example_sentence": "ईश्वरप्रणिधानं भगवत्समर्पणम्। (Ishvarapranidhana is divine surrender.)"
+                },
+                {
+                    "word": "शौचम्",
+                    "reading": "Shau-cham",
+                    "meaning": "Purity/Cleanliness",
+                    "example_sentence": "शौचं शुद्धिः अस्ति। (Shaucha is purity.)"
+                },
+                {
+                    "word": "सन्तोषः",
+                    "reading": "San-to-shah",
+                    "meaning": "Contentment",
+                    "example_sentence": "सन्तोषः तुष्टिः अस्ति। (Santosha is contentment.)"
+                },
+                {
+                    "word": "तपः",
+                    "reading": "Ta-pah",
+                    "meaning": "Austerity/Heat",
+                    "example_sentence": "तपः तपस्या अस्ति। (Tapa is austerity.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "अहिंसा",
+                    "reading": "A-him-saa",
+                    "meaning": "Non-violence",
+                    "example_sentence": "अहिंसा अनिष्टत्यागः अस्ति। (Ahimsa is non-violence.)"
+                },
+                {
+                    "word": "सत्यम्",
+                    "reading": "Sat-yam",
+                    "meaning": "Truthfulness",
+                    "example_sentence": "सत्यं यथार्थवचनम्। (Satya is truthfulness.)"
+                },
+                {
+                    "word": "अस्तेयम्",
+                    "reading": "As-te-yam",
+                    "meaning": "Non-stealing",
+                    "example_sentence": "अस्तेयं चौर्यत्यागः अस्ति। (Asteya is non-stealing.)"
+                },
+                {
+                    "word": "अपरिग्रहः",
+                    "reading": "A-pa-ri-gra-hah",
+                    "meaning": "Non-possessiveness",
+                    "example_sentence": "अपरिग्रहः संग्रहत्यागः। (Aparigraha is non-possessiveness.)"
+                },
+                {
+                    "word": "वैराग्यम्",
+                    "reading": "Vai-raag-yam",
+                    "meaning": "Dispassion",
+                    "example_sentence": "वैराग्यं विषयवैमुख्यम्। (Vairagya is dispassion.)"
+                },
+                {
+                    "word": "विवेकः",
+                    "reading": "Vi-ve-kah",
+                    "meaning": "Discrimination",
+                    "example_sentence": "विवेकः विचारशक्तिः अस्ति। (Viveka is discrimination.)"
+                },
+                {
+                    "word": "अभ्यासः",
+                    "reading": "Abh-yaa-sah",
+                    "meaning": "Constant practice",
+                    "example_sentence": "अभ्यासः नियमितसाधनम्। (Abhyasa is constant practice.)"
+                },
+                {
+                    "word": "चित्तवृत्तिः",
+                    "reading": "Chit-ta-vru-ttih",
+                    "meaning": "Mental modification",
+                    "example_sentence": "चित्तवृत्तिः मनोविकारः। (Chittavritti is mental modification.)"
+                },
+                {
+                    "word": "निरोधः",
+                    "reading": "Ni-ro-dhah",
+                    "meaning": "Restraint/Cessation",
+                    "example_sentence": "निरोधः निवारणम् अस्ति। (Nirodha is restraint.)"
+                },
+                {
+                    "word": "कैवल्यम्",
+                    "reading": "Kai-val-yam",
+                    "meaning": "Emancipation",
+                    "example_sentence": "कैवल्यं मुक्तिः अस्ति। (Kaivalya is emancipation.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "सिद्धिः",
+                    "reading": "Sid-dhih",
+                    "meaning": "Attainment/Supernatural power",
+                    "example_sentence": "सिद्धिः योगफलम् अस्ति। (Siddhi is yogic attainment.)"
+                },
+                {
+                    "word": "विभूतिः",
+                    "reading": "Vi-bhoo-tih",
+                    "meaning": "Sacred ash/Manifestation of power",
+                    "example_sentence": "विभूतिः पवित्रभस्म अस्ति। (Vibhuti is sacred ash.)"
+                },
+                {
+                    "word": "प्राणाग्निहोत्रम्",
+                    "reading": "Praa-naag-ni-ho-tram",
+                    "meaning": "Inner fire sacrifice of breath",
+                    "example_sentence": "प्राणाग्निहोत्रं आन्तरयज्ञः। (Pranagnihotra is inner sacrifice.)"
+                },
+                {
+                    "word": "नादः",
+                    "reading": "Naa-dah",
+                    "meaning": "Spiritual sound",
+                    "example_sentence": "नादः आध्यात्मिकध्वनिः। (Nada is spiritual sound.)"
+                },
+                {
+                    "word": "विन्दुः",
+                    "reading": "Vin-duh",
+                    "meaning": "Point/Spiritual seed",
+                    "example_sentence": "विन्दुः बीजबिन्दुः अस्ति। (Vindu is seed point.)"
+                },
+                {
+                    "word": "ज्योतिः",
+                    "reading": "Jyo-tih",
+                    "meaning": "Divine light",
+                    "example_sentence": "ज्योतिः दिव्यप्रकाशः अस्ति। (Jyoti is divine light.)"
+                },
+                {
+                    "word": "दर्शनम्",
+                    "reading": "Dar-sha-nam",
+                    "meaning": "Vision of deity/Holy sight",
+                    "example_sentence": "दर्शनं देवदृष्टिः अस्ति। (Darshana is deity vision.)"
+                },
+                {
+                    "word": "तीर्थयात्रा",
+                    "reading": "Teer-tha-yaat-raa",
+                    "meaning": "Pilgrimage",
+                    "example_sentence": "तीर्थयात्रा पुण्ययात्रा अस्ति। (Tirthayatra is pilgrimage.)"
+                },
+                {
+                    "word": "कुम्भमेला",
+                    "reading": "Kum-bha-me-laa",
+                    "meaning": "Pot-festival gathering",
+                    "example_sentence": "कुम्भमेला महासमागमः। (Kumbhamela is great gathering.)"
+                },
+                {
+                    "word": "यज्ञशाला",
+                    "reading": "Yaj-nya-shaa-laa",
+                    "meaning": "Hall for sacrifice",
+                    "example_sentence": "यज्ञशाला यज्ञमण्डपः अस्ति। (Yajnashala is sacrifice hall.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "संकीर्तनम्",
+                    "reading": "San-keer-ta-nam",
+                    "meaning": "Community singing of hymns",
+                    "example_sentence": "संकीर्तनं सामूहिकगानम्। (Sankirtana is congregational singing.)"
+                },
+                {
+                    "word": "मन्त्रदीक्षा",
+                    "reading": "Man-tra-deek-shaa",
+                    "meaning": "Mantra initiation",
+                    "example_sentence": "मन्त्रदीक्षा मन्त्रोपदेशः। (Mantradiksha is mantra initiation.)"
+                },
+                {
+                    "word": "पादुका",
+                    "reading": "Paa-du-kaa",
+                    "meaning": "Sacred sandals",
+                    "example_sentence": "पादुका गुरुपादुका अस्ति। (Paduka is guru's sandals.)"
+                },
+                {
+                    "word": "विग्रहः",
+                    "reading": "Vi-gra-hah",
+                    "meaning": "Sacred image/Idol",
+                    "example_sentence": "विग्रहः देवमूर्तिः अस्ति। (Vigraha is deity image.)"
+                },
+                {
+                    "word": "परिक्रमा",
+                    "reading": "Pa-ri-kra-ma",
+                    "meaning": "Circumambulation",
+                    "example_sentence": "परिक्रमा प्रदक्षिणा अस्ति। (Parikrama is circumambulation.)"
+                },
+                {
+                    "word": "दक्षिणा",
+                    "reading": "Dak-shi-naa",
+                    "meaning": "Honorarium to priest",
+                    "example_sentence": "दक्षिणा पुरोहितदानम्। (Dakshina is priest's fee.)"
+                },
+                {
+                    "word": "भण्डारा",
+                    "reading": "Bhan-daa-raa",
+                    "meaning": "Community feast",
+                    "example_sentence": "भण्डारा सामूहिकभोजनम्। (Bhandara is community feast.)"
+                },
+                {
+                    "word": "सेवा",
+                    "reading": "Se-vaa",
+                    "meaning": "Selfless service",
+                    "example_sentence": "सेवा निःस्वार्थसेवनम्। (Seva is selfless service.)"
+                },
+                {
+                    "word": "समर्पणम्",
+                    "reading": "Sa-mar-pa-nam",
+                    "meaning": "Dedication/Offering",
+                    "example_sentence": "समर्पणं अर्पणम् अस्ति। (Samarpana is dedication.)"
+                },
+                {
+                    "word": "शरणागतिः",
+                    "reading": "Sha-ra-naa-ga-tih",
+                    "meaning": "Surrender/Seeking refuge",
+                    "example_sentence": "शरणागतिः आश्रयप्राप्तिः। (Sharanagati is surrender.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "अनुग्रहः",
+                    "reading": "A-nu-gra-hah",
+                    "meaning": "Divine grace",
+                    "example_sentence": "अनुग्रहः दैवीकृपा अस्ति। (Anugraha is divine grace.)"
+                },
+                {
+                    "word": "आशीर्वादः",
+                    "reading": "Aa-sheer-vaa-dah",
+                    "meaning": "Blessing",
+                    "example_sentence": "आशीर्वादः मङ्गलवचनम्। (Ashirvada is blessing.)"
+                },
+                {
+                    "word": "शान्तिपाठः",
+                    "reading": "Shaan-ti-paa-thah",
+                    "meaning": "Chant for peace",
+                    "example_sentence": "शान्तिपाठः शान्तिमन्त्रः। (Shantipatha is peace chant.)"
+                },
+                {
+                    "word": "मङ्गलम्",
+                    "reading": "Man-ga-lam",
+                    "meaning": "Auspiciousness",
+                    "example_sentence": "मङ्गलं शुभम् अस्ति। (Mangala is auspiciousness.)"
+                },
+                {
+                    "word": "पुण्याहवाचनम्",
+                    "reading": "Pun-yaa-ha-vaa-cha-nam",
+                    "meaning": "Declaration of auspicious day",
+                    "example_sentence": "पुण्याहवाचनं शुभदिनघोषणम्। (Punyahavachana is auspicious declaration.)"
+                },
+                {
+                    "word": "स्वस्तिवाचनम्",
+                    "reading": "Svas-ti-vaa-cha-nam",
+                    "meaning": "Invocation of well-being",
+                    "example_sentence": "स्वस्तिवाचनं कल्याणप्रार्थना। (Svastivachana is well-being invocation.)"
+                },
+                {
+                    "word": "कलशस्थापनम्",
+                    "reading": "Ka-la-sha-sthaa-pa-nam",
+                    "meaning": "Ritual placement of the pot",
+                    "example_sentence": "कलशस्थापनं घटस्थापनम्। (Kalashasthapana is pot placement.)"
+                },
+                {
+                    "word": "कुशः",
+                    "reading": "Ku-shah",
+                    "meaning": "Sacred kusha grass",
+                    "example_sentence": "कुशः पवित्रतृणम् अस्ति। (Kusha is sacred grass.)"
+                },
+                {
+                    "word": "रुद्राक्षः",
+                    "reading": "Rud-raak-shah",
+                    "meaning": "Sacred bead (Eye of Shiva)",
+                    "example_sentence": "रुद्राक्षः शिवनेत्रफलम्। (Rudraksha is Shiva's eye seed.)"
+                },
+                {
+                    "word": "माला",
+                    "reading": "Maa-laa",
+                    "meaning": "Rosary/Garland",
+                    "example_sentence": "माला जपमाला अस्ति। (Mala is prayer beads.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Vedic Ritual Precision Trap",
+        "question": "What is the specific purpose and timing of अग्निहोत्र (Agnihotra) ritual?",
+        "options": [
+            "It's a grand annual fire ceremony performed only by kings",
+            "It's a daily obligatory fire ritual performed at sunrise and sunset by householders",
+            "It's a one-time initiation ceremony for Brahmin boys",
+            "It's a funeral rite performed only when someone dies"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "अग्निहोत्र (Agnihotra) is a specific नित्यकर्म (daily obligatory ritual) prescribed in the Vedas, performed twice daily - at सूर्योदय (sunrise) and सूर्यास्त (sunset) - by गृहस्थ (householders) who maintain the sacred fire. This is a trap because many assume all Vedic fire rituals are elaborate ceremonies, but Agnihotra is actually a simple, brief daily practice. The ritual involves: (1) Maintaining the sacred fire (आहवनीय अग्नि); (2) Offering specific oblations (हविः) - typically milk, ghee, or rice - into the fire; (3) Reciting specific mantras from the Yajurveda. The householder (यजमान) performs this ritual throughout their life as a गृहस्थ. It's distinct from काम्यकर्म (optional rituals for specific desires) and नैमित्तिककर्म (occasional rituals). Understanding this teaches that Vedic ritualism had both grand sacrifices (like अश्वमेध) AND simple daily practices that sustained the sacred fire tradition in every household!"
+    }
+}

@@ -1,0 +1,672 @@
+{
+    "moduleId": "sa_b1_m01",
+    "theme": "Advanced Literature & Epic Syntax",
+    "title": "Advanced Literature & Epic Syntax",
+    "level": "b1",
+    "language": "sanskrit",
+    "order": 1,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "अतिशयोक्तिः",
+                    "reading": "A-ti-sha-yok-tih",
+                    "meaning": "Hyperbole",
+                    "example_sentence": "अतिशयोक्तिः अलङ्कारः अस्ति। (Hyperbole is a figure of speech.)"
+                },
+                {
+                    "word": "रूपकम्",
+                    "reading": "Roo-pa-kam",
+                    "meaning": "Metaphor (Trap Word)",
+                    "example_sentence": "रूपकं उपमानोपमेययोः अभेदः। (Metaphor is the identification of upameya and upamana.) [LIAR GAME TRAP]"
+                },
+                {
+                    "word": "उपमा",
+                    "reading": "U-pa-maa",
+                    "meaning": "Simile",
+                    "example_sentence": "उपमा तुलनात्मकः अलङ्कारः। (Simile is a comparative figure of speech.)"
+                },
+                {
+                    "word": "व्यतिरेकः",
+                    "reading": "Vya-ti-re-kah",
+                    "meaning": "Contrast/Excellence of the Upameya",
+                    "example_sentence": "व्यतिरेकः उपमेयस्य उत्कर्षः। (Vyatireka is the superiority of the upameya.)"
+                },
+                {
+                    "word": "समासोक्तिः",
+                    "reading": "Sa-maa-sok-tih",
+                    "meaning": "Brevity of speech/Personification",
+                    "example_sentence": "समासोक्तिः संक्षिप्तवर्णनम्। (Samasokti is concise description.)"
+                },
+                {
+                    "word": "श्लेषः",
+                    "reading": "Shle-shah",
+                    "meaning": "Pun/Double entendre",
+                    "example_sentence": "श्लेषः द्व्यर्थकः शब्दः। (Slesha is a word with double meaning.)"
+                },
+                {
+                    "word": "यमकम्",
+                    "reading": "Ya-ma-kam",
+                    "meaning": "Alliteration/Repetition of syllables",
+                    "example_sentence": "यमकं अक्षरपुनरुक्तिः। (Yamaka is syllable repetition.)"
+                },
+                {
+                    "word": "अर्थान्तरन्यासः",
+                    "reading": "Ar-thaan-tar-nyaa-sah",
+                    "meaning": "Corroboration/Generalization",
+                    "example_sentence": "अर्थान्तरन्यासः सामान्यीकरणम्। (Arthantaranyasa is generalization.)"
+                },
+                {
+                    "word": "विभावना",
+                    "reading": "Vi-bhaa-va-naa",
+                    "meaning": "Peculiar causation (Effect without cause)",
+                    "example_sentence": "विभावना कारणविना कार्यम्। (Vibhavana is effect without cause.)"
+                },
+                {
+                    "word": "विशेषोक्तिः",
+                    "reading": "Vi-she-shok-tih",
+                    "meaning": "Description of cause without effect",
+                    "example_sentence": "विशेषोक्तिः कारणं विना कार्यम्। (Visheshokti is cause without effect.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "दृष्टान्तः",
+                    "reading": "Drush-taan-tah",
+                    "meaning": "Exemplification/Illustration",
+                    "example_sentence": "दृष्टान्तः उदाहरणम् अस्ति। (Drishtanta is an example.)"
+                },
+                {
+                    "word": "निदर्शना",
+                    "reading": "Ni-dar-sha-naa",
+                    "meaning": "Illustration through comparison",
+                    "example_sentence": "निदर्शना तुलनात्मकं उदाहरणम्। (Nidarshana is comparative illustration.)"
+                },
+                {
+                    "word": "उत्प्रेक्षा",
+                    "reading": "Ut-prek-shaa",
+                    "meaning": "Poetic fancy/Imagination",
+                    "example_sentence": "उत्प्रेक्षा काव्यकल्पना अस्ति। (Utpreksha is poetic imagination.)"
+                },
+                {
+                    "word": "अनुप्रासः",
+                    "reading": "A-nu-praa-sah",
+                    "meaning": "Alliteration/Rhyme",
+                    "example_sentence": "अनुप्रासः वर्णपुनरावृत्तिः। (Anuprasa is letter repetition.)"
+                },
+                {
+                    "word": "ध्वनिः",
+                    "reading": "Dhva-nih",
+                    "meaning": "Suggestive meaning/Implicit tone",
+                    "example_sentence": "ध्वनिः व्यङ्ग्यार्थः अस्ति। (Dhvani is suggested meaning.)"
+                },
+                {
+                    "word": "अभिधा",
+                    "reading": "A-bhi-dhaa",
+                    "meaning": "Literal power of a word",
+                    "example_sentence": "अभिधा शब्दस्य मुख्यार्थः। (Abhidha is the primary meaning of a word.)"
+                },
+                {
+                    "word": "लक्षणा",
+                    "reading": "Lak-sha-naa",
+                    "meaning": "Indicative/Figurative power",
+                    "example_sentence": "लक्षणा गौणार्थः अस्ति। (Lakshana is secondary meaning.)"
+                },
+                {
+                    "word": "व्यञ्जना",
+                    "reading": "Vyan-ja-naa",
+                    "meaning": "Suggestive power of a word",
+                    "example_sentence": "व्यञ्जना व्यङ्ग्यार्थशक्तिः। (Vyanjana is the power of suggestion.)"
+                },
+                {
+                    "word": "रीतिः",
+                    "reading": "Ree-tih",
+                    "meaning": "Diction/Style",
+                    "example_sentence": "रीतिः काव्यशैली अस्ति। (Riti is poetic style.)"
+                },
+                {
+                    "word": "गुणः",
+                    "reading": "Gu-nah",
+                    "meaning": "Literary merit/Attribute",
+                    "example_sentence": "गुणः काव्यस्य विशेषता। (Guna is the quality of poetry.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "दोषः",
+                    "reading": "Do-shah",
+                    "meaning": "Literary flaw/Fault",
+                    "example_sentence": "दोषः काव्यस्य न्यूनता। (Dosha is the defect of poetry.)"
+                },
+                {
+                    "word": "ओजस्",
+                    "reading": "O-jas",
+                    "meaning": "Vigor/Florid style",
+                    "example_sentence": "ओजः शक्तिपूर्णः शैली। (Ojas is a powerful style.)"
+                },
+                {
+                    "word": "माधुर्यम्",
+                    "reading": "Maa-dhur-yam",
+                    "meaning": "Sweetness/Melodious style",
+                    "example_sentence": "माधुर्यं मधुरः शैली। (Madhurya is a sweet style.)"
+                },
+                {
+                    "word": "प्रसादः",
+                    "reading": "Pra-saa-dah",
+                    "meaning": "Clarity/Lucidity",
+                    "example_sentence": "प्रसादः स्पष्टता अस्ति। (Prasada is clarity.)"
+                },
+                {
+                    "word": "काव्यप्रकाशः",
+                    "reading": "Kaav-ya-pra-kaa-shah",
+                    "meaning": "Illumination of poetry",
+                    "example_sentence": "काव्यप्रकाशः मम्मटस्य ग्रन्थः। (Kavyaprakasha is Mammata's text.)"
+                },
+                {
+                    "word": "साहित्यदर्पणः",
+                    "reading": "Saa-hit-ya-dar-pa-nah",
+                    "meaning": "Mirror of literature",
+                    "example_sentence": "साहित्यदर्पणः विश्वनाथस्य ग्रन्थः। (Sahityadarpana is Vishwanatha's text.)"
+                },
+                {
+                    "word": "चम्पू",
+                    "reading": "Cham-poo",
+                    "meaning": "Mixed prose and verse composition",
+                    "example_sentence": "चम्पूः गद्यपद्यमिश्रितं काव्यम्। (Champu is mixed prose-verse poetry.)"
+                },
+                {
+                    "word": "महाकाव्यम्",
+                    "reading": "Ma-haa-kaav-yam",
+                    "meaning": "Epic poem",
+                    "example_sentence": "महाकाव्यं दीर्घं काव्यम्। (Mahakavya is a long epic poem.)"
+                },
+                {
+                    "word": "सर्गः",
+                    "reading": "Sar-gah",
+                    "meaning": "Canto/Chapter of an epic",
+                    "example_sentence": "सर्गः महाकाव्यस्य अध्यायः। (Sarga is a chapter of an epic.)"
+                },
+                {
+                    "word": "नान्दी",
+                    "reading": "Naan-dee",
+                    "meaning": "Benedictory prologue",
+                    "example_sentence": "नान्दी नाटकस्य आशीर्वादः। (Nandi is the benediction of a play.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "भरतवाक्यम्",
+                    "reading": "Bha-ra-ta-vaak-yam",
+                    "meaning": "Concluding prayer of a play",
+                    "example_sentence": "भरतवाक्यं नाटकस्य समाप्तिप्रार्थना। (Bharatavakya is the concluding prayer.)"
+                },
+                {
+                    "word": "विष्कम्भकः",
+                    "reading": "Vish-kamb-ha-kah",
+                    "meaning": "Interlude/Explanatory scene",
+                    "example_sentence": "विष्कम्भकः व्याख्यात्मकं दृश्यम्। (Vishkambhaka is an explanatory scene.)"
+                },
+                {
+                    "word": "प्रवेशकः",
+                    "reading": "Pra-ve-sha-kah",
+                    "meaning": "Introductory scene for lower characters",
+                    "example_sentence": "प्रवेशकः लघुपात्राणां प्रवेशः। (Praveshaka is entry of minor characters.)"
+                },
+                {
+                    "word": "आकाशभाषितम्",
+                    "reading": "Aa-kaa-sha-bhaa-shi-tam",
+                    "meaning": "Voice from the sky/Soliloquy",
+                    "example_sentence": "आकाशभाषितं आकाशवाणी अस्ति। (Akashabhashita is a voice from the sky.)"
+                },
+                {
+                    "word": "जनान्तिकम्",
+                    "reading": "Ja-naan-ti-kam",
+                    "meaning": "Aside/Personal confidence",
+                    "example_sentence": "जनान्तिकं गुप्तवचनम्। (Janantika is a private remark.)"
+                },
+                {
+                    "word": "आत्मगतम्",
+                    "reading": "Aat-ma-ga-tam",
+                    "meaning": "To oneself/Internal thought",
+                    "example_sentence": "आत्मगतं स्वगतं वचनम्। (Atmagata is self-addressed speech.)"
+                },
+                {
+                    "word": "प्रकाशम्",
+                    "reading": "Pra-kaa-sham",
+                    "meaning": "Aloud/Publicly addressed",
+                    "example_sentence": "प्रकाशं सार्वजनिकं वचनम्। (Prakasha is public speech.)"
+                },
+                {
+                    "word": "छायोक्तिः",
+                    "reading": "Chaa-yok-tih",
+                    "meaning": "Allusive speech",
+                    "example_sentence": "छायोक्तिः सङ्केतात्मकं वचनम्। (Chayokti is allusive speech.)"
+                },
+                {
+                    "word": "वक्रोक्तिः",
+                    "reading": "Vak-rok-tih",
+                    "meaning": "Equivocal/Indirect speech",
+                    "example_sentence": "वक्रोक्तिः परोक्षवचनम्। (Vakrokti is indirect speech.)"
+                },
+                {
+                    "word": "वक्रोक्तिजीवितम्",
+                    "reading": "Vak-rok-ti-jee-vi-tam",
+                    "meaning": "Life of indirect expression",
+                    "example_sentence": "वक्रोक्तिजीवितं कुन्तकस्य ग्रन्थः। (Vakroktijivita is Kuntaka's text.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "अलंकारशास्त्रम्",
+                    "reading": "A-lan-kaa-ra-shaas-tram",
+                    "meaning": "Science of rhetoric",
+                    "example_sentence": "अलंकारशास्त्रं काव्यविज्ञानम्। (Alankara-shastra is poetic science.)"
+                },
+                {
+                    "word": "औचित्यम्",
+                    "reading": "Au-chit-yam",
+                    "meaning": "Propriety/Fitness",
+                    "example_sentence": "औचित्यं योग्यता अस्ति। (Auchitya is appropriateness.)"
+                },
+                {
+                    "word": "वैरूप्यम्",
+                    "reading": "Vai-roop-yam",
+                    "meaning": "Deformity/Discordance",
+                    "example_sentence": "वैरूप्यं असङ्गतिः अस्ति। (Vairupya is incongruity.)"
+                },
+                {
+                    "word": "सौन्दर्यबोधः",
+                    "reading": "Saun-dar-ya-bo-dhah",
+                    "meaning": "Aesthetic perception",
+                    "example_sentence": "सौन्दर्यबोधः सुन्दरताज्ञानम्। (Saundarya-bodha is perception of beauty.)"
+                },
+                {
+                    "word": "सहृदयः",
+                    "reading": "Sa-hru-da-yah",
+                    "meaning": "Man of taste/Empathetic critic",
+                    "example_sentence": "सहृदयः रसिकः भवति। (Sahridaya is a connoisseur.)"
+                },
+                {
+                    "word": "प्रतिभासः",
+                    "reading": "Pra-ti-bhaa-sah",
+                    "meaning": "Appearance/Illusory perception",
+                    "example_sentence": "प्रतिभासः भ्रान्तिः अस्ति। (Pratibhasa is illusion.)"
+                },
+                {
+                    "word": "तात्पर्यम्",
+                    "reading": "Taat-par-yam",
+                    "meaning": "Intended meaning/Scope",
+                    "example_sentence": "तात्पर्यं अभिप्रायः अस्ति। (Tatparya is intention.)"
+                },
+                {
+                    "word": "अनन्वयः",
+                    "reading": "A-nan-va-yah",
+                    "meaning": "Self-comparison (Comparison to self only)",
+                    "example_sentence": "अनन्वयः स्वतुलना अस्ति। (Ananvaya is self-comparison.)"
+                },
+                {
+                    "word": "ससन्देहः",
+                    "reading": "Sa-san-de-hah",
+                    "meaning": "Doubt-based figure of speech",
+                    "example_sentence": "ससन्देहः संशयात्मकः अलङ्कारः। (Sasandeha is doubt-based ornament.)"
+                },
+                {
+                    "word": "भ्रान्तिमान्",
+                    "reading": "Bhraan-ti-maan",
+                    "meaning": "Error-based figure of speech",
+                    "example_sentence": "भ्रान्तिमान् भ्रमात्मकः अलङ्कारः। (Bhrantiman is error-based ornament.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "उल्लेखः",
+                    "reading": "Ul-le-khah",
+                    "meaning": "Multi-perspective description",
+                    "example_sentence": "उल्लेखः बहुदृष्टिवर्णनम्। (Ullekha is multi-viewpoint description.)"
+                },
+                {
+                    "word": "अपह्नुतिः",
+                    "reading": "A-pah-nu-tih",
+                    "meaning": "Concealment of truth for effect",
+                    "example_sentence": "अपह्नुतिः सत्यगोपनम्। (Apahnuti is concealment of truth.)"
+                },
+                {
+                    "word": "दीपकम्",
+                    "reading": "Dee-pa-kam",
+                    "meaning": "Illuminator (Common attribute usage)",
+                    "example_sentence": "दीपकं सामान्यगुणप्रयोगः। (Dipaka is common attribute usage.)"
+                },
+                {
+                    "word": "तुल्ययोगिता",
+                    "reading": "Tul-ya-yo-gi-taa",
+                    "meaning": "Equal pairing of attributes",
+                    "example_sentence": "तुल्ययोगिता समानगुणयोजनम्। (Tulyayogita is equal attribute pairing.)"
+                },
+                {
+                    "word": "प्रतिवस्तूपमा",
+                    "reading": "Pra-ti-vas-too-pa-maa",
+                    "meaning": "Reflected simile",
+                    "example_sentence": "प्रतिवस्तूपमा प्रतिबिम्बितोपमा। (Prativasthupama is reflected simile.)"
+                },
+                {
+                    "word": "क्रमः",
+                    "reading": "Kra-mah",
+                    "meaning": "Succession/Order",
+                    "example_sentence": "क्रमः अनुक्रमः अस्ति। (Krama is sequence.)"
+                },
+                {
+                    "word": "पर्यायः",
+                    "reading": "Par-yaa-yah",
+                    "meaning": "Sequence/Synonymy",
+                    "example_sentence": "पर्यायः पर्यायशब्दः अस्ति। (Paryaya is synonym.)"
+                },
+                {
+                    "word": "परिवृत्तिः",
+                    "reading": "Pa-ri-vru-ttih",
+                    "meaning": "Exchange/Barter figure",
+                    "example_sentence": "परिवृत्तिः विनिमयः अस्ति। (Parivritti is exchange.)"
+                },
+                {
+                    "word": "परिसंख्या",
+                    "reading": "Pa-ri-san-khyaa",
+                    "meaning": "Exclusion/Enumeration",
+                    "example_sentence": "परिसंख्या गणना अस्ति। (Parisankhya is enumeration.)"
+                },
+                {
+                    "word": "विकस्वरः",
+                    "reading": "Vi-kas-va-rah",
+                    "meaning": "Expanded/Blossomed description",
+                    "example_sentence": "विकस्वरः विकसितवर्णनम्। (Vikasvara is expanded description.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "प्रौढोक्तिः",
+                    "reading": "Prau-dhok-tih",
+                    "meaning": "Bold/Mature assertion",
+                    "example_sentence": "प्रौढोक्तिः साहसिकवचनम्। (Praudhokti is bold statement.)"
+                },
+                {
+                    "word": "व्याजोक्तिः",
+                    "reading": "Vyaa-jok-tih",
+                    "meaning": "Artful dissimulation",
+                    "example_sentence": "व्याजोक्तिः छलात्मकवचनम्। (Vyajokti is artful speech.)"
+                },
+                {
+                    "word": "लोकोक्तिः",
+                    "reading": "Lo-kok-tih",
+                    "meaning": "Proverb/Popular saying",
+                    "example_sentence": "लोकोक्तिः लोकप्रसिद्धवाक्यम्। (Lokokti is a proverb.)"
+                },
+                {
+                    "word": "छेकानुप्रासः",
+                    "reading": "Che-kaa-nu-praa-sah",
+                    "meaning": "Single repetition alliteration",
+                    "example_sentence": "छेकानुप्रासः एकवारपुनरुक्तिः। (Chekanuprasa is single repetition.)"
+                },
+                {
+                    "word": "वृत्त्यनुप्रासः",
+                    "reading": "Vru-ttya-nu-praa-sah",
+                    "meaning": "Harmonious alliteration",
+                    "example_sentence": "वृत्त्यनुप्रासः सुसंगतपुनरुक्तिः। (Vrittyanuprasa is harmonious repetition.)"
+                },
+                {
+                    "word": "लाटानुप्रासः",
+                    "reading": "Laa-taa-nu-praa-sah",
+                    "meaning": "Repetition of words with different meanings",
+                    "example_sentence": "लाटानुप्रासः भिन्नार्थपुनरुक्तिः। (Latanuprasa is repetition with different meanings.)"
+                },
+                {
+                    "word": "चित्रकाव्यम्",
+                    "reading": "Chit-ra-kaav-yam",
+                    "meaning": "Visual/Patterned poetry",
+                    "example_sentence": "चित्रकाव्यं आकृतिबद्धं काव्यम्। (Chitrakavya is patterned poetry.)"
+                },
+                {
+                    "word": "खबन्धः",
+                    "reading": "Kha-ban-dhah",
+                    "meaning": "Sword-pattern poem",
+                    "example_sentence": "खबन्धः खड्गाकृतिकाव्यम्। (Khabandha is sword-shaped poetry.)"
+                },
+                {
+                    "word": "चक्रबन्धः",
+                    "reading": "Chak-ra-ban-dhah",
+                    "meaning": "Wheel-pattern poem",
+                    "example_sentence": "चक्रबन्धः चक्राकृतिकाव्यम्। (Chakrabandha is wheel-shaped poetry.)"
+                },
+                {
+                    "word": "पद्मबन्धः",
+                    "reading": "Pad-ma-ban-dhah",
+                    "meaning": "Lotus-pattern poem",
+                    "example_sentence": "पद्मबन्धः पद्माकृतिकाव्यम्। (Padmabandha is lotus-shaped poetry.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "निरोष्ठ्यम्",
+                    "reading": "Ni-rosh-th-yam",
+                    "meaning": "Lip-less (Without labial sounds)",
+                    "example_sentence": "निरोष्ठ्यं ओष्ठ्यवर्णरहितम्। (Niroshthya is without labial sounds.)"
+                },
+                {
+                    "word": "एकाक्षरम्",
+                    "reading": "E-kaak-sha-ram",
+                    "meaning": "Single-letter verse",
+                    "example_sentence": "एकाक्षरं एकवर्णकाव्यम्। (Ekakshara is single-letter poetry.)"
+                },
+                {
+                    "word": "द्व्यक्षरम्",
+                    "reading": "Dvyak-sha-ram",
+                    "meaning": "Two-letter verse",
+                    "example_sentence": "द्व्यक्षरं द्विवर्णकाव्यम्। (Dvyakshara is two-letter poetry.)"
+                },
+                {
+                    "word": "व्युत्पत्तिः",
+                    "reading": "Vyut-pa-ttih",
+                    "meaning": "Derivation/Etymology/Proficiency",
+                    "example_sentence": "व्युत्पत्तिः शब्दनिष्पत्तिः। (Vyutpatti is word derivation.)"
+                },
+                {
+                    "word": "अभ्यासः",
+                    "reading": "Abh-yaa-sah",
+                    "meaning": "Practice/Repetition",
+                    "example_sentence": "अभ्यासः पुनरावृत्तिः अस्ति। (Abhyasa is practice.)"
+                },
+                {
+                    "word": "काव्यहेतुः",
+                    "reading": "Kaav-ya-he-tuh",
+                    "meaning": "Cause of poetic creation",
+                    "example_sentence": "काव्यहेतुः काव्यसृष्टिकारणम्। (Kavya-hetu is the cause of poetry.)"
+                },
+                {
+                    "word": "शक्तिः",
+                    "reading": "Shak-tih",
+                    "meaning": "Poetic power/Inspiration",
+                    "example_sentence": "शक्तिः काव्यशक्तिः अस्ति। (Shakti is poetic power.)"
+                },
+                {
+                    "word": "भावना",
+                    "reading": "Bhaa-va-naa",
+                    "meaning": "Creative contemplation",
+                    "example_sentence": "भावना सृजनात्मकचिन्तनम्। (Bhavana is creative thought.)"
+                },
+                {
+                    "word": "रसध्वनिः",
+                    "reading": "Ra-sa-dhva-nih",
+                    "meaning": "Suggested aesthetic essence",
+                    "example_sentence": "रसध्वनिः व्यङ्ग्यरसः अस्ति। (Rasadhvani is suggested rasa.)"
+                },
+                {
+                    "word": "असंलक्ष्यक्रमः",
+                    "reading": "A-sam-laksh-ya-kra-mah",
+                    "meaning": "Imperceptible sequence of suggestion",
+                    "example_sentence": "असंलक्ष्यक्रमः अदृश्यक्रमः। (Asamlakshyakrama is imperceptible sequence.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "विप्रलम्भः",
+                    "reading": "Vi-pra-lam-bhah",
+                    "meaning": "Love in separation",
+                    "example_sentence": "विप्रलम्भः वियोगशृङ्गारः। (Vipralambha is love in separation.)"
+                },
+                {
+                    "word": "सम्भोगः",
+                    "reading": "Sam-bho-gah",
+                    "meaning": "Love in union",
+                    "example_sentence": "सम्भोगः संयोगशृङ्गारः। (Sambhoga is love in union.)"
+                },
+                {
+                    "word": "स्थायिभावः",
+                    "reading": "Sthaa-yi-bhaa-vah",
+                    "meaning": "Dominant/Permanent emotion",
+                    "example_sentence": "स्थायिभावः मूलभावः अस्ति। (Sthayibhava is the dominant emotion.)"
+                },
+                {
+                    "word": "विभावः",
+                    "reading": "Vi-bhaa-vah",
+                    "meaning": "Determinant/Stimulus",
+                    "example_sentence": "विभावः रसोत्पत्तिकारणम्। (Vibhava is the cause of rasa.)"
+                },
+                {
+                    "word": "अनुभावः",
+                    "reading": "A-nu-bhaa-vah",
+                    "meaning": "Consequent/Physical reaction",
+                    "example_sentence": "अनुभावः भावप्रकाशकः। (Anubhava is the manifestation of emotion.)"
+                },
+                {
+                    "word": "व्यभिचारिभावः",
+                    "reading": "Vya-bhi-chaa-ri-bhaa-vah",
+                    "meaning": "Transitory emotion",
+                    "example_sentence": "व्यभिचारिभावः संचारिभावः अस्ति। (Vyabhicharibhava is transitory emotion.)"
+                },
+                {
+                    "word": "सात्त्विकभावः",
+                    "reading": "Saat-tvi-ka-bhaa-vah",
+                    "meaning": "Involuntary emotional state",
+                    "example_sentence": "सात्त्विकभावः अनैच्छिकभावः। (Sattvikabhava is involuntary emotion.)"
+                },
+                {
+                    "word": "साधारणीकरणम्",
+                    "reading": "Saa-dhaa-ra-nee-ka-ra-nam",
+                    "meaning": "Universalization of experience",
+                    "example_sentence": "साधारणीकरणं सार्वभौमीकरणम्। (Sadharanikarana is universalization.)"
+                },
+                {
+                    "word": "काव्यानन्दः",
+                    "reading": "Kaav-yaa-nan-dah",
+                    "meaning": "Poetic bliss",
+                    "example_sentence": "काव्यानन्दः काव्यसुखम् अस्ति। (Kavyananda is poetic joy.)"
+                },
+                {
+                    "word": "ब्रह्मानन्दसहोदरः",
+                    "reading": "Brah-maa-nan-da-sa-ho-da-rah",
+                    "meaning": "Twin of spiritual bliss",
+                    "example_sentence": "काव्यानन्दः ब्रह्मानन्दसहोदरः। (Poetic bliss is twin of spiritual bliss.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "वैदर्भी",
+                    "reading": "Vai-dar-bhee",
+                    "meaning": "Southern/Elegant style",
+                    "example_sentence": "वैदर्भी सुकुमारः शैली। (Vaidarbhi is an elegant style.)"
+                },
+                {
+                    "word": "गौडी",
+                    "reading": "Gau-dee",
+                    "meaning": "Eastern/Forceful style",
+                    "example_sentence": "गौडी ओजस्विनी शैली। (Gaudi is a forceful style.)"
+                },
+                {
+                    "word": "पाञ्चाली",
+                    "reading": "Paan-chaa-lee",
+                    "meaning": "Intermediate/Simple style",
+                    "example_sentence": "पाञ्चाली मध्यमा शैली। (Panchali is an intermediate style.)"
+                },
+                {
+                    "word": "लाटी",
+                    "reading": "Laa-tee",
+                    "meaning": "Lata-region style",
+                    "example_sentence": "लाटी लाटप्रदेशीया शैली। (Lati is Lata-region style.)"
+                },
+                {
+                    "word": "सुबन्तम्",
+                    "reading": "Su-ban-tam",
+                    "meaning": "Nominal derivative/Noun",
+                    "example_sentence": "सुबन्तं नामपदम् अस्ति। (Subanta is a noun.)"
+                },
+                {
+                    "word": "तिङन्तम्",
+                    "reading": "Tin-an-tam",
+                    "meaning": "Verbal derivative/Verb",
+                    "example_sentence": "तिङन्तं क्रियापदम् अस्ति। (Tinganta is a verb.)"
+                },
+                {
+                    "word": "निपातः",
+                    "reading": "Ni-paa-tah",
+                    "meaning": "Particle/Invariable",
+                    "example_sentence": "निपातः अव्ययपदम् अस्ति। (Nipata is a particle.)"
+                },
+                {
+                    "word": "उपसर्गः",
+                    "reading": "U-pa-sar-gah",
+                    "meaning": "Prepositional prefix",
+                    "example_sentence": "उपसर्गः उपसर्गपदम् अस्ति। (Upasarga is a prefix.)"
+                },
+                {
+                    "word": "सम्बन्धः",
+                    "reading": "Sam-ban-dhah",
+                    "meaning": "Relation/Connection",
+                    "example_sentence": "सम्बन्धः सम्पर्कः अस्ति। (Sambandha is relation.)"
+                },
+                {
+                    "word": "अन्वयः",
+                    "reading": "An-va-yah",
+                    "meaning": "Prose order/Syntax",
+                    "example_sentence": "अन्वयः वाक्यक्रमः अस्ति। (Anvaya is sentence order.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Sanskrit Literary Term Distinction Trap",
+        "question": "What is the precise classical distinction between 'रूपक' (roopaka) and 'उपमा' (upama)?",
+        "options": [
+            "Both mean the same thing - 'comparison'",
+            "रूपक is metaphor (identification); उपमा is simile (comparison)",
+            "रूपक is ancient; उपमा is modern",
+            "रूपक is for gods; उपमा is for humans"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "In classical Sanskrit poetics (अलङ्कारशास्त्र), रूपक (roopaka) and उपमा (upama) are fundamentally different figures of speech. उपमा is a simile where two things are compared using words like 'इव' (like), maintaining their separate identities (e.g., 'मुखं चन्द्र इव' - face is like the moon). रूपक is a metaphor where the उपमेय (subject) and उपमान (object of comparison) are identified as one, with no comparison word (e.g., 'मुखचन्द्रः' - the moon-face, treating face AS moon). This is a trap because learners often translate both as 'comparison', but the key distinction is: उपमा maintains दuality (two separate things compared), while रूपक creates अभेद (non-difference/identification). This teaches that Sanskrit literary theory has precise technical distinctions between types of figurative language!"
+    }
+}

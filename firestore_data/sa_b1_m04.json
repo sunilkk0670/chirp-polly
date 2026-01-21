@@ -1,0 +1,672 @@
+{
+    "moduleId": "sa_b1_m04",
+    "theme": "Ethics, Strategy & Arthashastra",
+    "title": "Ethics, Strategy & Arthashastra",
+    "level": "b1",
+    "language": "sanskrit",
+    "order": 4,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "कौटिलीयम्",
+                    "reading": "Kau-ti-lee-yam",
+                    "meaning": "Relating to Kautilya/Chanakya",
+                    "example_sentence": "कौटिलीयं अर्थशास्त्रम् अस्ति। (Kautiliya is the Arthashastra.)"
+                },
+                {
+                    "word": "षाड्गुण्यम्",
+                    "reading": "Shaad-gun-yam",
+                    "meaning": "Six-fold foreign policy (Trap Word)",
+                    "example_sentence": "षाड्गुण्यं राजनीतिसिद्धान्तः। (Shadgunya is foreign policy theory.) [LIAR GAME TRAP]"
+                },
+                {
+                    "word": "मण्डलसिद्धान्तः",
+                    "reading": "Man-da-la-sid-dhaan-tah",
+                    "meaning": "Mandala theory of interstate relations",
+                    "example_sentence": "मण्डलसिद्धान्तः राज्यसम्बन्धसिद्धान्तः। (Mandalasiddhanta is theory of state relations.)"
+                },
+                {
+                    "word": "साम",
+                    "reading": "Saa-ma",
+                    "meaning": "Conciliation/Diplomacy",
+                    "example_sentence": "साम कूटनीतिः अस्ति। (Sama is diplomacy.)"
+                },
+                {
+                    "word": "दानम्",
+                    "reading": "Daa-nam",
+                    "meaning": "Bribery/Appeasement",
+                    "example_sentence": "दानं तुष्टिकरणम् अस्ति। (Dana is appeasement.)"
+                },
+                {
+                    "word": "भेदः",
+                    "reading": "Bhe-dah",
+                    "meaning": "Divide and rule/Sowing dissension",
+                    "example_sentence": "भेदः विभाजनरणनीतिः। (Bheda is divide-and-rule.)"
+                },
+                {
+                    "word": "दण्डः",
+                    "reading": "Dan-dah",
+                    "meaning": "Force/Punishment",
+                    "example_sentence": "दण्डः बलप्रयोगः अस्ति। (Danda is use of force.)"
+                },
+                {
+                    "word": "उपेक्षणम्",
+                    "reading": "U-pek-sha-nam",
+                    "meaning": "Neutrality/Overlooking",
+                    "example_sentence": "उपेक्षणं तटस्थता अस्ति। (Upekshana is neutrality.)"
+                },
+                {
+                    "word": "माया",
+                    "reading": "Maa-yaa",
+                    "meaning": "Deceit/Illusion in strategy",
+                    "example_sentence": "माया रणनीतिकछलम्। (Maya is strategic deception.)"
+                },
+                {
+                    "word": "इन्द्रजालम्",
+                    "reading": "In-dra-jaa-lam",
+                    "meaning": "Subterfuge/Stratagem",
+                    "example_sentence": "इन्द्रजालं कूटयुक्तिः अस्ति। (Indrajala is stratagem.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "सन्धिविग्रहः",
+                    "reading": "San-dhi-vi-gra-hah",
+                    "meaning": "Peace and War",
+                    "example_sentence": "सन्धिविग्रहः शान्तियुद्धयोः नीतिः। (Sandhivigraha is policy of peace and war.)"
+                },
+                {
+                    "word": "यानम्",
+                    "reading": "Yaa-nam",
+                    "meaning": "Marching/Expedition",
+                    "example_sentence": "यानं सैन्यगमनम् अस्ति। (Yana is military march.)"
+                },
+                {
+                    "word": "आसनम्",
+                    "reading": "Aa-sa-nam",
+                    "meaning": "Halt/Encampment",
+                    "example_sentence": "आसनं सैन्यविरामः अस्ति। (Asana is military halt.)"
+                },
+                {
+                    "word": "द्वैधीभावः",
+                    "reading": "Dvai-dhee-bhaa-vah",
+                    "meaning": "Double policy/Duplicity",
+                    "example_sentence": "द्वैधीभावः द्विमुखनीतिः। (Dvaidhibhava is double policy.)"
+                },
+                {
+                    "word": "संश्रयः",
+                    "reading": "Sam-shra-yah",
+                    "meaning": "Alliance/Seeking protection",
+                    "example_sentence": "संश्रयः आश्रयप्राप्तिः। (Samshraya is seeking alliance.)"
+                },
+                {
+                    "word": "अमात्यः",
+                    "reading": "A-maat-yah",
+                    "meaning": "Minister/High official",
+                    "example_sentence": "अमात्यः मन्त्री अस्ति। (Amatya is a minister.)"
+                },
+                {
+                    "word": "जनपदः",
+                    "reading": "Ja-na-pa-dah",
+                    "meaning": "Territory/Countryside",
+                    "example_sentence": "जनपदः राज्यक्षेत्रम् अस्ति। (Janapada is territory.)"
+                },
+                {
+                    "word": "दुर्गः",
+                    "reading": "Dur-gah",
+                    "meaning": "Fortress/Fortified city",
+                    "example_sentence": "दुर्गः सुरक्षितनगरम्। (Durga is a fortress.)"
+                },
+                {
+                    "word": "कोषः",
+                    "reading": "Ko-shah",
+                    "meaning": "Treasury/Finance",
+                    "example_sentence": "कोषः राजकोषः अस्ति। (Kosha is royal treasury.)"
+                },
+                {
+                    "word": "दण्डः",
+                    "reading": "Dan-dah",
+                    "meaning": "Army/Military force",
+                    "example_sentence": "दण्डः सैन्यबलम् अस्ति। (Danda is military force.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "मित्रम्",
+                    "reading": "Mit-ram",
+                    "meaning": "Ally/Friendly state",
+                    "example_sentence": "मित्रं सहायराज्यम् अस्ति। (Mitra is an ally state.)"
+                },
+                {
+                    "word": "स्वामिन्",
+                    "reading": "Svaa-min",
+                    "meaning": "Sovereign/King",
+                    "example_sentence": "स्वामी राजा अस्ति। (Svamin is the sovereign.)"
+                },
+                {
+                    "word": "प्रकृतिः",
+                    "reading": "Pra-kru-tih",
+                    "meaning": "Element of the state",
+                    "example_sentence": "प्रकृतिः राज्यतत्त्वम् अस्ति। (Prakriti is state element.)"
+                },
+                {
+                    "word": "गुप्तचरः",
+                    "reading": "Gup-ta-cha-rah",
+                    "meaning": "Undercover agent/Spy",
+                    "example_sentence": "गुप्तचरः गुप्तसेवकः अस्ति। (Guptachara is a spy.)"
+                },
+                {
+                    "word": "सत्री",
+                    "reading": "Sa-tree",
+                    "meaning": "Stationary spy/Agent provocateur",
+                    "example_sentence": "सत्री स्थिरगुप्तचरः अस्ति। (Satri is stationary spy.)"
+                },
+                {
+                    "word": "तीक्ष्णः",
+                    "reading": "Teeksh-nah",
+                    "meaning": "Fiery agent/Assassin",
+                    "example_sentence": "तीक्ष्णः घातकः अस्ति। (Tikshna is an assassin.)"
+                },
+                {
+                    "word": "रसदः",
+                    "reading": "Ra-sa-dah",
+                    "meaning": "Poisoner",
+                    "example_sentence": "रसदः विषदायकः अस्ति। (Rasada is a poisoner.)"
+                },
+                {
+                    "word": "भिक्षुकी",
+                    "reading": "Bhik-shu-kee",
+                    "meaning": "Female mendicant spy",
+                    "example_sentence": "भिक्षुकी स्त्रीगुप्तचरः। (Bhikshuki is female spy.)"
+                },
+                {
+                    "word": "गूढपुरुषः",
+                    "reading": "Goo-dha-pu-ru-shah",
+                    "meaning": "Secret agent",
+                    "example_sentence": "गूढपुरुषः गुप्तकर्मकारः। (Gudhapurusha is secret agent.)"
+                },
+                {
+                    "word": "अपसर्पः",
+                    "reading": "A-pa-sar-pah",
+                    "meaning": "Spy/Secret emissary",
+                    "example_sentence": "अपसर्पः गुप्तदूतः अस्ति। (Apasarpa is secret emissary.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "व्याख्यानम्",
+                    "reading": "Vyaa-khyaa-nam",
+                    "meaning": "Interpretation of law",
+                    "example_sentence": "व्याख्यानं विधिव्याख्या अस्ति। (Vyakhyana is legal interpretation.)"
+                },
+                {
+                    "word": "व्यवहारः",
+                    "reading": "Vya-va-haa-rah",
+                    "meaning": "Legal procedure/Lawsuit",
+                    "example_sentence": "व्यवहारः न्यायप्रक्रिया अस्ति। (Vyavahara is legal procedure.)"
+                },
+                {
+                    "word": "विवादपदम्",
+                    "reading": "Vi-vaa-da-pa-dam",
+                    "meaning": "Subject of dispute",
+                    "example_sentence": "विवादपदं विवादविषयः। (Vivadapada is subject of dispute.)"
+                },
+                {
+                    "word": "लेख्यम्",
+                    "reading": "Lekh-yam",
+                    "meaning": "Documentary evidence",
+                    "example_sentence": "लेख्यं लिखितप्रमाणम्। (Lekhya is written evidence.)"
+                },
+                {
+                    "word": "भुक्तिः",
+                    "reading": "Bhuk-tih",
+                    "meaning": "Possession/Usufruct",
+                    "example_sentence": "भुक्तिः स्वामित्वम् अस्ति। (Bhukti is possession.)"
+                },
+                {
+                    "word": "साक्षी",
+                    "reading": "Saak-shee",
+                    "meaning": "Witness in court",
+                    "example_sentence": "साक्षी न्यायसाक्षी अस्ति। (Sakshi is a witness.)"
+                },
+                {
+                    "word": "दिव्यम्",
+                    "reading": "Div-yam",
+                    "meaning": "Ordeal/Divine test",
+                    "example_sentence": "दिव्यं दैवीपरीक्षा अस्ति। (Divya is divine ordeal.)"
+                },
+                {
+                    "word": "शपथः",
+                    "reading": "Sha-pa-thah",
+                    "meaning": "Judicial oath",
+                    "example_sentence": "शपथः न्यायिकप्रतिज्ञा। (Shapatha is judicial oath.)"
+                },
+                {
+                    "word": "दण्डशुल्कः",
+                    "reading": "Dan-da-shul-kah",
+                    "meaning": "Legal fine",
+                    "example_sentence": "दण्डशुल्कः न्यायिकदण्डः। (Dandashulka is legal fine.)"
+                },
+                {
+                    "word": "अपराधपरिहारः",
+                    "reading": "A-pa-raa-dha-pa-ri-haa-rah",
+                    "meaning": "Pardon/Remission of crime",
+                    "example_sentence": "अपराधपरिहारः क्षमा अस्ति। (Aparadhaparihara is pardon.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "नीतिशास्त्रम्",
+                    "reading": "Nee-ti-shaas-tram",
+                    "meaning": "Science of ethics/Morality",
+                    "example_sentence": "नीतिशास्त्रं धर्मविज्ञानम्। (Nitishastra is ethical science.)"
+                },
+                {
+                    "word": "धर्मचक्रम्",
+                    "reading": "Dhar-ma-chak-ram",
+                    "meaning": "Wheel of righteousness",
+                    "example_sentence": "धर्मचक्रं धर्मप्रवर्तनम्। (Dharmachakra is wheel of dharma.)"
+                },
+                {
+                    "word": "न्यायबोधः",
+                    "reading": "Nyaa-ya-bo-dhah",
+                    "meaning": "Legal awareness",
+                    "example_sentence": "न्यायबोधः विधिज्ञानम् अस्ति। (Nyayabodha is legal awareness.)"
+                },
+                {
+                    "word": "आचारः",
+                    "reading": "Aa-chaa-rah",
+                    "meaning": "Customary law/Conduct",
+                    "example_sentence": "आचारः रूढिविधिः अस्ति। (Achara is customary law.)"
+                },
+                {
+                    "word": "मर्यादा",
+                    "reading": "Mar-yaa-daa",
+                    "meaning": "Social boundary/Decorum",
+                    "example_sentence": "मर्यादा सामाजिकसीमा। (Maryada is social boundary.)"
+                },
+                {
+                    "word": "विनयः",
+                    "reading": "Vi-na-yah",
+                    "meaning": "Discipline/Training",
+                    "example_sentence": "विनयः अनुशासनम् अस्ति। (Vinaya is discipline.)"
+                },
+                {
+                    "word": "विद्याविनीतता",
+                    "reading": "Vid-yaa-vi-nee-ta-taa",
+                    "meaning": "Humility through education",
+                    "example_sentence": "विद्याविनीतता शिक्षाजन्यविनम्रता। (Vidyavinitata is learned humility.)"
+                },
+                {
+                    "word": "इन्द्रियजयः",
+                    "reading": "In-dri-ya-ja-yah",
+                    "meaning": "Control over senses",
+                    "example_sentence": "इन्द्रियजयः इन्द्रियनियन्त्रणम्। (Indriyajaya is sense control.)"
+                },
+                {
+                    "word": "वृद्धसंयोगः",
+                    "reading": "Vrud-dha-sam-yo-gah",
+                    "meaning": "Association with elders",
+                    "example_sentence": "वृद्धसंयोगः ज्येष्ठसङ्गः। (Vriddhasamyoga is elder association.)"
+                },
+                {
+                    "word": "प्रज्ञा",
+                    "reading": "Prag-nyaa",
+                    "meaning": "Statesman-like wisdom",
+                    "example_sentence": "प्रज्ञा राजनीतिकज्ञानम्। (Prajna is political wisdom.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "निरुद्योगिता",
+                    "reading": "Ni-rud-yo-gi-taa",
+                    "meaning": "Inactivity/Fatalism (to be avoided)",
+                    "example_sentence": "निरुद्योगिता निष्क्रियता अस्ति। (Nirudyogita is inactivity.)"
+                },
+                {
+                    "word": "दैवम्",
+                    "reading": "Dai-vam",
+                    "meaning": "Fate/Providence",
+                    "example_sentence": "दैवं भाग्यम् अस्ति। (Daiva is fate.)"
+                },
+                {
+                    "word": "पुरुषकारः",
+                    "reading": "Pu-ru-sha-kaa-rah",
+                    "meaning": "Human effort/Initiative",
+                    "example_sentence": "पुरुषकारः मानवप्रयत्नः। (Purushakara is human effort.)"
+                },
+                {
+                    "word": "उत्थानम्",
+                    "reading": "Ut-thaa-nam",
+                    "meaning": "Exertion/Readiness",
+                    "example_sentence": "उत्थानं उद्यमः अस्ति। (Utthana is exertion.)"
+                },
+                {
+                    "word": "योगक्षेमः",
+                    "reading": "Yo-ga-kshe-mah",
+                    "meaning": "Acquisition and preservation of wealth",
+                    "example_sentence": "योगक्षेमः धनप्राप्तिरक्षणम्। (Yogakshema is wealth acquisition and preservation.)"
+                },
+                {
+                    "word": "कण्टकशोधनम्",
+                    "reading": "Kan-ta-ka-sho-dha-nam",
+                    "meaning": "Removal of thorns (Social cleaning)",
+                    "example_sentence": "कण्टकशोधनं सामाजिकशुद्धिः। (Kantakashodhana is social cleansing.)"
+                },
+                {
+                    "word": "गौणिका",
+                    "reading": "Gau-ni-kaa",
+                    "meaning": "Secret income/Corruption",
+                    "example_sentence": "गौणिका गुप्तआयः अस्ति। (Gaunika is secret income.)"
+                },
+                {
+                    "word": "अर्थदूषणम्",
+                    "reading": "Ar-tha-doo-sha-nam",
+                    "meaning": "Economic offense/Corruption",
+                    "example_sentence": "अर्थदूषणं आर्थिकअपराधः। (Arthadushana is economic crime.)"
+                },
+                {
+                    "word": "धर्मोपधा",
+                    "reading": "Dhar-mo-pa-dhaa",
+                    "meaning": "Religious test of loyalty",
+                    "example_sentence": "धर्मोपधा धार्मिकपरीक्षा। (Dharmopadha is religious loyalty test.)"
+                },
+                {
+                    "word": "कामोपधा",
+                    "reading": "Kaa-mo-pa-dhaa",
+                    "meaning": "Sexual test of loyalty",
+                    "example_sentence": "कामोपधा कामुकपरीक्षा। (Kamopadha is sexual loyalty test.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "भयोपधा",
+                    "reading": "Bha-yo-pa-dhaa",
+                    "meaning": "Fear test of loyalty",
+                    "example_sentence": "भयोपधा भयपरीक्षा अस्ति। (Bhayopadha is fear loyalty test.)"
+                },
+                {
+                    "word": "अर्थोपधा",
+                    "reading": "Ar-tho-pa-dhaa",
+                    "meaning": "Monetary test of loyalty",
+                    "example_sentence": "अर्थोपधा धनपरीक्षा अस्ति। (Arthopadha is monetary loyalty test.)"
+                },
+                {
+                    "word": "मन्त्रिपरिषद्",
+                    "reading": "Man-tri-pa-ri-shad",
+                    "meaning": "Council of ministers",
+                    "example_sentence": "मन्त्रिपरिषद् मन्त्रिसभा अस्ति। (Mantriparishad is council of ministers.)"
+                },
+                {
+                    "word": "सन्निधाता",
+                    "reading": "San-ni-dhaa-taa",
+                    "meaning": "Treasurer/Receiver General",
+                    "example_sentence": "सन्निधाता कोषाध्यक्षः अस्ति। (Sannidhata is treasurer.)"
+                },
+                {
+                    "word": "समाहर्ता",
+                    "reading": "Sa-maa-har-taa",
+                    "meaning": "Collector General",
+                    "example_sentence": "समाहर्ता करसंग्राहकः। (Samaharta is tax collector.)"
+                },
+                {
+                    "word": "अन्तःपालः",
+                    "reading": "An-tah-paa-lah",
+                    "meaning": "Warden of the Marches/Border guard",
+                    "example_sentence": "अन्तःपालः सीमारक्षकः। (Antahpala is border warden.)"
+                },
+                {
+                    "word": "नगरकः",
+                    "reading": "Na-ga-ra-kah",
+                    "meaning": "City superintendent",
+                    "example_sentence": "नगरकः नगराध्यक्षः अस्ति। (Nagaraka is city superintendent.)"
+                },
+                {
+                    "word": "दौवारिकः",
+                    "reading": "Dau-vaa-ri-kah",
+                    "meaning": "Lord Chamberlain/Doorward",
+                    "example_sentence": "दौवारिकः द्वाररक्षकः। (Dauvarika is chamberlain.)"
+                },
+                {
+                    "word": "अन्तर्वंशिकः",
+                    "reading": "An-tar-van-shi-kah",
+                    "meaning": "Chief of the Harem",
+                    "example_sentence": "अन्तर्वंशिकः अन्तःपुराध्यक्षः। (Antarvanshika is harem chief.)"
+                },
+                {
+                    "word": "प्रशास्ता",
+                    "reading": "Pra-shaas-taa",
+                    "meaning": "Director of records",
+                    "example_sentence": "प्रशास्ता अभिलेखाध्यक्षः। (Prashasta is records director.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "आटविकः",
+                    "reading": "Aa-ta-vi-kah",
+                    "meaning": "Chief of forest tribes",
+                    "example_sentence": "आटविकः वनजातिप्रमुखः। (Atavika is forest tribe chief.)"
+                },
+                {
+                    "word": "शत्रुघ्नः",
+                    "reading": "Shat-rugh-nah",
+                    "meaning": "Destroyer of enemies",
+                    "example_sentence": "शत्रुघ्नः शत्रुनाशकः अस्ति। (Shatrughna is enemy destroyer.)"
+                },
+                {
+                    "word": "मध्यमः",
+                    "reading": "Madh-ya-mah",
+                    "meaning": "Mediatory king/Buffer state",
+                    "example_sentence": "मध्यमः मध्यस्थराजा अस्ति। (Madhyama is mediatory king.)"
+                },
+                {
+                    "word": "उदासीनः",
+                    "reading": "U-daa-see-nah",
+                    "meaning": "Neutral king/Outsider",
+                    "example_sentence": "उदासीनः तटस्थराजा अस्ति। (Udasina is neutral king.)"
+                },
+                {
+                    "word": "पाष्णिग्राहः",
+                    "reading": "Paash-ni-graa-hah",
+                    "meaning": "Rearward enemy",
+                    "example_sentence": "पाष्णिग्राहः पृष्ठशत्रुः अस्ति। (Pashnigraha is rear enemy.)"
+                },
+                {
+                    "word": "आक्रन्दः",
+                    "reading": "Aa-kran-dah",
+                    "meaning": "Ally in the rear",
+                    "example_sentence": "आक्रन्दः पृष्ठमित्रम् अस्ति। (Akranda is rear ally.)"
+                },
+                {
+                    "word": "विजिगीषुः",
+                    "reading": "Vi-ji-gee-shuh",
+                    "meaning": "Ambitious king/Conqueror",
+                    "example_sentence": "विजिगीषुः विजयाकाङ्क्षी राजा। (Vijigishu is ambitious king.)"
+                },
+                {
+                    "word": "कपटलेखः",
+                    "reading": "Ka-pa-ta-le-khah",
+                    "meaning": "Forged document/Counterfeit letter",
+                    "example_sentence": "कपटलेखः कूटपत्रम् अस्ति। (Kapatalekha is forged document.)"
+                },
+                {
+                    "word": "परचक्रम्",
+                    "reading": "Pa-ra-chak-ram",
+                    "meaning": "Enemy invasion",
+                    "example_sentence": "परचक्रं शत्रुआक्रमणम्। (Parachakra is enemy invasion.)"
+                },
+                {
+                    "word": "स्वचक्रम्",
+                    "reading": "Sva-chak-ram",
+                    "meaning": "Internal rebellion",
+                    "example_sentence": "स्वचक्रं आन्तरिकविद्रोहः। (Svachakra is internal rebellion.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "उत्साहशक्तिः",
+                    "reading": "Ut-saa-ha-shak-tih",
+                    "meaning": "Power of enthusiasm/Energy",
+                    "example_sentence": "उत्साहशक्तिः उद्यमबलम् अस्ति। (Utsahashakti is power of energy.)"
+                },
+                {
+                    "word": "प्रभुशक्तिः",
+                    "reading": "Pra-bhu-shak-tih",
+                    "meaning": "Sovereign power/Material resources",
+                    "example_sentence": "प्रभुशक्तिः भौतिकसाधनम्। (Prabhushakti is material power.)"
+                },
+                {
+                    "word": "मन्त्रशक्तिः",
+                    "reading": "Man-tra-shak-tih",
+                    "meaning": "Power of counsel/Intellectual power",
+                    "example_sentence": "मन्त्रशक्तिः बौद्धिकबलम्। (Mantrashakti is intellectual power.)"
+                },
+                {
+                    "word": "अधर्मविजयः",
+                    "reading": "A-dhar-ma-vi-ja-yah",
+                    "meaning": "Unrighteous conquest",
+                    "example_sentence": "अधर्मविजयः अन्यायविजयः। (Adharmavijaya is unrighteous victory.)"
+                },
+                {
+                    "word": "धर्मविजयः",
+                    "reading": "Dhar-ma-vi-ja-yah",
+                    "meaning": "Righteous conquest/Moral victory",
+                    "example_sentence": "धर्मविजयः न्यायविजयः अस्ति। (Dharmavijaya is righteous victory.)"
+                },
+                {
+                    "word": "लोभविजयः",
+                    "reading": "Lo-bha-vi-ja-yah",
+                    "meaning": "Greedy conquest",
+                    "example_sentence": "लोभविजयः लालसाविजयः। (Lobhavijaya is greedy conquest.)"
+                },
+                {
+                    "word": "असुरविजयः",
+                    "reading": "A-su-ra-vi-ja-yah",
+                    "meaning": "Demonic conquest/Brutal victory",
+                    "example_sentence": "असुरविजयः क्रूरविजयः अस्ति। (Asuravijaya is brutal victory.)"
+                },
+                {
+                    "word": "व्यूहः",
+                    "reading": "Vyoo-hah",
+                    "meaning": "Military formation",
+                    "example_sentence": "व्यूहः सैन्यरचना अस्ति। (Vyuha is military formation.)"
+                },
+                {
+                    "word": "दण्डव्यूहः",
+                    "reading": "Dan-da-vyoo-hah",
+                    "meaning": "Staff-like formation",
+                    "example_sentence": "दण्डव्यूहः दण्डाकृतिव्यूहः। (Dandavyuha is staff formation.)"
+                },
+                {
+                    "word": "मकरव्यूहः",
+                    "reading": "Ma-ka-ra-vyoo-hah",
+                    "meaning": "Crocodile formation",
+                    "example_sentence": "मकरव्यूहः मकराकृतिव्यूहः। (Makaravyuha is crocodile formation.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "पद्मव्यूहः",
+                    "reading": "Pad-ma-vyoo-hah",
+                    "meaning": "Lotus formation",
+                    "example_sentence": "पद्मव्यूहः पद्माकृतिव्यूहः। (Padmavyuha is lotus formation.)"
+                },
+                {
+                    "word": "कूटयुद्धम्",
+                    "reading": "Koo-ta-yud-dham",
+                    "meaning": "Guerrilla warfare/Fraudulent war",
+                    "example_sentence": "कूटयुद्धं छद्मयुद्धम् अस्ति। (Kutayuddha is guerrilla war.)"
+                },
+                {
+                    "word": "तूष्णींयुद्धम्",
+                    "reading": "Toosh-neem-yud-dham",
+                    "meaning": "Silent war/Espionage based war",
+                    "example_sentence": "तूष्णींयुद्धं गुप्तयुद्धम्। (Tushnim-yuddha is silent war.)"
+                },
+                {
+                    "word": "प्रकाशयुद्धम्",
+                    "reading": "Pra-kaa-sha-yud-dham",
+                    "meaning": "Open warfare",
+                    "example_sentence": "प्रकाशयुद्धं प्रत्यक्षयुद्धम्। (Prakashayuddha is open war.)"
+                },
+                {
+                    "word": "निधानम्",
+                    "reading": "Ni-dhaa-nam",
+                    "meaning": "Finding of lost treasure/Deposit",
+                    "example_sentence": "निधानं गुप्तधनम् अस्ति। (Nidhana is treasure.)"
+                },
+                {
+                    "word": "निक्षेपः",
+                    "reading": "Nik-she-pah",
+                    "meaning": "Open deposit/Trust",
+                    "example_sentence": "निक्षेपः प्रकटन्यासः अस्ति। (Nikshepa is open deposit.)"
+                },
+                {
+                    "word": "उपानिधिः",
+                    "reading": "U-pa-ni-dhih",
+                    "meaning": "Sealed deposit",
+                    "example_sentence": "उपानिधिः मुद्रितन्यासः। (Upanidhi is sealed deposit.)"
+                },
+                {
+                    "word": "ऋणादानम्",
+                    "reading": "Ru-naa-daa-nam",
+                    "meaning": "Non-payment of debt",
+                    "example_sentence": "ऋणादानं ऋणअप्रदानम्। (Rinadana is debt non-payment.)"
+                },
+                {
+                    "word": "सम्भूयसमुत्थानम्",
+                    "reading": "Sam-bhoo-ya-sa-mut-thaa-nam",
+                    "meaning": "Joint venture/Partnership",
+                    "example_sentence": "सम्भूयसमुत्थानं साझेदारी अस्ति। (Sambhuyasamutthana is partnership.)"
+                },
+                {
+                    "word": "सीमाविवादः",
+                    "reading": "See-maa-vi-vaa-dah",
+                    "meaning": "Boundary dispute",
+                    "example_sentence": "सीमाविवादः सीमाझगडा अस्ति। (Simavivada is boundary dispute.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Arthashastra Foreign Policy Trap",
+        "question": "What are the six policies (षाड्गुण्य - Shadgunya) in Kautilya's Arthashastra?",
+        "options": [
+            "Six types of taxes collected by the state",
+            "Sandhi (peace), Vigraha (war), Yana (march), Asana (halt), Dvaidhibhava (duplicity), Samshraya (alliance)",
+            "Six virtues a king must possess",
+            "Six types of spies used in espionage"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "In Kautilya's Arthashastra, षाड्गुण्य (Shadgunya - six-fold policy) refers to the six strategic options available to a king in foreign relations: (1) सन्धि (Sandhi - peace/treaty), (2) विग्रह (Vigraha - war), (3) यान (Yana - marching/expedition), (4) आसन (Asana - staying/encampment), (5) द्वैधीभाव (Dvaidhibhava - double policy/duplicity), and (6) संश्रय (Samshraya - seeking alliance/protection). This is a trap because learners might confuse it with other 'six-fold' concepts in Indian philosophy or assume it refers to virtues or administrative divisions. The key insight is that Kautilya's realpolitik recognized that a king must flexibly choose among these six strategies based on the relative power (बलाबल) of his state versus the enemy. This teaches that ancient Indian statecraft was highly sophisticated, recognizing that even 'duplicity' (maintaining contradictory policies) could be a legitimate strategic option when dealing with multiple threats!"
+    }
+}

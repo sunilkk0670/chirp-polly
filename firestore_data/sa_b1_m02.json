@@ -1,0 +1,672 @@
+{
+    "moduleId": "sa_b1_m02",
+    "theme": "Philosophical Dialectics & Logic",
+    "title": "Philosophical Dialectics & Logic",
+    "level": "b1",
+    "language": "sanskrit",
+    "order": 2,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "प्रमाणम्",
+                    "reading": "Pra-maa-nam",
+                    "meaning": "Means of valid knowledge",
+                    "example_sentence": "प्रमाणं ज्ञानसाधनम् अस्ति। (Pramana is the means of knowledge.)"
+                },
+                {
+                    "word": "प्रमेयम्",
+                    "reading": "Pra-me-yam",
+                    "meaning": "Object of knowledge (Trap Word)",
+                    "example_sentence": "प्रमेयं ज्ञेयवस्तु अस्ति। (Prameya is the object to be known.) [LIAR GAME TRAP]"
+                },
+                {
+                    "word": "प्रमाता",
+                    "reading": "Pra-maa-taa",
+                    "meaning": "The knower/Subject",
+                    "example_sentence": "प्रमाता ज्ञाता अस्ति। (Pramata is the knower.)"
+                },
+                {
+                    "word": "प्रमितिः",
+                    "reading": "Pra-mi-tih",
+                    "meaning": "The resultant knowledge",
+                    "example_sentence": "प्रमितिः फलज्ञानम् अस्ति। (Pramiti is the resultant knowledge.)"
+                },
+                {
+                    "word": "अनुमानम्",
+                    "reading": "A-nu-maa-nam",
+                    "meaning": "Inference/Syllogism",
+                    "example_sentence": "अनुमानं तर्कप्रमाणम्। (Anumana is inferential knowledge.)"
+                },
+                {
+                    "word": "व्याप्तिः",
+                    "reading": "Vyaap-tih",
+                    "meaning": "Invariable concomitance/Universal relation",
+                    "example_sentence": "व्याप्तिः नियतसम्बन्धः। (Vyapti is invariable relation.)"
+                },
+                {
+                    "word": "हेतुः",
+                    "reading": "He-tuh",
+                    "meaning": "Reason/Middle term",
+                    "example_sentence": "हेतुः अनुमानस्य आधारः। (Hetu is the basis of inference.)"
+                },
+                {
+                    "word": "साध्यम्",
+                    "reading": "Saadh-yam",
+                    "meaning": "Major term/What is to be proved",
+                    "example_sentence": "साध्यं प्रतिपाद्यम् अस्ति। (Sadhya is what is to be proved.)"
+                },
+                {
+                    "word": "पक्षः",
+                    "reading": "Pak-shah",
+                    "meaning": "Minor term/Locus of inference",
+                    "example_sentence": "पक्षः अनुमानाश्रयः। (Paksha is the locus of inference.)"
+                },
+                {
+                    "word": "दृष्टान्तः",
+                    "reading": "Drush-taan-tah",
+                    "meaning": "Example/Instance",
+                    "example_sentence": "दृष्टान्तः उदाहरणम् अस्ति। (Drishtanta is an example.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "सपक्षः",
+                    "reading": "Sa-pak-shah",
+                    "meaning": "Positive instance",
+                    "example_sentence": "सपक्षः सदृशोदाहरणम्। (Sapaksha is a similar instance.)"
+                },
+                {
+                    "word": "विपक्षः",
+                    "reading": "Vi-pak-shah",
+                    "meaning": "Negative instance",
+                    "example_sentence": "विपक्षः असदृशोदाहरणम्। (Vipaksha is a dissimilar instance.)"
+                },
+                {
+                    "word": "परामर्शः",
+                    "reading": "Pa-raa-mar-shah",
+                    "meaning": "Subsumptive reflection",
+                    "example_sentence": "परामर्शः व्याप्तिस्मरणम्। (Paramarsha is recollection of vyapti.)"
+                },
+                {
+                    "word": "निगमनम्",
+                    "reading": "Ni-ga-ma-nam",
+                    "meaning": "Conclusion",
+                    "example_sentence": "निगमनं निष्कर्षः अस्ति। (Nigamana is the conclusion.)"
+                },
+                {
+                    "word": "प्रतिज्ञा",
+                    "reading": "Pra-tig-nyaa",
+                    "meaning": "Proposition/Thesis",
+                    "example_sentence": "प्रतिज्ञा प्रथमावयवः। (Pratijna is the first member.)"
+                },
+                {
+                    "word": "उपनयः",
+                    "reading": "U-pa-na-yah",
+                    "meaning": "Application of reason",
+                    "example_sentence": "उपनयः हेतोः प्रयोगः। (Upanaya is application of reason.)"
+                },
+                {
+                    "word": "हेत्वाभासः",
+                    "reading": "Het-vaa-bhaa-sah",
+                    "meaning": "Fallacy/Apparent reason",
+                    "example_sentence": "हेत्वाभासः मिथ्याहेतुः। (Hetvabhasa is a false reason.)"
+                },
+                {
+                    "word": "असिद्धः",
+                    "reading": "A-sid-dhah",
+                    "meaning": "Unproved fallacy",
+                    "example_sentence": "असिद्धः अप्रमाणितहेतुः। (Asiddha is an unproved reason.)"
+                },
+                {
+                    "word": "सव्यभिचारः",
+                    "reading": "Sav-ya-bhi-chaa-rah",
+                    "meaning": "Irregular middle fallacy",
+                    "example_sentence": "सव्यभिचारः अनियमितहेतुः। (Savyabhichara is an irregular reason.)"
+                },
+                {
+                    "word": "विरुद्धः",
+                    "reading": "Vi-rud-dhah",
+                    "meaning": "Contradictory middle",
+                    "example_sentence": "विरुद्धः विपरीतहेतुः। (Viruddha is a contradictory reason.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "सत्प्रतिपक्षः",
+                    "reading": "Sat-pra-ti-pak-shah",
+                    "meaning": "Inferentially contradicted middle",
+                    "example_sentence": "सत्प्रतिपक्षः अनुमानविरुद्धहेतुः। (Satpratipaksha is inferentially contradicted.)"
+                },
+                {
+                    "word": "बाधितः",
+                    "reading": "Baa-dhi-tah",
+                    "meaning": "Non-inferentially contradicted middle",
+                    "example_sentence": "बाधितः प्रत्यक्षविरुद्धहेतुः। (Badhita is perceptually contradicted.)"
+                },
+                {
+                    "word": "स्वार्थानुमानम्",
+                    "reading": "Svaar-thaa-nu-maa-nam",
+                    "meaning": "Inference for oneself",
+                    "example_sentence": "स्वार्थानुमानं स्वप्रयोजनम्। (Svarthanumana is for self.)"
+                },
+                {
+                    "word": "परार्थानुमानम्",
+                    "reading": "Pa-raar-thaa-nu-maa-nam",
+                    "meaning": "Inference for others",
+                    "example_sentence": "परार्थानुमानं परप्रयोजनम्। (Pararthanumana is for others.)"
+                },
+                {
+                    "word": "उपमानम्",
+                    "reading": "U-pa-maa-nam",
+                    "meaning": "Comparison/Analogy",
+                    "example_sentence": "उपमानं तुलनाप्रमाणम्। (Upamana is comparison knowledge.)"
+                },
+                {
+                    "word": "शब्दप्रमाणम्",
+                    "reading": "Shab-da-pra-maa-nam",
+                    "meaning": "Verbal testimony",
+                    "example_sentence": "शब्दप्रमाणं वाक्यप्रमाणम्। (Shabda-pramana is verbal knowledge.)"
+                },
+                {
+                    "word": "आप्तवाक्यम्",
+                    "reading": "Aap-ta-vaak-yam",
+                    "meaning": "Statement of a reliable person",
+                    "example_sentence": "आप्तवाक्यं विश्वसनीयवचनम्। (Aptavakya is reliable statement.)"
+                },
+                {
+                    "word": "आकाङ्क्षा",
+                    "reading": "Aa-kaank-shaa",
+                    "meaning": "Expectancy/Mutual need of words",
+                    "example_sentence": "आकाङ्क्षा पदापेक्षा अस्ति। (Akanksha is word expectancy.)"
+                },
+                {
+                    "word": "योग्यता",
+                    "reading": "Yog-ya-taa",
+                    "meaning": "Consistency/Logical compatibility",
+                    "example_sentence": "योग्यता अर्थसङ्गतिः। (Yogyata is semantic compatibility.)"
+                },
+                {
+                    "word": "सन्निधिः",
+                    "reading": "San-ni-dhih",
+                    "meaning": "Proximity/Continuity of words",
+                    "example_sentence": "सन्निधिः पदसामीप्यम्। (Sannidhi is word proximity.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "अर्थापत्तिः",
+                    "reading": "Ar-thaa-pa-ttih",
+                    "meaning": "Postulation/Presumption",
+                    "example_sentence": "अर्थापत्तिः आवश्यकानुमानम्। (Arthapatti is necessary presumption.)"
+                },
+                {
+                    "word": "अनुपलब्धिः",
+                    "reading": "A-nu-pal-ab-dhih",
+                    "meaning": "Non-perception",
+                    "example_sentence": "अनुपलब्धिः अदर्शनम् अस्ति। (Anupalabdhi is non-perception.)"
+                },
+                {
+                    "word": "पदार्थः",
+                    "reading": "Pa-daar-thah",
+                    "meaning": "Category/Meaning of a word",
+                    "example_sentence": "पदार्थः वस्तुवर्गः अस्ति। (Padartha is a category.)"
+                },
+                {
+                    "word": "द्रव्यम्",
+                    "reading": "Drav-yam",
+                    "meaning": "Substance",
+                    "example_sentence": "द्रव्यं गुणाश्रयः अस्ति। (Dravya is the substrate of qualities.)"
+                },
+                {
+                    "word": "गुणः",
+                    "reading": "Gu-nah",
+                    "meaning": "Quality/Attribute",
+                    "example_sentence": "गुणः द्रव्याश्रितः अस्ति। (Guna inheres in substance.)"
+                },
+                {
+                    "word": "कर्म",
+                    "reading": "Kar-ma",
+                    "meaning": "Action/Movement",
+                    "example_sentence": "कर्म गतिः अस्ति। (Karma is motion.)"
+                },
+                {
+                    "word": "सामान्यम्",
+                    "reading": "Saa-maan-yam",
+                    "meaning": "Generality/Universality",
+                    "example_sentence": "सामान्यं जातिः अस्ति। (Samanya is universal.)"
+                },
+                {
+                    "word": "विशेषः",
+                    "reading": "Vi-she-shah",
+                    "meaning": "Particularity",
+                    "example_sentence": "विशेषः व्यक्तिः अस्ति। (Vishesha is particular.)"
+                },
+                {
+                    "word": "समवायः",
+                    "reading": "Sa-ma-vaa-yah",
+                    "meaning": "Inherent relation/Inherence",
+                    "example_sentence": "समवायः अविनाभावसम्बन्धः। (Samavaya is inherent relation.)"
+                },
+                {
+                    "word": "अभावः",
+                    "reading": "A-bhaa-vah",
+                    "meaning": "Non-existence/Absence",
+                    "example_sentence": "अभावः असत्त्वम् अस्ति। (Abhava is non-existence.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "प्रागभावः",
+                    "reading": "Praag-a-bhaa-vah",
+                    "meaning": "Prior non-existence",
+                    "example_sentence": "प्रागभावः उत्पत्तिपूर्वाभावः। (Pragabhava is pre-production absence.)"
+                },
+                {
+                    "word": "प्रध्वंसाभावः",
+                    "reading": "Pradh-van-saa-bhaa-vah",
+                    "meaning": "Posterior non-existence/Destruction",
+                    "example_sentence": "प्रध्वंसाभावः विनाशानन्तराभावः। (Pradhvamsabhava is post-destruction absence.)"
+                },
+                {
+                    "word": "अत्यन्ताभावः",
+                    "reading": "At-yan-taa-bhaa-vah",
+                    "meaning": "Absolute non-existence",
+                    "example_sentence": "अत्यन्ताभावः सर्वकालिकाभावः। (Atyantabhava is absolute absence.)"
+                },
+                {
+                    "word": "अन्योन्याभावः",
+                    "reading": "An-yon-yaa-bhaa-vah",
+                    "meaning": "Mutual non-existence/Difference",
+                    "example_sentence": "अन्योन्याभावः भेदः अस्ति। (Anyonyabhava is difference.)"
+                },
+                {
+                    "word": "कारणम्",
+                    "reading": "Kaa-ra-nam",
+                    "meaning": "Cause",
+                    "example_sentence": "कारणं कार्योत्पादकम्। (Karana produces effect.)"
+                },
+                {
+                    "word": "कार्यम्",
+                    "reading": "Kaar-yam",
+                    "meaning": "Effect",
+                    "example_sentence": "कार्यं कारणजम् अस्ति। (Karya is born of cause.)"
+                },
+                {
+                    "word": "उपादानकारणम्",
+                    "reading": "U-paa-daa-na-kaa-ra-nam",
+                    "meaning": "Material cause",
+                    "example_sentence": "उपादानकारणं मूलद्रव्यम्। (Upadana-karana is material cause.)"
+                },
+                {
+                    "word": "निमित्तकारणम्",
+                    "reading": "Ni-mit-ta-kaa-ra-nam",
+                    "meaning": "Instrumental/Efficient cause",
+                    "example_sentence": "निमित्तकारणं कर्तृकारणम्। (Nimitta-karana is efficient cause.)"
+                },
+                {
+                    "word": "असमवायिकारणम्",
+                    "reading": "A-sa-ma-vaa-yi-kaa-ra-nam",
+                    "meaning": "Non-inherent cause",
+                    "example_sentence": "असमवायिकारणं असमवायिसम्बन्धि। (Asamavayi-karana is non-inherent cause.)"
+                },
+                {
+                    "word": "सत्कार्यवादः",
+                    "reading": "Sat-kaar-ya-vaa-dah",
+                    "meaning": "Theory of pre-existent effect",
+                    "example_sentence": "सत्कार्यवादः साङ्ख्यसिद्धान्तः। (Satkaryavada is Sankhya theory.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "असत्कार्यवादः",
+                    "reading": "A-sat-kaar-ya-vaa-dah",
+                    "meaning": "Theory of non-pre-existent effect",
+                    "example_sentence": "असत्कार्यवादः न्यायसिद्धान्तः। (Asatkaryavada is Nyaya theory.)"
+                },
+                {
+                    "word": "विवर्तवादः",
+                    "reading": "Vi-var-ta-vaa-dah",
+                    "meaning": "Theory of apparent transformation",
+                    "example_sentence": "विवर्तवादः अद्वैतसिद्धान्तः। (Vivartavada is Advaita theory.)"
+                },
+                {
+                    "word": "परिणामवादः",
+                    "reading": "Pa-ri-naa-ma-vaa-dah",
+                    "meaning": "Theory of real transformation",
+                    "example_sentence": "परिणामवादः साङ्ख्यसिद्धान्तः। (Parinamavada is Sankhya theory.)"
+                },
+                {
+                    "word": "संशयः",
+                    "reading": "Sam-sha-yah",
+                    "meaning": "Doubt/Indecision",
+                    "example_sentence": "संशयः अनिश्चयः अस्ति। (Samshaya is doubt.)"
+                },
+                {
+                    "word": "प्रयोजनम्",
+                    "reading": "Pra-yo-ja-nam",
+                    "meaning": "Purpose/Aim",
+                    "example_sentence": "प्रयोजनं लक्ष्यम् अस्ति। (Prayojana is purpose.)"
+                },
+                {
+                    "word": "सिद्धान्तः",
+                    "reading": "Sid-dhaan-tah",
+                    "meaning": "Demonstrated truth/Doctrine",
+                    "example_sentence": "सिद्धान्तः प्रमाणितसत्यम्। (Siddhanta is established truth.)"
+                },
+                {
+                    "word": "अवयवः",
+                    "reading": "A-va-ya-vah",
+                    "meaning": "Member of a syllogism",
+                    "example_sentence": "अवयवः अनुमानाङ्गम्। (Avayava is a member of inference.)"
+                },
+                {
+                    "word": "तर्कः",
+                    "reading": "Tar-kah",
+                    "meaning": "Confutation/Hypothetical reasoning",
+                    "example_sentence": "तर्कः काल्पनिकतर्कणम्। (Tarka is hypothetical reasoning.)"
+                },
+                {
+                    "word": "निर्णयः",
+                    "reading": "Nir-na-yah",
+                    "meaning": "Ascertainment/Decision",
+                    "example_sentence": "निर्णयः निश्चयः अस्ति। (Nirnaya is ascertainment.)"
+                },
+                {
+                    "word": "वादः",
+                    "reading": "Vaa-dah",
+                    "meaning": "Discussion for truth",
+                    "example_sentence": "वादः सत्यान्वेषणम्। (Vada is truth-seeking discussion.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "जल्पः",
+                    "reading": "Jal-pah",
+                    "meaning": "Disputation for victory",
+                    "example_sentence": "जल्पः विजयार्थं वादः। (Jalpa is debate for victory.)"
+                },
+                {
+                    "word": "वितण्डा",
+                    "reading": "Vi-tan-daa",
+                    "meaning": "Cavil/Destructive criticism",
+                    "example_sentence": "वितण्डा केवलखण्डनम्। (Vitanda is mere refutation.)"
+                },
+                {
+                    "word": "छलम्",
+                    "reading": "Cha-lam",
+                    "meaning": "Quibble/Fraudulent device",
+                    "example_sentence": "छलं कुतर्कः अस्ति। (Chala is sophistry.)"
+                },
+                {
+                    "word": "जातिः",
+                    "reading": "Jaa-tih",
+                    "meaning": "Futile rejoinder",
+                    "example_sentence": "जातिः व्यर्थप्रत्युत्तरम्। (Jati is futile reply.)"
+                },
+                {
+                    "word": "निग्रहस्थानम्",
+                    "reading": "Ni-gra-ha-sthaa-nam",
+                    "meaning": "Point of defeat in debate",
+                    "example_sentence": "निग्रहस्थानं पराजयबिन्दुः। (Nigrahasthana is point of defeat.)"
+                },
+                {
+                    "word": "पूर्वपक्षः",
+                    "reading": "Poor-va-pak-shah",
+                    "meaning": "Prima facie view/Objection",
+                    "example_sentence": "पूर्वपक्षः प्रथमदृष्टिः। (Purvapaksha is prima facie view.)"
+                },
+                {
+                    "word": "उत्तरपक्षः",
+                    "reading": "Ut-ta-ra-pak-shah",
+                    "meaning": "Final conclusion/Refutation",
+                    "example_sentence": "उत्तरपक्षः अन्तिमनिष्कर्षः। (Uttarapaksha is final conclusion.)"
+                },
+                {
+                    "word": "संज्ञा",
+                    "reading": "Sam-g-nyaa",
+                    "meaning": "Technical name/Denotation",
+                    "example_sentence": "संज्ञा तकनीकीनाम अस्ति। (Samjna is technical term.)"
+                },
+                {
+                    "word": "लक्षणम्",
+                    "reading": "Lak-sha-nam",
+                    "meaning": "Definition/Characteristic",
+                    "example_sentence": "लक्षणं परिभाषा अस्ति। (Lakshana is definition.)"
+                },
+                {
+                    "word": "अव्याप्तिः",
+                    "reading": "A-vyaap-tih",
+                    "meaning": "Narrowness of definition",
+                    "example_sentence": "अव्याप्तिः संकीर्णपरिभाषा। (Avyapti is narrow definition.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "अतिव्याप्तिः",
+                    "reading": "A-ti-vyaap-tih",
+                    "meaning": "Over-comprehensiveness of definition",
+                    "example_sentence": "अतिव्याप्तिः विस्तृतपरिभाषा। (Ativyapti is over-broad definition.)"
+                },
+                {
+                    "word": "असम्भवः",
+                    "reading": "A-sam-bha-vah",
+                    "meaning": "Impossibility of definition",
+                    "example_sentence": "असम्भवः असम्भाव्यपरिभाषा। (Asambhava is impossible definition.)"
+                },
+                {
+                    "word": "उद्देशः",
+                    "reading": "Ud-de-shah",
+                    "meaning": "Enumeration of subjects",
+                    "example_sentence": "उद्देशः विषयगणना अस्ति। (Uddesha is enumeration.)"
+                },
+                {
+                    "word": "परीक्षा",
+                    "reading": "Pa-reek-shaa",
+                    "meaning": "Critical examination",
+                    "example_sentence": "परीक्षा समीक्षा अस्ति। (Pariksha is examination.)"
+                },
+                {
+                    "word": "सन्निकर्षः",
+                    "reading": "San-ni-kar-shah",
+                    "meaning": "Sense-object contact",
+                    "example_sentence": "सन्निकर्षः इन्द्रियार्थसंयोगः। (Sannikarsha is sense-object contact.)"
+                },
+                {
+                    "word": "निर्विकल्पकम्",
+                    "reading": "Nir-vi-kal-pa-kam",
+                    "meaning": "Indeterminate perception",
+                    "example_sentence": "निर्विकल्पकं अनिर्णीतप्रत्यक्षम्। (Nirvikalpaka is indeterminate perception.)"
+                },
+                {
+                    "word": "सविकल्पकम्",
+                    "reading": "Sa-vi-kal-pa-kam",
+                    "meaning": "Determinate perception",
+                    "example_sentence": "सविकल्पकं निर्णीतप्रत्यक्षम्। (Savikalpaka is determinate perception.)"
+                },
+                {
+                    "word": "लौकिकप्रत्यक्षम्",
+                    "reading": "Lau-ki-ka-prat-yak-sham",
+                    "meaning": "Ordinary perception",
+                    "example_sentence": "लौकिकप्रत्यक्षं सामान्यप्रत्यक्षम्। (Laukika-pratyaksha is ordinary perception.)"
+                },
+                {
+                    "word": "अलौकिकप्रत्यक्षम्",
+                    "reading": "A-lau-ki-ka-prat-yak-sham",
+                    "meaning": "Extraordinary perception",
+                    "example_sentence": "अलौकिकप्रत्यक्षं असामान्यप्रत्यक्षम्। (Alaukika-pratyaksha is extraordinary perception.)"
+                },
+                {
+                    "word": "योगजम्",
+                    "reading": "Yo-ga-jam",
+                    "meaning": "Perception born of Yoga",
+                    "example_sentence": "योगजं योगसाध्यप्रत्यक्षम्। (Yogaja is yogic perception.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "सामान्यलक्षणम्",
+                    "reading": "Saa-maan-ya-lak-sha-nam",
+                    "meaning": "Perception of universals",
+                    "example_sentence": "सामान्यलक्षणं जातिप्रत्यक्षम्। (Samanyalakshana is perception of universals.)"
+                },
+                {
+                    "word": "ज्ञानलक्षणम्",
+                    "reading": "Jnyaa-na-lak-sha-nam",
+                    "meaning": "Complicated perception",
+                    "example_sentence": "ज्ञानलक्षणं जटिलप्रत्यक्षम्। (Jnanalakshana is complicated perception.)"
+                },
+                {
+                    "word": "अनुमानप्रमाणम्",
+                    "reading": "A-nu-maa-na-pra-maa-nam",
+                    "meaning": "Validity of inference",
+                    "example_sentence": "अनुमानप्रमाणं अनुमानस्य प्रामाण्यम्। (Anumana-pramana is validity of inference.)"
+                },
+                {
+                    "word": "स्वार्थः",
+                    "reading": "Svaar-thah",
+                    "meaning": "Self-interest/Own object",
+                    "example_sentence": "स्वार्थः आत्मप्रयोजनम्। (Svartha is self-interest.)"
+                },
+                {
+                    "word": "परामर्शजन्यज्ञानम्",
+                    "reading": "Pa-raa-mar-sha-jan-ya-jnyaa-nam",
+                    "meaning": "Knowledge born of reflection",
+                    "example_sentence": "परामर्शजन्यज्ञानं चिन्तनजज्ञानम्। (Paramarsha-janya-jnana is reflective knowledge.)"
+                },
+                {
+                    "word": "केवलान्वयी",
+                    "reading": "Ke-ba-laan-va-yee",
+                    "meaning": "Exclusively affirmative inference",
+                    "example_sentence": "केवलान्वयी केवलविधायकानुमानम्। (Kevalanvayi is purely affirmative inference.)"
+                },
+                {
+                    "word": "केवलव्यतिरेकी",
+                    "reading": "Ke-ba-la-vya-ti-re-kee",
+                    "meaning": "Exclusively negative inference",
+                    "example_sentence": "केवलव्यतिरेकी केवलनिषेधात्मकानुमानम्। (Kevalavyatireki is purely negative inference.)"
+                },
+                {
+                    "word": "अन्वयव्यतिरेकी",
+                    "reading": "An-va-ya-vya-ti-re-kee",
+                    "meaning": "Affirmative-negative inference",
+                    "example_sentence": "अन्वयव्यतिरेकी मिश्रानुमानम्। (Anvayavyatireki is mixed inference.)"
+                },
+                {
+                    "word": "व्याप्यत्वम्",
+                    "reading": "Vyaap-yat-vam",
+                    "meaning": "State of being pervaded",
+                    "example_sentence": "व्याप्यत्वं व्याप्यभावः अस्ति। (Vyapyatva is state of being pervaded.)"
+                },
+                {
+                    "word": "व्यापकत्वम्",
+                    "reading": "Vyaap-a-kat-vam",
+                    "meaning": "State of being the pervader",
+                    "example_sentence": "व्यापकत्वं व्यापकभावः अस्ति। (Vyapakatva is state of pervading.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "अव्यभिचरितम्",
+                    "reading": "A-vya-bhi-cha-ri-tam",
+                    "meaning": "Unerring/Unfailing",
+                    "example_sentence": "अव्यभिचरितं अविचलितम् अस्ति। (Avyabhicharita is unerring.)"
+                },
+                {
+                    "word": "सङ्करः",
+                    "reading": "San-ka-rah",
+                    "meaning": "Confusion/Overlapping",
+                    "example_sentence": "सङ्करः भ्रमः अस्ति। (Sankara is confusion.)"
+                },
+                {
+                    "word": "अनवस्था",
+                    "reading": "A-na-vas-thaa",
+                    "meaning": "Infinite regress",
+                    "example_sentence": "अनवस्था अनन्तपरम्परा अस्ति। (Anavastha is infinite regress.)"
+                },
+                {
+                    "word": "आत्माश्रयः",
+                    "reading": "Aat-maa-shra-yah",
+                    "meaning": "Self-dependence/Petitio Principii",
+                    "example_sentence": "आत्माश्रयः स्वाश्रयदोषः। (Atmashraya is self-dependence fallacy.)"
+                },
+                {
+                    "word": "अन्योऽन्याश्रयः",
+                    "reading": "An-yon-yaa-shra-yah",
+                    "meaning": "Mutual dependence/Circular reasoning",
+                    "example_sentence": "अन्योऽन्याश्रयः परस्पराश्रयः। (Anyonyashraya is mutual dependence.)"
+                },
+                {
+                    "word": "चक्रकम्",
+                    "reading": "Chak-ra-kam",
+                    "meaning": "Circular argument (longer chain)",
+                    "example_sentence": "चक्रकं वृत्तीयतर्कः अस्ति। (Chakraka is circular reasoning.)"
+                },
+                {
+                    "word": "गौरवम्",
+                    "reading": "Gau-ra-vam",
+                    "meaning": "Logical cumbrousness/Prolixity",
+                    "example_sentence": "गौरवं तार्किकगुरुत्वम्। (Gaurava is logical heaviness.)"
+                },
+                {
+                    "word": "लाघवम्",
+                    "reading": "Laa-gha-vam",
+                    "meaning": "Logical parsimony/Economy",
+                    "example_sentence": "लाघवं तार्किकसरलता। (Laghava is logical simplicity.)"
+                },
+                {
+                    "word": "कल्पना",
+                    "reading": "Kal-pa-naa",
+                    "meaning": "Assumption/Construction",
+                    "example_sentence": "कल्पना मानसिकसृष्टिः। (Kalpana is mental construction.)"
+                },
+                {
+                    "word": "प्रतिपक्षः",
+                    "reading": "Pra-ti-pak-shah",
+                    "meaning": "Counter-argument",
+                    "example_sentence": "प्रतिपक्षः विरोधितर्कः अस्ति। (Pratipaksha is counter-argument.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Nyaya Epistemology Precision Trap",
+        "question": "In Nyaya philosophy, what is the precise relationship between प्रमाण (pramana), प्रमेय (prameya), प्रमाता (pramata), and प्रमिति (pramiti)?",
+        "options": [
+            "All four terms mean the same thing - 'knowledge'",
+            "प्रमाण is means of knowledge; प्रमेय is object known; प्रमाता is knower; प्रमिति is resultant knowledge",
+            "प्रमाण is the knower; प्रमेय is the means; प्रमाता is the result",
+            "They are four types of inference in Nyaya logic"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "In Nyaya epistemology, these four terms form the complete structure of the knowledge process (ज्ञानव्यापार): प्रमाण (pramana) is the instrument/means of valid knowledge (like perception, inference, comparison, testimony); प्रमेय (prameya) is the object to be known (the knowable); प्रमाता (pramata) is the knowing subject (the knower/cognizer); and प्रमिति (pramiti) is the resultant valid cognition/knowledge itself. This is a trap because learners might confuse these technical terms or think they're synonyms for 'knowledge', but Nyaya makes precise distinctions: the MEANS (प्रमाण), the OBJECT (प्रमेय), the SUBJECT (प्रमाता), and the RESULT (प्रमिति) are four distinct components. Understanding this tetrad is fundamental to grasping Nyaya's analysis of epistemology - it teaches that valid knowledge requires all four elements working together in the cognitive process!"
+    }
+}

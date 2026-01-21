@@ -1,0 +1,508 @@
+{
+    "module_id": "es_a2_m10",
+    "language": "es",
+    "level": "A2",
+    "theme": "Abstract Concepts & Review",
+    "vocabulary": [
+        {
+            "word": "Pensamiento",
+            "translation": "Thought",
+            "phonetic": "pen-sa-MYEN-to"
+        },
+        {
+            "word": "Idea",
+            "translation": "Idea",
+            "phonetic": "ee-DE-a"
+        },
+        {
+            "word": "Opinión",
+            "translation": "Opinion",
+            "phonetic": "o-pee-NYON"
+        },
+        {
+            "word": "Creencia",
+            "translation": "Belief",
+            "phonetic": "kre-EN-sya"
+        },
+        {
+            "word": "Verdad",
+            "translation": "Truth",
+            "phonetic": "ber-DAD"
+        },
+        {
+            "word": "Mentira",
+            "translation": "Lie",
+            "phonetic": "men-TEE-ra"
+        },
+        {
+            "word": "Realidad",
+            "translation": "Reality",
+            "phonetic": "re-a-lee-DAD"
+        },
+        {
+            "word": "Imaginación",
+            "translation": "Imagination",
+            "phonetic": "ee-ma-hee-na-SYON"
+        },
+        {
+            "word": "Sueño",
+            "translation": "Dream",
+            "phonetic": "SWE-nyo"
+        },
+        {
+            "word": "Deseo",
+            "translation": "Desire / Wish",
+            "phonetic": "de-SE-o"
+        },
+        {
+            "word": "Esperanza",
+            "translation": "Hope",
+            "phonetic": "es-pe-RAN-sa"
+        },
+        {
+            "word": "Miedo",
+            "translation": "Fear",
+            "phonetic": "MYE-do"
+        },
+        {
+            "word": "Duda",
+            "translation": "Doubt",
+            "phonetic": "DOO-da"
+        },
+        {
+            "word": "Certeza",
+            "translation": "Certainty",
+            "phonetic": "ser-TE-sa"
+        },
+        {
+            "word": "Posibilidad",
+            "translation": "Possibility",
+            "phonetic": "po-see-bee-lee-DAD"
+        },
+        {
+            "word": "Probabilidad",
+            "translation": "Probability",
+            "phonetic": "pro-ba-bee-lee-DAD"
+        },
+        {
+            "word": "Dificultad",
+            "translation": "Difficulty",
+            "phonetic": "dee-fee-kool-TAD"
+        },
+        {
+            "word": "Facilidad",
+            "translation": "Ease",
+            "phonetic": "fa-see-lee-DAD"
+        },
+        {
+            "word": "Éxito",
+            "translation": "Success",
+            "phonetic": "EK-see-to"
+        },
+        {
+            "word": "Fracaso",
+            "translation": "Failure",
+            "phonetic": "fra-KA-so"
+        },
+        {
+            "word": "Esfuerzo",
+            "translation": "Effort",
+            "phonetic": "es-FWER-so"
+        },
+        {
+            "word": "Logro",
+            "translation": "Achievement",
+            "phonetic": "LO-gro"
+        },
+        {
+            "word": "Meta",
+            "translation": "Goal",
+            "phonetic": "ME-ta"
+        },
+        {
+            "word": "Objetivo",
+            "translation": "Objective",
+            "phonetic": "ob-he-TEE-bo"
+        },
+        {
+            "word": "Propósito",
+            "translation": "Purpose",
+            "phonetic": "pro-PO-see-to"
+        },
+        {
+            "word": "Sentido",
+            "translation": "Sense / Meaning",
+            "phonetic": "sen-TEE-do"
+        },
+        {
+            "word": "Valor",
+            "translation": "Value / Courage",
+            "phonetic": "ba-LOR"
+        },
+        {
+            "word": "Ética",
+            "translation": "Ethics",
+            "phonetic": "E-tee-ka"
+        },
+        {
+            "word": "Moral",
+            "translation": "Morals",
+            "phonetic": "mo-RAL"
+        },
+        {
+            "word": "Justicia",
+            "translation": "Justice",
+            "phonetic": "hoos-TEE-sya"
+        },
+        {
+            "word": "Injusticia",
+            "translation": "Injustice",
+            "phonetic": "een-hoos-TEE-sya"
+        },
+        {
+            "word": "Igualdad",
+            "translation": "Equality",
+            "phonetic": "ee-gwal-DAD"
+        },
+        {
+            "word": "Libertad",
+            "translation": "Freedom",
+            "phonetic": "lee-ber-TAD"
+        },
+        {
+            "word": "Derecho",
+            "translation": "Right",
+            "phonetic": "de-RE-cho"
+        },
+        {
+            "word": "Deber",
+            "translation": "Duty / Must",
+            "phonetic": "de-BER"
+        },
+        {
+            "word": "Responsabilidad",
+            "translation": "Responsibility",
+            "phonetic": "res-pon-sa-bee-lee-DAD"
+        },
+        {
+            "word": "Respeto",
+            "translation": "Respect",
+            "phonetic": "res-PE-to"
+        },
+        {
+            "word": "Confianza",
+            "translation": "Trust / Confidence",
+            "phonetic": "kon-FYAN-sa"
+        },
+        {
+            "word": "Amistad",
+            "translation": "Friendship",
+            "phonetic": "a-mees-TAD"
+        },
+        {
+            "word": "Amor",
+            "translation": "Love",
+            "phonetic": "a-MOR"
+        },
+        {
+            "word": "Odio",
+            "translation": "Hate",
+            "phonetic": "O-dyo"
+        },
+        {
+            "word": "Paz",
+            "translation": "Peace",
+            "phonetic": "Pas"
+        },
+        {
+            "word": "Conflicto",
+            "translation": "Conflict",
+            "phonetic": "kon-FLEEK-to"
+        },
+        {
+            "word": "Tiempo",
+            "translation": "Time",
+            "phonetic": "TYEM-po"
+        },
+        {
+            "word": "Espacio",
+            "translation": "Space",
+            "phonetic": "es-PA-syo"
+        },
+        {
+            "word": "Mundo",
+            "translation": "World",
+            "phonetic": "MOON-do"
+        },
+        {
+            "word": "Vida",
+            "translation": "Life",
+            "phonetic": "BEE-da"
+        },
+        {
+            "word": "Muerte",
+            "translation": "Death",
+            "phonetic": "MWER-te"
+        },
+        {
+            "word": "Destino",
+            "translation": "Destiny / Fate",
+            "phonetic": "des-TEE-no"
+        },
+        {
+            "word": "Suerte",
+            "translation": "Luck",
+            "phonetic": "SWER-te"
+        },
+        {
+            "word": "Azar",
+            "translation": "Chance / Randomness",
+            "phonetic": "a-SAR"
+        },
+        {
+            "word": "Conocimiento",
+            "translation": "Knowledge",
+            "phonetic": "ko-no-see-MYEN-to"
+        },
+        {
+            "word": "Sabiduría",
+            "translation": "Wisdom",
+            "phonetic": "sa-bee-doo-REE-a"
+        },
+        {
+            "word": "Experiencia",
+            "translation": "Experience",
+            "phonetic": "eks-pe-RYEN-sya"
+        },
+        {
+            "word": "Aprendizaje",
+            "translation": "Learning",
+            "phonetic": "a-pren-dee-SA-he"
+        },
+        {
+            "word": "Educación",
+            "translation": "Education",
+            "phonetic": "e-doo-ka-SYON"
+        },
+        {
+            "word": "Cultura",
+            "translation": "Culture",
+            "phonetic": "kool-TOO-ra"
+        },
+        {
+            "word": "Arte",
+            "translation": "Art",
+            "phonetic": "AR-te"
+        },
+        {
+            "word": "Ciencia",
+            "translation": "Science",
+            "phonetic": "SYEN-sya"
+        },
+        {
+            "word": "Tecnología",
+            "translation": "Technology",
+            "phonetic": "tek-no-lo-HEE-a"
+        },
+        {
+            "word": "Progreso",
+            "translation": "Progress",
+            "phonetic": "pro-GRE-so"
+        },
+        {
+            "word": "Cambio",
+            "translation": "Change",
+            "phonetic": "KAM-byo"
+        },
+        {
+            "word": "Evolución",
+            "translation": "Evolution",
+            "phonetic": "e-bo-loo-SYON"
+        },
+        {
+            "word": "Futuro",
+            "translation": "Future",
+            "phonetic": "foo-TOO-ro"
+        },
+        {
+            "word": "Presente",
+            "translation": "Present",
+            "phonetic": "pre-SEN-te"
+        },
+        {
+            "word": "Pasado",
+            "translation": "Past",
+            "phonetic": "pa-SA-do"
+        },
+        {
+            "word": "Recuerdo",
+            "translation": "Memory / Souvenir",
+            "phonetic": "re-KWER-do"
+        },
+        {
+            "word": "Olvido",
+            "translation": "Oblivion / Forgetting",
+            "phonetic": "ol-BEE-do"
+        },
+        {
+            "word": "Identidad",
+            "translation": "Identity",
+            "phonetic": "ee-den-tee-DAD"
+        },
+        {
+            "word": "Personalidad",
+            "translation": "Personality",
+            "phonetic": "per-so-na-lee-DAD"
+        },
+        {
+            "word": "Carácter",
+            "translation": "Character",
+            "phonetic": "ka-RAK-ter"
+        },
+        {
+            "word": "Sentimiento",
+            "translation": "Feeling",
+            "phonetic": "sen-tee-MYEN-to"
+        },
+        {
+            "word": "Emoción",
+            "translation": "Emotion",
+            "phonetic": "e-mo-SYON"
+        },
+        {
+            "word": "Felicidad",
+            "translation": "Happiness",
+            "phonetic": "fe-lee-see-DAD"
+        },
+        {
+            "word": "Tristeza",
+            "translation": "Sadness",
+            "phonetic": "trees-TE-sa"
+        },
+        {
+            "word": "Enojo",
+            "translation": "Anger",
+            "phonetic": "e-NO-ho"
+        },
+        {
+            "word": "Sorpresa",
+            "translation": "Surprise",
+            "phonetic": "sor-PRE-sa"
+        },
+        {
+            "word": "Miedo",
+            "translation": "Fear",
+            "phonetic": "MYE-do"
+        },
+        {
+            "word": "Asco",
+            "translation": "Disgust",
+            "phonetic": "AS-ko"
+        },
+        {
+            "word": "Orgullo",
+            "translation": "Pride",
+            "phonetic": "or-GOO-yo"
+        },
+        {
+            "word": "Vergüenza",
+            "translation": "Shame",
+            "phonetic": "ber-GWEN-sa"
+        },
+        {
+            "word": "Culpa",
+            "translation": "Guilt",
+            "phonetic": "KOOL-pa"
+        },
+        {
+            "word": "Soledad",
+            "translation": "Solitude / Loneliness",
+            "phonetic": "so-le-DAD"
+        },
+        {
+            "word": "Compañía",
+            "translation": "Company / Togetherness",
+            "phonetic": "kom-pa-NYEE-a"
+        },
+        {
+            "word": "Comunicación",
+            "translation": "Communication",
+            "phonetic": "ko-moo-nee-ka-SYON"
+        },
+        {
+            "word": "Lenguaje",
+            "translation": "Language",
+            "phonetic": "len-GWA-he"
+        },
+        {
+            "word": "Diálogo",
+            "translation": "Dialogue",
+            "phonetic": "DYA-lo-go"
+        },
+        {
+            "word": "Silencio",
+            "translation": "Silence",
+            "phonetic": "see-LEN-syo"
+        },
+        {
+            "word": "Voz",
+            "translation": "Voice",
+            "phonetic": "Bos"
+        },
+        {
+            "word": "Sonido",
+            "translation": "Sound",
+            "phonetic": "so-NEE-do"
+        },
+        {
+            "word": "Ruido",
+            "translation": "Noise",
+            "phonetic": "RWEE-do"
+        },
+        {
+            "word": "Armonía",
+            "translation": "Harmony",
+            "phonetic": "ar-mo-NEE-a"
+        },
+        {
+            "word": "Equilibrio",
+            "translation": "Balance",
+            "phonetic": "e-kee-LEE-bryo"
+        },
+        {
+            "word": "Belleza",
+            "translation": "Beauty",
+            "phonetic": "be-YE-sa"
+        },
+        {
+            "word": "Perfección",
+            "translation": "Perfection",
+            "phonetic": "per-fek-SYON"
+        },
+        {
+            "word": "Infinito",
+            "translation": "Infinite",
+            "phonetic": "een-fee-NEE-to"
+        },
+        {
+            "word": "Universo",
+            "translation": "Universe",
+            "phonetic": "oo-nee-BER-so"
+        },
+        {
+            "word": "Existencia",
+            "translation": "Existence",
+            "phonetic": "ek-sees-TEN-sya"
+        },
+        {
+            "word": "Final",
+            "translation": "Final / End",
+            "phonetic": "fee-NAL"
+        },
+        {
+            "word": "A2 Completado",
+            "translation": "A2 Completed",
+            "phonetic": "A-dos kom-ple-TA-do"
+        }
+    ]
+}

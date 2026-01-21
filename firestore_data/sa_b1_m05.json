@@ -1,0 +1,672 @@
+{
+    "moduleId": "sa_b1_m05",
+    "theme": "Metaphysics & Vedanta",
+    "title": "Metaphysics & Vedanta",
+    "level": "b1",
+    "language": "sanskrit",
+    "order": 5,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "अद्वैतम्",
+                    "reading": "Ad-vai-tam",
+                    "meaning": "Non-duality (Trap Word)",
+                    "example_sentence": "अद्वैतं परमार्थसत्यम्। (Advaita is ultimate reality.) [LIAR GAME TRAP]"
+                },
+                {
+                    "word": "ब्रह्म",
+                    "reading": "Brah-ma",
+                    "meaning": "The Absolute Reality/Infinite",
+                    "example_sentence": "ब्रह्म सत्यम् अस्ति। (Brahman is the truth.)"
+                },
+                {
+                    "word": "अविद्या",
+                    "reading": "A-vid-yaa",
+                    "meaning": "Metaphysical ignorance",
+                    "example_sentence": "अविद्या बन्धकारणम्। (Avidya is the cause of bondage.)"
+                },
+                {
+                    "word": "अध्यासः",
+                    "reading": "Adh-yaa-sah",
+                    "meaning": "Superimposition/False attribution",
+                    "example_sentence": "अध्यासः मिथ्याज्ञानम् अस्ति। (Adhyasa is false knowledge.)"
+                },
+                {
+                    "word": "विवर्तः",
+                    "reading": "Vi-var-tah",
+                    "meaning": "Apparent transformation",
+                    "example_sentence": "विवर्तः आभासिकपरिणामः। (Vivarta is apparent transformation.)"
+                },
+                {
+                    "word": "माया",
+                    "reading": "Maa-yaa",
+                    "meaning": "Power of illusion/Cosmic veil",
+                    "example_sentence": "माया ब्रह्मणः शक्तिः। (Maya is the power of Brahman.)"
+                },
+                {
+                    "word": "जीवन्मुक्तिः",
+                    "reading": "Jee-van-muk-tih",
+                    "meaning": "Liberation while alive",
+                    "example_sentence": "जीवन्मुक्तिः जीवितमोक्षः। (Jivanmukti is liberation in life.)"
+                },
+                {
+                    "word": "विदेहमुक्तिः",
+                    "reading": "Vi-de-ha-muk-tih",
+                    "meaning": "Liberation after death",
+                    "example_sentence": "विदेहमुक्तिः मरणानन्तरमोक्षः। (Videhamukti is post-death liberation.)"
+                },
+                {
+                    "word": "अधिष्ठानम्",
+                    "reading": "A-dhish-thaa-nam",
+                    "meaning": "Substratum/Basis",
+                    "example_sentence": "अधिष्ठानं आधारः अस्ति। (Adhishthana is the substrate.)"
+                },
+                {
+                    "word": "उपाधिः",
+                    "reading": "U-paa-dhih",
+                    "meaning": "Limiting adjunct/Condition",
+                    "example_sentence": "उपाधिः सीमाकारकः अस्ति। (Upadhi is limiting condition.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "सच्चिदानन्दः",
+                    "reading": "Sac-chi-daa-nan-dah",
+                    "meaning": "Existence-Consciousness-Bliss",
+                    "example_sentence": "सच्चिदानन्दः ब्रह्मस्वरूपम्। (Satchidananda is nature of Brahman.)"
+                },
+                {
+                    "word": "अखण्डैकरसः",
+                    "reading": "A-khan-dai-ka-ra-sah",
+                    "meaning": "Indivisible homogenous essence",
+                    "example_sentence": "अखण्डैकरसः अविभक्तः अस्ति। (Akhandaikarasa is indivisible.)"
+                },
+                {
+                    "word": "साक्षी",
+                    "reading": "Saak-shee",
+                    "meaning": "Witness consciousness",
+                    "example_sentence": "साक्षी द्रष्टा अस्ति। (Sakshi is the witness.)"
+                },
+                {
+                    "word": "कैवल्यम्",
+                    "reading": "Kai-val-yam",
+                    "meaning": "Absolute aloneness/Emancipation",
+                    "example_sentence": "कैवल्यं परममोक्षः। (Kaivalya is supreme liberation.)"
+                },
+                {
+                    "word": "पुरुषः",
+                    "reading": "Pu-ru-shah",
+                    "meaning": "Pure consciousness/Spirit",
+                    "example_sentence": "पुरुषः चैतन्यम् अस्ति। (Purusha is consciousness.)"
+                },
+                {
+                    "word": "प्रकृतिः",
+                    "reading": "Pra-kru-tih",
+                    "meaning": "Primordial matter/Nature",
+                    "example_sentence": "प्रकृतिः मूलद्रव्यम् अस्ति। (Prakriti is primordial matter.)"
+                },
+                {
+                    "word": "त्रिगुणात्मकम्",
+                    "reading": "Tri-gu-naat-ma-kam",
+                    "meaning": "Composed of three qualities",
+                    "example_sentence": "त्रिगुणात्मकं प्रकृतिस्वरूपम्। (Trigunatmaka is nature of Prakriti.)"
+                },
+                {
+                    "word": "सत्त्वम्",
+                    "reading": "Sat-tvam",
+                    "meaning": "Purity/Light quality",
+                    "example_sentence": "सत्त्वं शुद्धिगुणः अस्ति। (Sattva is purity quality.)"
+                },
+                {
+                    "word": "रजस",
+                    "reading": "Ra-jas",
+                    "meaning": "Activity/Passion quality",
+                    "example_sentence": "रजः क्रियागुणः अस्ति। (Rajas is activity quality.)"
+                },
+                {
+                    "word": "तमस",
+                    "reading": "Ta-mas",
+                    "meaning": "Inertia/Darkness quality",
+                    "example_sentence": "तमः जडत्वगुणः अस्ति। (Tamas is inertia quality.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "साम्यावस्था",
+                    "reading": "Saam-yaa-vas-thaa",
+                    "meaning": "State of equilibrium",
+                    "example_sentence": "साम्यावस्था संतुलितावस्था। (Samyavastha is equilibrium state.)"
+                },
+                {
+                    "word": "महत्तत्त्वम्",
+                    "reading": "Ma-hat-tat-tvam",
+                    "meaning": "Cosmic intellect",
+                    "example_sentence": "महत्तत्त्वं विश्वबुद्धिः। (Mahattattva is cosmic intellect.)"
+                },
+                {
+                    "word": "तन्मात्रम्",
+                    "reading": "Tan-maat-ram",
+                    "meaning": "Subtle element/Essence",
+                    "example_sentence": "तन्मात्रं सूक्ष्मभूतम्। (Tanmatra is subtle element.)"
+                },
+                {
+                    "word": "पञ्चीकरणम्",
+                    "reading": "Pan-chee-ka-ra-nam",
+                    "meaning": "Fivefold compounding of elements",
+                    "example_sentence": "पञ्चीकरणं भूतमिश्रणम्। (Panchikarana is element combination.)"
+                },
+                {
+                    "word": "अव्याकृतम्",
+                    "reading": "Av-yaa-kru-tam",
+                    "meaning": "Unmanifested",
+                    "example_sentence": "अव्याकृतं अप्रकटम् अस्ति। (Avyakrita is unmanifest.)"
+                },
+                {
+                    "word": "स्थूलशरीरम्",
+                    "reading": "Sthoo-la-sha-ree-ram",
+                    "meaning": "Physical/Gross body",
+                    "example_sentence": "स्थूलशरीरं भौतिकदेहः। (Sthulasharira is physical body.)"
+                },
+                {
+                    "word": "सूक्ष्मशरीरम्",
+                    "reading": "Sooksh-ma-sha-ree-ram",
+                    "meaning": "Subtle/Astral body",
+                    "example_sentence": "सूक्ष्मशरीरं सूक्ष्मदेहः। (Sukshmashariram is subtle body.)"
+                },
+                {
+                    "word": "कारणशरीरम्",
+                    "reading": "Kaa-ra-na-sha-ree-ram",
+                    "meaning": "Causal body",
+                    "example_sentence": "कारणशरीरं कारणदेहः। (Karanasharira is causal body.)"
+                },
+                {
+                    "word": "कोषः",
+                    "reading": "Ko-shah",
+                    "meaning": "Sheath/Layer of being",
+                    "example_sentence": "कोषः आवरणम् अस्ति। (Kosha is a sheath.)"
+                },
+                {
+                    "word": "अन्नमयकोषः",
+                    "reading": "An-na-ma-ya-ko-shah",
+                    "meaning": "Physical sheath",
+                    "example_sentence": "अन्नमयकोषः भौतिकावरणम्। (Annamayakosha is physical sheath.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "प्राणमयकोषः",
+                    "reading": "Praa-na-ma-ya-ko-shah",
+                    "meaning": "Vital sheath",
+                    "example_sentence": "प्राणमयकोषः प्राणावरणम्। (Pranamayakosha is vital sheath.)"
+                },
+                {
+                    "word": "मनोमयकोषः",
+                    "reading": "Ma-no-ma-ya-ko-shah",
+                    "meaning": "Mental sheath",
+                    "example_sentence": "मनोमयकोषः मानसावरणम्। (Manomayakosha is mental sheath.)"
+                },
+                {
+                    "word": "विज्ञानमयकोषः",
+                    "reading": "Vi-jnyaa-na-ma-ya-ko-shah",
+                    "meaning": "Intellectual sheath",
+                    "example_sentence": "विज्ञानमयकोषः बुद्ध्यावरणम्। (Vijnanamayakosha is intellectual sheath.)"
+                },
+                {
+                    "word": "आनन्दमयकोषः",
+                    "reading": "Aa-nan-da-ma-ya-ko-shah",
+                    "meaning": "Bliss sheath",
+                    "example_sentence": "आनन्दमयकोषः आनन्दावरणम्। (Anandamayakosha is bliss sheath.)"
+                },
+                {
+                    "word": "प्रारब्धकर्म",
+                    "reading": "Praa-rab-dha-kar-ma",
+                    "meaning": "Action already bearing fruit",
+                    "example_sentence": "प्रारब्धकर्म फलितकर्म अस्ति। (Prarabdhakarma is fructified action.)"
+                },
+                {
+                    "word": "सञ्चितकर्म",
+                    "reading": "San-chi-ta-kar-ma",
+                    "meaning": "Accumulated past actions",
+                    "example_sentence": "सञ्चितकर्म संचितकर्म अस्ति। (Sanchitakarma is accumulated karma.)"
+                },
+                {
+                    "word": "आगामिकर्म",
+                    "reading": "Aa-gaa-mi-kar-ma",
+                    "meaning": "Future actions to be performed",
+                    "example_sentence": "आगामिकर्म भविष्यकर्म अस्ति। (Agamikarma is future karma.)"
+                },
+                {
+                    "word": "ईश्वरः",
+                    "reading": "Eesh-va-rah",
+                    "meaning": "The Personal God/Saguna Brahman",
+                    "example_sentence": "ईश्वरः सगुणब्रह्म अस्ति। (Ishvara is Saguna Brahman.)"
+                },
+                {
+                    "word": "निर्गुणम्",
+                    "reading": "Nir-gu-nam",
+                    "meaning": "Attributeless",
+                    "example_sentence": "निर्गुणं गुणरहितम् अस्ति। (Nirguna is without attributes.)"
+                },
+                {
+                    "word": "सगुणम्",
+                    "reading": "Sa-gu-nam",
+                    "meaning": "With attributes",
+                    "example_sentence": "सगुणं गुणसहितम् अस्ति। (Saguna is with attributes.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "महावाक्यम्",
+                    "reading": "Ma-haa-vaak-yam",
+                    "meaning": "Great aphorism/Utterance",
+                    "example_sentence": "महावाक्यं उपनिषद्वाक्यम्। (Mahavakya is Upanishadic statement.)"
+                },
+                {
+                    "word": "तत्वमसि",
+                    "reading": "Tat-tvam-a-si",
+                    "meaning": "That Thou Art",
+                    "example_sentence": "तत्वमसि महावाक्यम् अस्ति। (Tat tvam asi is a great saying.)"
+                },
+                {
+                    "word": "सोऽहम्",
+                    "reading": "So-ham",
+                    "meaning": "I am He",
+                    "example_sentence": "सोऽहं आत्मबोधः अस्ति। (So'ham is self-realization.)"
+                },
+                {
+                    "word": "अहं ब्रह्मास्मि",
+                    "reading": "A-ham Brah-maas-mi",
+                    "meaning": "I am Brahman",
+                    "example_sentence": "अहं ब्रह्मास्मि आत्मज्ञानम्। (Aham Brahmasmi is self-knowledge.)"
+                },
+                {
+                    "word": "प्रज्ञानं ब्रह्म",
+                    "reading": "Pra-jnyaa-nam Brah-ma",
+                    "meaning": "Consciousness is Brahman",
+                    "example_sentence": "प्रज्ञानं ब्रह्म महावाक्यम्। (Prajnanam Brahma is great saying.)"
+                },
+                {
+                    "word": "अयमात्मा ब्रह्म",
+                    "reading": "A-yam-aat-maa Brah-ma",
+                    "meaning": "This Self is Brahman",
+                    "example_sentence": "अयमात्मा ब्रह्म उपनिषद्वाक्यम्। (Ayam atma Brahma is Upanishadic.)"
+                },
+                {
+                    "word": "बाधः",
+                    "reading": "Baa-dhah",
+                    "meaning": "Sublation/Negation of error",
+                    "example_sentence": "बाधः मिथ्यानिवृत्तिः। (Badha is negation of falsehood.)"
+                },
+                {
+                    "word": "नेति नेति",
+                    "reading": "Ne-ti ne-ti",
+                    "meaning": "Not this, Not this",
+                    "example_sentence": "नेति नेति निषेधविधिः। (Neti neti is method of negation.)"
+                },
+                {
+                    "word": "विदेहा",
+                    "reading": "Vi-de-haa",
+                    "meaning": "Bodiless/Incorporeal",
+                    "example_sentence": "विदेहा अशरीरः अस्ति। (Videha is bodiless.)"
+                },
+                {
+                    "word": "निर्विकल्पः",
+                    "reading": "Nir-vi-kal-pah",
+                    "meaning": "Without distinction/Unwavering",
+                    "example_sentence": "निर्विकल्पः भेदरहितः। (Nirvikalpa is without distinction.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "चित्कला",
+                    "reading": "Chit-ka-laa",
+                    "meaning": "Fragment of consciousness",
+                    "example_sentence": "चित्कला चैतन्यांशः अस्ति। (Chitkala is consciousness fragment.)"
+                },
+                {
+                    "word": "अपरिणामी",
+                    "reading": "A-pa-ri-naa-mee",
+                    "meaning": "Unchanging/Immutable",
+                    "example_sentence": "अपरिणामी अविकारी अस्ति। (Aparinami is unchanging.)"
+                },
+                {
+                    "word": "चिदाभासः",
+                    "reading": "Chi-daa-bhaa-sah",
+                    "meaning": "Reflection of consciousness",
+                    "example_sentence": "चिदाभासः चैतन्यप्रतिबिम्बः। (Chidabhasa is consciousness reflection.)"
+                },
+                {
+                    "word": "दृग्",
+                    "reading": "Drug",
+                    "meaning": "The Seer",
+                    "example_sentence": "दृक् द्रष्टा अस्ति। (Drik is the seer.)"
+                },
+                {
+                    "word": "दृश्यम्",
+                    "reading": "Drush-yam",
+                    "meaning": "The Seen/Object",
+                    "example_sentence": "दृश्यं विषयः अस्ति। (Drishya is the object.)"
+                },
+                {
+                    "word": "विषयः",
+                    "reading": "Vi-sha-yah",
+                    "meaning": "Sense object/Topic",
+                    "example_sentence": "विषयः इन्द्रियविषयः। (Vishaya is sense object.)"
+                },
+                {
+                    "word": "विषयिन्",
+                    "reading": "Vi-sha-yin",
+                    "meaning": "The subject/Perceiver",
+                    "example_sentence": "विषयी ग्रहीता अस्ति। (Vishayi is the perceiver.)"
+                },
+                {
+                    "word": "अनात्मन्",
+                    "reading": "A-naat-man",
+                    "meaning": "The Non-Self",
+                    "example_sentence": "अनात्मा आत्मभिन्नः अस्ति। (Anatman is not-self.)"
+                },
+                {
+                    "word": "बन्धः",
+                    "reading": "Ban-dhah",
+                    "meaning": "Bondage/Fetters",
+                    "example_sentence": "बन्धः संसारः अस्ति। (Bandha is bondage.)"
+                },
+                {
+                    "word": "मोक्षः",
+                    "reading": "Mok-shah",
+                    "meaning": "Liberation/Release",
+                    "example_sentence": "मोक्षः मुक्तिः अस्ति। (Moksha is liberation.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "साधनचतुष्टयम्",
+                    "reading": "Saa-dha-na-cha-tush-ta-yam",
+                    "meaning": "Fourfold spiritual qualifications",
+                    "example_sentence": "साधनचतुष्टयं चत्वारि योग्यतानि। (Sadhanachatushtaya is four qualifications.)"
+                },
+                {
+                    "word": "श्रवणम्",
+                    "reading": "Shra-va-nam",
+                    "meaning": "Hearing the scriptures",
+                    "example_sentence": "श्रवणं शास्त्रश्रवणम्। (Shravana is scripture hearing.)"
+                },
+                {
+                    "word": "मननम्",
+                    "reading": "Ma-na-nam",
+                    "meaning": "Reflecting on teachings",
+                    "example_sentence": "मननं चिन्तनम् अस्ति। (Manana is reflection.)"
+                },
+                {
+                    "word": "निदिध्यासनम्",
+                    "reading": "Ni-di-dhyaa-sa-nam",
+                    "meaning": "Deep contemplative absorption",
+                    "example_sentence": "निदिध्यासनं गम्भीरध्यानम्। (Nididhyasana is deep meditation.)"
+                },
+                {
+                    "word": "समाधिः",
+                    "reading": "Sa-maa-dhih",
+                    "meaning": "Absorption/Transcendent state",
+                    "example_sentence": "समाधिः परमावस्था अस्ति। (Samadhi is supreme state.)"
+                },
+                {
+                    "word": "विकारः",
+                    "reading": "Vi-kaa-rah",
+                    "meaning": "Modification/Change",
+                    "example_sentence": "विकारः परिवर्तनम् अस्ति। (Vikara is modification.)"
+                },
+                {
+                    "word": "अविकारी",
+                    "reading": "A-vi-kaa-ree",
+                    "meaning": "Unmodifiable",
+                    "example_sentence": "अविकारी अपरिवर्तनीयः। (Avikari is unchangeable.)"
+                },
+                {
+                    "word": "अद्वैतसिद्धिः",
+                    "reading": "Ad-vai-ta-sid-dhih",
+                    "meaning": "Attainment of non-duality",
+                    "example_sentence": "अद्वैतसिद्धिः अद्वैतप्राप्तिः। (Advaitasiddhi is non-dual attainment.)"
+                },
+                {
+                    "word": "अन्तर्यामी",
+                    "reading": "An-tar-yaa-mee",
+                    "meaning": "Inner controller",
+                    "example_sentence": "अन्तर्यामी आन्तरनियन्ता। (Antaryami is inner controller.)"
+                },
+                {
+                    "word": "हिरण्यगर्भः",
+                    "reading": "Hi-ran-ya-gar-bhah",
+                    "meaning": "Golden Womb/Cosmic Mind",
+                    "example_sentence": "हिरण्यगर्भः विश्वमनः। (Hiranyagarbha is cosmic mind.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "विराट्",
+                    "reading": "Vi-raat",
+                    "meaning": "Cosmic Physical Universe",
+                    "example_sentence": "विराट् विश्वदेहः अस्ति। (Virat is cosmic body.)"
+                },
+                {
+                    "word": "सृष्टिः",
+                    "reading": "Srush-tih",
+                    "meaning": "Projection/Creation",
+                    "example_sentence": "सृष्टिः निर्माणम् अस्ति। (Srishti is creation.)"
+                },
+                {
+                    "word": "लयः",
+                    "reading": "La-yah",
+                    "meaning": "Dissolution/Absorption",
+                    "example_sentence": "लयः विलयः अस्ति। (Laya is dissolution.)"
+                },
+                {
+                    "word": "प्रलयः",
+                    "reading": "Pra-la-yah",
+                    "meaning": "Cosmic dissolution",
+                    "example_sentence": "प्रलयः विश्वविनाशः। (Pralaya is cosmic dissolution.)"
+                },
+                {
+                    "word": "अजातिवादः",
+                    "reading": "A-jaa-ti-vaa-dah",
+                    "meaning": "Theory of non-origination",
+                    "example_sentence": "अजातिवादः गौडपादसिद्धान्तः। (Ajativada is Gaudapada's theory.)"
+                },
+                {
+                    "word": "स्वप्रकाशः",
+                    "reading": "Sva-pra-kaa-shah",
+                    "meaning": "Self-luminous",
+                    "example_sentence": "स्वप्रकाशः स्वयंज्योतिः। (Svaprakasha is self-luminous.)"
+                },
+                {
+                    "word": "नित्यानित्यविवेकः",
+                    "reading": "Nit-yaa-nit-ya-vi-ve-kah",
+                    "meaning": "Discrimination between eternal and ephemeral",
+                    "example_sentence": "नित्यानित्यविवेकः शाश्वताशाश्वतभेदः। (Nityanityaviveka is eternal-temporal discrimination.)"
+                },
+                {
+                    "word": "शमः",
+                    "reading": "Sha-mah",
+                    "meaning": "Mental tranquility",
+                    "example_sentence": "शमः मनःशान्तिः अस्ति। (Shama is mental peace.)"
+                },
+                {
+                    "word": "दमः",
+                    "reading": "Da-mah",
+                    "meaning": "Control of external senses",
+                    "example_sentence": "दमः इन्द्रियनियन्त्रणम्। (Dama is sense control.)"
+                },
+                {
+                    "word": "तितिक्षा",
+                    "reading": "Ti-tik-shaa",
+                    "meaning": "Forbearance",
+                    "example_sentence": "तितिक्षा सहिष्णुता अस्ति। (Titiksha is forbearance.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "उपरतिः",
+                    "reading": "U-pa-ra-tih",
+                    "meaning": "Withdrawal from worldly pursuit",
+                    "example_sentence": "उपरतिः संसारनिवृत्तिः। (Uparati is worldly withdrawal.)"
+                },
+                {
+                    "word": "मुमुक्षुत्वम्",
+                    "reading": "Mu-muk-shut-vam",
+                    "meaning": "Intense desire for freedom",
+                    "example_sentence": "मुमुक्षुत्वं मोक्षेच्छा अस्ति। (Mumukshutvam is liberation desire.)"
+                },
+                {
+                    "word": "अविद्यानिवृत्तिः",
+                    "reading": "A-vid-yaa-ni-vru-ttih",
+                    "meaning": "Cessation of ignorance",
+                    "example_sentence": "अविद्यानिवृत्तिः अज्ञाननाशः। (Avidyanivritti is ignorance removal.)"
+                },
+                {
+                    "word": "ब्रह्मविद्या",
+                    "reading": "Brah-ma-vid-yaa",
+                    "meaning": "Knowledge of the Absolute",
+                    "example_sentence": "ब्रह्मविद्या परमज्ञानम्। (Brahmavidya is supreme knowledge.)"
+                },
+                {
+                    "word": "ज्ञानचक्षुः",
+                    "reading": "Jnyaa-na-chak-shuh",
+                    "meaning": "Eye of knowledge",
+                    "example_sentence": "ज्ञानचक्षुः विवेकदृष्टिः। (Jnanachakshu is wisdom eye.)"
+                },
+                {
+                    "word": "हृदयग्रन्थिः",
+                    "reading": "Hru-da-ya-gran-thih",
+                    "meaning": "Knot of the heart",
+                    "example_sentence": "हृदयग्रन्थिः अहङ्कारबन्धः। (Hridayagranthi is ego knot.)"
+                },
+                {
+                    "word": "सत्यलोकः",
+                    "reading": "Sat-ya-lo-kah",
+                    "meaning": "World of truth",
+                    "example_sentence": "सत्यलोकः ब्रह्मलोकः अस्ति। (Satyaloka is Brahma's world.)"
+                },
+                {
+                    "word": "भूमन्",
+                    "reading": "Bhoo-man",
+                    "meaning": "The Vast/Infinite",
+                    "example_sentence": "भूमा अनन्तः अस्ति। (Bhuman is infinite.)"
+                },
+                {
+                    "word": "अल्पम्",
+                    "reading": "Al-pam",
+                    "meaning": "The limited/Finite",
+                    "example_sentence": "अल्पं सीमितम् अस्ति। (Alpa is limited.)"
+                },
+                {
+                    "word": "स्वात्मानन्दः",
+                    "reading": "Svaat-maa-nan-dah",
+                    "meaning": "Bliss of one's own Self",
+                    "example_sentence": "स्वात्मानन्दः आत्मसुखम्। (Svatmananda is self-bliss.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "निराकारः",
+                    "reading": "Ni-raa-kaa-rah",
+                    "meaning": "Formless",
+                    "example_sentence": "निराकारः रूपरहितः अस्ति। (Nirakara is formless.)"
+                },
+                {
+                    "word": "निर्विशेषः",
+                    "reading": "Nir-vi-she-shah",
+                    "meaning": "Without distinctions",
+                    "example_sentence": "निर्विशेषः भेदरहितः। (Nirvisesha is without distinctions.)"
+                },
+                {
+                    "word": "अनिवर्चनीयम्",
+                    "reading": "A-ni-var-cha-nee-yam",
+                    "meaning": "Indescribable/Inexplicable",
+                    "example_sentence": "अनिवर्चनीयं अवर्णनीयम्। (Anirvachaniya is indescribable.)"
+                },
+                {
+                    "word": "प्रतिबिम्बः",
+                    "reading": "Pra-ti-bim-bah",
+                    "meaning": "Reflection",
+                    "example_sentence": "प्रतिबिम्बः प्रतिच्छायः। (Pratibimba is reflection.)"
+                },
+                {
+                    "word": "बिम्बः",
+                    "reading": "Bim-bah",
+                    "meaning": "Original/Source of reflection",
+                    "example_sentence": "बिम्बः मूलरूपम् अस्ति। (Bimba is original.)"
+                },
+                {
+                    "word": "ईक्षणम्",
+                    "reading": "Ee-ksha-nam",
+                    "meaning": "Glance/Intention of creation",
+                    "example_sentence": "ईक्षणं सृष्ट्यभिप्रायः। (Ikshana is creative intention.)"
+                },
+                {
+                    "word": "सूत्रम्",
+                    "reading": "Soot-ram",
+                    "meaning": "The Thread/Cosmic Soul",
+                    "example_sentence": "सूत्रं हिरण्यगर्भः अस्ति। (Sutra is Hiranyagarbha.)"
+                },
+                {
+                    "word": "अपरोक्षानुभूतिः",
+                    "reading": "A-pa-rok-shaa-nu-bhoo-tih",
+                    "meaning": "Direct immediate experience",
+                    "example_sentence": "अपरोक्षानुभूतिः प्रत्यक्षानुभवः। (Aparokshanubhuti is direct experience.)"
+                },
+                {
+                    "word": "तत्त्ववित्",
+                    "reading": "Tat-tva-vit",
+                    "meaning": "Knower of reality",
+                    "example_sentence": "तत्त्ववित् सत्यज्ञः अस्ति। (Tattvavit is reality knower.)"
+                },
+                {
+                    "word": "ब्रह्मचर्यम्",
+                    "reading": "Brah-ma-char-yam",
+                    "meaning": "Moving in the Absolute/Celibacy",
+                    "example_sentence": "ब्रह्मचर्यं संयमः अस्ति। (Brahmacharya is self-restraint.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Advaita Vedanta Core Concept Trap",
+        "question": "What is the fundamental teaching of अद्वैत (Advaita) Vedanta?",
+        "options": [
+            "There are two eternal realities: God and individual souls",
+            "The ultimate reality is non-dual - Brahman alone exists, and the individual self (Atman) is identical to Brahman",
+            "The world is real and created by God",
+            "Liberation comes through devotion to a personal deity"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "अद्वैत (Advaita, literally 'non-dual') Vedanta, primarily systematized by Adi Shankaracharya, teaches that there is only ONE ultimate reality - ब्रह्म (Brahman). This is a trap because many confuse Advaita with other Vedantic schools or assume it's about 'oneness' in a simplistic sense. The core insights are: (1) ब्रह्म सत्यम् (Brahman alone is real); (2) जगत् मिथ्या (The world is apparent/illusory, not ultimately real); (3) जीवो ब्रह्मैव नापरः (The individual soul is none other than Brahman). The apparent duality we experience is due to अविद्या (ignorance/Maya). Through ज्ञान (knowledge), one realizes तत्त्वमसि ('That Thou Art') - the identity of आत्मन् (individual self) with ब्रह्म (universal Self). This is NOT pantheism (everything is God) or monism (reducing everything to one substance), but rather non-dualism - the negation of duality itself. Understanding this distinction is crucial for grasping Vedantic metaphysics!"
+    }
+}

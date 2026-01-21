@@ -1,0 +1,609 @@
+{
+  "theme": "Food, Dining & Kitchen",
+  "language": "es",
+  "module_id": "es_a1_m06",
+  "order": 6,
+  "level": "A1",
+  "vocabularyItems": [
+    {
+      "phonetic": "/koˈmeɾ/",
+      "word": "Comer",
+      "usage": "Me gusta comer frutas frescas todos los días para mantenerme saludable y lleno de energía durante todo el día.",
+      "translation": "To eat"
+    },
+    {
+      "usage": "Necesito beber mucha agua cuando hace calor para mantenerme hidratado y evitar la deshidratación en verano.",
+      "phonetic": "/beˈβeɾ/",
+      "word": "Beber",
+      "translation": "To drink"
+    },
+    {
+      "phonetic": "/desaˈʝu.no/",
+      "word": "Desayuno",
+      "usage": "El desayuno es la comida más importante del día y siempre como huevos, pan tostado y café caliente.",
+      "translation": "Breakfast"
+    },
+    {
+      "usage": "Tomo el almuerzo a la una de la tarde en el restaurante cerca de mi oficina con mis compañeros.",
+      "phonetic": "/alˈmweɾ.so/",
+      "word": "Almuerzo",
+      "translation": "Lunch"
+    },
+    {
+      "phonetic": "/ˈse.na/",
+      "translation": "Dinner",
+      "word": "Cena",
+      "usage": "La cena en mi casa es a las ocho de la noche y toda la familia se reúne para comer juntos."
+    },
+    {
+      "translation": "Hunger",
+      "usage": "Tengo mucha hambre porque no he comido nada desde esta mañana temprano y ya son las tres de la tarde.",
+      "phonetic": "/ˈam.bɾe/",
+      "word": "Hambre"
+    },
+    {
+      "phonetic": "/seð/",
+      "word": "Sed",
+      "usage": "Tengo sed después de correr cinco kilómetros bajo el sol y necesito beber agua fría inmediatamente para refrescarme.",
+      "translation": "Thirst"
+    },
+    {
+      "translation": "Restaurant",
+      "usage": "Vamos a cenar en un restaurante italiano esta noche para celebrar nuestro aniversario de bodas con una cena romántica.",
+      "phonetic": "/restawˈɾan.te/",
+      "word": "Restaurante"
+    },
+    {
+      "word": "Camarero",
+      "phonetic": "/kamaˈɾe.ɾo/",
+      "translation": "Waiter",
+      "usage": "El camarero es muy amable y siempre nos recomienda los mejores platos del menú con una sonrisa en su rostro."
+    },
+    {
+      "translation": "Menu",
+      "phonetic": "/meˈnu/",
+      "word": "Menú",
+      "usage": "El menú del restaurante tiene muchas opciones deliciosas de comida española tradicional que quiero probar todas sin excepción."
+    },
+    {
+      "phonetic": "/ˈkwen.ta/",
+      "translation": "Bill / Check",
+      "word": "Cuenta",
+      "usage": "Cuando terminamos de comer pedimos la cuenta al camarero para pagar y dejar una propina generosa por el servicio."
+    },
+    {
+      "phonetic": "/ˈba.so/",
+      "usage": "Necesito un vaso de agua fría porque tengo mucha sed después de comer comida picante y salada en el restaurante.",
+      "translation": "Glass",
+      "word": "Vaso"
+    },
+    {
+      "translation": "Cup / Mug",
+      "phonetic": "/ˈta.sa/",
+      "usage": "Me gusta tomar café caliente en una taza grande por las mañanas mientras leo el periódico en la cocina tranquilamente.",
+      "word": "Taza"
+    },
+    {
+      "phonetic": "/ˈpla.to/",
+      "usage": "El plato principal del menú es paella valenciana con mariscos frescos y arroz amarillo que huele delicioso y apetitoso.",
+      "translation": "Plate",
+      "word": "Plato"
+    },
+    {
+      "usage": "Uso el tenedor para comer la ensalada fresca con verduras y tomates que está muy sabrosa y saludable para mí.",
+      "translation": "Fork",
+      "phonetic": "/teneˈðoɾ/",
+      "word": "Tenedor"
+    },
+    {
+      "phonetic": "/kuˈtʃi.ʝo/",
+      "translation": "Knife",
+      "word": "Cuchillo",
+      "usage": "Necesito un cuchillo afilado para cortar la carne asada porque está un poco dura y difícil de masticar sin ayuda."
+    },
+    {
+      "word": "Cuchara",
+      "translation": "Spoon",
+      "usage": "Uso una cuchara grande para tomar la sopa caliente de verduras que mi abuela preparó con mucho amor esta mañana.",
+      "phonetic": "/kuˈtʃa.ɾa/"
+    },
+    {
+      "usage": "Necesito una servilleta limpia para limpiarme la boca después de comer porque tengo salsa de tomate en los labios.",
+      "word": "Servilleta",
+      "translation": "Napkin",
+      "phonetic": "/seɾβiˈʝe.ta/"
+    },
+    {
+      "phonetic": "/boˈte.ʝa/",
+      "translation": "Bottle",
+      "word": "Botella",
+      "usage": "Pedimos una botella de vino tinto español para acompañar la cena de carne asada y patatas fritas en el restaurante elegante."
+    },
+    {
+      "phonetic": "/koˈsi.na/",
+      "translation": "Kitchen",
+      "usage": "Mi cocina es grande y moderna con todos los electrodomésticos necesarios para preparar comidas deliciosas para toda la familia.",
+      "word": "Cocina"
+    },
+    {
+      "usage": "Uso una sartén antiadherente para freír huevos en el desayuno porque es fácil de limpiar y no se pegan los alimentos.",
+      "translation": "Pan",
+      "word": "Sarten",
+      "phonetic": "/saɾˈten/"
+    },
+    {
+      "word": "Olla",
+      "phonetic": "/ˈo.ʝa/",
+      "translation": "Pot",
+      "usage": "Cocino la sopa de verduras en una olla grande durante dos horas a fuego lento para que todos los sabores se mezclen."
+    },
+    {
+      "phonetic": "/ˈoɾ.no/",
+      "word": "Horno",
+      "translation": "Oven",
+      "usage": "Horneo el pollo con patatas en el horno a doscientos grados durante una hora hasta que esté dorado y crujiente."
+    },
+    {
+      "usage": "Guardo la leche, el queso y las verduras frescas en la nevera para que no se echen a perder rápidamente con el calor.",
+      "translation": "Fridge",
+      "word": "Nevera",
+      "phonetic": "/neˈβe.ɾa/"
+    },
+    {
+      "usage": "No como mucha carne roja porque prefiero el pescado y el pollo que son más saludables para el corazón y la salud.",
+      "word": "Carne",
+      "phonetic": "/ˈkaɾ.ne/",
+      "translation": "Meat"
+    },
+    {
+      "usage": "El pollo asado con hierbas aromáticas es mi plato favorito y lo como dos veces por semana con ensalada fresca.",
+      "translation": "Chicken",
+      "word": "Pollo",
+      "phonetic": "/ˈpo.ʝo/"
+    },
+    {
+      "translation": "Fish",
+      "word": "Pescado",
+      "usage": "Como pescado fresco del mar tres veces por semana porque es rico en omega-3 y muy bueno para la salud.",
+      "phonetic": "/pesˈka.ðo/"
+    },
+    {
+      "usage": "Desayuno dos huevos revueltos con pan tostado todas las mañanas porque son nutritivos y me dan mucha energía para trabajar.",
+      "phonetic": "/ˈwe.βo/",
+      "translation": "Egg",
+      "word": "Huevo"
+    },
+    {
+      "usage": "Me encanta el queso manchego español y lo como con pan y vino tinto en las cenas con amigos los fines.",
+      "phonetic": "/ˈke.so/",
+      "translation": "Cheese",
+      "word": "Queso"
+    },
+    {
+      "usage": "El arroz blanco es un acompañamiento perfecto para el pollo al curry y lo como casi todos los días en el almuerzo.",
+      "phonetic": "/aˈros/",
+      "translation": "Rice",
+      "word": "Arroz"
+    },
+    {
+      "usage": "Cocino pasta italiana con salsa de tomate casera y albahaca fresca para la cena porque es rápido, fácil y delicioso.",
+      "translation": "Pasta",
+      "phonetic": "/ˈpas.ta/",
+      "word": "Pasta"
+    },
+    {
+      "translation": "Soup",
+      "word": "Sopa",
+      "phonetic": "/ˈso.pa/",
+      "usage": "En invierno me gusta tomar sopa caliente de verduras para calentarme y sentirme reconfortado después de un día frío afuera."
+    },
+    {
+      "usage": "Como ensalada verde con tomate, pepino y aceite de oliva todos los días porque es saludable y refrescante en verano.",
+      "translation": "Salad",
+      "phonetic": "/ensaˈla.ða/",
+      "word": "Ensalada"
+    },
+    {
+      "phonetic": "/beɾˈðu.ɾa/",
+      "translation": "Vegetable",
+      "usage": "Las verduras frescas son muy importantes en mi dieta diaria y trato de comer al menos cinco porciones cada día.",
+      "word": "Verdura"
+    },
+    {
+      "phonetic": "/ˈfɾu.ta/",
+      "translation": "Fruit",
+      "word": "Fruta",
+      "usage": "Como fruta fresca de postre después de cada comida porque es dulce, saludable y llena de vitaminas esenciales para el cuerpo."
+    },
+    {
+      "phonetic": "/manˈsa.na/",
+      "translation": "Apple",
+      "usage": "Como una manzana roja todos los días como snack saludable entre comidas porque tiene mucha fibra y pocas calorías.",
+      "word": "Manzana"
+    },
+    {
+      "phonetic": "/ˈpla.ta.no/",
+      "translation": "Banana",
+      "usage": "Los plátanos son mi fruta favorita para el desayuno porque son dulces, nutritivos y me dan energía rápida para empezar el día.",
+      "word": "Plátano"
+    },
+    {
+      "usage": "Bebo jugo de naranja fresco todas las mañanas porque tiene mucha vitamina C y es bueno para el sistema inmunológico.",
+      "word": "Naranja",
+      "translation": "Orange",
+      "phonetic": "/naˈɾaŋ.xa/"
+    },
+    {
+      "usage": "Compro pan fresco en la panadería todas las mañanas para el desayuno con mantequilla y mermelada de fresa casera.",
+      "word": "Pan",
+      "phonetic": "/pan/",
+      "translation": "Bread"
+    },
+    {
+      "usage": "Unto mantequilla en el pan tostado caliente para el desayuno porque me gusta el sabor cremoso y suave que tiene.",
+      "translation": "Butter",
+      "phonetic": "/manteˈki.ʝa/",
+      "word": "Mantequilla"
+    },
+    {
+      "phonetic": "/aˈsej.te/",
+      "translation": "Oil",
+      "usage": "Uso aceite de oliva virgen extra para cocinar y hacer ensaladas porque es muy saludable para el corazón y delicioso.",
+      "word": "Aceite"
+    },
+    {
+      "translation": "Salt",
+      "word": "Sal",
+      "phonetic": "/sal/",
+      "usage": "Pongo un poco de sal en la comida para darle sabor pero trato de no usar demasiada porque no es bueno."
+    },
+    {
+      "usage": "Me gusta agregar pimienta negra molida a mis platos de carne y verduras para darles un sabor picante y aromático.",
+      "phonetic": "/piˈmjen.ta/",
+      "translation": "Pepper",
+      "word": "Pimienta"
+    },
+    {
+      "word": "Azúcar",
+      "phonetic": "/aˈsu.kaɾ/",
+      "translation": "Sugar",
+      "usage": "Pongo una cucharadita de azúcar en mi café por la mañana para endulzarlo un poco sin exagerar demasiado con las calorías."
+    },
+    {
+      "usage": "Me encantan los postres dulces como el chocolate y los pasteles pero trato de comerlos solo los fines de semana.",
+      "translation": "Sweet",
+      "word": "Dulce",
+      "phonetic": "/ˈdul.se/"
+    },
+    {
+      "word": "Picante",
+      "usage": "No me gusta la comida muy picante porque me quema la boca y necesito beber mucha agua para calmar el ardor.",
+      "translation": "Spicy",
+      "phonetic": "/piˈkan.te/"
+    },
+    {
+      "word": "Rico",
+      "phonetic": "/ˈri.ko/",
+      "translation": "Delicious / Tasty",
+      "usage": "La paella que preparó mi abuela está muy rica con mariscos frescos y arroz perfectamente cocinado con azafrán aromático español."
+    },
+    {
+      "usage": "Bebo ocho vasos de agua al día para mantenerme hidratado y saludable, especialmente cuando hace mucho calor en verano.",
+      "phonetic": "/ˈa.ɣwa/",
+      "translation": "Water",
+      "word": "Agua"
+    },
+    {
+      "translation": "Milk",
+      "word": "Leche",
+      "usage": "Tomo leche con cereales todas las mañanas en el desayuno porque es nutritiva y me gusta el sabor cremoso.",
+      "phonetic": "/ˈle.tʃe/"
+    },
+    {
+      "word": "Café",
+      "usage": "Necesito tomar dos tazas de café fuerte por la mañana para despertarme bien y tener energía para trabajar todo el día.",
+      "phonetic": "/kaˈfe/",
+      "translation": "Coffee"
+    },
+    {
+      "usage": "Prefiero tomar té verde por las tardes porque es relajante, saludable y tiene muchos antioxidantes buenos para el cuerpo.",
+      "translation": "Tea",
+      "word": "Té",
+      "phonetic": "/te/"
+    },
+    {
+      "word": "Jugo",
+      "phonetic": "/ˈxu.ɣo/",
+      "translation": "Juice",
+      "usage": "Bebo jugo de naranja natural recién exprimido en el desayuno porque es refrescante y lleno de vitaminas esenciales para la salud."
+    },
+    {
+      "usage": "Me gusta tomar una copa de vino tinto con la cena los fines de semana para relajarme y disfrutar de la comida.",
+      "word": "Vino",
+      "translation": "Wine",
+      "phonetic": "/ˈbi.no/"
+    },
+    {
+      "usage": "Tomo una cerveza fría los viernes por la noche con amigos después del trabajo para celebrar el fin de semana.",
+      "translation": "Beer",
+      "phonetic": "/seɾˈβe.sa/",
+      "word": "Cerveza"
+    },
+    {
+      "phonetic": "/eˈla.ðo/",
+      "translation": "Ice cream",
+      "word": "Helado",
+      "usage": "Me encanta comer helado de chocolate en verano cuando hace mucho calor porque es refrescante, dulce y delicioso siempre."
+    },
+    {
+      "phonetic": "/pasˈtel/",
+      "word": "Pastel",
+      "usage": "Horneo un pastel de cumpleaños de chocolate para mi hija con crema y fresas frescas encima para su fiesta especial.",
+      "translation": "Cake"
+    },
+    {
+      "phonetic": "/tʃokoˈla.te/",
+      "usage": "El chocolate negro es mi dulce favorito y como un pedazo pequeño todos los días porque es bueno para el corazón.",
+      "word": "Chocolate",
+      "translation": "Chocolate"
+    },
+    {
+      "usage": "Mi hermano es cocinero profesional en un restaurante famoso y prepara platos gourmet increíbles que todos admiran y disfrutan.",
+      "word": "Cocinero",
+      "translation": "Cook / Chef",
+      "phonetic": "/kosiˈne.ɾo/"
+    },
+    {
+      "word": "Pedir",
+      "usage": "Voy a pedir la paella de mariscos y una ensalada mixta para el almuerzo en este restaurante español del centro.",
+      "phonetic": "/peˈðiɾ/",
+      "translation": "To order / ask for"
+    },
+    {
+      "usage": "El camarero va a traer nuestra comida en diez minutos después de que la cocina termine de preparar todos los platos.",
+      "word": "Traer",
+      "translation": "To bring",
+      "phonetic": "/tɾaˈeɾ/"
+    },
+    {
+      "phonetic": "/paˈɣaɾ/",
+      "usage": "Voy a pagar la cuenta del restaurante con mi tarjeta de crédito y dejar una propina del quince por ciento.",
+      "translation": "To pay",
+      "word": "Pagar"
+    },
+    {
+      "translation": "Tip",
+      "phonetic": "/pɾoˈpi.na/",
+      "usage": "Siempre dejo una propina generosa del veinte por ciento cuando el servicio en el restaurante es excelente y el camarero amable.",
+      "word": "Propina"
+    },
+    {
+      "phonetic": "/ˈme.sa/",
+      "translation": "Table",
+      "usage": "Reservé una mesa para cuatro personas en el restaurante italiano para cenar con mi familia esta noche a las ocho.",
+      "word": "Mesa"
+    },
+    {
+      "word": "Silla",
+      "phonetic": "/ˈsi.ʝa/",
+      "usage": "Necesito una silla más cómoda en la mesa del comedor porque la que tengo ahora me hace doler la espalda.",
+      "translation": "Chair"
+    },
+    {
+      "word": "Cocinada",
+      "usage": "La carne está bien cocinada y jugosa por dentro, exactamente como me gusta para disfrutar de una buena comida casera.",
+      "translation": "Cooked",
+      "phonetic": "/kosiˈna.ða/"
+    },
+    {
+      "translation": "Fried",
+      "phonetic": "/ˈfɾi.to/",
+      "usage": "Me gustan las patatas fritas crujientes con sal como acompañamiento para las hamburguesas y el pollo frito del restaurante de comida rápida.",
+      "word": "Frito"
+    },
+    {
+      "translation": "Roasted",
+      "usage": "El pollo asado al horno con hierbas aromáticas y limón está delicioso y es mi plato favorito para la cena dominical.",
+      "phonetic": "/aˈsa.ðo/",
+      "word": "Asado"
+    },
+    {
+      "usage": "No me gusta comer pescado crudo como el sushi japonés porque prefiero la comida bien cocinada y caliente siempre.",
+      "translation": "Raw",
+      "word": "Crudo",
+      "phonetic": "/ˈkɾu.ðo/"
+    },
+    {
+      "usage": "La sopa está muy caliente y necesito esperar unos minutos para que se enfríe antes de tomarla sin quemarme la lengua.",
+      "phonetic": "/kaˈljen.te/",
+      "translation": "Hot",
+      "word": "Caliente"
+    },
+    {
+      "translation": "Cold",
+      "word": "Frío",
+      "usage": "Me gusta beber agua fría con hielo en verano cuando hace mucho calor para refrescarme y sentirme mejor inmediatamente.",
+      "phonetic": "/ˈfɾi.o/"
+    },
+    {
+      "usage": "Como despacio y mastico bien la comida para disfrutar los sabores y tener una buena digestión sin problemas estomacales después.",
+      "word": "Despacio",
+      "phonetic": "/desˈpa.sjo/",
+      "translation": "Slowly"
+    },
+    {
+      "phonetic": "/ˈʝe.no/",
+      "word": "Lleno",
+      "translation": "Full",
+      "usage": "Estoy muy lleno después de comer tres platos en el restaurante y no puedo comer postre porque no tengo más espacio."
+    },
+    {
+      "usage": "Mi estómago está vacío porque no he comido nada en todo el día y tengo mucha hambre ahora mismo.",
+      "word": "Vacío",
+      "phonetic": "/baˈsi.o/",
+      "translation": "Empty"
+    },
+    {
+      "phonetic": "/saˈβoɾ/",
+      "translation": "Flavor",
+      "usage": "Este plato tiene un sabor delicioso con especias aromáticas y hierbas frescas que hacen que sea muy especial y memorable.",
+      "word": "Sabor"
+    },
+    {
+      "word": "Oler",
+      "usage": "Puedo oler el aroma delicioso del pan recién horneado desde la panadería de la esquina todas las mañanas temprano.",
+      "phonetic": "/oˈleɾ/",
+      "translation": "To smell"
+    },
+    {
+      "translation": "To like",
+      "usage": "Me gusta mucho la comida italiana especialmente la pasta con salsa de tomate casera y albahaca fresca del jardín de mi abuela.",
+      "word": "Gustar",
+      "phonetic": "/ɡusˈtaɾ/"
+    },
+    {
+      "usage": "Prefiero comer en casa con mi familia que ir a restaurantes caros porque la comida casera es más saludable y sabrosa.",
+      "phonetic": "/pɾefeˈɾiɾ/",
+      "translation": "To prefer",
+      "word": "Preferir"
+    },
+    {
+      "usage": "Voy a servir la cena a las ocho de la noche cuando todos los miembros de la familia lleguen a casa.",
+      "translation": "To serve",
+      "phonetic": "/seɾˈβiɾ/",
+      "word": "Servir"
+    },
+    {
+      "phonetic": "/pɾoˈβaɾ/",
+      "word": "Probar",
+      "usage": "Quiero probar todos los platos típicos de España durante mi viaje para conocer la gastronomía local y sus sabores únicos.",
+      "translation": "To try / taste"
+    },
+    {
+      "usage": "¿Qué desea ordenar del menú? Tenemos muchas opciones deliciosas de comida española tradicional que le van a encantar sin duda.",
+      "phonetic": "/deseˈaɾ/",
+      "translation": "To desire / want",
+      "word": "Desear"
+    },
+    {
+      "translation": "Fast (not eating)",
+      "usage": "Hago ayuno intermitente y no como nada durante dieciséis horas para mejorar mi salud y perder peso de forma saludable.",
+      "word": "Ayuno",
+      "phonetic": "/aˈʝu.no/"
+    },
+    {
+      "translation": "Ice",
+      "usage": "Pongo hielo en mi vaso de agua para que esté bien fría y refrescante cuando hace mucho calor en verano.",
+      "word": "Hielo",
+      "phonetic": "/ˈʝe.lo/"
+    },
+    {
+      "phonetic": "/liˈmon/",
+      "usage": "Exprimo un limón fresco en mi té caliente por la mañana porque tiene vitamina C y ayuda con la digestión estomacal.",
+      "translation": "Lemon",
+      "word": "Limón"
+    },
+    {
+      "translation": "Garlic",
+      "word": "Ajo",
+      "usage": "Uso mucho ajo en mis recetas de cocina porque le da un sabor fuerte y aromático a las salsas y guisos.",
+      "phonetic": "/ˈa.xo/"
+    },
+    {
+      "translation": "Onion",
+      "usage": "Corto la cebolla en trozos pequeños para hacer sofrito con tomate y ajo que es la base de muchos platos españoles.",
+      "phonetic": "/seˈβo.ʝa/",
+      "word": "Cebolla"
+    },
+    {
+      "usage": "Los tomates frescos del jardín son perfectos para hacer ensalada caprese con mozzarella, albahaca y aceite de oliva virgen extra.",
+      "phonetic": "/toˈma.te/",
+      "translation": "Tomato",
+      "word": "Tomate"
+    },
+    {
+      "phonetic": "/paˈta.ta/",
+      "usage": "Las patatas fritas caseras son mi acompañamiento favorito para las hamburguesas y el pollo asado los fines de semana en familia.",
+      "translation": "Potato",
+      "word": "Patata"
+    },
+    {
+      "usage": "Los arándanos frescos son muy buenos para la salud y los como en el desayuno con yogur natural y granola crujiente.",
+      "phonetic": "/aˈɾan.da.no/",
+      "word": "Arándano",
+      "translation": "Blueberry"
+    },
+    {
+      "translation": "Strawberry",
+      "phonetic": "/ˈfɾe.sa/",
+      "usage": "Me encantan las fresas frescas con crema batida de postre porque son dulces, jugosas y deliciosas en verano cuando están en temporada.",
+      "word": "Fresa"
+    },
+    {
+      "phonetic": "/ˈu.βa/",
+      "word": "Uva",
+      "translation": "Grape",
+      "usage": "Como uvas verdes como snack saludable entre comidas porque son dulces, refrescantes y llenas de antioxidantes buenos para la salud."
+    },
+    {
+      "phonetic": "/sanaˈo.ɾja/",
+      "translation": "Carrot",
+      "word": "Zanahoria",
+      "usage": "Las zanahorias crudas son muy buenas para la vista y las como todos los días en ensaladas frescas con aceite de oliva."
+    },
+    {
+      "usage": "Uso harina de trigo para hacer pan casero y pasteles deliciosos los fines de semana con mi familia en la cocina.",
+      "phonetic": "/aˈɾi.na/",
+      "translation": "Flour",
+      "word": "Harina"
+    },
+    {
+      "phonetic": "/mjel/",
+      "word": "Miel",
+      "usage": "Pongo miel natural en mi té caliente en lugar de azúcar porque es más saludable y tiene un sabor dulce delicioso.",
+      "translation": "Honey"
+    },
+    {
+      "translation": "Vinegar",
+      "word": "Vinagre",
+      "usage": "Uso vinagre balsámico en mis ensaladas con aceite de oliva para darles un sabor ácido y aromático muy especial y único.",
+      "phonetic": "/biˈna.ɣɾe/"
+    },
+    {
+      "phonetic": "/ˈsal.sa/",
+      "translation": "Sauce",
+      "word": "Salsa",
+      "usage": "Preparo salsa de tomate casera con albahaca fresca para la pasta italiana que cocino todos los domingos para la familia."
+    },
+    {
+      "usage": "Me gustan los hongos salteados con ajo y perejil como acompañamiento para el bistec asado en las cenas especiales de fin de semana.",
+      "translation": "Mushroom",
+      "phonetic": "/ˈoŋ.ɡo/",
+      "word": "Hongo"
+    },
+    {
+      "translation": "Turkey",
+      "word": "Pavo",
+      "usage": "Cocinamos pavo asado relleno para la cena de Navidad con toda la familia reunida en casa celebrando las fiestas juntos felizmente.",
+      "phonetic": "/ˈpa.βo/"
+    },
+    {
+      "usage": "El jamón serrano español es delicioso y lo como en bocadillos con pan fresco y tomate rallado para el almuerzo ligero.",
+      "translation": "Ham",
+      "phonetic": "/xaˈmon/",
+      "word": "Jamón"
+    },
+    {
+      "usage": "Me gusta el tocino crujiente con huevos revueltos para el desayuno los domingos porque es sabroso aunque no muy saludable siempre.",
+      "phonetic": "/toˈsi.no/",
+      "word": "Tocino",
+      "translation": "Bacon"
+    },
+    {
+      "translation": "Sausage",
+      "usage": "Las salchichas alemanas a la parrilla con mostaza y pan son perfectas para las barbacoas de verano con amigos y familia.",
+      "phonetic": "/salˈtʃi.tʃa/",
+      "word": "Salchicha"
+    }
+  ]
+}

@@ -1,0 +1,508 @@
+{
+    "module_id": "es_b1_m04",
+    "language": "es",
+    "level": "B1",
+    "theme": "Workplace & Formal Communication",
+    "vocabulary": [
+        {
+            "word": "Mercado laboral",
+            "translation": "Labor market",
+            "phonetic": "mer-KA-do la-bo-RAL"
+        },
+        {
+            "word": "Oportunidad de empleo",
+            "translation": "Job opportunity",
+            "phonetic": "o-por-too-nee-DAD de em-PLE-o"
+        },
+        {
+            "word": "Búsqueda de trabajo",
+            "translation": "Job search",
+            "phonetic": "BOOS-ke-da de tra-BA-ho"
+        },
+        {
+            "word": "Candidato",
+            "translation": "Candidate",
+            "phonetic": "kan-dee-DA-to"
+        },
+        {
+            "word": "Currículum vítae",
+            "translation": "Curriculum vitae / Resume",
+            "phonetic": "koo-RREE-koo-loom BEE-te"
+        },
+        {
+            "word": "Carta de presentación",
+            "translation": "Cover letter",
+            "phonetic": "KAR-ta de pre-sen-ta-SYON"
+        },
+        {
+            "word": "Entrevista",
+            "translation": "Interview",
+            "phonetic": "een-tre-BEES-ta"
+        },
+        {
+            "word": "Proceso de selección",
+            "translation": "Selection process",
+            "phonetic": "pro-SE-so de se-lek-SYON"
+        },
+        {
+            "word": "Contratación",
+            "translation": "Hiring",
+            "phonetic": "kon-tra-ta-SYON"
+        },
+        {
+            "word": "Contrato",
+            "translation": "Contract",
+            "phonetic": "kon-TRA-to"
+        },
+        {
+            "word": "Puesto de trabajo",
+            "translation": "Work position",
+            "phonetic": "PWES-to de tra-BA-ho"
+        },
+        {
+            "word": "Jornada laboral",
+            "translation": "Work day / shift",
+            "phonetic": "hor-NA-da la-bo-RAL"
+        },
+        {
+            "word": "Sueldo",
+            "translation": "Salary / Wage",
+            "phonetic": "SWEL-do"
+        },
+        {
+            "word": "Beneficios",
+            "translation": "Benefits",
+            "phonetic": "be-ne-FEE-syos"
+        },
+        {
+            "word": "Ascenso",
+            "translation": "Promotion",
+            "phonetic": "as-SEN-so"
+        },
+        {
+            "word": "Carrera profesional",
+            "translation": "Professional career",
+            "phonetic": "ka-RRE-ra pro-fe-syo-NAL"
+        },
+        {
+            "word": "Jefe",
+            "translation": "Boss",
+            "phonetic": "HE-fe"
+        },
+        {
+            "word": "Gerente",
+            "translation": "Manager",
+            "phonetic": "he-REN-te"
+        },
+        {
+            "word": "Colega",
+            "translation": "Colleague",
+            "phonetic": "ko-LE-ga"
+        },
+        {
+            "word": "Compañero de trabajo",
+            "translation": "Co-worker",
+            "phonetic": "kom-pa-NYE-ro de tra-BA-ho"
+        },
+        {
+            "word": "Equipo",
+            "translation": "Team",
+            "phonetic": "e-KEE-po"
+        },
+        {
+            "word": "Liderazgo",
+            "translation": "Leadership",
+            "phonetic": "lee-de-RAS-go"
+        },
+        {
+            "word": "Gestión",
+            "translation": "Management",
+            "phonetic": "hes-TYON"
+        },
+        {
+            "word": "Productividad",
+            "translation": "Productivity",
+            "phonetic": "pro-dook-tee-bee-DAD"
+        },
+        {
+            "word": "Eficiencia",
+            "translation": "Efficiency",
+            "phonetic": "e-fee-SYEN-sya"
+        },
+        {
+            "word": "Rendimiento",
+            "translation": "Performance",
+            "phonetic": "ren-dee-MYEN-to"
+        },
+        {
+            "word": "Objetivo",
+            "translation": "Objective / Goal",
+            "phonetic": "ob-he-TEE-bo"
+        },
+        {
+            "word": "Meta",
+            "translation": "Goal",
+            "phonetic": "ME-ta"
+        },
+        {
+            "word": "Plazo",
+            "translation": "Deadline / Term",
+            "phonetic": "PLA-so"
+        },
+        {
+            "word": "Reunión",
+            "translation": "Meeting",
+            "phonetic": "re-oo-NYON"
+        },
+        {
+            "word": "Presentación",
+            "translation": "Presentation",
+            "phonetic": "pre-sen-ta-SYON"
+        },
+        {
+            "word": "Informe",
+            "translation": "Report",
+            "phonetic": "een-FOR-me"
+        },
+        {
+            "word": "Proyecto",
+            "translation": "Project",
+            "phonetic": "pro-YEK-to"
+        },
+        {
+            "word": "Tarea",
+            "translation": "Task",
+            "phonetic": "ta-RE-a"
+        },
+        {
+            "word": "Responsabilidad",
+            "translation": "Responsibility",
+            "phonetic": "res-pon-sa-bee-lee-DAD"
+        },
+        {
+            "word": "Habilidad",
+            "translation": "Skill",
+            "phonetic": "a-bee-lee-DAD"
+        },
+        {
+            "word": "Capacidad",
+            "translation": "Capacity",
+            "phonetic": "ka-pa-see-DAD"
+        },
+        {
+            "word": "Experiencia",
+            "translation": "Experience",
+            "phonetic": "eks-pe-RYEN-sya"
+        },
+        {
+            "word": "Conocimiento",
+            "translation": "Knowledge",
+            "phonetic": "ko-no-see-MYEN-to"
+        },
+        {
+            "word": "Formación",
+            "translation": "Training / Education",
+            "phonetic": "for-ma-SYON"
+        },
+        {
+            "word": "Aprendizaje",
+            "translation": "Learning",
+            "phonetic": "a-pren-dee-SA-he"
+        },
+        {
+            "word": "Desarrollo profesional",
+            "translation": "Professional development",
+            "phonetic": "de-sa-RRO-yo pro-fe-syo-NAL"
+        },
+        {
+            "word": "Innovación",
+            "translation": "Innovation",
+            "phonetic": "een-no-ba-SYON"
+        },
+        {
+            "word": "Creatividad",
+            "translation": "Creativity",
+            "phonetic": "kre-a-tee-bee-DAD"
+        },
+        {
+            "word": "Resolución de problemas",
+            "translation": "Problem solving",
+            "phonetic": "re-so-loo-SYON de pro-BLE-mas"
+        },
+        {
+            "word": "Toma de decisiones",
+            "translation": "Decision making",
+            "phonetic": "TO-ma de de-see-SYO-nes"
+        },
+        {
+            "word": "Comunicación formal",
+            "translation": "Formal communication",
+            "phonetic": "ko-moo-nee-ka-SYON for-MAL"
+        },
+        {
+            "word": "Correo electrónico",
+            "translation": "Email",
+            "phonetic": "ko-RRE-o e-lek-TRO-nee-ko"
+        },
+        {
+            "word": "Asunto",
+            "translation": "Subject",
+            "phonetic": "a-SOON-to"
+        },
+        {
+            "word": "Estimado",
+            "translation": "Dear (formal)",
+            "phonetic": "es-tee-MA-do"
+        },
+        {
+            "word": "Atentamente",
+            "translation": "Sincerely",
+            "phonetic": "a-ten-ta-MEN-te"
+        },
+        {
+            "word": "Cordial saludo",
+            "translation": "Kind regards",
+            "phonetic": "kor-DYAL sa-LOO-do"
+        },
+        {
+            "word": "Agradecimiento",
+            "translation": "Thanks / Appreciation",
+            "phonetic": "a-gra-de-see-MYEN-to"
+        },
+        {
+            "word": "Solicitud",
+            "translation": "Request / Application",
+            "phonetic": "so-lee-see-TUD"
+        },
+        {
+            "word": "Confirmación",
+            "translation": "Confirmation",
+            "phonetic": "kon-feer-ma-SYON"
+        },
+        {
+            "word": "Notificación",
+            "translation": "Notification",
+            "phonetic": "no-tee-fee-ka-SYON"
+        },
+        {
+            "word": "Anuncio",
+            "translation": "Announcement",
+            "phonetic": "a-NOON-syo"
+        },
+        {
+            "word": "Documentación",
+            "translation": "Documentation",
+            "phonetic": "do-koo-men-ta-SYON"
+        },
+        {
+            "word": "Archivo",
+            "translation": "File",
+            "phonetic": "ar-CHEE-bo"
+        },
+        {
+            "word": "Carpeta",
+            "translation": "Folder",
+            "phonetic": "kar-PE-ta"
+        },
+        {
+            "word": "Firma",
+            "translation": "Signature",
+            "phonetic": "FEER-ma"
+        },
+        {
+            "word": "Sello",
+            "translation": "Stamp / Seal",
+            "phonetic": "SE-yo"
+        },
+        {
+            "word": "Trámite",
+            "translation": "Procedure / Step",
+            "phonetic": "TRA-mee-te"
+        },
+        {
+            "word": "Requisito",
+            "translation": "Requirement",
+            "phonetic": "re-kee-SEE-to"
+        },
+        {
+            "word": "Normativa",
+            "translation": "Regulation",
+            "phonetic": "nor-ma-TEE-ba"
+        },
+        {
+            "word": "Cumplimiento",
+            "translation": "Compliance",
+            "phonetic": "koom-plee-MYEN-to"
+        },
+        {
+            "word": "Ética profesional",
+            "translation": "Professional ethics",
+            "phonetic": "E-tee-ka pro-fe-syo-NAL"
+        },
+        {
+            "word": "Confidencialidad",
+            "translation": "Confidentiality",
+            "phonetic": "kon-fee-den-sya-lee-DAD"
+        },
+        {
+            "word": "Privacidad",
+            "translation": "Privacy",
+            "phonetic": "pree-ba-see-DAD"
+        },
+        {
+            "word": "Seguridad laboral",
+            "translation": "Workplace safety",
+            "phonetic": "se-goo-ree-DAD la-bo-RAL"
+        },
+        {
+            "word": "Ambiente de trabajo",
+            "translation": "Work environment",
+            "phonetic": "am-BYEN-te de tra-BA-ho"
+        },
+        {
+            "word": "Cultura organizacional",
+            "translation": "Organizational culture",
+            "phonetic": "kool-TOO-ra or-ga-nee-sa-syo-NAL"
+        },
+        {
+            "word": "Flexibilidad",
+            "translation": "Flexibility",
+            "phonetic": "flek-see-bee-lee-DAD"
+        },
+        {
+            "word": "Teletrabajo",
+            "translation": "Remote work / Telework",
+            "phonetic": "te-le-tra-BA-ho"
+        },
+        {
+            "word": "Conciliación laboral",
+            "translation": "Work-life balance",
+            "phonetic": "kon-see-lya-SYON la-bo-RAL"
+        },
+        {
+            "word": "Estrés laboral",
+            "translation": "Work stress",
+            "phonetic": "es-TRES la-bo-RAL"
+        },
+        {
+            "word": "Motivación",
+            "translation": "Motivation",
+            "phonetic": "mo-tee-ba-SYON"
+        },
+        {
+            "word": "Compromiso",
+            "translation": "Commitment",
+            "phonetic": "kom-pro-MEE-so"
+        },
+        {
+            "word": "Éxito",
+            "translation": "Success",
+            "phonetic": "EK-see-to"
+        },
+        {
+            "word": "Fracaso",
+            "translation": "Failure",
+            "phonetic": "fra-KA-so"
+        },
+        {
+            "word": "Esfuerzo",
+            "translation": "Effort",
+            "phonetic": "es-FWER-so"
+        },
+        {
+            "word": "Dedicación",
+            "translation": "Dedication",
+            "phonetic": "de-dee-ka-SYON"
+        },
+        {
+            "word": "Disciplina",
+            "translation": "Discipline",
+            "phonetic": "dees-see-PLEE-na"
+        },
+        {
+            "word": "Constancia",
+            "translation": "Consistency / Perseverance",
+            "phonetic": "kon-STAN-sya"
+        },
+        {
+            "word": "Paciencia",
+            "translation": "Patience",
+            "phonetic": "pa-SYEN-sya"
+        },
+        {
+            "word": "Tolerancia",
+            "translation": "Tolerance",
+            "phonetic": "to-le-RAN-sya"
+        },
+        {
+            "word": "Respeto",
+            "translation": "Respect",
+            "phonetic": "res-PE-to"
+        },
+        {
+            "word": "Confianza",
+            "translation": "Trust",
+            "phonetic": "kon-FYAN-sa"
+        },
+        {
+            "word": "Lealtad",
+            "phonetic": "le-al-TAD",
+            "translation": "Loyalty"
+        },
+        {
+            "word": "Colaboración",
+            "phonetic": "ko-la-bo-ra-SYON",
+            "translation": "Collaboration"
+        },
+        {
+            "word": "Sinergia",
+            "phonetic": "see-NER-hya",
+            "translation": "Synergy"
+        },
+        {
+            "word": "Red de contactos",
+            "phonetic": "Red de kon-TAK-tos",
+            "translation": "Networking"
+        },
+        {
+            "word": "Negocio",
+            "phonetic": "ne-GO-syo",
+            "translation": "Business"
+        },
+        {
+            "word": "Inversión",
+            "phonetic": "een-ber-SYON",
+            "translation": "Investment"
+        },
+        {
+            "word": "Finanzas",
+            "phonetic": "fee-NAN-sas",
+            "translation": "Finance"
+        },
+        {
+            "word": "Economía",
+            "phonetic": "e-ko-no-MEE-a",
+            "translation": "Economy"
+        },
+        {
+            "word": "Mercado",
+            "phonetic": "mer-KA-do",
+            "translation": "Market"
+        },
+        {
+            "word": "Venta",
+            "phonetic": "BEN-ta",
+            "translation": "Sale"
+        },
+        {
+            "word": "Cliente",
+            "phonetic": "klee-EN-te",
+            "translation": "Client / Customer"
+        },
+        {
+            "word": "Servicio profesional",
+            "phonetic": "ser-BEE-syo pro-fe-syo-NAL",
+            "translation": "Professional service"
+        }
+    ]
+}

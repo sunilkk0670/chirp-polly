@@ -1,0 +1,508 @@
+{
+    "module_id": "es_a2_m06",
+    "language": "es",
+    "level": "A2",
+    "theme": "Social Issues & Media",
+    "vocabulary": [
+        {
+            "word": "Sociedad",
+            "translation": "Society",
+            "phonetic": "so-sye-DAD"
+        },
+        {
+            "word": "Medio de comunicación",
+            "translation": "Media",
+            "phonetic": "ME-dyo de ko-mu-nee-ka-SYON"
+        },
+        {
+            "word": "Noticia",
+            "translation": "News",
+            "phonetic": "no-TEE-sya"
+        },
+        {
+            "word": "Periódico",
+            "translation": "Newspaper",
+            "phonetic": "pe-RYO-dee-ko"
+        },
+        {
+            "word": "Revista",
+            "translation": "Magazine",
+            "phonetic": "re-BEES-ta"
+        },
+        {
+            "word": "Artículo",
+            "translation": "Article",
+            "phonetic": "ar-TEE-ku-lo"
+        },
+        {
+            "word": "Periodista",
+            "translation": "Journalist",
+            "phonetic": "pe-ryo-DEES-ta"
+        },
+        {
+            "word": "Entrevista",
+            "translation": "Interview",
+            "phonetic": "en-tre-BEES-ta"
+        },
+        {
+            "word": "Reportaje",
+            "translation": "Report / Coverage",
+            "phonetic": "re-por-TA-he"
+        },
+        {
+            "word": "Anuncio",
+            "translation": "Advertisement",
+            "phonetic": "a-NOON-syo"
+        },
+        {
+            "word": "Redes sociales",
+            "translation": "Social media",
+            "phonetic": "RE-des so-SYA-les"
+        },
+        {
+            "word": "Perfil",
+            "translation": "Profile",
+            "phonetic": "per-FEEL"
+        },
+        {
+            "word": "Seguidor",
+            "translation": "Follower",
+            "phonetic": "se-gee-DOR"
+        },
+        {
+            "word": "Compartir",
+            "translation": "To share",
+            "phonetic": "kom-par-TEER"
+        },
+        {
+            "word": "Comentar",
+            "translation": "To comment",
+            "phonetic": "ko-men-TAR"
+        },
+        {
+            "word": "Me gusta",
+            "translation": "Like",
+            "phonetic": "me GOOS-ta"
+        },
+        {
+            "word": "Tendencia",
+            "translation": "Trend",
+            "phonetic": "ten-DEN-sya"
+        },
+        {
+            "word": "Influencia",
+            "translation": "Influence",
+            "phonetic": "een-flwen-SYA"
+        },
+        {
+            "word": "Opinión pública",
+            "translation": "Public opinion",
+            "phonetic": "o-pee-NYON POO-blee-ka"
+        },
+        {
+            "word": "Debate",
+            "translation": "Debate",
+            "phonetic": "de-BA-te"
+        },
+        {
+            "word": "Política",
+            "translation": "Politics",
+            "phonetic": "po-LEE-tee-ka"
+        },
+        {
+            "word": "Gobierno",
+            "translation": "Government",
+            "phonetic": "go-BYER-no"
+        },
+        {
+            "word": "Elecciones",
+            "translation": "Elections",
+            "phonetic": "e-lek-SYO-nes"
+        },
+        {
+            "word": "Votar",
+            "translation": "To vote",
+            "phonetic": "bo-TAR"
+        },
+        {
+            "word": "Derechos humanos",
+            "translation": "Human rights",
+            "phonetic": "de-RE-chos oo-MA-nos"
+        },
+        {
+            "word": "Justicia",
+            "translation": "Justice",
+            "phonetic": "hoos-TEE-sya"
+        },
+        {
+            "word": "Igualdad",
+            "translation": "Equality",
+            "phonetic": "ee-gwal-DAD"
+        },
+        {
+            "word": "Libertad de expresión",
+            "translation": "Freedom of speech",
+            "phonetic": "lee-ber-TAD de eks-pre-SYON"
+        },
+        {
+            "word": "Pobreza",
+            "translation": "Poverty",
+            "phonetic": "po-BRE-sa"
+        },
+        {
+            "word": "Hambre",
+            "translation": "Hunger",
+            "phonetic": "AM-bre"
+        },
+        {
+            "word": "Desempleo",
+            "translation": "Unemployment",
+            "phonetic": "des-em-PLE-o"
+        },
+        {
+            "word": "Vivienda",
+            "translation": "Housing",
+            "phonetic": "bee-BYEN-da"
+        },
+        {
+            "word": "Educación",
+            "translation": "Education",
+            "phonetic": "e-du-ka-SYON"
+        },
+        {
+            "word": "Crimen",
+            "translation": "Crime",
+            "phonetic": "KREE-men"
+        },
+        {
+            "word": "Seguridad",
+            "translation": "Security",
+            "phonetic": "se-gu-ree-DAD"
+        },
+        {
+            "word": "Violencia",
+            "translation": "Violence",
+            "phonetic": "byo-LEN-sya"
+        },
+        {
+            "word": "Paz",
+            "translation": "Peace",
+            "phonetic": "Pas"
+        },
+        {
+            "word": "Guerra",
+            "translation": "War",
+            "phonetic": "GE-rra"
+        },
+        {
+            "word": "Refugiado",
+            "translation": "Refugee",
+            "phonetic": "re-fu-HYA-do"
+        },
+        {
+            "word": "Migración",
+            "translation": "Migration",
+            "phonetic": "mee-gra-SYON"
+        },
+        {
+            "word": "Racismo",
+            "translation": "Racism",
+            "phonetic": "ra-SEES-mo"
+        },
+        {
+            "word": "Discriminación",
+            "translation": "Discrimination",
+            "phonetic": "dees-kree-mee-na-SYON"
+        },
+        {
+            "word": "Medio ambiente",
+            "translation": "Environment",
+            "phonetic": "ME-dyo am-BYEN-te"
+        },
+        {
+            "word": "Cambio climático",
+            "translation": "Climate change",
+            "phonetic": "KAM-byo klee-MA-tee-ko"
+        },
+        {
+            "word": "Contaminación",
+            "translation": "Pollution",
+            "phonetic": "kon-ta-mee-na-SYON"
+        },
+        {
+            "word": "Reciclaje",
+            "translation": "Recycling",
+            "phonetic": "re-see-KLA-he"
+        },
+        {
+            "word": "Energía renovable",
+            "translation": "Renewable energy",
+            "phonetic": "e-ner-HEE-a re-no-BA-ble"
+        },
+        {
+            "word": "Naturaleza",
+            "translation": "Nature",
+            "phonetic": "na-tu-ra-LE-sa"
+        },
+        {
+            "word": "Protección",
+            "translation": "Protection",
+            "phonetic": "pro-tek-SYON"
+        },
+        {
+            "word": "Voluntariado",
+            "translation": "Volunteering",
+            "phonetic": "bo-loon-ta-RYA-do"
+        },
+        {
+            "word": "ONG",
+            "translation": "NGO",
+            "phonetic": "O-ene-he"
+        },
+        {
+            "word": "Solidaridad",
+            "translation": "Solidarity",
+            "phonetic": "so-lee-da-ree-DAD"
+        },
+        {
+            "word": "Comunidad",
+            "translation": "Community",
+            "phonetic": "ko-mu-nee-DAD"
+        },
+        {
+            "word": "Vecino",
+            "translation": "Neighbor",
+            "phonetic": "be-SEE-no"
+        },
+        {
+            "word": "Ciudadano",
+            "translation": "Citizen",
+            "phonetic": "syu-da-DA-no"
+        },
+        {
+            "word": "Ley",
+            "translation": "Law",
+            "phonetic": "Ley"
+        },
+        {
+            "word": "Abogado",
+            "translation": "Lawyer",
+            "phonetic": "a-bo-GA-do"
+        },
+        {
+            "word": "Juez",
+            "translation": "Judge",
+            "phonetic": "Hwes"
+        },
+        {
+            "word": "Tribunal",
+            "translation": "Court",
+            "phonetic": "tree-bu-NAL"
+        },
+        {
+            "word": "Multa",
+            "translation": "Fine",
+            "phonetic": "MOOL-ta"
+        },
+        {
+            "word": "Cárcel",
+            "translation": "Prison",
+            "phonetic": "KAR-sel"
+        },
+        {
+            "word": "Delito",
+            "translation": "Offense",
+            "phonetic": "de-LEE-to"
+        },
+        {
+            "word": "Investigación",
+            "translation": "Investigation",
+            "phonetic": "een-bes-tee-ga-SYON"
+        },
+        {
+            "word": "Prueba",
+            "translation": "Evidence",
+            "phonetic": "PRWE-ba"
+        },
+        {
+            "word": "Testigo",
+            "translation": "Witness",
+            "phonetic": "tes-TEE-go"
+        },
+        {
+            "word": "Culpable",
+            "translation": "Guilty",
+            "phonetic": "kool-PA-ble"
+        },
+        {
+            "word": "Inocente",
+            "translation": "Innocent",
+            "phonetic": "ee-no-SEN-te"
+        },
+        {
+            "word": "Libertad",
+            "translation": "Freedom",
+            "phonetic": "lee-ber-TAD"
+        },
+        {
+            "word": "Manifestación",
+            "translation": "Protest",
+            "phonetic": "ma-nee-fes-ta-SYON"
+        },
+        {
+            "word": "Huelga",
+            "translation": "Strike",
+            "phonetic": "WEL-ga"
+        },
+        {
+            "word": "Conflicto",
+            "translation": "Conflict",
+            "phonetic": "kon-FLEEK-to"
+        },
+        {
+            "word": "Acuerdo",
+            "translation": "Agreement",
+            "phonetic": "a-KWER-do"
+        },
+        {
+            "word": "Solución",
+            "translation": "Solution",
+            "phonetic": "so-lu-SYON"
+        },
+        {
+            "word": "Progreso",
+            "translation": "Progress",
+            "phonetic": "pro-GRE-so"
+        },
+        {
+            "word": "Desarrollo",
+            "translation": "Development",
+            "phonetic": "de-sa-RRO-yo"
+        },
+        {
+            "word": "Futuro",
+            "translation": "Future",
+            "phonetic": "fu-TOO-ro"
+        },
+        {
+            "word": "Pasado",
+            "translation": "Past",
+            "phonetic": "pa-SA-do"
+        },
+        {
+            "word": "Historia",
+            "translation": "History",
+            "phonetic": "ees-TO-rya"
+        },
+        {
+            "word": "Tradición",
+            "translation": "Tradition",
+            "phonetic": "tra-dee-SYON"
+        },
+        {
+            "word": "Modernidad",
+            "translation": "Modernity",
+            "phonetic": "mo-der-nee-DAD"
+        },
+        {
+            "word": "Globalización",
+            "translation": "Globalization",
+            "phonetic": "glo-ba-lee-sa-SYON"
+        },
+        {
+            "word": "Economía",
+            "translation": "Economy",
+            "phonetic": "e-ko-no-MEE-a"
+        },
+        {
+            "word": "Mercado",
+            "translation": "Market",
+            "phonetic": "mer-KA-do"
+        },
+        {
+            "word": "Dinero",
+            "translation": "Money",
+            "phonetic": "dee-NE-ro"
+        },
+        {
+            "word": "Crisis",
+            "translation": "Crisis",
+            "phonetic": "KREE-sees"
+        },
+        {
+            "word": "Inflación",
+            "translation": "Inflation",
+            "phonetic": "een-fla-SYON"
+        },
+        {
+            "word": "Consumo",
+            "translation": "Consumption",
+            "phonetic": "kon-SOO-mo"
+        },
+        {
+            "word": "Comercio",
+            "translation": "Trade",
+            "phonetic": "ko-MER-syo"
+        },
+        {
+            "word": "Empresa",
+            "translation": "Company",
+            "phonetic": "em-PRE-sa"
+        },
+        {
+            "word": "Trabajo",
+            "translation": "Work",
+            "phonetic": "tra-BA-ho"
+        },
+        {
+            "word": "Oportunidad",
+            "translation": "Opportunity",
+            "phonetic": "o-por-tu-nee-DAD"
+        },
+        {
+            "word": "Éxito",
+            "translation": "Success",
+            "phonetic": "EK-see-to"
+        },
+        {
+            "word": "Felicidad",
+            "translation": "Happiness",
+            "phonetic": "fe-lee-see-DAD"
+        },
+        {
+            "word": "Esperanza",
+            "translation": "Hope",
+            "phonetic": "es-pe-RAN-sa"
+        },
+        {
+            "word": "Respeto",
+            "translation": "Respect",
+            "phonetic": "res-PE-to"
+        },
+        {
+            "word": "Tolerancia",
+            "translation": "Tolerance",
+            "phonetic": "to-le-RAN-sya"
+        },
+        {
+            "word": "Diversidad",
+            "translation": "Diversity",
+            "phonetic": "dee-ber-see-DAD"
+        },
+        {
+            "word": "Inclusión",
+            "translation": "Inclusion",
+            "phonetic": "een-klu-SYON"
+        },
+        {
+            "word": "Cambio social",
+            "translation": "Social change",
+            "phonetic": "KAM-byo so-SYAL"
+        },
+        {
+            "word": "Mundo mejor",
+            "translation": "Better world",
+            "phonetic": "MOON-do me-HOR"
+        }
+    ]
+}

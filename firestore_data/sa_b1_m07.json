@@ -1,0 +1,672 @@
+{
+    "moduleId": "sa_b1_m07",
+    "theme": "Advanced Philology & Grammar",
+    "title": "Advanced Philology & Grammar",
+    "level": "b1",
+    "language": "sanskrit",
+    "order": 7,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "अष्टाध्यायी",
+                    "reading": "Ash-taa-dhyaa-yee",
+                    "meaning": "Eight-chaptered grammar of Panini (Trap Word)",
+                    "example_sentence": "अष्टाध्यायी पाणिनिकृतम्। (Ashtadhyayi is by Panini.) [LIAR GAME TRAP]"
+                },
+                {
+                    "word": "प्रत्याहारः",
+                    "reading": "Prat-yaa-haa-rah",
+                    "meaning": "Abbreviated grouping of phonemes",
+                    "example_sentence": "प्रत्याहारः वर्णसमूहः अस्ति। (Pratyahara is phoneme group.)"
+                },
+                {
+                    "word": "इत्सञ्ज्ञा",
+                    "reading": "It-sanj-nyaa",
+                    "meaning": "Indicator/Marker phoneme",
+                    "example_sentence": "इत्सञ्ज्ञा सूचकवर्णः अस्ति। (Itsamjna is marker phoneme.)"
+                },
+                {
+                    "word": "लोपः",
+                    "reading": "Lo-pah",
+                    "meaning": "Elision/Zero-replacement",
+                    "example_sentence": "लोपः वर्णलुप्तिः अस्ति। (Lopa is elision.)"
+                },
+                {
+                    "word": "आगमः",
+                    "reading": "Aa-ga-mah",
+                    "meaning": "Augment/Infix",
+                    "example_sentence": "आगमः अतिरिक्तवर्णः अस्ति। (Agama is augment.)"
+                },
+                {
+                    "word": "आदेशः",
+                    "reading": "Aa-de-shah",
+                    "meaning": "Substitute/Replacement",
+                    "example_sentence": "आदेशः प्रतिस्थापनम् अस्ति। (Adesha is substitution.)"
+                },
+                {
+                    "word": "प्रकृतिः",
+                    "reading": "Pra-kru-tih",
+                    "meaning": "Base/Stem",
+                    "example_sentence": "प्रकृतिः मूलरूपम् अस्ति। (Prakriti is base form.)"
+                },
+                {
+                    "word": "प्रत्ययः",
+                    "reading": "Prat-ya-yah",
+                    "meaning": "Suffix/Affix",
+                    "example_sentence": "प्रत्ययः अनुबन्धः अस्ति। (Pratyaya is suffix.)"
+                },
+                {
+                    "word": "धातुपाठः",
+                    "reading": "Dhaa-tu-paa-thah",
+                    "meaning": "List of verbal roots",
+                    "example_sentence": "धातुपाठः धातुसूची अस्ति। (Dhatupatha is root list.)"
+                },
+                {
+                    "word": "गणः",
+                    "reading": "Ga-nah",
+                    "meaning": "Conjugational class",
+                    "example_sentence": "गणः धातुवर्गः अस्ति। (Gana is verb class.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "उपपदम्",
+                    "reading": "U-pa-pa-dam",
+                    "meaning": "Secondary word in a compound",
+                    "example_sentence": "उपपदं समासांशः अस्ति। (Upapada is compound part.)"
+                },
+                {
+                    "word": "विभक्तिः",
+                    "reading": "Vi-bhak-tih",
+                    "meaning": "Case ending/Inflection",
+                    "example_sentence": "विभक्तिः कारकप्रत्ययः। (Vibhakti is case ending.)"
+                },
+                {
+                    "word": "कारकम्",
+                    "reading": "Kaa-ra-kam",
+                    "meaning": "Case relation/Grammatical function",
+                    "example_sentence": "कारकं व्याकरणसम्बन्धः। (Karaka is grammatical relation.)"
+                },
+                {
+                    "word": "कर्त्ता",
+                    "reading": "Kar-ttaa",
+                    "meaning": "The Agent/Nominative",
+                    "example_sentence": "कर्त्ता क्रियाकारकः अस्ति। (Karta is the agent.)"
+                },
+                {
+                    "word": "कर्म",
+                    "reading": "Kar-ma",
+                    "meaning": "The Object/Accusative",
+                    "example_sentence": "कर्म क्रियाविषयः अस्ति। (Karma is the object.)"
+                },
+                {
+                    "word": "करणम्",
+                    "reading": "Ka-ra-nam",
+                    "meaning": "The Instrument/Instrumental",
+                    "example_sentence": "करणं साधनम् अस्ति। (Karana is instrument.)"
+                },
+                {
+                    "word": "सम्प्रदानम्",
+                    "reading": "Sam-pra-daa-nam",
+                    "meaning": "The Recipient/Dative",
+                    "example_sentence": "सम्प्रदानं प्रापकः अस्ति। (Sampradana is recipient.)"
+                },
+                {
+                    "word": "अपादानम्",
+                    "reading": "A-paa-daa-nam",
+                    "meaning": "The Source/Ablative",
+                    "example_sentence": "अपादानं उत्पत्तिस्थानम्। (Apadana is source.)"
+                },
+                {
+                    "word": "अधिकरणम्",
+                    "reading": "A-dhi-ka-ra-nam",
+                    "meaning": "The Location/Locative",
+                    "example_sentence": "अधिकरणं स्थानम् अस्ति। (Adhikarana is location.)"
+                },
+                {
+                    "word": "समासः",
+                    "reading": "Sa-maa-sah",
+                    "meaning": "Compound formation",
+                    "example_sentence": "समासः पदसंयोगः अस्ति। (Samasa is compound.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "अव्ययीभावः",
+                    "reading": "Av-ya-yee-bhaa-vah",
+                    "meaning": "Adverbial compound",
+                    "example_sentence": "अव्ययीभावः अव्ययसमासः। (Avyayibhava is adverbial compound.)"
+                },
+                {
+                    "word": "तत्पुरुषः",
+                    "reading": "Tat-pu-ru-shah",
+                    "meaning": "Determinative compound",
+                    "example_sentence": "तत्पुरुषः विभक्तिसमासः। (Tatpurusha is determinative compound.)"
+                },
+                {
+                    "word": "द्वन्द्वः",
+                    "reading": "Dvan-dvah",
+                    "meaning": "Copulative compound",
+                    "example_sentence": "द्वन्द्वः समुच्चयसमासः। (Dvandva is copulative compound.)"
+                },
+                {
+                    "word": "बहुव्रीहिः",
+                    "reading": "Ba-hu-vree-hih",
+                    "meaning": "Attributive/Exocentric compound",
+                    "example_sentence": "बहुव्रीहिः विशेषणसमासः। (Bahuvrihi is attributive compound.)"
+                },
+                {
+                    "word": "कर्मधारयः",
+                    "reading": "Kar-ma-dhaa-ra-yah",
+                    "meaning": "Appositional compound",
+                    "example_sentence": "कर्मधारयः विशेष्यसमासः। (Karmadharaya is appositional compound.)"
+                },
+                {
+                    "word": "द्विगुः",
+                    "reading": "Dvi-guh",
+                    "meaning": "Numeral compound",
+                    "example_sentence": "द्विगुः संख्यासमासः अस्ति। (Dvigu is numeral compound.)"
+                },
+                {
+                    "word": "सन्धिः",
+                    "reading": "San-dhih",
+                    "meaning": "Phonetic euphonic combination",
+                    "example_sentence": "सन्धिः वर्णमेलनम् अस्ति। (Sandhi is phonetic combination.)"
+                },
+                {
+                    "word": "वृद्धिः",
+                    "reading": "Vrud-dhih",
+                    "meaning": "Lengthened vowel grade",
+                    "example_sentence": "वृद्धिः दीर्घस्वरः अस्ति। (Vriddhi is lengthened grade.)"
+                },
+                {
+                    "word": "गुणः",
+                    "reading": "Gu-nah",
+                    "meaning": "Intermediate vowel grade",
+                    "example_sentence": "गुणः मध्यमस्वरः अस्ति। (Guna is intermediate grade.)"
+                },
+                {
+                    "word": "सम्प्रसारणम्",
+                    "reading": "Sam-pra-saa-ra-nam",
+                    "meaning": "Vocalisation of semivowels",
+                    "example_sentence": "सम्प्रसारणं स्वरीकरणम्। (Samprasarana is vocalization.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "उपधा",
+                    "reading": "U-pa-dhaa",
+                    "meaning": "Penultimate letter",
+                    "example_sentence": "उपधा अन्त्यपूर्ववर्णः। (Upadha is penultimate letter.)"
+                },
+                {
+                    "word": "अनुवृत्तिः",
+                    "reading": "A-nu-vru-ttih",
+                    "meaning": "Recurrence/Ellipsis in rules",
+                    "example_sentence": "अनुवृत्तिः सूत्रपुनरुक्तिः। (Anuvritti is rule recurrence.)"
+                },
+                {
+                    "word": "परिभाषा",
+                    "reading": "Pa-ri-bhaa-shaa",
+                    "meaning": "Interpretative rule/Meta-rule",
+                    "example_sentence": "परिभाषा व्याख्यासूत्रम्। (Paribhasha is meta-rule.)"
+                },
+                {
+                    "word": "सूत्रम्",
+                    "reading": "Soot-ram",
+                    "meaning": "Aphoristic rule",
+                    "example_sentence": "सूत्रं संक्षिप्तनियमः। (Sutra is aphoristic rule.)"
+                },
+                {
+                    "word": "भाष्यम्",
+                    "reading": "Bhaash-yam",
+                    "meaning": "Grand commentary",
+                    "example_sentence": "भाष्यं महाव्याख्या अस्ति। (Bhashya is grand commentary.)"
+                },
+                {
+                    "word": "वार्त्तिकम्",
+                    "reading": "Vaart-ti-kam",
+                    "meaning": "Explanatory critical note",
+                    "example_sentence": "वार्त्तिकं समीक्षात्मकटीका। (Vartika is critical note.)"
+                },
+                {
+                    "word": "स्वरः",
+                    "reading": "Sva-rah",
+                    "meaning": "Accent/Vowel",
+                    "example_sentence": "स्वरः उच्चारणः अस्ति। (Svara is accent.)"
+                },
+                {
+                    "word": "उदात्तः",
+                    "reading": "U-daat-tah",
+                    "meaning": "Acute/High accent",
+                    "example_sentence": "उदात्तः उच्चस्वरः अस्ति। (Udatta is high accent.)"
+                },
+                {
+                    "word": "अनुदात्तः",
+                    "reading": "A-nu-daat-tah",
+                    "meaning": "Grave/Low accent",
+                    "example_sentence": "अनुदात्तः नीचस्वरः अस्ति। (Anudatta is low accent.)"
+                },
+                {
+                    "word": "स्वरितः",
+                    "reading": "Sva-ri-tah",
+                    "meaning": "Circumflex/Moving accent",
+                    "example_sentence": "स्वरितः संयुक्तस्वरः। (Svarita is circumflex accent.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "ह्रस्वः",
+                    "reading": "Hras-vah",
+                    "meaning": "Short vowel",
+                    "example_sentence": "ह्रस्वः लघुस्वरः अस्ति। (Hrasva is short vowel.)"
+                },
+                {
+                    "word": "दीर्घः",
+                    "reading": "Deer-ghah",
+                    "meaning": "Long vowel",
+                    "example_sentence": "दीर्घः गुरुस्वरः अस्ति। (Dirgha is long vowel.)"
+                },
+                {
+                    "word": "प्लुतः",
+                    "reading": "Plu-tah",
+                    "meaning": "Prolated/Extra long vowel",
+                    "example_sentence": "प्लुतः अतिदीर्घस्वरः। (Pluta is extra-long vowel.)"
+                },
+                {
+                    "word": "संयोगः",
+                    "reading": "Sam-yo-gah",
+                    "meaning": "Consonant cluster",
+                    "example_sentence": "संयोगः व्यञ्जनसमूहः। (Samyoga is consonant cluster.)"
+                },
+                {
+                    "word": "व्यञ्जनम्",
+                    "reading": "Vyan-ja-nam",
+                    "meaning": "Consonant",
+                    "example_sentence": "व्यञ्जनं स्वरभिन्नवर्णः। (Vyanjana is consonant.)"
+                },
+                {
+                    "word": "स्पर्शः",
+                    "reading": "Spar-shah",
+                    "meaning": "Stop/Plosive",
+                    "example_sentence": "स्पर्शः स्पर्शव्यञ्जनम्। (Sparsha is stop consonant.)"
+                },
+                {
+                    "word": "अन्तःस्थः",
+                    "reading": "An-tah-sthah",
+                    "meaning": "Semivowel",
+                    "example_sentence": "अन्तःस्थः अर्धस्वरः अस्ति। (Antahstha is semivowel.)"
+                },
+                {
+                    "word": "ऊष्मन्",
+                    "reading": "Oosh-man",
+                    "meaning": "Sibilant/Aspirate",
+                    "example_sentence": "ऊष्मा शिशिरवर्णः अस्ति। (Ushman is sibilant.)"
+                },
+                {
+                    "word": "कण्ठ्यः",
+                    "reading": "Kan-th-yah",
+                    "meaning": "Guttural",
+                    "example_sentence": "कण्ठ्यः कण्ठोच्चारितः। (Kanthya is guttural.)"
+                },
+                {
+                    "word": "तालव्यः",
+                    "reading": "Taa-lav-yah",
+                    "meaning": "Palatal",
+                    "example_sentence": "तालव्यः तालुउच्चारितः। (Talavya is palatal.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "मूर्धन्यः",
+                    "reading": "Moor-dhan-yah",
+                    "meaning": "Retroflex/Cerebral",
+                    "example_sentence": "मूर्धन्यः मूर्धोच्चारितः। (Murdhanya is retroflex.)"
+                },
+                {
+                    "word": "दन्त्यः",
+                    "reading": "Dan-t-yah",
+                    "meaning": "Dental",
+                    "example_sentence": "दन्त्यः दन्तोच्चारितः। (Dantya is dental.)"
+                },
+                {
+                    "word": "ओष्ठ्यः",
+                    "reading": "Osh-th-yah",
+                    "meaning": "Labial",
+                    "example_sentence": "ओष्ठ्यः ओष्ठोच्चारितः। (Oshthya is labial.)"
+                },
+                {
+                    "word": "नासिक्यः",
+                    "reading": "Naa-sik-yah",
+                    "meaning": "Nasal",
+                    "example_sentence": "नासिक्यः नासिकोच्चारितः। (Nasikya is nasal.)"
+                },
+                {
+                    "word": "अल्पप्राणः",
+                    "reading": "Al-pa-praa-nah",
+                    "meaning": "Unaspirated",
+                    "example_sentence": "अल्पप्राणः अल्पश्वासः। (Alpaprana is unaspirated.)"
+                },
+                {
+                    "word": "महाप्राणः",
+                    "reading": "Ma-haa-praa-nah",
+                    "meaning": "Aspirated",
+                    "example_sentence": "महाप्राणः महाश्वासः। (Mahaprana is aspirated.)"
+                },
+                {
+                    "word": "अघोषः",
+                    "reading": "A-gho-shah",
+                    "meaning": "Unvoiced",
+                    "example_sentence": "अघोषः निर्घोषः अस्ति। (Aghosha is unvoiced.)"
+                },
+                {
+                    "word": "घोषः",
+                    "reading": "Gho-shah",
+                    "meaning": "Voiced",
+                    "example_sentence": "घोषः सघोषः अस्ति। (Ghosha is voiced.)"
+                },
+                {
+                    "word": "अभ्यन्तरप्रयत्नः",
+                    "reading": "Abh-yan-ta-ra-pra-yat-nah",
+                    "meaning": "Internal articulatory effort",
+                    "example_sentence": "अभ्यन्तरप्रयत्नः आन्तरिकप्रयासः। (Abhyantaraprayatna is internal effort.)"
+                },
+                {
+                    "word": "बाह्यप्रयत्नः",
+                    "reading": "Baah-ya-pra-yat-nah",
+                    "meaning": "External articulatory effort",
+                    "example_sentence": "बाह्यप्रयत्नः बाह्यप्रयासः। (Bahyaprayatna is external effort.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "विकरणः",
+                    "reading": "Vi-ka-ra-nah",
+                    "meaning": "Conjugational sign",
+                    "example_sentence": "विकरणः धातुचिह्नम्। (Vikarana is conjugational sign.)"
+                },
+                {
+                    "word": "लकारः",
+                    "reading": "La-kaa-rah",
+                    "meaning": "Tense/Mood marker",
+                    "example_sentence": "लकारः कालचिह्नम् अस्ति। (Lakara is tense marker.)"
+                },
+                {
+                    "word": "लट्",
+                    "reading": "Lat",
+                    "meaning": "Present tense",
+                    "example_sentence": "लट् वर्तमानकालः अस्ति। (Lat is present tense.)"
+                },
+                {
+                    "word": "लिट्",
+                    "reading": "Lit",
+                    "meaning": "Perfect tense",
+                    "example_sentence": "लिट् परोक्षभूतकालः। (Lit is perfect tense.)"
+                },
+                {
+                    "word": "लुट्",
+                    "reading": "Lut",
+                    "meaning": "First future",
+                    "example_sentence": "लुट् प्रथमभविष्यत्कालः। (Lut is first future.)"
+                },
+                {
+                    "word": "लृट्",
+                    "reading": "Lrut",
+                    "meaning": "Second future",
+                    "example_sentence": "लृट् द्वितीयभविष्यत्कालः। (Lrit is second future.)"
+                },
+                {
+                    "word": "लेट्",
+                    "reading": "Let",
+                    "meaning": "Vedic subjunctive",
+                    "example_sentence": "लेट् वैदिकसङ्केतवाचकः। (Let is Vedic subjunctive.)"
+                },
+                {
+                    "word": "लोट्",
+                    "reading": "Lot",
+                    "meaning": "Imperative mood",
+                    "example_sentence": "लोट् आज्ञार्थकः अस्ति। (Lot is imperative.)"
+                },
+                {
+                    "word": "लङ्",
+                    "reading": "Lan",
+                    "meaning": "Imperfect tense",
+                    "example_sentence": "लङ् अनद्यतनभूतकालः। (Lan is imperfect.)"
+                },
+                {
+                    "word": "लिङ्",
+                    "reading": "Lin",
+                    "meaning": "Optative/Potential mood",
+                    "example_sentence": "लिङ् विध्यर्थकः अस्ति। (Lin is optative.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "लुङ्",
+                    "reading": "Lun",
+                    "meaning": "Aorist tense",
+                    "example_sentence": "लुङ् सामान्यभूतकालः। (Lun is aorist.)"
+                },
+                {
+                    "word": "लृङ्",
+                    "reading": "Lrun",
+                    "meaning": "Conditional mood",
+                    "example_sentence": "लृङ् सापेक्षकालः अस्ति। (Lrin is conditional.)"
+                },
+                {
+                    "word": "परस्मैपदम्",
+                    "reading": "Pa-ras-mai-pa-dam",
+                    "meaning": "Active voice (for others)",
+                    "example_sentence": "परस्मैपदं परार्थम् अस्ति। (Parasmaipada is for others.)"
+                },
+                {
+                    "word": "आत्मनेपदम्",
+                    "reading": "Aat-ma-ne-pa-dam",
+                    "meaning": "Middle voice (for self)",
+                    "example_sentence": "आत्मनेपदं स्वार्थम् अस्ति। (Atmanepada is for self.)"
+                },
+                {
+                    "word": "प्रथमा",
+                    "reading": "Pra-tha-maa",
+                    "meaning": "First case/Nominative",
+                    "example_sentence": "प्रथमा कर्तृविभक्तिः। (Prathama is nominative.)"
+                },
+                {
+                    "word": "द्वितीया",
+                    "reading": "Dvi-tee-yaa",
+                    "meaning": "Second case/Accusative",
+                    "example_sentence": "द्वितीया कर्मविभक्तिः। (Dvitiya is accusative.)"
+                },
+                {
+                    "word": "तृतीया",
+                    "reading": "Tru-tee-yaa",
+                    "meaning": "Third case/Instrumental",
+                    "example_sentence": "तृतीया करणविभक्तिः। (Tritiya is instrumental.)"
+                },
+                {
+                    "word": "चतुर्थी",
+                    "reading": "Cha-tur-thee",
+                    "meaning": "Fourth case/Dative",
+                    "example_sentence": "चतुर्थी सम्प्रदानविभक्तिः। (Chaturthi is dative.)"
+                },
+                {
+                    "word": "पञ्चमी",
+                    "reading": "Pan-cha-mee",
+                    "meaning": "Fifth case/Ablative",
+                    "example_sentence": "पञ्चमी अपादानविभक्तिः। (Panchami is ablative.)"
+                },
+                {
+                    "word": "षष्ठी",
+                    "reading": "Shash-thee",
+                    "meaning": "Sixth case/Genitive",
+                    "example_sentence": "षष्ठी सम्बन्धविभक्तिः। (Shashthi is genitive.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "सप्तमी",
+                    "reading": "Sap-ta-mee",
+                    "meaning": "Seventh case/Locative",
+                    "example_sentence": "सप्तमी अधिकरणविभक्तिः। (Saptami is locative.)"
+                },
+                {
+                    "word": "सम्बोधनम्",
+                    "reading": "Sam-bo-dha-nam",
+                    "meaning": "Vocative case",
+                    "example_sentence": "सम्बोधनं आह्वानविभक्तिः। (Sambodhana is vocative.)"
+                },
+                {
+                    "word": "एकवचनम्",
+                    "reading": "E-ka-va-cha-nam",
+                    "meaning": "Singular number",
+                    "example_sentence": "एकवचनं एकसङ्ख्या अस्ति। (Ekavachana is singular.)"
+                },
+                {
+                    "word": "द्विवचनम्",
+                    "reading": "Dvi-va-cha-nam",
+                    "meaning": "Dual number",
+                    "example_sentence": "द्विवचनं द्विसङ्ख्या अस्ति। (Dvivachana is dual.)"
+                },
+                {
+                    "word": "बहुवचनम्",
+                    "reading": "Ba-hu-va-cha-nam",
+                    "meaning": "Plural number",
+                    "example_sentence": "बहुवचनं बहुसङ्ख्या अस्ति। (Bahuvachana is plural.)"
+                },
+                {
+                    "word": "प्रथमपुरुषः",
+                    "reading": "Pra-tha-ma-pu-ru-shah",
+                    "meaning": "Third person",
+                    "example_sentence": "प्रथमपुरुषः अन्यपुरुषः। (Prathamapurusha is third person.)"
+                },
+                {
+                    "word": "मध्यमपुरुषः",
+                    "reading": "Mad-hya-ma-pu-ru-shah",
+                    "meaning": "Second person",
+                    "example_sentence": "मध्यमपुरुषः युष्मत्पुरुषः। (Madhyamapurusha is second person.)"
+                },
+                {
+                    "word": "उत्तमपुरुषः",
+                    "reading": "Ut-ta-ma-pu-ru-shah",
+                    "meaning": "First person",
+                    "example_sentence": "उत्तमपुरुषः अस्मत्पुरुषः। (Uttamapurusha is first person.)"
+                },
+                {
+                    "word": "व्युत्पन्नम्",
+                    "reading": "Vyut-pan-nam",
+                    "meaning": "Derived/Etymologically explained",
+                    "example_sentence": "व्युत्पन्नं निष्पन्नम् अस्ति। (Vyutpanna is derived.)"
+                },
+                {
+                    "word": "अव्युत्पन्नम्",
+                    "reading": "Av-yut-pan-nam",
+                    "meaning": "Underived/Primitive",
+                    "example_sentence": "अव्युत्पन्नं मूलम् अस्ति। (Avyutpanna is primitive.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "निपातना",
+                    "reading": "Ni-paa-ta-naa",
+                    "meaning": "Irregular formation",
+                    "example_sentence": "निपातना अनियमितरूपम्। (Nipatana is irregular formation.)"
+                },
+                {
+                    "word": "विप्रतिषेधः",
+                    "reading": "Vi-pra-ti-she-dhah",
+                    "meaning": "Conflict of rules",
+                    "example_sentence": "विप्रतिषेधः सूत्रविरोधः। (Vipratishedha is rule conflict.)"
+                },
+                {
+                    "word": "सिद्धम्",
+                    "reading": "Sid-dham",
+                    "meaning": "Established/Proved",
+                    "example_sentence": "सिद्धं प्रमाणितम् अस्ति। (Siddha is established.)"
+                },
+                {
+                    "word": "असिद्धम्",
+                    "reading": "A-sid-dham",
+                    "meaning": "Non-established",
+                    "example_sentence": "असिद्धं अप्रमाणितम्। (Asiddha is non-established.)"
+                },
+                {
+                    "word": "बाधः",
+                    "reading": "Baa-dhah",
+                    "meaning": "Cancellation/Overriding",
+                    "example_sentence": "बाधः निरसनम् अस्ति। (Badha is cancellation.)"
+                },
+                {
+                    "word": "उत्सर्गः",
+                    "reading": "Ut-sar-gah",
+                    "meaning": "General rule",
+                    "example_sentence": "उत्सर्गः सामान्यनियमः। (Utsarga is general rule.)"
+                },
+                {
+                    "word": "अपवादः",
+                    "reading": "A-pa-vaa-dah",
+                    "meaning": "Exception rule",
+                    "example_sentence": "अपवादः विशेषनियमः। (Apavada is exception.)"
+                },
+                {
+                    "word": "स्फोटः",
+                    "reading": "Spho-tah",
+                    "meaning": "Eternal sound-unit/Meaning-burst",
+                    "example_sentence": "स्फोटः नित्यशब्दः अस्ति। (Sphota is eternal sound.)"
+                },
+                {
+                    "word": "वाक्यपदीयम्",
+                    "reading": "Vaak-ya-pa-dee-yam",
+                    "meaning": "Grammatical treatise by Bhartrihari",
+                    "example_sentence": "वाक्यपदीयं भर्तृहरिकृतम्। (Vakyapadiya is by Bhartrihari.)"
+                },
+                {
+                    "word": "अन्वयव्यतिरेकः",
+                    "reading": "An-va-ya-vya-ti-re-kah",
+                    "meaning": "Agreement and difference (Semantic test)",
+                    "example_sentence": "अन्वयव्यतिरेकः अर्थपरीक्षा। (Anvayavyatireka is semantic test.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Paninian Grammar System Trap",
+        "question": "What is the revolutionary feature of Panini's अष्टाध्यायी (Ashtadhyayi)?",
+        "options": [
+            "It's the first grammar ever written in any language",
+            "It's a generative grammar using meta-rules and algebraic notation (pratyaharas) to derive all Sanskrit forms from roots",
+            "It only describes Vedic Sanskrit, not classical Sanskrit",
+            "It's written in prose, making it easy to understand"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Panini's अष्टाध्यायी (Ashtadhyayi, circa 4th century BCE) is revolutionary because it's a GENERATIVE grammar - the first formal language system in human history! This is a trap because many assume it's just a descriptive grammar listing rules. Key innovations: (1) प्रत्याहार (pratyahara) - algebraic abbreviations using marker phonemes (इत्) to represent phoneme classes (like 'अच्' for all vowels); (2) Meta-linguistic apparatus with परिभाषा (interpretative meta-rules); (3) Ordered rule application with उत्सर्ग-अपवाद (general-exception) hierarchy; (4) Generative power - from ~2,000 धातु (roots) + सूत्र (rules), it can generate infinite valid Sanskrit forms! The सूत्र style (aphoristic, not prose) makes it extremely compact but requires भाष्य (commentary) to understand. Panini's system influenced modern linguistics, including Chomsky's generative grammar. Understanding this teaches that ancient Indian scholarship achieved formal systems millennia before modern computer science!"
+    }
+}
