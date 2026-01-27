@@ -1,0 +1,672 @@
+{
+    "moduleId": "ita_a2_m07",
+    "theme": "Environment & Nature",
+    "title": "Ambiente & Natura (Environment & Nature)",
+    "level": "a2",
+    "language": "italian",
+    "order": 7,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "Il riscaldamento globale",
+                    "reading": "eel rees-kal-da-MEN-to glo-BA-lay",
+                    "meaning": "Global warming",
+                    "example_sentence": "Il riscaldamento globale causa lo scioglimento dei ghiacciai. (Global warming causes the melting of glaciers.)"
+                },
+                {
+                    "word": "Il cambiamento climatico",
+                    "reading": "eel kam-bya-MEN-to klee-MA-tee-ko",
+                    "meaning": "Climate change",
+                    "example_sentence": "Il cambiamento climatico è una realtà scientifica. (Climate change is a scientific reality.)"
+                },
+                {
+                    "word": "L'effetto serra",
+                    "reading": "lef-FET-to SER-ra",
+                    "meaning": "Greenhouse effect",
+                    "example_sentence": "L'effetto serra trattiene il calore nell'atmosfera. (The greenhouse effect traps heat in the atmosphere.)"
+                },
+                {
+                    "word": "La calotta polare",
+                    "reading": "la ka-LOT-ta po-LA-re",
+                    "meaning": "Polar ice cap",
+                    "example_sentence": "La calotta polare si sta riducendo. (The polar ice cap is shrinking.)"
+                },
+                {
+                    "word": "Lo scioglimento",
+                    "reading": "lo sho-lyee-MEN-to",
+                    "meaning": "The melting",
+                    "example_sentence": "Lo scioglimento dei ghiacci innalza il livello del mare. (The melting of ice raises the sea level.)"
+                },
+                {
+                    "word": "L'emissione",
+                    "reading": "lay-mees-SYO-nay",
+                    "meaning": "Emission",
+                    "example_sentence": "Dobbiamo ridurre l'emissione di gas nocivi. (We must reduce the emission of harmful gases.)"
+                },
+                {
+                    "word": "L'anidride carbonica",
+                    "reading": "la-nee-DREE-day kar-BO-nee-ka",
+                    "meaning": "Carbon dioxide (CO2)",
+                    "example_sentence": "L'anidride carbonica contribuisce al riscaldamento. (Carbon dioxide contributes to warming.)"
+                },
+                {
+                    "word": "Il combustibile fossile",
+                    "reading": "eel kom-boo-STEE-bee-lay FOS-see-lay",
+                    "meaning": "Fossil fuel",
+                    "example_sentence": "Il carbone è un combustibile fossile. (Coal is a fossil fuel.)"
+                },
+                {
+                    "word": "La siccità",
+                    "reading": "la see-chee-TA",
+                    "meaning": "Drought",
+                    "example_sentence": "La siccità prolungata danneggia l'agricoltura. (Prolonged drought damages agriculture.)"
+                },
+                {
+                    "word": "L'alluvione",
+                    "reading": "lal-loo-VYON-nay",
+                    "meaning": "Flood",
+                    "example_sentence": "L'alluvione ha allagato il centro città. (The flood flooded the city center.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "L'ecosistema",
+                    "reading": "lay-ko-see-STAY-ma",
+                    "meaning": "Ecosystem",
+                    "example_sentence": "Ogni ecosistema è fragile ed equilibrato. (Every ecosystem is fragile and balanced.)"
+                },
+                {
+                    "word": "La biodiversità",
+                    "reading": "la byo-dee-ver-see-TA",
+                    "meaning": "Biodiversity",
+                    "example_sentence": "La perdita di biodiversità preoccupa gli scienziati. (The loss of biodiversity worries scientists.)"
+                },
+                {
+                    "word": "La sostenibilità",
+                    "reading": "sos-tay-nee-bee-lee-TA",
+                    "meaning": "Sustainability",
+                    "example_sentence": "La sostenibilità è fondamentale per il domani. (Sustainability is fundamental for tomorrow.)"
+                },
+                {
+                    "word": "Lo sviluppo sostenibile",
+                    "reading": "lo zvee-LOOP-po sos-tay-NEE-bee-lay",
+                    "meaning": "Sustainable development",
+                    "example_sentence": "Sosteniamo lo sviluppo sostenibile delle città. (We support the sustainable development of cities.)"
+                },
+                {
+                    "word": "L'impatto ambientale",
+                    "reading": "leem-PAT-to am-byen-TA-lay",
+                    "meaning": "Environmental impact",
+                    "example_sentence": "Valutiamo l'impatto ambientale della nuova strada. (We evaluate the environmental impact of the new road.)"
+                },
+                {
+                    "word": "La difesa",
+                    "reading": "la dee-FAY-za",
+                    "meaning": "The defense / protection",
+                    "example_sentence": "Lavoriamo alla difesa delle specie a rischio. (We work on the defense of endangered species.)"
+                },
+                {
+                    "word": "La preservazione",
+                    "reading": "la pray-zer-va-TSYO-nay",
+                    "meaning": "Preservation",
+                    "example_sentence": "La preservazione dei boschi è vitale. (The preservation of woods is vital.)"
+                },
+                {
+                    "word": "Il bioma",
+                    "reading": "eel BYO-ma",
+                    "meaning": "Biome",
+                    "example_sentence": "La foresta pluviale è un bioma umido. (The rainforest is a humid biome.)"
+                },
+                {
+                    "word": "L'habitat",
+                    "reading": "LA-bee-tat",
+                    "meaning": "Habitat",
+                    "example_sentence": "Il panda abita nel suo habitat naturale. (The panda lives in its natural habitat.)"
+                },
+                {
+                    "word": "La biosfera",
+                    "reading": "la byo-SFAY-ra",
+                    "meaning": "Biosphere",
+                    "example_sentence": "Tutti i viventi abitano la biosfera. (All living beings inhabit the biosphere.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "Lo smaltimento",
+                    "reading": "lo zmal-tee-MEN-to",
+                    "meaning": "Disposal / Processing (waste)",
+                    "example_sentence": "Lo smaltimento dei rifiuti deve essere controllato. (Waste disposal must be controlled.)"
+                },
+                {
+                    "word": "Il rifiuto speciale",
+                    "reading": "eel ree-FYOO-to spay-CHA-lay",
+                    "meaning": "Hazardous waste",
+                    "example_sentence": "Le batterie sono un rifiuto speciale. (Batteries are hazardous waste.)"
+                },
+                {
+                    "word": "La raccolta differenziata",
+                    "reading": "la rak-KOL-ta deef-fay-ren-TSYA-ta",
+                    "meaning": "Waste sorting / Separate collection",
+                    "example_sentence": "Facciamo la raccolta differenziata ogni giorno. (We do waste sorting every day.)"
+                },
+                {
+                    "word": "Il compostaggio",
+                    "reading": "eel kom-po-STAD-jo",
+                    "meaning": "Composting",
+                    "example_sentence": "Il compostaggio trasforma gli scarti in concime. (Composting transforms waste into fertilizer.)"
+                },
+                {
+                    "word": "Biodegradabile",
+                    "reading": "byo-day-gra-DA-bee-lay",
+                    "meaning": "Biodegradable",
+                    "example_sentence": "Uso sacchetti di plastica biodegradabile. (I use biodegradable plastic bags.)"
+                },
+                {
+                    "word": "Ecocompatibile",
+                    "reading": "ay-ko-kom-pa-TEE-bee-lay",
+                    "meaning": "Eco-friendly",
+                    "example_sentence": "Preferisco prodotti ecocompatibili. (I prefer eco-friendly products.)"
+                },
+                {
+                    "word": "Monouso",
+                    "reading": "mo-no-OO-zo",
+                    "meaning": "Single-use / Disposable",
+                    "example_sentence": "Evitiamo gli oggetti monouso. (Let's avoid single-use objects.)"
+                },
+                {
+                    "word": "Il materiale sintetico",
+                    "reading": "eel ma-tay-RYA-lay seen-TAY-tee-ko",
+                    "meaning": "Synthetic material",
+                    "example_sentence": "Questo tessuto è un materiale sintetico. (This fabric is a synthetic material.)"
+                },
+                {
+                    "word": "I polimeri",
+                    "reading": "ee po-LEE-may-ree",
+                    "meaning": "Polymers (A2 level for plastics)",
+                    "example_sentence": "I polimeri sono alla base della plastica. (Polymers are at the base of plastic.)"
+                },
+                {
+                    "word": "La cellulosa",
+                    "reading": "la chel-loo-LO-za",
+                    "meaning": "Cellulose (A2 level for paper)",
+                    "example_sentence": "La cellulosa si ricava dagli alberi. (Cellulose is derived from trees.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "La risorsa rinnovabile",
+                    "reading": "la ree-SOR-sa reen-no-va-BEE-lay",
+                    "meaning": "Renewable resource",
+                    "example_sentence": "L'acqua è una risorsa rinnovabile. (Water is a renewable resource.)"
+                },
+                {
+                    "word": "Il pannello solare",
+                    "reading": "eel pan-NEL-lo so-LA-ray",
+                    "meaning": "Solar panel",
+                    "example_sentence": "Il pannello solare produce elettricità pulita. (The solar panel produces clean electricity.)"
+                },
+                {
+                    "word": "L'energia eolica",
+                    "reading": "lay-ner-JEE-a ay-O-lee-ka",
+                    "meaning": "Wind energy",
+                    "example_sentence": "L'energia eolica sfrutta le correnti d'aria. (Wind energy exploits air currents.)"
+                },
+                {
+                    "word": "L'energia idroelettrica",
+                    "reading": "lay-ner-JEE-a ee-dro-ay-LET-tree-ka",
+                    "meaning": "Hydroelectric energy",
+                    "example_sentence": "L'energia idroelettrica proviene dalle dighe. (Hydroelectric energy comes from dams.)"
+                },
+                {
+                    "word": "La geotermia",
+                    "reading": "la jay-o-ter-MEE-a",
+                    "meaning": "Geothermal energy",
+                    "example_sentence": "La geotermia usa il calore della terra. (Geothermal energy uses the earth's heat.)"
+                },
+                {
+                    "word": "La biomassa",
+                    "reading": "la byo-MAS-sa",
+                    "meaning": "Biomass",
+                    "example_sentence": "La biomassa è una fonte di energia organica. (Biomass is a source of organic energy.)"
+                },
+                {
+                    "word": "Il risparmio energetico",
+                    "reading": "eel ree-SPAR-myo ay-ner-JAY-tee-ko",
+                    "meaning": "Energy saving",
+                    "example_sentence": "Il risparmio energetico riduce le bollette. (Energy saving reduces bills.)"
+                },
+                {
+                    "word": "L'efficienza",
+                    "reading": "lef-fee-CHEN-tsa",
+                    "meaning": "Efficiency",
+                    "example_sentence": "Dobbiamo migliorare l'efficienza degli edifici. (We must improve the efficiency of buildings.)"
+                },
+                {
+                    "word": "La rete elettrica",
+                    "reading": "la RAY-tay ay-LET-tree-ka",
+                    "meaning": "Power grid",
+                    "example_sentence": "La rete elettrica nazionale è moderna. (The national power grid is modern.)"
+                },
+                {
+                    "word": "Il generatore",
+                    "reading": "eel jay-nay-ra-TO-ray",
+                    "meaning": "Generator",
+                    "example_sentence": "Abbiamo un generatore per le emergenze. (We have a generator for emergencies.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "L'idrosfera",
+                    "reading": "lee-dro-SFAY-ra",
+                    "meaning": "Hydrosphere / Water systems",
+                    "example_sentence": "L'idrosfera comprende tutti i mari della terra. (The hydrosphere includes all the earth's seas.)"
+                },
+                {
+                    "word": "La corrente marina",
+                    "reading": "la kor-REN-tay ma-REE-na",
+                    "meaning": "Sea current",
+                    "example_sentence": "Le correnti marine influenzano il clima. (Sea currents influence the climate.)"
+                },
+                {
+                    "word": "Il fondale",
+                    "reading": "eel fon-DA-lay",
+                    "meaning": "Seabed",
+                    "example_sentence": "Esploriamo il fondale oceanico. (We explore the oceanic seabed.)"
+                },
+                {
+                    "word": "La barriera corallina",
+                    "reading": "la bar-RYAY-ra ko-ral-LEE-na",
+                    "meaning": "Coral reef",
+                    "example_sentence": "La barriera corallina è in pericolo. (The coral reef is in danger.)"
+                },
+                {
+                    "word": "L'evaporazione",
+                    "reading": "lay-va-po-ra-TSYO-nay",
+                    "meaning": "Evaporation",
+                    "example_sentence": "L'evaporazione dell'acqua crea le nuvole. (The evaporation of water creates clouds.)"
+                },
+                {
+                    "word": "La condensazione",
+                    "reading": "la kon-den-za-TSYO-nay",
+                    "meaning": "Condensation",
+                    "example_sentence": "La condensazione trasforma il vapore in gocce. (Condensation transforms vapor into drops.)"
+                },
+                {
+                    "word": "La riserva idrica",
+                    "reading": "la ree-ZER-va EE-dree-ka",
+                    "meaning": "Water reserve",
+                    "example_sentence": "Le dighe creano una riserva idrica importante. (Dams create an important water reserve.)"
+                },
+                {
+                    "word": "La purificazione",
+                    "reading": "la poo-ree-fee-ka-TSYO-nay",
+                    "meaning": "Purification",
+                    "example_sentence": "La purificazione dell'acqua è essenziale. (Water purification is essential.)"
+                },
+                {
+                    "word": "Il bagnasciuga",
+                    "reading": "eel ba-nya-SHOO-ga",
+                    "meaning": "Shoreline / Water's edge",
+                    "example_sentence": "Camminiamo sul bagnasciuga al tramonto. (We walk on the shoreline at sunset.)"
+                },
+                {
+                    "word": "L'abisso",
+                    "reading": "la-BEES-so",
+                    "meaning": "Abyss / Deep sea",
+                    "example_sentence": "Creature strane vivono nell'abisso. (Strange creatures live in the abyss.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "Il rilievo",
+                    "reading": "eel ree-LYAY-vo",
+                    "meaning": "Relief / Mountain highland",
+                    "example_sentence": "Il rilievo montuoso è imponente. (The mountain relief is imposing.)"
+                },
+                {
+                    "word": "La geologia",
+                    "reading": "la jay-o-lo-JEE-a",
+                    "meaning": "Geology",
+                    "example_sentence": "La geologia studia le rocce. (Geology studies rocks.)"
+                },
+                {
+                    "word": "La tettonica",
+                    "reading": "la tet-TO-nee-ka",
+                    "meaning": "Tectonics",
+                    "example_sentence": "La tettonica delle placche spiega i terremoti. (Plate tectonics explains earthquakes.)"
+                },
+                {
+                    "word": "Il sisma",
+                    "reading": "eel SEES-ma",
+                    "meaning": "Earthquake / Seismic event",
+                    "example_sentence": "Il sisma ha colpito la regione. (The earthquake/seismic event hit the region.)"
+                },
+                {
+                    "word": "La faglia",
+                    "reading": "la FA-lya",
+                    "meaning": "Fault line",
+                    "example_sentence": "La faglia attraversa la valle. (The fault line crosses the valley.)"
+                },
+                {
+                    "word": "L'eruzione",
+                    "reading": "lay-roo-TSYO-nay",
+                    "meaning": "Eruption",
+                    "example_sentence": "L'eruzione del vulcano è spettacolare. (The volcano eruption is spectacular.)"
+                },
+                {
+                    "word": "Il cratere",
+                    "reading": "eel kra-TAY-ray",
+                    "meaning": "Crater",
+                    "example_sentence": "Saliamo fino al cratere dell'Etna. (We climb up to Etna's crater.)"
+                },
+                {
+                    "word": "Il magma",
+                    "reading": "eel MAG-ma",
+                    "meaning": "Magma",
+                    "example_sentence": "Il magma scorre sotto la crosta terrestre. (Magma flows beneath the earth's crust.)"
+                },
+                {
+                    "word": "Il ghiacciaio",
+                    "reading": "eel GYAD-cha-yo",
+                    "meaning": "Glacier",
+                    "example_sentence": "Il ghiacciaio è una riserva di acqua dolce. (The glacier is a freshwater reserve.)"
+                },
+                {
+                    "word": "L'altopiano",
+                    "reading": "lal-to-PYA-no",
+                    "meaning": "Plateau / Tableland",
+                    "example_sentence": "L'altopiano è ventilato e fresco. (The plateau is breezy and cool.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "La flora",
+                    "reading": "la FLO-ra",
+                    "meaning": "Flora / Plant life",
+                    "example_sentence": "La flora alpina è protetta. (Alpine flora is protected.)"
+                },
+                {
+                    "word": "La vegetazione",
+                    "reading": "la vay-jay-ta-TSYO-nay",
+                    "meaning": "Vegetation",
+                    "example_sentence": "La vegetazione è molto fitta in quest'area. (Vegetation is very thick in this area.)"
+                },
+                {
+                    "word": "La fronda",
+                    "reading": "la FRON-da",
+                    "meaning": "Foliage / Leafy branch",
+                    "example_sentence": "Le fronde degli alberi fanno ombra. (The foliage of the trees provides shade.)"
+                },
+                {
+                    "word": "La selva",
+                    "reading": "la SEL-va",
+                    "meaning": "Wild forest / Woods",
+                    "example_sentence": "Ci siamo persi nella selva oscura. (We got lost in the dark wild forest.)"
+                },
+                {
+                    "word": "Il sottobosco",
+                    "reading": "eel sot-to-BOS-ko",
+                    "meaning": "Undergrowth",
+                    "example_sentence": "Nel sottobosco crescono le fragoline. (In the undergrowth grow small strawberries.)"
+                },
+                {
+                    "word": "Il fogliame",
+                    "reading": "eel fo-LYA-may",
+                    "meaning": "Foliage / Leaves",
+                    "example_sentence": "Il fogliame cambia colore in ottobre. (The foliage changes color in October.)"
+                },
+                {
+                    "word": "Germogliare",
+                    "reading": "jer-mo-LYA-ray",
+                    "meaning": "To sprout / germinate",
+                    "example_sentence": "I semi iniziano a germogliare presto. (The seeds start to sprout soon.)"
+                },
+                {
+                    "word": "Sbocciare",
+                    "reading": "zbot-CHA-ray",
+                    "meaning": "To bloom / blossom",
+                    "example_sentence": "I fiori sbocciano al primo sole. (Flowers bloom at the first sun.)"
+                },
+                {
+                    "word": "Appassire",
+                    "reading": "ap-pas-SEE-ray",
+                    "meaning": "To wither / fade",
+                    "example_sentence": "Senza acqua le rose appassiscono. (Without water roses wither.)"
+                },
+                {
+                    "word": "Il polline",
+                    "reading": "eel POL-lee-nay",
+                    "meaning": "Pollen",
+                    "example_sentence": "Le api trasportano il polline. (Bees transport the pollen.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "La volta celeste",
+                    "reading": "la VOL-ta chay-LES-tay",
+                    "meaning": "The celestial vault / Atmosphere",
+                    "example_sentence": "La volta celeste protegge la vita sulla terra. (The celestial vault protects life on earth.)"
+                },
+                {
+                    "word": "La pressione atmosferica",
+                    "reading": "la pres-SYO-nay at-mos-FAY-ree-ka",
+                    "meaning": "Atmospheric pressure",
+                    "example_sentence": "La pressione atmosferica sta scendendo. (Atmospheric pressure is dropping.)"
+                },
+                {
+                    "word": "L'ozono",
+                    "reading": "lo-DZO-no",
+                    "meaning": "Ozone",
+                    "example_sentence": "L'ozono ci protegge dai raggi UV. (Ozone protects us from UV rays.)"
+                },
+                {
+                    "word": "Il pulviscolo",
+                    "reading": "eel pool-VEE-sko-lo",
+                    "meaning": "Dust particles / Fine dust",
+                    "example_sentence": "Il pulviscolo atmosferico inquina l'aria. (Atmospheric dust particles pollute the air.)"
+                },
+                {
+                    "word": "Le precipitazioni",
+                    "reading": "lay pray-chee-pee-ta-TSYO-nee",
+                    "meaning": "Precipitation (rain/snow)",
+                    "example_sentence": "Sono previste forti precipitazioni. (Heavy precipitations are expected.)"
+                },
+                {
+                    "word": "Il manto nevoso",
+                    "reading": "eel MAN-to nay-VO-zo",
+                    "meaning": "Snow cover / blanket",
+                    "example_sentence": "Il manto nevoso è alto due metri. (The snow cover is two meters high.)"
+                },
+                {
+                    "word": "La burrasca",
+                    "reading": "la boor-RAS-ka",
+                    "meaning": "Gale / Storm at sea",
+                    "example_sentence": "La burrasca ha sorpreso i pescatori. (The gale surprised the fishermen.)"
+                },
+                {
+                    "word": "La nebbia",
+                    "reading": "la NEB-bya",
+                    "meaning": "Fog / Mist",
+                    "example_sentence": "La nebbia è fitta stamattina. (The fog is thick this morning.)"
+                },
+                {
+                    "word": "Il vapore",
+                    "reading": "eel va-PO-ray",
+                    "meaning": "Steam / Vapor",
+                    "example_sentence": "Dalla pentola esce il vapore. (Steam comes out of the pot.)"
+                },
+                {
+                    "word": "L'escursione termica",
+                    "reading": "lay-skoor-SYO-nay TER-mee-ka",
+                    "meaning": "Temperature range / variation",
+                    "example_sentence": "Nel deserto c'è una forte escursione termica. (In the desert there is a strong temperature variation.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "La coscienza civica",
+                    "reading": "la ko-SHEN-tsa CHEE-vee-ka",
+                    "meaning": "Civic conscience / awareness",
+                    "example_sentence": "Dobbiamo avere coscienza civica. (We must have civic awareness.)"
+                },
+                {
+                    "word": "L'attivismo",
+                    "reading": "lat-tee-VEE-zmo",
+                    "meaning": "Activism",
+                    "example_sentence": "L'attivismo ambientale è cresciuto. (Environmental activism has grown.)"
+                },
+                {
+                    "word": "La regolamentazione",
+                    "reading": "la ray-go-la-men-ta-TSYO-nay",
+                    "meaning": "Regulation / Set of rules",
+                    "example_sentence": "Seguiamo la regolamentazione vigente. (We follow the current regulation.)"
+                },
+                {
+                    "word": "Preservare",
+                    "reading": "pray-zer-VA-ray",
+                    "meaning": "To preserve / protect",
+                    "example_sentence": "Dobbiamo preservare l'ambiente. (We must preserve the environment.)"
+                },
+                {
+                    "word": "Custodire",
+                    "reading": "koo-sto-DEE-ray",
+                    "meaning": "To guard / keep / preserve",
+                    "example_sentence": "Dobbiamo custodire le tradizioni. (We must preserve traditions.)"
+                },
+                {
+                    "word": "Monitorare",
+                    "reading": "mo-nee-to-RA-ray",
+                    "meaning": "To monitor",
+                    "example_sentence": "Monitoriamo i livelli di ossigeno. (We monitor the oxygen levels.)"
+                },
+                {
+                    "word": "Ispezionare",
+                    "reading": "ee-spay-tsyo-NA-ray",
+                    "meaning": "To inspect / examine",
+                    "example_sentence": "Dobbiamo ispezionare il terreno per i contaminanti. (We must inspect the ground for contaminants.)"
+                },
+                {
+                    "word": "Prevenire",
+                    "reading": "pray-vay-NEE-ray",
+                    "meaning": "To prevent",
+                    "example_sentence": "Prevenire è meglio che curare. (Preventing is better than curing.)"
+                },
+                {
+                    "word": "Contrastare",
+                    "reading": "kon-tra-STA-ray",
+                    "meaning": "To counter / resist",
+                    "example_sentence": "Vogliamo contrastare l'inquinamento. (We want to counter pollution.)"
+                },
+                {
+                    "word": "Mitigare",
+                    "reading": "mee-tee-GA-ray",
+                    "meaning": "To mitigate / alleviate",
+                    "example_sentence": "Dobbiamo mitigare gli effetti della crisi. (We must mitigate the effects of the crisis.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "Fattoria",
+                    "reading": "fat-to-REE-a",
+                    "meaning": "Farm (NOT Factory) [LIAR GAME: False Friend]",
+                    "example_sentence": "I bambini visitano la fattoria per vedere gli animali. (The children visit the farm to see the animals.) [LIAR GAME: NOT 'Factory']"
+                },
+                {
+                    "word": "Argomento",
+                    "reading": "ar-go-MEN-to",
+                    "meaning": "Topic / Theme (NOT Argument/Fight) [LIAR GAME: False Friend]",
+                    "example_sentence": "Il clima è un argomento scottante. (Climate is a hot topic.) [LIAR GAME: NOT 'Argument/Fight']"
+                },
+                {
+                    "word": "Caldo",
+                    "reading": "KAL-do",
+                    "meaning": "Hot (NOT Cold) [LIAR GAME: False Friend]",
+                    "example_sentence": "Beviamo qualcosa di caldo. (Let's drink something hot.) [LIAR GAME: NOT 'Cold']"
+                },
+                {
+                    "word": "Pittoresco",
+                    "reading": "peet-to-RES-ko",
+                    "meaning": "Picturesque",
+                    "example_sentence": "Il borgo è molto pittoresco. (The village is very picturesque.)"
+                },
+                {
+                    "word": "Suggestivo",
+                    "reading": "sood-jes-TEE-vo",
+                    "meaning": "Stunning / Evocative",
+                    "example_sentence": "Il tramonto è molto suggestivo. (The sunset is very stunning/evocative.)"
+                },
+                {
+                    "word": "Incontaminato",
+                    "reading": "een-kon-ta-mee-NA-to",
+                    "meaning": "Untouched / Pristine",
+                    "example_sentence": "Il paesaggio è ancora incontaminato. (The landscape is still pristine.)"
+                },
+                {
+                    "word": "Salubre",
+                    "reading": "sa-LOOB-ray",
+                    "meaning": "Healthy / Wholesome",
+                    "example_sentence": "L'aria di collina è salubre. (Hills air is healthy/wholesome.)"
+                },
+                {
+                    "word": "L'eternità",
+                    "reading": "lay-ter-nee-TA",
+                    "meaning": "Eternity / Forever",
+                    "example_sentence": "La natura sembra immobile nell'eternità. (Nature seems stationary in eternity.)"
+                },
+                {
+                    "word": "Il culmine",
+                    "reading": "eel KOOL-mee-nay",
+                    "meaning": "The peak / culmination / high point",
+                    "example_sentence": "Raggiungere il culmine della crisi è pericoloso. (Reaching the peak of the crisis is dangerous.)"
+                },
+                {
+                    "word": "L'anelito",
+                    "reading": "la-nay-LEE-to",
+                    "meaning": "Longing / Great Hope / Desire",
+                    "example_sentence": "L'anelito alla pace è universale. (The longing for peace is universal.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Italian Environment & Nature False Friends",
+        "question": "If an Italian guide says, 'Siamo vicini alla fattoria,' where are you going?",
+        "options": [
+            "A large industrial factory",
+            "A rural farm with animals",
+            "An arguments room",
+            "A cold glacier"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "In Italian, 'Fattoria' means 'Farm', NOT 'Factory' (which is 'Fabbrica'). Similarly, 'Argomento' means 'Topic/Theme' (not 'Argument/Fight', which is 'Litigio'), and 'Caldo' means 'Hot' (which sounds like 'Cold', but the Italian for cold is 'Freddo'). These are common traps for beginners!"
+    }
+}

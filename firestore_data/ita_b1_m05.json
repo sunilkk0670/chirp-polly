@@ -1,0 +1,672 @@
+{
+    "moduleId": "ita_b1_m05",
+    "language": "italian",
+    "level": "b1",
+    "theme": "Scienza e Scoperte",
+    "title": "Scienza e Scoperte (Science & Discoveries)",
+    "order": 5,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "La svolta",
+                    "reading": "la ZVOL-ta",
+                    "meaning": "The breakthrough/turn",
+                    "example_sentence": "Questa scoperta segna una svolta nella medicina. (This discovery marks a breakthrough in medicine.)"
+                },
+                {
+                    "word": "L'esperimento",
+                    "reading": "lay-spay-REE-men-to",
+                    "meaning": "The experiment",
+                    "example_sentence": "L'esperimento è riuscito con successo al primo colpo. (The experiment succeeded at the first attempt.)"
+                },
+                {
+                    "word": "La ricerca",
+                    "reading": "la ree-CHER-ka",
+                    "meaning": "The research",
+                    "example_sentence": "Finanziamo la ricerca contro le malattie rare. (We finance research against rare diseases.)"
+                },
+                {
+                    "word": "La scoperta",
+                    "reading": "la sko-PER-ta",
+                    "meaning": "The discovery",
+                    "example_sentence": "La scoperta del fuoco ha cambiato l'umanità. (The discovery of fire changed humanity.)"
+                },
+                {
+                    "word": "L'assunto",
+                    "reading": "las-SOON-to",
+                    "meaning": "The assumption/hypothesis",
+                    "example_sentence": "L'assunto di base della sua tesi è condivisibile. (The basic assumption of his thesis is shared/agreeable.)"
+                },
+                {
+                    "word": "Il paradigma",
+                    "reading": "eel pa-ra-DEEG-ma",
+                    "meaning": "The paradigm/theory",
+                    "example_sentence": "Dobbiamo cambiare paradigma per risolvere la crisi. (We must change the paradigm to solve the crisis.)"
+                },
+                {
+                    "word": "La validazione",
+                    "reading": "la va-lee-da-TSYO-nay",
+                    "meaning": "The validation/proof",
+                    "example_sentence": "Aspettiamo la validazione ufficiale dei dati. (We are waiting for the official validation of the data.)"
+                },
+                {
+                    "word": "Il reperto",
+                    "reading": "eel ray-PER-to",
+                    "meaning": "The finding/data",
+                    "example_sentence": "Il reperto archeologico risale all'epoca romana. (The archaeological finding dates back to Roman times.)"
+                },
+                {
+                    "word": "L'analisi",
+                    "reading": "la-NA-lee-zee",
+                    "meaning": "The analysis",
+                    "example_sentence": "L'analisi del sangue ha confermato la diagnosi. (The blood analysis confirmed the diagnosis.)"
+                },
+                {
+                    "word": "Il laboratorio",
+                    "reading": "eel la-bo-ra-TO-ryo",
+                    "meaning": "The laboratory",
+                    "example_sentence": "Lavora tutto il giorno in un laboratorio chimico. (He works all day in a chemical laboratory.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "Lo scienziato",
+                    "reading": "lo shen-TSYA-to",
+                    "meaning": "The scientist",
+                    "example_sentence": "Lo scienziato ha presentato la sua nuova teoria. (The scientist presented his new theory.)"
+                },
+                {
+                    "word": "Il ricercatore",
+                    "reading": "eel ree-cher-ka-TO-ray",
+                    "meaning": "The researcher",
+                    "example_sentence": "Il ricercatore sta analizzando i campioni. (The researcher is analyzing the samples.)"
+                },
+                {
+                    "word": "L'invenzione",
+                    "reading": "leen-ven-TSYO-nay",
+                    "meaning": "The invention",
+                    "example_sentence": "Il telefono è stata un'invenzione rivoluzionaria. (The telephone was a revolutionary invention.)"
+                },
+                {
+                    "word": "L'ingegneria",
+                    "reading": "leen-jay-nyay-REE-a",
+                    "meaning": "Engineering",
+                    "example_sentence": "Studia ingegneria meccanica al Politecnico. (He studies mechanical engineering at the Polytechnic.)"
+                },
+                {
+                    "word": "La tecnologia",
+                    "reading": "la tek-no-lo-JEE-a",
+                    "meaning": "Technology",
+                    "example_sentence": "La tecnologia moderna facilita la nostra vita. (Modern technology makes our life easier.)"
+                },
+                {
+                    "word": "La modernizzazione",
+                    "reading": "la mo-der-need-dza-TSYO-nay",
+                    "meaning": "The modernization/innovation",
+                    "example_sentence": "È necessaria una modernizzazione delle infrastrutture. (Modernization of infrastructures is necessary.)"
+                },
+                {
+                    "word": "L'intelligenza artificiale",
+                    "reading": "leen-tel-lee-JEN-tsa ar-tee-fee-CHA-lay",
+                    "meaning": "Artificial intelligence",
+                    "example_sentence": "L'intelligenza artificiale sta cambiando il lavoro. (Artificial intelligence is changing work.)"
+                },
+                {
+                    "word": "Il software",
+                    "reading": "eel software",
+                    "meaning": "Software",
+                    "example_sentence": "Dobbiamo installare un nuovo software antivirus. (We must install a new antivirus software.)"
+                },
+                {
+                    "word": "L'algoritmo",
+                    "reading": "lal-go-REET-mo",
+                    "meaning": "Algorithm",
+                    "example_sentence": "L'algoritmo suggerisce contenuti basati sui tuoi gusti. (The algorithm suggests content based on your tastes.)"
+                },
+                {
+                    "word": "La genetica",
+                    "reading": "la jay-NAY-tee-ka",
+                    "meaning": "Genetics",
+                    "example_sentence": "La genetica spiega molte delle nostre caratteristiche. (Genetics explains many of our characteristics.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "Il DNA",
+                    "reading": "dee-en-ne-a",
+                    "meaning": "DNA",
+                    "example_sentence": "Il test del DNA ha confermato l'identità. (The DNA test confirmed the identity.)"
+                },
+                {
+                    "word": "La cellula",
+                    "reading": "la CHEL-loo-la",
+                    "meaning": "The cell",
+                    "example_sentence": "Ogni essere vivente è composto da cellule. (Every living being is made of cells.)"
+                },
+                {
+                    "word": "Lo sviluppo lineare",
+                    "reading": "lo zvee-LOOP-po lee-nay-A-ray",
+                    "meaning": "Linear development/evolution",
+                    "example_sentence": "Seguiamo lo sviluppo lineare di questo progetto. (We are following the linear development of this project.)"
+                },
+                {
+                    "word": "L'astronomia",
+                    "reading": "las-tro-no-MEE-a",
+                    "meaning": "Astronomy",
+                    "example_sentence": "L'astronomia ci permette di guardare lontano. (Astronomy allows us to look far.)"
+                },
+                {
+                    "word": "L'universo",
+                    "reading": "loo-nee-VER-so",
+                    "meaning": "Universe",
+                    "example_sentence": "L'universo è in continua espansione. (The universe is continuously expanding.)"
+                },
+                {
+                    "word": "La galassia",
+                    "reading": "la ga-LAS-sya",
+                    "meaning": "Galaxy",
+                    "example_sentence": "Viviamo nella galassia chiamata Via Lattea. (We live in the galaxy called the Milky Way.)"
+                },
+                {
+                    "word": "Il pianeta",
+                    "reading": "eel pya-NAY-ta",
+                    "meaning": "Planet",
+                    "example_sentence": "Marte è chiamato il pianeta rosso. (Mars is called the red planet.)"
+                },
+                {
+                    "word": "L'esplorazione",
+                    "reading": "lay-splo-ra-TSYO-nay",
+                    "meaning": "Exploration",
+                    "example_sentence": "L'esplorazione spaziale richiede fondi ingenti. (Space exploration requires huge funds.)"
+                },
+                {
+                    "word": "Il settore chimico",
+                    "reading": "eel set-TO-ray KEE-mee-ko",
+                    "meaning": "The chemical sector",
+                    "example_sentence": "L'azienda opera nel settore chimico farmaceutico. (The company operates in the chemical pharmaceutical sector.)"
+                },
+                {
+                    "word": "L'atomo",
+                    "reading": "LA-to-mo",
+                    "meaning": "Atom",
+                    "example_sentence": "L'atomo è la particella base della materia. (The atom is the basic particle of matter.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "La molecola",
+                    "reading": "la mo-LAY-ko-la",
+                    "meaning": "Molecule",
+                    "example_sentence": "L'acqua è formata da molecole di idrogeno e ossigeno. (Water is made of hydrogen and oxygen molecules.)"
+                },
+                {
+                    "word": "La fisica",
+                    "reading": "la FEE-zee-ka",
+                    "meaning": "Physics",
+                    "example_sentence": "Le leggi della fisica sono universali. (The laws of physics are universal.)"
+                },
+                {
+                    "word": "L'energia nucleare",
+                    "reading": "lay-ner-JEE-a noo-klay-A-ray",
+                    "meaning": "Nuclear energy",
+                    "example_sentence": "L'uso dell'energia nucleare è molto dibattuto. (The use of nuclear energy is highly debated.)"
+                },
+                {
+                    "word": "La radiazione",
+                    "reading": "la ra-dya-TSYO-nay",
+                    "meaning": "Radiation",
+                    "example_sentence": "Dobbiamo proteggerci dalle radiazioni solari. (We must protect ourselves from solar radiation.)"
+                },
+                {
+                    "word": "Il vaccino",
+                    "reading": "eel vat-CHEE-no",
+                    "meaning": "Vaccine",
+                    "example_sentence": "Il vaccino ha debellato molte malattie infettive. (The vaccine has eradicated many infectious diseases.)"
+                },
+                {
+                    "word": "La disciplina medica",
+                    "reading": "la dee-shee-PLEE-na MAY-dee-ka",
+                    "meaning": "Medical discipline",
+                    "example_sentence": "Ogni disciplina medica ha le sue specificità. (Every medical discipline has its specificities.)"
+                },
+                {
+                    "word": "Il protocollo terapeutico",
+                    "reading": "eel pro-to-KOL-lo tay-ra-PEW-tee-ko",
+                    "meaning": "The therapeutic protocol",
+                    "example_sentence": "Il medico ha prescritto un nuovo protocollo terapeutico. (The doctor prescribed a new therapeutic protocol.)"
+                },
+                {
+                    "word": "Guarire",
+                    "reading": "gwa-REE-ray",
+                    "meaning": "To heal",
+                    "example_sentence": "Ci vuole tempo per guarire da questa ferita. (It takes time to heal from this wound.)"
+                },
+                {
+                    "word": "La chirurgia",
+                    "reading": "la kee-roor-JEE-a",
+                    "meaning": "Surgery",
+                    "example_sentence": "L'intervento di chirurgia è durato tre ore. (The surgery operation lasted three hours.)"
+                },
+                {
+                    "word": "Il trapianto",
+                    "reading": "eel tra-PYAN-to",
+                    "meaning": "Transplant",
+                    "example_sentence": "Il trapianto di cuore è stato un successo. (The heart transplant was a success.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "La robotica",
+                    "reading": "la ro-BO-tee-ka",
+                    "meaning": "Robotics",
+                    "example_sentence": "La robotica sta automazione i processi industriali. (Robotics is automating industrial processes.)"
+                },
+                {
+                    "word": "Il robot",
+                    "reading": "robot",
+                    "meaning": "Robot",
+                    "example_sentence": "Il robot può svolgere compiti pericolosi per l'uomo. (The robot can perform tasks dangerous for humans.)"
+                },
+                {
+                    "word": "L'automazione",
+                    "reading": "low-to-ma-TSYO-nay",
+                    "meaning": "Automation",
+                    "example_sentence": "L'automazione riduce la necessità di lavoro manuale. (Automation reduces the need for manual labor.)"
+                },
+                {
+                    "word": "L'ecosostenibilità",
+                    "reading": "lay-ko-sos-tay-nee-bee-lee-TA",
+                    "meaning": "Ecosustainability",
+                    "example_sentence": "L'ecosostenibilità è una priorità globale attuale. (Ecosustainability is a current global priority.)"
+                },
+                {
+                    "word": "L'ambiente",
+                    "reading": "lam-BYEN-tay",
+                    "meaning": "Environment",
+                    "example_sentence": "Dobbiamo rispettare e proteggere l'ambiente. (We must respect and protect the environment.)"
+                },
+                {
+                    "word": "L'ecologia",
+                    "reading": "lay-ko-lo-JEE-a",
+                    "meaning": "Ecology",
+                    "example_sentence": "L'ecologia studia i rapporti tra gli esseri viventi. (Ecology studies relationships among living beings.)"
+                },
+                {
+                    "word": "Il clima",
+                    "reading": "eel KLEE-ma",
+                    "meaning": "Climate",
+                    "example_sentence": "Il clima sta cambiando a causa dell'inquinamento. (The climate is changing due to pollution.)"
+                },
+                {
+                    "word": "Rinnovabile",
+                    "reading": "reen-no-va-BEE-lay",
+                    "meaning": "Renewable",
+                    "example_sentence": "L'energia solare è una fonte rinnovabile. (Solar energy is a renewable source.)"
+                },
+                {
+                    "word": "L'avanzamento tecnologico",
+                    "reading": "la-van-tsa-MEN-to tek-no-LO-jee-ko",
+                    "meaning": "Progress/Technical advancement",
+                    "example_sentence": "L'avanzamento tecnologico è rapidissimo oggi. (Technical advancement is very rapid today.)"
+                },
+                {
+                    "word": "Il futuro",
+                    "reading": "eel foo-TOO-ro",
+                    "meaning": "Future",
+                    "example_sentence": "Dobbiamo investire nei giovani per il futuro. (We must invest in youth for the future.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "Il banco di prova",
+                    "reading": "eel BAN-ko dee PRO-va",
+                    "meaning": "Challenge/Test bench",
+                    "example_sentence": "Queste elezioni sono un banco di prova per il governo. (These elections are a test bench for the government.)"
+                },
+                {
+                    "word": "Etico",
+                    "reading": "AY-tee-ko",
+                    "meaning": "Ethical",
+                    "example_sentence": "È etico utilizzare gli animali per la ricerca? (Is it ethical to use animals for research?)"
+                },
+                {
+                    "word": "Il codice etico",
+                    "reading": "eel KO-dee-chay AY-tee-ko",
+                    "meaning": "Ethics code/Morals",
+                    "example_sentence": "Dobbiamo seguire il codice etico dell'azienda. (We must follow the company's ethics code.)"
+                },
+                {
+                    "word": "La procedura",
+                    "reading": "la pro-chay-DOO-ra",
+                    "meaning": "Process/Procedure",
+                    "example_sentence": "La procedura per la richiesta è molto semplice. (The procedure for the request is very simple.)"
+                },
+                {
+                    "word": "Osservare",
+                    "reading": "os-ser-VA-ray",
+                    "meaning": "To observe",
+                    "example_sentence": "Gli scienziati devono osservare bene il fenomeno. (Scientists must observe the phenomenon well.)"
+                },
+                {
+                    "word": "Verificare",
+                    "reading": "vay-ree-fee-KA-ray",
+                    "meaning": "To verify",
+                    "example_sentence": "Dobbiamo verificare la correttezza dei risultati. (We must verify the correctness of the results.)"
+                },
+                {
+                    "word": "Scrutare",
+                    "reading": "skroo-TA-ray",
+                    "meaning": "To analyze/examine",
+                    "example_sentence": "Potevo sentire i suoi occhi scrutare il mio volto. (I could feel his eyes examining my face.)"
+                },
+                {
+                    "word": "Pubblicare",
+                    "reading": "poob-blee-KA-ray",
+                    "meaning": "To publish",
+                    "example_sentence": "Voglio pubblicare il mio primo articolo scientifico. (I want to publish my first scientific article.)"
+                },
+                {
+                    "word": "L'articolo scientifico",
+                    "reading": "lar-TEE-ko-lo shen-TEE-fee-ko",
+                    "meaning": "Scientific article",
+                    "example_sentence": "Ho letto un articolo scientifico molto interessante. (I read a very interesting scientific article.)"
+                },
+                {
+                    "word": "Il brevetto",
+                    "reading": "eel bray-VET-to",
+                    "meaning": "Patent",
+                    "example_sentence": "Abbiamo depositato il brevetto per la nuova turbina. (We filed the patent for the new turbine.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "Proteggere",
+                    "reading": "pro-TED-jay-ray",
+                    "meaning": "To protect",
+                    "example_sentence": "È importante proteggere la proprietà intellettuale. (It's important to protect intellectual property.)"
+                },
+                {
+                    "word": "L'ingegno",
+                    "reading": "leen-JAY-nyo",
+                    "meaning": "Ingenuity",
+                    "example_sentence": "Le sue scoperte sono il frutto del suo ingegno. (His discoveries are the fruit of his ingenuity.)"
+                },
+                {
+                    "word": "L'intuizione",
+                    "reading": "leen-twee-TSYO-nay",
+                    "meaning": "Intuition",
+                    "example_sentence": "Ho avuto un'intuizione improvvisa durante il lavoro. (I had a sudden intuition during work.)"
+                },
+                {
+                    "word": "La perplessità scientifica",
+                    "reading": "la per-ples-see-TA shen-TEE-fee-ka",
+                    "meaning": "Scientific doubt",
+                    "example_sentence": "C'è ancora molta perplessità scientifica sul tema. (There is still much scientific doubt on the subject.)"
+                },
+                {
+                    "word": "L'evidenza empirica",
+                    "reading": "lay-vee-DEN-tsa em-PEE-ree-ka",
+                    "meaning": "Empirical evidence/Certainty",
+                    "example_sentence": "L'evidenza empirica supporta la nostra tesi. (Empirical evidence supports our thesis.)"
+                },
+                {
+                    "word": "Risolvere",
+                    "reading": "ree-SOL-vay-ray",
+                    "meaning": "To solve",
+                    "example_sentence": "Dobbiamo risolvere questo problema al più presto. (We must solve this problem as soon as possible.)"
+                },
+                {
+                    "word": "Il quesito",
+                    "reading": "eel kway-ZEE-to",
+                    "meaning": "Problem/Query",
+                    "example_sentence": "Il quesito posto dal professore era molto difficile. (The query posed by the professor was very difficult.)"
+                },
+                {
+                    "word": "La soluzione",
+                    "reading": "la so-loo-TSYO-nay",
+                    "meaning": "Solution",
+                    "example_sentence": "Abbiamo trovato la soluzione ideale per tutti. (We found the ideal solution for everyone.)"
+                },
+                {
+                    "word": "L'efficacia",
+                    "reading": "lef-fee-KA-cha",
+                    "meaning": "Efficacy",
+                    "example_sentence": "L'efficacia del farmaco è stata dimostrata. (The efficacy of the drug has been demonstrated.)"
+                },
+                {
+                    "word": "La pericolosità",
+                    "reading": "la pay-ree-ko-lo-zee-TA",
+                    "meaning": "Risk/Dangerousness",
+                    "example_sentence": "La pericolosità del virus è stata sottovalutata. (The dangerousness of the virus was underestimated.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "La sicurezza",
+                    "reading": "la see-koo-RET-tsa",
+                    "meaning": "Security/Safety",
+                    "example_sentence": "La sicurezza informatica è fondamentale oggi. (Cybersecurity is fundamental today.)"
+                },
+                {
+                    "word": "Il sistema",
+                    "reading": "eel see-STAY-ma",
+                    "meaning": "System",
+                    "example_sentence": "Il sistema solare è composto da otto pianeti. (The solar system is composed of eight planets.)"
+                },
+                {
+                    "word": "L'osservazione",
+                    "reading": "los-ser-va-TSYO-nay",
+                    "meaning": "Observation",
+                    "example_sentence": "L'osservazione dei pazienti è durata un mese. (The observation of the patients lasted a month.)"
+                },
+                {
+                    "word": "L'evidenza",
+                    "reading": "lay-vee-DEN-tsa",
+                    "meaning": "Evidence",
+                    "example_sentence": "Non possiamo ignorare l'evidenza dei fatti. (We cannot ignore the evidence of the facts.)"
+                },
+                {
+                    "word": "Concreto",
+                    "reading": "kon-KRAY-to",
+                    "meaning": "Concrete",
+                    "example_sentence": "Abbiamo bisogno di un aiuto concreto, non parole. (We need concrete help, not words.)"
+                },
+                {
+                    "word": "Astratto",
+                    "reading": "as-TRAT-to",
+                    "meaning": "Abstract",
+                    "example_sentence": "Il tuo ragionamento è troppo astratto per me. (Your reasoning is too abstract for me.)"
+                },
+                {
+                    "word": "Complesso",
+                    "reading": "kom-PLES-so",
+                    "meaning": "Complex",
+                    "example_sentence": "Il funzionamento del cervello è molto complesso. (The functioning of the brain is very complex.)"
+                },
+                {
+                    "word": "Semplice",
+                    "reading": "SEM-plee-chay",
+                    "meaning": "Simple",
+                    "example_sentence": "È una soluzione semplice ma molto efficace. (It's a simple but very effective solution.)"
+                },
+                {
+                    "word": "Attuale",
+                    "reading": "at-TWA-lay",
+                    "meaning": "Current/Modern",
+                    "example_sentence": "Questo modello non è più attuale, deve essere cambiato. (This model is no longer current, it must be changed.)"
+                },
+                {
+                    "word": "Vetusto",
+                    "reading": "vay-TOO-sto",
+                    "meaning": "Ancient/Old",
+                    "example_sentence": "L'edificio era ormai vetusto e pericolante. (The building was by now ancient and unsteady.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "Digitale",
+                    "reading": "dee-jee-TA-lay",
+                    "meaning": "Digital",
+                    "example_sentence": "Siamo nell'era della rivoluzione digitale. (We are in the era of the digital revolution.)"
+                },
+                {
+                    "word": "Analogico",
+                    "reading": "a-na-LO-jee-ko",
+                    "meaning": "Analog",
+                    "example_sentence": "Amo il suono caldo dei dischi analogici. (I love the warm sound of analog records.)"
+                },
+                {
+                    "word": "Il sensore",
+                    "reading": "eel sen-SO-ray",
+                    "meaning": "Sensor",
+                    "example_sentence": "Il sensore di movimento accende la luce. (The movement sensor turns on the light.)"
+                },
+                {
+                    "word": "La misura",
+                    "reading": "la mee-ZOO-ra",
+                    "meaning": "Measurement",
+                    "example_sentence": "Dobbiamo prendere la misura esatta della stanza. (We must take the exact measurement of the room.)"
+                },
+                {
+                    "word": "L'apparecchiatura",
+                    "reading": "lap-pa-rek-kya-TOO-ra",
+                    "meaning": "The instrument/equipment",
+                    "example_sentence": "L'apparecchiatura medica deve essere sterile. (Medical equipment must be sterile.)"
+                },
+                {
+                    "word": "La scala",
+                    "reading": "la SKA-la",
+                    "meaning": "Scale",
+                    "example_sentence": "Utilizziamo una scala di valutazione da uno a dieci. (We use an evaluation scale from one to ten.)"
+                },
+                {
+                    "word": "Il microscopio",
+                    "reading": "eel mee-kro-SKO-pyo",
+                    "meaning": "Microscope",
+                    "example_sentence": "Il batterio è visibile solo al microscopio. (The bacterium is visible only under the microscope.)"
+                },
+                {
+                    "word": "Il telescopio",
+                    "reading": "eel tay-lay-SKO-pyo",
+                    "meaning": "Telescope",
+                    "example_sentence": "Ho guardato la Luna attraverso il telescopio. (I looked at the Moon through the telescope.)"
+                },
+                {
+                    "word": "Lo spazio",
+                    "reading": "lo SPAT-tsyo",
+                    "meaning": "Space",
+                    "example_sentence": "Gli astronauti vivono in orbita nello spazio. (Astronauts live in orbit in space.)"
+                },
+                {
+                    "word": "La materia",
+                    "reading": "la ma-TAY-rya",
+                    "meaning": "Matter",
+                    "example_sentence": "Lo studio della materia è lo scopo della fisica. (The study of matter is the goal of physics.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "L'esperto",
+                    "reading": "les-PER-to",
+                    "meaning": "Expert",
+                    "example_sentence": "L'esperto ha dato il suo parere favorevole. (The expert gave his favorable opinion.)"
+                },
+                {
+                    "word": "La professionalità specializzata",
+                    "reading": "la pro-fay-syo-na-lee-TA spay-chya-leed-ZA-ta",
+                    "meaning": "Competence/Specialized profession",
+                    "example_sentence": "Apprezziamo la vostra professionalità specializzata. (We appreciate your specialized professionalism.)"
+                },
+                {
+                    "word": "Educazione",
+                    "reading": "ay-doo-ka-TSYO-nay",
+                    "meaning": "Upbringing/Manners [LIAR GAME]",
+                    "example_sentence": "La sua buona educazione si vede dai piccoli gesti. (His good upbringing is seen from small gestures.)"
+                },
+                {
+                    "word": "Stage",
+                    "reading": "STAHZH",
+                    "meaning": "Internship [LIAR GAME]",
+                    "example_sentence": "Farò uno stage di sei mesi in un ufficio legale. (I will do a six-month internship in a law office.)"
+                },
+                {
+                    "word": "Domanda",
+                    "reading": "do-MAN-da",
+                    "meaning": "Question/Application [LIAR GAME]",
+                    "example_sentence": "Ho inviato la mia domanda di partecipazione ieri. (I sent my application for participation yesterday.)"
+                },
+                {
+                    "word": "Certamente",
+                    "reading": "cher-ta-MEN-tay",
+                    "meaning": "Certainly",
+                    "example_sentence": "Verrò certamente a trovarti domani sera. (I will certainly come to visit you tomorrow evening.)"
+                },
+                {
+                    "word": "Presumibilmente",
+                    "reading": "pray-zoo-mee-beel-MEN-tay",
+                    "meaning": "Probably",
+                    "example_sentence": "Presumibilmente il pacco arriverà lunedì. (Presumibly/Probably the package will arrive Monday.)"
+                },
+                {
+                    "word": "Benestante",
+                    "reading": "bay-nay-STAN-tay",
+                    "meaning": "Wealthy [B1 upgrade]",
+                    "example_sentence": "Viene da una famiglia molto benestante. (He comes from a very wealthy family.)"
+                },
+                {
+                    "word": "Sperimentare",
+                    "reading": "spay-ree-men-TA-ray",
+                    "meaning": "To experiment/try",
+                    "example_sentence": "Vogliamo sperimentare nuovi linguaggi artistici. (We want to experiment with new artistic languages.)"
+                },
+                {
+                    "word": "La conclusione definitiva",
+                    "reading": "la kon-kloo-TSYO-nay day-fee-nee-TEE-va",
+                    "meaning": "Final conclusion/End",
+                    "example_sentence": "Siamo finalmente giunti alla conclusione definitiva. (We have finally reached the final conclusion.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Italian B1 Science & Discoveries False Friends",
+        "question": "Se dico 'Ho un buon Livello di Educazione', cosa intendo solitamente?",
+        "options": [
+            "Ho molti titoli di studio (University Degree)",
+            "Ho buone maniere e un buon comportamento",
+            "Sono molto intelligente",
+            "Sono un bravo insegnante"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "In Italian, 'Educazione' usually refers to manners, upbringing, and etiquette. To talk about school or university instruction, one uses 'Istruzione'. Similarly, 'Stage' is an internship (not a physical theater stage) and 'Domanda' is a question or application (not a demand)."
+    }
+}

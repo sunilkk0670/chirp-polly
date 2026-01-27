@@ -1,0 +1,672 @@
+{
+    "moduleId": "ita_a1_m05",
+    "theme": "Home, Furniture & Shopping",
+    "title": "Casa & Spesa (Home & Shopping)",
+    "level": "a1",
+    "language": "italian",
+    "order": 5,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "La casa",
+                    "reading": "la KA-za",
+                    "meaning": "The house",
+                    "example_sentence": "La mia casa è grande. (My house is big.)"
+                },
+                {
+                    "word": "L'appartamento",
+                    "reading": "lap-par-ta-MEN-to",
+                    "meaning": "The apartment",
+                    "example_sentence": "Vivo in un appartamento. (I live in an apartment.)"
+                },
+                {
+                    "word": "La cucina",
+                    "reading": "la koo-CHEE-na",
+                    "meaning": "The kitchen",
+                    "example_sentence": "Cucino in cucina. (I cook in the kitchen.)"
+                },
+                {
+                    "word": "Il soggiorno",
+                    "reading": "eel sod-JOR-no",
+                    "meaning": "The living room",
+                    "example_sentence": "Guardo la TV in soggiorno. (I watch TV in the living room.)"
+                },
+                {
+                    "word": "La camera da letto",
+                    "reading": "la KA-may-ra da LET-to",
+                    "meaning": "The bedroom",
+                    "example_sentence": "Dormo nella camera da letto. (I sleep in the bedroom.)"
+                },
+                {
+                    "word": "Il bagno",
+                    "reading": "eel BA-nyo",
+                    "meaning": "The bathroom",
+                    "example_sentence": "Il bagno è pulito. (The bathroom is clean.)"
+                },
+                {
+                    "word": "L'ingresso",
+                    "reading": "leen-GRES-so",
+                    "meaning": "The entrance",
+                    "example_sentence": "L'ingresso è ampio. (The entrance is spacious.)"
+                },
+                {
+                    "word": "Il balcone",
+                    "reading": "eel bal-KO-nay",
+                    "meaning": "The balcony",
+                    "example_sentence": "Il balcone ha una bella vista. (The balcony has a nice view.)"
+                },
+                {
+                    "word": "Il giardino",
+                    "reading": "eel jar-DEE-no",
+                    "meaning": "The garden",
+                    "example_sentence": "Il giardino è verde. (The garden is green.)"
+                },
+                {
+                    "word": "Il garage",
+                    "reading": "eel ga-RAZH",
+                    "meaning": "The garage",
+                    "example_sentence": "La macchina è nel garage. (The car is in the garage.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "Il tetto",
+                    "reading": "eel TET-to",
+                    "meaning": "The roof",
+                    "example_sentence": "Il tetto è rosso. (The roof is red.)"
+                },
+                {
+                    "word": "Il muro",
+                    "reading": "eel MOO-ro",
+                    "meaning": "The wall",
+                    "example_sentence": "Il muro è bianco. (The wall is white.)"
+                },
+                {
+                    "word": "Il pavimento",
+                    "reading": "eel pa-vee-MEN-to",
+                    "meaning": "The floor",
+                    "example_sentence": "Il pavimento è di legno. (The floor is wooden.)"
+                },
+                {
+                    "word": "Il soffitto",
+                    "reading": "eel sof-FEET-to",
+                    "meaning": "The ceiling",
+                    "example_sentence": "Il soffitto è alto. (The ceiling is high.)"
+                },
+                {
+                    "word": "Le scale",
+                    "reading": "lay SKA-lay",
+                    "meaning": "The stairs",
+                    "example_sentence": "Salgo le scale. (I go up the stairs.)"
+                },
+                {
+                    "word": "L'ascensore",
+                    "reading": "la-shen-SO-ray",
+                    "meaning": "The elevator",
+                    "example_sentence": "Prendo l'ascensore. (I take the elevator.)"
+                },
+                {
+                    "word": "I mobili",
+                    "reading": "ee MO-bee-lee",
+                    "meaning": "The furniture",
+                    "example_sentence": "I mobili sono nuovi. (The furniture is new.)"
+                },
+                {
+                    "word": "Il tavolo",
+                    "reading": "eel TA-vo-lo",
+                    "meaning": "The table",
+                    "example_sentence": "Il tavolo è grande. (The table is big.)"
+                },
+                {
+                    "word": "La sedia",
+                    "reading": "la SAY-dya",
+                    "meaning": "The chair",
+                    "example_sentence": "La sedia è comoda. (The chair is comfortable.)"
+                },
+                {
+                    "word": "Il divano",
+                    "reading": "eel dee-VA-no",
+                    "meaning": "The sofa",
+                    "example_sentence": "Mi siedo sul divano. (I sit on the sofa.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "La poltrona",
+                    "reading": "la pol-TRO-na",
+                    "meaning": "The armchair",
+                    "example_sentence": "La poltrona è morbida. (The armchair is soft.)"
+                },
+                {
+                    "word": "Il letto",
+                    "reading": "eel LET-to",
+                    "meaning": "The bed",
+                    "example_sentence": "Il letto è comodo. (The bed is comfortable.)"
+                },
+                {
+                    "word": "L'armadio",
+                    "reading": "lar-MA-dyo",
+                    "meaning": "The wardrobe",
+                    "example_sentence": "I vestiti sono nell'armadio. (The clothes are in the wardrobe.)"
+                },
+                {
+                    "word": "La scrivania",
+                    "reading": "la skree-va-NEE-a",
+                    "meaning": "The desk",
+                    "example_sentence": "Studio alla scrivania. (I study at the desk.)"
+                },
+                {
+                    "word": "Lo scaffale",
+                    "reading": "lo skaf-FA-lay",
+                    "meaning": "The shelf",
+                    "example_sentence": "I libri sono sullo scaffale. (The books are on the shelf.)"
+                },
+                {
+                    "word": "La lampada",
+                    "reading": "la LAM-pa-da",
+                    "meaning": "The lamp",
+                    "example_sentence": "Accendo la lampada. (I turn on the lamp.)"
+                },
+                {
+                    "word": "Lo specchio",
+                    "reading": "lo SPEK-kyo",
+                    "meaning": "The mirror",
+                    "example_sentence": "Mi guardo allo specchio. (I look at myself in the mirror.)"
+                },
+                {
+                    "word": "Il tappeto",
+                    "reading": "eel tap-PAY-to",
+                    "meaning": "The rug / carpet",
+                    "example_sentence": "Il tappeto è colorato. (The rug is colorful.)"
+                },
+                {
+                    "word": "Le tende",
+                    "reading": "lay TEN-day",
+                    "meaning": "The curtains",
+                    "example_sentence": "Chiudo le tende. (I close the curtains.)"
+                },
+                {
+                    "word": "Il quadro",
+                    "reading": "eel KWA-dro",
+                    "meaning": "The painting / picture",
+                    "example_sentence": "Il quadro è bello. (The painting is beautiful.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "L'elettrodomestico",
+                    "reading": "ay-let-tro-do-MES-tee-ko",
+                    "meaning": "The appliance",
+                    "example_sentence": "Compro un elettrodomestico nuovo. (I buy a new appliance.)"
+                },
+                {
+                    "word": "Il frigorifero",
+                    "reading": "eel free-go-REE-fay-ro",
+                    "meaning": "The fridge",
+                    "example_sentence": "Il cibo è nel frigorifero. (The food is in the fridge.)"
+                },
+                {
+                    "word": "Il forno",
+                    "reading": "eel FOR-no",
+                    "meaning": "The oven",
+                    "example_sentence": "Cucino la pizza nel forno. (I cook pizza in the oven.)"
+                },
+                {
+                    "word": "Il microonde",
+                    "reading": "eel mee-kro-ON-day",
+                    "meaning": "The microwave",
+                    "example_sentence": "Riscaldo il cibo nel microonde. (I heat food in the microwave.)"
+                },
+                {
+                    "word": "La lavatrice",
+                    "reading": "la la-va-TREE-chay",
+                    "meaning": "The washing machine",
+                    "example_sentence": "Lavo i vestiti nella lavatrice. (I wash clothes in the washing machine.)"
+                },
+                {
+                    "word": "La lavastoviglie",
+                    "reading": "la la-va-sto-VEE-lyay",
+                    "meaning": "The dishwasher",
+                    "example_sentence": "Metto i piatti nella lavastoviglie. (I put dishes in the dishwasher.)"
+                },
+                {
+                    "word": "La televisione",
+                    "reading": "la tay-lay-vee-ZYON-nay",
+                    "meaning": "The TV",
+                    "example_sentence": "Guardo la televisione. (I watch TV.)"
+                },
+                {
+                    "word": "Il computer",
+                    "reading": "eel kom-PYOO-ter",
+                    "meaning": "The computer",
+                    "example_sentence": "Lavoro al computer. (I work on the computer.)"
+                },
+                {
+                    "word": "Pulire",
+                    "reading": "poo-LEE-ray",
+                    "meaning": "To clean",
+                    "example_sentence": "Pulisco la casa. (I clean the house.)"
+                },
+                {
+                    "word": "Lavare",
+                    "reading": "la-VA-ray",
+                    "meaning": "To wash",
+                    "example_sentence": "Lavo i piatti. (I wash the dishes.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "Cucinare",
+                    "reading": "koo-chee-NA-ray",
+                    "meaning": "To cook",
+                    "example_sentence": "Cucino la pasta. (I cook pasta.)"
+                },
+                {
+                    "word": "Dormire",
+                    "reading": "dor-MEE-ray",
+                    "meaning": "To sleep",
+                    "example_sentence": "Dormo otto ore. (I sleep eight hours.)"
+                },
+                {
+                    "word": "Riposare",
+                    "reading": "ree-po-ZA-ray",
+                    "meaning": "To rest",
+                    "example_sentence": "Mi riposo sul divano. (I rest on the sofa.)"
+                },
+                {
+                    "word": "Fare la spesa",
+                    "reading": "FA-ray la SPAY-za",
+                    "meaning": "To go grocery shopping",
+                    "example_sentence": "Faccio la spesa al supermercato. (I go grocery shopping at the supermarket.)"
+                },
+                {
+                    "word": "Andare a fare shopping",
+                    "reading": "an-DA-ray a FA-ray SHOP-peeng",
+                    "meaning": "To go shopping",
+                    "example_sentence": "Vado a fare shopping in centro. (I go shopping downtown.)"
+                },
+                {
+                    "word": "Il negozio",
+                    "reading": "eel nay-GO-tsyo",
+                    "meaning": "The shop",
+                    "example_sentence": "Il negozio è aperto. (The shop is open.)"
+                },
+                {
+                    "word": "Il centro commerciale",
+                    "reading": "eel CHEN-tro kom-mer-CHA-lay",
+                    "meaning": "The shopping mall",
+                    "example_sentence": "Vado al centro commerciale. (I go to the shopping mall.)"
+                },
+                {
+                    "word": "Il supermercato",
+                    "reading": "eel soo-per-mer-KA-to",
+                    "meaning": "The supermarket",
+                    "example_sentence": "Compro cibo al supermercato. (I buy food at the supermarket.)"
+                },
+                {
+                    "word": "Il mercato",
+                    "reading": "eel mer-KA-to",
+                    "meaning": "The market",
+                    "example_sentence": "Il mercato è affollato. (The market is crowded.)"
+                },
+                {
+                    "word": "Il carrello",
+                    "reading": "eel kar-REL-lo",
+                    "meaning": "The shopping cart",
+                    "example_sentence": "Prendo il carrello. (I take the shopping cart.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "Il cestino",
+                    "reading": "eel ches-TEE-no",
+                    "meaning": "The basket",
+                    "example_sentence": "Porto il cestino. (I carry the basket.)"
+                },
+                {
+                    "word": "Il prezzo",
+                    "reading": "eel PRET-tso",
+                    "meaning": "The price",
+                    "example_sentence": "Qual è il prezzo? (What is the price?)"
+                },
+                {
+                    "word": "Lo sconto",
+                    "reading": "lo SKON-to",
+                    "meaning": "The discount",
+                    "example_sentence": "C'è uno sconto del 20%. (There is a 20% discount.)"
+                },
+                {
+                    "word": "In saldo",
+                    "reading": "een SAL-do",
+                    "meaning": "On sale",
+                    "example_sentence": "Questi vestiti sono in saldo. (These clothes are on sale.)"
+                },
+                {
+                    "word": "Costare",
+                    "reading": "kos-TA-ray",
+                    "meaning": "To cost",
+                    "example_sentence": "Quanto costa? (How much does it cost?)"
+                },
+                {
+                    "word": "Pagare",
+                    "reading": "pa-GA-ray",
+                    "meaning": "To pay",
+                    "example_sentence": "Pago con la carta. (I pay with the card.)"
+                },
+                {
+                    "word": "I contanti",
+                    "reading": "ee kon-TAN-tee",
+                    "meaning": "Cash",
+                    "example_sentence": "Pago in contanti. (I pay in cash.)"
+                },
+                {
+                    "word": "La carta di credito",
+                    "reading": "la KAR-ta dee KRAY-dee-to",
+                    "meaning": "Credit card",
+                    "example_sentence": "Uso la carta di credito. (I use the credit card.)"
+                },
+                {
+                    "word": "Lo scontrino",
+                    "reading": "lo skon-TREE-no",
+                    "meaning": "The receipt",
+                    "example_sentence": "Ecco lo scontrino. (Here is the receipt.)"
+                },
+                {
+                    "word": "La borsa",
+                    "reading": "la BOR-sa",
+                    "meaning": "The bag",
+                    "example_sentence": "Metto tutto nella borsa. (I put everything in the bag.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "I vestiti",
+                    "reading": "ee ves-TEE-tee",
+                    "meaning": "Clothes",
+                    "example_sentence": "Compro vestiti nuovi. (I buy new clothes.)"
+                },
+                {
+                    "word": "La taglia",
+                    "reading": "la TA-lya",
+                    "meaning": "The size (clothes)",
+                    "example_sentence": "Che taglia porti? (What size do you wear?)"
+                },
+                {
+                    "word": "Il numero",
+                    "reading": "eel NOO-may-ro",
+                    "meaning": "The size (shoes)",
+                    "example_sentence": "Porto il numero 40. (I wear size 40.)"
+                },
+                {
+                    "word": "Provare",
+                    "reading": "pro-VA-ray",
+                    "meaning": "To try on",
+                    "example_sentence": "Posso provare questa giacca? (Can I try on this jacket?)"
+                },
+                {
+                    "word": "Scegliere",
+                    "reading": "SHE-lyay-ray",
+                    "meaning": "To choose",
+                    "example_sentence": "Scelgo il vestito rosso. (I choose the red dress.)"
+                },
+                {
+                    "word": "Comprare",
+                    "reading": "kom-PRA-ray",
+                    "meaning": "To buy",
+                    "example_sentence": "Compro una maglietta. (I buy a t-shirt.)"
+                },
+                {
+                    "word": "Vendere",
+                    "reading": "VEN-day-ray",
+                    "meaning": "To sell",
+                    "example_sentence": "Vendono scarpe. (They sell shoes.)"
+                },
+                {
+                    "word": "La maglietta",
+                    "reading": "la ma-LYET-ta",
+                    "meaning": "T-shirt",
+                    "example_sentence": "La maglietta è bianca. (The t-shirt is white.)"
+                },
+                {
+                    "word": "La camicia",
+                    "reading": "la ka-MEE-cha",
+                    "meaning": "Shirt",
+                    "example_sentence": "Porto una camicia blu. (I wear a blue shirt.)"
+                },
+                {
+                    "word": "I pantaloni",
+                    "reading": "ee pan-ta-LO-nee",
+                    "meaning": "Pants",
+                    "example_sentence": "I pantaloni sono neri. (The pants are black.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "I jeans",
+                    "reading": "ee jeans",
+                    "meaning": "Jeans",
+                    "example_sentence": "Porto i jeans. (I wear jeans.)"
+                },
+                {
+                    "word": "La gonna",
+                    "reading": "la GON-na",
+                    "meaning": "Skirt",
+                    "example_sentence": "La gonna è corta. (The skirt is short.)"
+                },
+                {
+                    "word": "L'abito",
+                    "reading": "LA-bee-to",
+                    "meaning": "Dress / Suit",
+                    "example_sentence": "L'abito è elegante. (The dress is elegant.)"
+                },
+                {
+                    "word": "La giacca",
+                    "reading": "la JIAK-ka",
+                    "meaning": "Jacket",
+                    "example_sentence": "La giacca è di pelle. (The jacket is leather.)"
+                },
+                {
+                    "word": "Il cappotto",
+                    "reading": "eel kap-POT-to",
+                    "meaning": "Coat",
+                    "example_sentence": "Il cappotto è caldo. (The coat is warm.)"
+                },
+                {
+                    "word": "Il maglione",
+                    "reading": "eel ma-LYO-nay",
+                    "meaning": "Sweater",
+                    "example_sentence": "Il maglione è di lana. (The sweater is wool.)"
+                },
+                {
+                    "word": "Le scarpe",
+                    "reading": "lay SKAR-pay",
+                    "meaning": "Shoes",
+                    "example_sentence": "Le scarpe sono comode. (The shoes are comfortable.)"
+                },
+                {
+                    "word": "I calzini",
+                    "reading": "ee kal-TSEE-nee",
+                    "meaning": "Socks",
+                    "example_sentence": "I calzini sono bianchi. (The socks are white.)"
+                },
+                {
+                    "word": "Il cappello",
+                    "reading": "eel kap-PEL-lo",
+                    "meaning": "Hat",
+                    "example_sentence": "Il cappello è rosso. (The hat is red.)"
+                },
+                {
+                    "word": "La sciarpa",
+                    "reading": "la SHAR-pa",
+                    "meaning": "Scarf",
+                    "example_sentence": "La sciarpa è calda. (The scarf is warm.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "I guanti",
+                    "reading": "ee GWAN-tee",
+                    "meaning": "Gloves",
+                    "example_sentence": "I guanti sono di pelle. (The gloves are leather.)"
+                },
+                {
+                    "word": "La cintura",
+                    "reading": "la chin-TOO-ra",
+                    "meaning": "Belt",
+                    "example_sentence": "La cintura è nera. (The belt is black.)"
+                },
+                {
+                    "word": "Gli occhiali",
+                    "reading": "lyee ok-KYA-lee",
+                    "meaning": "Glasses",
+                    "example_sentence": "Porto gli occhiali. (I wear glasses.)"
+                },
+                {
+                    "word": "L'orologio",
+                    "reading": "lo-ro-LO-jo",
+                    "meaning": "Watch",
+                    "example_sentence": "L'orologio è d'oro. (The watch is gold.)"
+                },
+                {
+                    "word": "Il portafoglio",
+                    "reading": "eel por-ta-FO-lyo",
+                    "meaning": "Wallet",
+                    "example_sentence": "Il portafoglio è pieno. (The wallet is full.)"
+                },
+                {
+                    "word": "La gioielleria",
+                    "reading": "jo-yel-lay-REE-a",
+                    "meaning": "Jewelry store",
+                    "example_sentence": "Vado in gioielleria. (I go to the jewelry store.)"
+                },
+                {
+                    "word": "L'oro",
+                    "reading": "LO-ro",
+                    "meaning": "Gold",
+                    "example_sentence": "L'anello è d'oro. (The ring is gold.)"
+                },
+                {
+                    "word": "L'argento",
+                    "reading": "lar-JEN-to",
+                    "meaning": "Silver",
+                    "example_sentence": "Il bracciale è d'argento. (The bracelet is silver.)"
+                },
+                {
+                    "word": "Il cotone",
+                    "reading": "eel ko-TO-nay",
+                    "meaning": "Cotton",
+                    "example_sentence": "La maglietta è di cotone. (The t-shirt is cotton.)"
+                },
+                {
+                    "word": "La lana",
+                    "reading": "la LA-na",
+                    "meaning": "Wool",
+                    "example_sentence": "Il maglione è di lana. (The sweater is wool.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "La seta",
+                    "reading": "la SAY-ta",
+                    "meaning": "Silk",
+                    "example_sentence": "La sciarpa è di seta. (The scarf is silk.)"
+                },
+                {
+                    "word": "La pelle",
+                    "reading": "la PEL-lay",
+                    "meaning": "Leather",
+                    "example_sentence": "Le scarpe sono di pelle. (The shoes are leather.)"
+                },
+                {
+                    "word": "Nuovo",
+                    "reading": "NWOH-vo",
+                    "meaning": "New",
+                    "example_sentence": "Il vestito è nuovo. (The dress is new.)"
+                },
+                {
+                    "word": "Vecchio",
+                    "reading": "VEK-kyo",
+                    "meaning": "Old",
+                    "example_sentence": "Il cappotto è vecchio. (The coat is old.)"
+                },
+                {
+                    "word": "Usato",
+                    "reading": "oo-ZA-to",
+                    "meaning": "Used",
+                    "example_sentence": "Compro vestiti usati. (I buy used clothes.)"
+                },
+                {
+                    "word": "Pulito",
+                    "reading": "poo-LEE-to",
+                    "meaning": "Clean",
+                    "example_sentence": "La camicia è pulita. (The shirt is clean.)"
+                },
+                {
+                    "word": "Sporco",
+                    "reading": "SPOR-ko",
+                    "meaning": "Dirty",
+                    "example_sentence": "I pantaloni sono sporchi. (The pants are dirty.)"
+                },
+                {
+                    "word": "Ostrica",
+                    "reading": "OS-tree-ka",
+                    "meaning": "Oyster (NOT Ostrich) [LIAR GAME: False Friend]",
+                    "example_sentence": "Mangio un'ostrica. (I eat an oyster.) [LIAR GAME: NOT 'ostrich']"
+                },
+                {
+                    "word": "Morbido",
+                    "reading": "MOR-bee-do",
+                    "meaning": "Soft (NOT Morbid) [LIAR GAME: False Friend]",
+                    "example_sentence": "Il cuscino è morbido. (The pillow is soft.) [LIAR GAME: NOT 'morbid/gruesome']"
+                },
+                {
+                    "word": "Libreria",
+                    "reading": "lee-bray-REE-a",
+                    "meaning": "Bookstore (NOT Library) [LIAR GAME: False Friend]",
+                    "example_sentence": "Compro libri in libreria. (I buy books at the bookstore.) [LIAR GAME: NOT 'library']"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Italian False Friends",
+        "question": "Your Italian friend says 'Questo tessuto è molto morbido.' What does this mean?",
+        "options": [
+            "This fabric is very morbid",
+            "This fabric is very soft",
+            "This fabric is very dark",
+            "This fabric is very expensive"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The Italian word 'morbido' is a false friend. It means 'soft' or 'smooth,' NOT 'morbid' (which is 'morboso' in Italian). This is a common mistake for English speakers, as the words look very similar but have completely different meanings!"
+    }
+}

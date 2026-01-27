@@ -17,6 +17,7 @@ class _LoginPageState extends ConsumerState<LoginPage> {
   String? _passwordError;
   bool _hasAgreedToTerms = false;
   bool _isAgeVerified = false;
+  bool _isNavigating = false;
 
   @override
   void dispose() {
@@ -30,7 +31,31 @@ class _LoginPageState extends ConsumerState<LoginPage> {
     return emailRegex.hasMatch(email);
   }
 
-  void _handleSubmit() {
+  void _navigateAfterLogin() {
+    debugPrint('Executing _navigateAfterLogin...');
+    if (_isNavigating) {
+      debugPrint('Already navigating, skipping...');
+      return;
+    }
+    _isNavigating = true;
+    
+    // Check for returnTo argument in route settings
+    final routeSettings = ModalRoute.of(context)?.settings;
+    final args = routeSettings?.arguments as Map<String, dynamic>?;
+    final returnTo = args?['returnTo'] as String?;
+    debugPrint('Navigation returnTo target: $returnTo');
+    
+    if (returnTo != null && returnTo.isNotEmpty) {
+      debugPrint('Redirecting to returnTo: $returnTo');
+      Navigator.of(context).pushReplacementNamed(returnTo);
+    } else {
+      debugPrint('Redirecting to default dashboard: /home');
+      Navigator.of(context).pushReplacementNamed('/home');
+    }
+  }
+
+  Future<void> _handleSubmit(bool isSignUpMode) async {
+    debugPrint('Handle submit called. Mode: ${isSignUpMode ? 'Sign Up' : 'Sign In'}');
     setState(() {
       _emailError = null;
       _passwordError = null;
@@ -38,6 +63,7 @@ class _LoginPageState extends ConsumerState<LoginPage> {
 
     final email = _emailController.text.trim();
     final password = _passwordController.text;
+    debugPrint('Attempting auth for email: $email');
 
     bool hasError = false;
 
@@ -60,12 +86,29 @@ class _LoginPageState extends ConsumerState<LoginPage> {
     if (hasError) return;
 
     final authController = ref.read(authControllerProvider.notifier);
-    final isSignUpMode = ref.read(authControllerProvider).isSignUpMode;
 
     if (isSignUpMode) {
-      authController.signUp(email, password);
+      if (!_hasAgreedToTerms || !_isAgeVerified) {
+        setState(() => _emailError = 'Please agree to terms and verify your age');
+        return;
+      }
+      debugPrint('Calling signUpUseCase...');
+      await authController.signUp(email, password);
     } else {
-      authController.signIn(email, password);
+      debugPrint('Calling signInUseCase...');
+      await authController.signIn(email, password);
+    }
+    
+    // Check if login was successful (no error and user exists)
+    final authState = ref.read(authControllerProvider);
+    final currentUser = ref.read(currentUserProvider);
+    debugPrint('Auth result - Error: ${authState.errorMessage}, User: ${currentUser?.email}');
+    
+    if (authState.errorMessage == null && currentUser != null) {
+      if (mounted) {
+        debugPrint('Login success, triggering local redirect');
+        _navigateAfterLogin();
+      }
     }
   }
 
@@ -83,6 +126,18 @@ class _LoginPageState extends ConsumerState<LoginPage> {
 
   @override
   Widget build(BuildContext context) {
+    // Watch auth state and redirect if already logged in
+    final currentUser = ref.watch(currentUserProvider);
+    
+    // If user is already logged in, redirect to home
+    if (currentUser != null && !_isNavigating) {
+      WidgetsBinding.instance.addPostFrameCallback((_) {
+        if (mounted) {
+          _navigateAfterLogin();
+        }
+      });
+    }
+    
     final authState = ref.watch(authControllerProvider);
     final isSignUpMode = authState.isSignUpMode;
 
@@ -358,7 +413,7 @@ class _LoginPageState extends ConsumerState<LoginPage> {
                       child: ElevatedButton(
                         onPressed: authState.isLoading || (isSignUpMode && (!_hasAgreedToTerms || !_isAgeVerified))
                             ? null 
-                            : _handleSubmit,
+                            : () => _handleSubmit(isSignUpMode),
                         style: ElevatedButton.styleFrom(
                           backgroundColor: const Color(0xFF6A4CBC),
                           foregroundColor: Colors.white,

@@ -1,0 +1,672 @@
+{
+    "moduleId": "ita_a1_m06",
+    "theme": "Travel & Transportation",
+    "title": "Viaggi & Trasporti (Travel & Transit)",
+    "level": "a1",
+    "language": "italian",
+    "order": 6,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "Il decollo",
+                    "reading": "eel day-KOL-lo",
+                    "meaning": "The takeoff",
+                    "example_sentence": "Il decollo è previsto alle dieci. (Takeoff is scheduled for ten.)"
+                },
+                {
+                    "word": "Il volo",
+                    "reading": "eel VO-lo",
+                    "meaning": "The flight",
+                    "example_sentence": "Il mio volo parte alle otto. (My flight departs at eight.)"
+                },
+                {
+                    "word": "L'aereo",
+                    "reading": "la-AY-ray-o",
+                    "meaning": "The airplane",
+                    "example_sentence": "L'aereo è un mezzo veloce. (The airplane is a fast vehicle.)"
+                },
+                {
+                    "word": "La carta d'identità",
+                    "reading": "la KAR-ta dee-den-tee-TA",
+                    "meaning": "The ID card",
+                    "example_sentence": "Mostra la tua carta d'identità. (Show your ID card.)"
+                },
+                {
+                    "word": "Il visto",
+                    "reading": "eel VEES-to",
+                    "meaning": "The visa",
+                    "example_sentence": "Ho bisogno di un visto per viaggiare. (I need a visa to travel.)"
+                },
+                {
+                    "word": "La carta d'imbarco",
+                    "reading": "la KAR-ta deem-BAR-ko",
+                    "meaning": "The boarding pass",
+                    "example_sentence": "Mostra la tua carta d'imbarco. (Show your boarding pass.)"
+                },
+                {
+                    "word": "Il terminal",
+                    "reading": "eel ter-mee-NAL",
+                    "meaning": "The terminal",
+                    "example_sentence": "Il volo parte dal terminal uno. (The flight departs from terminal one.)"
+                },
+                {
+                    "word": "Il check-in",
+                    "reading": "eel check-in",
+                    "meaning": "The check-in",
+                    "example_sentence": "Dobbiamo fare il check-in ora. (We must do the check-in now.)"
+                },
+                {
+                    "word": "Il controllo di sicurezza",
+                    "reading": "eel kon-TROL-lo dee see-koo-RET-tsa",
+                    "meaning": "The security check",
+                    "example_sentence": "Il controllo di sicurezza è lento. (The security check is slow.)"
+                },
+                {
+                    "word": "Il gate",
+                    "reading": "eel gate",
+                    "meaning": "The gate",
+                    "example_sentence": "Qual è il nostro gate? (What is our gate?)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "Il borsone",
+                    "reading": "eel bor-SO-nay",
+                    "meaning": "The duffel bag",
+                    "example_sentence": "Metti tutto nel borsone. (Put everything in the duffel bag.)"
+                },
+                {
+                    "word": "Il bagaglio",
+                    "reading": "eel ba-GA-lyo",
+                    "meaning": "The luggage",
+                    "example_sentence": "Ritiriamo il bagaglio qui. (We pick up the luggage here.)"
+                },
+                {
+                    "word": "La borsa a mano",
+                    "reading": "la BOR-sa a MA-no",
+                    "meaning": "The carry-on bag",
+                    "example_sentence": "Questa è la mia borsa a mano. (This is my carry-on bag.)"
+                },
+                {
+                    "word": "La conferma",
+                    "reading": "la kon-FER-ma",
+                    "meaning": "The confirmation",
+                    "example_sentence": "Aspetto la conferma della prenotazione. (I'm waiting for the reservation confirmation.)"
+                },
+                {
+                    "word": "La tessera",
+                    "reading": "la TES-say-ra",
+                    "meaning": "The card/pass",
+                    "example_sentence": "Uso la tessera per l'autobus. (I use the pass for the bus.)"
+                },
+                {
+                    "word": "La ricevuta",
+                    "reading": "la ree-chay-VOO-ta",
+                    "meaning": "The receipt",
+                    "example_sentence": "Ecco la ricevuta del pagamento. (Here is the receipt of the payment.)"
+                },
+                {
+                    "word": "Il posto finestrino",
+                    "reading": "eel POS-to fee-nes-TREE-no",
+                    "meaning": "The window seat",
+                    "example_sentence": "Preferisco il posto finestrino. (I prefer the window seat.)"
+                },
+                {
+                    "word": "Il posto corridoio",
+                    "reading": "eel POS-to kor-ree-DO-yo",
+                    "meaning": "The aisle seat",
+                    "example_sentence": "Vuoi il posto corridoio? (Do you want the aisle seat?)"
+                },
+                {
+                    "word": "Il pilota",
+                    "reading": "eel pee-LO-ta",
+                    "meaning": "The pilot",
+                    "example_sentence": "Il pilota è molto esperto. (The pilot is very expert.)"
+                },
+                {
+                    "word": "L'assistente di volo",
+                    "reading": "las-sees-TEN-tay dee VO-lo",
+                    "meaning": "The flight attendant",
+                    "example_sentence": "L'assistente di volo è gentile. (The flight attendant is kind.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "Il capolinea",
+                    "reading": "eel ka-po-LEE-nay-a",
+                    "meaning": "The terminus",
+                    "example_sentence": "Siamo arrivati al capolinea. (We have arrived at the terminus.)"
+                },
+                {
+                    "word": "Il binario",
+                    "reading": "eel bee-NA-ryo",
+                    "meaning": "The platform",
+                    "example_sentence": "Il treno è al binario cinque. (The train is on platform five.)"
+                },
+                {
+                    "word": "La carrozza",
+                    "reading": "la kar-ROT-tsa",
+                    "meaning": "The carriage/car",
+                    "example_sentence": "Siamo nella carrozza numero due. (We are in carriage number two.)"
+                },
+                {
+                    "word": "L'orario",
+                    "reading": "lo-RA-ryo",
+                    "meaning": "The timetable",
+                    "example_sentence": "Controlla l'orario dei treni. (Check the train timetable.)"
+                },
+                {
+                    "word": "La biglietteria",
+                    "reading": "la bee-lyet-tay-REE-a",
+                    "meaning": "The ticket office",
+                    "example_sentence": "Vado alla biglietteria. (I'm going to the ticket office.)"
+                },
+                {
+                    "word": "La macchinetta dei biglietti",
+                    "reading": "la mak-kee-NET-ta day bee-LYET-tee",
+                    "meaning": "The ticket machine",
+                    "example_sentence": "Usa la macchinetta dei biglietti. (Use the ticket machine.)"
+                },
+                {
+                    "word": "Il sottopassaggio",
+                    "reading": "eel sot-to-pas-SAD-jo",
+                    "meaning": "The underpass",
+                    "example_sentence": "Passiamo dal sottopassaggio. (Let's pass through the underpass.)"
+                },
+                {
+                    "word": "Il controllore",
+                    "reading": "eel kon-trol-LO-ray",
+                    "meaning": "The ticket inspector",
+                    "example_sentence": "Arriva il controllore. (The ticket inspector is coming.)"
+                },
+                {
+                    "word": "La coincidenza",
+                    "reading": "la ko-een-chee-DEN-tsa",
+                    "meaning": "The connection",
+                    "example_sentence": "Abbiamo perso la coincidenza. (We missed the connection.)"
+                },
+                {
+                    "word": "Il supplemento",
+                    "reading": "eel soop-play-MEN-to",
+                    "meaning": "The supplement",
+                    "example_sentence": "Devi pagare un supplemento. (You have to pay a supplement.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "La nave",
+                    "reading": "la NA-vay",
+                    "meaning": "The ship",
+                    "example_sentence": "La nave è nel porto. (The ship is in the harbor.)"
+                },
+                {
+                    "word": "Il traghetto",
+                    "reading": "eel tra-GET-to",
+                    "meaning": "The ferry",
+                    "example_sentence": "Prendiamo il traghetto per l'isola. (We take the ferry to the island.)"
+                },
+                {
+                    "word": "Il porto",
+                    "reading": "eel POR-to",
+                    "meaning": "The harbor/port",
+                    "example_sentence": "Il porto è molto grande. (The harbor is very large.)"
+                },
+                {
+                    "word": "Il molo",
+                    "reading": "eel MO-lo",
+                    "meaning": "The pier/dock",
+                    "example_sentence": "La barca è al molo. (The boat is at the pier.)"
+                },
+                {
+                    "word": "La cabina",
+                    "reading": "la ka-BEE-na",
+                    "meaning": "The cabin",
+                    "example_sentence": "La nostra cabina è piccola. (Our cabin is small.)"
+                },
+                {
+                    "word": "Il parapetto",
+                    "reading": "eel pa-ra-PET-to",
+                    "meaning": "The railing",
+                    "example_sentence": "Non appoggiarti al parapetto. (Don't lean on the railing.)"
+                },
+                {
+                    "word": "L'ancora",
+                    "reading": "LAN-ko-ra",
+                    "meaning": "The anchor",
+                    "example_sentence": "La nave getta l'ancora. (The ship drops the anchor.)"
+                },
+                {
+                    "word": "Il giubbotto di salvataggio",
+                    "reading": "eel joob-BOT-to dee sal-va-TAD-jo",
+                    "meaning": "The life jacket",
+                    "example_sentence": "Indossa il giubbotto di salvataggio. (Wear the life jacket.)"
+                },
+                {
+                    "word": "Il mal di mare",
+                    "reading": "eel mal dee MA-ray",
+                    "meaning": "Seasickness",
+                    "example_sentence": "Soffro di mal di mare. (I suffer from seasickness.)"
+                },
+                {
+                    "word": "Navigare",
+                    "reading": "na-vee-GA-ray",
+                    "meaning": "To sail/navigate",
+                    "example_sentence": "Amiamo navigare. (We love to sail.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "La metropolitana",
+                    "reading": "la may-tro-po-lee-TA-na",
+                    "meaning": "The subway",
+                    "example_sentence": "La metropolitana è veloce. (The subway is fast.)"
+                },
+                {
+                    "word": "La fermata",
+                    "reading": "la fer-MA-ta",
+                    "meaning": "The stop",
+                    "example_sentence": "Scendi alla prossima fermata. (Get off at the next stop.)"
+                },
+                {
+                    "word": "La linea",
+                    "reading": "la LEE-nay-a",
+                    "meaning": "The line",
+                    "example_sentence": "Prendi la linea rossa. (Take the red line.)"
+                },
+                {
+                    "word": "Il taxi",
+                    "reading": "eel TAK-see",
+                    "meaning": "The taxi",
+                    "example_sentence": "Chiamiamo un taxi. (Let's call a taxi.)"
+                },
+                {
+                    "word": "Il car sharing",
+                    "reading": "eel car sharing",
+                    "meaning": "Car sharing",
+                    "example_sentence": "Uso spesso il car sharing. (I often use car sharing.)"
+                },
+                {
+                    "word": "Il noleggio",
+                    "reading": "eel no-LED-jo",
+                    "meaning": "The rental",
+                    "example_sentence": "Dov'è il noleggio auto? (Where is the car rental?)"
+                },
+                {
+                    "word": "La bicicletta",
+                    "reading": "la bee-chee-KLET-ta",
+                    "meaning": "The bicycle",
+                    "example_sentence": "Vado in bicicletta. (I go by bicycle.)"
+                },
+                {
+                    "word": "Il casco",
+                    "reading": "eel KAS-ko",
+                    "meaning": "The helmet",
+                    "example_sentence": "Metti sempre il casco. (Always put on the helmet.)"
+                },
+                {
+                    "word": "Il monopattino elettrico",
+                    "reading": "eel mo-no-PAT-tee-no ay-LET-tree-ko",
+                    "meaning": "Electric scooter",
+                    "example_sentence": "Uso il monopattino elettrico. (I use the electric scooter.)"
+                },
+                {
+                    "word": "La funivia",
+                    "reading": "la foo-nee-VEE-a",
+                    "meaning": "The cable car",
+                    "example_sentence": "Prendiamo la funivia. (Let's take the cable car.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "Sterzare",
+                    "reading": "ster-TSA-ray",
+                    "meaning": "To steer",
+                    "example_sentence": "Devi sterzare a sinistra. (You must steer left.)"
+                },
+                {
+                    "word": "La patente",
+                    "reading": "la pa-TEN-tay",
+                    "meaning": "The driver's license",
+                    "example_sentence": "Ho preso la patente. (I got my driver's license.)"
+                },
+                {
+                    "word": "Il parcheggio",
+                    "reading": "eel par-KED-jo",
+                    "meaning": "The parking",
+                    "example_sentence": "Cerco un parcheggio. (I'm looking for a parking spot.)"
+                },
+                {
+                    "word": "Il semaforo",
+                    "reading": "eel say-MA-fo-ro",
+                    "meaning": "The traffic light",
+                    "example_sentence": "Il semaforo è rosso. (The traffic light is red.)"
+                },
+                {
+                    "word": "L'incrocio",
+                    "reading": "leen-KRO-cho",
+                    "meaning": "The intersection",
+                    "example_sentence": "Gira a destra all'incrocio. (Turn right at the intersection.)"
+                },
+                {
+                    "word": "La rotatoria",
+                    "reading": "la ro-ta-TO-rya",
+                    "meaning": "The roundabout",
+                    "example_sentence": "Prendi la seconda uscita alla rotatoria. (Take the second exit at the roundabout.)"
+                },
+                {
+                    "word": "Il benzinaio",
+                    "reading": "eel ben-tsee-NA-yo",
+                    "meaning": "The gas station",
+                    "example_sentence": "Dobbiamo andare dal benzinaio. (We have to go to the gas station.)"
+                },
+                {
+                    "word": "L'autostrada",
+                    "reading": "low-to-STRA-da",
+                    "meaning": "The motorway/highway",
+                    "example_sentence": "L'autostrada è a pagamento. (The motorway has a toll.)"
+                },
+                {
+                    "word": "Il traffico",
+                    "reading": "eel TRAF-fee-ko",
+                    "meaning": "The traffic",
+                    "example_sentence": "C'è molto traffico oggi. (There is a lot of traffic today.)"
+                },
+                {
+                    "word": "La multa",
+                    "reading": "la MOOL-ta",
+                    "meaning": "The fine/ticket",
+                    "example_sentence": "Ho preso una multa. (I got a fine.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "Decollare",
+                    "reading": "day-kol-LA-ray",
+                    "meaning": "To take off",
+                    "example_sentence": "L'aereo sta per decollare. (The airplane is about to take off.)"
+                },
+                {
+                    "word": "Atterrare",
+                    "reading": "at-ter-RA-ray",
+                    "meaning": "To land",
+                    "example_sentence": "Stiamo per atterrare. (We are about to land.)"
+                },
+                {
+                    "word": "Cambiare",
+                    "reading": "kam-BYA-ray",
+                    "meaning": "To change / transfer",
+                    "example_sentence": "Dobbiamo cambiare treno. (We must change trains.)"
+                },
+                {
+                    "word": "Smarrire",
+                    "reading": "smar-REE-ray",
+                    "meaning": "To lose/misplace",
+                    "example_sentence": "Ho smarrito le mie chiavi. (I misplaced my keys.)"
+                },
+                {
+                    "word": "Confermare",
+                    "reading": "kon-fer-MA-ray",
+                    "meaning": "To confirm",
+                    "example_sentence": "Devo confermare l'hotel. (I must confirm the hotel.)"
+                },
+                {
+                    "word": "Annullare",
+                    "reading": "an-nool-LA-ray",
+                    "meaning": "To cancel",
+                    "example_sentence": "Posso annullare la prenotazione? (Can I cancel the reservation?)"
+                },
+                {
+                    "word": "Ritardare",
+                    "reading": "ree-tar-DA-ray",
+                    "meaning": "To delay",
+                    "example_sentence": "Il treno può ritardare. (The train may delay.)"
+                },
+                {
+                    "word": "Accelerare",
+                    "reading": "at-chay-lay-RA-ray",
+                    "meaning": "To speed up",
+                    "example_sentence": "Bisogna accelerare. (We need to speed up.)"
+                },
+                {
+                    "word": "Rallentare",
+                    "reading": "ral-len-TA-ray",
+                    "meaning": "To slow down",
+                    "example_sentence": "Devi rallentare. (You must slow down.)"
+                },
+                {
+                    "word": "Esplorare",
+                    "reading": "ays-plo-RA-ray",
+                    "meaning": "To explore",
+                    "example_sentence": "Vogliamo esplorare la città. (We want to explore the city.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "Il ritardo",
+                    "reading": "eel ree-TAR-do",
+                    "meaning": "The delay",
+                    "example_sentence": "C'è un ritardo di un'ora. (There is a one-hour delay.)"
+                },
+                {
+                    "word": "In orario",
+                    "reading": "een o-RA-ryo",
+                    "meaning": "On time",
+                    "example_sentence": "Il treno è in orario. (The train is on time.)"
+                },
+                {
+                    "word": "Previsto",
+                    "reading": "pray-VEES-to",
+                    "meaning": "Scheduled / Expected",
+                    "example_sentence": "L'arrivo è previsto alle dieci. (Arrival is expected at ten.)"
+                },
+                {
+                    "word": "Soppresso",
+                    "reading": "sop-PRES-so",
+                    "meaning": "Cancelled (trains)",
+                    "example_sentence": "Il treno è stato soppresso. (The train has been cancelled.)"
+                },
+                {
+                    "word": "Sola andata",
+                    "reading": "SO-la an-DA-ta",
+                    "meaning": "One way",
+                    "example_sentence": "Preferisco un biglietto di sola andata. (I prefer a one-way ticket.)"
+                },
+                {
+                    "word": "Andata e ritorno",
+                    "reading": "an-DA-ta ay ree-TOR-no",
+                    "meaning": "Round trip",
+                    "example_sentence": "Compro un biglietto di andata e ritorno. (I buy a round-trip ticket.)"
+                },
+                {
+                    "word": "Prima classe",
+                    "reading": "PREE-ma KLAS-say",
+                    "meaning": "First class",
+                    "example_sentence": "Viaggio in prima classe. (I travel in first class.)"
+                },
+                {
+                    "word": "Seconda classe",
+                    "reading": "say-KON-da KLAS-say",
+                    "meaning": "Second class",
+                    "example_sentence": "La seconda classe è economica. (Second class is economical.)"
+                },
+                {
+                    "word": "Il posto",
+                    "reading": "eel POS-to",
+                    "meaning": "The seat",
+                    "example_sentence": "Il mio posto è occupato. (My seat is occupied.)"
+                },
+                {
+                    "word": "Il passeggero",
+                    "reading": "eel pas-say-JAY-ro",
+                    "meaning": "The passenger",
+                    "example_sentence": "C'è un passeggero stanco. (There is a tired passenger.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "Il navigatore",
+                    "reading": "eel na-vee-ga-TO-ray",
+                    "meaning": "The navigator/GPS",
+                    "example_sentence": "Uso il navigatore per non perdermi. (I use the GPS to not get lost.)"
+                },
+                {
+                    "word": "La guida turistica",
+                    "reading": "la GWEE-da too-REES-tee-ka",
+                    "meaning": "The tour guide",
+                    "example_sentence": "La guida turistica spiega bene. (The tour guide explains well.)"
+                },
+                {
+                    "word": "L'itinerario",
+                    "reading": "lee-tee-nay-RA-ryo",
+                    "meaning": "The itinerary",
+                    "example_sentence": "Seguiamo il nostro itinerario. (We follow our itinerary.)"
+                },
+                {
+                    "word": "La statua",
+                    "reading": "la STA-twa",
+                    "meaning": "The statue",
+                    "example_sentence": "La statua è bellissima. (The statue is very beautiful.)"
+                },
+                {
+                    "word": "Il castello",
+                    "reading": "eel kas-TEL-lo",
+                    "meaning": "The castle",
+                    "example_sentence": "Andiamo a visitare il castello. (Let's go visit the castle.)"
+                },
+                {
+                    "word": "La cattedrale",
+                    "reading": "la kat-tay-DRA-lay",
+                    "meaning": "The cathedral",
+                    "example_sentence": "La cattedrale è antica. (The cathedral is ancient.)"
+                },
+                {
+                    "word": "Il souvenir",
+                    "reading": "eel soo-vay-NEER",
+                    "meaning": "The souvenir",
+                    "example_sentence": "Compro un souvenir. (I buy a souvenir.)"
+                },
+                {
+                    "word": "La cartolina",
+                    "reading": "la kar-to-LEE-na",
+                    "meaning": "The postcard",
+                    "example_sentence": "Scrivo una cartolina. (I'm writing a postcard.)"
+                },
+                {
+                    "word": "Inquadrare",
+                    "reading": "een-kwa-DRA-ray",
+                    "meaning": "To frame/focus",
+                    "example_sentence": "Devo inquadrare bene. (I must frame/focus well.)"
+                },
+                {
+                    "word": "Ammirare",
+                    "reading": "am-mee-RA-ray",
+                    "meaning": "To admire",
+                    "example_sentence": "Ammiriamo il panorama. (We admire the view.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "All'estero",
+                    "reading": "al-LES-tay-ro",
+                    "meaning": "Abroad",
+                    "example_sentence": "Mi piace andare all'estero. (I like going abroad.)"
+                },
+                {
+                    "word": "Straniero",
+                    "reading": "stra-NYAY-ro",
+                    "meaning": "Foreigner",
+                    "example_sentence": "Lui è uno straniero. (He is a foreigner.)"
+                },
+                {
+                    "word": "Il confine",
+                    "reading": "eel kon-FEE-nay",
+                    "meaning": "The border",
+                    "example_sentence": "Attraversiamo il confine. (We cross the border.)"
+                },
+                {
+                    "word": "La dogana",
+                    "reading": "la do-GA-na",
+                    "meaning": "Customs",
+                    "example_sentence": "Passiamo dalla dogana. (We pass through customs.)"
+                },
+                {
+                    "word": "Pretendere",
+                    "reading": "pray-TEN-day-ray",
+                    "meaning": "To demand (NOT to pretend) [LIAR GAME: False Friend]",
+                    "example_sentence": "Non puoi pretendere troppo. (You cannot demand too much.) [LIAR GAME: NOT 'to pretend']"
+                },
+                {
+                    "word": "Fabbrica",
+                    "reading": "FAB-bree-ka",
+                    "meaning": "Factory (NOT fabric) [LIAR GAME: False Friend]",
+                    "example_sentence": "Lavora in una fabbrica. (He works in a factory.) [LIAR GAME: NOT 'fabric']"
+                },
+                {
+                    "word": "Suggestione",
+                    "reading": "sood-jes-TYO-nay",
+                    "meaning": "Influence/Fascination (NOT suggestion) [LIAR GAME: False Friend]",
+                    "example_sentence": "È solo una suggestione. (It's just an influence/fascination.) [LIAR GAME: NOT 'suggestion']"
+                },
+                {
+                    "word": "Il dizionario",
+                    "reading": "eel deet-tsyo-NA-ryo",
+                    "meaning": "The dictionary",
+                    "example_sentence": "Uso il dizionario. (I use the dictionary.)"
+                },
+                {
+                    "word": "L'assistenza",
+                    "reading": "las-sees-TEN-tsa",
+                    "meaning": "The assistance",
+                    "example_sentence": "Chiedo assistenza al personale. (I ask the staff for assistance.)"
+                },
+                {
+                    "word": "Il traguardo",
+                    "reading": "eel tra-GWAR-do",
+                    "meaning": "The goal / finish line",
+                    "example_sentence": "Siamo vicini al traguardo. (We are close to the goal.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Italian False Friends",
+        "question": "Your Italian boss says 'Non puoi pretendere un aumento.' What is he saying?",
+        "options": [
+            "You cannot pretend to get a raise",
+            "You cannot demand a raise",
+            "You cannot expect a raise",
+            "You cannot suggest a raise"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The Italian verb 'pretendere' is a false friend. It means 'to demand' or 'to claim,' NOT 'to pretend' (which is 'fingere'). This can lead to very awkward misunderstandings in professional contexts!"
+    }
+}

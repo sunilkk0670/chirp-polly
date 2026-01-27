@@ -1,0 +1,672 @@
+{
+    "moduleId": "ita_a1_m09",
+    "theme": "Nature & Environment",
+    "title": "Natura & Ambiente (Nature & Environment)",
+    "level": "a1",
+    "language": "italian",
+    "order": 9,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "Il creato",
+                    "reading": "eel kray-A-to",
+                    "meaning": "Nature / Creation",
+                    "example_sentence": "Dobbiamo rispettere il creato. (We must respect nature/creation.)"
+                },
+                {
+                    "word": "L'ambiente",
+                    "reading": "lam-BYEN-tay",
+                    "meaning": "Environment",
+                    "example_sentence": "L'ambiente è fragile. (The environment is fragile.)"
+                },
+                {
+                    "word": "Il mondo",
+                    "reading": "eel MON-do",
+                    "meaning": "The world",
+                    "example_sentence": "Il mondo è grande. (The world is big.)"
+                },
+                {
+                    "word": "Il cielo",
+                    "reading": "eel CHAY-lo",
+                    "meaning": "The sky",
+                    "example_sentence": "Il cielo è azzurro. (The sky is blue.)"
+                },
+                {
+                    "word": "La luce solare",
+                    "reading": "la LOO-chay so-LA-ray",
+                    "meaning": "Sunlight",
+                    "example_sentence": "La luce solare entra dalla finestra. (Sunlight enters through the window.)"
+                },
+                {
+                    "word": "Il plenilunio",
+                    "reading": "eel play-nee-LOO-nyo",
+                    "meaning": "The full moon",
+                    "example_sentence": "C'è il plenilunio stasera. (There is a full moon tonight.)"
+                },
+                {
+                    "word": "Le stelle",
+                    "reading": "lay STEL-lay",
+                    "meaning": "The stars",
+                    "example_sentence": "Le stelle brillano nel cielo. (The stars shine in the sky.)"
+                },
+                {
+                    "word": "La terra",
+                    "reading": "la TER-ra",
+                    "meaning": "The earth/ground",
+                    "example_sentence": "La terra è bagnata. (The ground is wet.)"
+                },
+                {
+                    "word": "Il litorale",
+                    "reading": "eel lee-to-RA-lay",
+                    "meaning": "The coastline / seashore",
+                    "example_sentence": "Il litorale italiano è bellissimo. (The Italian coastline is beautiful.)"
+                },
+                {
+                    "word": "L'oceano",
+                    "reading": "lo-CHAY-a-no",
+                    "meaning": "The ocean",
+                    "example_sentence": "L'oceano è profondo. (The ocean is deep.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "La riva",
+                    "reading": "la REE-va",
+                    "meaning": "The shore / bank",
+                    "example_sentence": "Camminiamo sulla riva del fiume. (We walk on the river bank.)"
+                },
+                {
+                    "word": "L'isola",
+                    "reading": "LEE-zo-la",
+                    "meaning": "The island",
+                    "example_sentence": "L'isola è deserta. (The island is deserted.)"
+                },
+                {
+                    "word": "Il ruscello",
+                    "reading": "eel roo-SHEL-lo",
+                    "meaning": "The brook / stream",
+                    "example_sentence": "L'acqua del ruscello è fresca. (The water of the brook is fresh.)"
+                },
+                {
+                    "word": "Lo stagno",
+                    "reading": "lo STAN-nyo",
+                    "meaning": "The pond",
+                    "example_sentence": "Ci sono delle rane nello stagno. (There are frogs in the pond.)"
+                },
+                {
+                    "word": "La vetta",
+                    "reading": "la VET-ta",
+                    "meaning": "The peak / summit",
+                    "example_sentence": "Abbiamo raggiunto la vetta. (We have reached the peak.)"
+                },
+                {
+                    "word": "La collina",
+                    "reading": "la kol-LEE-na",
+                    "meaning": "The hill",
+                    "example_sentence": "La casa è sulla collina. (The house is on the hill.)"
+                },
+                {
+                    "word": "La valle",
+                    "reading": "la VAL-lay",
+                    "meaning": "The valley",
+                    "example_sentence": "La valle è verde e silenziosa. (The valley is green and silent.)"
+                },
+                {
+                    "word": "Il bosco",
+                    "reading": "eel BOS-ko",
+                    "meaning": "The woods",
+                    "example_sentence": "Andiamo a raccogliere funghi nel bosco. (Let's go pick mushrooms in the woods.)"
+                },
+                {
+                    "word": "La foresta",
+                    "reading": "la fo-RES-ta",
+                    "meaning": "The forest",
+                    "example_sentence": "La foresta tropicale è fitta. (The tropical forest is dense.)"
+                },
+                {
+                    "word": "Il fusto",
+                    "reading": "eel FOOS-to",
+                    "meaning": "The trunk / stem",
+                    "example_sentence": "Il fusto dell'albero è marrone. (The trunk of the tree is brown.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "La foglia",
+                    "reading": "la FO-lya",
+                    "meaning": "The leaf",
+                    "example_sentence": "La foglia cade in autunno. (The leaf falls in autumn.)"
+                },
+                {
+                    "word": "Il petalo",
+                    "reading": "eel PAY-ta-lo",
+                    "meaning": "The petal",
+                    "example_sentence": "La rosa ha molti petali. (The rose has many petals.)"
+                },
+                {
+                    "word": "L'erba",
+                    "reading": "LER-ba",
+                    "meaning": "The grass",
+                    "example_sentence": "Mi siedo sull'erba. (I sit on the grass.)"
+                },
+                {
+                    "word": "La pianta",
+                    "reading": "la PYAN-ta",
+                    "meaning": "The plant",
+                    "example_sentence": "Devo innaffiare la pianta. (I must water the plant.)"
+                },
+                {
+                    "word": "La fauna",
+                    "reading": "la FOW-na",
+                    "meaning": "The fauna / animals",
+                    "example_sentence": "Proteggiamo la fauna locale. (Let's protect the local fauna.)"
+                },
+                {
+                    "word": "Il cucciolo",
+                    "reading": "eel KOO-cho-lo",
+                    "meaning": "The puppy / young animal",
+                    "example_sentence": "Il cucciolo gioca sempre. (The puppy/young animal always plays.)"
+                },
+                {
+                    "word": "Il felino",
+                    "reading": "eel fay-LEE-no",
+                    "meaning": "The feline",
+                    "example_sentence": "Il leone è un felino maestoso. (The lion is a majestic feline.)"
+                },
+                {
+                    "word": "Il passerotto",
+                    "reading": "eel pas-say-ROT-to",
+                    "meaning": "The sparrow / small bird",
+                    "example_sentence": "Il passerotto vola via. (The sparrow flies away.)"
+                },
+                {
+                    "word": "La squama",
+                    "reading": "la SKWA-ma",
+                    "meaning": "The scale (fish)",
+                    "example_sentence": "Il pesce ha le squame argentate. (The fish has silver scales.)"
+                },
+                {
+                    "word": "Il destriero",
+                    "reading": "eel des-TRYAY-ro",
+                    "meaning": "The steed / horse",
+                    "example_sentence": "Il cavaliere monta il suo destriero. (The knight mounts his steed.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "La mucca",
+                    "reading": "la MOOK-ka",
+                    "meaning": "The cow",
+                    "example_sentence": "La mucca dà il latte. (The cow gives milk.)"
+                },
+                {
+                    "word": "Il maiale",
+                    "reading": "eel ma-YA-lay",
+                    "meaning": "The pig",
+                    "example_sentence": "Il maiale mangia molto. (The pig eats a lot.)"
+                },
+                {
+                    "word": "La pecora",
+                    "reading": "la PAY-ko-ra",
+                    "meaning": "The sheep",
+                    "example_sentence": "La pecora ha la lana. (The sheep has wool.)"
+                },
+                {
+                    "word": "Il leone",
+                    "reading": "eel lay-O-nay",
+                    "meaning": "The lion",
+                    "example_sentence": "Il leone è il re della giungla. (The lion is the king of the jungle.)"
+                },
+                {
+                    "word": "La tigre",
+                    "reading": "la TEE-gray",
+                    "meaning": "The tiger",
+                    "example_sentence": "La tigre ha le strisce. (The tiger has stripes.)"
+                },
+                {
+                    "word": "L'elefante",
+                    "reading": "lay-lay-FAN-tay",
+                    "meaning": "The elephant",
+                    "example_sentence": "L'elefante è un animale grande. (The elephant is a big animal.)"
+                },
+                {
+                    "word": "La scimmia",
+                    "reading": "la SHEEM-mya",
+                    "meaning": "The monkey",
+                    "example_sentence": "La scimmia mangia la banana. (The monkey eats a banana.)"
+                },
+                {
+                    "word": "L'insetto",
+                    "reading": "leen-SET-to",
+                    "meaning": "The insect",
+                    "example_sentence": "L'insetto vola sopra il fiore. (The insect flies over the flower.)"
+                },
+                {
+                    "word": "La farfalla",
+                    "reading": "la far-FAL-la",
+                    "meaning": "The butterfly",
+                    "example_sentence": "La farfalla è colorata. (The butterfly is colorful.)"
+                },
+                {
+                    "word": "L'ape",
+                    "reading": "LA-pay",
+                    "meaning": "The bee",
+                    "example_sentence": "L'ape produce il miele. (The bee produces honey.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "Le previsioni",
+                    "reading": "lay pray-vee-ZYO-nee",
+                    "meaning": "The forecast",
+                    "example_sentence": "Guardo le previsioni del tempo. (I am watching the weather forecast.)"
+                },
+                {
+                    "word": "Fa caldo",
+                    "reading": "fa KAL-do",
+                    "meaning": "It is hot",
+                    "example_sentence": "Oggi fa molto caldo. (Today it's very hot.)"
+                },
+                {
+                    "word": "Fa freddo",
+                    "reading": "fa FRED-do",
+                    "meaning": "It is cold",
+                    "example_sentence": "Fa troppo freddo stasera. (It's too cold tonight.)"
+                },
+                {
+                    "word": "C'è il sole",
+                    "reading": "chay eel SO-lay",
+                    "meaning": "It is sunny",
+                    "example_sentence": "C'è il sole, andiamo al parco. (It's sunny, let's go to the park.)"
+                },
+                {
+                    "word": "È nuvoloso",
+                    "reading": "ay noo-vo-LO-zo",
+                    "meaning": "It is cloudy",
+                    "example_sentence": "È nuvoloso, forse piove. (It's cloudy, maybe it will rain.)"
+                },
+                {
+                    "word": "Piove",
+                    "reading": "PYO-vay",
+                    "meaning": "It is raining",
+                    "example_sentence": "Piove, prendi l'ombrello. (It's raining, take the umbrella.)"
+                },
+                {
+                    "word": "Nevica",
+                    "reading": "NAY-vee-ka",
+                    "meaning": "It is snowing",
+                    "example_sentence": "Nevica in montagna. (It's snowing in the mountains.)"
+                },
+                {
+                    "word": "Tira vento",
+                    "reading": "TEE-ra VEN-to",
+                    "meaning": "It is windy",
+                    "example_sentence": "Tira un vento forte. (A strong wind is blowing.)"
+                },
+                {
+                    "word": "Il temporale",
+                    "reading": "eel tem-po-RA-lay",
+                    "meaning": "The storm",
+                    "example_sentence": "C'è un temporale in arrivo. (There is a storm coming.)"
+                },
+                {
+                    "word": "L'arcobaleno",
+                    "reading": "lar-ko-ba-LAY-no",
+                    "meaning": "The rainbow",
+                    "example_sentence": "Dopo la pioggia esce l'arcobaleno. (After the rain, the rainbow comes out.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "La stagione",
+                    "reading": "la sta-TSYO-nay",
+                    "meaning": "The season",
+                    "example_sentence": "Qual è la tua stagione preferita? (What's your favorite season?)"
+                },
+                {
+                    "word": "La primavera",
+                    "reading": "la pree-ma-VAY-ra",
+                    "meaning": "Spring",
+                    "example_sentence": "In primavera sbocciano i fiori. (In spring, flowers bloom.)"
+                },
+                {
+                    "word": "L'estate",
+                    "reading": "les-TA-tay",
+                    "meaning": "Summer",
+                    "example_sentence": "In estate andiamo al mare. (In summer we go to the sea.)"
+                },
+                {
+                    "word": "L'autunno",
+                    "reading": "low-TOON-no",
+                    "meaning": "Autumn",
+                    "example_sentence": "In autunno cadono le foglie. (In autumn, leaves fall.)"
+                },
+                {
+                    "word": "L'inverno",
+                    "reading": "leen-VER-no",
+                    "meaning": "Winter",
+                    "example_sentence": "L'inverno è molto freddo. (Winter is very cold.)"
+                },
+                {
+                    "word": "L'aria",
+                    "reading": "LA-rya",
+                    "meaning": "The air",
+                    "example_sentence": "L'aria di montagna è pulita. (The mountain air is clean.)"
+                },
+                {
+                    "word": "Il fuoco",
+                    "reading": "eel FWOH-ko",
+                    "meaning": "The fire",
+                    "example_sentence": "Accendiamo il fuoco. (Let's light the fire.)"
+                },
+                {
+                    "word": "La sorgente",
+                    "reading": "la sor-JEN-tay",
+                    "meaning": "The spring / source",
+                    "example_sentence": "L'acqua sgorga dalla sorgente. (The water flows from the spring.)"
+                },
+                {
+                    "word": "La sabbia",
+                    "reading": "la SAB-bya",
+                    "meaning": "The sand",
+                    "example_sentence": "La sabbia è calda. (The sand is hot.)"
+                },
+                {
+                    "word": "La pietra",
+                    "reading": "la PYAY-tra",
+                    "meaning": "The stone",
+                    "example_sentence": "Lancio una pietra nell'acqua. (I throw a stone into the water.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "Il vulcano",
+                    "reading": "eel voul-KA-no",
+                    "meaning": "The volcano",
+                    "example_sentence": "Il vulcano Etna è attivo. (The Etna volcano is active.)"
+                },
+                {
+                    "word": "Il terremoto",
+                    "reading": "eel ter-ray-MO-to",
+                    "meaning": "The earthquake",
+                    "example_sentence": "Il terremoto è pericoloso. (The earthquake is dangerous.)"
+                },
+                {
+                    "word": "Il clima",
+                    "reading": "eel KLEE-ma",
+                    "meaning": "The climate",
+                    "example_sentence": "Il clima sta cambiando. (The climate is changing.)"
+                },
+                {
+                    "word": "L'ecologia",
+                    "reading": "lay-ko-lo-JEE-a",
+                    "meaning": "Ecology",
+                    "example_sentence": "Studiamo l'ecologia a scuola. (We study ecology at school.)"
+                },
+                {
+                    "word": "Riciclare",
+                    "reading": "ree-chee-KLA-ray",
+                    "meaning": "To recycle",
+                    "example_sentence": "Dobbiamo riciclare la plastica. (We must recycle plastic.)"
+                },
+                {
+                    "word": "Proteggere",
+                    "reading": "pro-TED-jay-ray",
+                    "meaning": "To protect",
+                    "example_sentence": "Dobbiamo proteggere la natura. (We must protect nature.)"
+                },
+                {
+                    "word": "Inquinare",
+                    "reading": "een-kwee-NA-ray",
+                    "meaning": "To pollute",
+                    "example_sentence": "Non dobbiamo inquinare l'ambiente. (We must not pollute the environment.)"
+                },
+                {
+                    "word": "La plastica",
+                    "reading": "la PLAS-tee-ka",
+                    "meaning": "Plastic",
+                    "example_sentence": "C'è troppa plastica nell'oceano. (There is too much plastic in the ocean.)"
+                },
+                {
+                    "word": "La carta",
+                    "reading": "la KAR-ta",
+                    "meaning": "Paper",
+                    "example_sentence": "Usa meno carta. (Use less paper.)"
+                },
+                {
+                    "word": "Il vetro",
+                    "reading": "eel VAY-tro",
+                    "meaning": "Glass",
+                    "example_sentence": "Il vetro si può riciclare. (Glass can be recycled.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "L'energia",
+                    "reading": "lay-ner-JEE-a",
+                    "meaning": "Energy",
+                    "example_sentence": "Usiamo l'energia solare. (We use solar energy.)"
+                },
+                {
+                    "word": "Il parco naturale",
+                    "reading": "eel PAR-ko na-too-RA-lay",
+                    "meaning": "Natural park",
+                    "example_sentence": "Visitiamo il parco naturale. (Let's visit the natural park.)"
+                },
+                {
+                    "word": "Il prato",
+                    "reading": "eel PRA-to",
+                    "meaning": "The meadow / lawn",
+                    "example_sentence": "Il prato è pieno di margherite. (The meadow is full of daisies.)"
+                },
+                {
+                    "word": "L'azienda agricola",
+                    "reading": "lad-ZYEN-da a-GREE-ko-la",
+                    "meaning": "The farm / agricultural business",
+                    "example_sentence": "Mio nonno ha un'azienda agricola. (My grandfather has a farm.)"
+                },
+                {
+                    "word": "Il contadino",
+                    "reading": "eel kon-ta-DEE-no",
+                    "meaning": "The farmer",
+                    "example_sentence": "Il contadino lavora la terra. (The farmer works the land.)"
+                },
+                {
+                    "word": "Seminare",
+                    "reading": "say-mee-NA-ray",
+                    "meaning": "To sow",
+                    "example_sentence": "Seminiamo il grano a novembre. (We sow the wheat in November.)"
+                },
+                {
+                    "word": "Raccogliere",
+                    "reading": "rak-KO-lyay-ray",
+                    "meaning": "To harvest / pick",
+                    "example_sentence": "Raccogliamo le mele. (We pick the apples.)"
+                },
+                {
+                    "word": "Svilupparsi",
+                    "reading": "zvee-loop-PAR-see",
+                    "meaning": "To develop / flourish",
+                    "example_sentence": "Le città si sviluppano in fretta. (Cities develop fast.)"
+                },
+                {
+                    "word": "Fiorire",
+                    "reading": "fyo-REE-ray",
+                    "meaning": "To bloom",
+                    "example_sentence": "I fiori iniziano a fiorire. (The flowers are starting to bloom.)"
+                },
+                {
+                    "word": "L'ovile",
+                    "reading": "lo-VEE-lay",
+                    "meaning": "The sheepfold",
+                    "example_sentence": "Le pecore sono nell'ovile. (The sheep are in the sheepfold.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "L'alba",
+                    "reading": "LAL-ba",
+                    "meaning": "The dawn",
+                    "example_sentence": "L'alba è il momento più bello. (The dawn is the most beautiful moment.)"
+                },
+                {
+                    "word": "Il tramonto",
+                    "reading": "eel tra-MON-to",
+                    "meaning": "The sunset",
+                    "example_sentence": "Ammiriamo il tramonto sul mare. (Let's admire the sunset on the sea.)"
+                },
+                {
+                    "word": "Il paesaggio",
+                    "reading": "eel pa-ay-ZAD-jo",
+                    "meaning": "The landscape",
+                    "example_sentence": "Il paesaggio è mozzafiato. (The landscape is breathtaking.)"
+                },
+                {
+                    "word": "La vista",
+                    "reading": "la VEES-ta",
+                    "meaning": "The view",
+                    "example_sentence": "C'è una vista stupenda. (There is a wonderful view.)"
+                },
+                {
+                    "word": "L'orizzonte",
+                    "reading": "lo-reed-ZON-tay",
+                    "meaning": "The horizon",
+                    "example_sentence": "Guarda l'orizzonte! (Look at the horizon!)"
+                },
+                {
+                    "word": "Splendido",
+                    "reading": "SPLEN-dee-do",
+                    "meaning": "Beautiful / Splendid",
+                    "example_sentence": "È uno splendido paesaggio. (It is a beautiful landscape.)"
+                },
+                {
+                    "word": "Incredibile",
+                    "reading": "een-kray-DEE-bee-lay",
+                    "meaning": "Incredible",
+                    "example_sentence": "La natura è incredibile. (Nature is incredible.)"
+                },
+                {
+                    "word": "Selvaggio",
+                    "reading": "sel-VAD-jo",
+                    "meaning": "Wild",
+                    "example_sentence": "È un posto selvaggio. (It is a wild place.)"
+                },
+                {
+                    "word": "Tranquillo",
+                    "reading": "tran-KWIL-lo",
+                    "meaning": "Quiet / Calm",
+                    "example_sentence": "Il lago è tranquillo stasera. (The lake is calm tonight.)"
+                },
+                {
+                    "word": "Rumoroso",
+                    "reading": "roo-mo-RO-zo",
+                    "meaning": "Noisy",
+                    "example_sentence": "Il mare è rumoroso oggi. (The sea is noisy today.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "Inquinato",
+                    "reading": "een-kwee-NA-to",
+                    "meaning": "Polluted",
+                    "example_sentence": "L'aria è molto inquinata. (The air is very polluted.)"
+                },
+                {
+                    "word": "Puro",
+                    "reading": "POO-ro",
+                    "meaning": "Pure",
+                    "example_sentence": "Bevo acqua pura. (I drink pure water.)"
+                },
+                {
+                    "word": "Fresco",
+                    "reading": "FRES-ko",
+                    "meaning": "Fresh",
+                    "example_sentence": "Mi piace l'aria fresca. (I like fresh air.)"
+                },
+                {
+                    "word": "Umidità",
+                    "reading": "oo-mee-dee-TA",
+                    "meaning": "Humidity",
+                    "example_sentence": "C'è molta umidità. (There is a lot of humidity.)"
+                },
+                {
+                    "word": "Ghiaccio",
+                    "reading": "GYAD-cho",
+                    "meaning": "Ice",
+                    "example_sentence": "C'è del ghiaccio sulla strada. (There is some ice on the road.)"
+                },
+                {
+                    "word": "Il podere",
+                    "reading": "eel po-DAY-ray",
+                    "meaning": "Farm / Estate [LIAR GAME: link]",
+                    "example_sentence": "Lui vive in un podere. (He lives on a farm/estate.)"
+                },
+                {
+                    "word": "Il quesito",
+                    "reading": "eel kway-ZEE-to",
+                    "meaning": "Topic / Issue [LIAR GAME: link]",
+                    "example_sentence": "Rispondi al quesito. (Answer the question/issue.)"
+                },
+                {
+                    "word": "Il vano",
+                    "reading": "eel VA-no",
+                    "meaning": "Room / Space [LIAR GAME: link]",
+                    "example_sentence": "Entra nel primo vano. (Enter the first room/space.)"
+                },
+                {
+                    "word": "Rispetto",
+                    "reading": "ree-SPET-to",
+                    "meaning": "Respect",
+                    "example_sentence": "Porta rispetto per gli altri. (Show respect for others.)"
+                },
+                {
+                    "word": "Il compimento",
+                    "reading": "eel kom-pee-MEN-to",
+                    "meaning": "The completion / end",
+                    "example_sentence": "Siamo arrivati al compimento del lavoro. (We have reached the completion of the work.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Italian Environment False Friends",
+        "question": "If you are visiting a 'Fattoria' in Italy, where are you?",
+        "options": [
+            "At a large industrial factory",
+            "At a rural farm",
+            "At a fashion studio",
+            "At a government office"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The Italian word 'Fattoria' is a false friend for English speakers. It means 'Farm,' NOT 'Factory' (which is 'Fabbrica'). This is an essential distinction for anyone traveling to the Italian countryside!"
+    }
+}

@@ -1,0 +1,690 @@
+{
+    "moduleId": "ita_a1_m01",
+    "theme": "Core Essentials & Articles",
+    "title": "Primi Passi (Beginner A1)",
+    "level": "a1",
+    "language": "italian",
+    "order": 1,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "Ciao",
+                    "reading": "CHOW",
+                    "meaning": "Hello / Bye",
+                    "example_sentence": "Ciao! Come stai? (Hello! How are you?)"
+                },
+                {
+                    "word": "Buongiorno",
+                    "reading": "bwon-JOR-no",
+                    "meaning": "Good morning",
+                    "example_sentence": "Buongiorno! Hai dormito bene? (Good morning! Did you sleep well?)"
+                },
+                {
+                    "word": "Buonasera",
+                    "reading": "bwon-a-SAY-ra",
+                    "meaning": "Good evening",
+                    "example_sentence": "Buonasera, signora! (Good evening, madam!)"
+                },
+                {
+                    "word": "Buonanotte",
+                    "reading": "bwon-a-NOT-tay",
+                    "meaning": "Good night",
+                    "example_sentence": "Buonanotte! Sogni d'oro! (Good night! Sweet dreams!)"
+                },
+                {
+                    "word": "Per favore",
+                    "reading": "per fa-VO-ray",
+                    "meaning": "Please",
+                    "example_sentence": "Per favore, aiutami! (Please, help me!)"
+                },
+                {
+                    "word": "Grazie",
+                    "reading": "GRAT-zyay",
+                    "meaning": "Thanks",
+                    "example_sentence": "Grazie mille per il tuo aiuto! (Thanks a lot for your help!)"
+                },
+                {
+                    "word": "Prego",
+                    "reading": "PRAY-go",
+                    "meaning": "You're welcome",
+                    "example_sentence": "Grazie! - Prego! (Thanks! - You're welcome!)"
+                },
+                {
+                    "word": "Sì",
+                    "reading": "see",
+                    "meaning": "Yes",
+                    "example_sentence": "Sì, sono d'accordo. (Yes, I agree.)"
+                },
+                {
+                    "word": "No",
+                    "reading": "no",
+                    "meaning": "No",
+                    "example_sentence": "No, non è vero. (No, it's not true.)"
+                },
+                {
+                    "word": "Scusa",
+                    "reading": "SKOO-zah",
+                    "meaning": "Sorry / Excuse me (informal)",
+                    "example_sentence": "Scusa, non volevo disturbarti. (Sorry, I didn't mean to disturb you.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "Mi scusi",
+                    "reading": "mee SKOO-zee",
+                    "meaning": "Excuse me (formal)",
+                    "example_sentence": "Mi scusi, dov'è la stazione? (Excuse me, where is the station?)"
+                },
+                {
+                    "word": "Piacere",
+                    "reading": "pya-CHAY-ray",
+                    "meaning": "Nice to meet you",
+                    "example_sentence": "Piacere di conoscerti! (Nice to meet you!)"
+                },
+                {
+                    "word": "Come va?",
+                    "reading": "KO-may va",
+                    "meaning": "How is it going?",
+                    "example_sentence": "Ciao! Come va? (Hi! How is it going?)"
+                },
+                {
+                    "word": "Bene",
+                    "reading": "BAY-nay",
+                    "meaning": "Well / Good",
+                    "example_sentence": "Sto bene, grazie! (I'm well, thanks!)"
+                },
+                {
+                    "word": "Chi?",
+                    "reading": "kee",
+                    "meaning": "Who?",
+                    "example_sentence": "Chi è quella persona? (Who is that person?)"
+                },
+                {
+                    "word": "Cosa?",
+                    "reading": "KO-zah",
+                    "meaning": "What?",
+                    "example_sentence": "Cosa fai oggi? (What are you doing today?)"
+                },
+                {
+                    "word": "Dove?",
+                    "reading": "DO-vay",
+                    "meaning": "Where?",
+                    "example_sentence": "Dove abiti? (Where do you live?)"
+                },
+                {
+                    "word": "Quando?",
+                    "reading": "KWAN-do",
+                    "meaning": "When?",
+                    "example_sentence": "Quando arrivi? (When are you arriving?)"
+                },
+                {
+                    "word": "Perché?",
+                    "reading": "per-KAY",
+                    "meaning": "Why?",
+                    "example_sentence": "Perché sei triste? (Why are you sad?)"
+                },
+                {
+                    "word": "Come?",
+                    "reading": "KO-may",
+                    "meaning": "How?",
+                    "example_sentence": "Come stai? (How are you?)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "Io",
+                    "reading": "EE-o",
+                    "meaning": "I",
+                    "example_sentence": "Io sono uno studente. (I am a student.)"
+                },
+                {
+                    "word": "Tu",
+                    "reading": "too",
+                    "meaning": "You (informal)",
+                    "example_sentence": "Tu sei il mio amico. (You are my friend.)"
+                },
+                {
+                    "word": "Lui / Lei",
+                    "reading": "LWEE / LAY",
+                    "meaning": "He / She",
+                    "example_sentence": "Lui è alto. Lei è bella. (He is tall. She is beautiful.)"
+                },
+                {
+                    "word": "Noi",
+                    "reading": "noy",
+                    "meaning": "We",
+                    "example_sentence": "Noi studiamo l'italiano. (We study Italian.)"
+                },
+                {
+                    "word": "Voi",
+                    "reading": "voy",
+                    "meaning": "You (plural)",
+                    "example_sentence": "Voi siete studenti. (You are students.)"
+                },
+                {
+                    "word": "Loro",
+                    "reading": "LO-ro",
+                    "meaning": "They",
+                    "example_sentence": "Loro sono italiani. (They are Italian.)"
+                },
+                {
+                    "word": "Essere",
+                    "reading": "ES-say-ray",
+                    "meaning": "To be",
+                    "example_sentence": "Io sono felice. (I am happy.)"
+                },
+                {
+                    "word": "Avere",
+                    "reading": "a-VAY-ray",
+                    "meaning": "To have",
+                    "example_sentence": "Io ho un cane. (I have a dog.)"
+                },
+                {
+                    "word": "Il ragazzo",
+                    "reading": "eel ra-GAT-tso",
+                    "meaning": "The boy",
+                    "example_sentence": "Il ragazzo gioca a calcio. (The boy plays soccer.)"
+                },
+                {
+                    "word": "La ragazza",
+                    "reading": "la ra-GAT-tsa",
+                    "meaning": "The girl",
+                    "example_sentence": "La ragazza legge un libro. (The girl reads a book.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "L'uomo",
+                    "reading": "LWOH-mo",
+                    "meaning": "The man",
+                    "example_sentence": "L'uomo lavora in ufficio. (The man works in an office.)"
+                },
+                {
+                    "word": "La donna",
+                    "reading": "la DON-na",
+                    "meaning": "The woman",
+                    "example_sentence": "La donna cucina la cena. (The woman cooks dinner.)"
+                },
+                {
+                    "word": "L'amico",
+                    "reading": "la-MEE-ko",
+                    "meaning": "The friend (male)",
+                    "example_sentence": "L'amico mi aiuta sempre. (The friend always helps me.)"
+                },
+                {
+                    "word": "L'amica",
+                    "reading": "la-MEE-ka",
+                    "meaning": "The friend (female)",
+                    "example_sentence": "L'amica viene a casa mia. (The friend comes to my house.)"
+                },
+                {
+                    "word": "Mangiare",
+                    "reading": "man-JA-ray",
+                    "meaning": "To eat",
+                    "example_sentence": "Io mangio la pizza. (I eat pizza.)"
+                },
+                {
+                    "word": "Bere",
+                    "reading": "BAY-ray",
+                    "meaning": "To drink",
+                    "example_sentence": "Noi beviamo l'acqua. (We drink water.)"
+                },
+                {
+                    "word": "Acqua",
+                    "reading": "AK-kwa",
+                    "meaning": "Water",
+                    "example_sentence": "L'acqua è fresca. (The water is fresh.)"
+                },
+                {
+                    "word": "Pane",
+                    "reading": "PA-nay",
+                    "meaning": "Bread",
+                    "example_sentence": "Il pane è caldo. (The bread is warm.)"
+                },
+                {
+                    "word": "Caffè",
+                    "reading": "kaf-FAY",
+                    "meaning": "Coffee",
+                    "example_sentence": "Il caffè è forte. (The coffee is strong.)"
+                },
+                {
+                    "word": "Latte",
+                    "reading": "LAT-tay",
+                    "meaning": "Milk",
+                    "example_sentence": "Il latte è nel frigorifero. (The milk is in the refrigerator.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "Vino",
+                    "reading": "VEE-no",
+                    "meaning": "Wine",
+                    "example_sentence": "Il vino rosso è buono. (The red wine is good.)"
+                },
+                {
+                    "word": "Birra",
+                    "reading": "BEER-ra",
+                    "meaning": "Beer",
+                    "example_sentence": "La birra è fredda. (The beer is cold.)"
+                },
+                {
+                    "word": "Parlare",
+                    "reading": "par-LA-ray",
+                    "meaning": "To speak",
+                    "example_sentence": "Io parlo italiano. (I speak Italian.)"
+                },
+                {
+                    "word": "Capire",
+                    "reading": "ka-PEE-ray",
+                    "meaning": "To understand",
+                    "example_sentence": "Tu capisci l'italiano? (Do you understand Italian?)"
+                },
+                {
+                    "word": "Imparare",
+                    "reading": "im-pa-RA-ray",
+                    "meaning": "To learn",
+                    "example_sentence": "Noi impariamo l'italiano. (We learn Italian.)"
+                },
+                {
+                    "word": "Leggere",
+                    "reading": "LED-jay-ray",
+                    "meaning": "To read",
+                    "example_sentence": "Io leggo il giornale. (I read the newspaper.)"
+                },
+                {
+                    "word": "Scrivere",
+                    "reading": "SKREE-vay-ray",
+                    "meaning": "To write",
+                    "example_sentence": "Lei scrive una lettera. (She writes a letter.)"
+                },
+                {
+                    "word": "Libro",
+                    "reading": "LEE-bro",
+                    "meaning": "Book",
+                    "example_sentence": "Il libro è interessante. (The book is interesting.)"
+                },
+                {
+                    "word": "Giornale",
+                    "reading": "jor-NA-lay",
+                    "meaning": "Newspaper",
+                    "example_sentence": "Leggo il giornale ogni mattina. (I read the newspaper every morning.)"
+                },
+                {
+                    "word": "Andare",
+                    "reading": "an-DA-ray",
+                    "meaning": "To go",
+                    "example_sentence": "Io vado a casa. (I go home.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "Venire",
+                    "reading": "vay-NEE-ray",
+                    "meaning": "To come",
+                    "example_sentence": "Tu vieni con me? (Are you coming with me?)"
+                },
+                {
+                    "word": "Qui / Qua",
+                    "reading": "kwee / kwa",
+                    "meaning": "Here",
+                    "example_sentence": "Io sono qui. (I am here.)"
+                },
+                {
+                    "word": "Lì / Là",
+                    "reading": "lee / la",
+                    "meaning": "There",
+                    "example_sentence": "La casa è là. (The house is there.)"
+                },
+                {
+                    "word": "Sinistra",
+                    "reading": "see-NEES-tra",
+                    "meaning": "Left",
+                    "example_sentence": "Gira a sinistra. (Turn left.)"
+                },
+                {
+                    "word": "Destra",
+                    "reading": "DES-tra",
+                    "meaning": "Right",
+                    "example_sentence": "La banca è a destra. (The bank is on the right.)"
+                },
+                {
+                    "word": "Dritto",
+                    "reading": "DREET-to",
+                    "meaning": "Straight",
+                    "example_sentence": "Vai dritto per due chilometri. (Go straight for two kilometers.)"
+                },
+                {
+                    "word": "Casa",
+                    "reading": "KA-za",
+                    "meaning": "House",
+                    "example_sentence": "La mia casa è grande. (My house is big.)"
+                },
+                {
+                    "word": "Città",
+                    "reading": "chit-TA",
+                    "meaning": "City",
+                    "example_sentence": "La città è bella. (The city is beautiful.)"
+                },
+                {
+                    "word": "Strada",
+                    "reading": "STRA-da",
+                    "meaning": "Street",
+                    "example_sentence": "La strada è lunga. (The street is long.)"
+                },
+                {
+                    "word": "Stazione",
+                    "reading": "sta-TSYO-nay",
+                    "meaning": "Station",
+                    "example_sentence": "La stazione è vicina. (The station is near.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "Aeroporto",
+                    "reading": "a-ay-ro-POR-to",
+                    "meaning": "Airport",
+                    "example_sentence": "L'aeroporto è lontano. (The airport is far.)"
+                },
+                {
+                    "word": "Macchina",
+                    "reading": "MAK-kee-na",
+                    "meaning": "Car",
+                    "example_sentence": "La macchina è nuova. (The car is new.)"
+                },
+                {
+                    "word": "Treno",
+                    "reading": "TRAY-no",
+                    "meaning": "Train",
+                    "example_sentence": "Il treno arriva alle dieci. (The train arrives at ten.)"
+                },
+                {
+                    "word": "Soldi",
+                    "reading": "SOL-dee",
+                    "meaning": "Money",
+                    "example_sentence": "Non ho soldi. (I don't have money.)"
+                },
+                {
+                    "word": "Pagare",
+                    "reading": "pa-GA-ray",
+                    "meaning": "To pay",
+                    "example_sentence": "Devo pagare il conto. (I have to pay the bill.)"
+                },
+                {
+                    "word": "Comprare",
+                    "reading": "kom-PRA-ray",
+                    "meaning": "To buy",
+                    "example_sentence": "Voglio comprare un libro. (I want to buy a book.)"
+                },
+                {
+                    "word": "Costoso",
+                    "reading": "kos-TO-zo",
+                    "meaning": "Expensive",
+                    "example_sentence": "Questo ristorante è costoso. (This restaurant is expensive.)"
+                },
+                {
+                    "word": "Economico",
+                    "reading": "ay-ko-NO-mee-ko",
+                    "meaning": "Cheap",
+                    "example_sentence": "Il pane è economico. (The bread is cheap.)"
+                },
+                {
+                    "word": "Grande",
+                    "reading": "GRAN-day",
+                    "meaning": "Big",
+                    "example_sentence": "La casa è grande. (The house is big.)"
+                },
+                {
+                    "word": "Piccolo",
+                    "reading": "PEEK-ko-lo",
+                    "meaning": "Small",
+                    "example_sentence": "Il gatto è piccolo. (The cat is small.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "Buono",
+                    "reading": "BWOH-no",
+                    "meaning": "Good",
+                    "example_sentence": "Il cibo è buono. (The food is good.)"
+                },
+                {
+                    "word": "Cattivo",
+                    "reading": "kat-TEE-vo",
+                    "meaning": "Bad",
+                    "example_sentence": "Il tempo è cattivo. (The weather is bad.)"
+                },
+                {
+                    "word": "Bello",
+                    "reading": "BEL-lo",
+                    "meaning": "Beautiful",
+                    "example_sentence": "Il panorama è bello. (The view is beautiful.)"
+                },
+                {
+                    "word": "Brutto",
+                    "reading": "BROOT-to",
+                    "meaning": "Ugly",
+                    "example_sentence": "Il tempo è brutto oggi. (The weather is ugly today.)"
+                },
+                {
+                    "word": "Nuovo",
+                    "reading": "NWOH-vo",
+                    "meaning": "New",
+                    "example_sentence": "Ho un telefono nuovo. (I have a new phone.)"
+                },
+                {
+                    "word": "Vecchio",
+                    "reading": "VEK-kyo",
+                    "meaning": "Old",
+                    "example_sentence": "La chiesa è vecchia. (The church is old.)"
+                },
+                {
+                    "word": "Oggi",
+                    "reading": "OD-jee",
+                    "meaning": "Today",
+                    "example_sentence": "Oggi è lunedì. (Today is Monday.)"
+                },
+                {
+                    "word": "Domani",
+                    "reading": "do-MA-nee",
+                    "meaning": "Tomorrow",
+                    "example_sentence": "Domani vado al lavoro. (Tomorrow I go to work.)"
+                },
+                {
+                    "word": "Ieri",
+                    "reading": "YAY-ree",
+                    "meaning": "Yesterday",
+                    "example_sentence": "Ieri era domenica. (Yesterday was Sunday.)"
+                },
+                {
+                    "word": "Ora / Adesso",
+                    "reading": "O-ra / a-DES-so",
+                    "meaning": "Now",
+                    "example_sentence": "Devo andare ora. (I have to go now.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "Più tardi",
+                    "reading": "pyoo TAR-dee",
+                    "meaning": "Later",
+                    "example_sentence": "Ci vediamo più tardi. (See you later.)"
+                },
+                {
+                    "word": "Tempo",
+                    "reading": "TEM-po",
+                    "meaning": "Time",
+                    "example_sentence": "Non ho tempo. (I don't have time.)"
+                },
+                {
+                    "word": "Giorno",
+                    "reading": "JOR-no",
+                    "meaning": "Day",
+                    "example_sentence": "Oggi è un bel giorno. (Today is a beautiful day.)"
+                },
+                {
+                    "word": "Settimana",
+                    "reading": "set-tee-MA-na",
+                    "meaning": "Week",
+                    "example_sentence": "La prossima settimana vado in vacanza. (Next week I go on vacation.)"
+                },
+                {
+                    "word": "Mese",
+                    "reading": "MAY-zay",
+                    "meaning": "Month",
+                    "example_sentence": "Questo mese è gennaio. (This month is January.)"
+                },
+                {
+                    "word": "Anno",
+                    "reading": "AN-no",
+                    "meaning": "Year",
+                    "example_sentence": "Quest'anno è il 2026. (This year is 2026.)"
+                },
+                {
+                    "word": "Uno",
+                    "reading": "OO-no",
+                    "meaning": "One",
+                    "example_sentence": "Ho uno zaino. (I have one backpack.)"
+                },
+                {
+                    "word": "Due",
+                    "reading": "DOO-ay",
+                    "meaning": "Two",
+                    "example_sentence": "Ho due fratelli. (I have two brothers.)"
+                },
+                {
+                    "word": "Tre",
+                    "reading": "tray",
+                    "meaning": "Three",
+                    "example_sentence": "Ci sono tre gatti. (There are three cats.)"
+                },
+                {
+                    "word": "Dieci",
+                    "reading": "DYAY-chee",
+                    "meaning": "Ten",
+                    "example_sentence": "Sono le dieci. (It's ten o'clock.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "Cento",
+                    "reading": "CHEN-to",
+                    "meaning": "Hundred",
+                    "example_sentence": "Costa cento euro. (It costs one hundred euros.)"
+                },
+                {
+                    "word": "Mille",
+                    "reading": "MEEL-lay",
+                    "meaning": "Thousand",
+                    "example_sentence": "Ho mille euro. (I have one thousand euros.)"
+                },
+                {
+                    "word": "Stanco",
+                    "reading": "STAN-ko",
+                    "meaning": "Tired",
+                    "example_sentence": "Sono molto stanco. (I am very tired.)"
+                },
+                {
+                    "word": "Felice",
+                    "reading": "fay-LEE-chay",
+                    "meaning": "Happy",
+                    "example_sentence": "Sono felice di vederti. (I am happy to see you.)"
+                },
+                {
+                    "word": "Triste",
+                    "reading": "TREES-tay",
+                    "meaning": "Sad",
+                    "example_sentence": "Perché sei triste? (Why are you sad?)"
+                },
+                {
+                    "word": "Caldo",
+                    "reading": "KAL-do",
+                    "meaning": "Hot / Warm",
+                    "example_sentence": "Fa caldo oggi. (It's hot today.)"
+                },
+                {
+                    "word": "Freddo",
+                    "reading": "FRED-do",
+                    "meaning": "Cold",
+                    "example_sentence": "L'acqua è fredda. (The water is cold.)"
+                },
+                {
+                    "word": "Aperto",
+                    "reading": "a-PER-to",
+                    "meaning": "Open",
+                    "example_sentence": "Il negozio è aperto. (The shop is open.)"
+                },
+                {
+                    "word": "Chiuso",
+                    "reading": "KYOO-zo",
+                    "meaning": "Closed",
+                    "example_sentence": "La banca è chiusa. (The bank is closed.)"
+                },
+                {
+                    "word": "Camera",
+                    "reading": "KA-may-ra",
+                    "meaning": "Room (NOT a photo camera) [LIAR GAME: False Friend]",
+                    "example_sentence": "La camera è pulita. (The room is clean.) [LIAR GAME: NOT 'photo camera']"
+                },
+                {
+                    "word": "Libreria",
+                    "reading": "lee-bray-REE-a",
+                    "meaning": "Bookstore (NOT a library) [LIAR GAME: False Friend]",
+                    "example_sentence": "Compro libri in libreria. (I buy books at the bookstore.) [LIAR GAME: NOT 'library']"
+                },
+                {
+                    "word": "Fattoria",
+                    "reading": "fat-to-REE-a",
+                    "meaning": "Farm (NOT a factory) [LIAR GAME: False Friend]",
+                    "example_sentence": "Lavoro in una fattoria. (I work on a farm.) [LIAR GAME: NOT 'factory']"
+                },
+                {
+                    "word": "Fine",
+                    "reading": "FEE-nay",
+                    "meaning": "End",
+                    "example_sentence": "Questa è la fine. (This is the end.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Italian False Friends",
+        "question": "Your Italian friend says 'La camera è molto grande.' What does this mean?",
+        "options": [
+            "The photo camera is very big",
+            "The room is very big",
+            "The video camera is very big",
+            "The security camera is very big"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The Italian word 'camera' is a classic false friend for English speakers. It means 'room,' NOT 'photo camera.' The Italian word for a photo camera is 'macchina fotografica' or 'fotocamera.' This is one of the most common mistakes English speakers make when learning Italian, as the words look identical but have completely different meanings."
+    }
+}

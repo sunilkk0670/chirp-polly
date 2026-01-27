@@ -1,0 +1,582 @@
+{
+    "module_id": "zh_a1_m01",
+    "language": "chinese",
+    "level": "A1",
+    "theme": "First Steps",
+    "order": 1,
+    "lessons": [
+        {
+            "lesson_id": "zh_a1_m01_l01",
+            "title": "Greetings & Politeness",
+            "order": 1,
+            "vocabulary": [
+                {
+                    "word": "你好",
+                    "translation": "Hello",
+                    "phonetic": "Nǐ hǎo"
+                },
+                {
+                    "word": "谢谢",
+                    "translation": "Thank you",
+                    "phonetic": "Xièxiè"
+                },
+                {
+                    "word": "不客气",
+                    "translation": "You're welcome",
+                    "phonetic": "Bù kèqì"
+                },
+                {
+                    "word": "对不起",
+                    "translation": "I'm sorry",
+                    "phonetic": "Duìbùqǐ"
+                },
+                {
+                    "word": "没关系",
+                    "translation": "It's okay",
+                    "phonetic": "Méiguānxì"
+                },
+                {
+                    "word": "再见",
+                    "translation": "Goodbye",
+                    "phonetic": "Zàijiàn"
+                },
+                {
+                    "word": "早上好",
+                    "translation": "Good morning",
+                    "phonetic": "Zǎoshang hǎo"
+                },
+                {
+                    "word": "晚安",
+                    "translation": "Good night",
+                    "phonetic": "Wǎn'ān"
+                },
+                {
+                    "word": "请",
+                    "translation": "Please",
+                    "phonetic": "Qǐng"
+                },
+                {
+                    "word": "很高兴认识你",
+                    "translation": "Nice to meet you",
+                    "phonetic": "Hěn gāoxìng rènshí nǐ"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m01_l02",
+            "title": "Personal Pronouns",
+            "order": 2,
+            "vocabulary": [
+                {
+                    "word": "我",
+                    "translation": "I / Me",
+                    "phonetic": "Wǒ"
+                },
+                {
+                    "word": "你",
+                    "translation": "You",
+                    "phonetic": "Nǐ"
+                },
+                {
+                    "word": "他",
+                    "translation": "He / Him",
+                    "phonetic": "Tā"
+                },
+                {
+                    "word": "她",
+                    "translation": "She / Her",
+                    "phonetic": "Tā"
+                },
+                {
+                    "word": "我们",
+                    "translation": "We / Us",
+                    "phonetic": "Wǒmen"
+                },
+                {
+                    "word": "你们",
+                    "translation": "You (plural)",
+                    "phonetic": "Nǐmen"
+                },
+                {
+                    "word": "他们",
+                    "translation": "They / Them",
+                    "phonetic": "Tāmen"
+                },
+                {
+                    "word": "是",
+                    "translation": "To be",
+                    "phonetic": "Shì"
+                },
+                {
+                    "word": "不",
+                    "translation": "No / Not",
+                    "phonetic": "Bù"
+                },
+                {
+                    "word": "好的",
+                    "translation": "Okay / Good",
+                    "phonetic": "Hǎo de"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m01_l03",
+            "title": "Questions & Names",
+            "order": 3,
+            "vocabulary": [
+                {
+                    "word": "叫",
+                    "translation": "To be called",
+                    "phonetic": "Jiào"
+                },
+                {
+                    "word": "名字",
+                    "translation": "Name",
+                    "phonetic": "Míngzì"
+                },
+                {
+                    "word": "什么",
+                    "translation": "What",
+                    "phonetic": "Shénme"
+                },
+                {
+                    "word": "哪",
+                    "translation": "Which",
+                    "phonetic": "Nǎ"
+                },
+                {
+                    "word": "谁",
+                    "translation": "Who",
+                    "phonetic": "Shéi"
+                },
+                {
+                    "word": "几",
+                    "translation": "How many",
+                    "phonetic": "Jǐ"
+                },
+                {
+                    "word": "对",
+                    "translation": "Correct / Right",
+                    "phonetic": "Duì"
+                },
+                {
+                    "word": "错",
+                    "translation": "Wrong",
+                    "phonetic": "Cuò"
+                },
+                {
+                    "word": "Liar Game: 问",
+                    "translation": "To ask (NOT To kiss)",
+                    "phonetic": "Wèn",
+                    "liarGame": true
+                },
+                {
+                    "word": "也",
+                    "translation": "Also",
+                    "phonetic": "Yě"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m01_l04",
+            "title": "Numbers 1-10",
+            "order": 4,
+            "vocabulary": [
+                {
+                    "word": "一",
+                    "translation": "One",
+                    "phonetic": "Yī"
+                },
+                {
+                    "word": "二",
+                    "translation": "Two",
+                    "phonetic": "Èr"
+                },
+                {
+                    "word": "三",
+                    "translation": "Three",
+                    "phonetic": "Sān"
+                },
+                {
+                    "word": "四",
+                    "translation": "Four",
+                    "phonetic": "Sì"
+                },
+                {
+                    "word": "五",
+                    "translation": "Five",
+                    "phonetic": "Wǔ"
+                },
+                {
+                    "word": "六",
+                    "translation": "Six",
+                    "phonetic": "Liù"
+                },
+                {
+                    "word": "七",
+                    "translation": "Seven",
+                    "phonetic": "Qī"
+                },
+                {
+                    "word": "八",
+                    "translation": "Eight",
+                    "phonetic": "Bā"
+                },
+                {
+                    "word": "九",
+                    "translation": "Nine",
+                    "phonetic": "Jiǔ"
+                },
+                {
+                    "word": "十",
+                    "translation": "Ten",
+                    "phonetic": "Shí"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m01_l05",
+            "title": "Money & Large Numbers",
+            "order": 5,
+            "vocabulary": [
+                {
+                    "word": "百",
+                    "translation": "Hundred",
+                    "phonetic": "Bǎi"
+                },
+                {
+                    "word": "千",
+                    "translation": "Thousand",
+                    "phonetic": "Qiān"
+                },
+                {
+                    "word": "钱",
+                    "translation": "Money",
+                    "phonetic": "Qián"
+                },
+                {
+                    "word": "元",
+                    "translation": "Yuan (Currency)",
+                    "phonetic": "Yuán"
+                },
+                {
+                    "word": "有",
+                    "translation": "To have",
+                    "phonetic": "Yǒu"
+                },
+                {
+                    "word": "没有",
+                    "translation": "To not have",
+                    "phonetic": "Méiyǒu"
+                },
+                {
+                    "word": "多",
+                    "translation": "Many / Much",
+                    "phonetic": "Duō"
+                },
+                {
+                    "word": "少",
+                    "translation": "Few / Less",
+                    "phonetic": "Shǎo"
+                },
+                {
+                    "word": "Liar Game: 买",
+                    "translation": "To buy (NOT To sell)",
+                    "phonetic": "Mǎi",
+                    "liarGame": true
+                },
+                {
+                    "word": "和",
+                    "translation": "And",
+                    "phonetic": "Hé"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m01_l06",
+            "title": "Demonstratives & Location",
+            "order": 6,
+            "vocabulary": [
+                {
+                    "word": "这里",
+                    "translation": "Here",
+                    "phonetic": "Zhèlǐ"
+                },
+                {
+                    "word": "那里",
+                    "translation": "There",
+                    "phonetic": "Nàlǐ"
+                },
+                {
+                    "word": "这",
+                    "translation": "This",
+                    "phonetic": "Zhè"
+                },
+                {
+                    "word": "那",
+                    "translation": "That",
+                    "phonetic": "Nà"
+                },
+                {
+                    "word": "这个",
+                    "translation": "This one",
+                    "phonetic": "Zhège"
+                },
+                {
+                    "word": "那个",
+                    "translation": "That one",
+                    "phonetic": "Nàge"
+                },
+                {
+                    "word": "但是",
+                    "translation": "But",
+                    "phonetic": "Dànshì"
+                },
+                {
+                    "word": "因为",
+                    "translation": "Because",
+                    "phonetic": "Yīnwèi"
+                },
+                {
+                    "word": "所以",
+                    "translation": "So / Therefore",
+                    "phonetic": "Suǒyǐ"
+                },
+                {
+                    "word": "现在",
+                    "translation": "Now",
+                    "phonetic": "Xiànzài"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m01_l07",
+            "title": "People & Relationships",
+            "order": 7,
+            "vocabulary": [
+                {
+                    "word": "老师",
+                    "translation": "Teacher",
+                    "phonetic": "Lǎoshī"
+                },
+                {
+                    "word": "学生",
+                    "translation": "Student",
+                    "phonetic": "Xuésheng"
+                },
+                {
+                    "word": "朋友",
+                    "translation": "Friend",
+                    "phonetic": "Péngyǒu"
+                },
+                {
+                    "word": "家",
+                    "translation": "Home / Family",
+                    "phonetic": "Jiā"
+                },
+                {
+                    "word": "爸爸",
+                    "translation": "Dad",
+                    "phonetic": "Bàba"
+                },
+                {
+                    "word": "Liar Game: 妈妈",
+                    "translation": "Mother (NOT Horse)",
+                    "phonetic": "Māma",
+                    "liarGame": true
+                },
+                {
+                    "word": "哥哥",
+                    "translation": "Older brother",
+                    "phonetic": "Gēge"
+                },
+                {
+                    "word": "姐姐",
+                    "translation": "Older sister",
+                    "phonetic": "Jiějie"
+                },
+                {
+                    "word": "弟弟",
+                    "translation": "Younger brother",
+                    "phonetic": "Dìdi"
+                },
+                {
+                    "word": "妹妹",
+                    "translation": "Younger sister",
+                    "phonetic": "Mèimei"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m01_l08",
+            "title": "Language & Learning",
+            "order": 8,
+            "vocabulary": [
+                {
+                    "word": "中国",
+                    "translation": "China",
+                    "phonetic": "Zhōngguó"
+                },
+                {
+                    "word": "人",
+                    "translation": "Person",
+                    "phonetic": "Rén"
+                },
+                {
+                    "word": "中文",
+                    "translation": "Chinese language",
+                    "phonetic": "Zhōngwén"
+                },
+                {
+                    "word": "汉字",
+                    "translation": "Chinese characters",
+                    "phonetic": "Hànzì"
+                },
+                {
+                    "word": "学习",
+                    "translation": "To study / learn",
+                    "phonetic": "Xuéxí"
+                },
+                {
+                    "word": "去",
+                    "translation": "To go",
+                    "phonetic": "Qù"
+                },
+                {
+                    "word": "来",
+                    "translation": "To come",
+                    "phonetic": "Lái"
+                },
+                {
+                    "word": "看",
+                    "translation": "To look / see / read",
+                    "phonetic": "Kàn"
+                },
+                {
+                    "word": "听",
+                    "translation": "To listen",
+                    "phonetic": "Tīng"
+                },
+                {
+                    "word": "说",
+                    "translation": "To speak / say",
+                    "phonetic": "Shuō"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m01_l09",
+            "title": "Food & Daily Actions",
+            "order": 9,
+            "vocabulary": [
+                {
+                    "word": "吃",
+                    "translation": "To eat",
+                    "phonetic": "Chī"
+                },
+                {
+                    "word": "喝",
+                    "translation": "To drink",
+                    "phonetic": "Hē"
+                },
+                {
+                    "word": "水",
+                    "translation": "Water",
+                    "phonetic": "Shuǐ"
+                },
+                {
+                    "word": "茶",
+                    "translation": "Tea",
+                    "phonetic": "Chá"
+                },
+                {
+                    "word": "咖啡",
+                    "translation": "Coffee",
+                    "phonetic": "Kāfēi"
+                },
+                {
+                    "word": "米饭",
+                    "translation": "Rice",
+                    "phonetic": "Mǐfàn"
+                },
+                {
+                    "word": "面条",
+                    "translation": "Noodles",
+                    "phonetic": "Miàntiáo"
+                },
+                {
+                    "word": "喜欢",
+                    "translation": "To like",
+                    "phonetic": "Xǐhuān"
+                },
+                {
+                    "word": "写",
+                    "translation": "To write",
+                    "phonetic": "Xiě"
+                },
+                {
+                    "word": "大",
+                    "translation": "Big",
+                    "phonetic": "Dà"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m01_l10",
+            "title": "Time & Age",
+            "order": 10,
+            "vocabulary": [
+                {
+                    "word": "小",
+                    "translation": "Small",
+                    "phonetic": "Xiǎo"
+                },
+                {
+                    "word": "今天",
+                    "translation": "Today",
+                    "phonetic": "Jīntiān"
+                },
+                {
+                    "word": "明天",
+                    "translation": "Tomorrow",
+                    "phonetic": "Míngtiān"
+                },
+                {
+                    "word": "昨天",
+                    "translation": "Yesterday",
+                    "phonetic": "Zuótiān"
+                },
+                {
+                    "word": "点",
+                    "translation": "O'clock",
+                    "phonetic": "Diǎn"
+                },
+                {
+                    "word": "分",
+                    "translation": "Minute",
+                    "phonetic": "Fēn"
+                },
+                {
+                    "word": "岁",
+                    "translation": "Years old",
+                    "phonetic": "Suì"
+                },
+                {
+                    "word": "岁数",
+                    "translation": "Age",
+                    "phonetic": "Suìshu"
+                },
+                {
+                    "word": "人民",
+                    "translation": "People",
+                    "phonetic": "Rénmín"
+                },
+                {
+                    "word": "Fine",
+                    "translation": "End",
+                    "phonetic": "Fàn"
+                }
+            ]
+        }
+    ]
+}

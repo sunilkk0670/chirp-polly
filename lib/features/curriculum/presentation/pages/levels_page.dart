@@ -379,24 +379,28 @@ class ModulesPage extends StatelessWidget {
 
     int count = 0;
 
-    // Check for direct lessons array (may have nested vocabularyItems)
+    // Check for direct lessons array
     if (moduleData['lessons'] != null && moduleData['lessons'] is List) {
       final lessons = moduleData['lessons'] as List;
       for (var lesson in lessons) {
         if (lesson is Map) {
-          // Check if this lesson has nested vocabularyItems
-          if (lesson['vocabularyItems'] != null && lesson['vocabularyItems'] is List) {
-            final vocabItems = lesson['vocabularyItems'] as List;
-            count += vocabItems.length;
-          } else {
-            // Flat structure - the lesson itself is a vocabulary item
+          // Check for nested vocabulary (modern schema)
+          if (lesson['vocabulary'] != null && lesson['vocabulary'] is List) {
+            count += (lesson['vocabulary'] as List).length;
+          } 
+          // Check for nested vocabularyItems (legacy schema)
+          else if (lesson['vocabularyItems'] != null && lesson['vocabularyItems'] is List) {
+            count += (lesson['vocabularyItems'] as List).length;
+          } 
+          else {
+            // Flat structure - the lesson themselves are vocabulary items
             count++;
           }
         }
       }
     }
 
-    // Check for direct vocabularyItems array (new format)
+    // Check for direct vocabularyItems array at module level
     if (count == 0 && moduleData['vocabularyItems'] != null && moduleData['vocabularyItems'] is List) {
       final vocabItems = moduleData['vocabularyItems'] as List;
       count = vocabItems.length;

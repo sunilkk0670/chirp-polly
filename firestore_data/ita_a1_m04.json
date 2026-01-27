@@ -1,0 +1,672 @@
+{
+    "moduleId": "ita_a1_m04",
+    "theme": "Leisure, Hobbies & City Places",
+    "title": "Tempo Libero & Luoghi (Leisure & Places)",
+    "level": "a1",
+    "language": "italian",
+    "order": 4,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "Il tempo libero",
+                    "reading": "eel TEM-po LEE-bay-ro",
+                    "meaning": "Free time",
+                    "example_sentence": "Nel tempo libero leggo. (In my free time I read.)"
+                },
+                {
+                    "word": "Divertimento",
+                    "reading": "dee-ver-tee-MEN-to",
+                    "meaning": "Fun / Amusement",
+                    "example_sentence": "Il parco è pieno di divertimento. (The park is full of fun.)"
+                },
+                {
+                    "word": "Hobby",
+                    "reading": "OB-bee",
+                    "meaning": "Hobby",
+                    "example_sentence": "Il mio hobby è la fotografia. (My hobby is photography.)"
+                },
+                {
+                    "word": "Lo sport",
+                    "reading": "lo sport",
+                    "meaning": "Sport",
+                    "example_sentence": "Faccio sport ogni giorno. (I do sports every day.)"
+                },
+                {
+                    "word": "Il calcio",
+                    "reading": "eel KAL-cho",
+                    "meaning": "Soccer",
+                    "example_sentence": "Il calcio è popolare in Italia. (Soccer is popular in Italy.)"
+                },
+                {
+                    "word": "Correre",
+                    "reading": "KOR-ray-ray",
+                    "meaning": "To run",
+                    "example_sentence": "Corro nel parco. (I run in the park.)"
+                },
+                {
+                    "word": "Nuotare",
+                    "reading": "nwo-TA-ray",
+                    "meaning": "To swim",
+                    "example_sentence": "Nuoto in piscina. (I swim in the pool.)"
+                },
+                {
+                    "word": "Camminare",
+                    "reading": "kam-mee-NA-ray",
+                    "meaning": "To walk",
+                    "example_sentence": "Cammino ogni mattina. (I walk every morning.)"
+                },
+                {
+                    "word": "Viaggiare",
+                    "reading": "vyad-JA-ray",
+                    "meaning": "To travel",
+                    "example_sentence": "Mi piace viaggiare. (I like to travel.)"
+                },
+                {
+                    "word": "Visitare",
+                    "reading": "vee-zee-TA-ray",
+                    "meaning": "To visit",
+                    "example_sentence": "Visito Roma. (I visit Rome.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "La città",
+                    "reading": "la chit-TA",
+                    "meaning": "The city",
+                    "example_sentence": "La città è grande. (The city is big.)"
+                },
+                {
+                    "word": "Il centro",
+                    "reading": "eel CHEN-tro",
+                    "meaning": "The center / Downtown",
+                    "example_sentence": "Vado in centro. (I go downtown.)"
+                },
+                {
+                    "word": "La piazza",
+                    "reading": "la PYAT-tsa",
+                    "meaning": "The square",
+                    "example_sentence": "La piazza è bella. (The square is beautiful.)"
+                },
+                {
+                    "word": "La chiesa",
+                    "reading": "la KYAY-za",
+                    "meaning": "The church",
+                    "example_sentence": "La chiesa è antica. (The church is ancient.)"
+                },
+                {
+                    "word": "Il parco",
+                    "reading": "eel PAR-ko",
+                    "meaning": "The park",
+                    "example_sentence": "Il parco è verde. (The park is green.)"
+                },
+                {
+                    "word": "Il ristorante",
+                    "reading": "eel rees-to-RAN-tay",
+                    "meaning": "The restaurant",
+                    "example_sentence": "Il ristorante è buono. (The restaurant is good.)"
+                },
+                {
+                    "word": "Il bar",
+                    "reading": "eel bar",
+                    "meaning": "The cafe / bar",
+                    "example_sentence": "Prendo un caffè al bar. (I have a coffee at the cafe.)"
+                },
+                {
+                    "word": "Il cinema",
+                    "reading": "eel CHEE-nay-ma",
+                    "meaning": "The cinema",
+                    "example_sentence": "Vado al cinema stasera. (I go to the cinema tonight.)"
+                },
+                {
+                    "word": "Il teatro",
+                    "reading": "eel tay-A-tro",
+                    "meaning": "The theater",
+                    "example_sentence": "Il teatro è elegante. (The theater is elegant.)"
+                },
+                {
+                    "word": "Il museo",
+                    "reading": "eel moo-ZAY-o",
+                    "meaning": "The museum",
+                    "example_sentence": "Il museo è interessante. (The museum is interesting.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "Il negozio",
+                    "reading": "eel nay-GO-tsyo",
+                    "meaning": "The shop",
+                    "example_sentence": "Il negozio è aperto. (The shop is open.)"
+                },
+                {
+                    "word": "Il supermercato",
+                    "reading": "eel soo-per-mer-KA-to",
+                    "meaning": "The supermarket",
+                    "example_sentence": "Compro al supermercato. (I shop at the supermarket.)"
+                },
+                {
+                    "word": "La farmacia",
+                    "reading": "la far-ma-CHEE-a",
+                    "meaning": "The pharmacy",
+                    "example_sentence": "Vado in farmacia. (I go to the pharmacy.)"
+                },
+                {
+                    "word": "L'ospedale",
+                    "reading": "lo-spay-DA-lay",
+                    "meaning": "The hospital",
+                    "example_sentence": "L'ospedale è vicino. (The hospital is near.)"
+                },
+                {
+                    "word": "La banca",
+                    "reading": "la BAN-ka",
+                    "meaning": "The bank",
+                    "example_sentence": "La banca è chiusa. (The bank is closed.)"
+                },
+                {
+                    "word": "L'ufficio postale",
+                    "reading": "loof-FEE-cho pos-TA-lay",
+                    "meaning": "The post office",
+                    "example_sentence": "Spedisco una lettera all'ufficio postale. (I send a letter at the post office.)"
+                },
+                {
+                    "word": "La scuola",
+                    "reading": "la SKWOH-la",
+                    "meaning": "The school",
+                    "example_sentence": "La scuola inizia a settembre. (School starts in September.)"
+                },
+                {
+                    "word": "L'università",
+                    "reading": "loo-nee-ver-see-TA",
+                    "meaning": "The university",
+                    "example_sentence": "Studio all'università. (I study at the university.)"
+                },
+                {
+                    "word": "La biblioteca",
+                    "reading": "la bee-blyo-TAY-ka",
+                    "meaning": "The library",
+                    "example_sentence": "Leggo in biblioteca. (I read in the library.)"
+                },
+                {
+                    "word": "L'albergo",
+                    "reading": "lal-BER-go",
+                    "meaning": "The hotel",
+                    "example_sentence": "L'albergo è lussuoso. (The hotel is luxurious.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "La spiaggia",
+                    "reading": "la SPYAD-ja",
+                    "meaning": "The beach",
+                    "example_sentence": "Vado alla spiaggia d'estate. (I go to the beach in summer.)"
+                },
+                {
+                    "word": "La montagna",
+                    "reading": "la mon-TA-nya",
+                    "meaning": "The mountain",
+                    "example_sentence": "La montagna è alta. (The mountain is high.)"
+                },
+                {
+                    "word": "Il mare",
+                    "reading": "eel MA-ray",
+                    "meaning": "The sea",
+                    "example_sentence": "Il mare è blu. (The sea is blue.)"
+                },
+                {
+                    "word": "La campagna",
+                    "reading": "la kam-PA-nya",
+                    "meaning": "The countryside",
+                    "example_sentence": "La campagna è tranquilla. (The countryside is peaceful.)"
+                },
+                {
+                    "word": "La natura",
+                    "reading": "la na-TOO-ra",
+                    "meaning": "Nature",
+                    "example_sentence": "Amo la natura. (I love nature.)"
+                },
+                {
+                    "word": "Leggere",
+                    "reading": "LED-jay-ray",
+                    "meaning": "To read",
+                    "example_sentence": "Leggo un libro. (I read a book.)"
+                },
+                {
+                    "word": "Ascoltare musica",
+                    "reading": "as-kol-TA-ray MOO-zee-ka",
+                    "meaning": "To listen to music",
+                    "example_sentence": "Ascolto musica classica. (I listen to classical music.)"
+                },
+                {
+                    "word": "Guardare la TV",
+                    "reading": "gwar-DA-ray la tee-VEE",
+                    "meaning": "To watch TV",
+                    "example_sentence": "Guardo la TV la sera. (I watch TV in the evening.)"
+                },
+                {
+                    "word": "Suonare",
+                    "reading": "swo-NA-ray",
+                    "meaning": "To play (instrument)",
+                    "example_sentence": "Suono il pianoforte. (I play the piano.)"
+                },
+                {
+                    "word": "Cantare",
+                    "reading": "kan-TA-ray",
+                    "meaning": "To sing",
+                    "example_sentence": "Canto una canzone. (I sing a song.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "Ballare",
+                    "reading": "bal-LA-ray",
+                    "meaning": "To dance",
+                    "example_sentence": "Ballo il tango. (I dance the tango.)"
+                },
+                {
+                    "word": "Cucinare",
+                    "reading": "koo-chee-NA-ray",
+                    "meaning": "To cook",
+                    "example_sentence": "Cucino la pasta. (I cook pasta.)"
+                },
+                {
+                    "word": "Dipingere",
+                    "reading": "dee-PEEN-jay-ray",
+                    "meaning": "To paint",
+                    "example_sentence": "Dipingo un quadro. (I paint a picture.)"
+                },
+                {
+                    "word": "Scattare foto",
+                    "reading": "skat-TA-ray FO-to",
+                    "meaning": "To take photos",
+                    "example_sentence": "Scatto foto in vacanza. (I take photos on vacation.)"
+                },
+                {
+                    "word": "Uscire con gli amici",
+                    "reading": "oo-SHEE-ray kon lye a-MEE-chee",
+                    "meaning": "To go out with friends",
+                    "example_sentence": "Esco con gli amici il sabato. (I go out with friends on Saturday.)"
+                },
+                {
+                    "word": "Fare shopping",
+                    "reading": "FA-ray SHOP-peeng",
+                    "meaning": "To go shopping",
+                    "example_sentence": "Faccio shopping in centro. (I go shopping downtown.)"
+                },
+                {
+                    "word": "Fare una passeggiata",
+                    "reading": "FA-ray OO-na pas-say-JAT-a",
+                    "meaning": "To take a walk",
+                    "example_sentence": "Faccio una passeggiata nel parco. (I take a walk in the park.)"
+                },
+                {
+                    "word": "Andare in bici",
+                    "reading": "an-DA-ray een BEE-chee",
+                    "meaning": "To go by bike",
+                    "example_sentence": "Vado in bici al lavoro. (I go to work by bike.)"
+                },
+                {
+                    "word": "Guidare",
+                    "reading": "gwee-DA-ray",
+                    "meaning": "To drive",
+                    "example_sentence": "Guido la macchina. (I drive the car.)"
+                },
+                {
+                    "word": "Lavorare",
+                    "reading": "la-vo-RA-ray",
+                    "meaning": "To work",
+                    "example_sentence": "Lavoro in ufficio. (I work in an office.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "Incontrare",
+                    "reading": "een-kon-TRA-ray",
+                    "meaning": "To meet",
+                    "example_sentence": "Incontro un amico. (I meet a friend.)"
+                },
+                {
+                    "word": "Aspettare",
+                    "reading": "as-pet-TA-ray",
+                    "meaning": "To wait",
+                    "example_sentence": "Aspetto l'autobus. (I wait for the bus.)"
+                },
+                {
+                    "word": "Cercare",
+                    "reading": "cher-KA-ray",
+                    "meaning": "To search / look for",
+                    "example_sentence": "Cerco le chiavi. (I look for the keys.)"
+                },
+                {
+                    "word": "Trovare",
+                    "reading": "tro-VA-ray",
+                    "meaning": "To find",
+                    "example_sentence": "Trovo la soluzione. (I find the solution.)"
+                },
+                {
+                    "word": "Comprare",
+                    "reading": "kom-PRA-ray",
+                    "meaning": "To buy",
+                    "example_sentence": "Compro un regalo. (I buy a gift.)"
+                },
+                {
+                    "word": "Vendere",
+                    "reading": "VEN-day-ray",
+                    "meaning": "To sell",
+                    "example_sentence": "Vendo la macchina. (I sell the car.)"
+                },
+                {
+                    "word": "Usare",
+                    "reading": "oo-ZA-ray",
+                    "meaning": "To use",
+                    "example_sentence": "Uso il computer. (I use the computer.)"
+                },
+                {
+                    "word": "Aprire",
+                    "reading": "a-PREE-ray",
+                    "meaning": "To open",
+                    "example_sentence": "Apro la porta. (I open the door.)"
+                },
+                {
+                    "word": "Chiudere",
+                    "reading": "KYOO-day-ray",
+                    "meaning": "To close",
+                    "example_sentence": "Chiudo la finestra. (I close the window.)"
+                },
+                {
+                    "word": "Entrare",
+                    "reading": "en-TRA-ray",
+                    "meaning": "To enter",
+                    "example_sentence": "Entro in casa. (I enter the house.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "Uscire",
+                    "reading": "oo-SHEE-ray",
+                    "meaning": "To exit / go out",
+                    "example_sentence": "Esco di casa. (I go out of the house.)"
+                },
+                {
+                    "word": "Salire",
+                    "reading": "sa-LEE-ray",
+                    "meaning": "To go up / get on",
+                    "example_sentence": "Salgo le scale. (I go up the stairs.)"
+                },
+                {
+                    "word": "Scendere",
+                    "reading": "SHEN-day-ray",
+                    "meaning": "To go down / get off",
+                    "example_sentence": "Scendo dall'autobus. (I get off the bus.)"
+                },
+                {
+                    "word": "Fermarsi",
+                    "reading": "fer-MAR-see",
+                    "meaning": "To stop (oneself)",
+                    "example_sentence": "Mi fermo al semaforo. (I stop at the traffic light.)"
+                },
+                {
+                    "word": "Girare",
+                    "reading": "jee-RA-ray",
+                    "meaning": "To turn",
+                    "example_sentence": "Giro a destra. (I turn right.)"
+                },
+                {
+                    "word": "Arrivare",
+                    "reading": "ar-ree-VA-ray",
+                    "meaning": "To arrive",
+                    "example_sentence": "Arrivo alle otto. (I arrive at eight.)"
+                },
+                {
+                    "word": "Partire",
+                    "reading": "par-TEE-ray",
+                    "meaning": "To depart / leave",
+                    "example_sentence": "Parto domani. (I leave tomorrow.)"
+                },
+                {
+                    "word": "Tornare",
+                    "reading": "tor-NA-ray",
+                    "meaning": "To return",
+                    "example_sentence": "Torno a casa. (I return home.)"
+                },
+                {
+                    "word": "Restare",
+                    "reading": "res-TA-ray",
+                    "meaning": "To stay / remain",
+                    "example_sentence": "Resto qui. (I stay here.)"
+                },
+                {
+                    "word": "Vicinanza",
+                    "reading": "vee-chee-NAN-tsa",
+                    "meaning": "Proximity",
+                    "example_sentence": "La vicinanza è importante. (Proximity is important.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "Distanza",
+                    "reading": "dees-TAN-tsa",
+                    "meaning": "Distance",
+                    "example_sentence": "La distanza è grande. (The distance is great.)"
+                },
+                {
+                    "word": "Mappa",
+                    "reading": "MAP-pa",
+                    "meaning": "Map",
+                    "example_sentence": "Uso la mappa. (I use the map.)"
+                },
+                {
+                    "word": "Indirizzo",
+                    "reading": "een-dee-REET-tso",
+                    "meaning": "Address",
+                    "example_sentence": "Qual è il tuo indirizzo? (What is your address?)"
+                },
+                {
+                    "word": "Numero",
+                    "reading": "NOO-may-ro",
+                    "meaning": "Number",
+                    "example_sentence": "Il numero è cinque. (The number is five.)"
+                },
+                {
+                    "word": "Telefono",
+                    "reading": "tay-LAY-fo-no",
+                    "meaning": "Phone",
+                    "example_sentence": "Il telefono squilla. (The phone rings.)"
+                },
+                {
+                    "word": "Internet",
+                    "reading": "EEN-ter-net",
+                    "meaning": "Internet",
+                    "example_sentence": "Uso internet ogni giorno. (I use the internet every day.)"
+                },
+                {
+                    "word": "Computer",
+                    "reading": "kom-PYOO-ter",
+                    "meaning": "Computer",
+                    "example_sentence": "Il computer è nuovo. (The computer is new.)"
+                },
+                {
+                    "word": "Messaggio",
+                    "reading": "mes-SAD-jo",
+                    "meaning": "Message",
+                    "example_sentence": "Ricevo un messaggio. (I receive a message.)"
+                },
+                {
+                    "word": "E-mail",
+                    "reading": "EE-may-el",
+                    "meaning": "Email",
+                    "example_sentence": "Mando un'e-mail. (I send an email.)"
+                },
+                {
+                    "word": "Sito web",
+                    "reading": "SEE-to web",
+                    "meaning": "Website",
+                    "example_sentence": "Visito il sito web. (I visit the website.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "Schermo",
+                    "reading": "SKER-mo",
+                    "meaning": "Screen",
+                    "example_sentence": "Lo schermo è grande. (The screen is big.)"
+                },
+                {
+                    "word": "Tastiera",
+                    "reading": "tas-TYAY-ra",
+                    "meaning": "Keyboard",
+                    "example_sentence": "La tastiera è comoda. (The keyboard is comfortable.)"
+                },
+                {
+                    "word": "Topo",
+                    "reading": "TO-po",
+                    "meaning": "Mouse",
+                    "example_sentence": "Uso il topo del computer. (I use the computer mouse.)"
+                },
+                {
+                    "word": "Cuffie",
+                    "reading": "KOOF-fyay",
+                    "meaning": "Headphones",
+                    "example_sentence": "Ascolto con le cuffie. (I listen with headphones.)"
+                },
+                {
+                    "word": "Caricabatterie",
+                    "reading": "ka-ree-ka-bat-TAY-ryay",
+                    "meaning": "Charger",
+                    "example_sentence": "Ho bisogno del caricabatterie. (I need the charger.)"
+                },
+                {
+                    "word": "Batteria",
+                    "reading": "bat-tay-REE-a",
+                    "meaning": "Battery",
+                    "example_sentence": "La batteria è scarica. (The battery is dead.)"
+                },
+                {
+                    "word": "Luce",
+                    "reading": "LOO-chay",
+                    "meaning": "Light",
+                    "example_sentence": "Accendo la luce. (I turn on the light.)"
+                },
+                {
+                    "word": "Acqua",
+                    "reading": "AK-kwa",
+                    "meaning": "Water",
+                    "example_sentence": "Bevo acqua. (I drink water.)"
+                },
+                {
+                    "word": "Elettricità",
+                    "reading": "ay-let-tree-chee-TA",
+                    "meaning": "Electricity",
+                    "example_sentence": "L'elettricità è importante. (Electricity is important.)"
+                },
+                {
+                    "word": "Gas",
+                    "reading": "gas",
+                    "meaning": "Gas",
+                    "example_sentence": "Il gas è pericoloso. (Gas is dangerous.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "Riscaldamento",
+                    "reading": "rees-kal-da-MEN-to",
+                    "meaning": "Heating",
+                    "example_sentence": "Il riscaldamento è acceso. (The heating is on.)"
+                },
+                {
+                    "word": "Aria condizionata",
+                    "reading": "A-rya kon-dee-tsyo-NA-ta",
+                    "meaning": "Air conditioning",
+                    "example_sentence": "L'aria condizionata è fredda. (The air conditioning is cold.)"
+                },
+                {
+                    "word": "Chiave",
+                    "reading": "KYA-vay",
+                    "meaning": "Key",
+                    "example_sentence": "Ho la chiave. (I have the key.)"
+                },
+                {
+                    "word": "Porta",
+                    "reading": "POR-ta",
+                    "meaning": "Door",
+                    "example_sentence": "La porta è aperta. (The door is open.)"
+                },
+                {
+                    "word": "Finestra",
+                    "reading": "fee-NES-tra",
+                    "meaning": "Window",
+                    "example_sentence": "La finestra è grande. (The window is big.)"
+                },
+                {
+                    "word": "Pavimento",
+                    "reading": "pa-vee-MEN-to",
+                    "meaning": "Floor",
+                    "example_sentence": "Il pavimento è pulito. (The floor is clean.)"
+                },
+                {
+                    "word": "Muro",
+                    "reading": "MOO-ro",
+                    "meaning": "Wall",
+                    "example_sentence": "Il muro è bianco. (The wall is white.)"
+                },
+                {
+                    "word": "Libreria",
+                    "reading": "lee-bray-REE-a",
+                    "meaning": "Bookstore (NOT a library) [LIAR GAME: False Friend]",
+                    "example_sentence": "Compro libri in libreria. (I buy books at the bookstore.) [LIAR GAME: NOT 'library']"
+                },
+                {
+                    "word": "Parenti",
+                    "reading": "pa-REN-tee",
+                    "meaning": "Relatives (NOT parents) [LIAR GAME: False Friend]",
+                    "example_sentence": "I miei parenti vengono a cena. (My relatives are coming to dinner.) [LIAR GAME: NOT 'parents']"
+                },
+                {
+                    "word": "Rumore",
+                    "reading": "roo-MO-ray",
+                    "meaning": "Noise (NOT a rumor) [LIAR GAME: False Friend]",
+                    "example_sentence": "C'è troppo rumore qui. (There is too much noise here.) [LIAR GAME: NOT 'rumor']"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Italian False Friends",
+        "question": "Your Italian friend says 'I miei parenti arrivano domani.' What does this mean?",
+        "options": [
+            "My parents are arriving tomorrow",
+            "My relatives are arriving tomorrow",
+            "My friends are arriving tomorrow",
+            "My neighbors are arriving tomorrow"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The Italian word 'parenti' is a false friend. It means 'relatives' in general (aunts, uncles, cousins, etc.), NOT specifically 'parents.' The Italian word for parents is 'genitori.' This is a very common mistake for English speakers learning Italian!"
+    }
+}

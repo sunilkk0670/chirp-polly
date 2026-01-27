@@ -1,0 +1,672 @@
+{
+    "moduleId": "ita_a2_m05",
+    "theme": "Media & Technology",
+    "title": "Media & Tecnologia (Media & Technology)",
+    "level": "a2",
+    "language": "italian",
+    "order": 5,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "La connettività",
+                    "reading": "la kon-net-tee-vee-TA",
+                    "meaning": "Connectivity / Connection",
+                    "example_sentence": "La connettività in questa zona è scarsa. (Connectivity in this area is poor.)"
+                },
+                {
+                    "word": "Senza fili",
+                    "reading": "SEN-tsa FEE-lee",
+                    "meaning": "Wireless",
+                    "example_sentence": "Uso una tastiera senza fili. (I use a wireless keyboard.)"
+                },
+                {
+                    "word": "La banda larga",
+                    "reading": "la BAN-da LAR-ga",
+                    "meaning": "Broadband / High-speed internet",
+                    "example_sentence": "Abbiamo installato la banda larga. (We installed broadband.)"
+                },
+                {
+                    "word": "La piattaforma",
+                    "reading": "la pyat-ta-FOR-ma",
+                    "meaning": "Platform / Website / System",
+                    "example_sentence": "La piattaforma è offline per manutenzione. (The platform is offline for maintenance.)"
+                },
+                {
+                    "word": "Sfogliare",
+                    "reading": "sfo-LYA-ray",
+                    "meaning": "To browse / leaf through (web/book)",
+                    "example_sentence": "Mi piace sfogliare i siti di notizie. (I like to browse news sites.)"
+                },
+                {
+                    "word": "Scaricare",
+                    "reading": "ska-ree-KA-ray",
+                    "meaning": "To download",
+                    "example_sentence": "Devo scaricare l'ultimo aggiornamento. (I need to download the latest update.)"
+                },
+                {
+                    "word": "Caricare",
+                    "reading": "ka-ree-KA-ray",
+                    "meaning": "To upload / load",
+                    "example_sentence": "Sto finendo di caricare il video. (I'm finishing uploading the video.)"
+                },
+                {
+                    "word": "Social network",
+                    "reading": "SO-shal NET-work",
+                    "meaning": "Social network",
+                    "example_sentence": "Passo troppo tempo sui social network. (I spend too much time on social networks.)"
+                },
+                {
+                    "word": "Profilo",
+                    "reading": "pro-FEE-lo",
+                    "meaning": "Profile",
+                    "example_sentence": "Aggiorna la foto del tuo profilo. (Update your profile picture.)"
+                },
+                {
+                    "word": "Account",
+                    "reading": "ak-KOWNT",
+                    "meaning": "Account",
+                    "example_sentence": "Non ricordo la password del mio account. (I don't remember the password for my account.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "Password",
+                    "reading": "pas-WORD",
+                    "meaning": "Password",
+                    "example_sentence": "Scegli una password sicura. (Choose a secure password.)"
+                },
+                {
+                    "word": "La salvaguardia",
+                    "reading": "la sal-va-GWAR-dya",
+                    "meaning": "Safeguard / Security / Protection",
+                    "example_sentence": "La salvaguardia dei dati è fondamentale. (Data protection is fundamental.)"
+                },
+                {
+                    "word": "Informatica",
+                    "reading": "een-for-MA-tee-ka",
+                    "meaning": "Computer science / IT",
+                    "example_sentence": "Lui studia informatica all'università. (He studies computer science at the university.)"
+                },
+                {
+                    "word": "Il terminale",
+                    "reading": "eel ter-mee-NA-lay",
+                    "meaning": "Terminal / Computer / Extension",
+                    "example_sentence": "Il terminale non risponde ai comandi. (The terminal is not responding to commands.)"
+                },
+                {
+                    "word": "Il notebook",
+                    "reading": "eel NOTE-book",
+                    "meaning": "Notebook / Laptop",
+                    "example_sentence": "Ho comprato un nuovo notebook leggero. (I bought a new lightweight laptop.)"
+                },
+                {
+                    "word": "Il monitor",
+                    "reading": "eel MO-nee-tor",
+                    "meaning": "Monitor / Screen",
+                    "example_sentence": "Il monitor ha una risoluzione altissima. (The monitor has a very high resolution.)"
+                },
+                {
+                    "word": "La pulsantiera",
+                    "reading": "la pool-san-TYAY-ra",
+                    "meaning": "Control panel / Keyboard / Keypad",
+                    "example_sentence": "La pulsantiera è retroilluminata. (The keypad is backlit.)"
+                },
+                {
+                    "word": "Mouse",
+                    "reading": "mows",
+                    "meaning": "Mouse",
+                    "example_sentence": "Il mouse senza fili è molto comodo. (The wireless mouse is very convenient.)"
+                },
+                {
+                    "word": "Stampante",
+                    "reading": "stam-PAN-tay",
+                    "meaning": "Printer",
+                    "example_sentence": "La stampante ha finito l'inchiostro. (The printer has run out of ink.)"
+                },
+                {
+                    "word": "Gli auricolari",
+                    "reading": "lyee ow-ree-ko-LA-ree",
+                    "meaning": "Earbuds / Earphones",
+                    "example_sentence": "Uso gli auricolari per ascoltare musica sul treno. (I use earbuds to listen to music on the train.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "Microfono",
+                    "reading": "mee-KRO-fo-no",
+                    "meaning": "Microphone",
+                    "example_sentence": "Il microfono è spento. (The microphone is off.)"
+                },
+                {
+                    "word": "Telecamera",
+                    "reading": "tay-lay-KA-may-ra",
+                    "meaning": "Camera / Webcam / Video camera",
+                    "example_sentence": "Accendi la telecamera per la riunione. (Turn on the camera for the meeting.)"
+                },
+                {
+                    "word": "Lo smartphone",
+                    "reading": "lo SMART-fone",
+                    "meaning": "Smartphone",
+                    "example_sentence": "Ho dimenticato lo smartphone a casa. (I forgot my smartphone at home.)"
+                },
+                {
+                    "word": "Applicazione",
+                    "reading": "ap-plee-ka-TSYO-nay",
+                    "meaning": "Application / App",
+                    "example_sentence": "Scarica l'applicazione gratuita. (Download the free app.)"
+                },
+                {
+                    "word": "La notifica",
+                    "reading": "la no-TEE-fee-ka",
+                    "meaning": "Notification / Message",
+                    "example_sentence": "Ho ricevuto una notifica sul telefono. (I received a notification on my phone.)"
+                },
+                {
+                    "word": "La posta elettronica",
+                    "reading": "la POS-ta ay-let-TRO-nee-ka",
+                    "meaning": "Electronic mail / Email",
+                    "example_sentence": "Controlla la tua posta elettronica regolarmente. (Check your email regularly.)"
+                },
+                {
+                    "word": "Allegato",
+                    "reading": "al-lay-GA-to",
+                    "meaning": "Attachment",
+                    "example_sentence": "L'allegato è troppo pesante. (The attachment is too large.)"
+                },
+                {
+                    "word": "Inviare",
+                    "reading": "een-VYA-ray",
+                    "meaning": "To send",
+                    "example_sentence": "Devo inviare questo file subito. (I must send this file immediately.)"
+                },
+                {
+                    "word": "Ottenere",
+                    "reading": "ot-tay-NA-ray",
+                    "meaning": "To obtain / receive / get",
+                    "example_sentence": "Speriamo di ottenere una risposta positiva. (We hope to get a positive response.)"
+                },
+                {
+                    "word": "Ribattere",
+                    "reading": "ree-BAT-tay-ray",
+                    "meaning": "To reply / strike back / answer",
+                    "example_sentence": "Lui ha saputo ribattere alle critiche. (He was able to reply to the criticisms.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "Rimuovere",
+                    "reading": "ree-MWO-vay-ray",
+                    "meaning": "To remove / delete / erase",
+                    "example_sentence": "Rimuovere i file inutili per liberare spazio. (Remove useless files to free up space.)"
+                },
+                {
+                    "word": "Salvare",
+                    "reading": "sal-VA-ray",
+                    "meaning": "To save",
+                    "example_sentence": "Ricordati di salvare il documento. (Remember to save the document.)"
+                },
+                {
+                    "word": "Stampare",
+                    "reading": "stam-PA-ray",
+                    "meaning": "To print",
+                    "example_sentence": "Puoi stampare questa pagina? (Can you print this page?)"
+                },
+                {
+                    "word": "Copiare",
+                    "reading": "ko-PYA-ray",
+                    "meaning": "To copy",
+                    "example_sentence": "Copia il testo negli appunti. (Copy the text to the clipboard.)"
+                },
+                {
+                    "word": "Incollare",
+                    "reading": "een-kol-LA-ray",
+                    "meaning": "To paste",
+                    "example_sentence": "Premi CTRL+V per incollare. (Press CTRL+V to paste.)"
+                },
+                {
+                    "word": "Tagliare",
+                    "reading": "ta-LYA-ray",
+                    "meaning": "To cut",
+                    "example_sentence": "Taglia il paragrafo e spostalo qui. (Cut the paragraph and move it here.)"
+                },
+                {
+                    "word": "Software",
+                    "reading": "SOFT-way-er",
+                    "meaning": "Software",
+                    "example_sentence": "L'installazione del software è completata. (The software installation is complete.)"
+                },
+                {
+                    "word": "Hardware",
+                    "reading": "HARD-way-er",
+                    "meaning": "Hardware",
+                    "example_sentence": "Abbiamo bisogno di hardware più potente. (We need more powerful hardware.)"
+                },
+                {
+                    "word": "Virus",
+                    "reading": "VEE-roos",
+                    "meaning": "Virus",
+                    "example_sentence": "L'antivirus ha rilevato un virus. (The antivirus detected a virus.)"
+                },
+                {
+                    "word": "Le informazioni digitali",
+                    "reading": "lay een-for-ma-TSYO-nee dee-jee-TA-lee",
+                    "meaning": "Digital information / Data",
+                    "example_sentence": "Le informazioni digitali viaggiano veloci. (Digital information travels fast.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "Privacy",
+                    "reading": "PRAI-va-see",
+                    "meaning": "Privacy",
+                    "example_sentence": "Rispetta la privacy degli altri. (Respect other people's privacy.)"
+                },
+                {
+                    "word": "Digitale",
+                    "reading": "dee-jee-TA-lay",
+                    "meaning": "Digital",
+                    "example_sentence": "Viviamo nell'era digitale. (We live in the digital age.)"
+                },
+                {
+                    "word": "Online",
+                    "reading": "on-LAIN",
+                    "meaning": "Online",
+                    "example_sentence": "Sono online da due ore. (I've been online for two hours.)"
+                },
+                {
+                    "word": "Offline",
+                    "reading": "of-LAIN",
+                    "meaning": "Offline",
+                    "example_sentence": "Il server è momentaneamente offline. (The server is temporarily offline.)"
+                },
+                {
+                    "word": "Blog",
+                    "reading": "blog",
+                    "meaning": "Blog",
+                    "example_sentence": "Scrivo un blog sulla cucina italiana. (I write a blog about Italian cooking.)"
+                },
+                {
+                    "word": "Podcast",
+                    "reading": "POD-kast",
+                    "meaning": "Podcast",
+                    "example_sentence": "Ascolto questo podcast ogni mattina. (I listen to this podcast every morning.)"
+                },
+                {
+                    "word": "Streaming",
+                    "reading": "STREE-meeng",
+                    "meaning": "Streaming",
+                    "example_sentence": "Il servizio di streaming è gratuito. (The streaming service is free.)"
+                },
+                {
+                    "word": "Canale",
+                    "reading": "ka-NA-lay",
+                    "meaning": "Channel",
+                    "example_sentence": "Cambia canale, per favore. (Change the channel, please.)"
+                },
+                {
+                    "word": "Programma",
+                    "reading": "pro-GRAM-ma",
+                    "meaning": "Program / Software",
+                    "example_sentence": "L'ultimo programma è installato. (The latest program is installed.)"
+                },
+                {
+                    "word": "Notizie",
+                    "reading": "no-TEET-tsyay",
+                    "meaning": "News",
+                    "example_sentence": "Hai sentito le ultime notizie? (Have you heard the latest news?)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "Il quotidiano",
+                    "reading": "eel kwo-tee-DYA-no",
+                    "meaning": "Daily newspaper",
+                    "example_sentence": "Leggo il quotidiano in ufficio. (I read the daily newspaper in the office.)"
+                },
+                {
+                    "word": "Rivista",
+                    "reading": "ree-VEES-ta",
+                    "meaning": "Magazine",
+                    "example_sentence": "È una rivista di moda famosa. (It is a famous fashion magazine.)"
+                },
+                {
+                    "word": "Pubblicità",
+                    "reading": "poob-blee-chee-TA",
+                    "meaning": "Advertisement",
+                    "example_sentence": "C'è troppa pubblicità in TV. (There is too much advertising on TV.)"
+                },
+                {
+                    "word": "Articolo",
+                    "reading": "ar-TEE-ko-lo",
+                    "meaning": "Article",
+                    "example_sentence": "Ho scritto un articolo per il blog. (I wrote an article for the blog.)"
+                },
+                {
+                    "word": "Intervista",
+                    "reading": "een-ter-VEES-ta",
+                    "meaning": "Interview",
+                    "example_sentence": "L'intervista è andata bene. (The interview went well.)"
+                },
+                {
+                    "word": "Reporter",
+                    "reading": "ray-POR-ter",
+                    "meaning": "Reporter",
+                    "example_sentence": "Il reporter è sul posto. (The reporter is on the spot.)"
+                },
+                {
+                    "word": "Fotografo",
+                    "reading": "fo-TO-gra-fo",
+                    "meaning": "Photographer",
+                    "example_sentence": "Il fotografo scatta una foto. (The photographer takes a photo.)"
+                },
+                {
+                    "word": "Video",
+                    "reading": "VEE-day-o",
+                    "meaning": "Video",
+                    "example_sentence": "Guarda questo video divertente. (Watch this funny video.)"
+                },
+                {
+                    "word": "Audio",
+                    "reading": "OW-dyo",
+                    "meaning": "Audio",
+                    "example_sentence": "L'audio è disturbato. (The audio is distorted.)"
+                },
+                {
+                    "word": "Foto",
+                    "reading": "FO-to",
+                    "meaning": "Photo",
+                    "example_sentence": "Manda la foto nel gruppo. (Send the photo to the group.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "Immagine",
+                    "reading": "eem-MA-jee-nay",
+                    "meaning": "Image",
+                    "example_sentence": "L'immagine è molto nitida. (The image is very sharp.)"
+                },
+                {
+                    "word": "Suono",
+                    "reading": "SWOH-no",
+                    "meaning": "Sound",
+                    "example_sentence": "Il suono è troppo basso. (The sound is too low.)"
+                },
+                {
+                    "word": "L'intensità sonora",
+                    "reading": "leen-ten-see-TA so-NO-ra",
+                    "meaning": "Sound intensity / Volume",
+                    "example_sentence": "L'intensità sonora è eccessiva. (The sound intensity is excessive.)"
+                },
+                {
+                    "word": "Silenzioso",
+                    "reading": "see-len-TSYO-zo",
+                    "meaning": "Silent",
+                    "example_sentence": "Metti il telefono in modalità silenzioso. (Put the phone on silent mode.)"
+                },
+                {
+                    "word": "Vibrazione",
+                    "reading": "vee-bra-TSYO-nay",
+                    "meaning": "Vibration",
+                    "example_sentence": "Sento la vibrazione in tasca. (I feel the vibration in my pocket.)"
+                },
+                {
+                    "word": "Schermata",
+                    "reading": "sker-MA-ta",
+                    "meaning": "Screenshot / Screen capture",
+                    "example_sentence": "Invia una schermata dell'errore. (Send a screenshot of the error.)"
+                },
+                {
+                    "word": "Sfondo",
+                    "reading": "SFON-do",
+                    "meaning": "Wallpaper / Background",
+                    "example_sentence": "Che bel sfondo hai sul desktop! (What a beautiful background you have on your desktop!)"
+                },
+                {
+                    "word": "Icona",
+                    "reading": "ee-KO-na",
+                    "meaning": "Icon",
+                    "example_sentence": "Clicca sull'icona della cartella. (Click on the folder icon.)"
+                },
+                {
+                    "word": "Menu",
+                    "reading": "may-NOO",
+                    "meaning": "Menu",
+                    "example_sentence": "Apri il menu delle impostazioni. (Open the settings menu.)"
+                },
+                {
+                    "word": "Il riquadro",
+                    "reading": "eel ree-KWA-dro",
+                    "meaning": "Pane / Box / Window section",
+                    "example_sentence": "Il riquadro della chat è a destra. (The chat box is on the right.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "Cartella",
+                    "reading": "kar-TEL-la",
+                    "meaning": "Folder",
+                    "example_sentence": "Ho creato una cartella per i documenti. (I created a folder for the documents.)"
+                },
+                {
+                    "word": "File",
+                    "reading": "fail",
+                    "meaning": "File",
+                    "example_sentence": "Salva il file sul desktop. (Save the file to the desktop.)"
+                },
+                {
+                    "word": "Lo scarto",
+                    "reading": "lo SKAR-to",
+                    "meaning": "Scrap / Trash / Refuse",
+                    "example_sentence": "Sposta i file nello scarto. (Move the files to the trash/scrap.)"
+                },
+                {
+                    "word": "L'indagine",
+                    "reading": "leen-DA-jee-nay",
+                    "meaning": "Investigation / In-depth search",
+                    "example_sentence": "Abbiamo avviato un'indagine sui dati. (We started an investigation/search on the data.)"
+                },
+                {
+                    "word": "Il responso",
+                    "reading": "eel ray-SPON-zo",
+                    "meaning": "Response / Result / Answer",
+                    "example_sentence": "Attendiamo il responso del sistema. (We are waiting for the system's response.)"
+                },
+                {
+                    "word": "Link",
+                    "reading": "leengk",
+                    "meaning": "Link",
+                    "example_sentence": "Clicca sul link per aprire la pagina. (Click on the link to open the page.)"
+                },
+                {
+                    "word": "Il recapito",
+                    "reading": "eel ray-KA-pee-to",
+                    "meaning": "Address / Contact point / Delivery address",
+                    "example_sentence": "Qual è il tuo recapito telefonico? (What is your phone contact/number?)"
+                },
+                {
+                    "word": "Browser",
+                    "reading": "BROW-zer",
+                    "meaning": "Browser",
+                    "example_sentence": "Uso un browser veloce e sicuro. (I use a fast and secure browser.)"
+                },
+                {
+                    "word": "Tab",
+                    "reading": "tab",
+                    "meaning": "Tab",
+                    "example_sentence": "Ho troppi tab aperti nel browser. (I have too many tabs open in the browser.)"
+                },
+                {
+                    "word": "Segnalibro",
+                    "reading": "say-nya-LEE-bro",
+                    "meaning": "Bookmark",
+                    "example_sentence": "Salva il sito tra i segnalibri. (Save the site in your bookmarks.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "Condividere",
+                    "reading": "kon-dee-VEE-day-ray",
+                    "meaning": "To share",
+                    "example_sentence": "Condividi il post con i tuoi amici. (Share the post with your friends.)"
+                },
+                {
+                    "word": "Commentare",
+                    "reading": "kom-men-TA-ray",
+                    "meaning": "To comment",
+                    "example_sentence": "Puoi commentare sotto il video. (You can comment under the video.)"
+                },
+                {
+                    "word": "Pubblicare",
+                    "reading": "poob-blee-KA-ray",
+                    "meaning": "To publish / post",
+                    "example_sentence": "Voglio pubblicare un nuovo articolo. (I want to publish a new article.)"
+                },
+                {
+                    "word": "Aggiornare",
+                    "reading": "ad-jor-NA-ray",
+                    "meaning": "To update",
+                    "example_sentence": "Devi aggiornare il sistema operativo. (You must update the operating system.)"
+                },
+                {
+                    "word": "Iscriversi",
+                    "reading": "ee-SKREE-ver-see",
+                    "meaning": "To subscribe / sign up",
+                    "example_sentence": "Iscriviti alla nostra newsletter. (Subscribe to our newsletter.)"
+                },
+                {
+                    "word": "Seguire",
+                    "reading": "say-GWEE-ray",
+                    "meaning": "To follow",
+                    "example_sentence": "Inizia a seguire il mio canale. (Start following my channel.)"
+                },
+                {
+                    "word": "Bloccare",
+                    "reading": "blok-KA-ray",
+                    "meaning": "To block",
+                    "example_sentence": "Puoi bloccare gli utenti fastidiosi. (You can block annoying users.)"
+                },
+                {
+                    "word": "Segnalare",
+                    "reading": "say-nya-LA-ray",
+                    "meaning": "To report / signal",
+                    "example_sentence": "Segnala il contenuto inappropriato. (Report the inappropriate content.)"
+                },
+                {
+                    "word": "L'analisi informatica",
+                    "reading": "la-na-lee-zee een-for-MA-tee-ka",
+                    "meaning": "IT analysis / Computing analysis",
+                    "example_sentence": "L'analisi informatica ha richiesto ore. (The IT analysis took hours.)"
+                },
+                {
+                    "word": "Intelligenza",
+                    "reading": "een-tel-lee-JEN-tsa",
+                    "meaning": "Intelligence",
+                    "example_sentence": "L'intelligenza artificiale sta cambiando il mondo. (Artificial intelligence is changing the world.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "Artificiale",
+                    "reading": "ar-tee-fee-CHA-lay",
+                    "meaning": "Artificial",
+                    "example_sentence": "È una luce artificiale molto forte. (It is a very strong artificial light.)"
+                },
+                {
+                    "word": "Robot",
+                    "reading": "RO-bot",
+                    "meaning": "Robot",
+                    "example_sentence": "Il robot pulisce il pavimento da solo. (The robot cleans the floor by itself.)"
+                },
+                {
+                    "word": "Tecnologico",
+                    "reading": "tek-no-LO-jee-ko",
+                    "meaning": "Technological",
+                    "example_sentence": "È un gadget tecnologico innovativo. (It is an innovative technological gadget.)"
+                },
+                {
+                    "word": "All'avanguardia",
+                    "reading": "al-la-van-GWAR-dya",
+                    "meaning": "State-of-the-art / Avant-garde / Modern",
+                    "example_sentence": "Il software è all'avanguardia. (The software is state-of-the-art.)"
+                },
+                {
+                    "word": "Editore",
+                    "reading": "ay-dee-TO-ray",
+                    "meaning": "Publisher [LIAR GAME: link]",
+                    "example_sentence": "L'editore ha deciso di pubblicare il libro. (The publisher decided to publish the book.) [LIAR GAME: NOT 'Editor']"
+                },
+                {
+                    "word": "Stampa",
+                    "reading": "STAN-pa",
+                    "meaning": "Press / Print [LIAR GAME: link]",
+                    "example_sentence": "La libertà di stampa è fondamentale. (Freedom of the press is fundamental.) [LIAR GAME: NOT 'Stamp']"
+                },
+                {
+                    "word": "Il deposito",
+                    "reading": "eel day-PO-zee-to",
+                    "meaning": "Warehouse / Storage / Deposit [LIAR GAME: link]",
+                    "example_sentence": "Il pacco è nel deposito centrale. (The package is in the central warehouse.) [LIAR GAME: Link to 'Magazzino' vs 'Magazine']"
+                },
+                {
+                    "word": "Proficuo",
+                    "reading": "pro-FEE-kwo",
+                    "meaning": "Useful / Profitable",
+                    "example_sentence": "È stato un incontro molto proficuo. (It was a very useful/profitable meeting.)"
+                },
+                {
+                    "word": "Articolato",
+                    "reading": "ar-tee-ko-LA-to",
+                    "meaning": "Difficult / Complex / Articulated",
+                    "example_sentence": "Il discorso era molto articolato. (The speech was very complex/articulated.)"
+                },
+                {
+                    "word": "L'ultimazione",
+                    "reading": "lool-tee-ma-TSYO-nay",
+                    "meaning": "Completion / End / Finalization",
+                    "example_sentence": "L'ultimazione dei lavori è prevista per domani. (Completion of the work is scheduled for tomorrow.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Italian Digital & Media False Friends",
+        "question": "If you are looking for an 'Editor' for your video project, should you look for an 'Editore'?",
+        "options": [
+            "Yes, an Editore edits videos",
+            "No, an Editore is a Publisher",
+            "No, an Editore is a Photographer",
+            "Yes, it means the same thing"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "In Italian, 'Editore' means 'Publisher' (the person/company that releases books/magazines). An 'editor' (someone who corrects/cuts text or video) is a 'redattore' (for text) or a 'montatore' (for video). Also, 'Stampa' means 'Press' or 'Print' (not a postage stamp, which is 'francobollo'), and 'Magazzino' or 'Deposito' is a 'Warehouse', while a 'Magazine' is a 'Rivista'!"
+    }
+}

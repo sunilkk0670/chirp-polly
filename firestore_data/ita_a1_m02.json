@@ -1,0 +1,678 @@
+{
+    "moduleId": "ita_a1_m02",
+    "theme": "Daily Life & Common Verbs",
+    "title": "Vita Quotidiana (Daily Life)",
+    "level": "a1",
+    "language": "italian",
+    "order": 2,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "Mangiare",
+                    "reading": "man-JA-ray",
+                    "meaning": "To eat",
+                    "example_sentence": "Io mangio la pasta. (I eat pasta.)"
+                },
+                {
+                    "word": "Bere",
+                    "reading": "BAY-ray",
+                    "meaning": "To drink",
+                    "example_sentence": "Noi beviamo il caffè. (We drink coffee.)"
+                },
+                {
+                    "word": "Dormire",
+                    "reading": "dor-MEE-ray",
+                    "meaning": "To sleep",
+                    "example_sentence": "Io dormo otto ore. (I sleep eight hours.)"
+                },
+                {
+                    "word": "Lavorare",
+                    "reading": "la-vo-RA-ray",
+                    "meaning": "To work",
+                    "example_sentence": "Lui lavora in ufficio. (He works in an office.)"
+                },
+                {
+                    "word": "Studiare",
+                    "reading": "stoo-DYA-ray",
+                    "meaning": "To study",
+                    "example_sentence": "Lei studia l'italiano. (She studies Italian.)"
+                },
+                {
+                    "word": "Comprare",
+                    "reading": "kom-PRA-ray",
+                    "meaning": "To buy",
+                    "example_sentence": "Compro il pane al mercato. (I buy bread at the market.)"
+                },
+                {
+                    "word": "Vendere",
+                    "reading": "VEN-day-ray",
+                    "meaning": "To sell",
+                    "example_sentence": "Lui vende macchine. (He sells cars.)"
+                },
+                {
+                    "word": "Cucinare",
+                    "reading": "koo-chee-NA-ray",
+                    "meaning": "To cook",
+                    "example_sentence": "Mia madre cucina bene. (My mother cooks well.)"
+                },
+                {
+                    "word": "Pulire",
+                    "reading": "poo-LEE-ray",
+                    "meaning": "To clean",
+                    "example_sentence": "Pulisco la casa ogni sabato. (I clean the house every Saturday.)"
+                },
+                {
+                    "word": "Aspettare",
+                    "reading": "as-pet-TA-ray",
+                    "meaning": "To wait",
+                    "example_sentence": "Aspetto l'autobus. (I wait for the bus.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "Cercare",
+                    "reading": "cher-KA-ray",
+                    "meaning": "To look for",
+                    "example_sentence": "Cerco le mie chiavi. (I look for my keys.)"
+                },
+                {
+                    "word": "Trovare",
+                    "reading": "tro-VA-ray",
+                    "meaning": "To find",
+                    "example_sentence": "Trovo sempre quello che cerco. (I always find what I'm looking for.)"
+                },
+                {
+                    "word": "Aiutare",
+                    "reading": "a-yu-TA-ray",
+                    "meaning": "To help",
+                    "example_sentence": "Aiuto mia nonna. (I help my grandmother.)"
+                },
+                {
+                    "word": "Chiamare",
+                    "reading": "kya-MA-ray",
+                    "meaning": "To call",
+                    "example_sentence": "Chiamo il dottore. (I call the doctor.)"
+                },
+                {
+                    "word": "Rispondere",
+                    "reading": "ree-SPON-day-ray",
+                    "meaning": "To answer",
+                    "example_sentence": "Rispondo al telefono. (I answer the phone.)"
+                },
+                {
+                    "word": "Chiedere",
+                    "reading": "KYAY-day-ray",
+                    "meaning": "To ask",
+                    "example_sentence": "Chiedo informazioni. (I ask for information.)"
+                },
+                {
+                    "word": "Portare",
+                    "reading": "por-TA-ray",
+                    "meaning": "To bring / wear",
+                    "example_sentence": "Porto una giacca. (I wear a jacket.)"
+                },
+                {
+                    "word": "Prendere",
+                    "reading": "PREN-day-ray",
+                    "meaning": "To take",
+                    "example_sentence": "Prendo il treno ogni giorno. (I take the train every day.)"
+                },
+                {
+                    "word": "Mettere",
+                    "reading": "MET-tay-ray",
+                    "meaning": "To put",
+                    "example_sentence": "Metto il libro sul tavolo. (I put the book on the table.)"
+                },
+                {
+                    "word": "Uscire",
+                    "reading": "oo-SHEE-ray",
+                    "meaning": "To go out",
+                    "example_sentence": "Esco con gli amici. (I go out with friends.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "La colazione",
+                    "reading": "la ko-la-TSYO-nay",
+                    "meaning": "Breakfast",
+                    "example_sentence": "Faccio colazione alle sette. (I have breakfast at seven.)"
+                },
+                {
+                    "word": "Il pranzo",
+                    "reading": "eel PRAN-tso",
+                    "meaning": "Lunch",
+                    "example_sentence": "Il pranzo è a mezzogiorno. (Lunch is at noon.)"
+                },
+                {
+                    "word": "La cena",
+                    "reading": "la CHAY-na",
+                    "meaning": "Dinner",
+                    "example_sentence": "La cena è alle otto. (Dinner is at eight.)"
+                },
+                {
+                    "word": "Il cibo",
+                    "reading": "eel CHEE-bo",
+                    "meaning": "Food",
+                    "example_sentence": "Il cibo italiano è buono. (Italian food is good.)"
+                },
+                {
+                    "word": "La mela",
+                    "reading": "la MAY-la",
+                    "meaning": "Apple",
+                    "example_sentence": "Mangio una mela ogni giorno. (I eat an apple every day.)"
+                },
+                {
+                    "word": "La pasta",
+                    "reading": "la PAS-ta",
+                    "meaning": "Pasta",
+                    "example_sentence": "La pasta è il mio piatto preferito. (Pasta is my favorite dish.)"
+                },
+                {
+                    "word": "La pizza",
+                    "reading": "la PEET-tsa",
+                    "meaning": "Pizza",
+                    "example_sentence": "Ordino una pizza margherita. (I order a margherita pizza.)"
+                },
+                {
+                    "word": "La carne",
+                    "reading": "la KAR-nay",
+                    "meaning": "Meat",
+                    "example_sentence": "Non mangio carne. (I don't eat meat.)"
+                },
+                {
+                    "word": "Il pesce",
+                    "reading": "eel PAY-shay",
+                    "meaning": "Fish",
+                    "example_sentence": "Il pesce è fresco. (The fish is fresh.)"
+                },
+                {
+                    "word": "La verdura",
+                    "reading": "la ver-DOO-ra",
+                    "meaning": "Vegetables",
+                    "example_sentence": "Mangio molta verdura. (I eat a lot of vegetables.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "La frutta",
+                    "reading": "la FROOT-ta",
+                    "meaning": "Fruit",
+                    "example_sentence": "La frutta è sana. (Fruit is healthy.)"
+                },
+                {
+                    "word": "Lo zucchero",
+                    "reading": "lo TSOOK-kay-ro",
+                    "meaning": "Sugar",
+                    "example_sentence": "Metto lo zucchero nel caffè. (I put sugar in the coffee.)"
+                },
+                {
+                    "word": "Il sale",
+                    "reading": "eel SA-lay",
+                    "meaning": "Salt",
+                    "example_sentence": "Aggiungo il sale alla pasta. (I add salt to the pasta.)"
+                },
+                {
+                    "word": "Il bicchiere",
+                    "reading": "eel beek-KYAY-ray",
+                    "meaning": "Glass",
+                    "example_sentence": "Bevo un bicchiere d'acqua. (I drink a glass of water.)"
+                },
+                {
+                    "word": "Il piatto",
+                    "reading": "eel PYAT-to",
+                    "meaning": "Plate",
+                    "example_sentence": "Il piatto è pulito. (The plate is clean.)"
+                },
+                {
+                    "word": "La forchetta",
+                    "reading": "la for-KET-ta",
+                    "meaning": "Fork",
+                    "example_sentence": "Uso la forchetta per mangiare. (I use the fork to eat.)"
+                },
+                {
+                    "word": "Il coltello",
+                    "reading": "eel kol-TEL-lo",
+                    "meaning": "Knife",
+                    "example_sentence": "Taglio la carne con il coltello. (I cut the meat with the knife.)"
+                },
+                {
+                    "word": "Il cucchiaio",
+                    "reading": "eel kook-KYA-yo",
+                    "meaning": "Spoon",
+                    "example_sentence": "Uso il cucchiaio per la zuppa. (I use the spoon for soup.)"
+                },
+                {
+                    "word": "La famiglia",
+                    "reading": "la fa-MEE-lya",
+                    "meaning": "Family",
+                    "example_sentence": "La mia famiglia è grande. (My family is big.)"
+                },
+                {
+                    "word": "Il padre",
+                    "reading": "eel PA-dray",
+                    "meaning": "Father",
+                    "example_sentence": "Mio padre lavora molto. (My father works a lot.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "La madre",
+                    "reading": "la MA-dray",
+                    "meaning": "Mother",
+                    "example_sentence": "Mia madre cucina bene. (My mother cooks well.)"
+                },
+                {
+                    "word": "Il fratello",
+                    "reading": "eel fra-TEL-lo",
+                    "meaning": "Brother",
+                    "example_sentence": "Ho un fratello maggiore. (I have an older brother.)"
+                },
+                {
+                    "word": "La sorella",
+                    "reading": "la so-REL-la",
+                    "meaning": "Sister",
+                    "example_sentence": "Mia sorella studia medicina. (My sister studies medicine.)"
+                },
+                {
+                    "word": "Il figlio",
+                    "reading": "eel FEE-lyo",
+                    "meaning": "Son",
+                    "example_sentence": "Il mio figlio ha cinque anni. (My son is five years old.)"
+                },
+                {
+                    "word": "La figlia",
+                    "reading": "la FEE-lya",
+                    "meaning": "Daughter",
+                    "example_sentence": "La mia figlia va a scuola. (My daughter goes to school.)"
+                },
+                {
+                    "word": "Il nonno",
+                    "reading": "eel NON-no",
+                    "meaning": "Grandfather",
+                    "example_sentence": "Mio nonno è molto saggio. (My grandfather is very wise.)"
+                },
+                {
+                    "word": "La nonna",
+                    "reading": "la NON-na",
+                    "meaning": "Grandmother",
+                    "example_sentence": "Mia nonna fa i biscotti. (My grandmother makes cookies.)"
+                },
+                {
+                    "word": "Marito",
+                    "reading": "ma-REE-to",
+                    "meaning": "Husband",
+                    "example_sentence": "Mio marito è gentile. (My husband is kind.)"
+                },
+                {
+                    "word": "Moglie",
+                    "reading": "MO-lyay",
+                    "meaning": "Wife",
+                    "example_sentence": "Sua moglie è dottoressa. (His wife is a doctor.)"
+                },
+                {
+                    "word": "Lavoro",
+                    "reading": "la-VO-ro",
+                    "meaning": "Job / Work",
+                    "example_sentence": "Il mio lavoro è interessante. (My job is interesting.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "Ufficio",
+                    "reading": "oof-FEE-cho",
+                    "meaning": "Office",
+                    "example_sentence": "Lavoro in un ufficio moderno. (I work in a modern office.)"
+                },
+                {
+                    "word": "Scuola",
+                    "reading": "SKWOH-la",
+                    "meaning": "School",
+                    "example_sentence": "I bambini vanno a scuola. (The children go to school.)"
+                },
+                {
+                    "word": "Insegnante",
+                    "reading": "een-say-NYAN-tay",
+                    "meaning": "Teacher",
+                    "example_sentence": "L'insegnante spiega la lezione. (The teacher explains the lesson.)"
+                },
+                {
+                    "word": "Studente",
+                    "reading": "stoo-DEN-tay",
+                    "meaning": "Student",
+                    "example_sentence": "Sono uno studente universitario. (I am a university student.)"
+                },
+                {
+                    "word": "Dottore",
+                    "reading": "dot-TO-ray",
+                    "meaning": "Doctor",
+                    "example_sentence": "Il dottore visita i pazienti. (The doctor sees patients.)"
+                },
+                {
+                    "word": "Ospedale",
+                    "reading": "os-pay-DA-lay",
+                    "meaning": "Hospital",
+                    "example_sentence": "L'ospedale è vicino. (The hospital is near.)"
+                },
+                {
+                    "word": "Negozio",
+                    "reading": "nay-GO-tsyo",
+                    "meaning": "Shop",
+                    "example_sentence": "Compro vestiti in negozio. (I buy clothes at the shop.)"
+                },
+                {
+                    "word": "Mercato",
+                    "reading": "mer-KA-to",
+                    "meaning": "Market",
+                    "example_sentence": "Vado al mercato ogni sabato. (I go to the market every Saturday.)"
+                },
+                {
+                    "word": "Tempo libero",
+                    "reading": "TEM-po LEE-bay-ro",
+                    "meaning": "Free time",
+                    "example_sentence": "Nel tempo libero leggo. (In my free time I read.)"
+                },
+                {
+                    "word": "Sport",
+                    "reading": "sport",
+                    "meaning": "Sport",
+                    "example_sentence": "Faccio sport ogni giorno. (I do sports every day.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "Musica",
+                    "reading": "MOO-zee-ka",
+                    "meaning": "Music",
+                    "example_sentence": "Ascolto la musica classica. (I listen to classical music.)"
+                },
+                {
+                    "word": "Film",
+                    "reading": "feelm",
+                    "meaning": "Movie",
+                    "example_sentence": "Guardo un film stasera. (I watch a movie tonight.)"
+                },
+                {
+                    "word": "Viaggio",
+                    "reading": "VYAD-jo",
+                    "meaning": "Trip / Travel",
+                    "example_sentence": "Faccio un viaggio in Italia. (I take a trip to Italy.)"
+                },
+                {
+                    "word": "Mare",
+                    "reading": "MA-ray",
+                    "meaning": "Sea",
+                    "example_sentence": "Vado al mare d'estate. (I go to the sea in summer.)"
+                },
+                {
+                    "word": "Montagna",
+                    "reading": "mon-TA-nya",
+                    "meaning": "Mountain",
+                    "example_sentence": "La montagna è alta. (The mountain is high.)"
+                },
+                {
+                    "word": "Sole",
+                    "reading": "SO-lay",
+                    "meaning": "Sun",
+                    "example_sentence": "Il sole splende. (The sun shines.)"
+                },
+                {
+                    "word": "Pioggia",
+                    "reading": "PYOD-ja",
+                    "meaning": "Rain",
+                    "example_sentence": "Oggi c'è la pioggia. (Today there is rain.)"
+                },
+                {
+                    "word": "Vento",
+                    "reading": "VEN-to",
+                    "meaning": "Wind",
+                    "example_sentence": "Il vento è forte. (The wind is strong.)"
+                },
+                {
+                    "word": "Neve",
+                    "reading": "NAY-vay",
+                    "meaning": "Snow",
+                    "example_sentence": "In inverno cade la neve. (In winter snow falls.)"
+                },
+                {
+                    "word": "Bello (tempo)",
+                    "reading": "BEL-lo",
+                    "meaning": "Nice (weather)",
+                    "example_sentence": "Oggi fa bel tempo. (Today the weather is nice.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "Brutto (tempo)",
+                    "reading": "BROOT-to",
+                    "meaning": "Bad (weather)",
+                    "example_sentence": "Oggi fa brutto tempo. (Today the weather is bad.)"
+                },
+                {
+                    "word": "Lunedì",
+                    "reading": "loo-nay-DEE",
+                    "meaning": "Monday",
+                    "example_sentence": "Lunedì vado al lavoro. (On Monday I go to work.)"
+                },
+                {
+                    "word": "Martedì",
+                    "reading": "mar-tay-DEE",
+                    "meaning": "Tuesday",
+                    "example_sentence": "Martedì ho una riunione. (On Tuesday I have a meeting.)"
+                },
+                {
+                    "word": "Mercoledì",
+                    "reading": "mer-ko-lay-DEE",
+                    "meaning": "Wednesday",
+                    "example_sentence": "Mercoledì è il mio giorno preferito. (Wednesday is my favorite day.)"
+                },
+                {
+                    "word": "Giovedì",
+                    "reading": "jo-vay-DEE",
+                    "meaning": "Thursday",
+                    "example_sentence": "Giovedì gioco a calcio. (On Thursday I play soccer.)"
+                },
+                {
+                    "word": "Venerdì",
+                    "reading": "vay-ner-DEE",
+                    "meaning": "Friday",
+                    "example_sentence": "Venerdì esco con gli amici. (On Friday I go out with friends.)"
+                },
+                {
+                    "word": "Sabato",
+                    "reading": "SA-ba-to",
+                    "meaning": "Saturday",
+                    "example_sentence": "Sabato vado al cinema. (On Saturday I go to the cinema.)"
+                },
+                {
+                    "word": "Domenica",
+                    "reading": "do-MAY-nee-ka",
+                    "meaning": "Sunday",
+                    "example_sentence": "Domenica riposo. (On Sunday I rest.)"
+                },
+                {
+                    "word": "Gennaio",
+                    "reading": "jen-NA-yo",
+                    "meaning": "January",
+                    "example_sentence": "Gennaio è il primo mese. (January is the first month.)"
+                },
+                {
+                    "word": "Febbraio",
+                    "reading": "feb-BRA-yo",
+                    "meaning": "February",
+                    "example_sentence": "Febbraio è corto. (February is short.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "Marzo",
+                    "reading": "MAR-tso",
+                    "meaning": "March",
+                    "example_sentence": "A marzo arriva la primavera. (In March spring arrives.)"
+                },
+                {
+                    "word": "Aprile",
+                    "reading": "a-PREE-lay",
+                    "meaning": "April",
+                    "example_sentence": "Ad aprile piove spesso. (In April it often rains.)"
+                },
+                {
+                    "word": "Maggio",
+                    "reading": "MAD-jo",
+                    "meaning": "May",
+                    "example_sentence": "Maggio è un mese bello. (May is a beautiful month.)"
+                },
+                {
+                    "word": "Giugno",
+                    "reading": "JOO-nyo",
+                    "meaning": "June",
+                    "example_sentence": "A giugno fa caldo. (In June it's hot.)"
+                },
+                {
+                    "word": "Luglio",
+                    "reading": "LOO-lyo",
+                    "meaning": "July",
+                    "example_sentence": "Luglio è il mese delle vacanze. (July is vacation month.)"
+                },
+                {
+                    "word": "Agosto",
+                    "reading": "a-GOS-to",
+                    "meaning": "August",
+                    "example_sentence": "Ad agosto vado al mare. (In August I go to the sea.)"
+                },
+                {
+                    "word": "Settembre",
+                    "reading": "set-TEM-bray",
+                    "meaning": "September",
+                    "example_sentence": "A settembre inizia la scuola. (In September school starts.)"
+                },
+                {
+                    "word": "Ottobre",
+                    "reading": "ot-TO-bray",
+                    "meaning": "October",
+                    "example_sentence": "Ottobre è autunno. (October is autumn.)"
+                },
+                {
+                    "word": "Novembre",
+                    "reading": "no-VEM-bray",
+                    "meaning": "November",
+                    "example_sentence": "A novembre fa freddo. (In November it's cold.)"
+                },
+                {
+                    "word": "Dicembre",
+                    "reading": "dee-CHEM-bray",
+                    "meaning": "December",
+                    "example_sentence": "Dicembre è il mese di Natale. (December is Christmas month.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "Colore",
+                    "reading": "ko-LO-ray",
+                    "meaning": "Color",
+                    "example_sentence": "Qual è il tuo colore preferito? (What is your favorite color?)"
+                },
+                {
+                    "word": "Rosso",
+                    "reading": "ROS-so",
+                    "meaning": "Red",
+                    "example_sentence": "La mia macchina è rossa. (My car is red.)"
+                },
+                {
+                    "word": "Blu",
+                    "reading": "bloo",
+                    "meaning": "Blue",
+                    "example_sentence": "Il cielo è blu. (The sky is blue.)"
+                },
+                {
+                    "word": "Verde",
+                    "reading": "VER-day",
+                    "meaning": "Green",
+                    "example_sentence": "L'erba è verde. (The grass is green.)"
+                },
+                {
+                    "word": "Giallo",
+                    "reading": "JAL-lo",
+                    "meaning": "Yellow",
+                    "example_sentence": "Il sole è giallo. (The sun is yellow.)"
+                },
+                {
+                    "word": "Nero",
+                    "reading": "NAY-ro",
+                    "meaning": "Black",
+                    "example_sentence": "Porto una giacca nera. (I wear a black jacket.)"
+                },
+                {
+                    "word": "Bianco",
+                    "reading": "BYAN-ko",
+                    "meaning": "White",
+                    "example_sentence": "La neve è bianca. (The snow is white.)"
+                },
+                {
+                    "word": "Salire",
+                    "reading": "sa-LEE-ray",
+                    "meaning": "To go up (NOT to go out/exit) [LIAR GAME: False Friend]",
+                    "example_sentence": "Salgo le scale. (I go up the stairs.) [LIAR GAME: NOT 'to exit']"
+                },
+                {
+                    "word": "Argomento",
+                    "reading": "ar-go-MEN-to",
+                    "meaning": "Topic/Subject (NOT an argument) [LIAR GAME: False Friend]",
+                    "example_sentence": "L'argomento della lezione è interessante. (The topic of the lesson is interesting.) [LIAR GAME: NOT 'argument/fight']"
+                },
+                {
+                    "word": "Preservativo",
+                    "reading": "pray-zer-va-TEE-vo",
+                    "meaning": "Condom (NOT a preservative) [LIAR GAME: False Friend]",
+                    "example_sentence": "Il preservativo è importante. (The condom is important.) [LIAR GAME: NOT 'food preservative']"
+                },
+                {
+                    "word": "Fine",
+                    "reading": "FEE-nay",
+                    "meaning": "End",
+                    "example_sentence": "Questa è la fine del modulo. (This is the end of the module.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Italian False Friends",
+        "question": "Your Italian friend says 'Dobbiamo discutere l'argomento.' What does this mean?",
+        "options": [
+            "We must argue about the topic",
+            "We must discuss the topic",
+            "We must fight about the argument",
+            "We must debate the argument"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The Italian word 'argomento' is a false friend. It means 'topic' or 'subject,' NOT 'argument' in the sense of a fight or disagreement. The Italian word for an argument/fight is 'litigio' or 'discussione' (when heated). This is a common mistake for English speakers learning Italian."
+    }
+}

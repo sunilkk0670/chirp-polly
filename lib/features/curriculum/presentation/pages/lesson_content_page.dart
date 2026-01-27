@@ -247,24 +247,25 @@ class _LessonContentPageState extends State<LessonContentPage> {
     final List<Map<String, dynamic>> items = [];
     
     print('🔍 Extracting vocabulary from module: ${moduleData['theme']}');
-    print('📦 Module keys: ${moduleData.keys.toList()}');
-
+    
     // Unified extraction and standardization logic
     List<dynamic>? rawItems;
     if (moduleData['vocabularyItems'] != null && moduleData['vocabularyItems'] is List) {
       rawItems = moduleData['vocabularyItems'] as List;
-      print('📝 Processing direct vocabularyItems');
     } else if (moduleData['lessons'] != null && moduleData['lessons'] is List) {
       final lessons = moduleData['lessons'] as List;
-      print('📚 Processing lessons array');
-      // If nested, flatten it. If not, just use the lessons as items.
       for (var lesson in lessons) {
-        if (lesson is Map && lesson['vocabularyItems'] != null && lesson['vocabularyItems'] is List) {
-          rawItems ??= [];
-          rawItems.addAll(lesson['vocabularyItems'] as List);
-        } else {
-          rawItems ??= [];
-          rawItems.add(lesson);
+        if (lesson is Map) {
+          // Check for 'vocabulary' (Chinese/Italian format) or 'vocabularyItems' (Legacy format)
+          final lessonVocab = lesson['vocabulary'] ?? lesson['vocabularyItems'];
+          if (lessonVocab != null && lessonVocab is List) {
+            rawItems ??= [];
+            rawItems.addAll(lessonVocab);
+          } else {
+            // Flat structure
+            rawItems ??= [];
+            rawItems.add(lesson);
+          }
         }
       }
     }
@@ -274,10 +275,10 @@ class _LessonContentPageState extends State<LessonContentPage> {
         if (rawItem is Map) {
           final mapped = Map<String, dynamic>.from(rawItem);
           final standardized = {
-            'target_text': mapped['word'] ?? mapped['targetText'] ?? mapped['target_text'] ?? mapped['target_text'] ?? mapped['kanji'] ?? '[LOADING ERROR]',
-            'english': mapped['meaning'] ?? mapped['english'] ?? mapped['translation'] ?? '[LOADING ERROR]',
-            'phonetic_transcription': mapped['reading'] ?? mapped['phoneticTranscription'] ?? mapped['phonetic_transcription'] ?? mapped['romaji'] ?? mapped['phonetic'] ?? '',
-            'radical_breakdown': mapped['radical_breakdown'] ?? mapped['radicalBreakdown'],
+            'target_text': mapped['word'] ?? mapped['targetText'] ?? mapped['target_text'] ?? mapped['kanji'] ?? '[LOADING ERROR]',
+            'english': mapped['translation'] ?? mapped['meaning'] ?? mapped['english'] ?? '[LOADING ERROR]',
+            'phonetic_transcription': mapped['phonetic'] ?? mapped['reading'] ?? mapped['phoneticTranscription'] ?? mapped['phonetic_transcription'] ?? mapped['romaji'] ?? '',
+            'radical_breakdown': mapped['radical_breakdown'] ?? mapped['radicalBreakdown'] ?? (mapped['liarGame'] == true ? 'Liar Game Trap!' : null),
             'example_sentence': mapped['example_sentence'] ?? mapped['example'] ?? '',
           };
           items.add(standardized);
@@ -288,11 +289,6 @@ class _LessonContentPageState extends State<LessonContentPage> {
     }
 
     print('✅ Extracted ${items.length} total vocabulary items');
-    if (items.isNotEmpty) {
-      print('First item keys: ${items.first.keys.toList()}');
-      print('First item: ${items.first}');
-    }
-    
     return items;
   }
 

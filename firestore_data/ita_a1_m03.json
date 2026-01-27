@@ -1,0 +1,678 @@
+{
+    "moduleId": "ita_a1_m03",
+    "theme": "Social Life & Describing the World",
+    "title": "Vita Sociale (Social Life)",
+    "level": "a1",
+    "language": "italian",
+    "order": 3,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "Vivere",
+                    "reading": "VEE-vay-ray",
+                    "meaning": "To live",
+                    "example_sentence": "Vivo in Italia. (I live in Italy.)"
+                },
+                {
+                    "word": "Abitare",
+                    "reading": "a-bee-TA-ray",
+                    "meaning": "To reside / dwell",
+                    "example_sentence": "Abito a Roma. (I reside in Rome.)"
+                },
+                {
+                    "word": "Conoscere",
+                    "reading": "ko-NO-shay-ray",
+                    "meaning": "To know (people/places)",
+                    "example_sentence": "Conosco Maria. (I know Maria.)"
+                },
+                {
+                    "word": "Sapere",
+                    "reading": "sa-PAY-ray",
+                    "meaning": "To know (facts)",
+                    "example_sentence": "So parlare italiano. (I know how to speak Italian.)"
+                },
+                {
+                    "word": "Pensare",
+                    "reading": "pen-SA-ray",
+                    "meaning": "To think",
+                    "example_sentence": "Penso che sia vero. (I think it's true.)"
+                },
+                {
+                    "word": "Credere",
+                    "reading": "KRAY-day-ray",
+                    "meaning": "To believe",
+                    "example_sentence": "Credo in te. (I believe in you.)"
+                },
+                {
+                    "word": "Sperare",
+                    "reading": "spay-RA-ray",
+                    "meaning": "To hope",
+                    "example_sentence": "Spero di vederti presto. (I hope to see you soon.)"
+                },
+                {
+                    "word": "Ricordare",
+                    "reading": "ree-kor-DA-ray",
+                    "meaning": "To remember",
+                    "example_sentence": "Ricordo il tuo nome. (I remember your name.)"
+                },
+                {
+                    "word": "Dimenticare",
+                    "reading": "dee-men-tee-KA-ray",
+                    "meaning": "To forget",
+                    "example_sentence": "Dimentico sempre le chiavi. (I always forget the keys.)"
+                },
+                {
+                    "word": "Chiamarsi",
+                    "reading": "kya-MAR-see",
+                    "meaning": "To be named",
+                    "example_sentence": "Mi chiamo Marco. (My name is Marco.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "Divertente",
+                    "reading": "dee-ver-TEN-tay",
+                    "meaning": "Funny / Fun",
+                    "example_sentence": "Il film è divertente. (The movie is funny.)"
+                },
+                {
+                    "word": "Noioso",
+                    "reading": "noy-O-zo",
+                    "meaning": "Boring",
+                    "example_sentence": "Il libro è noioso. (The book is boring.)"
+                },
+                {
+                    "word": "Facile",
+                    "reading": "FA-chee-lay",
+                    "meaning": "Easy",
+                    "example_sentence": "L'esame è facile. (The exam is easy.)"
+                },
+                {
+                    "word": "Difficile",
+                    "reading": "deef-FEE-chee-lay",
+                    "meaning": "Difficult",
+                    "example_sentence": "La matematica è difficile. (Math is difficult.)"
+                },
+                {
+                    "word": "Importante",
+                    "reading": "eem-por-TAN-tay",
+                    "meaning": "Important",
+                    "example_sentence": "Questo è molto importante. (This is very important.)"
+                },
+                {
+                    "word": "Interessante",
+                    "reading": "een-tay-res-SAN-tay",
+                    "meaning": "Interesting",
+                    "example_sentence": "La storia è interessante. (The story is interesting.)"
+                },
+                {
+                    "word": "Simpatico",
+                    "reading": "seem-PA-tee-ko",
+                    "meaning": "Nice / Likable",
+                    "example_sentence": "Lui è molto simpatico. (He is very nice.)"
+                },
+                {
+                    "word": "Antipatico",
+                    "reading": "an-tee-PA-tee-ko",
+                    "meaning": "Unpleasant",
+                    "example_sentence": "Quella persona è antipatica. (That person is unpleasant.)"
+                },
+                {
+                    "word": "Intelligente",
+                    "reading": "een-tel-lee-JEN-tay",
+                    "meaning": "Intelligent",
+                    "example_sentence": "Mia sorella è intelligente. (My sister is intelligent.)"
+                },
+                {
+                    "word": "Gentile",
+                    "reading": "jen-TEE-lay",
+                    "meaning": "Kind",
+                    "example_sentence": "Sei molto gentile. (You are very kind.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "Il tempo",
+                    "reading": "eel TEM-po",
+                    "meaning": "The weather / time",
+                    "example_sentence": "Che tempo fa oggi? (What's the weather like today?)"
+                },
+                {
+                    "word": "Il sole",
+                    "reading": "eel SO-lay",
+                    "meaning": "The sun",
+                    "example_sentence": "Il sole brilla. (The sun shines.)"
+                },
+                {
+                    "word": "La luna",
+                    "reading": "la LOO-na",
+                    "meaning": "The moon",
+                    "example_sentence": "La luna è piena. (The moon is full.)"
+                },
+                {
+                    "word": "Il mare",
+                    "reading": "eel MA-ray",
+                    "meaning": "The sea",
+                    "example_sentence": "Il mare è calmo. (The sea is calm.)"
+                },
+                {
+                    "word": "La montagna",
+                    "reading": "la mon-TA-nya",
+                    "meaning": "The mountain",
+                    "example_sentence": "La montagna è alta. (The mountain is high.)"
+                },
+                {
+                    "word": "Il lago",
+                    "reading": "eel LA-go",
+                    "meaning": "The lake",
+                    "example_sentence": "Il lago è profondo. (The lake is deep.)"
+                },
+                {
+                    "word": "Il fiume",
+                    "reading": "eel FYOO-may",
+                    "meaning": "The river",
+                    "example_sentence": "Il fiume scorre veloce. (The river flows fast.)"
+                },
+                {
+                    "word": "L'albero",
+                    "reading": "LAL-bay-ro",
+                    "meaning": "The tree",
+                    "example_sentence": "L'albero è grande. (The tree is big.)"
+                },
+                {
+                    "word": "Il fiore",
+                    "reading": "eel FYO-ray",
+                    "meaning": "The flower",
+                    "example_sentence": "Il fiore è bello. (The flower is beautiful.)"
+                },
+                {
+                    "word": "L'animale",
+                    "reading": "la-nee-MA-lay",
+                    "meaning": "The animal",
+                    "example_sentence": "L'animale è selvaggio. (The animal is wild.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "Il cane",
+                    "reading": "eel KA-nay",
+                    "meaning": "The dog",
+                    "example_sentence": "Il cane abbaia. (The dog barks.)"
+                },
+                {
+                    "word": "Il gatto",
+                    "reading": "eel GAT-to",
+                    "meaning": "The cat",
+                    "example_sentence": "Il gatto dorme. (The cat sleeps.)"
+                },
+                {
+                    "word": "L'uccello",
+                    "reading": "oot-CHEL-lo",
+                    "meaning": "The bird",
+                    "example_sentence": "L'uccello vola. (The bird flies.)"
+                },
+                {
+                    "word": "Il cavallo",
+                    "reading": "eel ka-VAL-lo",
+                    "meaning": "The horse",
+                    "example_sentence": "Il cavallo corre veloce. (The horse runs fast.)"
+                },
+                {
+                    "word": "La vacanza",
+                    "reading": "la va-KAN-tsa",
+                    "meaning": "The holiday / vacation",
+                    "example_sentence": "Vado in vacanza ad agosto. (I go on vacation in August.)"
+                },
+                {
+                    "word": "Il viaggio",
+                    "reading": "eel VYAD-jo",
+                    "meaning": "The journey / trip",
+                    "example_sentence": "Il viaggio è lungo. (The journey is long.)"
+                },
+                {
+                    "word": "La borsa",
+                    "reading": "la BOR-sa",
+                    "meaning": "The bag / purse",
+                    "example_sentence": "La borsa è pesante. (The bag is heavy.)"
+                },
+                {
+                    "word": "La valigia",
+                    "reading": "la va-LEE-ja",
+                    "meaning": "The suitcase",
+                    "example_sentence": "Preparo la valigia. (I prepare the suitcase.)"
+                },
+                {
+                    "word": "Il passaporto",
+                    "reading": "eel pas-sa-POR-to",
+                    "meaning": "The passport",
+                    "example_sentence": "Ho bisogno del passaporto. (I need the passport.)"
+                },
+                {
+                    "word": "Il biglietto",
+                    "reading": "eel bee-LYET-to",
+                    "meaning": "The ticket",
+                    "example_sentence": "Compro il biglietto del treno. (I buy the train ticket.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "Prenotare",
+                    "reading": "pray-no-TA-ray",
+                    "meaning": "To book / reserve",
+                    "example_sentence": "Prenoto un tavolo al ristorante. (I book a table at the restaurant.)"
+                },
+                {
+                    "word": "Viaggiare",
+                    "reading": "vyad-JA-ray",
+                    "meaning": "To travel",
+                    "example_sentence": "Mi piace viaggiare. (I like to travel.)"
+                },
+                {
+                    "word": "Visitare",
+                    "reading": "vee-zee-TA-ray",
+                    "meaning": "To visit",
+                    "example_sentence": "Visito il museo. (I visit the museum.)"
+                },
+                {
+                    "word": "Guadagnare",
+                    "reading": "gwa-da-NYA-ray",
+                    "meaning": "To earn / win",
+                    "example_sentence": "Guadagno mille euro al mese. (I earn a thousand euros per month.)"
+                },
+                {
+                    "word": "Perdere",
+                    "reading": "PER-day-ray",
+                    "meaning": "To lose",
+                    "example_sentence": "Perdo sempre le chiavi. (I always lose the keys.)"
+                },
+                {
+                    "word": "Vincere",
+                    "reading": "VEEN-chay-ray",
+                    "meaning": "To win",
+                    "example_sentence": "Voglio vincere la partita. (I want to win the game.)"
+                },
+                {
+                    "word": "Giocare",
+                    "reading": "jo-KA-ray",
+                    "meaning": "To play (games/sports)",
+                    "example_sentence": "Gioco a calcio. (I play soccer.)"
+                },
+                {
+                    "word": "Suonare",
+                    "reading": "swo-NA-ray",
+                    "meaning": "To play (instruments)",
+                    "example_sentence": "Suono la chitarra. (I play the guitar.)"
+                },
+                {
+                    "word": "Cantare",
+                    "reading": "kan-TA-ray",
+                    "meaning": "To sing",
+                    "example_sentence": "Canto una canzone. (I sing a song.)"
+                },
+                {
+                    "word": "Ballare",
+                    "reading": "bal-LA-ray",
+                    "meaning": "To dance",
+                    "example_sentence": "Ballo il tango. (I dance the tango.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "Ascoltare",
+                    "reading": "as-kol-TA-ray",
+                    "meaning": "To listen",
+                    "example_sentence": "Ascolto la musica. (I listen to music.)"
+                },
+                {
+                    "word": "Guardare",
+                    "reading": "gwar-DA-ray",
+                    "meaning": "To watch",
+                    "example_sentence": "Guardo la televisione. (I watch television.)"
+                },
+                {
+                    "word": "La televisione",
+                    "reading": "la tay-lay-vee-ZYON-nay",
+                    "meaning": "The television",
+                    "example_sentence": "La televisione è accesa. (The television is on.)"
+                },
+                {
+                    "word": "Il cinema",
+                    "reading": "eel CHEE-nay-ma",
+                    "meaning": "The cinema",
+                    "example_sentence": "Vado al cinema stasera. (I go to the cinema tonight.)"
+                },
+                {
+                    "word": "Il teatro",
+                    "reading": "eel tay-A-tro",
+                    "meaning": "The theater",
+                    "example_sentence": "Mi piace il teatro. (I like the theater.)"
+                },
+                {
+                    "word": "La musica",
+                    "reading": "la MOO-zee-ka",
+                    "meaning": "The music",
+                    "example_sentence": "La musica è bella. (The music is beautiful.)"
+                },
+                {
+                    "word": "La canzone",
+                    "reading": "la kan-TSO-nay",
+                    "meaning": "The song",
+                    "example_sentence": "Questa canzone è famosa. (This song is famous.)"
+                },
+                {
+                    "word": "Il museo",
+                    "reading": "eel moo-ZAY-o",
+                    "meaning": "The museum",
+                    "example_sentence": "Il museo è interessante. (The museum is interesting.)"
+                },
+                {
+                    "word": "L'arte",
+                    "reading": "LAR-tay",
+                    "meaning": "The art",
+                    "example_sentence": "Amo l'arte moderna. (I love modern art.)"
+                },
+                {
+                    "word": "La pittura",
+                    "reading": "la peet-TOO-ra",
+                    "meaning": "The painting",
+                    "example_sentence": "La pittura è bellissima. (The painting is very beautiful.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "Alto",
+                    "reading": "AL-to",
+                    "meaning": "Tall / High",
+                    "example_sentence": "Lui è alto. (He is tall.)"
+                },
+                {
+                    "word": "Basso",
+                    "reading": "BAS-so",
+                    "meaning": "Short / Low",
+                    "example_sentence": "Il tavolo è basso. (The table is low.)"
+                },
+                {
+                    "word": "Grasso",
+                    "reading": "GRAS-so",
+                    "meaning": "Fat",
+                    "example_sentence": "Il gatto è grasso. (The cat is fat.)"
+                },
+                {
+                    "word": "Magro",
+                    "reading": "MA-gro",
+                    "meaning": "Thin",
+                    "example_sentence": "Lei è magra. (She is thin.)"
+                },
+                {
+                    "word": "Giovane",
+                    "reading": "JO-va-nay",
+                    "meaning": "Young",
+                    "example_sentence": "Sono giovane. (I am young.)"
+                },
+                {
+                    "word": "Anziano",
+                    "reading": "an-TSYA-no",
+                    "meaning": "Elderly",
+                    "example_sentence": "Mio nonno è anziano. (My grandfather is elderly.)"
+                },
+                {
+                    "word": "Povero",
+                    "reading": "PO-vay-ro",
+                    "meaning": "Poor",
+                    "example_sentence": "La famiglia è povera. (The family is poor.)"
+                },
+                {
+                    "word": "Ricco",
+                    "reading": "REEK-ko",
+                    "meaning": "Rich",
+                    "example_sentence": "Lui è ricco. (He is rich.)"
+                },
+                {
+                    "word": "Forte",
+                    "reading": "FOR-tay",
+                    "meaning": "Strong",
+                    "example_sentence": "Il ragazzo è forte. (The boy is strong.)"
+                },
+                {
+                    "word": "Debole",
+                    "reading": "DAY-bo-lay",
+                    "meaning": "Weak",
+                    "example_sentence": "Mi sento debole. (I feel weak.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "Veloce",
+                    "reading": "vay-LO-chay",
+                    "meaning": "Fast",
+                    "example_sentence": "La macchina è veloce. (The car is fast.)"
+                },
+                {
+                    "word": "Lento",
+                    "reading": "LEN-to",
+                    "meaning": "Slow",
+                    "example_sentence": "Il treno è lento. (The train is slow.)"
+                },
+                {
+                    "word": "Pulito",
+                    "reading": "poo-LEE-to",
+                    "meaning": "Clean",
+                    "example_sentence": "La casa è pulita. (The house is clean.)"
+                },
+                {
+                    "word": "Sporco",
+                    "reading": "SPOR-ko",
+                    "meaning": "Dirty",
+                    "example_sentence": "Il pavimento è sporco. (The floor is dirty.)"
+                },
+                {
+                    "word": "Pieno",
+                    "reading": "PYAY-no",
+                    "meaning": "Full",
+                    "example_sentence": "Il bicchiere è pieno. (The glass is full.)"
+                },
+                {
+                    "word": "Vuoto",
+                    "reading": "VWOH-to",
+                    "meaning": "Empty",
+                    "example_sentence": "La bottiglia è vuota. (The bottle is empty.)"
+                },
+                {
+                    "word": "Aperto",
+                    "reading": "a-PER-to",
+                    "meaning": "Open",
+                    "example_sentence": "Il negozio è aperto. (The shop is open.)"
+                },
+                {
+                    "word": "Chiuso",
+                    "reading": "KYOO-zo",
+                    "meaning": "Closed",
+                    "example_sentence": "La porta è chiusa. (The door is closed.)"
+                },
+                {
+                    "word": "Leggero",
+                    "reading": "led-JAY-ro",
+                    "meaning": "Light (weight)",
+                    "example_sentence": "La borsa è leggera. (The bag is light.)"
+                },
+                {
+                    "word": "Pesante",
+                    "reading": "pay-ZAN-tay",
+                    "meaning": "Heavy",
+                    "example_sentence": "La valigia è pesante. (The suitcase is heavy.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "Morbido",
+                    "reading": "MOR-bee-do",
+                    "meaning": "Soft",
+                    "example_sentence": "Il cuscino è morbido. (The pillow is soft.)"
+                },
+                {
+                    "word": "Duro",
+                    "reading": "DOO-ro",
+                    "meaning": "Hard",
+                    "example_sentence": "Il letto è duro. (The bed is hard.)"
+                },
+                {
+                    "word": "Caldo",
+                    "reading": "KAL-do",
+                    "meaning": "Hot",
+                    "example_sentence": "Il caffè è caldo. (The coffee is hot.)"
+                },
+                {
+                    "word": "Freddo",
+                    "reading": "FRED-do",
+                    "meaning": "Cold",
+                    "example_sentence": "L'acqua è fredda. (The water is cold.)"
+                },
+                {
+                    "word": "Chiaro",
+                    "reading": "KYA-ro",
+                    "meaning": "Clear / Light (color)",
+                    "example_sentence": "Il cielo è chiaro. (The sky is clear.)"
+                },
+                {
+                    "word": "Scuro",
+                    "reading": "SKOO-ro",
+                    "meaning": "Dark",
+                    "example_sentence": "Il colore è scuro. (The color is dark.)"
+                },
+                {
+                    "word": "Vicino",
+                    "reading": "vee-CHEE-no",
+                    "meaning": "Near",
+                    "example_sentence": "La stazione è vicina. (The station is near.)"
+                },
+                {
+                    "word": "Lontano",
+                    "reading": "lon-TA-no",
+                    "meaning": "Far",
+                    "example_sentence": "L'aeroporto è lontano. (The airport is far.)"
+                },
+                {
+                    "word": "Sopra",
+                    "reading": "SO-pra",
+                    "meaning": "Above / On",
+                    "example_sentence": "Il libro è sopra il tavolo. (The book is on the table.)"
+                },
+                {
+                    "word": "Sotto",
+                    "reading": "SOT-to",
+                    "meaning": "Under / Below",
+                    "example_sentence": "Il gatto è sotto il letto. (The cat is under the bed.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "Davanti",
+                    "reading": "da-VAN-tee",
+                    "meaning": "In front",
+                    "example_sentence": "Sono davanti alla porta. (I am in front of the door.)"
+                },
+                {
+                    "word": "Dietro",
+                    "reading": "DYAY-tro",
+                    "meaning": "Behind",
+                    "example_sentence": "Il cane è dietro la casa. (The dog is behind the house.)"
+                },
+                {
+                    "word": "Dentro",
+                    "reading": "DEN-tro",
+                    "meaning": "Inside",
+                    "example_sentence": "Sono dentro la stanza. (I am inside the room.)"
+                },
+                {
+                    "word": "Fuori",
+                    "reading": "FWOH-ree",
+                    "meaning": "Outside",
+                    "example_sentence": "I bambini giocano fuori. (The children play outside.)"
+                },
+                {
+                    "word": "Tra / Fra",
+                    "reading": "tra / fra",
+                    "meaning": "Between / Among",
+                    "example_sentence": "Il libro è tra i due quaderni. (The book is between the two notebooks.)"
+                },
+                {
+                    "word": "Prima",
+                    "reading": "PREE-ma",
+                    "meaning": "Before",
+                    "example_sentence": "Arrivo prima di te. (I arrive before you.)"
+                },
+                {
+                    "word": "Dopo",
+                    "reading": "DO-po",
+                    "meaning": "After",
+                    "example_sentence": "Mangio dopo il lavoro. (I eat after work.)"
+                },
+                {
+                    "word": "Confetti",
+                    "reading": "kon-FET-tee",
+                    "meaning": "Sugared almonds (NOT party confetti) [LIAR GAME: False Friend]",
+                    "example_sentence": "I confetti sono per il matrimonio. (The sugared almonds are for the wedding.) [LIAR GAME: NOT 'party confetti']"
+                },
+                {
+                    "word": "Magazzino",
+                    "reading": "ma-gat-TSEE-no",
+                    "meaning": "Warehouse / Store (NOT a magazine) [LIAR GAME: False Friend]",
+                    "example_sentence": "Il magazzino è pieno di merci. (The warehouse is full of goods.) [LIAR GAME: NOT 'magazine/publication']"
+                },
+                {
+                    "word": "Eventualmente",
+                    "reading": "ay-ven-twal-MEN-tay",
+                    "meaning": "Possibly / If necessary (NOT eventually) [LIAR GAME: False Friend]",
+                    "example_sentence": "Eventualmente posso aiutarti. (If necessary, I can help you.) [LIAR GAME: NOT 'eventually/in the end']"
+                },
+                {
+                    "word": "Fine",
+                    "reading": "FEE-nay",
+                    "meaning": "End",
+                    "example_sentence": "Questa è la fine del modulo. (This is the end of the module.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Italian False Friends",
+        "question": "You're at an Italian wedding and someone offers you 'confetti.' What are they giving you?",
+        "options": [
+            "Party confetti to throw",
+            "Sugared almonds",
+            "Small candies",
+            "Colorful paper pieces"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The Italian word 'confetti' is a classic false friend. It means 'sugared almonds,' which are traditional Italian wedding favors, NOT the colorful paper pieces thrown at celebrations. The Italian word for party confetti is 'coriandoli.' This is one of the most amusing false friends for English speakers at Italian celebrations!"
+    }
+}

@@ -6,9 +6,10 @@ import 'firebase_options.dart';
 import 'features/curriculum/presentation/pages/home_page.dart';
 import 'features/curriculum/presentation/pages/firestore_test_page.dart';
 import 'features/auth/presentation/pages/login_page.dart';
-import 'features/auth/presentation/providers/auth_providers.dart';
 import 'features/legal/presentation/pages/compliance_page.dart';
 import 'features/info/presentation/pages/about_page.dart';
+import 'features/auth/domain/entities/user_entity.dart';
+import 'features/auth/presentation/providers/auth_providers.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -28,9 +29,37 @@ void main() async {
 class ChirpPollyApp extends ConsumerWidget {
   const ChirpPollyApp({super.key});
 
+  // Global navigator key for navigation outside of build context
+  static final GlobalKey<NavigatorState> navigatorKey = GlobalKey<NavigatorState>();
+
   @override
   Widget build(BuildContext context, WidgetRef ref) {
+    // Listen to auth state changes globally to update navigation or UI
+    ref.listen(authStateProvider, (previous, next) {
+      final user = next.valueOrNull;
+      final previousUser = previous?.valueOrNull;
+      
+      debugPrint('Auth change detected: ${previousUser?.email} -> ${user?.email}');
+      
+      if (previousUser == null && user != null) {
+        debugPrint('User just logged in. Current user: ${user.email}');
+        // User just logged in, if they are on login page, move them to home
+        final context = navigatorKey.currentContext;
+        if (context != null) {
+          final currentRoute = ModalRoute.of(context)?.settings.name;
+          debugPrint('Current route: $currentRoute');
+          if (currentRoute == '/login') {
+            debugPrint('Redirecting from /login to /home via global listener');
+            navigatorKey.currentState?.pushReplacementNamed('/home');
+          }
+        } else {
+          debugPrint('Navigator context is null, cannot redirect globally');
+        }
+      }
+    });
+
     return MaterialApp(
+      navigatorKey: navigatorKey,
       title: 'ChirPolly - Language Learning',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
@@ -45,8 +74,10 @@ class ChirpPollyApp extends ConsumerWidget {
           ],
         ),
       ),
-      home: const AuthGate(),
+      // Changed from AuthGate to HomePage for public access
+      home: const HomePage(),
       routes: {
+        '/home': (context) => const HomePage(),
         '/test-firestore': (context) => const FirestoreTestPage(),
         '/login': (context) => const LoginPage(),
         '/compliance': (context) {
@@ -55,48 +86,6 @@ class ChirpPollyApp extends ConsumerWidget {
         },
         '/about': (context) => const AboutPage(),
       },
-    );
-  }
-}
-
-class AuthGate extends ConsumerWidget {
-  const AuthGate({super.key});
-
-  @override
-  Widget build(BuildContext context, WidgetRef ref) {
-    final authState = ref.watch(authStateProvider);
-
-    return authState.when(
-      data: (user) {
-        // If user is logged in, show HomePage, otherwise show LoginPage
-        if (user != null) {
-          return const HomePage();
-        } else {
-          return const LoginPage();
-        }
-      },
-      loading: () => const Scaffold(
-        body: Center(
-          child: CircularProgressIndicator(
-            color: Color(0xFF6A4CBC),
-          ),
-        ),
-      ),
-      error: (error, stack) => Scaffold(
-        body: Center(
-          child: Column(
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: [
-              Icon(Icons.error_outline, size: 64, color: Colors.red.shade300),
-              const SizedBox(height: 16),
-              Text(
-                'Error: ${error.toString()}',
-                style: TextStyle(color: Colors.grey.shade700),
-              ),
-            ],
-          ),
-        ),
-      ),
     );
   }
 }

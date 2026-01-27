@@ -160,7 +160,124 @@ class AboutPage extends StatelessWidget {
                   ],
                 ),
               ),
-              const SizedBox(height: 64),
+              const SizedBox(height: 80),
+
+              _buildSectionTitle('Our Team'),
+              const SizedBox(height: 16),
+              _buildModernCard(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Row(
+                      children: [
+                        Container(
+                          width: 80,
+                          height: 80,
+                          decoration: BoxDecoration(
+                            shape: BoxShape.circle,
+                            gradient: const LinearGradient(
+                              colors: [Color(0xFF6A4CBC), Color(0xFF2E3192)],
+                            ),
+                          ),
+                          child: const Center(
+                            child: Text(
+                              'SK',
+                              style: TextStyle(
+                                fontSize: 32,
+                                fontWeight: FontWeight.bold,
+                                color: Colors.white,
+                              ),
+                            ),
+                          ),
+                        ),
+                        const SizedBox(width: 24),
+                        Expanded(
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Text(
+                                'Sunil Kumar Krishnan',
+                                style: GoogleFonts.outfit(
+                                  fontSize: 24,
+                                  fontWeight: FontWeight.bold,
+                                  color: const Color(0xFF2E3192),
+                                ),
+                              ),
+                              const SizedBox(height: 4),
+                              Text(
+                                'Founder',
+                                style: GoogleFonts.inter(
+                                  fontSize: 16,
+                                  fontWeight: FontWeight.w600,
+                                  color: const Color(0xFF6A4CBC),
+                                ),
+                              ),
+                            ],
+                          ),
+                        ),
+                      ],
+                    ),
+                    const SizedBox(height: 24),
+                    Text(
+                      'A technology entrepreneur dedicated to bridging linguistic gaps through AI-driven education. With a focus on innovative learning mechanics like the "Liar Game," Sunil leads innovations in developing scalable, digital-first solutions for global and regional language mastery.',
+                      style: GoogleFonts.inter(
+                        fontSize: 16,
+                        height: 1.6,
+                        color: Colors.grey.shade800,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+              const SizedBox(height: 48),
+
+              _buildSectionTitle('Current Development Stage'),
+              const SizedBox(height: 16),
+              _buildModernCard(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Row(
+                      children: [
+                        Container(
+                          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                          decoration: BoxDecoration(
+                            color: Colors.green.shade50,
+                            borderRadius: BorderRadius.circular(20),
+                            border: Border.all(color: Colors.green.shade300, width: 2),
+                          ),
+                          child: Row(
+                            mainAxisSize: MainAxisSize.min,
+                            children: [
+                              Icon(Icons.check_circle, color: Colors.green.shade700, size: 20),
+                              const SizedBox(width: 8),
+                              Text(
+                                'Live and Serving Users',
+                                style: GoogleFonts.inter(
+                                  fontSize: 16,
+                                  fontWeight: FontWeight.bold,
+                                  color: Colors.green.shade700,
+                                ),
+                              ),
+                            ],
+                          ),
+                        ),
+                      ],
+                    ),
+                    const SizedBox(height: 32),
+                    _buildMetricRow('Languages Available', '7', 'French, Spanish, Korean, Japanese, Sanskrit, English & German'),
+                    const Divider(height: 32),
+                    _buildMetricRow('Total Vocabulary', '21,000 words', '3,000 words per language across all courses'),
+                    const Divider(height: 32),
+                    _buildMetricRow('Course Levels', 'A1 to B1', 'Beginner to Intermediate proficiency'),
+                    const Divider(height: 32),
+                    _buildMetricRow('Platform', 'Web & Mobile', 'Flutter-based cross-platform application'),
+                    const Divider(height: 32),
+                    _buildMetricRow('Roadmap', 'Expanding to 12+ languages', 'Continuous content development and feature enhancement'),
+                  ],
+                ),
+              ),
+              const SizedBox(height: 80),
 
               Center(
                 child: Column(
@@ -264,6 +381,47 @@ class AboutPage extends StatelessWidget {
         ),
       ),
       child: child,
+    );
+  }
+
+  Widget _buildMetricRow(String label, String value, String description) {
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Row(
+          crossAxisAlignment: CrossAxisAlignment.baseline,
+          textBaseline: TextBaseline.alphabetic,
+          children: [
+            Text(
+              label,
+              style: GoogleFonts.inter(
+                fontSize: 14,
+                fontWeight: FontWeight.w600,
+                color: Colors.grey.shade600,
+                letterSpacing: 0.5,
+              ),
+            ),
+            const Spacer(),
+            Text(
+              value,
+              style: GoogleFonts.outfit(
+                fontSize: 20,
+                fontWeight: FontWeight.bold,
+                color: const Color(0xFF6A4CBC),
+              ),
+            ),
+          ],
+        ),
+        const SizedBox(height: 8),
+        Text(
+          description,
+          style: GoogleFonts.inter(
+            fontSize: 13,
+            color: Colors.grey.shade700,
+            height: 1.4,
+          ),
+        ),
+      ],
     );
   }
 

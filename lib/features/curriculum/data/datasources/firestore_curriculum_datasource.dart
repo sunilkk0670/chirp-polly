@@ -56,7 +56,7 @@ class FirestoreCurriculumDatasource {
     final LiarGameModel liarGameData = _extractLiarGameData(data);
 
     return ModuleModel(
-      id: data['moduleId'] ?? docId,
+      id: data['moduleId'] ?? data['module_id'] ?? docId,
       theme: data['theme'] ?? 'Unknown Theme',
       lessons: lessons,
       liarGameData: liarGameData,
@@ -64,23 +64,59 @@ class FirestoreCurriculumDatasource {
   }
 
   /// Extracts lessons from Firestore data
-  /// Handles multiple formats: lessons array, vocabularyItems array, or sampleVocab
+  /// Handles multiple formats: nested lessons with vocabulary, vocabularyItems array, or sampleVocab
   List<LessonModel> _extractLessons(Map<String, dynamic> data) {
-    // Try 'lessons' field first (old format)
+    // NEW: Try nested 'lessons' field with vocabulary arrays (Chinese/Italian format)
     if (data['lessons'] != null && data['lessons'] is List) {
-      return (data['lessons'] as List).map((lessonData) {
-        return LessonModel(
-          targetText: lessonData['targetText'] ?? lessonData['target_text'] ?? '',
-          english: lessonData['english'] ?? '',
-          phoneticTranscription: lessonData['phoneticTranscription'] ?? 
-                                 lessonData['phonetic_transcription'] ?? '',
-          radicalBreakdown: lessonData['radicalBreakdown'] ?? 
-                           lessonData['radical_breakdown'],
-        );
-      }).toList();
+      final lessonsList = data['lessons'] as List;
+      
+      // Check if this is the new nested format (each lesson has vocabulary array)
+      if (lessonsList.isNotEmpty && lessonsList.first is Map) {
+        final firstLesson = lessonsList.first as Map;
+        
+        if (firstLesson['vocabulary'] != null && firstLesson['vocabulary'] is List) {
+          // New nested format: flatten all vocabulary from all lessons
+          print('📚 Using nested lessons format with vocabulary arrays');
+          final allVocab = <LessonModel>[];
+          
+          for (final lesson in lessonsList) {
+            if (lesson is Map && lesson['vocabulary'] is List) {
+              final vocabList = lesson['vocabulary'] as List;
+              
+              for (final vocabItem in vocabList) {
+                if (vocabItem is Map) {
+                  allVocab.add(LessonModel(
+                    targetText: vocabItem['word'] ?? '',
+                    english: vocabItem['translation'] ?? '',
+                    phoneticTranscription: vocabItem['phonetic'] ?? '',
+                    radicalBreakdown: vocabItem['liarGame'] == true 
+                        ? 'Liar Game Trap!' 
+                        : null,
+                  ));
+                }
+              }
+            }
+          }
+          
+          print('✅ Extracted ${allVocab.length} words from nested lessons');
+          return allVocab;
+        }
+        
+        // Old flat lessons format (direct lesson objects)
+        return lessonsList.map((lessonData) {
+          return LessonModel(
+            targetText: lessonData['targetText'] ?? lessonData['target_text'] ?? '',
+            english: lessonData['english'] ?? '',
+            phoneticTranscription: lessonData['phoneticTranscription'] ?? 
+                                   lessonData['phonetic_transcription'] ?? '',
+            radicalBreakdown: lessonData['radicalBreakdown'] ?? 
+                             lessonData['radical_breakdown'],
+          );
+        }).toList();
+      }
     }
 
-    // Try 'vocabularyItems' field (new format - array of strings or objects)
+    // Try 'vocabularyItems' field (array of strings or objects)
     if (data['vocabularyItems'] != null && data['vocabularyItems'] is List) {
       final vocabList = data['vocabularyItems'] as List;
       

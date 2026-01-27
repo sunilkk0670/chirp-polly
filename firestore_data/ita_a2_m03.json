@@ -1,0 +1,672 @@
+{
+    "moduleId": "ita_a2_m03",
+    "theme": "Travel & Culture",
+    "title": "Viaggi & Cultura (Travel & Culture)",
+    "level": "a2",
+    "language": "italian",
+    "order": 3,
+    "lessons": [
+        {
+            "order": 1,
+            "vocabularyItems": [
+                {
+                    "word": "Il percorso",
+                    "reading": "eel per-KOR-so",
+                    "meaning": "The path / itinerary / route",
+                    "example_sentence": "Seguiamo il percorso sulla mappa. (We follow the path/route on the map.)"
+                },
+                {
+                    "word": "La destinazione",
+                    "reading": "la des-tee-na-TSYO-nay",
+                    "meaning": "Destination",
+                    "example_sentence": "Qual è la nostra destinazione finale? (What is our final destination?)"
+                },
+                {
+                    "word": "La traversata",
+                    "reading": "la tra-ver-SA-ta",
+                    "meaning": "The crossing / journey",
+                    "example_sentence": "La traversata del mare è durata ore. (The sea crossing lasted hours.)"
+                },
+                {
+                    "word": "L'avventura",
+                    "reading": "lav-ven-TOO-ra",
+                    "meaning": "Adventure",
+                    "example_sentence": "Ogni viaggio è un'avventura. (Every trip is an adventure.)"
+                },
+                {
+                    "word": "La scoperta",
+                    "reading": "la sko-PER-ta",
+                    "meaning": "Discovery",
+                    "example_sentence": "Abbiamo fatto una scoperta incredibile. (We made an incredible discovery.)"
+                },
+                {
+                    "word": "Perlustrare",
+                    "reading": "per-loo-STRAR-ray",
+                    "meaning": "To scout / explore / examine",
+                    "example_sentence": "Dobbiamo perlustrare la zona. (We must scout/examine the area.)"
+                },
+                {
+                    "word": "Girovagare",
+                    "reading": "jee-ro-va-GA-ray",
+                    "meaning": "To wander / roam",
+                    "example_sentence": "Ci piace girovagare per le strade di Roma. (We like to wander through the streets of Rome.)"
+                },
+                {
+                    "word": "Contemplare",
+                    "reading": "kon-tem-PLAR-ray",
+                    "meaning": "To contemplate / admire",
+                    "example_sentence": "Mi piace contemplare il mare al tramonto. (I like to contemplate the sea at sunset.)"
+                },
+                {
+                    "word": "Godersi",
+                    "reading": "go-DER-see",
+                    "meaning": "To enjoy oneself",
+                    "example_sentence": "Pensa a godersi la vacanza. (Think about enjoying the vacation.)"
+                },
+                {
+                    "word": "Soggiornare",
+                    "reading": "sod-jor-NA-ray",
+                    "meaning": "To stay / reside temporarily",
+                    "example_sentence": "Vogliamo soggiornare in un agriturismo. (We want to stay at a farmhouse.)"
+                }
+            ]
+        },
+        {
+            "order": 2,
+            "vocabularyItems": [
+                {
+                    "word": "Il monumento",
+                    "reading": "eel mo-noo-MEN-to",
+                    "meaning": "Monument",
+                    "example_sentence": "Il Colosseo è un monumento famoso. (The Colosseum is a famous monument.)"
+                },
+                {
+                    "word": "L'attrazione",
+                    "reading": "lat-tra-TSYO-nay",
+                    "meaning": "Attraction",
+                    "example_sentence": "Questa è l'attrazione principale. (This is the main attraction.)"
+                },
+                {
+                    "word": "La galleria",
+                    "reading": "la gal-lay-REE-a",
+                    "meaning": "Gallery (art museo)",
+                    "example_sentence": "Visitiamo la galleria degli Uffizi. (Let's visit the Uffizi Gallery.)"
+                },
+                {
+                    "word": "La mostra",
+                    "reading": "la MOS-tra",
+                    "meaning": "Exhibition",
+                    "example_sentence": "C'è una mostra di Leonardo da Vinci. (There is an exhibition of Leonardo da Vinci.)"
+                },
+                {
+                    "word": "Il patrimonio",
+                    "reading": "eel pa-tree-MO-nyo",
+                    "meaning": "Heritage",
+                    "example_sentence": "L'Italia ha un grande patrimonio artistico. (Italy has a great artistic heritage.)"
+                },
+                {
+                    "word": "La cultura",
+                    "reading": "la kool-TOO-ra",
+                    "meaning": "Culture",
+                    "example_sentence": "È importante conoscere la cultura locale. (It is important to know the local culture.)"
+                },
+                {
+                    "word": "L'usanza",
+                    "reading": "loo-ZAN-tsa",
+                    "meaning": "Custom / Tradition",
+                    "example_sentence": "Rispettiamo l'usanza del posto. (We respect the local custom.)"
+                },
+                {
+                    "word": "La tradizione",
+                    "reading": "la tra-dee-TSYO-nay",
+                    "meaning": "Tradition",
+                    "example_sentence": "La cucina è parte della tradizione. (Cooking is part of the tradition.)"
+                },
+                {
+                    "word": "Il folclore",
+                    "reading": "eel fol-KLO-ray",
+                    "meaning": "Folklore",
+                    "example_sentence": "Amiamo il folclore siciliano. (We love Sicilian folklore.)"
+                },
+                {
+                    "word": "La leggenda",
+                    "reading": "la led-JEN-da",
+                    "meaning": "Legend",
+                    "example_sentence": "Questa è una vecchia leggenda medievale. (This is an old medieval legend.)"
+                }
+            ]
+        },
+        {
+            "order": 3,
+            "vocabularyItems": [
+                {
+                    "word": "Il mito",
+                    "reading": "eel MEE-to",
+                    "meaning": "Myth",
+                    "example_sentence": "Il mito di Romolo e Remo. (The myth of Romulus and Remus.)"
+                },
+                {
+                    "word": "La ricorrenza",
+                    "reading": "la ree-kor-REN-tsa",
+                    "meaning": "Event / Anniversary / Celebration",
+                    "example_sentence": "È una ricorrenza molto sentita. (It is a deeply felt celebration.)"
+                },
+                {
+                    "word": "Il festival",
+                    "reading": "eel FES-tee-val",
+                    "meaning": "Festival",
+                    "example_sentence": "Andiamo al festival del cinema. (Let's go to the film festival.)"
+                },
+                {
+                    "word": "La festa patronale",
+                    "reading": "la FES-ta pa-tro-NA-lay",
+                    "meaning": "Local patron saint feast",
+                    "example_sentence": "La festa patronale è un giorno festivo. (The local feast day is a holiday.)"
+                },
+                {
+                    "word": "Il rito",
+                    "reading": "eel REE-to",
+                    "meaning": "Ritual",
+                    "example_sentence": "Il caffè è un rito per gli italiani. (Coffee is a ritual for Italians.)"
+                },
+                {
+                    "word": "Locale",
+                    "reading": "lo-KA-lay",
+                    "meaning": "Local",
+                    "example_sentence": "Mangiamo in un ristorante locale. (We eat in a local restaurant.)"
+                },
+                {
+                    "word": "Del posto",
+                    "reading": "del POS-to",
+                    "meaning": "Of the place / Local",
+                    "example_sentence": "Chiediamo informazioni alla gente del posto. (Let's ask the locals for information.)"
+                },
+                {
+                    "word": "Tipico",
+                    "reading": "TEE-pee-ko",
+                    "meaning": "Typical",
+                    "example_sentence": "Proviamo un piatto tipico. (Let's try a typical dish.)"
+                },
+                {
+                    "word": "Artigianale",
+                    "reading": "ar-tee-ja-NA-lay",
+                    "meaning": "Handcrafted",
+                    "example_sentence": "Il gelato artigianale è il migliore. (Handcrafted gelato is the best.)"
+                },
+                {
+                    "word": "Il mastro",
+                    "reading": "eel MA-stro",
+                    "meaning": "The master craftsman",
+                    "example_sentence": "Lui è un mastro vetraio. (He is a master glassmaker.)"
+                }
+            ]
+        },
+        {
+            "order": 4,
+            "vocabularyItems": [
+                {
+                    "word": "Il prodotto",
+                    "reading": "eel pro-DOT-to",
+                    "meaning": "Product",
+                    "example_sentence": "Compriamo prodotti a chilometri zero. (We buy zero-kilometer products.)"
+                },
+                {
+                    "word": "Il pensiero",
+                    "reading": "eel pen-SYAY-ro",
+                    "meaning": "Thought / Small gift / Token",
+                    "example_sentence": "Ti ho portato un piccolo pensiero. (I brought you a small token/gift.)"
+                },
+                {
+                    "word": "L'omaggio",
+                    "reading": "lo-MAD-jo",
+                    "meaning": "Tribute / Free gift / Homage",
+                    "example_sentence": "Ti offriamo un piccolo omaggio. (We offer you a small free gift/tribute.)"
+                },
+                {
+                    "word": "Comperare",
+                    "reading": "kom-pay-RA-ray",
+                    "meaning": "To buy / purchase",
+                    "example_sentence": "Dobbiamo comperare i biglietti. (We must buy the tickets.)"
+                },
+                {
+                    "word": "Smerciare",
+                    "reading": "zmer-CHA-ray",
+                    "meaning": "To sell / trade / peddle",
+                    "example_sentence": "Lui smercia oggetti d'antiquariato. (He trades in antiques.)"
+                },
+                {
+                    "word": "La fiera",
+                    "reading": "la FYAY-ra",
+                    "meaning": "The fair / trade show",
+                    "example_sentence": "C'è la fiera del libro a Torino. (There is the book fair in Turin.)"
+                },
+                {
+                    "word": "La bottega",
+                    "reading": "la bot-TAY-ga",
+                    "meaning": "Workshop / Small shop",
+                    "example_sentence": "L'artista lavora nella sua bottega. (The artist works in his workshop.)"
+                },
+                {
+                    "word": "Il forestiero",
+                    "reading": "eel fo-ray-STYAY-ro",
+                    "meaning": "The foreigner / outsider",
+                    "example_sentence": "Il forestiero è benvenuto qui. (The outsider is welcome here.)"
+                },
+                {
+                    "word": "Turistico",
+                    "reading": "too-REES-tee-ko",
+                    "meaning": "Touristic",
+                    "example_sentence": "È un posto molto turistico. (It is a very touristic place.)"
+                },
+                {
+                    "word": "L'agenzia",
+                    "reading": "la-jen-TSEE-a",
+                    "meaning": "Agency",
+                    "example_sentence": "Contattiamo l'agenzia di viaggi. (Let's contact the travel agency.)"
+                }
+            ]
+        },
+        {
+            "order": 5,
+            "vocabularyItems": [
+                {
+                    "word": "La guida",
+                    "reading": "la GWEE-da",
+                    "meaning": "Guide (person or book)",
+                    "example_sentence": "La guida ci spiega la storia del castello. (The guide explains the history of the castle.)"
+                },
+                {
+                    "word": "L'opuscolo",
+                    "reading": "lo-POOS-ko-lo",
+                    "meaning": "Brochure / Booklet",
+                    "example_sentence": "Leggi l'opuscolo informativo. (Read the information brochure.)"
+                },
+                {
+                    "word": "La cartina",
+                    "reading": "la kar-TEE-na",
+                    "meaning": "Map / Small map",
+                    "example_sentence": "Guarda la cartina della città. (Look at the city map.)"
+                },
+                {
+                    "word": "Programmare",
+                    "reading": "pro-gram-MA-ray",
+                    "meaning": "To plan / program",
+                    "example_sentence": "Dobbiamo programmare le soste. (We must plan the stops.)"
+                },
+                {
+                    "word": "Riservare",
+                    "reading": "ree-zer-VA-ray",
+                    "meaning": "To reserve",
+                    "example_sentence": "Vorrei riservare un tavolo per due. (I would like to reserve a table for two.)"
+                },
+                {
+                    "word": "Accertare",
+                    "reading": "at-cher-TA-ray",
+                    "meaning": "To ascertain / confirm",
+                    "example_sentence": "Dobbiamo accertare la disponibilità. (We must confirm the availability.)"
+                },
+                {
+                    "word": "Cancellare",
+                    "reading": "kan-chel-LA-ray",
+                    "meaning": "To cancel",
+                    "example_sentence": "Purtroppo devo cancellare la prenotazione. (Unfortunately, I must cancel the reservation.)"
+                },
+                {
+                    "word": "L'indennizzo",
+                    "reading": "leen-den-NEED-dzo",
+                    "meaning": "Indemnity / Refund",
+                    "example_sentence": "Ho ricevuto un indennizzo per il ritardo. (I received a refund for the delay.)"
+                },
+                {
+                    "word": "La tariffa",
+                    "reading": "la ta-REEF-fa",
+                    "meaning": "Fare / Rate",
+                    "example_sentence": "La tariffa è fissa. (The fare is fixed.)"
+                },
+                {
+                    "word": "La deduzione",
+                    "reading": "la day-doo-TSYO-nay",
+                    "meaning": "Deduction / Discount",
+                    "example_sentence": "C'è una deduzione sul prezzo. (There is a deduction on the price.)"
+                }
+            ]
+        },
+        {
+            "order": 6,
+            "vocabularyItems": [
+                {
+                    "word": "L'alloggio",
+                    "reading": "lal-LOD-jo",
+                    "meaning": "Accommodation",
+                    "example_sentence": "L'alloggio è compreso nel prezzo. (Accommodation is included in the price.)"
+                },
+                {
+                    "word": "La pensione",
+                    "reading": "la pen-SYO-nay",
+                    "meaning": "Boarding house / Pension",
+                    "example_sentence": "Soggiorniamo in una piccola pensione vicina al mare. (We stay in a small boarding house near the sea.)"
+                },
+                {
+                    "word": "Il villaggio",
+                    "reading": "eel veel-LAD-jo",
+                    "meaning": "Village / Resort",
+                    "example_sentence": "Il villaggio turistico è molto grande. (The tourist resort is very large.)"
+                },
+                {
+                    "word": "L'agriturismo",
+                    "reading": "la-gree-too-REES-mo",
+                    "meaning": "Farmhouse stay",
+                    "example_sentence": "L'agriturismo offre prodotti biologici. (The farmhouse offers organic products.)"
+                },
+                {
+                    "word": "Il campeggio",
+                    "reading": "eel kam-PED-jo",
+                    "meaning": "Camping",
+                    "example_sentence": "Amiamo fare campeggio in montagna. (We love camping in the mountains.)"
+                },
+                {
+                    "word": "Lo scorcio",
+                    "reading": "lo SKOR-cho",
+                    "meaning": "Glimpse / View",
+                    "example_sentence": "C'è uno scorcio bellissimo sulla piazza. (There is a beautiful glimpse of the square.)"
+                },
+                {
+                    "word": "Il belvedere",
+                    "reading": "eel bel-vay-DAY-ray",
+                    "meaning": "Lookout / Panorama / Viewpoint",
+                    "example_sentence": "Andiamo al belvedere per fare delle foto. (Let's go to the lookout to take some photos.)"
+                },
+                {
+                    "word": "Panoramico",
+                    "reading": "pa-no-RA-mee-ko",
+                    "meaning": "Panoramic",
+                    "example_sentence": "L'ascensore panoramico è spettacolare. (The panoramic elevator is spectacular.)"
+                },
+                {
+                    "word": "Mozzafiato",
+                    "reading": "mot-tsa-FYA-to",
+                    "meaning": "Breathtaking",
+                    "example_sentence": "La vista dalla cima è mozzafiato. (The view from the top is breathtaking.)"
+                },
+                {
+                    "word": "Meraviglioso",
+                    "reading": "may-ra-vee-LYO-zo",
+                    "meaning": "Wonderful",
+                    "example_sentence": "È stato un viaggio meraviglioso. (It was a wonderful trip.)"
+                }
+            ]
+        },
+        {
+            "order": 7,
+            "vocabularyItems": [
+                {
+                    "word": "Stupefacente",
+                    "reading": "stoo-pay-fa-CHEN-tay",
+                    "meaning": "Amazing / Stunning",
+                    "example_sentence": "L'aurora boreale è stupefacente. (The Northern Lights are amazing.)"
+                },
+                {
+                    "word": "Unico",
+                    "reading": "OO-nee-ko",
+                    "meaning": "Unique",
+                    "example_sentence": "Venezia è una città unica al mondo. (Venice is a city unique in the world.)"
+                },
+                {
+                    "word": "Storico",
+                    "reading": "STO-ree-ko",
+                    "meaning": "Historical",
+                    "example_sentence": "Questo palazzo è di grande valore storico. (This palace has great historical value.)"
+                },
+                {
+                    "word": "Antico",
+                    "reading": "an-TEE-ko",
+                    "meaning": "Ancient",
+                    "example_sentence": "A Roma ci sono molti monumenti antichi. (In Rome there are many ancient monuments.)"
+                },
+                {
+                    "word": "Moderno",
+                    "reading": "mo-DER-no",
+                    "meaning": "Modern",
+                    "example_sentence": "Il museo di arte moderna è chiuso. (The modern art museum is closed.)"
+                },
+                {
+                    "word": "Contemporaneo",
+                    "reading": "kon-tem-po-RA-nay-o",
+                    "meaning": "Contemporary",
+                    "example_sentence": "L'artista usa uno stile contemporaneo. (The artist uses a contemporary style.)"
+                },
+                {
+                    "word": "Artistico",
+                    "reading": "ar-TEES-tee-ko",
+                    "meaning": "Artistic",
+                    "example_sentence": "Firenze è piena di tesori artistici. (Florence is full of artistic treasures.)"
+                },
+                {
+                    "word": "L'architettura",
+                    "reading": "lar-kee-tet-TOO-ra",
+                    "meaning": "Architecture",
+                    "example_sentence": "L'architettura gotica è affascinante. (Gothic architecture is fascinating.)"
+                },
+                {
+                    "word": "Il maniero",
+                    "reading": "eel ma-NYAY-ro",
+                    "meaning": "Manor / Castle",
+                    "example_sentence": "Il maniero domina la vallata. (The manor dominates the valley.)"
+                },
+                {
+                    "word": "La torre",
+                    "reading": "la TOR-ray",
+                    "meaning": "Tower",
+                    "example_sentence": "Saliamo sulla torre pendente. (Let's go up the leaning tower.)"
+                }
+            ]
+        },
+        {
+            "order": 8,
+            "vocabularyItems": [
+                {
+                    "word": "La fontana",
+                    "reading": "la fon-TA-na",
+                    "meaning": "Fountain",
+                    "example_sentence": "Lancia una moneta nella fontana. (Throw a coin into the fountain.)"
+                },
+                {
+                    "word": "Il palazzo",
+                    "reading": "eel pa-LAT-tso",
+                    "meaning": "Building / Palace",
+                    "example_sentence": "Questo palazzo è del Settecento. (This building is from the 18th century.)"
+                },
+                {
+                    "word": "La collegiata",
+                    "reading": "la kol-lay-JA-ta",
+                    "meaning": "Collegiate church",
+                    "example_sentence": "La collegiata è in centro. (The collegiate church is in the center.)"
+                },
+                {
+                    "word": "Il borgo",
+                    "reading": "eel BOR-go",
+                    "meaning": "Hamlet / Small historic village",
+                    "example_sentence": "Il borgo è circondato da mura. (The hamlet is surrounded by walls.)"
+                },
+                {
+                    "word": "Il centro storico",
+                    "reading": "eel CHEN-tro STO-ree-ko",
+                    "meaning": "The old town / historic center",
+                    "example_sentence": "Il centro storico è zona pedonale. (The old town is a pedestrian zone.)"
+                },
+                {
+                    "word": "L'atmosfera",
+                    "reading": "lat-mos-FAY-ra",
+                    "meaning": "Atmosphere",
+                    "example_sentence": "C'è un'atmosfera magica stasera. (There's a magical atmosphere tonight.)"
+                },
+                {
+                    "word": "Accogliente",
+                    "reading": "ak-ko-LYEN-tay",
+                    "meaning": "Welcoming / Cozy",
+                    "example_sentence": "La nostra casa è molto accogliente. (Our house is very welcoming/cozy.)"
+                },
+                {
+                    "word": "Ospitale",
+                    "reading": "os-pee-TA-lay",
+                    "meaning": "Hospitable",
+                    "example_sentence": "La gente di questo paese è molto ospitale. (The people of this town are very hospitable.)"
+                },
+                {
+                    "word": "L'ospitalità",
+                    "reading": "los-pee-ta-lee-TA",
+                    "meaning": "Hospitality",
+                    "example_sentence": "Grazie per la vostra ospitalità. (Thank you for your hospitality.)"
+                },
+                {
+                    "word": "Premuroso",
+                    "reading": "pray-moo-RO-zo",
+                    "meaning": "Kind / Thoughtful / Caring",
+                    "example_sentence": "L'oste è stato molto premuroso. (The host was very caring/thoughtful.)"
+                }
+            ]
+        },
+        {
+            "order": 9,
+            "vocabularyItems": [
+                {
+                    "word": "Disponibile",
+                    "reading": "dees-po-NEE-bee-lay",
+                    "meaning": "Available / Helpful",
+                    "example_sentence": "Il personale è sempre disponibile. (The staff is always available/helpful.)"
+                },
+                {
+                    "word": "Educato",
+                    "reading": "ay-doo-KA-to",
+                    "meaning": "Polite",
+                    "example_sentence": "È un ragazzo molto educato. (He is a very polite boy.)"
+                },
+                {
+                    "word": "Rispettoso",
+                    "reading": "rees-pet-TO-zo",
+                    "meaning": "Respectful",
+                    "example_sentence": "Dobbiamo essere rispettosi delle tradizioni. (We must be respectful of traditions.)"
+                },
+                {
+                    "word": "La devozione",
+                    "reading": "la day-vo-TSYO-nay",
+                    "meaning": "Devotion / Deep respect",
+                    "example_sentence": "C'è molta devozione religiosa. (There is much religious devotion.)"
+                },
+                {
+                    "word": "La tolleranza",
+                    "reading": "la tol-lay-RAN-tsa",
+                    "meaning": "Tolerance",
+                    "example_sentence": "La tolleranza è fondamentale. (Tolerance is fundamental.)"
+                },
+                {
+                    "word": "La diversità",
+                    "reading": "la dee-ver-see-TA",
+                    "meaning": "Diversity",
+                    "example_sentence": "La diversità arricchisce la società. (Diversity enriches society.)"
+                },
+                {
+                    "word": "Multiculturale",
+                    "reading": "mool-tee-kool-too-RA-lay",
+                    "meaning": "Multicultural",
+                    "example_sentence": "Viviamo in un quartiere multiculturale. (We live in a multicultural neighborhood.)"
+                },
+                {
+                    "word": "Internazionale",
+                    "reading": "een-ter-na-tsyo-NA-lay",
+                    "meaning": "International",
+                    "example_sentence": "L'aeroporto è internazionale. (The airport is international.)"
+                },
+                {
+                    "word": "Globale",
+                    "reading": "glo-BA-lay",
+                    "meaning": "Global",
+                    "example_sentence": "Il cambiamento climatico è un problema globale. (Climate change is a global problem.)"
+                },
+                {
+                    "word": "Cittadino",
+                    "reading": "chit-ta-DEE-no",
+                    "meaning": "Citizen",
+                    "example_sentence": "Ogni cittadino ha dei diritti. (Every citizen has rights.)"
+                }
+            ]
+        },
+        {
+            "order": 10,
+            "vocabularyItems": [
+                {
+                    "word": "Romanzo",
+                    "reading": "ro-MAN-tso",
+                    "meaning": "Novel [LIAR GAME: link]",
+                    "example_sentence": "Sto leggendo un romanzo giallo. (I am reading a detective novel.) [LIAR GAME: NOT 'Romance/Language']"
+                },
+                {
+                    "word": "Feroce",
+                    "reading": "fay-RO-chay",
+                    "meaning": "Fierce [LIAR GAME: link]",
+                    "example_sentence": "È un animale feroce. (It's a fierce animal.) [LIAR GAME: NOT 'Ferocious' in the sense of 'wildly angry']"
+                },
+                {
+                    "word": "Conveniente",
+                    "reading": "kon-vay-NYEN-tay",
+                    "meaning": "Affordable / Good value [LIAR GAME: link]",
+                    "example_sentence": "Questo hotel è molto conveniente. (This hotel is very affordable/good value.) [LIAR GAME: NOT 'Practical/Handy']"
+                },
+                {
+                    "word": "Pertanto",
+                    "reading": "per-TAN-to",
+                    "meaning": "Therefore / Consequently",
+                    "example_sentence": "Piove, pertanto non usciamo. (It's raining, therefore we are not going out.)"
+                },
+                {
+                    "word": "Viceversa",
+                    "reading": "vee-chay-VER-sa",
+                    "meaning": "Vice versa / Conversely / Instead",
+                    "example_sentence": "Io aiuto te e viceversa. (I help you and vice versa.)"
+                },
+                {
+                    "word": "Infatti",
+                    "reading": "een-FAT-tee",
+                    "meaning": "In fact / Indeed",
+                    "example_sentence": "Avevi ragione, infatti è così. (You were right, indeed it is so.)"
+                },
+                {
+                    "word": "Apposta",
+                    "reading": "ap-POS-ta",
+                    "meaning": "On purpose",
+                    "example_sentence": "L'ho fatto apposta per te. (I did it on purpose for you.)"
+                },
+                {
+                    "word": "Stabile",
+                    "reading": "STA-bee-lay",
+                    "meaning": "Stable / Fixed",
+                    "example_sentence": "La situazione è stabile. (The situation is stable.)"
+                },
+                {
+                    "word": "L'approdo",
+                    "reading": "lap-PRO-do",
+                    "meaning": "Landing / Port / End of journey",
+                    "example_sentence": "Siamo arrivati all'approdo finale. (We have arrived at the final landing/port.)"
+                },
+                {
+                    "word": "La società",
+                    "reading": "la so-chay-TA",
+                    "meaning": "Society",
+                    "example_sentence": "La società moderna è complessa. (Modern society is complex.)"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Italian A2 Travel & Culture False Friends",
+        "question": "An Italian friend tells you: 'Questo hotel è molto conveniente.' Should you stay there?",
+        "options": [
+            "No, it's too far from everything",
+            "Yes, it has a handy location",
+            "Yes, it has a good price for the value",
+            "No, it's very dangerous"
+        ],
+        "correct_answer_index": 2,
+        "explanation": "In Italian, 'Conveniente' almost always refers to a good price-to-quality ratio or being 'affordable.' It does NOT mean 'convenient' in the sense of handy or nearby (which is 'comodo'). Also, a 'Romanzo' is a Novel, not a romance, and 'Feroce' means fierce but without the English connotation of 'ferocity' as pure chaos."
+    }
+}
