@@ -1,0 +1,597 @@
+{
+    "module_id": "zh_a1_m04",
+    "language": "chinese",
+    "level": "A1",
+    "theme": "Leisure & Places",
+    "order": 4,
+    "lessons": [
+        {
+            "lesson_id": "zh_a1_m04_l01",
+            "title": "Places in the City",
+            "order": 1,
+            "vocabulary": [
+                {
+                    "word": "电影院",
+                    "translation": "Cinema",
+                    "phonetic": "Diànyǐngyuàn"
+                },
+                {
+                    "word": "饭馆",
+                    "translation": "Restaurant",
+                    "phonetic": "Fànguǎn"
+                },
+                {
+                    "word": "咖啡馆",
+                    "translation": "Cafe",
+                    "phonetic": "Kāfēiguǎn"
+                },
+                {
+                    "word": "图书馆",
+                    "translation": "Library",
+                    "phonetic": "Túshūguǎn"
+                },
+                {
+                    "word": "公园",
+                    "translation": "Park",
+                    "phonetic": "Gōngyuán"
+                },
+                {
+                    "word": "书店",
+                    "translation": "Bookstore",
+                    "phonetic": "Shūdiàn"
+                },
+                {
+                    "word": "银行",
+                    "translation": "Bank",
+                    "phonetic": "Yínháng"
+                },
+                {
+                    "word": "火车站",
+                    "translation": "Train station",
+                    "phonetic": "Huǒchēzhàn"
+                },
+                {
+                    "word": "飞机场",
+                    "translation": "Airport",
+                    "phonetic": "Fēijīchǎng"
+                },
+                {
+                    "word": "宾馆",
+                    "translation": "Hotel",
+                    "phonetic": "Bīnguǎn"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m04_l02",
+            "title": "Transportation",
+            "order": 2,
+            "vocabulary": [
+                {
+                    "word": "药店",
+                    "translation": "Pharmacy",
+                    "phonetic": "Yàodiàn"
+                },
+                {
+                    "word": "旅游",
+                    "translation": "Travel",
+                    "phonetic": "Lǚyóu"
+                },
+                {
+                    "word": "回",
+                    "translation": "To return",
+                    "phonetic": "Huí"
+                },
+                {
+                    "word": "坐车",
+                    "translation": "Take the bus/car",
+                    "phonetic": "Zuòchē"
+                },
+                {
+                    "word": "坐火车",
+                    "translation": "Take the train",
+                    "phonetic": "Zuò huǒchē"
+                },
+                {
+                    "word": "坐飞机",
+                    "translation": "Take the plane",
+                    "phonetic": "Zuò fēijī"
+                },
+                {
+                    "word": "开车",
+                    "translation": "To drive",
+                    "phonetic": "Kāichē"
+                },
+                {
+                    "word": "骑车",
+                    "translation": "Ride a bike",
+                    "phonetic": "Qíchē"
+                },
+                {
+                    "word": "走路",
+                    "translation": "To walk",
+                    "phonetic": "Zǒulù"
+                },
+                {
+                    "word": "出租车",
+                    "translation": "Taxi",
+                    "phonetic": "Chūzūchē"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m04_l03",
+            "title": "Hobbies & Entertainment",
+            "order": 3,
+            "vocabulary": [
+                {
+                    "word": "爱好",
+                    "translation": "Hobby",
+                    "phonetic": "Àihào"
+                },
+                {
+                    "word": "跳舞",
+                    "translation": "To dance",
+                    "phonetic": "Tiàowǔ"
+                },
+                {
+                    "word": "拍照",
+                    "translation": "Take photos",
+                    "phonetic": "Pāizhào"
+                },
+                {
+                    "word": "玩儿",
+                    "translation": "To play / have fun",
+                    "phonetic": "Wánr"
+                },
+                {
+                    "word": "电脑游戏",
+                    "translation": "Computer games",
+                    "phonetic": "Diànnǎo yóuxì"
+                },
+                {
+                    "word": "打球",
+                    "translation": "Play ball",
+                    "phonetic": "Dǎqiú"
+                },
+                {
+                    "word": "踢足球",
+                    "translation": "Play soccer",
+                    "phonetic": "Tī zúqiú"
+                },
+                {
+                    "word": "游泳",
+                    "translation": "Swimming",
+                    "phonetic": "Yóuyǒng"
+                },
+                {
+                    "word": "爬山",
+                    "translation": "Climb mountain",
+                    "phonetic": "Páshān"
+                },
+                {
+                    "word": "钓鱼",
+                    "translation": "Fishing",
+                    "phonetic": "Diàoyú"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m04_l04",
+            "title": "Home & Rooms",
+            "order": 4,
+            "vocabulary": [
+                {
+                    "word": "房子",
+                    "translation": "House",
+                    "phonetic": "Fángzi"
+                },
+                {
+                    "word": "房间",
+                    "translation": "Room",
+                    "phonetic": "Fángjiān"
+                },
+                {
+                    "word": "厨房",
+                    "translation": "Kitchen",
+                    "phonetic": "Chúfáng"
+                },
+                {
+                    "word": "卧室",
+                    "translation": "Bedroom",
+                    "phonetic": "Wòshì"
+                },
+                {
+                    "word": "卫生间",
+                    "translation": "Bathroom",
+                    "phonetic": "Wèishēngjiān"
+                },
+                {
+                    "word": "客厅",
+                    "translation": "Living room",
+                    "phonetic": "Kètīng"
+                },
+                {
+                    "word": "阳台",
+                    "translation": "Balcony",
+                    "phonetic": "Yángtái"
+                },
+                {
+                    "word": "楼梯",
+                    "translation": "Stairs",
+                    "phonetic": "Lóutī"
+                },
+                {
+                    "word": "电梯",
+                    "translation": "Elevator",
+                    "phonetic": "Diàntī"
+                },
+                {
+                    "word": "院子",
+                    "translation": "Yard",
+                    "phonetic": "Yuànzi"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m04_l05",
+            "title": "Furniture & Objects",
+            "order": 5,
+            "vocabulary": [
+                {
+                    "word": "床",
+                    "translation": "Bed",
+                    "phonetic": "Chuáng"
+                },
+                {
+                    "word": "手机",
+                    "translation": "Mobile phone",
+                    "phonetic": "Shǒujī"
+                },
+                {
+                    "word": "灯",
+                    "translation": "Lamp / Light",
+                    "phonetic": "Dēng"
+                },
+                {
+                    "word": "门",
+                    "translation": "Door",
+                    "phonetic": "Mén"
+                },
+                {
+                    "word": "窗户",
+                    "translation": "Window",
+                    "phonetic": "Chuānghu"
+                },
+                {
+                    "word": "沙发",
+                    "translation": "Sofa",
+                    "phonetic": "Shāfā"
+                },
+                {
+                    "word": "冰箱",
+                    "translation": "Refrigerator",
+                    "phonetic": "Bīngxiāng"
+                },
+                {
+                    "word": "空调",
+                    "translation": "Air conditioner",
+                    "phonetic": "Kōngtiáo"
+                },
+                {
+                    "word": "洗衣机",
+                    "translation": "Washing machine",
+                    "phonetic": "Xǐyījī"
+                },
+                {
+                    "word": "镜子",
+                    "translation": "Mirror",
+                    "phonetic": "Jìngzi"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m04_l06",
+            "title": "Position Words",
+            "order": 6,
+            "vocabulary": [
+                {
+                    "word": "上面",
+                    "translation": "Above / On",
+                    "phonetic": "Shàngmiàn"
+                },
+                {
+                    "word": "下面",
+                    "translation": "Below / Under",
+                    "phonetic": "Xiàmiàn"
+                },
+                {
+                    "word": "里面",
+                    "translation": "Inside",
+                    "phonetic": "Lǐmiàn"
+                },
+                {
+                    "word": "外面",
+                    "translation": "Outside",
+                    "phonetic": "Wàimiàn"
+                },
+                {
+                    "word": "中间",
+                    "translation": "Middle",
+                    "phonetic": "Zhōngjiān"
+                },
+                {
+                    "word": "旁边",
+                    "translation": "Beside",
+                    "phonetic": "Pángbiān"
+                },
+                {
+                    "word": "对面",
+                    "translation": "Opposite",
+                    "phonetic": "Duìmiàn"
+                },
+                {
+                    "word": "附近",
+                    "translation": "Nearby",
+                    "phonetic": "Fùjìn"
+                },
+                {
+                    "word": "周围",
+                    "translation": "Surrounding",
+                    "phonetic": "Zhōuwéi"
+                },
+                {
+                    "word": "之间",
+                    "translation": "Between",
+                    "phonetic": "Zhījiān"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m04_l07",
+            "title": "Directions & Locations",
+            "order": 7,
+            "vocabulary": [
+                {
+                    "word": "远",
+                    "translation": "Far",
+                    "phonetic": "Yuǎn"
+                },
+                {
+                    "word": "近",
+                    "translation": "Near",
+                    "phonetic": "Jìn"
+                },
+                {
+                    "word": "城市",
+                    "translation": "City",
+                    "phonetic": "Chéngshì"
+                },
+                {
+                    "word": "路",
+                    "translation": "Road",
+                    "phonetic": "Lù"
+                },
+                {
+                    "word": "街道",
+                    "translation": "Street",
+                    "phonetic": "Jiēdào"
+                },
+                {
+                    "word": "地图",
+                    "translation": "Map",
+                    "phonetic": "Dìtú"
+                },
+                {
+                    "word": "怎么走",
+                    "translation": "How to get to",
+                    "phonetic": "Zěnme zǒu"
+                },
+                {
+                    "word": "直走",
+                    "translation": "Go straight",
+                    "phonetic": "Zhí zǒu"
+                },
+                {
+                    "word": "转弯",
+                    "translation": "Turn",
+                    "phonetic": "Zhuǎnwān"
+                },
+                {
+                    "word": "红绿灯",
+                    "translation": "Traffic light",
+                    "phonetic": "Hónglǜdēng"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m04_l08",
+            "title": "Descriptions",
+            "order": 8,
+            "vocabulary": [
+                {
+                    "word": "干净",
+                    "translation": "Clean",
+                    "phonetic": "Gānjìng"
+                },
+                {
+                    "word": "脏",
+                    "translation": "Dirty",
+                    "phonetic": "Zāng"
+                },
+                {
+                    "word": "安静",
+                    "translation": "Quiet",
+                    "phonetic": "Ānjìng"
+                },
+                {
+                    "word": "热闹",
+                    "translation": "Busy / Lively",
+                    "phonetic": "Rènao"
+                },
+                {
+                    "word": "好玩儿",
+                    "translation": "Fun",
+                    "phonetic": "Hǎowánr"
+                },
+                {
+                    "word": "有名",
+                    "translation": "Famous",
+                    "phonetic": "Yǒumíng"
+                },
+                {
+                    "word": "舒服",
+                    "translation": "Comfortable",
+                    "phonetic": "Shūfu"
+                },
+                {
+                    "word": "方便",
+                    "translation": "Convenient",
+                    "phonetic": "Fāngbiàn"
+                },
+                {
+                    "word": "危险",
+                    "translation": "Dangerous",
+                    "phonetic": "Wēixiǎn"
+                },
+                {
+                    "word": "安全",
+                    "translation": "Safe",
+                    "phonetic": "Ānquán"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m04_l09",
+            "title": "Travel & Tourism",
+            "order": 9,
+            "vocabulary": [
+                {
+                    "word": "发现",
+                    "translation": "To discover",
+                    "phonetic": "Fāxiàn"
+                },
+                {
+                    "word": "参观",
+                    "translation": "To visit (place)",
+                    "phonetic": "Cānguān"
+                },
+                {
+                    "word": "门票",
+                    "translation": "Entrance ticket",
+                    "phonetic": "Ménpiào"
+                },
+                {
+                    "word": "行李",
+                    "translation": "Luggage",
+                    "phonetic": "Xíngli"
+                },
+                {
+                    "word": "护照",
+                    "translation": "Passport",
+                    "phonetic": "Hùzhào"
+                },
+                {
+                    "word": "签证",
+                    "translation": "Visa",
+                    "phonetic": "Qiānzhèng"
+                },
+                {
+                    "word": "出发",
+                    "translation": "To depart",
+                    "phonetic": "Chūfā"
+                },
+                {
+                    "word": "到达",
+                    "translation": "To arrive",
+                    "phonetic": "Dàodá"
+                },
+                {
+                    "word": "预订",
+                    "translation": "To book/reserve",
+                    "phonetic": "Yùdìng"
+                },
+                {
+                    "word": "取消",
+                    "translation": "To cancel",
+                    "phonetic": "Qǔxiāo"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m04_l10",
+            "title": "Weather & Farewells",
+            "order": 10,
+            "vocabulary": [
+                {
+                    "word": "下雪",
+                    "translation": "Snow",
+                    "phonetic": "Xiàxuě"
+                },
+                {
+                    "word": "大风",
+                    "translation": "Strong wind",
+                    "phonetic": "Dàfēng"
+                },
+                {
+                    "word": "晴天",
+                    "translation": "Sunny day",
+                    "phonetic": "Qíngtiān"
+                },
+                {
+                    "word": "阴天",
+                    "translation": "Cloudy day",
+                    "phonetic": "Yīntiān"
+                },
+                {
+                    "word": "便宜",
+                    "translation": "Cheap",
+                    "phonetic": "Piányi",
+                    "liarGame": true,
+                    "explanation": "The character 便 is a polyphone. In 方便 (fāngbiàn - convenient) it is 'biàn', but in 便宜 (piányi - cheap) it must be 'pián'."
+                },
+                {
+                    "word": "意思",
+                    "translation": "Meaning",
+                    "phonetic": "Yìsi",
+                    "liarGame": true,
+                    "explanation": "意思 can mean meaning, intent, or interest. '有意思' (yǒu yìsi) specifically means 'interesting' or 'fun'."
+                },
+                {
+                    "word": "脖子",
+                    "translation": "Neck",
+                    "phonetic": "Bózi",
+                    "liarGame": true,
+                    "explanation": "东 (dōng) is East, 西 (xī) is West. But together '东西' (dōngxi) means 'stuff' or 'things'."
+                },
+                {
+                    "word": "头发",
+                    "translation": "Hair",
+                    "phonetic": "Tóufa"
+                },
+                {
+                    "word": "眉毛",
+                    "translation": "Eyebrow",
+                    "phonetic": "Méimao"
+                },
+                {
+                    "word": "睫毛",
+                    "translation": "Eyelash",
+                    "phonetic": "Jiémáo"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Pronunciation Nuances",
+        "question": "How do you say 'Cheap' in Chinese?",
+        "options": [
+            "biànyi",
+            "piányi",
+            "fāngbiàn",
+            "hǎo de"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The character 便 is a polyphone. In 方便 (fāngbiàn - convenient) it is 'biàn', but in 便宜 (piányi - cheap) it must be pronounced 'pián'."
+    }
+}

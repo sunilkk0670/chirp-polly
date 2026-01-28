@@ -1280,52 +1280,18 @@ class _LanguageCardState extends State<_LanguageCard> {
               builder: (context, ref, child) {
                 return InkWell(
                   onTap: () {
-                    final user = ref.read(currentUserProvider);
-                    
-                    if (user == null) {
-                      // Show login dialog for unauthenticated users
-                      showDialog(
-                        context: context,
-                        builder: (context) => AlertDialog(
-                          title: const Text('Login Required'),
-                          content: const Text(
-                            'Please sign up or login to start learning languages.',
-                          ),
-                          actions: [
-                            TextButton(
-                              onPressed: () => Navigator.pop(context),
-                              child: Text(
-                                'Cancel',
-                                style: TextStyle(color: Colors.grey.shade600),
-                              ),
-                            ),
-                            ElevatedButton(
-                              onPressed: () {
-                                Navigator.pop(context);
-                                Navigator.pushNamed(context, '/login');
-                              },
-                              style: ElevatedButton.styleFrom(
-                                backgroundColor: const Color(0xFF6A4CBC),
-                                foregroundColor: Colors.white,
-                              ),
-                              child: const Text('Login / Sign Up'),
-                            ),
-                          ],
+                    // User is allowed to navigate to levels page regardless of auth status
+                    // Tiered gating happens inside LevelsPage
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => LevelsPage(
+                          languageId: widget.languageId,
+                          languageName: widget.name,
+                          flag: widget.flag,
                         ),
-                      );
-                    } else {
-                      // User is authenticated, navigate to levels page
-                      Navigator.push(
-                        context,
-                        MaterialPageRoute(
-                          builder: (context) => LevelsPage(
-                            languageId: widget.languageId,
-                            languageName: widget.name,
-                            flag: widget.flag,
-                          ),
-                        ),
-                      );
-                    }
+                      ),
+                    );
                   },
                   borderRadius: BorderRadius.circular(20),
                   child: Padding(

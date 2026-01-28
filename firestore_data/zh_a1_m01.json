@@ -165,10 +165,9 @@
                     "phonetic": "Cuò"
                 },
                 {
-                    "word": "Liar Game: 问",
-                    "translation": "To ask (NOT To kiss)",
-                    "phonetic": "Wèn",
-                    "liarGame": true
+                    "word": "问",
+                    "translation": "To ask",
+                    "phonetic": "Wèn"
                 },
                 {
                     "word": "也",
@@ -280,10 +279,9 @@
                     "phonetic": "Shǎo"
                 },
                 {
-                    "word": "Liar Game: 买",
-                    "translation": "To buy (NOT To sell)",
-                    "phonetic": "Mǎi",
-                    "liarGame": true
+                    "word": "买",
+                    "translation": "To buy",
+                    "phonetic": "Mǎi"
                 },
                 {
                     "word": "和",
@@ -380,10 +378,9 @@
                     "phonetic": "Bàba"
                 },
                 {
-                    "word": "Liar Game: 妈妈",
-                    "translation": "Mother (NOT Horse)",
-                    "phonetic": "Māma",
-                    "liarGame": true
+                    "word": "妈妈",
+                    "translation": "Mother",
+                    "phonetic": "Māma"
                 },
                 {
                     "word": "哥哥",
@@ -547,36 +544,54 @@
                     "phonetic": "Zuótiān"
                 },
                 {
-                    "word": "点",
-                    "translation": "O'clock",
-                    "phonetic": "Diǎn"
+                    "word": "本子",
+                    "translation": "Notebook",
+                    "phonetic": "Běnzi",
+                    "liarGame": true,
+                    "explanation": "In Chinese, 问 (wèn) means 'To ask', NOT 'To kiss' (吻 - wěn). These characters are often confused due to tonal similarity!"
                 },
                 {
-                    "word": "分",
-                    "translation": "Minute",
-                    "phonetic": "Fēn"
+                    "word": "布",
+                    "translation": "Cloth",
+                    "phonetic": "Bù",
+                    "liarGame": true,
+                    "explanation": "Be careful! 买 (mǎi, 3rd tone) means 'to buy', while 卖 (mài, 4th tone) means 'to sell'. They look almost identical except for the top stroke!"
                 },
                 {
-                    "word": "岁",
-                    "translation": "Years old",
-                    "phonetic": "Suì"
+                    "word": "被单",
+                    "translation": "Bed sheet",
+                    "phonetic": "Bèidān",
+                    "liarGame": true,
+                    "explanation": "妈妈 (māma) means Mother. Don't confuse it with 马 (mǎ), which means Horse! Tones matter: High level vs Falling-rising."
                 },
                 {
-                    "word": "岁数",
-                    "translation": "Age",
-                    "phonetic": "Suìshu"
+                    "word": "完成",
+                    "translation": "Complete",
+                    "phonetic": "Wánchéng"
                 },
                 {
-                    "word": "人民",
-                    "translation": "People",
-                    "phonetic": "Rénmín"
+                    "word": "结束",
+                    "translation": "Finish",
+                    "phonetic": "Jiéshù"
                 },
                 {
-                    "word": "Fine",
-                    "translation": "End",
-                    "phonetic": "Fàn"
+                    "word": "成功",
+                    "translation": "Success",
+                    "phonetic": "Chénggōng"
                 }
             ]
         }
-    ]
+    ],
+    "liar_game_data": {
+        "topic": "Chinese Tonal Traps",
+        "question": "If you want to say 'Mother', which tone should you use for 'ma'?",
+        "options": [
+            "1st Tone (High level)",
+            "2nd Tone (Rising)",
+            "3rd Tone (Falling-rising)",
+            "4th Tone (Falling)"
+        ],
+        "correct_answer_index": 0,
+        "explanation": "In Chinese, 妈妈 (māma) uses the 1st tone. Be careful: 马 (mǎ) with the 3rd tone means 'horse'! Confusing these can lead to saying things like 'My horse is beautiful' when you meant your mother."
+    }
 }

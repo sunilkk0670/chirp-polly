@@ -1,0 +1,597 @@
+{
+    "module_id": "zh_b1_m05",
+    "language": "chinese",
+    "level": "b1",
+    "theme": "Science & Discovery",
+    "order": 5,
+    "lessons": [
+        {
+            "lesson_id": "zh_b1_m05_l01",
+            "title": "The Scientific Method",
+            "order": 1,
+            "vocabulary": [
+                {
+                    "word": "机理",
+                    "translation": "Mechanism",
+                    "phonetic": "Jīlǐ"
+                },
+                {
+                    "word": "假设",
+                    "translation": "Hypothesis / Assume",
+                    "phonetic": "Jiǎshè"
+                },
+                {
+                    "word": "解析",
+                    "translation": "Analyze / Parse",
+                    "phonetic": "Jiěxī"
+                },
+                {
+                    "word": "验证",
+                    "translation": "Verify / Prove",
+                    "phonetic": "Yànzhèng"
+                },
+                {
+                    "word": "数据",
+                    "translation": "Data",
+                    "phonetic": "Shùjù"
+                },
+                {
+                    "word": "定论",
+                    "translation": "Final conclusion",
+                    "phonetic": "Dìnglùn"
+                },
+                {
+                    "word": "推论",
+                    "translation": "Inference / Deduction",
+                    "phonetic": "Tuīlùn"
+                },
+                {
+                    "word": "严谨",
+                    "translation": "Rigorous / Strict",
+                    "phonetic": "Yánjǐn"
+                },
+                {
+                    "word": "观测",
+                    "translation": "Observe / Observation",
+                    "phonetic": "Guāncè"
+                },
+                {
+                    "word": "严密",
+                    "translation": "Tight / Close",
+                    "phonetic": "Yánmì"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_b1_m05_l02",
+            "title": "Astronomy & Space",
+            "order": 2,
+            "vocabulary": [
+                {
+                    "word": "轨道",
+                    "translation": "Orbit / Track",
+                    "phonetic": "Guǐdào"
+                },
+                {
+                    "word": "恒星",
+                    "translation": "Star / Fixed star",
+                    "phonetic": "Héngxīng"
+                },
+                {
+                    "word": "行星体",
+                    "translation": "Planetary body",
+                    "phonetic": "Xíngxīng tǐ"
+                },
+                {
+                    "word": "星系",
+                    "translation": "Galaxy",
+                    "phonetic": "Xīngxì"
+                },
+                {
+                    "word": "苍穹",
+                    "translation": "Sky / Vault of heaven",
+                    "phonetic": "Cāngqióng"
+                },
+                {
+                    "word": "膨胀",
+                    "translation": "Expand / Swell",
+                    "phonetic": "Péngzhàng"
+                },
+                {
+                    "word": "寰宇",
+                    "translation": "The universe",
+                    "phonetic": "Huányǔ"
+                },
+                {
+                    "word": "探索",
+                    "translation": "Explore",
+                    "phonetic": "Tànsuǒ"
+                },
+                {
+                    "word": "发射",
+                    "translation": "Launch / Emit",
+                    "phonetic": "Fāshè"
+                },
+                {
+                    "word": "碰撞",
+                    "translation": "Collide / Collision",
+                    "phonetic": "Pèngzhuàng"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_b1_m05_l03",
+            "title": "Biology & Genetics",
+            "order": 3,
+            "vocabulary": [
+                {
+                    "word": "胚胎",
+                    "translation": "Embryo",
+                    "phonetic": "Pēitāi"
+                },
+                {
+                    "word": "遗传密码",
+                    "translation": "Genetic code",
+                    "phonetic": "Yíchuán mìmǎ"
+                },
+                {
+                    "word": "蜕变",
+                    "translation": "Metamorphosis / Transformation",
+                    "phonetic": "Tuìbiàn"
+                },
+                {
+                    "word": "变异",
+                    "translation": "Mutation / Variation",
+                    "phonetic": "Biànyì"
+                },
+                {
+                    "word": "脏器",
+                    "translation": "Internal organs",
+                    "phonetic": "Zàngqì"
+                },
+                {
+                    "word": "新陈代谢",
+                    "translation": "Metabolism",
+                    "phonetic": "Xīnchéndàixiè"
+                },
+                {
+                    "word": "免疫",
+                    "translation": "Immune",
+                    "phonetic": "Miǎnyì"
+                },
+                {
+                    "word": "样本",
+                    "translation": "Sample / Specimen",
+                    "phonetic": "Yàngběn"
+                },
+                {
+                    "word": "抗体",
+                    "translation": "Antibody",
+                    "phonetic": "Kàngtǐ"
+                },
+                {
+                    "word": "染色体",
+                    "translation": "Chromosome",
+                    "phonetic": "Rǎnsètǐ"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_b1_m05_l04",
+            "title": "Physics & Energy",
+            "order": 4,
+            "vocabulary": [
+                {
+                    "word": "脉络",
+                    "translation": "Context / System",
+                    "phonetic": "Màiluò"
+                },
+                {
+                    "word": "实体",
+                    "translation": "Entity / Substance",
+                    "phonetic": "Shítǐ"
+                },
+                {
+                    "word": "周率",
+                    "translation": "Cycle rate",
+                    "phonetic": "Zhōulǜ"
+                },
+                {
+                    "word": "周而复始",
+                    "translation": "Go round and round",
+                    "phonetic": "Zhōu ér fù shǐ"
+                },
+                {
+                    "word": "幅度",
+                    "translation": "Amplitude / Scope",
+                    "phonetic": "Fúdù"
+                },
+                {
+                    "word": "粒子",
+                    "translation": "Particle",
+                    "phonetic": "Lìzǐ"
+                },
+                {
+                    "word": "辐射",
+                    "translation": "Radiation",
+                    "phonetic": "Fúshè"
+                },
+                {
+                    "word": "导体",
+                    "translation": "Conductor",
+                    "phonetic": "Dǎotǐ"
+                },
+                {
+                    "word": "磁通量",
+                    "translation": "Magnetic flux",
+                    "phonetic": "Cítōngliàng"
+                },
+                {
+                    "word": "阻力",
+                    "translation": "Resistance / Drag",
+                    "phonetic": "Zǔlì"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_b1_m05_l05",
+            "title": "Chemistry & Matter",
+            "order": 5,
+            "vocabulary": [
+                {
+                    "word": "分子",
+                    "translation": "Molecule",
+                    "phonetic": "Fēnzǐ"
+                },
+                {
+                    "word": "微粒",
+                    "translation": "Particle",
+                    "phonetic": "Wēilì"
+                },
+                {
+                    "word": "效应",
+                    "translation": "Effect / Reaction",
+                    "phonetic": "Xiàoyìng"
+                },
+                {
+                    "word": "溶液",
+                    "translation": "Solution (liquid)",
+                    "phonetic": "Róngyè"
+                },
+                {
+                    "word": "溶解",
+                    "translation": "Dissolve",
+                    "phonetic": "Róngjiě"
+                },
+                {
+                    "word": "挥发",
+                    "translation": "Volatilize / Evaporate",
+                    "phonetic": "Huīfā"
+                },
+                {
+                    "word": "腐蚀",
+                    "translation": "Corrode / Erosion",
+                    "phonetic": "Fǔshí"
+                },
+                {
+                    "word": "结晶",
+                    "translation": "Crystallize",
+                    "phonetic": "Jiéjīng"
+                },
+                {
+                    "word": "合成",
+                    "translation": "Synthesize / Composite",
+                    "phonetic": "Héchéng"
+                },
+                {
+                    "word": "催化",
+                    "translation": "Catalyze",
+                    "phonetic": "Cuīhuà"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_b1_m05_l06",
+            "title": "Environment & Sustainability",
+            "order": 6,
+            "vocabulary": [
+                {
+                    "word": "再生",
+                    "translation": "Regenerate / Recycled",
+                    "phonetic": "Zàishēng"
+                },
+                {
+                    "word": "枯竭",
+                    "translation": "Exhausted / Dried up",
+                    "phonetic": "Kūjié"
+                },
+                {
+                    "word": "泄露",
+                    "translation": "Leak / Emission",
+                    "phonetic": "Xièlòu"
+                },
+                {
+                    "word": "提纯",
+                    "translation": "Purify / Refine",
+                    "phonetic": "Tíchún"
+                },
+                {
+                    "word": "温室",
+                    "translation": "Greenhouse",
+                    "phonetic": "Wēnshì"
+                },
+                {
+                    "word": "制衡",
+                    "translation": "Check and balance",
+                    "phonetic": "Zhìhéng"
+                },
+                {
+                    "word": "采集",
+                    "translation": "Collect / Gather",
+                    "phonetic": "Cǎijí"
+                },
+                {
+                    "word": "稀有",
+                    "translation": "Rare / Uncommon",
+                    "phonetic": "Xīyǒu"
+                },
+                {
+                    "word": "生物链",
+                    "translation": "Food chain",
+                    "phonetic": "Shēngwùliàn"
+                },
+                {
+                    "word": "生态系统",
+                    "translation": "Ecosystem",
+                    "phonetic": "Shēngtài xìtǒng"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_b1_m05_l07",
+            "title": "Robotics & AI",
+            "order": 7,
+            "vocabulary": [
+                {
+                    "word": "半导体",
+                    "translation": "Semiconductor",
+                    "phonetic": "Bǎndǎotǐ"
+                },
+                {
+                    "word": "耦合器",
+                    "translation": "Coupler",
+                    "phonetic": "Ǒuhéqì"
+                },
+                {
+                    "word": "指令",
+                    "translation": "Instruction / Command",
+                    "phonetic": "Zhǐlìng"
+                },
+                {
+                    "word": "模拟",
+                    "translation": "Simulate / Imitate",
+                    "phonetic": "Mónǐ"
+                },
+                {
+                    "word": "检索",
+                    "translation": "Search / Retrieve",
+                    "phonetic": "Jiǎnsuǒ"
+                },
+                {
+                    "word": "集成",
+                    "translation": "Integrate / Integration",
+                    "phonetic": "Jíchéng"
+                },
+                {
+                    "word": "联通",
+                    "translation": "Connectivity",
+                    "phonetic": "Liántōng"
+                },
+                {
+                    "word": "识别",
+                    "translation": "Identify / Recognize",
+                    "phonetic": "Shíbié"
+                },
+                {
+                    "word": "幻境",
+                    "translation": "Illusion / Mirage",
+                    "phonetic": "Huànjìng"
+                },
+                {
+                    "word": "神经网络",
+                    "translation": "Neural network",
+                    "phonetic": "Shénjīng wǎngluò"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_b1_m05_l08",
+            "title": "Science in History",
+            "order": 8,
+            "vocabulary": [
+                {
+                    "word": "开创",
+                    "translation": "Create / Initiate",
+                    "phonetic": "Kāichuàng"
+                },
+                {
+                    "word": "改良",
+                    "translation": "Improve / Reform",
+                    "phonetic": "Gǎiliáng"
+                },
+                {
+                    "word": "起源",
+                    "translation": "Origin",
+                    "phonetic": "Qǐyuán"
+                },
+                {
+                    "word": "奠定",
+                    "translation": "Establish / Settle",
+                    "phonetic": "Diàndìng"
+                },
+                {
+                    "word": "记载",
+                    "translation": "Record / Write down",
+                    "phonetic": "Jìzǎi"
+                },
+                {
+                    "word": "考察",
+                    "translation": "Inspect / Investigative",
+                    "phonetic": "Kǎochá"
+                },
+                {
+                    "word": "变革",
+                    "translation": "Transform / Reform",
+                    "phonetic": "Biàngé"
+                },
+                {
+                    "word": "普及",
+                    "translation": "Popularize / Common",
+                    "phonetic": "Pǔjí"
+                },
+                {
+                    "word": "文明",
+                    "translation": "Civilization",
+                    "phonetic": "Wénmíng"
+                },
+                {
+                    "word": "传承",
+                    "translation": "Inherit / Pass down",
+                    "phonetic": "Chuánchéng"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_b1_m05_l09",
+            "title": "Future Tech",
+            "order": 9,
+            "vocabulary": [
+                {
+                    "word": "走向",
+                    "translation": "Direction / Trend",
+                    "phonetic": "Zǒuxiàng"
+                },
+                {
+                    "word": "前瞻",
+                    "translation": "Prospective / Outlook",
+                    "phonetic": "Qiánzhān"
+                },
+                {
+                    "word": "颠覆",
+                    "translation": "Subvert / Overturn",
+                    "phonetic": "Diānfù"
+                },
+                {
+                    "word": "超前",
+                    "translation": "Advanced / Ahead of time",
+                    "phonetic": "Chāoqián"
+                },
+                {
+                    "word": "无限",
+                    "translation": "Infinite / Unlimited",
+                    "phonetic": "Wúxiàn"
+                },
+                {
+                    "word": "门槛",
+                    "translation": "Threshold",
+                    "phonetic": "Ménkǎn"
+                },
+                {
+                    "word": "宏图",
+                    "translation": "Grand plan / Great prospect",
+                    "phonetic": "Hóngtú"
+                },
+                {
+                    "word": "奥秘",
+                    "translation": "Mystery / Profound secret",
+                    "phonetic": "Àomì"
+                },
+                {
+                    "word": "实践",
+                    "translation": "Practice / Practical",
+                    "phonetic": "Shíjiàn"
+                },
+                {
+                    "word": "枢纽",
+                    "translation": "Hub / Key center",
+                    "phonetic": "Shūniǔ"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_b1_m05_l10",
+            "title": "Discovery Traps",
+            "order": 10,
+            "vocabulary": [
+                {
+                    "word": "揭秘",
+                    "translation": "Unveil / Discover",
+                    "phonetic": "Jiēmì",
+                    "liarGame": true,
+                    "explanation": "Jiēmì means to unveil or reveal a secret. While related to discovery, it has a more mysterious vibe. Don't confuse it with 'explaining' a secret!"
+                },
+                {
+                    "word": "佐证",
+                    "translation": "Evidence / Verification",
+                    "phonetic": "Zuǒzhèng",
+                    "liarGame": true,
+                    "explanation": "Zuǒzhèng is formal evidence that supports a theory. It's stronger than just 'proof'!"
+                },
+                {
+                    "word": "试验",
+                    "translation": "Trial / Test",
+                    "phonetic": "Shìyàn",
+                    "liarGame": true,
+                    "explanation": "Shìyàn (试验) is used more for technical trials. Don't confuse it with 誓言 (Shìyán) - a vow or oath. Scientific tests aren't usually sealed with a romantic vow!"
+                },
+                {
+                    "word": "揣测",
+                    "translation": "Guess / Conjecture",
+                    "phonetic": "Chuǎicè"
+                },
+                {
+                    "word": "确凿",
+                    "translation": "Incontrovertible / Irrefutable",
+                    "phonetic": "Quèzáo"
+                },
+                {
+                    "word": "质询",
+                    "translation": "Query / Interrogate",
+                    "phonetic": "Zhìxún"
+                },
+                {
+                    "word": "跨越式",
+                    "translation": "Leap-frog style / Step-wise",
+                    "phonetic": "Kuàyuè shì"
+                },
+                {
+                    "word": "惊叹",
+                    "translation": "Wonder / Marvel",
+                    "phonetic": "Jīngtàn"
+                },
+                {
+                    "word": "颠扑不破",
+                    "translation": "Incontrovertible / Irrefutable",
+                    "phonetic": "Diānpū búpò"
+                },
+                {
+                    "word": "卓见",
+                    "translation": "Brilliant idea / Insight",
+                    "phonetic": "Zhuójiàn"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Scientific Hairlines",
+        "question": "If you shout 'I made a Fāxià (发现)!' in a lab, are you talking about your scientific discovery or your new grey hair?",
+        "options": [
+            "A discovery",
+            "A hairline",
+            "A new element",
+            "A lab report"
+        ],
+        "correct_answer_index": 0,
+        "explanation": "发现 (Fāxiàn) is discovery. 发线 (Fāxiàn) is a hairline. Science is all about precise discoveries, but don't obsess over your hairline!"
+    }
+}

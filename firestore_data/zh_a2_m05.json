@@ -1,0 +1,597 @@
+{
+    "module_id": "zh_a2_m05",
+    "language": "chinese",
+    "level": "a2",
+    "theme": "Media & Technology",
+    "order": 5,
+    "lessons": [
+        {
+            "lesson_id": "zh_a2_m05_l01",
+            "title": "Digital Life",
+            "order": 1,
+            "vocabulary": [
+                {
+                    "word": "体育",
+                    "translation": "Physical education",
+                    "phonetic": "Tǐyù"
+                },
+                {
+                    "word": "网站",
+                    "translation": "Website",
+                    "phonetic": "Wǎngzhàn"
+                },
+                {
+                    "word": "网页",
+                    "translation": "Webpage",
+                    "phonetic": "Wǎngyè"
+                },
+                {
+                    "word": "下载",
+                    "translation": "To download",
+                    "phonetic": "Xiàzài"
+                },
+                {
+                    "word": "上传",
+                    "translation": "To upload",
+                    "phonetic": "Shàngchuán"
+                },
+                {
+                    "word": "数学",
+                    "translation": "Math",
+                    "phonetic": "Shùxué"
+                },
+                {
+                    "word": "哲学",
+                    "translation": "Philosophy",
+                    "phonetic": "Zhéxué"
+                },
+                {
+                    "word": "小提琴",
+                    "translation": "Violin",
+                    "phonetic": "Xiǎotíqín"
+                },
+                {
+                    "word": "注册",
+                    "translation": "Register",
+                    "phonetic": "Zhùcè"
+                },
+                {
+                    "word": "软件",
+                    "translation": "Software",
+                    "phonetic": "Ruǎnjiàn"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a2_m05_l02",
+            "title": "Social Media",
+            "order": 2,
+            "vocabulary": [
+                {
+                    "word": "社交",
+                    "translation": "Social",
+                    "phonetic": "Shèjiāo"
+                },
+                {
+                    "word": "表情包",
+                    "translation": "Emoji / Sticker",
+                    "phonetic": "Biǎoqíngbāo"
+                },
+                {
+                    "word": "笛子",
+                    "translation": "Flute",
+                    "phonetic": "Dízi"
+                },
+                {
+                    "word": "粉丝",
+                    "translation": "Follower / Fan",
+                    "phonetic": "Fěnsī"
+                },
+                {
+                    "word": "点赞",
+                    "translation": "To like (a post)",
+                    "phonetic": "Diǎnzàn"
+                },
+                {
+                    "word": "评论",
+                    "translation": "To comment",
+                    "phonetic": "Pínglùn"
+                },
+                {
+                    "word": "转发",
+                    "translation": "To forward / repost",
+                    "phonetic": "Zhuǎnfā"
+                },
+                {
+                    "word": "删除",
+                    "translation": "To delete",
+                    "phonetic": "Shānchú"
+                },
+                {
+                    "word": "状态",
+                    "translation": "Status / Post",
+                    "phonetic": "Zhuàngtài"
+                },
+                {
+                    "word": "私信",
+                    "translation": "Direct message",
+                    "phonetic": "Sīxìn"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a2_m05_l03",
+            "title": "Hardware Devices",
+            "order": 3,
+            "vocabulary": [
+                {
+                    "word": "智能手机",
+                    "translation": "Smartphone",
+                    "phonetic": "Zhìnéng shǒujī"
+                },
+                {
+                    "word": "平板电脑",
+                    "translation": "Tablet",
+                    "phonetic": "Píngbǎn diànnǎo"
+                },
+                {
+                    "word": "笔记本",
+                    "translation": "Laptop",
+                    "phonetic": "Bǐjìběn"
+                },
+                {
+                    "word": "充电器",
+                    "translation": "Charger",
+                    "phonetic": "Chōngdiànqì"
+                },
+                {
+                    "word": "电池",
+                    "translation": "Battery",
+                    "phonetic": "Diànchí"
+                },
+                {
+                    "word": "屏幕",
+                    "translation": "Screen",
+                    "phonetic": "Píngmù"
+                },
+                {
+                    "word": "键盘",
+                    "translation": "Keyboard",
+                    "phonetic": "Jiànpán"
+                },
+                {
+                    "word": "鼠标",
+                    "translation": "Mouse (computer)",
+                    "phonetic": "Shǔbiāo"
+                },
+                {
+                    "word": "打印机",
+                    "translation": "Printer",
+                    "phonetic": "Dǎyìnjī"
+                },
+                {
+                    "word": "摄像头",
+                    "translation": "Camera / Webcam",
+                    "phonetic": "Shèxiàngtóu"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a2_m05_l04",
+            "title": "Internet Connectivity",
+            "order": 4,
+            "vocabulary": [
+                {
+                    "word": "宽带",
+                    "translation": "Broadband",
+                    "phonetic": "Kuāndài"
+                },
+                {
+                    "word": "无线网络",
+                    "translation": "Wi-Fi",
+                    "phonetic": "Wúxiàn wǎngluò"
+                },
+                {
+                    "word": "路由器",
+                    "translation": "Router",
+                    "phonetic": "Lùyóuqì"
+                },
+                {
+                    "word": "鼓",
+                    "translation": "Drum",
+                    "phonetic": "Gǔ"
+                },
+                {
+                    "word": "漫游",
+                    "translation": "Roaming",
+                    "phonetic": "Mànyóu"
+                },
+                {
+                    "word": "速度",
+                    "translation": "Speed",
+                    "phonetic": "Sùdù"
+                },
+                {
+                    "word": "掉线",
+                    "translation": "Disconnected",
+                    "phonetic": "Diàoxiàn"
+                },
+                {
+                    "word": "连接",
+                    "translation": "Connect",
+                    "phonetic": "Liánjiē"
+                },
+                {
+                    "word": "设置",
+                    "translation": "Setting",
+                    "phonetic": "Shèzhì"
+                },
+                {
+                    "word": "热点",
+                    "translation": "Hotspot",
+                    "phonetic": "Rèdiǎn"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a2_m05_l05",
+            "title": "Application Types",
+            "order": 5,
+            "vocabulary": [
+                {
+                    "word": "应用",
+                    "translation": "Application / App",
+                    "phonetic": "Yìngyòng"
+                },
+                {
+                    "word": "游戏",
+                    "translation": "Game",
+                    "phonetic": "Yóuxì"
+                },
+                {
+                    "word": "支付",
+                    "translation": "Payment",
+                    "phonetic": "Zhīfù"
+                },
+                {
+                    "word": "外卖",
+                    "translation": "Takeaway / Delivery App",
+                    "phonetic": "Wàimài"
+                },
+                {
+                    "word": "喇叭",
+                    "translation": "Trumpet/Horn",
+                    "phonetic": "Lǎba"
+                },
+                {
+                    "word": "手风琴",
+                    "translation": "Accordion",
+                    "phonetic": "Shǒufēngqín"
+                },
+                {
+                    "word": "音乐",
+                    "translation": "Music App",
+                    "phonetic": "Yīnyuè"
+                },
+                {
+                    "word": "阅读",
+                    "translation": "Reading App",
+                    "phonetic": "Yuèdú"
+                },
+                {
+                    "word": "办公",
+                    "translation": "Office App",
+                    "phonetic": "Bàngōng"
+                },
+                {
+                    "word": "茶几",
+                    "translation": "Coffee table",
+                    "phonetic": "Chájī"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a2_m05_l06",
+            "title": "Cybersecurity",
+            "order": 6,
+            "vocabulary": [
+                {
+                    "word": "梳妆台",
+                    "translation": "Dressing table",
+                    "phonetic": "Shūzhuāngtái"
+                },
+                {
+                    "word": "黑客",
+                    "translation": "Hacker",
+                    "phonetic": "Hēikè"
+                },
+                {
+                    "word": "病毒",
+                    "translation": "Virus (computer)",
+                    "phonetic": "Bìngdú"
+                },
+                {
+                    "word": "漏洞",
+                    "translation": "Loophole / Vulnerability",
+                    "phonetic": "Lòudòng"
+                },
+                {
+                    "word": "防火墙",
+                    "translation": "Firewall",
+                    "phonetic": "Fánghuǒqiáng"
+                },
+                {
+                    "word": "验证码",
+                    "translation": "Verification code",
+                    "phonetic": "Yànzhèngmǎ"
+                },
+                {
+                    "word": "垃圾邮件",
+                    "translation": "Spam email",
+                    "phonetic": "Lājī yóujiàn"
+                },
+                {
+                    "word": "钓鱼网站",
+                    "translation": "Phishing website",
+                    "phonetic": "Diàoyú wǎngzhàn"
+                },
+                {
+                    "word": "隐私",
+                    "translation": "Privacy",
+                    "phonetic": "Yǐnsī"
+                },
+                {
+                    "word": "权限",
+                    "translation": "Permission / Access",
+                    "phonetic": "Quánxiàn"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a2_m05_l07",
+            "title": "Artificial Intelligence",
+            "order": 7,
+            "vocabulary": [
+                {
+                    "word": "床头柜",
+                    "translation": "Bedside table",
+                    "phonetic": "Chuángtóuguì"
+                },
+                {
+                    "word": "凉台",
+                    "translation": "Balcony",
+                    "phonetic": "Liángtái"
+                },
+                {
+                    "word": "算法",
+                    "translation": "Algorithm",
+                    "phonetic": "Suànfǎ"
+                },
+                {
+                    "word": "虚拟",
+                    "translation": "Virtual",
+                    "phonetic": "Xūnǐ"
+                },
+                {
+                    "word": "现实",
+                    "translation": "Reality",
+                    "phonetic": "Xiànshí"
+                },
+                {
+                    "word": "芯片",
+                    "translation": "Chip",
+                    "phonetic": "Xīnpiàn"
+                },
+                {
+                    "word": "传感器",
+                    "translation": "Sensor",
+                    "phonetic": "Chuángǎnqì"
+                },
+                {
+                    "word": "自动",
+                    "translation": "Automatic",
+                    "phonetic": "Zìdòng"
+                },
+                {
+                    "word": "智能",
+                    "translation": "Smart / Intelligence",
+                    "phonetic": "Zhìnéng"
+                },
+                {
+                    "word": "天花板",
+                    "translation": "Ceiling",
+                    "phonetic": "Tiānhuābǎn"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a2_m05_l08",
+            "title": "Media Consumption",
+            "order": 8,
+            "vocabulary": [
+                {
+                    "word": "流媒体",
+                    "translation": "Streaming media",
+                    "phonetic": "Liú méitǐ"
+                },
+                {
+                    "word": "订阅",
+                    "translation": "To subscribe",
+                    "phonetic": "Dìngyuè"
+                },
+                {
+                    "word": "剧集",
+                    "translation": "Series / Episodes",
+                    "phonetic": "Jùjí"
+                },
+                {
+                    "word": "电影",
+                    "translation": "Movie",
+                    "phonetic": "Diànyǐng"
+                },
+                {
+                    "word": "直播",
+                    "translation": "Live stream",
+                    "phonetic": "Zhíbō"
+                },
+                {
+                    "word": "弹幕",
+                    "translation": "Bullet comments",
+                    "phonetic": "Dànmù"
+                },
+                {
+                    "word": "播客",
+                    "translation": "Podcast",
+                    "phonetic": "Bōkè"
+                },
+                {
+                    "word": "付费",
+                    "translation": "Paid / To pay",
+                    "phonetic": "Fùfèi"
+                },
+                {
+                    "word": "免费",
+                    "translation": "Free of charge",
+                    "phonetic": "Miǎnfèi"
+                },
+                {
+                    "word": "推荐",
+                    "translation": "Recommend",
+                    "phonetic": "Tuījiàn"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a2_m05_l09",
+            "title": "The Future Tech",
+            "order": 9,
+            "vocabulary": [
+                {
+                    "word": "云端",
+                    "translation": "Cloud (tech)",
+                    "phonetic": "Yúnduān"
+                },
+                {
+                    "word": "大数据",
+                    "translation": "Big data",
+                    "phonetic": "Dà shùjù"
+                },
+                {
+                    "word": "元宇宙",
+                    "translation": "Metaverse",
+                    "phonetic": "Yuán yǔzhòu"
+                },
+                {
+                    "word": "区块链",
+                    "translation": "Blockchain",
+                    "phonetic": "Qūkuàilián"
+                },
+                {
+                    "word": "加密",
+                    "translation": "Encryption",
+                    "phonetic": "Jiāmì"
+                },
+                {
+                    "word": "交互",
+                    "translation": "Interaction",
+                    "phonetic": "Jiāohù"
+                },
+                {
+                    "word": "便携",
+                    "translation": "Portable",
+                    "phonetic": "Biànxié"
+                },
+                {
+                    "word": "兼容",
+                    "translation": "Compatible",
+                    "phonetic": "Jiānróng"
+                },
+                {
+                    "word": "地板",
+                    "translation": "Floor",
+                    "phonetic": "Dìbǎn"
+                },
+                {
+                    "word": "便捷",
+                    "translation": "Convenient",
+                    "phonetic": "Biànjié"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a2_m05_l10",
+            "title": "Tech Mastery & Traps",
+            "order": 10,
+            "vocabulary": [
+                {
+                    "word": "刷新",
+                    "translation": "Refresh / Update",
+                    "phonetic": "Shuāxīn"
+                },
+                {
+                    "word": "关机",
+                    "translation": "Shutdown",
+                    "phonetic": "Guānjī"
+                },
+                {
+                    "word": "重启",
+                    "translation": "Restart",
+                    "phonetic": "Chóngqǐ"
+                },
+                {
+                    "word": "报错",
+                    "translation": "Error reporting",
+                    "phonetic": "Bàocuò"
+                },
+                {
+                    "word": "粉红色",
+                    "translation": "Pink",
+                    "phonetic": "Fěnhóngsè",
+                    "liarGame": true,
+                    "explanation": "Chéngxù means program. Don't confuse it with 乘虚 (Chéngxū - 1st tone for 'xu'), which means to take advantage of someone's weakness!"
+                },
+                {
+                    "word": "搜",
+                    "translation": "To search",
+                    "phonetic": "Sōu",
+                    "liarGame": true,
+                    "explanation": "Sōu means to search. A common beginner slip-up makes it sound like 狗 (Gǒu - Dog). Don't tell your friend you are 'dogging' for information!"
+                },
+                {
+                    "word": "橙色",
+                    "translation": "Orange (color)",
+                    "phonetic": "Chéngsè",
+                    "liarGame": true,
+                    "explanation": "Kuāndài (4th tone for 'dai') is broadband. 款待 (Kuǎndài - 3rd tone for 'kuan') means to treat or host guests. Both are positive, but very different!"
+                },
+                {
+                    "word": "硬件",
+                    "translation": "Hardware",
+                    "phonetic": "Yìngjiàn"
+                },
+                {
+                    "word": "棕色",
+                    "translation": "Brown",
+                    "phonetic": "Zōngsè"
+                },
+                {
+                    "word": "升级",
+                    "translation": "Upgrade",
+                    "phonetic": "Shēngjí"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Digital Nuances",
+        "question": "If you want to say you are 'searching' on Google (Sōu), but your tone makes it sound like 'Gǒu', what are you actually calling the process?",
+        "options": [
+            "A Dog (狗)",
+            "A Secret",
+            "A Soup",
+            "A Cat"
+        ],
+        "correct_answer_index": 0,
+        "explanation": "Tones and phonetics can be tricky! 搜 (Sōu - 1st tone) is to search. 狗 (Gǒu - 3rd tone) is a dog. Making a 'dog' of your search is a classic A2 level slip-up!"
+    }
+}

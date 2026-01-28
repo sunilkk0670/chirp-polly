@@ -1,0 +1,597 @@
+{
+    "module_id": "zh_b1_m10",
+    "language": "chinese",
+    "level": "b1",
+    "theme": "Review & Mastery",
+    "order": 10,
+    "lessons": [
+        {
+            "lesson_id": "zh_b1_m10_l01",
+            "title": "Abstract Concepts",
+            "order": 1,
+            "vocabulary": [
+                {
+                    "word": "际遇",
+                    "translation": "Lot / Fate / Opportunity",
+                    "phonetic": "Jìyù"
+                },
+                {
+                    "word": "理则",
+                    "translation": "Principles of logic",
+                    "phonetic": "Lǐzé"
+                },
+                {
+                    "word": "诡局",
+                    "translation": "Paradoxical situation",
+                    "phonetic": "Guǐjú"
+                },
+                {
+                    "word": "禀性",
+                    "translation": "Natural disposition / Attribute",
+                    "phonetic": "Bǐngxìng"
+                },
+                {
+                    "word": "域界",
+                    "translation": "Field / Domain / Category",
+                    "phonetic": "Yùjiè"
+                },
+                {
+                    "word": "至理",
+                    "translation": "Profound truth",
+                    "phonetic": "Zhìlǐ"
+                },
+                {
+                    "word": "量纲",
+                    "translation": "Dimension (advanced)",
+                    "phonetic": "Liànggāng"
+                },
+                {
+                    "word": "鸿观",
+                    "translation": "Grand view / Macroscopic",
+                    "phonetic": "Hóngguān"
+                },
+                {
+                    "word": "纤悉",
+                    "translation": "Minute / Microscopic",
+                    "phonetic": "Xiānxī"
+                },
+                {
+                    "word": "嬗变",
+                    "translation": "Evolution / Transformation",
+                    "phonetic": "Shànbiàn"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_b1_m10_l02",
+            "title": "Advanced Idioms I",
+            "order": 2,
+            "vocabulary": [
+                {
+                    "word": "坚持不懈",
+                    "translation": "Persevere / Unremitting",
+                    "phonetic": "Jiānchí bùxiè"
+                },
+                {
+                    "word": "功亏一篑",
+                    "translation": "Fall short by a final effort",
+                    "phonetic": "Gōngkuī yīkuì"
+                },
+                {
+                    "word": "力不从心",
+                    "translation": "Ability falling short of will",
+                    "phonetic": "Lì bù cóng xīn"
+                },
+                {
+                    "word": "实事求是",
+                    "translation": "Seek truth from facts",
+                    "phonetic": "Shíshì qiú shì"
+                },
+                {
+                    "word": "精益求精",
+                    "translation": "Strive for perfection",
+                    "phonetic": "Jīngyì qiú jīng"
+                },
+                {
+                    "word": "循序渐进",
+                    "translation": "Step by step",
+                    "phonetic": "Xúnxù jiànjìn"
+                },
+                {
+                    "word": "温故知新",
+                    "translation": "Review old and learn new",
+                    "phonetic": "Wēngù zhī xīn"
+                },
+                {
+                    "word": "持之以恒",
+                    "translation": "Persevere consistently",
+                    "phonetic": "Chí zhī yǐ héng"
+                },
+                {
+                    "word": "生无所息",
+                    "translation": "Life has no rest (learning)",
+                    "phonetic": "Shēng wú suǒ xī"
+                },
+                {
+                    "word": "厚积薄发",
+                    "translation": "Accumulate and unleash",
+                    "phonetic": "Hòujī bófā"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_b1_m10_l03",
+            "title": "Advanced Idioms II",
+            "order": 3,
+            "vocabulary": [
+                {
+                    "word": "豁然开朗",
+                    "translation": "Suddenly enlightened",
+                    "phonetic": "Huòrán kāilǎng"
+                },
+                {
+                    "word": "实至名归",
+                    "translation": "Fame follows merit",
+                    "phonetic": "Shízhì míngguī"
+                },
+                {
+                    "word": "意犹未尽",
+                    "translation": "Wanting more",
+                    "phonetic": "Yìyóu wèijìn"
+                },
+                {
+                    "word": "深思熟虑",
+                    "translation": "Careful deliberation",
+                    "phonetic": "Shēnsī shúlǜ"
+                },
+                {
+                    "word": "高瞻远瞩",
+                    "translation": "Visionary / High foresight",
+                    "phonetic": "Gāozhān yuǎnzhǔ"
+                },
+                {
+                    "word": "耳濡目染",
+                    "translation": "Influenced by surroundings",
+                    "phonetic": "Ěrrú mùrǎn"
+                },
+                {
+                    "word": "循循善诱",
+                    "translation": "Guide patiently",
+                    "phonetic": "Xúnxún shànyòu"
+                },
+                {
+                    "word": "卓尔不群",
+                    "translation": "Outstanding / Peerless",
+                    "phonetic": "Zhuó'ěr bùqún"
+                },
+                {
+                    "word": "潜移默化",
+                    "translation": "Subtle influence",
+                    "phonetic": "Qiányí mòhuà"
+                },
+                {
+                    "word": "大器晚成",
+                    "translation": "Great talents mature late",
+                    "phonetic": "Dàqì wǎnchéng"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_b1_m10_l04",
+            "title": "Academic Terminology",
+            "order": 4,
+            "vocabulary": [
+                {
+                    "word": "论证",
+                    "translation": "Argue / Demonstrate",
+                    "phonetic": "Lùnzhèng"
+                },
+                {
+                    "word": "设身",
+                    "translation": "Hypothesis / Scenario",
+                    "phonetic": "Shèshēn"
+                },
+                {
+                    "word": "证成",
+                    "translation": "Verification / Proof",
+                    "phonetic": "Zhèngchéng"
+                },
+                {
+                    "word": "乖离",
+                    "translation": "Deviation / Bias / Divergence",
+                    "phonetic": "Guāilí"
+                },
+                {
+                    "word": "挈领",
+                    "translation": "Summarize / Key points",
+                    "phonetic": "Qiè lǐng"
+                },
+                {
+                    "word": "研核",
+                    "translation": "Examine and verify / Deduct",
+                    "phonetic": "Yánhé"
+                },
+                {
+                    "word": "统摄",
+                    "translation": "Induction / Unified control",
+                    "phonetic": "Tǒngshè"
+                },
+                {
+                    "word": "法系",
+                    "translation": "System / Legal system",
+                    "phonetic": "Fǎxì"
+                },
+                {
+                    "word": "架构",
+                    "translation": "Framework / Architecture",
+                    "phonetic": "Jiàgòu"
+                },
+                {
+                    "word": "观瞻",
+                    "translation": "Perspective / Outlook",
+                    "phonetic": "Guānzhān"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_b1_m10_l05",
+            "title": "Formal Connections",
+            "order": 5,
+            "vocabulary": [
+                {
+                    "word": "由此观之",
+                    "translation": "From this viewpoint",
+                    "phonetic": "Yóucǐ guānzhī"
+                },
+                {
+                    "word": "断无二致",
+                    "translation": "Needless to say / No difference",
+                    "phonetic": "Duàn wú èr zhì"
+                },
+                {
+                    "word": "要言之",
+                    "translation": "In short / Summary",
+                    "phonetic": "Yàoyánzhī"
+                },
+                {
+                    "word": "背道而驰",
+                    "translation": "On the contrary / Run counter",
+                    "phonetic": "Bèidàoérchí"
+                },
+                {
+                    "word": "彰明较著",
+                    "translation": "Obviously / Clearly revealed",
+                    "phonetic": "Zhāngmíng jiàozhù"
+                },
+                {
+                    "word": "并驾齐驱",
+                    "translation": "At the same time / Keep pace",
+                    "phonetic": "Bìngjià qíjū"
+                },
+                {
+                    "word": "人尽皆知",
+                    "translation": "As everyone knows",
+                    "phonetic": "Rénjìn jiēzhī"
+                },
+                {
+                    "word": "举要删芜",
+                    "translation": "Summarize / Short and concise",
+                    "phonetic": "Jǔyào shānwú"
+                },
+                {
+                    "word": "犹此",
+                    "translation": "Even so / Still this",
+                    "phonetic": "Yóucǐ"
+                },
+                {
+                    "word": "顺势",
+                    "translation": "Guide as per situation",
+                    "phonetic": "Shùnshì"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_b1_m10_l06",
+            "title": "Nuances of Emotion",
+            "order": 6,
+            "vocabulary": [
+                {
+                    "word": "惘然",
+                    "translation": "Melancholy / Frustrated",
+                    "phonetic": "Wǎngrán"
+                },
+                {
+                    "word": "慰藉",
+                    "translation": "Comfort / Relief",
+                    "phonetic": "Wèijiè"
+                },
+                {
+                    "word": "夙愿",
+                    "translation": "Long-cherished wish",
+                    "phonetic": "Sùyuàn"
+                },
+                {
+                    "word": "浮躁",
+                    "translation": "Impulsive / Restless",
+                    "phonetic": "Fúzào"
+                },
+                {
+                    "word": "恭敬",
+                    "translation": "Revere / Respectful",
+                    "phonetic": "Gōngjìng"
+                },
+                {
+                    "word": "神定",
+                    "translation": "Composed / Calm",
+                    "phonetic": "Shéndìng"
+                },
+                {
+                    "word": "缱绻",
+                    "translation": "Deeply attached",
+                    "phonetic": "Qiǎnquǎn"
+                },
+                {
+                    "word": "惊愕",
+                    "translation": "Stunned / Surprised",
+                    "phonetic": "Jīng'è"
+                },
+                {
+                    "word": "沈醉",
+                    "translation": "Intoxicated / Absorbed",
+                    "phonetic": "Shénzuì"
+                },
+                {
+                    "word": "哀矜",
+                    "translation": "Compassion / Pity",
+                    "phonetic": "Āijīn"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_b1_m10_l07",
+            "title": "Mastery & Wisdom",
+            "order": 7,
+            "vocabulary": [
+                {
+                    "word": "睿智",
+                    "translation": "Wise / Sagacity",
+                    "phonetic": "Ruìzhì"
+                },
+                {
+                    "word": "旷达",
+                    "translation": "Broad-minded / Free",
+                    "phonetic": "Kuàngdá"
+                },
+                {
+                    "word": "卑下",
+                    "translation": "Humble / Lowly",
+                    "phonetic": "Bēixià"
+                },
+                {
+                    "word": "深广",
+                    "translation": "Erudite / Deep and broad",
+                    "phonetic": "Shēnguǎng"
+                },
+                {
+                    "word": "详密",
+                    "translation": "Meticulous / Detailed",
+                    "phonetic": "Xiángmì"
+                },
+                {
+                    "word": "锐利",
+                    "translation": "Acute / Sharp (wit)",
+                    "phonetic": "Ruìlì"
+                },
+                {
+                    "word": "幽邃",
+                    "translation": "Deep / Far-reaching",
+                    "phonetic": "Yōusuì"
+                },
+                {
+                    "word": "静谧",
+                    "translation": "Quiet / Peaceful",
+                    "phonetic": "Jìngmì"
+                },
+                {
+                    "word": "沈稳",
+                    "translation": "Steady / Calm",
+                    "phonetic": "Shěnwěn"
+                },
+                {
+                    "word": "孤诣",
+                    "translation": "Solitary mastery",
+                    "phonetic": "Gūyì"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_b1_m10_l08",
+            "title": "The Road Ahead",
+            "order": 8,
+            "vocabulary": [
+                {
+                    "word": "望远",
+                    "translation": "Forward-looking / View far",
+                    "phonetic": "Wàngyuǎn"
+                },
+                {
+                    "word": "景图",
+                    "translation": "Vision / Prospect",
+                    "phonetic": "Jǐngtú"
+                },
+                {
+                    "word": "拓荒",
+                    "translation": "Pioneer / Open up new lands",
+                    "phonetic": "Tuòhuāng"
+                },
+                {
+                    "word": "逾越",
+                    "translation": "Transcend / Cross over",
+                    "phonetic": "Yúyuè"
+                },
+                {
+                    "word": "磨砺",
+                    "translation": "Temper / Forge",
+                    "phonetic": "Mólì"
+                },
+                {
+                    "word": "拔魁",
+                    "translation": "Reach the top / Win prize",
+                    "phonetic": "Bákuí"
+                },
+                {
+                    "word": "极标",
+                    "translation": "Milestone / Height mark",
+                    "phonetic": "Jíbiāo"
+                },
+                {
+                    "word": "职志",
+                    "translation": "Mission / Lifework",
+                    "phonetic": "Zhízhì"
+                },
+                {
+                    "word": "负重",
+                    "translation": "Take responsibility / Burden",
+                    "phonetic": "Fùzhòng"
+                },
+                {
+                    "word": "协和",
+                    "translation": "Joint win / Harmony",
+                    "phonetic": "Xiéhé"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_b1_m10_l09",
+            "title": "Global Perspectives",
+            "order": 9,
+            "vocabulary": [
+                {
+                    "word": "联进",
+                    "translation": "Joint advancement",
+                    "phonetic": "Liánjìn"
+                },
+                {
+                    "word": "枢纽",
+                    "translation": "Hub",
+                    "phonetic": "Shūniǔ"
+                },
+                {
+                    "word": "体系",
+                    "translation": "Structure / System",
+                    "phonetic": "Tǐxì"
+                },
+                {
+                    "word": "兼摄",
+                    "translation": "Diverse / Inclusive",
+                    "phonetic": "Jiānshè"
+                },
+                {
+                    "word": "广纳",
+                    "translation": "Inclusivity / Broadly accept",
+                    "phonetic": "Guǎngnà"
+                },
+                {
+                    "word": "无死角",
+                    "translation": "All-encompassing",
+                    "phonetic": "Wúsǐjiǎo"
+                },
+                {
+                    "word": "不竭",
+                    "translation": "Sustainable / Inexhaustible",
+                    "phonetic": "Bùjié"
+                },
+                {
+                    "word": "智部",
+                    "translation": "Think tank / Wisdom department",
+                    "phonetic": "Zhìbù"
+                },
+                {
+                    "word": "化力",
+                    "translation": "Soft power / Transforming power",
+                    "phonetic": "Huàlì"
+                },
+                {
+                    "word": "存续",
+                    "translation": "Vitality / Persistence",
+                    "phonetic": "Cúnxù"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_b1_m10_l10",
+            "title": "Language Mastery Traps",
+            "order": 10,
+            "vocabulary": [
+                {
+                    "word": "自励",
+                    "translation": "Self-encouragement",
+                    "phonetic": "Zìlì",
+                    "liarGame": true,
+                    "explanation": "Zìlì (自励) is self-encouragement. Don't confuse it with 煮栗 (Zhǔ lì) which means 'cooking chestnuts'. One feeds your spirit, the other is a snack!"
+                },
+                {
+                    "word": "景愿",
+                    "translation": "Vision",
+                    "phonetic": "Jǐngyuàn",
+                    "liarGame": true,
+                    "explanation": "Jǐngyuàn (景愿) means a great vision for the future. Watch out for 近距离 (Jìn jùlí) which means 'close range'. You need to look far, not just at close range!"
+                },
+                {
+                    "word": "正逻辑",
+                    "translation": "Standard Logic",
+                    "phonetic": "Zhèngluójí",
+                    "liarGame": true,
+                    "explanation": "Zhèngluójí (正逻辑) is standard logic. Watch out for 蒸手机 (Zhēng shǒujī) which means 'steaming a mobile phone'! Logic is essential, but steaming your phone is just bad tech advice!"
+                },
+                {
+                    "word": "精进",
+                    "translation": "Strive for progress",
+                    "phonetic": "Jīngjìn"
+                },
+                {
+                    "word": "厚植",
+                    "translation": "Deep cultivation",
+                    "phonetic": "Hòuzhí"
+                },
+                {
+                    "word": "贯通",
+                    "translation": "Connect / Penetrate through",
+                    "phonetic": "Guàntōng"
+                },
+                {
+                    "word": "赋能",
+                    "translation": "Empower",
+                    "phonetic": "Fùnéng"
+                },
+                {
+                    "word": "闭环",
+                    "translation": "Closed loop",
+                    "phonetic": "Bìhuán"
+                },
+                {
+                    "word": "分蘖",
+                    "translation": "Spread / Tillering (growth)",
+                    "phonetic": "Fēn niè"
+                },
+                {
+                    "word": "长远",
+                    "translation": "Lifelong",
+                    "phonetic": "Chángyuǎn"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Final Mastery",
+        "question": "If a scholar says they are focusing on 'Zìlì' (自励), is it a spiritual exercise or are they just hungry for some 'Zhǔlì' (煮栗) chestnuts?",
+        "options": [
+            "Self-encouragement",
+            "Cooking chestnuts",
+            "Buying a book",
+            "Taking a nap"
+        ],
+        "correct_answer_index": 0,
+        "explanation": "自励 (Zìlì) is self-encouragement. 煮栗 (Zhǔ lì) sounds similar and means cooking chestnuts. Mastery requires both spirits and energy!"
+    }
+}

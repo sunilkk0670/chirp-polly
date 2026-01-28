@@ -11,24 +11,24 @@
             "order": 1,
             "vocabulary": [
                 {
-                    "word": "哥哥",
-                    "translation": "Older brother",
-                    "phonetic": "Gēge"
+                    "word": "瓶子",
+                    "translation": "Bottle",
+                    "phonetic": "Píngzi"
                 },
                 {
-                    "word": "姐姐",
-                    "translation": "Older sister",
-                    "phonetic": "Jiějie"
+                    "word": "罐子",
+                    "translation": "Jar/Can",
+                    "phonetic": "Guànzi"
                 },
                 {
-                    "word": "弟弟",
-                    "translation": "Younger brother",
-                    "phonetic": "Dìdi"
+                    "word": "绳子",
+                    "translation": "Rope",
+                    "phonetic": "Shéngzi"
                 },
                 {
-                    "word": "妹妹",
-                    "translation": "Younger sister",
-                    "phonetic": "Mèimei"
+                    "word": "盒子",
+                    "translation": "Small box",
+                    "phonetic": "Hézi"
                 },
                 {
                     "word": "儿子",
@@ -73,14 +73,14 @@
                     "phonetic": "Yīshēng"
                 },
                 {
-                    "word": "老师",
-                    "translation": "Teacher",
-                    "phonetic": "Lǎoshī"
+                    "word": "台灯",
+                    "translation": "Desk lamp",
+                    "phonetic": "Táidēng"
                 },
                 {
-                    "word": "朋友",
-                    "translation": "Friend",
-                    "phonetic": "Péngyǒu"
+                    "word": "插头",
+                    "translation": "Plug",
+                    "phonetic": "Chātóu"
                 },
                 {
                     "word": "很高",
@@ -125,9 +125,9 @@
             "order": 3,
             "vocabulary": [
                 {
-                    "word": "谁",
-                    "translation": "Who",
-                    "phonetic": "Shéi"
+                    "word": "开关",
+                    "translation": "Switch",
+                    "phonetic": "Kāiguān"
                 },
                 {
                     "word": "岁",
@@ -160,9 +160,9 @@
                     "phonetic": "Zài"
                 },
                 {
-                    "word": "几",
-                    "translation": "How many",
-                    "phonetic": "Jǐ"
+                    "word": "插座",
+                    "translation": "Socket",
+                    "phonetic": "Chāzuò"
                 },
                 {
                     "word": "什么时候",
@@ -301,15 +301,14 @@
                     "phonetic": "Shāngdiàn"
                 },
                 {
-                    "word": "买",
-                    "translation": "To buy",
-                    "phonetic": "Mǎi"
+                    "word": "电线",
+                    "translation": "Wire",
+                    "phonetic": "Diànxiàn"
                 },
                 {
-                    "word": "Liar Game: 卖",
+                    "word": "卖",
                     "translation": "To sell (NOT Buy)",
-                    "phonetic": "Mài",
-                    "liarGame": true
+                    "phonetic": "Mài"
                 },
                 {
                     "word": "东西",
@@ -317,34 +316,34 @@
                     "phonetic": "Dōngxī"
                 },
                 {
-                    "word": "这个",
-                    "translation": "This one",
-                    "phonetic": "Zhège"
+                    "word": "剪刀",
+                    "translation": "Scissors",
+                    "phonetic": "Jiǎndāo"
                 },
                 {
-                    "word": "那个",
-                    "translation": "That one",
-                    "phonetic": "Nàge"
+                    "word": "钉子",
+                    "translation": "Nail",
+                    "phonetic": "Dīngzi"
                 },
                 {
-                    "word": "多",
-                    "translation": "Many",
-                    "phonetic": "Duō"
+                    "word": "衬衫",
+                    "translation": "Shirt",
+                    "phonetic": "Chènshān"
                 },
                 {
-                    "word": "少",
-                    "translation": "Few",
-                    "phonetic": "Shǎo"
+                    "word": "裙子",
+                    "translation": "Skirt/Dress",
+                    "phonetic": "Qúnzi"
                 },
                 {
-                    "word": "大",
-                    "translation": "Big",
-                    "phonetic": "Dà"
+                    "word": "毛衣",
+                    "translation": "Sweater",
+                    "phonetic": "Máoyī"
                 },
                 {
-                    "word": "小",
-                    "translation": "Small",
-                    "phonetic": "Xiǎo"
+                    "word": "内衣",
+                    "translation": "Underwear",
+                    "phonetic": "Nèiyī"
                 }
             ]
         },
@@ -426,9 +425,9 @@
                     "phonetic": "Dúshū"
                 },
                 {
-                    "word": "学习",
-                    "translation": "To learn",
-                    "phonetic": "Xuéxí"
+                    "word": "鞋",
+                    "translation": "Shoes",
+                    "phonetic": "Xié"
                 },
                 {
                     "word": "汉语",
@@ -468,9 +467,9 @@
             "order": 9,
             "vocabulary": [
                 {
-                    "word": "去",
-                    "translation": "To go",
-                    "phonetic": "Qù"
+                    "word": "扣子",
+                    "translation": "Button",
+                    "phonetic": "Kòuzi"
                 },
                 {
                     "word": "北京",
@@ -535,48 +534,64 @@
                     "phonetic": "Xièxiè nǐ"
                 },
                 {
-                    "word": "对",
-                    "translation": "Right / Correct",
-                    "phonetic": "Duì"
+                    "word": "拉链",
+                    "translation": "Zipper",
+                    "phonetic": "Lāliàn"
                 },
                 {
-                    "word": "错",
-                    "translation": "Wrong",
-                    "phonetic": "Cuò"
+                    "word": "口袋",
+                    "translation": "Pocket",
+                    "phonetic": "Kǒudài"
                 },
                 {
-                    "word": "下雨",
-                    "translation": "To rain",
-                    "phonetic": "Xiàyǔ"
+                    "word": "手提包",
+                    "translation": "Handbag",
+                    "phonetic": "Shǒutíbāo",
+                    "liarGame": true,
+                    "explanation": "卖 (mài, 4th tone) means 'to sell'. It looks like 买 (mǎi - to buy) but with an extra mark on top. Remember: selling means adding value/items!"
                 },
                 {
-                    "word": "Liar Game: 十",
-                    "translation": "Ten (NOT Four)",
-                    "phonetic": "Shí",
-                    "liarGame": true
+                    "word": "胳膊",
+                    "translation": "Arm",
+                    "phonetic": "Gēbo",
+                    "liarGame": true,
+                    "explanation": "十 (shí) is 10. It sounds similar to 四 (sì - 4). In many dialects, 'shi' and 'si' are confused. 10 is the cross shape."
                 },
                 {
-                    "word": "Liar Game: 四",
-                    "translation": "Four (NOT Ten)",
-                    "phonetic": "Sì",
-                    "liarGame": true
+                    "word": "手掌",
+                    "translation": "Palm",
+                    "phonetic": "Shǒuzhǎng",
+                    "liarGame": true,
+                    "explanation": "四 (sì) is 4. Don't confuse it with 十 (shí - 10). A common tongue twister is 'sì shì sì, shí shì shí' (4 is 4, 10 is 10)."
                 },
                 {
-                    "word": "好吃",
-                    "translation": "Delicious",
-                    "phonetic": "Hǎochī"
+                    "word": "手指",
+                    "translation": "Finger",
+                    "phonetic": "Shǒuzhǐ"
                 },
                 {
-                    "word": "好看",
-                    "translation": "Good-looking",
-                    "phonetic": "Hǎokàn"
+                    "word": "腿",
+                    "translation": "Leg",
+                    "phonetic": "Tuǐ"
                 },
                 {
-                    "word": "Fine",
-                    "translation": "End",
-                    "phonetic": "Fàn"
+                    "word": "脚",
+                    "translation": "Foot",
+                    "phonetic": "Jiǎo"
                 }
             ]
         }
-    ]
+    ],
+    "liar_game_data": {
+        "topic": "Numbers & Confusable Sounds",
+        "question": "Which character represents the number Ten (10)?",
+        "options": [
+            "十 (shí)",
+            "四 (sì)",
+            "二 (èr)",
+            "六 (liù)"
+        ],
+        "correct_answer_index": 0,
+        "explanation": "十 (shí) is 10 and 四 (sì) is 4. They are often confused in fast speech. Remember: 十 is a cross shape, like a plus sign."
+    }
 }

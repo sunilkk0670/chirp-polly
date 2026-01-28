@@ -1,0 +1,597 @@
+{
+    "module_id": "zh_a1_m08",
+    "language": "chinese",
+    "level": "A1",
+    "theme": "Weather & Nature",
+    "order": 8,
+    "lessons": [
+        {
+            "lesson_id": "zh_a1_m08_l01",
+            "title": "Atmospheric Events",
+            "order": 1,
+            "vocabulary": [
+                {
+                    "word": "朝霞",
+                    "translation": "Morning glow / rosy clouds",
+                    "phonetic": "Zhāoxiá"
+                },
+                {
+                    "word": "晚霞",
+                    "translation": "Evening glow / sunset clouds",
+                    "phonetic": "Wǎnxiá"
+                },
+                {
+                    "word": "晨雾",
+                    "translation": "Morning fog",
+                    "phonetic": "Chénwù"
+                },
+                {
+                    "word": "阵风",
+                    "translation": "Gust of wind",
+                    "phonetic": "Zhènfēng"
+                },
+                {
+                    "word": "龙卷风",
+                    "translation": "Tornado / Twister",
+                    "phonetic": "Lóngjuǎnfēng"
+                },
+                {
+                    "word": "闷热",
+                    "translation": "Sultry / Muggy",
+                    "phonetic": "Mēnrè"
+                },
+                {
+                    "word": "凉爽",
+                    "translation": "Cool and refreshing",
+                    "phonetic": "Liángshuǎng"
+                },
+                {
+                    "word": "气压",
+                    "translation": "Atmospheric pressure",
+                    "phonetic": "Qìyā"
+                },
+                {
+                    "word": "湿度",
+                    "translation": "Humidity",
+                    "phonetic": "Shīdù"
+                },
+                {
+                    "word": "零下",
+                    "translation": "Below zero",
+                    "phonetic": "Língxià"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m08_l02",
+            "title": "Severe Precipitation",
+            "order": 2,
+            "vocabulary": [
+                {
+                    "word": "暴雨",
+                    "translation": "Rainstorm / Torrential rain",
+                    "phonetic": "Bàoyǔ"
+                },
+                {
+                    "word": "细雨",
+                    "translation": "Drizzle / Light rain",
+                    "phonetic": "Xìyǔ"
+                },
+                {
+                    "word": "冰雨",
+                    "translation": "Freezing rain",
+                    "phonetic": "Bīngyǔ"
+                },
+                {
+                    "word": "电闪雷鸣",
+                    "translation": "Thunder and lightning",
+                    "phonetic": "Diànshǎnléimíng"
+                },
+                {
+                    "word": "积雪",
+                    "translation": "Snow cover / snow accumulation",
+                    "phonetic": "Jīxuě"
+                },
+                {
+                    "word": "雪人",
+                    "translation": "Snowman",
+                    "phonetic": "Xuěrén"
+                },
+                {
+                    "word": "扫雪",
+                    "translation": "Sweep snow",
+                    "phonetic": "Sǎoxuě"
+                },
+                {
+                    "word": "冻住",
+                    "translation": "Frozen / freeze over",
+                    "phonetic": "Dòngzhù"
+                },
+                {
+                    "word": "霜",
+                    "translation": "Frost",
+                    "phonetic": "Shuāng"
+                },
+                {
+                    "word": "露水",
+                    "translation": "Dew",
+                    "phonetic": "Lùshuǐ"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m08_l03",
+            "title": "Seasonal Patterns",
+            "order": 3,
+            "vocabulary": [
+                {
+                    "word": "春暖花开",
+                    "translation": "Spring bloom",
+                    "phonetic": "Chūnnuǎnhuākāi"
+                },
+                {
+                    "word": "酷暑",
+                    "translation": "Extreme heat",
+                    "phonetic": "Kùshǔ"
+                },
+                {
+                    "word": "严寒",
+                    "translation": "Severe cold",
+                    "phonetic": "Yánhán"
+                },
+                {
+                    "word": "初春",
+                    "translation": "Early spring",
+                    "phonetic": "Chūchūn"
+                },
+                {
+                    "word": "深秋",
+                    "translation": "Late autumn",
+                    "phonetic": "Shēnqiū"
+                },
+                {
+                    "word": "昼夜",
+                    "translation": "Day and night",
+                    "phonetic": "Zhòuyè"
+                },
+                {
+                    "word": "时差",
+                    "translation": "Time difference / jet lag",
+                    "phonetic": "Shíchā"
+                },
+                {
+                    "word": "日落",
+                    "translation": "Sunset",
+                    "phonetic": "Rìluò"
+                },
+                {
+                    "word": "日出",
+                    "translation": "Sunrise",
+                    "phonetic": "Rìchū"
+                },
+                {
+                    "word": "天气图",
+                    "translation": "Weather map",
+                    "phonetic": "Tiānqìtú"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m08_l04",
+            "title": "Geography",
+            "order": 4,
+            "vocabulary": [
+                {
+                    "word": "峡谷",
+                    "translation": "Canyon / Gorge",
+                    "phonetic": "Xiágǔ"
+                },
+                {
+                    "word": "瀑布",
+                    "translation": "Waterfall",
+                    "phonetic": "Pùbù"
+                },
+                {
+                    "word": "悬崖",
+                    "translation": "Cliff / Precipice",
+                    "phonetic": "Xuányá"
+                },
+                {
+                    "word": "溪流",
+                    "translation": "Stream / Brook",
+                    "phonetic": "Xīliú"
+                },
+                {
+                    "word": "沼泽",
+                    "translation": "Swamp / Marsh",
+                    "phonetic": "Zhǎozé"
+                },
+                {
+                    "word": "沙漠",
+                    "translation": "Desert",
+                    "phonetic": "Shāmò"
+                },
+                {
+                    "word": "海岛",
+                    "translation": "Island",
+                    "phonetic": "Hǎidǎo"
+                },
+                {
+                    "word": "地平线",
+                    "translation": "Horizon",
+                    "phonetic": "Dìpíngxiàn"
+                },
+                {
+                    "word": "岩石",
+                    "translation": "Rock",
+                    "phonetic": "Yánshí"
+                },
+                {
+                    "word": "洞穴",
+                    "translation": "Cave / Cavern",
+                    "phonetic": "Dòngxué"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m08_l05",
+            "title": "Flora & Gardening",
+            "order": 5,
+            "vocabulary": [
+                {
+                    "word": "柳树",
+                    "translation": "Willow tree",
+                    "phonetic": "Liǔshù"
+                },
+                {
+                    "word": "枫树",
+                    "translation": "Maple tree",
+                    "phonetic": "Fēngshù"
+                },
+                {
+                    "word": "桃花",
+                    "translation": "Peach blossom",
+                    "phonetic": "Táohuā"
+                },
+                {
+                    "word": "牵牛花",
+                    "translation": "Morning glory",
+                    "phonetic": "Qiānniúhuā"
+                },
+                {
+                    "word": "野草",
+                    "translation": "Wild grass / weeds",
+                    "phonetic": "Yěcǎo"
+                },
+                {
+                    "word": "苔藓",
+                    "translation": "Moss",
+                    "phonetic": "Táoxiǎn"
+                },
+                {
+                    "word": "灌木",
+                    "translation": "Shrub / Bush",
+                    "phonetic": "Guànmù"
+                },
+                {
+                    "word": "种子",
+                    "translation": "Seed",
+                    "phonetic": "Zhǒngzi"
+                },
+                {
+                    "word": "肥料",
+                    "translation": "Fertilizer",
+                    "phonetic": "Féiliào"
+                },
+                {
+                    "word": "浇水",
+                    "translation": "To water (plants)",
+                    "phonetic": "Jiāoshuǐ"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m08_l06",
+            "title": "Specific Animals",
+            "order": 6,
+            "vocabulary": [
+                {
+                    "word": "兔子",
+                    "translation": "Rabbit",
+                    "phonetic": "Tùzi"
+                },
+                {
+                    "word": "猴子",
+                    "translation": "Monkey",
+                    "phonetic": "Hóuzi"
+                },
+                {
+                    "word": "刺猬",
+                    "translation": "Hedgehog",
+                    "phonetic": "Cìwèi"
+                },
+                {
+                    "word": "老鼠",
+                    "translation": "Mouse / Rat",
+                    "phonetic": "Lǎoshǔ"
+                },
+                {
+                    "word": "蛇",
+                    "translation": "Snake",
+                    "phonetic": "Shé"
+                },
+                {
+                    "word": "蝴蝶",
+                    "translation": "Butterfly",
+                    "phonetic": "Húdié"
+                },
+                {
+                    "word": "蜜蜂",
+                    "translation": "Bee",
+                    "phonetic": "Mìfēng"
+                },
+                {
+                    "word": "蜻蜓",
+                    "translation": "Dragonfly",
+                    "phonetic": "Qīngtíng"
+                },
+                {
+                    "word": "斑马",
+                    "translation": "Zebra",
+                    "phonetic": "Bānmǎ"
+                },
+                {
+                    "word": "长颈鹿",
+                    "translation": "Giraffe",
+                    "phonetic": "Chángjǐnglù"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m08_l07",
+            "title": "Cosmos & Air",
+            "order": 7,
+            "vocabulary": [
+                {
+                    "word": "银河",
+                    "translation": "Milky Way",
+                    "phonetic": "Yínhé"
+                },
+                {
+                    "word": "流星",
+                    "translation": "Meteor / Shooting star",
+                    "phonetic": "Liúxīng"
+                },
+                {
+                    "word": "宇宙",
+                    "translation": "Universe",
+                    "phonetic": "Yǔzhòu"
+                },
+                {
+                    "word": "极光",
+                    "translation": "Aurora / Northern Lights",
+                    "phonetic": "Jíguāng"
+                },
+                {
+                    "word": "星座",
+                    "translation": "Constellation",
+                    "phonetic": "Xīngzuò"
+                },
+                {
+                    "word": "回声",
+                    "translation": "Echo",
+                    "phonetic": "Huíshēng"
+                },
+                {
+                    "word": "氧气",
+                    "translation": "Oxygen",
+                    "phonetic": "Yǎngqì"
+                },
+                {
+                    "word": "二氧化碳",
+                    "translation": "Carbon dioxide",
+                    "phonetic": "Èryǎnghuàtàn"
+                },
+                {
+                    "word": "臭氧",
+                    "translation": "Ozone",
+                    "phonetic": "Chòuyǎng"
+                },
+                {
+                    "word": "能源",
+                    "translation": "Energy / Power source",
+                    "phonetic": "Néngyuán"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m08_l08",
+            "title": "Natural Disasters",
+            "order": 8,
+            "vocabulary": [
+                {
+                    "word": "台风",
+                    "translation": "Typhoon",
+                    "phonetic": "Táifēng"
+                },
+                {
+                    "word": "海啸",
+                    "translation": "Tsunami",
+                    "phonetic": "Hǎixiào"
+                },
+                {
+                    "word": "火山",
+                    "translation": "Volcano",
+                    "phonetic": "Huǒshān"
+                },
+                {
+                    "word": "森林火灾",
+                    "translation": "Forest fire",
+                    "phonetic": "Sēnlínhuǒzāi"
+                },
+                {
+                    "word": "预防",
+                    "translation": "Prevention",
+                    "phonetic": "Yùfáng"
+                },
+                {
+                    "word": "撤离",
+                    "translation": "Evacuate",
+                    "phonetic": "Chèlí"
+                },
+                {
+                    "word": "紧急",
+                    "translation": "Emergency",
+                    "phonetic": "Jǐnjí"
+                },
+                {
+                    "word": "警报",
+                    "translation": "Alarm / Alert",
+                    "phonetic": "Jǐngbào"
+                },
+                {
+                    "word": "救援",
+                    "translation": "Rescue / Succor",
+                    "phonetic": "Jiùyuán"
+                },
+                {
+                    "word": "废墟",
+                    "translation": "Ruins / Rubble",
+                    "phonetic": "Fèixū"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m08_l09",
+            "title": "Nature Exploration",
+            "order": 9,
+            "vocabulary": [
+                {
+                    "word": "漂流",
+                    "translation": "Drifting / Rafting",
+                    "phonetic": "Piāoliú"
+                },
+                {
+                    "word": "生姜",
+                    "translation": "Ginger",
+                    "phonetic": "Shēngjiāng"
+                },
+                {
+                    "word": "狩猎",
+                    "translation": "Hunting",
+                    "phonetic": "Shòuliè"
+                },
+                {
+                    "word": "郊游",
+                    "translation": "Excursion / Outing",
+                    "phonetic": "Jiāoyóu"
+                },
+                {
+                    "word": "奇景",
+                    "translation": "Wondrous sight",
+                    "phonetic": "Qíjǐng"
+                },
+                {
+                    "word": "观鸟",
+                    "translation": "Birdwatching",
+                    "phonetic": "Guānniǎo"
+                },
+                {
+                    "word": "森林浴",
+                    "translation": "Forest bathing (Shinrin-yoku)",
+                    "phonetic": "Sēnlínyù"
+                },
+                {
+                    "word": "静止",
+                    "translation": "Still / Static",
+                    "phonetic": "Jìngzhǐ"
+                },
+                {
+                    "word": "生态",
+                    "translation": "Ecology",
+                    "phonetic": "Shēngtài"
+                },
+                {
+                    "word": "野外",
+                    "translation": "The wilds / open country",
+                    "phonetic": "Yěwài"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m08_l10",
+            "title": "Nature Liar Game",
+            "order": 10,
+            "vocabulary": [
+                {
+                    "word": "守护",
+                    "translation": "To guard / protect",
+                    "phonetic": "Shǒuhù"
+                },
+                {
+                    "word": "珍惜",
+                    "translation": "To cherish / treasure",
+                    "phonetic": "Zhēnxī"
+                },
+                {
+                    "word": "永久",
+                    "translation": "Permanent / Everlasting",
+                    "phonetic": "Yǒngjiǔ"
+                },
+                {
+                    "word": "纯净",
+                    "translation": "Pure / Clean",
+                    "phonetic": "Chúnjìng"
+                },
+                {
+                    "word": "风",
+                    "translation": "Wind",
+                    "phonetic": "Fēng",
+                    "liarGame": true,
+                    "explanation": "风 (Fēng - 1st tone) means wind. Be careful: if you say it with a slightly different tone or emphasis, it might sound like 疯 (Fēng - Crazy)! Don't call the weather crazy by accident!"
+                },
+                {
+                    "word": "大蒜",
+                    "translation": "Garlic",
+                    "phonetic": "Dàsuàn",
+                    "liarGame": true,
+                    "explanation": "看 (Kàn - 4th tone) is to look. Be very careful: 砍 (Kǎn - 3rd tone) means to chop or cut down (like a tree)! Don't tell your friend you want to 'chop' the scenery!"
+                },
+                {
+                    "word": "天",
+                    "translation": "Sky / Day",
+                    "phonetic": "Tiān",
+                    "liarGame": true,
+                    "explanation": "天 (Tiān - 1st tone) is sky. Don't confuse it with 甜 (Tián - 2nd tone), which means sweet. You don't want to say the sky is delicious unless you're in a fairytale!"
+                },
+                {
+                    "word": "循环",
+                    "translation": "Cycle / Circulation",
+                    "phonetic": "Xúnhuán"
+                },
+                {
+                    "word": "净化",
+                    "translation": "Purify",
+                    "phonetic": "Jìnghuà"
+                },
+                {
+                    "word": "宜人",
+                    "translation": "Pleasant / Delightful (weather)",
+                    "phonetic": "Yírén"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Nature & Action Traps",
+        "question": "You see a beautiful mountain. You want to tell your friend to 'Look!' at it. Which tone should you use for 'Kan'?",
+        "options": [
+            "1st Tone (kān)",
+            "2nd Tone (kán)",
+            "3rd Tone (kǎn)",
+            "4th Tone (kàn)"
+        ],
+        "correct_answer_index": 3,
+        "explanation": "Tone is everything! 看 (kàn - 4th tone) means to look. If you use the 3rd tone (kǎn), you are saying 'Chop!' or 'Cut!'. Telling your friend to 'Chop!' a mountain is a very different vibe than asking them to admire it!"
+    }
+}

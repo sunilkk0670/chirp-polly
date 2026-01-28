@@ -1,0 +1,597 @@
+{
+    "module_id": "zh_a2_m09",
+    "language": "chinese",
+    "level": "a2",
+    "theme": "Leisure & Arts",
+    "order": 9,
+    "lessons": [
+        {
+            "lesson_id": "zh_a2_m09_l01",
+            "title": "Creative Hobbies",
+            "order": 1,
+            "vocabulary": [
+                {
+                    "word": "观察",
+                    "translation": "Observe",
+                    "phonetic": "Guānchá"
+                },
+                {
+                    "word": "体会",
+                    "translation": "Tǐhuì",
+                    "phonetic": "Experience/Realize"
+                },
+                {
+                    "word": "书法",
+                    "translation": "Calligraphy",
+                    "phonetic": "Shūfǎ"
+                },
+                {
+                    "word": "摄影",
+                    "translation": "Photography",
+                    "phonetic": "Shèyǐng"
+                },
+                {
+                    "word": "乐器",
+                    "translation": "Musical instrument",
+                    "phonetic": "Yuèqì"
+                },
+                {
+                    "word": "钢琴",
+                    "translation": "Piano",
+                    "phonetic": "Gāngqín"
+                },
+                {
+                    "word": "吉他",
+                    "translation": "Guitar",
+                    "phonetic": "Jítā"
+                },
+                {
+                    "word": "声乐",
+                    "translation": "Vocal music",
+                    "phonetic": "Shēngyuè"
+                },
+                {
+                    "word": "陶艺",
+                    "translation": "Pottery",
+                    "phonetic": "Táoyì"
+                },
+                {
+                    "word": "插花",
+                    "translation": "Flower arranging",
+                    "phonetic": "Chāhuā"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a2_m09_l02",
+            "title": "Performing Arts",
+            "order": 2,
+            "vocabulary": [
+                {
+                    "word": "表演",
+                    "translation": "Performance / To perform",
+                    "phonetic": "Biǎoyǎn"
+                },
+                {
+                    "word": "戏剧",
+                    "translation": "Drama / Play",
+                    "phonetic": "Xìjù"
+                },
+                {
+                    "word": "京剧",
+                    "translation": "Peking Opera",
+                    "phonetic": "Jīngjù"
+                },
+                {
+                    "word": "舞蹈",
+                    "translation": "Dance",
+                    "phonetic": "Wǔdǎo"
+                },
+                {
+                    "word": "芭蕾",
+                    "translation": "Ballet",
+                    "phonetic": "Bālěi"
+                },
+                {
+                    "word": "魔术",
+                    "translation": "Magic trick",
+                    "phonetic": "Móshù"
+                },
+                {
+                    "word": "马戏",
+                    "translation": "Circus",
+                    "phonetic": "Mǎxì"
+                },
+                {
+                    "word": "台词",
+                    "translation": "Lines (of a play)",
+                    "phonetic": "Táicí"
+                },
+                {
+                    "word": "排练",
+                    "translation": "Rehearsal",
+                    "phonetic": "Páiliàn"
+                },
+                {
+                    "word": "谢幕",
+                    "translation": "Curtain call",
+                    "phonetic": "Xièmù"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a2_m09_l03",
+            "title": "Art Exhibitions",
+            "order": 3,
+            "vocabulary": [
+                {
+                    "word": "展览",
+                    "translation": "Exhibition",
+                    "phonetic": "Zhǎnlǎn"
+                },
+                {
+                    "word": "画廊",
+                    "translation": "Art gallery",
+                    "phonetic": "Huàláng"
+                },
+                {
+                    "word": "作品",
+                    "translation": "Artwork / Work",
+                    "phonetic": "Zuòpǐn"
+                },
+                {
+                    "word": "画家",
+                    "translation": "Painter",
+                    "phonetic": "Huàjiā"
+                },
+                {
+                    "word": "雕塑",
+                    "translation": "Sculpture",
+                    "phonetic": "Diāosù"
+                },
+                {
+                    "word": "收藏",
+                    "translation": "To collect / Collection",
+                    "phonetic": "Shōucáng"
+                },
+                {
+                    "word": "古董",
+                    "translation": "Antique",
+                    "phonetic": "Gǔdǒng"
+                },
+                {
+                    "word": "鉴赏",
+                    "translation": "To appreciate / Appraise",
+                    "phonetic": "Jiànshǎng"
+                },
+                {
+                    "word": "策展",
+                    "translation": "Curation",
+                    "phonetic": "Cèzhǎn"
+                },
+                {
+                    "word": "视觉",
+                    "translation": "Visual",
+                    "phonetic": "Shìjué"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a2_m09_l04",
+            "title": "Sports & Leisure",
+            "order": 4,
+            "vocabulary": [
+                {
+                    "word": "远足",
+                    "translation": "Hiking",
+                    "phonetic": "Yuǎnzú"
+                },
+                {
+                    "word": "露营",
+                    "translation": "Camping",
+                    "phonetic": "Lùyíng"
+                },
+                {
+                    "word": "滑雪",
+                    "translation": "Skiing",
+                    "phonetic": "Huáxuě"
+                },
+                {
+                    "word": "冲浪",
+                    "translation": "Surfing",
+                    "phonetic": "Chōnglàng"
+                },
+                {
+                    "word": "潜水",
+                    "translation": "Diving",
+                    "phonetic": "Qiánshuǐ"
+                },
+                {
+                    "word": "帆船",
+                    "translation": "Sailing",
+                    "phonetic": "Fānchuán"
+                },
+                {
+                    "word": "棋牌",
+                    "translation": "Chess and cards",
+                    "phonetic": "Qípái"
+                },
+                {
+                    "word": "麻将",
+                    "translation": "Mahjong",
+                    "phonetic": "Májiàng"
+                },
+                {
+                    "word": "瑜伽",
+                    "translation": "Yoga",
+                    "phonetic": "Yújiā"
+                },
+                {
+                    "word": "冥想",
+                    "translation": "Meditation",
+                    "phonetic": "Míngxiǎng"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a2_m09_l05",
+            "title": "Film & Cinema",
+            "order": 5,
+            "vocabulary": [
+                {
+                    "word": "导演",
+                    "translation": "Director",
+                    "phonetic": "Dǎoyǎn"
+                },
+                {
+                    "word": "演员",
+                    "translation": "Actor / Actress",
+                    "phonetic": "Yǎnyuán"
+                },
+                {
+                    "word": "编剧",
+                    "translation": "Screenwriter",
+                    "phonetic": "Biānjù"
+                },
+                {
+                    "word": "制片",
+                    "translation": "Producer / Production",
+                    "phonetic": "Zhìpiàn"
+                },
+                {
+                    "word": "特效",
+                    "translation": "Special effects",
+                    "phonetic": "Tèxiào"
+                },
+                {
+                    "word": "票房",
+                    "translation": "Box office",
+                    "phonetic": "Piàofáng"
+                },
+                {
+                    "word": "影评",
+                    "translation": "Film review",
+                    "phonetic": "Yǐngpíng"
+                },
+                {
+                    "word": "首映",
+                    "translation": "Premiere",
+                    "phonetic": "Shǒuyìng"
+                },
+                {
+                    "word": "动画",
+                    "translation": "Animation",
+                    "phonetic": "Dònghuà"
+                },
+                {
+                    "word": "经典",
+                    "translation": "Classic",
+                    "phonetic": "Jīngdiǎn"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a2_m09_l06",
+            "title": "Cultural Heritage",
+            "order": 6,
+            "vocabulary": [
+                {
+                    "word": "非物质",
+                    "translation": "Intangible",
+                    "phonetic": "Fēiwùzhì"
+                },
+                {
+                    "word": "遗产",
+                    "translation": "Heritage / Legacy",
+                    "phonetic": "Yíchǎn"
+                },
+                {
+                    "word": "技艺",
+                    "translation": "Craftsmanship",
+                    "phonetic": "Jìyì"
+                },
+                {
+                    "word": "刺绣",
+                    "translation": "Embroidery",
+                    "phonetic": "Cìxiù"
+                },
+                {
+                    "word": "剪纸",
+                    "translation": "Paper-cutting",
+                    "phonetic": "Jiǎnzhǐ"
+                },
+                {
+                    "word": "民俗",
+                    "translation": "Folklore",
+                    "phonetic": "Mínsú"
+                },
+                {
+                    "word": "觉察",
+                    "translation": "Juéchá",
+                    "phonetic": "Notice/Detect"
+                },
+                {
+                    "word": "节日",
+                    "translation": "Festival",
+                    "phonetic": "Jiérì"
+                },
+                {
+                    "word": "庙会",
+                    "translation": "Temple fair",
+                    "phonetic": "Miàohuì"
+                },
+                {
+                    "word": "祈福",
+                    "translation": "Pray for blessings",
+                    "phonetic": "Qífú"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a2_m09_l07",
+            "title": "Literature & Poetry",
+            "order": 7,
+            "vocabulary": [
+                {
+                    "word": "文学",
+                    "translation": "Literature",
+                    "phonetic": "Wénxué"
+                },
+                {
+                    "word": "诗歌",
+                    "translation": "Poetry / Poem",
+                    "phonetic": "Shīgē"
+                },
+                {
+                    "word": "小说",
+                    "translation": "Novel",
+                    "phonetic": "Xiǎoshuō"
+                },
+                {
+                    "word": "散文",
+                    "translation": "Prose",
+                    "phonetic": "Sǎnwén"
+                },
+                {
+                    "word": "作者",
+                    "translation": "Author",
+                    "phonetic": "Zuòzhě"
+                },
+                {
+                    "word": "出版",
+                    "translation": "Publish",
+                    "phonetic": "Chūbǎn"
+                },
+                {
+                    "word": "书评",
+                    "translation": "Book review",
+                    "phonetic": "Shūpíng"
+                },
+                {
+                    "word": "翻译",
+                    "translation": "Translation",
+                    "phonetic": "Fānyì"
+                },
+                {
+                    "word": "意境",
+                    "translation": "Artistic conception",
+                    "phonetic": "Yìjìng"
+                },
+                {
+                    "word": "韵律",
+                    "translation": "Rhythm / Rhyme",
+                    "phonetic": "Yùnlǜ"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a2_m09_l08",
+            "title": "Music Mastery",
+            "order": 8,
+            "vocabulary": [
+                {
+                    "word": "旋律",
+                    "translation": "Melody",
+                    "phonetic": "Xuánlǜ"
+                },
+                {
+                    "word": "节奏",
+                    "translation": "Rhythm / Tempo",
+                    "phonetic": "Jiézòu"
+                },
+                {
+                    "word": "演唱会",
+                    "translation": "Concert (pop)",
+                    "phonetic": "Yǎnchànghuì"
+                },
+                {
+                    "word": "古典",
+                    "translation": "Classical",
+                    "phonetic": "Gǔdiǎn"
+                },
+                {
+                    "word": "流行",
+                    "translation": "Pop / Popular",
+                    "phonetic": "Liúxíng"
+                },
+                {
+                    "word": "爵士",
+                    "translation": "Jazz",
+                    "phonetic": "Juéshì"
+                },
+                {
+                    "word": "乐团",
+                    "translation": "Orchestra / Band",
+                    "phonetic": "Yuètuán"
+                },
+                {
+                    "word": "和声",
+                    "translation": "Harmony",
+                    "phonetic": "Héshēng"
+                },
+                {
+                    "word": "独唱",
+                    "translation": "Solo",
+                    "phonetic": "Dúchàng"
+                },
+                {
+                    "word": "合唱",
+                    "translation": "Chorus",
+                    "phonetic": "Héchàng"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a2_m09_l09",
+            "title": "Artistic Concepts",
+            "order": 9,
+            "vocabulary": [
+                {
+                    "word": "灵感",
+                    "translation": "Inspiration",
+                    "phonetic": "Línggǎn"
+                },
+                {
+                    "word": "创作",
+                    "translation": "To create / Creation",
+                    "phonetic": "Chuàngzuò"
+                },
+                {
+                    "word": "表达",
+                    "translation": "To express",
+                    "phonetic": "Biǎodá"
+                },
+                {
+                    "word": "情感",
+                    "translation": "Emotion / Feeling",
+                    "phonetic": "Qínggǎn"
+                },
+                {
+                    "word": "风格",
+                    "translation": "Style",
+                    "phonetic": "Fēnggé"
+                },
+                {
+                    "word": "抽象",
+                    "translation": "Abstract",
+                    "phonetic": "Chōuxiàng"
+                },
+                {
+                    "word": "写实",
+                    "translation": "Realistic",
+                    "phonetic": "Xiěshí"
+                },
+                {
+                    "word": "融合",
+                    "translation": "Fusion / Combine",
+                    "phonetic": "Rónghé"
+                },
+                {
+                    "word": "震撼",
+                    "translation": "Shocking / Stunning",
+                    "phonetic": "Zhènhàn"
+                },
+                {
+                    "word": "启迪",
+                    "translation": "Inspiration / Enlightenment",
+                    "phonetic": "Qǐdí"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a2_m09_l10",
+            "title": "Arts Mastery Traps",
+            "order": 10,
+            "vocabulary": [
+                {
+                    "word": "欣赏",
+                    "translation": "Appreciate",
+                    "phonetic": "Xīnshǎng"
+                },
+                {
+                    "word": "沉浸",
+                    "translation": "Immerse",
+                    "phonetic": "Chénjìn"
+                },
+                {
+                    "word": "陶冶",
+                    "translation": "To cultivate / mold",
+                    "phonetic": "Táoyě"
+                },
+                {
+                    "word": "精湛",
+                    "translation": "Exquisite / Profound",
+                    "phonetic": "Jīngzhàn"
+                },
+                {
+                    "word": "领略",
+                    "translation": "Lǐnglüè",
+                    "phonetic": "Appreciate/Enjoy",
+                    "liarGame": true,
+                    "explanation": "Yìshù means art. Be careful: 姨书 (Yíshū) sounds similar and could mean 'Aunt's book' or even 'Aunt's Will'. Don't tell people you study 'your aunt's will'!"
+                },
+                {
+                    "word": "友谊",
+                    "translation": "Friendship",
+                    "phonetic": "Yǒuyì",
+                    "liarGame": true,
+                    "explanation": "Shōucáng means to collect (art/antiques). Beginners often slip into 手忙 (Shǒumáng), which means to be busy or clumsy. Collecting art is a controlled act, not a clumsy one!"
+                },
+                {
+                    "word": "绘画",
+                    "translation": "Painting / Drawing",
+                    "phonetic": "Huìhuà",
+                    "liarGame": true,
+                    "explanation": "Huìhuà means painting. Watch out: 会话 (Huìhuà) sounds identical and means 'conversation'. Use context to know if you are talking to a canvas or a person!"
+                },
+                {
+                    "word": "韵味",
+                    "translation": "Charm / Aftertaste",
+                    "phonetic": "Yùnwèi"
+                },
+                {
+                    "word": "绚丽",
+                    "translation": "Gorgeous",
+                    "phonetic": "Xuànlì"
+                },
+                {
+                    "word": "圆满",
+                    "translation": "Perfect / Complete",
+                    "phonetic": "Yuánmǎn"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Arts & Creative Mix-ups",
+        "question": "You want to talk about 'Painting' (Huìhuà). However, the word sounds exactly like 'Conversation'. How do you ensure the listener understands you are talking about art?",
+        "options": [
+            "Use Context / Objects (eg. 画画)",
+            "Shout LOUDER",
+            "Use a different tone",
+            "There is no way"
+        ],
+        "correct_answer_index": 0,
+        "explanation": "In Chinese, many words share the exact same sound and tones (Homophones). 绘画 (Painting) and 会话 (Conversation) both are 'Huìhuà'. Context is your best friend—mentioning brushes or galleries clarifies the artistic intent!"
+    }
+}

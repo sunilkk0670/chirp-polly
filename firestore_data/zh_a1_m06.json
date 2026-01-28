@@ -1,0 +1,597 @@
+{
+    "module_id": "zh_a1_m06",
+    "language": "chinese",
+    "level": "A1",
+    "theme": "Travel & Transportation",
+    "order": 6,
+    "lessons": [
+        {
+            "lesson_id": "zh_a1_m06_l01",
+            "title": "Transportation Types",
+            "order": 1,
+            "vocabulary": [
+                {
+                    "word": "公共汽车",
+                    "translation": "Bus",
+                    "phonetic": "Gōnggòng qìchē"
+                },
+                {
+                    "word": "地铁",
+                    "translation": "Subway",
+                    "phonetic": "Dìtiě"
+                },
+                {
+                    "word": "火车",
+                    "translation": "Train",
+                    "phonetic": "Huǒchē"
+                },
+                {
+                    "word": "高铁",
+                    "translation": "High-speed rail",
+                    "phonetic": "Gāotiě"
+                },
+                {
+                    "word": "飞机",
+                    "translation": "Airplane",
+                    "phonetic": "Fēijī"
+                },
+                {
+                    "word": "自行车",
+                    "translation": "Bicycle",
+                    "phonetic": "Zìxíngchē"
+                },
+                {
+                    "word": "船",
+                    "translation": "Boat/Ship",
+                    "phonetic": "Chuán"
+                },
+                {
+                    "word": "摩托车",
+                    "translation": "Motorcycle",
+                    "phonetic": "Mótuōchē"
+                },
+                {
+                    "word": "电动车",
+                    "translation": "Electric scooter",
+                    "phonetic": "Diàndòngchē"
+                },
+                {
+                    "word": "三轮车",
+                    "translation": "Tricycle",
+                    "phonetic": "Sānlúnchē"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m06_l02",
+            "title": "Stations & Terminals",
+            "order": 2,
+            "vocabulary": [
+                {
+                    "word": "车站",
+                    "translation": "Station",
+                    "phonetic": "Chēzhàn"
+                },
+                {
+                    "word": "票",
+                    "translation": "Ticket",
+                    "phonetic": "Piào"
+                },
+                {
+                    "word": "车票",
+                    "translation": "Bus/Train ticket",
+                    "phonetic": "Chēpiào"
+                },
+                {
+                    "word": "机票",
+                    "translation": "Air ticket",
+                    "phonetic": "Jīpiào"
+                },
+                {
+                    "word": "售票处",
+                    "translation": "Ticket office",
+                    "phonetic": "Shòupiàochù"
+                },
+                {
+                    "word": "候车室",
+                    "translation": "Waiting room",
+                    "phonetic": "Hòuchēshì"
+                },
+                {
+                    "word": "站台",
+                    "translation": "Platform",
+                    "phonetic": "Zhàntái"
+                },
+                {
+                    "word": "出口",
+                    "translation": "Exit",
+                    "phonetic": "Chūkǒu"
+                },
+                {
+                    "word": "入口",
+                    "translation": "Entrance",
+                    "phonetic": "Rùkǒu"
+                },
+                {
+                    "word": "通道",
+                    "translation": "Passage",
+                    "phonetic": "Tōngdào"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m06_l03",
+            "title": "Travel Documents",
+            "order": 3,
+            "vocabulary": [
+                {
+                    "word": "箱子",
+                    "translation": "Suitcase/Box",
+                    "phonetic": "Xiāngzi"
+                },
+                {
+                    "word": "订",
+                    "translation": "To book/reserve",
+                    "phonetic": "Dìng"
+                },
+                {
+                    "word": "预约",
+                    "translation": "Appointment",
+                    "phonetic": "Yùyuē"
+                },
+                {
+                    "word": "确认",
+                    "translation": "To confirm",
+                    "phonetic": "Quèrèn"
+                },
+                {
+                    "word": "作废",
+                    "translation": "To void",
+                    "phonetic": "Zuòfèi"
+                },
+                {
+                    "word": "改签",
+                    "translation": "Change ticket",
+                    "phonetic": "Gǎiqiān"
+                },
+                {
+                    "word": "退票",
+                    "translation": "Refund ticket",
+                    "phonetic": "Tuìpiào"
+                },
+                {
+                    "word": "身份证",
+                    "translation": "ID card",
+                    "phonetic": "Shēnfènzhèng"
+                },
+                {
+                    "word": "证件",
+                    "translation": "Documents",
+                    "phonetic": "Zhèngjiàn"
+                },
+                {
+                    "word": "海关",
+                    "translation": "Customs",
+                    "phonetic": "Hǎiguān"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m06_l04",
+            "title": "Directions & Navigation",
+            "order": 4,
+            "vocabulary": [
+                {
+                    "word": "迷路",
+                    "translation": "To be lost",
+                    "phonetic": "Mílù"
+                },
+                {
+                    "word": "向",
+                    "translation": "Towards",
+                    "phonetic": "Xiàng"
+                },
+                {
+                    "word": "转",
+                    "translation": "To turn",
+                    "phonetic": "Zhuǎn"
+                },
+                {
+                    "word": "路口",
+                    "translation": "Intersection",
+                    "phonetic": "Lùkǒu"
+                },
+                {
+                    "word": "十字路口",
+                    "translation": "Crossroads",
+                    "phonetic": "Shízì lùkǒu"
+                },
+                {
+                    "word": "拐弯",
+                    "translation": "Turn a corner",
+                    "phonetic": "Guǎiwān"
+                },
+                {
+                    "word": "掉头",
+                    "translation": "U-turn",
+                    "phonetic": "Diàotóu"
+                },
+                {
+                    "word": "导航",
+                    "translation": "Navigation",
+                    "phonetic": "Dǎoháng"
+                },
+                {
+                    "word": "省份",
+                    "translation": "Province",
+                    "phonetic": "Shěngfèn"
+                },
+                {
+                    "word": "问路",
+                    "translation": "Ask for directions",
+                    "phonetic": "Wènlù"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m06_l05",
+            "title": "Speed & Time",
+            "order": 5,
+            "vocabulary": [
+                {
+                    "word": "快",
+                    "translation": "Fast",
+                    "phonetic": "Kuài"
+                },
+                {
+                    "word": "慢",
+                    "translation": "Slow",
+                    "phonetic": "Màn"
+                },
+                {
+                    "word": "挤",
+                    "translation": "Crowded",
+                    "phonetic": "Jǐ"
+                },
+                {
+                    "word": "准时",
+                    "translation": "On time",
+                    "phonetic": "Zhǔnshí"
+                },
+                {
+                    "word": "晚点",
+                    "translation": "Delayed",
+                    "phonetic": "Wǎndiǎn"
+                },
+                {
+                    "word": "换车",
+                    "translation": "Change transport",
+                    "phonetic": "Huànchē"
+                },
+                {
+                    "word": "等车",
+                    "translation": "Wait for transport",
+                    "phonetic": "Děngchē"
+                },
+                {
+                    "word": "赶时间",
+                    "translation": "In a hurry",
+                    "phonetic": "Gǎn shíjiān"
+                },
+                {
+                    "word": "来得及",
+                    "translation": "In time",
+                    "phonetic": "Láidejí"
+                },
+                {
+                    "word": "来不及",
+                    "translation": "Too late",
+                    "phonetic": "Láibují"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m06_l06",
+            "title": "Riding & Driving",
+            "order": 6,
+            "vocabulary": [
+                {
+                    "word": "扫码",
+                    "translation": "Scan code",
+                    "phonetic": "Sǎomǎ"
+                },
+                {
+                    "word": "骑",
+                    "translation": "To ride",
+                    "phonetic": "Qí"
+                },
+                {
+                    "word": "单车",
+                    "translation": "Bike",
+                    "phonetic": "Dānchē"
+                },
+                {
+                    "word": "堵车",
+                    "translation": "Traffic jam",
+                    "phonetic": "Dǔchē"
+                },
+                {
+                    "word": "司机",
+                    "translation": "Driver",
+                    "phonetic": "Sījī"
+                },
+                {
+                    "word": "乘客",
+                    "translation": "Passenger",
+                    "phonetic": "Chéngkè"
+                },
+                {
+                    "word": "座位",
+                    "translation": "Seat",
+                    "phonetic": "Zuòwèi"
+                },
+                {
+                    "word": "靠窗",
+                    "translation": "By the window",
+                    "phonetic": "Kào chuāng"
+                },
+                {
+                    "word": "过道",
+                    "translation": "Aisle",
+                    "phonetic": "Guòdào"
+                },
+                {
+                    "word": "安全带",
+                    "translation": "Seatbelt",
+                    "phonetic": "Ānquándài"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m06_l07",
+            "title": "Airport Terms",
+            "order": 7,
+            "vocabulary": [
+                {
+                    "word": "登机口",
+                    "translation": "Boarding gate",
+                    "phonetic": "Dēngjīkǒu"
+                },
+                {
+                    "word": "登机牌",
+                    "translation": "Boarding pass",
+                    "phonetic": "Dēngjīpái"
+                },
+                {
+                    "word": "安检",
+                    "translation": "Security check",
+                    "phonetic": "Ānjiǎn"
+                },
+                {
+                    "word": "托运",
+                    "translation": "Check-in luggage",
+                    "phonetic": "Tuōyùn"
+                },
+                {
+                    "word": "随身",
+                    "translation": "Carry-on",
+                    "phonetic": "Suíshēn"
+                },
+                {
+                    "word": "起飞",
+                    "translation": "Take off",
+                    "phonetic": "Qǐfēi"
+                },
+                {
+                    "word": "降落",
+                    "translation": "Land",
+                    "phonetic": "Jiàngluò"
+                },
+                {
+                    "word": "延误",
+                    "translation": "Delay",
+                    "phonetic": "Yánwù"
+                },
+                {
+                    "word": "航班",
+                    "translation": "Flight",
+                    "phonetic": "Hángbān"
+                },
+                {
+                    "word": "转机",
+                    "translation": "Transfer flight",
+                    "phonetic": "Zhuǎnjī"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m06_l08",
+            "title": "Tourism & Sightseeing",
+            "order": 8,
+            "vocabulary": [
+                {
+                    "word": "目的地",
+                    "translation": "Destination",
+                    "phonetic": "Mùdìdì"
+                },
+                {
+                    "word": "行程",
+                    "translation": "Itinerary/Journey",
+                    "phonetic": "Xíngchéng"
+                },
+                {
+                    "word": "导游",
+                    "translation": "Tour guide",
+                    "phonetic": "Dǎoyóu"
+                },
+                {
+                    "word": "名胜",
+                    "translation": "Scenery site",
+                    "phonetic": "Míngshèng"
+                },
+                {
+                    "word": "古迹",
+                    "translation": "Historical site",
+                    "phonetic": "Gǔjì"
+                },
+                {
+                    "word": "风景",
+                    "translation": "Landscape",
+                    "phonetic": "Fēngjǐng"
+                },
+                {
+                    "word": "照相机",
+                    "translation": "Camera",
+                    "phonetic": "Zhàoxiàngjī"
+                },
+                {
+                    "word": "有趣",
+                    "translation": "Interesting",
+                    "phonetic": "Yǒuqù"
+                },
+                {
+                    "word": "好玩",
+                    "translation": "Fun",
+                    "phonetic": "Hǎowán"
+                },
+                {
+                    "word": "景点",
+                    "translation": "Scenic spot",
+                    "phonetic": "Jǐngdiǎn"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m06_l09",
+            "title": "Souvenirs & Feelings",
+            "order": 9,
+            "vocabulary": [
+                {
+                    "word": "开心",
+                    "translation": "Happy",
+                    "phonetic": "Kāixīn"
+                },
+                {
+                    "word": "纪念品",
+                    "translation": "Souvenir",
+                    "phonetic": "Jìniànpǐn"
+                },
+                {
+                    "word": "礼物",
+                    "translation": "Gift",
+                    "phonetic": "Lǐwù"
+                },
+                {
+                    "word": "明信片",
+                    "translation": "Postcard",
+                    "phonetic": "Míngxìnpiàn"
+                },
+                {
+                    "word": "世界",
+                    "translation": "World",
+                    "phonetic": "Shìjiè"
+                },
+                {
+                    "word": "上海",
+                    "translation": "Shanghai",
+                    "phonetic": "Shànghǎi"
+                },
+                {
+                    "word": "国外",
+                    "translation": "Abroad",
+                    "phonetic": "Guówài"
+                },
+                {
+                    "word": "国内",
+                    "translation": "Domestic",
+                    "phonetic": "Guónèi"
+                },
+                {
+                    "word": "区域",
+                    "translation": "Area/Region",
+                    "phonetic": "Qūyù"
+                },
+                {
+                    "word": "乡村",
+                    "translation": "Countryside",
+                    "phonetic": "Xiāngcūn"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m06_l10",
+            "title": "Travel Expressions",
+            "order": 10,
+            "vocabulary": [
+                {
+                    "word": "出发吧",
+                    "translation": "Let's set off",
+                    "phonetic": "Chūfā ba"
+                },
+                {
+                    "word": "一路顺风",
+                    "translation": "Have a safe trip",
+                    "phonetic": "Yílù shùnfēng"
+                },
+                {
+                    "word": "明天见",
+                    "translation": "See you tomorrow",
+                    "phonetic": "Míngtiān jiàn"
+                },
+                {
+                    "word": "一路平安",
+                    "translation": "Safe journey",
+                    "phonetic": "Yílù píng'ān"
+                },
+                {
+                    "word": "食盐",
+                    "translation": "Salt",
+                    "phonetic": "Shíyán",
+                    "liarGame": true,
+                    "explanation": "Catch or take a taxi. Literally 'to hit car' but used for hailing a cab!"
+                },
+                {
+                    "word": "白糖",
+                    "translation": "Sugar",
+                    "phonetic": "Báitáng",
+                    "liarGame": true,
+                    "explanation": "Stuff or things. Combining East and West characters creates the meaning of 'objects'."
+                },
+                {
+                    "word": "马路",
+                    "translation": "Road / Street",
+                    "phonetic": "Mǎlù",
+                    "liarGame": true,
+                    "explanation": "Literally 'Horse Road'. It's the common term for any city road or main street today."
+                },
+                {
+                    "word": "酱油",
+                    "translation": "Soy sauce",
+                    "phonetic": "Jiàngyóu"
+                },
+                {
+                    "word": "醋",
+                    "translation": "Vinegar",
+                    "phonetic": "Cù"
+                },
+                {
+                    "word": "食用油",
+                    "translation": "Cooking oil",
+                    "phonetic": "Shíyòngyóu"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Travel & Transport",
+        "question": "Does '马路' (mǎlù) literally involve horses today?",
+        "options": [
+            "Yes, only for horses",
+            "No, it means any city road",
+            "Yes, for horse racing",
+            "It means a stable"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Though it literally means 'horse road', today '马路' is the standard term for a public road or street. Don't go looking for actual horses on the mǎlù!"
+    }
+}

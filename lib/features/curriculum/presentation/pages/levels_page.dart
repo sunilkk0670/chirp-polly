@@ -1,9 +1,12 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
+import '../../../auth/presentation/providers/auth_providers.dart';
 import '../widgets/chirpolly_logo.dart';
 import 'lesson_content_page.dart';
 
-class LevelsPage extends StatelessWidget {
+class LevelsPage extends ConsumerWidget {
   final String languageId;
   final String languageName;
   final String flag;
@@ -16,7 +19,10 @@ class LevelsPage extends StatelessWidget {
   });
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context, WidgetRef ref) {
+    final currentUser = ref.watch(currentUserProvider);
+    final isGuest = currentUser == null;
+
     return Scaffold(
       backgroundColor: Colors.white,
       appBar: AppBar(
@@ -38,54 +44,106 @@ class LevelsPage extends StatelessWidget {
           ),
         ),
       ),
-      body: StreamBuilder<QuerySnapshot>(
-        stream: FirebaseFirestore.instance
-            .collection('languages')
-            .doc(languageId)
-            .collection('levels')
-            .snapshots(),
-        builder: (context, levelsSnapshot) {
-          if (levelsSnapshot.hasError) {
-            return Center(child: Text('Error: ${levelsSnapshot.error}'));
-          }
+      body: Column(
+        children: [
+          if (isGuest) _buildGuestNudge(context),
+          Expanded(
+            child: StreamBuilder<QuerySnapshot>(
+              stream: FirebaseFirestore.instance
+                  .collection('languages')
+                  .doc(languageId)
+                  .collection('levels')
+                  .snapshots(),
+              builder: (context, levelsSnapshot) {
+                if (levelsSnapshot.hasError) {
+                  return Center(child: Text('Error: ${levelsSnapshot.error}'));
+                }
 
-          if (levelsSnapshot.connectionState == ConnectionState.waiting) {
-            return const Center(child: CircularProgressIndicator());
-          }
+                if (levelsSnapshot.connectionState == ConnectionState.waiting) {
+                  return const Center(child: CircularProgressIndicator());
+                }
 
-          final levels = levelsSnapshot.data?.docs ?? [];
+                final levels = levelsSnapshot.data?.docs ?? [];
 
-          if (levels.isEmpty) {
-            return const Center(child: Text('No levels available'));
-          }
+                if (levels.isEmpty) {
+                  return const Center(child: Text('No levels available'));
+                }
 
-          return ListView.builder(
-            padding: const EdgeInsets.all(20),
-            itemCount: levels.length,
-            itemBuilder: (context, index) {
-              final levelDoc = levels[index];
-              final levelData = levelDoc.data() as Map<String, dynamic>;
-              final levelId = levelDoc.id;
+                return ListView.builder(
+                  padding: const EdgeInsets.all(20),
+                  itemCount: levels.length,
+                  itemBuilder: (context, index) {
+                    final levelDoc = levels[index];
+                    final levelData = levelDoc.data() as Map<String, dynamic>;
+                    final levelId = levelDoc.id;
 
-              return _buildLevelCard(
-                context,
-                levelId: levelId,
-                levelName: levelData['name'] ?? 'Unknown',
-                description: levelData['description'] ?? '',
-              );
-            },
-          );
-        },
+                    return _buildLevelCard(
+                      context,
+                      ref,
+                      isGuest: isGuest,
+                      levelId: levelId,
+                      levelName: levelData['name'] ?? 'Unknown',
+                      description: levelData['description'] ?? '',
+                    );
+                  },
+                );
+              },
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildGuestNudge(BuildContext context) {
+    return Container(
+      width: double.infinity,
+      padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
+      decoration: BoxDecoration(
+        color: const Color(0xFF6A4CBC).withOpacity(0.1),
+        border: const Border(
+          bottom: BorderSide(color: Color(0xFF6A4CBC), width: 0.5),
+        ),
+      ),
+      child: Row(
+        children: [
+          const Icon(Icons.stars_rounded, color: Color(0xFF6A4CBC)),
+          const SizedBox(width: 12),
+          const Expanded(
+            child: Text(
+              'Sign up for free to track your progress and unlock advanced levels!',
+              style: TextStyle(
+                color: Color(0xFF6A4CBC),
+                fontWeight: FontWeight.w600,
+                fontSize: 14,
+              ),
+            ),
+          ),
+          TextButton(
+            onPressed: () => Navigator.pushNamed(context, '/login'),
+            child: const Text(
+              'Sign Up',
+              style: TextStyle(
+                fontWeight: FontWeight.bold,
+                decoration: TextDecoration.underline,
+              ),
+            ),
+          ),
+        ],
       ),
     );
   }
 
   Widget _buildLevelCard(
-    BuildContext context, {
+    BuildContext context,
+    WidgetRef ref, {
+    required bool isGuest,
     required String levelId,
     required String levelName,
     required String description,
   }) {
+    final isGated = isGuest && (levelId.toLowerCase() != 'a1');
+
     return Card(
       margin: const EdgeInsets.only(bottom: 16),
       elevation: 2,
@@ -93,18 +151,22 @@ class LevelsPage extends StatelessWidget {
       child: InkWell(
         borderRadius: BorderRadius.circular(16),
         onTap: () {
-          Navigator.push(
-            context,
-            MaterialPageRoute(
-              builder: (context) => ModulesPage(
-                languageId: languageId,
-                languageName: languageName,
-                levelId: levelId,
-                levelName: levelName,
-                flag: flag,
+          if (isGated) {
+            _showGatedContentDialog(context);
+          } else {
+            Navigator.push(
+              context,
+              MaterialPageRoute(
+                builder: (context) => ModulesPage(
+                  languageId: languageId,
+                  languageName: languageName,
+                  levelId: levelId,
+                  levelName: levelName,
+                  flag: flag,
+                ),
               ),
-            ),
-          );
+            );
+          }
         },
         child: Padding(
           padding: const EdgeInsets.all(20),
@@ -133,12 +195,20 @@ class LevelsPage extends StatelessWidget {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Text(
-                      levelName,
-                      style: const TextStyle(
-                        fontSize: 18,
-                        fontWeight: FontWeight.bold,
-                      ),
+                    Row(
+                      children: [
+                        Text(
+                          levelName,
+                          style: const TextStyle(
+                            fontSize: 18,
+                            fontWeight: FontWeight.bold,
+                          ),
+                        ),
+                        if (isGated) ...[
+                          const SizedBox(width: 8),
+                          Icon(Icons.lock_outline, size: 16, color: Colors.amber.shade700),
+                        ],
+                      ],
                     ),
                     const SizedBox(height: 4),
                     Text(
@@ -151,10 +221,60 @@ class LevelsPage extends StatelessWidget {
                   ],
                 ),
               ),
-              Icon(Icons.arrow_forward_ios, color: Colors.grey.shade400, size: 20),
+              Icon(
+                isGated ? Icons.lock_outline : Icons.arrow_forward_ios,
+                color: Colors.grey.shade400,
+                size: 20,
+              ),
             ],
           ),
         ),
+      ),
+    );
+  }
+
+  void _showGatedContentDialog(BuildContext context) {
+    showDialog(
+      context: context,
+      builder: (context) => AlertDialog(
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+        title: Row(
+          children: [
+            Icon(Icons.lock_person_rounded, color: Colors.amber.shade700),
+            const SizedBox(width: 12),
+            const Text('Unlock Premium Content'),
+          ],
+        ),
+        content: const Column(
+          mainAxisSize: MainAxisSize.min,
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text(
+              'Advanced levels (A2 & B1) are exclusively available to our registered community.',
+              style: TextStyle(fontWeight: FontWeight.w500),
+            ),
+            SizedBox(height: 16),
+            Text('• 1,000+ new vocabulary words\n• Advanced Liar Game traps\n• Cultural mastery modules'),
+          ],
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.pop(context),
+            child: Text('Maybe Later', style: TextStyle(color: Colors.grey.shade600)),
+          ),
+          ElevatedButton(
+            onPressed: () {
+              Navigator.pop(context);
+              Navigator.pushNamed(context, '/login');
+            },
+            style: ElevatedButton.styleFrom(
+              backgroundColor: const Color(0xFF6A4CBC),
+              foregroundColor: Colors.white,
+              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
+            ),
+            child: const Text('Sign Up / Login'),
+          ),
+        ],
       ),
     );
   }

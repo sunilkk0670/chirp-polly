@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+import '../../../auth/presentation/providers/auth_providers.dart';
 import '../services/tts_service.dart';
 import '../widgets/chirpolly_logo.dart';
 import 'liar_game_page.dart';
 
-class LessonContentPage extends StatefulWidget {
+class LessonContentPage extends ConsumerStatefulWidget {
   final String languageId;
   final String languageName;
   final String levelId;
@@ -23,10 +25,10 @@ class LessonContentPage extends StatefulWidget {
   });
 
   @override
-  State<LessonContentPage> createState() => _LessonContentPageState();
+  ConsumerState<LessonContentPage> createState() => _LessonContentPageState();
 }
 
-class _LessonContentPageState extends State<LessonContentPage> {
+class _LessonContentPageState extends ConsumerState<LessonContentPage> {
   String get languageCode => _getLanguageCode(widget.languageId);
 
   String _getLanguageCode(String languageId) {
@@ -104,6 +106,9 @@ class _LessonContentPageState extends State<LessonContentPage> {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
+              // Guest User Nudge
+              if (ref.watch(currentUserProvider) == null)
+                _buildGuestNudge(),
               // Module Header
               Row(
                 children: [
@@ -237,6 +242,42 @@ class _LessonContentPageState extends State<LessonContentPage> {
             ],
           ),
         ),
+      ),
+    );
+  }
+
+  Widget _buildGuestNudge() {
+    return Container(
+      margin: const EdgeInsets.only(bottom: 16),
+      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+      decoration: BoxDecoration(
+        color: Colors.amber.shade50,
+        borderRadius: BorderRadius.circular(12),
+        border: Border.all(color: Colors.amber.shade300),
+      ),
+      child: Row(
+        children: [
+          Icon(Icons.info_outline, color: Colors.amber.shade900, size: 20),
+          const SizedBox(width: 12),
+          Expanded(
+            child: Text(
+              'Sign up to track your progress!',
+              style: TextStyle(
+                color: Colors.amber.shade900,
+                fontSize: 14,
+                fontWeight: FontWeight.w500,
+              ),
+            ),
+          ),
+          TextButton(
+            onPressed: () => Navigator.pushNamed(context, '/login'),
+            style: TextButton.styleFrom(
+              foregroundColor: Colors.amber.shade900,
+              padding: const EdgeInsets.symmetric(horizontal: 12),
+            ),
+            child: const Text('Sign Up', style: TextStyle(fontWeight: FontWeight.bold)),
+          ),
+        ],
       ),
     );
   }

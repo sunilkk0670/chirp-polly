@@ -1,0 +1,597 @@
+{
+    "module_id": "zh_a1_m05",
+    "language": "chinese",
+    "level": "A1",
+    "theme": "Home & Shopping",
+    "order": 5,
+    "lessons": [
+        {
+            "lesson_id": "zh_a1_m05_l01",
+            "title": "Shopping Basics",
+            "order": 1,
+            "vocabulary": [
+                {
+                    "word": "多少钱",
+                    "translation": "How much money",
+                    "phonetic": "Duōshǎo qián"
+                },
+                {
+                    "word": "块",
+                    "translation": "Yuan (Colloquial)",
+                    "phonetic": "Kuài"
+                },
+                {
+                    "word": "毛",
+                    "translation": "10 Cents (Colloquial)",
+                    "phonetic": "Máo"
+                },
+                {
+                    "word": "太贵了",
+                    "translation": "Too expensive",
+                    "phonetic": "Tài guì le"
+                },
+                {
+                    "word": "打折",
+                    "translation": "Discount",
+                    "phonetic": "Dǎzhé"
+                },
+                {
+                    "word": "刷卡",
+                    "translation": "Swipe card",
+                    "phonetic": "Shuākǎ"
+                },
+                {
+                    "word": "现金",
+                    "translation": "Cash",
+                    "phonetic": "Xiànjīn"
+                },
+                {
+                    "word": "找钱",
+                    "translation": "Give change",
+                    "phonetic": "Zhǎoqián"
+                },
+                {
+                    "word": "袋子",
+                    "translation": "Bag",
+                    "phonetic": "Dàizi"
+                },
+                {
+                    "word": "收据",
+                    "translation": "Receipt",
+                    "phonetic": "Shōujù"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m05_l02",
+            "title": "Trying Things On",
+            "order": 2,
+            "vocabulary": [
+                {
+                    "word": "试一下",
+                    "translation": "Try it on",
+                    "phonetic": "Shì yīxià"
+                },
+                {
+                    "word": "合适",
+                    "translation": "Suitable/Fits",
+                    "phonetic": "Héshì"
+                },
+                {
+                    "word": "颜色",
+                    "translation": "Color",
+                    "phonetic": "Yánsè"
+                },
+                {
+                    "word": "红色",
+                    "translation": "Red",
+                    "phonetic": "Hóngsè"
+                },
+                {
+                    "word": "蓝色",
+                    "translation": "Blue",
+                    "phonetic": "Lánsè"
+                },
+                {
+                    "word": "黑色",
+                    "translation": "Black",
+                    "phonetic": "Hēisè"
+                },
+                {
+                    "word": "白色",
+                    "translation": "White",
+                    "phonetic": "Báisè"
+                },
+                {
+                    "word": "黄色",
+                    "translation": "Yellow",
+                    "phonetic": "Huángsè"
+                },
+                {
+                    "word": "绿色",
+                    "translation": "Green",
+                    "phonetic": "Lǜsè"
+                },
+                {
+                    "word": "灰色",
+                    "translation": "Gray",
+                    "phonetic": "Huīsè"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m05_l03",
+            "title": "Sizes",
+            "order": 3,
+            "vocabulary": [
+                {
+                    "word": "大号",
+                    "translation": "Large size",
+                    "phonetic": "Dàhào"
+                },
+                {
+                    "word": "中号",
+                    "translation": "Medium size",
+                    "phonetic": "Zhōnghào"
+                },
+                {
+                    "word": "小号",
+                    "translation": "Small size",
+                    "phonetic": "Xiǎohào"
+                },
+                {
+                    "word": "号码",
+                    "translation": "Size number",
+                    "phonetic": "Hàomǎ"
+                },
+                {
+                    "word": "长",
+                    "translation": "Long",
+                    "phonetic": "Cháng"
+                },
+                {
+                    "word": "短",
+                    "translation": "Short",
+                    "phonetic": "Duǎn"
+                },
+                {
+                    "word": "宽",
+                    "translation": "Wide",
+                    "phonetic": "Kuān"
+                },
+                {
+                    "word": "窄",
+                    "translation": "Narrow",
+                    "phonetic": "Zhǎi"
+                },
+                {
+                    "word": "厚",
+                    "translation": "Thick",
+                    "phonetic": "Hòu"
+                },
+                {
+                    "word": "薄",
+                    "translation": "Thin",
+                    "phonetic": "Báo"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m05_l04",
+            "title": "Clothing Items",
+            "order": 4,
+            "vocabulary": [
+                {
+                    "word": "裤子",
+                    "translation": "Pants",
+                    "phonetic": "Kùzi"
+                },
+                {
+                    "word": "鞋子",
+                    "translation": "Shoes",
+                    "phonetic": "Xiézi"
+                },
+                {
+                    "word": "袜子",
+                    "translation": "Socks",
+                    "phonetic": "Wàzi"
+                },
+                {
+                    "word": "帽子",
+                    "translation": "Hat",
+                    "phonetic": "Màozi"
+                },
+                {
+                    "word": "眼镜",
+                    "translation": "Glasses",
+                    "phonetic": "Yǎnjìng"
+                },
+                {
+                    "word": "手表",
+                    "translation": "Watch",
+                    "phonetic": "Shǒubiǎo"
+                },
+                {
+                    "word": "围巾",
+                    "translation": "Scarf",
+                    "phonetic": "Wéijīn"
+                },
+                {
+                    "word": "手套",
+                    "translation": "Gloves",
+                    "phonetic": "Shǒutào"
+                },
+                {
+                    "word": "皮带",
+                    "translation": "Belt",
+                    "phonetic": "Pídài"
+                },
+                {
+                    "word": "领带",
+                    "translation": "Tie",
+                    "phonetic": "Lǐngdài"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m05_l05",
+            "title": "Condition & Quality",
+            "order": 5,
+            "vocabulary": [
+                {
+                    "word": "旧",
+                    "translation": "Old (objects)",
+                    "phonetic": "Jiù"
+                },
+                {
+                    "word": "新",
+                    "translation": "New",
+                    "phonetic": "Xīn"
+                },
+                {
+                    "word": "坏了",
+                    "translation": "Broken",
+                    "phonetic": "Huàile"
+                },
+                {
+                    "word": "修理",
+                    "translation": "To repair",
+                    "phonetic": "Xiūlǐ"
+                },
+                {
+                    "word": "扔掉",
+                    "translation": "Throw away",
+                    "phonetic": "Rēngdiào"
+                },
+                {
+                    "word": "质量",
+                    "translation": "Quality",
+                    "phonetic": "Zhìliàng"
+                },
+                {
+                    "word": "牌子",
+                    "translation": "Brand",
+                    "phonetic": "Páizi"
+                },
+                {
+                    "word": "款式",
+                    "translation": "Style",
+                    "phonetic": "Kuǎnshì"
+                },
+                {
+                    "word": "材料",
+                    "translation": "Material",
+                    "phonetic": "Cáiliào"
+                },
+                {
+                    "word": "棉",
+                    "translation": "Cotton",
+                    "phonetic": "Mián"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m05_l06",
+            "title": "Actions with Objects",
+            "order": 6,
+            "vocabulary": [
+                {
+                    "word": "拿",
+                    "translation": "To take/hold",
+                    "phonetic": "Ná"
+                },
+                {
+                    "word": "放",
+                    "translation": "To put",
+                    "phonetic": "Fàng"
+                },
+                {
+                    "word": "打开",
+                    "translation": "To open",
+                    "phonetic": "Dǎkāi"
+                },
+                {
+                    "word": "关上",
+                    "translation": "To close",
+                    "phonetic": "Guānshàng"
+                },
+                {
+                    "word": "挂",
+                    "translation": "To hang",
+                    "phonetic": "Guà"
+                },
+                {
+                    "word": "叠",
+                    "translation": "To fold",
+                    "phonetic": "Dié"
+                },
+                {
+                    "word": "包",
+                    "translation": "To wrap",
+                    "phonetic": "Bāo"
+                },
+                {
+                    "word": "装",
+                    "translation": "To pack/load",
+                    "phonetic": "Zhuāng"
+                },
+                {
+                    "word": "拆",
+                    "translation": "To unwrap",
+                    "phonetic": "Chāi"
+                },
+                {
+                    "word": "选",
+                    "translation": "To choose",
+                    "phonetic": "Xuǎn"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m05_l07",
+            "title": "Home & Neighborhood",
+            "order": 7,
+            "vocabulary": [
+                {
+                    "word": "搬家",
+                    "translation": "To move house",
+                    "phonetic": "Bānjiā"
+                },
+                {
+                    "word": "邻居",
+                    "translation": "Neighbor",
+                    "phonetic": "Línjū"
+                },
+                {
+                    "word": "环境",
+                    "translation": "Environment",
+                    "phonetic": "Huánjìng"
+                },
+                {
+                    "word": "吵",
+                    "translation": "Noisy",
+                    "phonetic": "Chǎo"
+                },
+                {
+                    "word": "楼上",
+                    "translation": "Upstairs",
+                    "phonetic": "Lóushàng"
+                },
+                {
+                    "word": "楼下",
+                    "translation": "Downstairs",
+                    "phonetic": "Lóuxià"
+                },
+                {
+                    "word": "地下室",
+                    "translation": "Basement",
+                    "phonetic": "Dìxiàshì"
+                },
+                {
+                    "word": "花园",
+                    "translation": "Garden",
+                    "phonetic": "Huāyuán"
+                },
+                {
+                    "word": "走廊",
+                    "translation": "Hallway",
+                    "phonetic": "Zǒuláng"
+                },
+                {
+                    "word": "储藏室",
+                    "translation": "Storage room",
+                    "phonetic": "Chǔcángshì"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m05_l08",
+            "title": "Security & Access",
+            "order": 8,
+            "vocabulary": [
+                {
+                    "word": "停车",
+                    "translation": "To park",
+                    "phonetic": "Tíngchē"
+                },
+                {
+                    "word": "车库",
+                    "translation": "Garage",
+                    "phonetic": "Chēkù"
+                },
+                {
+                    "word": "钥匙",
+                    "translation": "Key",
+                    "phonetic": "Yàoshi"
+                },
+                {
+                    "word": "锁",
+                    "translation": "Lock",
+                    "phonetic": "Suǒ"
+                },
+                {
+                    "word": "门铃",
+                    "translation": "Doorbell",
+                    "phonetic": "Ménlíng"
+                },
+                {
+                    "word": "监控",
+                    "translation": "Surveillance",
+                    "phonetic": "Jiānkòng"
+                },
+                {
+                    "word": "保安",
+                    "translation": "Security guard",
+                    "phonetic": "Bǎo'ān"
+                },
+                {
+                    "word": "物业",
+                    "translation": "Property management",
+                    "phonetic": "Wùyè"
+                },
+                {
+                    "word": "小区",
+                    "translation": "Residential area",
+                    "phonetic": "Xiǎoqū"
+                },
+                {
+                    "word": "社区",
+                    "translation": "Community",
+                    "phonetic": "Shèqū"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m05_l09",
+            "title": "Furniture & Appliances",
+            "order": 9,
+            "vocabulary": [
+                {
+                    "word": "书架",
+                    "translation": "Bookshelf",
+                    "phonetic": "Shūjià"
+                },
+                {
+                    "word": "衣柜",
+                    "translation": "Wardrobe",
+                    "phonetic": "Yīguì"
+                },
+                {
+                    "word": "抽屉",
+                    "translation": "Drawer",
+                    "phonetic": "Chōuti"
+                },
+                {
+                    "word": "地毯",
+                    "translation": "Carpet",
+                    "phonetic": "Dìtǎn"
+                },
+                {
+                    "word": "窗帘",
+                    "translation": "Curtain",
+                    "phonetic": "Chuānglián"
+                },
+                {
+                    "word": "枕头",
+                    "translation": "Pillow",
+                    "phonetic": "Zhěntou"
+                },
+                {
+                    "word": "被子",
+                    "translation": "Blanket/Quilt",
+                    "phonetic": "Bèizi"
+                },
+                {
+                    "word": "毛巾",
+                    "translation": "Towel",
+                    "phonetic": "Máojīn"
+                },
+                {
+                    "word": "牙刷",
+                    "translation": "Toothbrush",
+                    "phonetic": "Yáshuā"
+                },
+                {
+                    "word": "肥皂",
+                    "translation": "Soap",
+                    "phonetic": "Féizào"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_a1_m05_l10",
+            "title": "Polite Expressions & Closing",
+            "order": 10,
+            "vocabulary": [
+                {
+                    "word": "帮助",
+                    "translation": "To help",
+                    "phonetic": "Bāngzhù"
+                },
+                {
+                    "word": "客气",
+                    "translation": "Polite",
+                    "phonetic": "Kèqi"
+                },
+                {
+                    "word": "好",
+                    "translation": "Good",
+                    "phonetic": "Hǎo"
+                },
+                {
+                    "word": "欢迎",
+                    "translation": "Welcome",
+                    "phonetic": "Huānyíng"
+                },
+                {
+                    "word": "耳朵",
+                    "translation": "Ear",
+                    "phonetic": "Ěrduo",
+                    "liarGame": true,
+                    "explanation": "The character 便 is a polyphone. In 方便 (fāngbiàn - convenient) it is 'biàn', but in 便宜 (piányi - cheap) it must be 'pián'."
+                },
+                {
+                    "word": "鼻子",
+                    "translation": "Nose",
+                    "phonetic": "Bízi",
+                    "liarGame": true,
+                    "explanation": "东 (dōng) is East, 西 (xī) is West. But together '东西' (dōngxi) means 'stuff' or 'things'."
+                },
+                {
+                    "word": "嘴巴",
+                    "translation": "Mouth",
+                    "phonetic": "Zuǐba",
+                    "liarGame": true,
+                    "explanation": "卖 (mài) means 'to sell'. It looks like 买 (mǎi) but has a 'cross' on top!"
+                },
+                {
+                    "word": "牙齿",
+                    "translation": "Tooth",
+                    "phonetic": "Yáchǐ"
+                },
+                {
+                    "word": "大米",
+                    "translation": "Raw rice",
+                    "phonetic": "Dàmǐ"
+                },
+                {
+                    "word": "面粉",
+                    "translation": "Flour",
+                    "phonetic": "Miànfěn"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Shopping Vocabulary",
+        "question": "What is the difference between 买 (mǎi) and 卖 (mài)?",
+        "options": [
+            "One is to buy, one is to sell",
+            "One is to go, one is to come",
+            "One is big, one is small",
+            "They are the same"
+        ],
+        "correct_answer_index": 0,
+        "explanation": "买 (mǎi) with the 3rd tone is 'to buy'. 卖 (mài) with the 4th tone is 'to sell'. Notice the extra symbol on top of 卖 – selling adds stuff to your counter!"
+    }
+}

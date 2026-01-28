@@ -1,0 +1,597 @@
+{
+    "module_id": "zh_b1_m08",
+    "language": "chinese",
+    "level": "b1",
+    "theme": "History & Culture",
+    "order": 8,
+    "lessons": [
+        {
+            "lesson_id": "zh_b1_m08_l01",
+            "title": "Ancient Dynasties",
+            "order": 1,
+            "vocabulary": [
+                {
+                    "word": "朝代",
+                    "translation": "Dynasty",
+                    "phonetic": "Cháodài"
+                },
+                {
+                    "word": "迁都",
+                    "translation": "Move the capital",
+                    "phonetic": "Qiāndū"
+                },
+                {
+                    "word": "鼎盛",
+                    "translation": "Peak / Period of prosperity",
+                    "phonetic": "Dǐngshèng"
+                },
+                {
+                    "word": "覆灭",
+                    "translation": "Overthrow / Destruction",
+                    "phonetic": "Fùmiè"
+                },
+                {
+                    "word": "史册",
+                    "translation": "Annals of history",
+                    "phonetic": "Shǐcè"
+                },
+                {
+                    "word": "祭礼",
+                    "translation": "Sacrificial ceremony / Ritual",
+                    "phonetic": "Jìlǐ"
+                },
+                {
+                    "word": "封建",
+                    "translation": "Feudal",
+                    "phonetic": "Fēngjiàn"
+                },
+                {
+                    "word": "起义",
+                    "translation": "Uprising / Revolt",
+                    "phonetic": "Qǐyì"
+                },
+                {
+                    "word": "格局",
+                    "translation": "Structure / Pattern (historical)",
+                    "phonetic": "Géjú"
+                },
+                {
+                    "word": "蜕变",
+                    "translation": "Metamorphosis / Transformation",
+                    "phonetic": "Tuìbiàn"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_b1_m08_l02",
+            "title": "Historical Figures",
+            "order": 2,
+            "vocabulary": [
+                {
+                    "word": "枭雄",
+                    "translation": "Hero of a reckless character",
+                    "phonetic": "Xiāoxióng"
+                },
+                {
+                    "word": "忠臣",
+                    "translation": "Loyal official",
+                    "phonetic": "Zhōngchén"
+                },
+                {
+                    "word": "谋士",
+                    "translation": "Strategist / Advisor",
+                    "phonetic": "Móushì"
+                },
+                {
+                    "word": "统帅",
+                    "translation": "Commander in chief",
+                    "phonetic": "Tǒngshuài"
+                },
+                {
+                    "word": "隐士",
+                    "translation": "Hermit / Recluse",
+                    "phonetic": "Yǐnshì"
+                },
+                {
+                    "word": "名流",
+                    "translation": "Celebrity / Distinguished person",
+                    "phonetic": "Míngliú"
+                },
+                {
+                    "word": "使节",
+                    "translation": "Envoy / Diplomatic agent",
+                    "phonetic": "Shǐjié"
+                },
+                {
+                    "word": "仁政",
+                    "translation": "Benevolent government",
+                    "phonetic": "Rénzhèng"
+                },
+                {
+                    "word": "权术",
+                    "translation": "Political maneuvering",
+                    "phonetic": "Quánshù"
+                },
+                {
+                    "word": "风骨",
+                    "translation": "Character / Integrity",
+                    "phonetic": "Fēnggǔ"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_b1_m08_l03",
+            "title": "Traditions & Festivals",
+            "order": 3,
+            "vocabulary": [
+                {
+                    "word": "习俗",
+                    "translation": "Custom / Tradition",
+                    "phonetic": "Xísú"
+                },
+                {
+                    "word": "守岁",
+                    "translation": "Stay up late on New Year's Eve",
+                    "phonetic": "Shǒusuì"
+                },
+                {
+                    "word": "团圆",
+                    "translation": "Reunion",
+                    "phonetic": "Tuányuán"
+                },
+                {
+                    "word": "登高",
+                    "translation": "Ascend a height (Double Ninth)",
+                    "phonetic": "Dēnggāo"
+                },
+                {
+                    "word": "忌讳",
+                    "translation": "Taboo",
+                    "phonetic": "Jìhuì"
+                },
+                {
+                    "word": "礼节",
+                    "translation": "Etiquette",
+                    "phonetic": "Lǐjié"
+                },
+                {
+                    "word": "禳福",
+                    "translation": "Pray for blessings / Eliminate disaster",
+                    "phonetic": "Rángfú"
+                },
+                {
+                    "word": "禳灾",
+                    "translation": "Pray to avert disaster",
+                    "phonetic": "Rángzāi"
+                },
+                {
+                    "word": "饰灯",
+                    "translation": "Decorated lanterns",
+                    "phonetic": "Shìdēng"
+                },
+                {
+                    "word": "喜庆",
+                    "translation": "Joyous / Jubilant",
+                    "phonetic": "Xǐqìng"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_b1_m08_l04",
+            "title": "Cultural Relics",
+            "order": 4,
+            "vocabulary": [
+                {
+                    "word": "文物",
+                    "translation": "Cultural relic",
+                    "phonetic": "Wénwù"
+                },
+                {
+                    "word": "考古",
+                    "translation": "Archaeology",
+                    "phonetic": "Kǎogǔ"
+                },
+                {
+                    "word": "发掘",
+                    "translation": "Excavate / Discover",
+                    "phonetic": "Fājué"
+                },
+                {
+                    "word": "瑰宝",
+                    "translation": "Gem / Treasure",
+                    "phonetic": "Guībǎo"
+                },
+                {
+                    "word": "故址",
+                    "translation": "Former site / Ruins",
+                    "phonetic": "Gùzhǐ"
+                },
+                {
+                    "word": "典籍",
+                    "translation": "Classics / Ancient books",
+                    "phonetic": "Diǎnjí"
+                },
+                {
+                    "word": "真迹",
+                    "translation": "Authentic work",
+                    "phonetic": "Zhēnjì"
+                },
+                {
+                    "word": "拓片",
+                    "translation": "Rubbing (from stone/bronze)",
+                    "phonetic": "Tàpiàn"
+                },
+                {
+                    "word": "赝品",
+                    "translation": "Fake / Counterfeit art",
+                    "phonetic": "Yànpǐn"
+                },
+                {
+                    "word": "整修",
+                    "translation": "Repair / Renovate",
+                    "phonetic": "Zhěngxiū"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_b1_m08_l05",
+            "title": "Philosophy & Thought",
+            "order": 5,
+            "vocabulary": [
+                {
+                    "word": "儒家",
+                    "translation": "Confucianism",
+                    "phonetic": "Rújiā"
+                },
+                {
+                    "word": "道家",
+                    "translation": "Taoism",
+                    "phonetic": "Dàojiā"
+                },
+                {
+                    "word": "法家",
+                    "translation": "Legalism",
+                    "phonetic": "Fǎjiā"
+                },
+                {
+                    "word": "经传",
+                    "translation": "Classics and commentaries",
+                    "phonetic": "Jīngzhuàn"
+                },
+                {
+                    "word": "教诲",
+                    "translation": "Teachings / Instruction",
+                    "phonetic": "Jiàohuì"
+                },
+                {
+                    "word": "悟道",
+                    "translation": "Attain enlightenment",
+                    "phonetic": "Wùdào"
+                },
+                {
+                    "word": "轮回",
+                    "translation": "Reincarnation",
+                    "phonetic": "Lúnhuí"
+                },
+                {
+                    "word": "天人合一",
+                    "translation": "Unity of heaven and man",
+                    "phonetic": "Tiānrén héyī"
+                },
+                {
+                    "word": "因果",
+                    "translation": "Cause and effect",
+                    "phonetic": "Yīnguǒ"
+                },
+                {
+                    "word": "禅定",
+                    "translation": "Meditation",
+                    "phonetic": "Chándìng"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_b1_m08_l06",
+            "title": "Folk Arts",
+            "order": 6,
+            "vocabulary": [
+                {
+                    "word": "戏曲",
+                    "translation": "Opera (Chinese)",
+                    "phonetic": "Xìqǔ"
+                },
+                {
+                    "word": "唱腔",
+                    "translation": "Singing style",
+                    "phonetic": "Chàngqiāng"
+                },
+                {
+                    "word": "脸谱",
+                    "translation": "Type of facial makeup",
+                    "phonetic": "Liǎnpǔ"
+                },
+                {
+                    "word": "杂技",
+                    "translation": "Acrobatics",
+                    "phonetic": "Zájì"
+                },
+                {
+                    "word": "皮影",
+                    "translation": "Shadow puppetry",
+                    "phonetic": "Píyǐng"
+                },
+                {
+                    "word": "年画",
+                    "translation": "New Year picture",
+                    "phonetic": "Niánhuà"
+                },
+                {
+                    "word": "楮剪",
+                    "translation": "Paper cutting art",
+                    "phonetic": "Chǔjiǎn"
+                },
+                {
+                    "word": "编钟",
+                    "translation": "Chime bells",
+                    "phonetic": "Biānzhōng"
+                },
+                {
+                    "word": "非遗",
+                    "translation": "Intangible cultural heritage",
+                    "phonetic": "Fēiyí"
+                },
+                {
+                    "word": "意蕴",
+                    "translation": "Implied meaning / Charm",
+                    "phonetic": "Yìyùn"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_b1_m08_l07",
+            "title": "Language & Scripts",
+            "order": 7,
+            "vocabulary": [
+                {
+                    "word": "殊言",
+                    "translation": "Different dialects / Speech",
+                    "phonetic": "Shūyán"
+                },
+                {
+                    "word": "词源",
+                    "translation": "Etymology",
+                    "phonetic": "Cíyuán"
+                },
+                {
+                    "word": "典故",
+                    "translation": "Allusion / Idiomatic reference",
+                    "phonetic": "Diǎngù"
+                },
+                {
+                    "word": "雅言",
+                    "translation": "Refined language",
+                    "phonetic": "Yǎyán"
+                },
+                {
+                    "word": "韵脚",
+                    "translation": "Rhyme",
+                    "phonetic": "Yùnjiǎo"
+                },
+                {
+                    "word": "解构",
+                    "translation": "Deconstruct",
+                    "phonetic": "Jiěgòu"
+                },
+                {
+                    "word": "笔顺",
+                    "translation": "Stroke order",
+                    "phonetic": "Bǐshùn"
+                },
+                {
+                    "word": "草书",
+                    "translation": "Cursive script",
+                    "phonetic": "Cǎoshū"
+                },
+                {
+                    "word": "楷体",
+                    "translation": "Regular script",
+                    "phonetic": "Kǎitǐ"
+                },
+                {
+                    "word": "隶书",
+                    "translation": "Clerical script",
+                    "phonetic": "Lìshū"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_b1_m08_l08",
+            "title": "Modern Cultural Shifts",
+            "order": 8,
+            "vocabulary": [
+                {
+                    "word": "碰撞",
+                    "translation": "Collision / Encounter",
+                    "phonetic": "Pèngzhuàng"
+                },
+                {
+                    "word": "汇通",
+                    "translation": "Converge / Integrate",
+                    "phonetic": "Huìtōng"
+                },
+                {
+                    "word": "更张",
+                    "translation": "Change / Innovation",
+                    "phonetic": "Gēngzhāng"
+                },
+                {
+                    "word": "统合",
+                    "translation": "Incorporate / Sum up",
+                    "phonetic": "Tǒnghé"
+                },
+                {
+                    "word": "浪潮",
+                    "translation": "Wave / Trend",
+                    "phonetic": "Làngcháo"
+                },
+                {
+                    "word": "溯源",
+                    "translation": "Trace to source / Return",
+                    "phonetic": "Sùyuán"
+                },
+                {
+                    "word": "复兴",
+                    "translation": "Renaissance / Revival",
+                    "phonetic": "Fùxīng"
+                },
+                {
+                    "word": "载体",
+                    "translation": "Carrier / Vehicle",
+                    "phonetic": "Zàitǐ"
+                },
+                {
+                    "word": "内涵",
+                    "translation": "Connotation",
+                    "phonetic": "Nèihán"
+                },
+                {
+                    "word": "符号",
+                    "translation": "Symbol / Emblem",
+                    "phonetic": "Fúhào"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_b1_m08_l09",
+            "title": "Societal Values",
+            "order": 9,
+            "vocabulary": [
+                {
+                    "word": "孝养",
+                    "translation": "Filial support",
+                    "phonetic": "Xiàoyǎng"
+                },
+                {
+                    "word": "信义",
+                    "translation": "Faith and righteousness",
+                    "phonetic": "Xìnyì"
+                },
+                {
+                    "word": "中庸",
+                    "translation": "Golden mean",
+                    "phonetic": "Zhōngyōng"
+                },
+                {
+                    "word": "礼典",
+                    "translation": "Rites and etiquette",
+                    "phonetic": "Lǐdiǎn"
+                },
+                {
+                    "word": "情操",
+                    "translation": "Sentiments / Moral character",
+                    "phonetic": "Qíngcāo"
+                },
+                {
+                    "word": "际会",
+                    "translation": "Encounter / Occasion",
+                    "phonetic": "Jìhuì"
+                },
+                {
+                    "word": "德操",
+                    "translation": "Moral conduct",
+                    "phonetic": "Décāo"
+                },
+                {
+                    "word": "志向",
+                    "translation": "Ambition / Aspiration",
+                    "phonetic": "Zhìxiàng"
+                },
+                {
+                    "word": "胸怀",
+                    "translation": "Mind / Breadth of spirit",
+                    "phonetic": "Xiōnghuái"
+                },
+                {
+                    "word": "淬炼",
+                    "translation": "Temper / Refine",
+                    "phonetic": "Cuìliàn"
+                }
+            ]
+        },
+        {
+            "lesson_id": "zh_b1_m08_l10",
+            "title": "Cultural Traps",
+            "order": 10,
+            "vocabulary": [
+                {
+                    "word": "习能",
+                    "translation": "Habitual skill / Learned ability",
+                    "phonetic": "Xínéng",
+                    "liarGame": true,
+                    "explanation": "Xínéng (习能) refers to a learned skill. Don't confuse it with 性能 (Xìngnéng) which means machine performance. You have skills, your phone has performance!"
+                },
+                {
+                    "word": "祭礼",
+                    "translation": "Sacrifice ceremony",
+                    "phonetic": "Jìlǐ",
+                    "liarGame": true,
+                    "explanation": "Jìlǐ (祭礼) is or offering to ancestors. Watch out for 这里的 (Zhèlǐ de) which means 'here'. Offering a sacrifice is different from just pointing here!"
+                },
+                {
+                    "word": "章句",
+                    "translation": "Sentences and lines / Idiom reference",
+                    "phonetic": "Zhāngjù",
+                    "liarGame": true,
+                    "explanation": "Zhāngjù (章句) refers to textual analysis. Don't confuse it with 掌柜 (Zhǎngguì) which means 'shopkeeper'! Analyzing text is different from managing a shop!"
+                },
+                {
+                    "word": "承启",
+                    "translation": "Continuity / Inherit and start",
+                    "phonetic": "Chéngqǐ"
+                },
+                {
+                    "word": "积淀",
+                    "translation": "Accumulation / Sediments",
+                    "phonetic": "Jīdiàn"
+                },
+                {
+                    "word": "凝练",
+                    "translation": "Concise / Condensed",
+                    "phonetic": "Níngliàn"
+                },
+                {
+                    "word": "菁华",
+                    "translation": "Essence / Finest part",
+                    "phonetic": "Jīnghuá"
+                },
+                {
+                    "word": "渊深",
+                    "translation": "Profound and deep",
+                    "phonetic": "Yuānshēn"
+                },
+                {
+                    "word": "枢纽",
+                    "translation": "Hub / Source",
+                    "phonetic": "Shūniǔ"
+                },
+                {
+                    "word": "底蕴",
+                    "translation": "Background / Deep-seated",
+                    "phonetic": "Dǐyùn"
+                }
+            ]
+        }
+    ],
+    "liar_game_data": {
+        "topic": "Fishy Philology",
+        "question": "If you are studying 'Zhāngjù' (章句), are you analyzing ancient texts or talking to a 'Zhǎngguì' (掌柜) shopkeeper?",
+        "options": [
+            "Analyzing ancient texts",
+            "Talking to a shopkeeper",
+            "Buying groceries",
+            "Repairing a door"
+        ],
+        "correct_answer_index": 0,
+        "explanation": "章句 (Zhāngjù) means textual analysis. 掌柜 (Zhǎngguì) means shopkeeper. One is for scholars, the other for shoppers!"
+    }
+}
